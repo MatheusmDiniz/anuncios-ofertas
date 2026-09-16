@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19559227",
+    "titulo": "Alicate Cuticula Profissional Classic 522 Mundial S A Prateado",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926003-MLA114474208884_082026-F.jpg",
+    "preco": 17,
+    "preco_anterior": 29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/14sycM5",
+    "atualizado_em": "2026-09-16T17:08:25.151-03:00"
+  },
+  {
     "id": "shopee:569114904.22995516214",
     "titulo": "4/12/20 Peças Quadrado/Rotundidade Protetor De Quina Silicone Mesa Segurança Para Crianças E Bebes Proteção Promoção",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mmehrc88zmdc38",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KK85gv",
     "atualizado_em": "2026-09-15T17:13:04.961-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342490",
-    "titulo": "Nivea Sabonete Em Barra Pure Milk Sensitive Promo 6 Uni 90g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869664-MLA99925323751_112025-F.jpg",
-    "preco": 27.02,
-    "preco_anterior": 46.62,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BC5vSW",
-    "atualizado_em": "2026-09-15T17:07:54.651-03:00"
   }
 ]
