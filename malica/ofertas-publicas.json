@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:728451683.23991805523",
+    "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
+    "preco": 35,
+    "preco_anterior": 64.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/20vRt6FMvf",
+    "atualizado_em": "2026-09-16T16:52:47.124-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342378",
     "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
@@ -1560,16 +1570,6 @@
     "atualizado_em": "2026-09-15T17:23:21.441-03:00"
   },
   {
-    "id": "shopee:728451683.23991805523",
-    "titulo": "KIT COM 3 MACACÕES BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
-    "preco": 35,
-    "preco_anterior": 64.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20vRt6FMvf",
-    "atualizado_em": "2026-09-15T17:18:12.085-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB18406931",
     "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
@@ -1588,15 +1588,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2BC5vSW",
     "atualizado_em": "2026-09-15T17:07:54.651-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26282641",
-    "titulo": "Patinhos Coloridos Brinquedo De Banho Bebê Buba 6 Peças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_603237-MLA112192157709_052026-F.jpg",
-    "preco": 19.87,
-    "preco_anterior": 28.5,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26R17Kt",
-    "atualizado_em": "2026-09-15T16:52:12.612-03:00"
   }
 ]
