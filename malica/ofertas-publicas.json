@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215261",
+    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
+    "preco": 110.58,
+    "preco_anterior": 114,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1GSGyQy",
+    "atualizado_em": "2026-09-16T17:49:30.791-03:00"
+  },
+  {
     "id": "shopee:1472462269.58259359702",
     "titulo": "Tenda infantil: casa dos sonhos, infância feliz",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mndekygqd1q96d",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AUu00iIXgv",
     "atualizado_em": "2026-09-15T17:54:07.788-03:00"
-  },
-  {
-    "id": "shopee:1042066189.43481645729",
-    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
-    "preco": 29.48,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYIHiE6Fh",
-    "atualizado_em": "2026-09-15T17:49:01.467-03:00"
   }
 ]
