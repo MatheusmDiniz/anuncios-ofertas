@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1472462269.58259359702",
+    "titulo": "Tenda infantil: casa dos sonhos, infância feliz",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mndekygqd1q96d",
+    "preco": 60.25,
+    "preco_anterior": 87.32,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/60RcuiXaOB",
+    "atualizado_em": "2026-09-16T17:44:20.518-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18406931",
     "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYIHiE6Fh",
     "atualizado_em": "2026-09-15T17:49:01.467-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876060",
-    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby 200ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851803-MLA109484201294_042026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 26.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1PTC89z",
-    "atualizado_em": "2026-09-15T17:43:55.608-03:00"
   }
 ]
