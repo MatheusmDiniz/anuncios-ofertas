@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22953629",
+    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
+    "preco": 279.9,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yKShtn",
+    "atualizado_em": "2026-09-16T18:20:17.526-03:00"
+  },
+  {
     "id": "shopee:1167191968.41628916751",
     "titulo": "Vestido Infantil Luxo Premium Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20vU9MmoV1",
     "atualizado_em": "2026-09-15T18:25:01.484-03:00"
-  },
-  {
-    "id": "shopee:1561199177.23194346671",
-    "titulo": "Carrinho Completo 3 EM 1 Com Moisés e Bebe Conforto",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h6-me62ptlej9c1f9",
-    "preco": 1049.88,
-    "preco_anterior": 2019,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gIdkkJHkw",
-    "atualizado_em": "2026-09-15T18:19:56.114-03:00"
   }
 ]
