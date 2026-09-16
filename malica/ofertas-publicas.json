@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342378",
+    "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
+    "preco": 20.67,
+    "preco_anterior": 28.29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1DB9JYB",
+    "atualizado_em": "2026-09-16T16:47:38.248-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1310,16 +1320,6 @@
     "atualizado_em": "2026-09-15T19:31:51.324-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB18342378",
-    "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
-    "preco": 20.67,
-    "preco_anterior": 28.29,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1DB9JYB",
-    "atualizado_em": "2026-09-15T19:26:47.124-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB26504827",
     "titulo": "Totokinha Totoka Sport Carrinho Andador Brinquedo Educativo Formas Geométricas Passeio Cardoso Toys",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_891342-MLA111243159677_052026-F.jpg",
@@ -1598,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26R17Kt",
     "atualizado_em": "2026-09-15T16:52:12.612-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16195428",
-    "titulo": "Mustela Musti Perfume Bebê 50 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933153-MLA99894006019_112025-F.jpg",
-    "preco": 88.99,
-    "preco_anterior": 183.07,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Dmn5cF",
-    "atualizado_em": "2026-09-15T16:46:57.460-03:00"
   }
 ]
