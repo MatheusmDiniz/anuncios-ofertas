@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24696459",
+    "titulo": "Pinico Mictorio Menino Sapo Sapinho Infantil Mais Resistente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628884-MLA105469096781_012026-F.jpg",
+    "preco": 21.9,
+    "preco_anterior": 39.89,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/22NHRW9",
+    "atualizado_em": "2026-09-16T17:59:48.942-03:00"
+  },
+  {
     "id": "shopee:690480779.58264030163",
     "titulo": "Blusa Suéter Infantil Juvenil Menino em Tricô Liso Malha Leve Manga Longa Elegante 4 a 14 Anos",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mqhoikfty9z59e",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1nLmEEc",
     "atualizado_em": "2026-09-15T18:04:27.749-03:00"
-  },
-  {
-    "id": "shopee:391751753.58210250288",
-    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
-    "preco": 30,
-    "preco_anterior": 69.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/112uhGJAxZ",
-    "atualizado_em": "2026-09-15T17:59:15.638-03:00"
   }
 ]
