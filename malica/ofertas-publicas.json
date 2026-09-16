@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 36.05,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-09-16T18:56:22.768-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875637",
     "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V1SosMLip",
     "atualizado_em": "2026-09-15T19:00:54.629-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875996",
-    "titulo": "Sabonete Líquido Baruel Baby Glicerina Neutro 210ml A-R",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835837-MLA105345918437_012026-F.jpg",
-    "preco": 16.09,
-    "preco_anterior": 20.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kH8NKX",
-    "atualizado_em": "2026-09-15T18:55:48.923-03:00"
   }
 ]
