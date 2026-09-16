@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1207318462.18098113310",
+    "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
+    "preco": 34.75,
+    "preco_anterior": 59.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1ANVQMyzL",
+    "atualizado_em": "2026-09-16T19:52:54.500-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342439",
     "titulo": "Sabonete Em Barra Odor De Rosas 90g Phebo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_618747-MLA99932085853_112025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnDu1vFK8",
     "atualizado_em": "2026-09-15T19:57:15.780-03:00"
-  },
-  {
-    "id": "shopee:396723953.40026562019",
-    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
-    "preco": 58.89,
-    "preco_anterior": 99.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AKaZoPje1V",
-    "atualizado_em": "2026-09-15T19:52:11.346-03:00"
   }
 ]
