@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775077",
+    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
+    "preco": 14.49,
+    "preco_anterior": 25.46,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Kh8yRD",
+    "atualizado_em": "2026-09-16T18:40:58.805-03:00"
+  },
+  {
     "id": "shopee:1042066189.43481645729",
     "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1BMKtYs4dF",
     "atualizado_em": "2026-09-15T18:45:29.553-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406873",
-    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
-    "preco": 21.59,
-    "preco_anterior": 31.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nh1NJn",
-    "atualizado_em": "2026-09-15T18:40:23.557-03:00"
   }
 ]
