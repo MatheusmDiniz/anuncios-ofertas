@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:291174073.21297732100",
+    "titulo": "Kit 8pçs Talheres de Silicone p/ Bebê c/ Ventosa, Colher, Garfo, Canudo e Babador Infantil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyw-lyy3asttten617",
+    "preco": 34.99,
+    "preco_anterior": 99.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2gBCVpLmhu",
+    "atualizado_em": "2026-09-16T19:01:27.166-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24208936",
     "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1ANVQMyzL",
     "atualizado_em": "2026-09-15T19:06:01.091-03:00"
-  },
-  {
-    "id": "shopee:1146454576.58215376863",
-    "titulo": "Conjunto Body Bebe Menina com Calca Tiara e Sapatinho do Tema Ovelhinha",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-mrbx59ga6j2d42",
-    "preco": 38.26,
-    "preco_anterior": 55.45,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V1SosMLip",
-    "atualizado_em": "2026-09-15T19:00:54.629-03:00"
   }
 ]
