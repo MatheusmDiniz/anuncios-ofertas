@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16195428",
+    "titulo": "Mustela Musti Perfume Bebê 50 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933153-MLA99894006019_112025-F.jpg",
+    "preco": 88.99,
+    "preco_anterior": 201.7,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Dmn5cF",
+    "atualizado_em": "2026-09-16T18:10:02.888-03:00"
+  },
+  {
     "id": "shopee:1360752092.22398663565",
     "titulo": "Bomba Amamentacao tira-leite elétrica Sem dor Alta potencia de sucção integrada Silenciosa Portátil",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratk-mb4eca4ny91t2e",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gIdkkJHkw",
     "atualizado_em": "2026-09-15T18:19:56.114-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397534",
-    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
-    "preco": 69.8,
-    "preco_anterior": 119.78,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1CpUWR7",
-    "atualizado_em": "2026-09-15T18:09:46.078-03:00"
   }
 ]
