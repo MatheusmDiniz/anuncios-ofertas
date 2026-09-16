@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342439",
+    "titulo": "Sabonete Em Barra Odor De Rosas 90g Phebo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_618747-MLA99932085853_112025-F.jpg",
+    "preco": 5.09,
+    "preco_anterior": 9.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZR7cvD",
+    "atualizado_em": "2026-09-16T19:47:45.546-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876060",
     "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby 200ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_851803-MLA109484201294_042026-F.jpg",
