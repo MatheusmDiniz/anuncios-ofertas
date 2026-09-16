@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 36.05,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-09-16T14:48:05.795-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24647481",
     "titulo": "Bicicleta De Equilíbrio Zippy Toys Andador Infantil Bike Sem Pedal Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_890028-MLA96136074259_102025-F.jpg",
