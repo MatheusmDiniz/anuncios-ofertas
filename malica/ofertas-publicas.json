@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.20599551957",
+    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
+    "preco": 55.9,
+    "preco_anterior": 99.82,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80Cf27S3lO",
+    "atualizado_em": "2026-09-16T16:42:29.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18397453",
     "titulo": "Creme Preventivo de Assaduras Transparente Caixa Leve 120g Pague 80g Hipoglós",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_653883-MLA100097656125_122025-F.jpg",
@@ -1580,16 +1590,6 @@
     "atualizado_em": "2026-09-15T17:07:54.651-03:00"
   },
   {
-    "id": "shopee:341167297.20599551957",
-    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
-    "preco": 55.9,
-    "preco_anterior": 99.82,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/80Cf27S3lO",
-    "atualizado_em": "2026-09-15T17:02:34.406-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB26282641",
     "titulo": "Patinhos Coloridos Brinquedo De Banho Bebê Buba 6 Peças",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_603237-MLA112192157709_052026-F.jpg",
@@ -1608,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Dmn5cF",
     "atualizado_em": "2026-09-15T16:46:57.460-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19835052",
-    "titulo": "Toalha Umedecida Meu Bebê Ultra 1x50 Folhas",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677768-MLA99423570880_112025-F.jpg",
-    "preco": 12.99,
-    "preco_anterior": 22.96,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/21w4XE8",
-    "atualizado_em": "2026-09-15T16:41:47.995-03:00"
   }
 ]
