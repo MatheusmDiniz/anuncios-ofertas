@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397534",
+    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
+    "preco": 67.07,
+    "preco_anterior": 124.09,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1CpUWR7",
+    "atualizado_em": "2026-09-16T19:16:52.714-03:00"
+  },
+  {
     "id": "shopee:1544277082.22099545986",
     "titulo": "Brinquedo 2 em 1 Carro que Transforma em Dragão Robô Infantil Educativo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mpug70794dtsb1",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gBB1g6Lbq",
     "atualizado_em": "2026-09-15T19:31:51.324-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46531575",
-    "titulo": "Almofada De Banho Ursinho Cor Rosa Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906032-MLA99586876530_122025-F.jpg",
-    "preco": 74.95,
-    "preco_anterior": 78.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2FxbjCs",
-    "atualizado_em": "2026-09-15T19:16:19.180-03:00"
   }
 ]
