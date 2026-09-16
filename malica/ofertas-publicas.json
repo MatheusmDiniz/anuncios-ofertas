@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875637",
+    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 16.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2j8Abfk",
+    "atualizado_em": "2026-09-16T18:51:13.066-03:00"
+  },
+  {
     "id": "shopee:1017646777.21899901744",
     "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kH8NKX",
     "atualizado_em": "2026-09-15T18:55:48.923-03:00"
-  },
-  {
-    "id": "shopee:1687829254.22194788832",
-    "titulo": "Kit com 3 macacões bebês | 100% Algodão | RN ao G | | Macacão| Menina, Menino e Unissex",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mo01rwh4xiis16",
-    "preco": 79.8,
-    "preco_anterior": 221.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1BMKtZIXca",
-    "atualizado_em": "2026-09-15T18:50:35.840-03:00"
   }
 ]
