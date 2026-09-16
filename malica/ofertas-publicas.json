@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397453",
+    "titulo": "Creme Preventivo de Assaduras Transparente Caixa Leve 120g Pague 80g Hipoglós",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_653883-MLA100097656125_122025-F.jpg",
+    "preco": 53.29,
+    "preco_anterior": 89.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32ZXHCP",
+    "atualizado_em": "2026-09-16T16:37:23.249-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876062",
     "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
@@ -1578,16 +1588,6 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/80Cf27S3lO",
     "atualizado_em": "2026-09-15T17:02:34.406-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397453",
-    "titulo": "Creme Preventivo de Assaduras Transparente Caixa Leve 120g Pague 80g Hipoglós",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_653883-MLA100097656125_122025-F.jpg",
-    "preco": 53.29,
-    "preco_anterior": 89.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32ZXHCP",
-    "atualizado_em": "2026-09-15T16:57:28.197-03:00"
   },
   {
     "id": "mercadolivre:product:MLB26282641",
