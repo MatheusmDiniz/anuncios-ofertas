@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:800263385.22097923147",
+    "titulo": "Creme Anti-Estrias - Diga Adeus às Estrias! Previne Novas Estrias & Reforça a Elasticidade Da Pele",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmrrtbtgn37lec",
+    "preco": 38.9,
+    "preco_anterior": 121.56,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BTrRh6vcE",
+    "atualizado_em": "2026-09-16T17:23:52.356-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34506179",
     "titulo": "Dove Original Sabonete em Barra 90 g 6 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_616595-MLA99422627444_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2nW6yQs",
     "atualizado_em": "2026-09-15T17:28:31.709-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17775077",
-    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 13.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2GZPrDm",
-    "atualizado_em": "2026-09-15T17:23:21.441-03:00"
   }
 ]
