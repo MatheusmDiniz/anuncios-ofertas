@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875637",
+    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 16.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2j8Abfk",
+    "atualizado_em": "2026-09-17T18:56:09.697-03:00"
+  },
+  {
     "id": "shopee:391751753.58210250288",
     "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
@@ -1538,15 +1548,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2q4b5HH",
     "atualizado_em": "2026-09-16T18:56:22.768-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875637",
-    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 16.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2j8Abfk",
-    "atualizado_em": "2026-09-16T18:51:13.066-03:00"
   }
 ]
