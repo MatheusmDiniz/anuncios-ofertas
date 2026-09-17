@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876062",
+    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
+    "preco": 10.99,
+    "preco_anterior": 14.85,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mv74Yq",
+    "atualizado_em": "2026-09-17T18:30:38.204-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17457292",
     "titulo": "Pano Umedecido Álcool 70° Refil Com 35 Unidades Coperalcool",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_877620-MLA99934081237_112025-F.jpg",
