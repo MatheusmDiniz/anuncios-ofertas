@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19543081",
+    "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
+    "preco": 14,
+    "preco_anterior": 27.19,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2grLWyY",
+    "atualizado_em": "2026-09-17T17:54:44.783-03:00"
+  },
+  {
     "id": "shopee:1687829254.22194788832",
     "titulo": "Kit com 3 macacões bebês | 100% Algodão | RN ao G | | Macacão| Menina, Menino e Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mo01rwh4xiis16",
@@ -1470,16 +1480,6 @@
     "atualizado_em": "2026-09-16T18:40:58.805-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB19543081",
-    "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
-    "preco": 14,
-    "preco_anterior": 27.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2grLWyY",
-    "atualizado_em": "2026-09-16T18:30:37.961-03:00"
-  },
-  {
     "id": "shopee:1167191968.41628916751",
     "titulo": "Vestido Infantil Luxo Premium Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
@@ -1508,15 +1508,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30o2uRKW1w",
     "atualizado_em": "2026-09-16T18:04:54.881-03:00"
-  },
-  {
-    "id": "shopee:690480779.58264030163",
-    "titulo": "Blusa Suéter Infantil Juvenil Menino em Tricô Liso Malha Leve Manga Longa Elegante 4 a 14 Anos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mqhoikfty9z59e",
-    "preco": 42.99,
-    "preco_anterior": 84.29,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fKwqgUo2J",
-    "atualizado_em": "2026-09-16T17:54:37.913-03:00"
   }
 ]
