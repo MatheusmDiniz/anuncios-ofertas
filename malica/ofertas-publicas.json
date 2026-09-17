@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28643543",
+    "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
+    "preco": 36.74,
+    "preco_anterior": 53.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1vpPWWV",
+    "atualizado_em": "2026-09-17T16:58:04.216-03:00"
+  },
+  {
     "id": "shopee:1017646777.21899901744",
     "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
@@ -1548,15 +1558,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5fonzmr04o",
     "atualizado_em": "2026-09-16T17:03:02.517-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342188",
-    "titulo": "Sabonete Em Barra Dove Original 90 G 8 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_610720-MLA109540315790_042026-F.jpg",
-    "preco": 34.92,
-    "preco_anterior": 36,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1hBHYzZ",
-    "atualizado_em": "2026-09-16T16:57:56.498-03:00"
   }
 ]
