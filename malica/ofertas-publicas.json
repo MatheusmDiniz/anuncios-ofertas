@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23480808",
+    "titulo": "Laptop Infantil Educativo Spider Man Candide",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
+    "preco": 57.99,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZSvfs3",
+    "atualizado_em": "2026-09-17T10:29:56.406-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24647481",
     "titulo": "Bicicleta De Equilíbrio Zippy Toys Andador Infantil Bike Sem Pedal Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_890028-MLA96136074259_102025-F.jpg",
@@ -1328,16 +1338,6 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XQuVVJ",
     "atualizado_em": "2026-09-16T12:45:37.694-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23480808",
-    "titulo": "Laptop Infantil Educativo Spider Man Candide",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
-    "preco": 57.99,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZSvfs3",
-    "atualizado_em": "2026-09-16T12:40:27.530-03:00"
   },
   {
     "id": "mercadolivre:product:MLB62061333",
