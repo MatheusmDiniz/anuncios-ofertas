@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397534",
+    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
+    "preco": 67.07,
+    "preco_anterior": 100.24,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Yvt5Vw",
+    "atualizado_em": "2026-09-17T16:42:48.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876098",
     "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
@@ -1308,16 +1318,6 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1WsxaQr",
     "atualizado_em": "2026-09-16T19:27:07.690-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397534",
-    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
-    "preco": 67.07,
-    "preco_anterior": 124.09,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1CpUWR7",
-    "atualizado_em": "2026-09-16T19:16:52.714-03:00"
   },
   {
     "id": "shopee:1544277082.22099545986",
