@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34078818",
+    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
+    "preco": 22,
+    "preco_anterior": 39.13,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Krfvgn",
+    "atualizado_em": "2026-09-17T09:23:05.561-03:00"
+  },
+  {
     "id": "shopee:315643622.21197619738",
     "titulo": "Travesseiro de corpo para Gestante Gravida 1,20x60 micropercal  200 fios Promoção",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqyr5zajv86zc3",
@@ -938,16 +948,6 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2hnXz7Z",
     "atualizado_em": "2026-09-16T15:31:26.380-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34078818",
-    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
-    "preco": 22,
-    "preco_anterior": 39.13,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Krfvgn",
-    "atualizado_em": "2026-09-16T15:26:17.488-03:00"
   },
   {
     "id": "shopee:341167297.20698276094",
