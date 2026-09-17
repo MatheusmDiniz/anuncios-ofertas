@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1207318462.18098113310",
+    "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
+    "preco": 40.55,
+    "preco_anterior": 69.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/112zTbeX82",
+    "atualizado_em": "2026-09-17T20:07:52.688-03:00"
+  },
+  {
     "id": "shopee:341167297.44506971957",
     "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qc4sRtF3U",
     "atualizado_em": "2026-09-16T20:18:56.935-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406873",
-    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
-    "preco": 21.59,
-    "preco_anterior": 31.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nh1NJn",
-    "atualizado_em": "2026-09-16T20:03:11.947-03:00"
   }
 ]
