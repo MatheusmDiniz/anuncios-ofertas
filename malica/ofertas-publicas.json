@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44196987",
+    "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
+    "preco": 25,
+    "preco_anterior": 45.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1VHwaBz",
+    "atualizado_em": "2026-09-17T09:43:39.140-03:00"
+  },
+  {
     "id": "shopee:499950777.22198012044",
     "titulo": "Tenis Infantil Menino Masculino Sapato Infantil Menino Tenis Infantil Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-msy1v6auq5frc1",
@@ -930,16 +940,6 @@
     "atualizado_em": "2026-09-16T15:57:18.701-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB44196987",
-    "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
-    "preco": 25,
-    "preco_anterior": 45.77,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1VHwaBz",
-    "atualizado_em": "2026-09-16T15:52:12.852-03:00"
-  },
-  {
     "id": "shopee:1502681481.21798317245",
     "titulo": "Bola De Labirinto Magnético Para Crianças Caneta De Corrida  Pensamento Lógico Treinamento De Concentração",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mp7pjc88sljaee",
@@ -1558,15 +1558,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1UjhmVW",
     "atualizado_em": "2026-09-16T09:44:42.386-03:00"
-  },
-  {
-    "id": "shopee:1356520947.54261653126",
-    "titulo": "Garrafa De Chupeta De Silicone Anti-Cólica Mamadeira Com Canudos Acessórios Essenciais Para Bebês Recém-Nascidos aopoimy",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823o8-mp1yr0tk4e188e",
-    "preco": 58.5,
-    "preco_anterior": 100.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qc4sbgCFd",
-    "atualizado_em": "2026-09-16T09:39:30.657-03:00"
   }
 ]
