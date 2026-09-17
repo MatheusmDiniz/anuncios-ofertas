@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:230709939.54611442359",
+    "titulo": "Brinquedo Super Macio e Lento de Apertar com Aroma de Manteiga, Presente de Natal para Alívio do Estresse",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134253-823pq-movih93bd4p8b4",
+    "preco": 10.43,
+    "preco_anterior": 17.38,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BTsU6u68K",
+    "atualizado_em": "2026-09-17T08:47:06.559-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39426115",
     "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B7SStJIcP",
     "atualizado_em": "2026-09-16T08:48:07.517-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17775080",
-    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
-    "preco": 11.78,
-    "preco_anterior": 18.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/317psw4",
-    "atualizado_em": "2026-09-16T08:43:01.806-03:00"
   }
 ]
