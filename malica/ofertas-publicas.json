@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342378",
+    "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
+    "preco": 20.67,
+    "preco_anterior": 28.29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1DB9JYB",
+    "atualizado_em": "2026-09-17T16:22:05.659-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24531140",
     "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
@@ -1520,16 +1530,6 @@
     "atualizado_em": "2026-09-16T16:52:47.124-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB18342378",
-    "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
-    "preco": 20.67,
-    "preco_anterior": 28.29,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1DB9JYB",
-    "atualizado_em": "2026-09-16T16:47:38.248-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB18397453",
     "titulo": "Creme Preventivo de Assaduras Transparente Caixa Leve 120g Pague 80g Hipoglós",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_653883-MLA100097656125_122025-F.jpg",
@@ -1558,25 +1558,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1LKq29J",
     "atualizado_em": "2026-09-16T16:30:05.950-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19642578",
-    "titulo": "Natura Mamae Bebe Agua De Colonia Sem Alcool 50ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_921701-MLA99833208789_112025-F.jpg",
-    "preco": 38.9,
-    "preco_anterior": 66.14,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1v9Vxzw",
-    "atualizado_em": "2026-09-16T16:19:46.711-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22517003",
-    "titulo": "Lenço Umedecido Huggies Higiene Diária Rendem 2x Mais 88 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_663083-MLA110467585125_042026-F.jpg",
-    "preco": 9.29,
-    "preco_anterior": 11.84,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1nLmEEc",
-    "atualizado_em": "2026-09-16T16:17:57.513-03:00"
   }
 ]
