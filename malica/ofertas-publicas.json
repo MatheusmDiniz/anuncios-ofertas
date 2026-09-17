@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25236528",
+    "titulo": "Patrulha Canina Helicóptero Skye 1389 - Sunny",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888311-MLA93092797412_092025-F.jpg",
+    "preco": 76.53,
+    "preco_anterior": 78.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2k5imDJ",
+    "atualizado_em": "2026-09-17T15:56:19.898-03:00"
+  },
+  {
     "id": "shopee:504754787.23793169776",
     "titulo": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e",
@@ -1138,16 +1148,6 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BTnhivsf9",
     "atualizado_em": "2026-09-16T20:13:46.527-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25236528",
-    "titulo": "Patrulha Canina Helicóptero Skye 1389 - Sunny",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888311-MLA93092797412_092025-F.jpg",
-    "preco": 76.53,
-    "preco_anterior": 179.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1DFkYo4",
-    "atualizado_em": "2026-09-16T20:08:24.314-03:00"
   },
   {
     "id": "mercadolivre:product:MLB18406873",
