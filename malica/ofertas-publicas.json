@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23414358",
+    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
+    "preco": 59.68,
+    "preco_anterior": 65.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1vyhpHT",
+    "atualizado_em": "2026-09-17T20:18:14.557-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18406931",
     "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
