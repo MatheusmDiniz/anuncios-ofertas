@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775080",
+    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
+    "preco": 11.78,
+    "preco_anterior": 18.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/317psw4",
+    "atualizado_em": "2026-09-17T11:16:15.905-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69561731",
     "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
@@ -1528,15 +1538,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fSLpLPWPS",
     "atualizado_em": "2026-09-16T11:17:37.041-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58214519187",
-    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3B7PHFAvYe",
-    "atualizado_em": "2026-09-16T11:12:29.648-03:00"
   }
 ]
