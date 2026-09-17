@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876092",
+    "titulo": "Sabonete Líquido De Glicerina 400ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
+    "preco": 23.99,
+    "preco_anterior": 41.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xXuLrP",
+    "atualizado_em": "2026-09-17T16:32:24.562-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39448662",
     "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_665934-MLA99476766924_112025-F.jpg",
@@ -1548,15 +1558,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32ZXHCP",
     "atualizado_em": "2026-09-16T16:37:23.249-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876062",
-    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 14.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mv74Yq",
-    "atualizado_em": "2026-09-16T16:31:56.453-03:00"
   }
 ]
