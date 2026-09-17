@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24689526",
+    "titulo": "Protetor De Tomada Anti Choque P/ Crianças Pacote Com 20 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684091-MLA100076543741_122025-F.jpg",
+    "preco": 11.36,
+    "preco_anterior": 24.18,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BjR1iD",
+    "atualizado_em": "2026-09-17T11:52:14.497-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28885783",
     "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
@@ -1398,16 +1408,6 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bcKcRJ",
     "atualizado_em": "2026-09-16T13:01:31.503-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24689526",
-    "titulo": "Protetor De Tomada Anti Choque P/ Crianças Pacote Com 20 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684091-MLA100076543741_122025-F.jpg",
-    "preco": 11.36,
-    "preco_anterior": 24.18,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BjR1iD",
-    "atualizado_em": "2026-09-16T12:56:03.816-03:00"
   },
   {
     "id": "mercadolivre:product:MLB34115521",
