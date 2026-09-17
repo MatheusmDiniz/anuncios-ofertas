@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20969462",
+    "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
+    "preco": 90.9,
+    "preco_anterior": 159.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32opZnB",
+    "atualizado_em": "2026-09-17T11:00:51.592-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47247005",
     "titulo": "Caranguejo Brinquedo Fujão Sensor Dança E Som Eletrônico Top",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835568-MLA100080033031_122025-F.jpg",
@@ -1330,16 +1340,6 @@
     "atualizado_em": "2026-09-16T13:11:53.169-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB20969462",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
-    "preco": 90.9,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32opZnB",
-    "atualizado_em": "2026-09-16T13:06:42.108-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB17489277",
     "titulo": "LEGO Classic - Maleta da Criatividade - 213 Peças - 10713",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
@@ -1538,15 +1538,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28TvvrA",
     "atualizado_em": "2026-09-16T11:02:11.255-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28885783",
-    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
-    "preco": 10.87,
-    "preco_anterior": 20.41,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2far6hn",
-    "atualizado_em": "2026-09-16T10:56:56.459-03:00"
   }
 ]
