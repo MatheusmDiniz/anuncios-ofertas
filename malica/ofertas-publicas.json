@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875756",
+    "titulo": "Sabonete Líquido De Glicerina Da Cabeça Aos Pés Com Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
+    "preco": 18.14,
+    "preco_anterior": 36.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1LKq29J",
+    "atualizado_em": "2026-09-17T18:10:06.745-03:00"
+  },
+  {
     "id": "shopee:1191044678.58257320426",
     "titulo": "Jaqueta Puffer Infantil Bobojaco Masculino Peluciada Capuz Removível Inverno Frio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mm20urron37q4d",
@@ -1508,15 +1518,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gIe0CNoFs",
     "atualizado_em": "2026-09-16T18:15:09.397-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16195428",
-    "titulo": "Mustela Musti Perfume Bebê 50 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933153-MLA99894006019_112025-F.jpg",
-    "preco": 88.99,
-    "preco_anterior": 201.7,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Dmn5cF",
-    "atualizado_em": "2026-09-16T18:10:02.888-03:00"
   }
 ]
