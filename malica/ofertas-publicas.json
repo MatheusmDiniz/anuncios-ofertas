@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1361476561.22493583538",
+    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
+    "preco": 36.9,
+    "preco_anterior": 87.86,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AUu4n3dlMT",
+    "atualizado_em": "2026-09-17T12:55:39.988-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875743",
     "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
@@ -1480,16 +1490,6 @@
     "atualizado_em": "2026-09-16T13:27:14.996-03:00"
   },
   {
-    "id": "shopee:1361476561.22493583538",
-    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
-    "preco": 36.9,
-    "preco_anterior": 87.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8KpVQjQn5Q",
-    "atualizado_em": "2026-09-16T13:22:05.675-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB18392841",
     "titulo": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_753827-MLA80015367155_102024-F.jpg",
@@ -1508,15 +1508,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bcKcRJ",
     "atualizado_em": "2026-09-16T13:01:31.503-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34115521",
-    "titulo": "Chocalho e Mordedor Minnie Mouse Rattle Rosa Disney Meninas Bebê Elka",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827862-MLA99358289636_112025-F.jpg",
-    "preco": 18.25,
-    "preco_anterior": 33.71,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1CfhZdx",
-    "atualizado_em": "2026-09-16T12:50:54.297-03:00"
   }
 ]
