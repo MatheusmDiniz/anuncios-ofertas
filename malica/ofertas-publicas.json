@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16091843",
+    "titulo": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665735-MLA100006870577_122025-F.jpg",
+    "preco": 169,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1DCnzZH",
+    "atualizado_em": "2026-09-17T09:33:23.630-03:00"
+  },
+  {
     "id": "shopee:1782683148.58261565925",
     "titulo": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mosh25xiujgg80",
@@ -1440,16 +1450,6 @@
     "atualizado_em": "2026-09-16T10:51:43.501-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB16091843",
-    "titulo": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665735-MLA100006870577_122025-F.jpg",
-    "preco": 169,
-    "preco_anterior": 250,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1DCnzZH",
-    "atualizado_em": "2026-09-16T10:46:33.278-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB29878854",
     "titulo": "Conjunto De Brinquedo Chelsea Piloto De Avião - Barbie",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_904544-MLA99533926800_122025-F.jpg",
@@ -1568,15 +1568,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1TBgULE",
     "atualizado_em": "2026-09-16T09:34:23.801-03:00"
-  },
-  {
-    "id": "shopee:548021269.58206037768",
-    "titulo": "Casaco infantil capuz orelhinha",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260l-mla8ze35vdokac",
-    "preco": 29.99,
-    "preco_anterior": 59.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9Ki5oHuHD3",
-    "atualizado_em": "2026-09-16T09:29:14.507-03:00"
   }
 ]
