@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35090823",
+    "titulo": "Fisher-price Tablet De Aprendizagem Cresce Comigo - Mattel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930205-MLA99502382540_112025-F.jpg",
+    "preco": 109.9,
+    "preco_anterior": 179.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2aC3q8p",
+    "atualizado_em": "2026-09-17T08:01:01.787-03:00"
+  },
+  {
     "id": "shopee:1698895168.58254892330",
     "titulo": "Mosquiteiro Para Berço Americano e Mini Berço Tule Tela Mosquiteira Cortinado Rede Protetora",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn94rclpiqkhd9",
@@ -878,16 +888,6 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13mp6c6",
     "atualizado_em": "2026-09-16T14:39:54.578-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35090823",
-    "titulo": "Fisher-price Tablet De Aprendizagem Cresce Comigo - Mattel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930205-MLA99502382540_112025-F.jpg",
-    "preco": 109.9,
-    "preco_anterior": 179.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2aC3q8p",
-    "atualizado_em": "2026-09-16T14:34:39.205-03:00"
   },
   {
     "id": "mercadolivre:product:MLB17457276",
