@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1590063220.58207147029",
+    "titulo": "Kit 2 Talco Para Bebe Com Amido De Milho 200g - Pom Pom",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlz39myktjife3",
+    "preco": 38.9,
+    "preco_anterior": 73.4,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/40gb39Ettc",
+    "atualizado_em": "2026-09-17T08:36:51.912-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44895132",
     "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/80CiDlade2",
     "atualizado_em": "2026-09-16T08:37:53.608-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19509698",
-    "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
-    "preco": 23.01,
-    "preco_anterior": 24.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Ktnopa",
-    "atualizado_em": "2026-09-16T08:32:47.877-03:00"
   }
 ]
