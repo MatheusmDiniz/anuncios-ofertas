@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17489277",
+    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bcKcRJ",
+    "atualizado_em": "2026-09-17T15:15:01.418-03:00"
+  },
+  {
     "id": "shopee:230709939.45109165673",
     "titulo": "Cubo Sensorial Needoh Para Alívio De Ansiedade , Ferramenta De Mesa Antiestresse Foco De Criança Adulta , Brinquedo Fidg",
     "imagem": "https://cf.shopee.com.br/file/sg-11134301-81zw6-mmu014u8lf606d",
@@ -1538,15 +1548,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2hnXz7Z",
     "atualizado_em": "2026-09-16T15:31:26.380-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875937",
-    "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
-    "preco": 24.14,
-    "preco_anterior": 34.49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12NvazT",
-    "atualizado_em": "2026-09-16T15:10:53.511-03:00"
   }
 ]
