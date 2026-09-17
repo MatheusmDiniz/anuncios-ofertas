@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28660083",
+    "titulo": "Mosquiteiro Universale Branco Bublim Incomfral Elástico Carrinho Mini Berço",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906796-MLA100096322935_122025-F.jpg",
+    "preco": 10.31,
+    "preco_anterior": 20.06,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EYrH38",
+    "atualizado_em": "2026-09-17T14:23:29.899-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1488,25 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bevmQk",
     "atualizado_em": "2026-09-16T14:29:29.359-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28660083",
-    "titulo": "Mosquiteiro Universale Branco Bublim Incomfral Elástico Carrinho Mini Berço",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906796-MLA100096322935_122025-F.jpg",
-    "preco": 10.31,
-    "preco_anterior": 20.06,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EYrH38",
-    "atualizado_em": "2026-09-16T14:24:17.853-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22761169",
-    "titulo": "Brinquedo Educativo Kendy Cubo Baby Com Blocos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963262-MLA100083108993_122025-F.jpg",
-    "preco": 11.33,
-    "preco_anterior": 21.49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1UjP16B",
-    "atualizado_em": "2026-09-16T14:19:08.757-03:00"
   }
 ]
