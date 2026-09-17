@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876098",
+    "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
+    "preco": 13.99,
+    "preco_anterior": 17.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2LCJPbM",
+    "atualizado_em": "2026-09-17T16:37:36.208-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876092",
     "titulo": "Sabonete Líquido De Glicerina 400ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
@@ -1548,15 +1558,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20vRt6FMvf",
     "atualizado_em": "2026-09-16T16:52:47.124-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397453",
-    "titulo": "Creme Preventivo de Assaduras Transparente Caixa Leve 120g Pague 80g Hipoglós",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_653883-MLA100097656125_122025-F.jpg",
-    "preco": 53.29,
-    "preco_anterior": 89.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32ZXHCP",
-    "atualizado_em": "2026-09-16T16:37:23.249-03:00"
   }
 ]
