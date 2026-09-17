@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27145476",
+    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 28,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mUFvwo",
+    "atualizado_em": "2026-09-17T13:00:48.794-03:00"
+  },
+  {
     "id": "shopee:1361476561.22493583538",
     "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
@@ -1348,16 +1358,6 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/12NvazT",
     "atualizado_em": "2026-09-16T15:10:53.511-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27145476",
-    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 27.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mUFvwo",
-    "atualizado_em": "2026-09-16T15:05:44.872-03:00"
   },
   {
     "id": "mercadolivre:product:MLB39448662",
