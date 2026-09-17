@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22918403",
+    "titulo": "Chupeta Soothie 0-3m Scf099/03 Philips Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703787-MLA99451951336_112025-F.jpg",
+    "preco": 39.97,
+    "preco_anterior": 68.61,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Psw939",
+    "atualizado_em": "2026-09-17T19:16:38.391-03:00"
+  },
+  {
     "id": "shopee:1866089478.58215667407",
     "titulo": "Toalha de Banho Bebê Toalha de Infantil Vestível Absorventede Secagem Rápida para Crianças Super Macia Sono Festa 120X60",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ai-mrj7ukn2fuv9a1",
@@ -1548,15 +1558,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1PTC89z",
     "atualizado_em": "2026-09-16T19:42:30.454-03:00"
-  },
-  {
-    "id": "shopee:1544277082.22099545986",
-    "titulo": "Brinquedo 2 em 1 Carro que Transforma em Dragão Robô Infantil Educativo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mpug70794dtsb1",
-    "preco": 45.9,
-    "preco_anterior": 99.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/qjYPH0NS0",
-    "atualizado_em": "2026-09-16T19:11:38.205-03:00"
   }
 ]
