@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1017646777.21899901744",
+    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
+    "preco": 134.98,
+    "preco_anterior": 198.5,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8AWA0lme67",
+    "atualizado_em": "2026-09-17T16:52:52.930-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18715372",
     "titulo": "Fralda Descartável Pom Pom Proteção de Mãe XG com 38 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_749805-MLA99439515898_112025-F.jpg",
@@ -1370,16 +1380,6 @@
     "atualizado_em": "2026-09-16T18:51:13.066-03:00"
   },
   {
-    "id": "shopee:1017646777.21899901744",
-    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
-    "preco": 134.98,
-    "preco_anterior": 198.5,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AUu00iIXgv",
-    "atualizado_em": "2026-09-16T18:46:04.296-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB17775077",
     "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
@@ -1558,15 +1558,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1hBHYzZ",
     "atualizado_em": "2026-09-16T16:57:56.498-03:00"
-  },
-  {
-    "id": "shopee:728451683.23991805523",
-    "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
-    "preco": 35,
-    "preco_anterior": 64.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20vRt6FMvf",
-    "atualizado_em": "2026-09-16T16:52:47.124-03:00"
   }
 ]
