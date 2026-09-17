@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21006188",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
+    "preco": 136.24,
+    "preco_anterior": 252.25,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1RwUN5W",
+    "atualizado_em": "2026-09-17T19:06:27.956-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28881714",
     "titulo": "Kit 12 Sabonete Em Barra Nutri Spa Amêndoas Johnson's 80g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_864105-MLA99936656487_112025-F.jpg",
