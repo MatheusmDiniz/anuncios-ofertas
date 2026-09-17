@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:761647073.58250442234",
+    "titulo": "Kit 24 Massinha de Modelar + 25 Moldes Cortador Festa Aniversário Kit Lembracinha",
+    "imagem": "https://cf.shopee.com.br/file/br-11134224-81z1k-mgo1nc280a9w87",
+    "preco": 14.99,
+    "preco_anterior": 23.06,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fop2DZ9yq",
+    "atualizado_em": "2026-09-17T10:19:38.137-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63710202",
     "titulo": "Absorventes para Seios Ultra Respiráveis Medela, 30 unids",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_810766-MLA103253081881_122025-F.jpg",
@@ -1538,15 +1548,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qjXpXxeEX",
     "atualizado_em": "2026-09-16T10:20:42.940-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21466956",
-    "titulo": "Colônia Johnson's Baby Lavanda 400ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819092-MLA96870761653_102025-F.jpg",
-    "preco": 33.99,
-    "preco_anterior": 60.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1AkQVCp",
-    "atualizado_em": "2026-09-16T10:15:38.141-03:00"
   }
 ]
