@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:400262096.23393553033",
+    "titulo": "Bolsa Térmica Infantil Com Design Divertido Bolsa Termica 916 YOBEL",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-mg896d4cq3gt3b",
+    "preco": 9.99,
+    "preco_anterior": 39.96,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6L4V7tBFcM",
+    "atualizado_em": "2026-09-16T21:56:56.270-03:00"
+  },
+  {
     "id": "shopee:1360717076.22793967394",
     "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9AOegXLWy0",
     "atualizado_em": "2026-09-15T21:57:55.865-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27637270",
-    "titulo": "Buba, Almofada De Atividades Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791180-MLA99934022017_112025-F.jpg",
-    "preco": 73.65,
-    "preco_anterior": 124.66,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2R8g2SH",
-    "atualizado_em": "2026-09-15T21:52:50.261-03:00"
   }
 ]
