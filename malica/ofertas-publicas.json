@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342439",
+    "titulo": "Sabonete Em Barra Odor De Rosas 90g Phebo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_618747-MLA99932085853_112025-F.jpg",
+    "preco": 4.79,
+    "preco_anterior": 9.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZR7cvD",
+    "atualizado_em": "2026-09-17T19:47:19.584-03:00"
+  },
+  {
     "id": "shopee:1668201561.22199693873",
     "titulo": "Pulseira de Segurança Infantil Retrátil Anti Perdido Ajustável com Trava para Crianças e Bebês 1,5m",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqyymla2g7id1d",
@@ -1588,25 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1ANVQMyzL",
     "atualizado_em": "2026-09-16T19:52:54.500-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342439",
-    "titulo": "Sabonete Em Barra Odor De Rosas 90g Phebo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_618747-MLA99932085853_112025-F.jpg",
-    "preco": 5.09,
-    "preco_anterior": 9.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZR7cvD",
-    "atualizado_em": "2026-09-16T19:47:45.546-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876060",
-    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby 200ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851803-MLA109484201294_042026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 26.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1PTC89z",
-    "atualizado_em": "2026-09-16T19:42:30.454-03:00"
   }
 ]
