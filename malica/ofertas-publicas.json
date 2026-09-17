@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23024522",
+    "titulo": "Brinquedo Educativo Cubo Mágico Grande Didático Infantil Encaixe 6 Faces Mercotoys",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949635-MLA107382075000_032026-F.jpg",
+    "preco": 63.71,
+    "preco_anterior": 151.02,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2xAR8oH",
+    "atualizado_em": "2026-09-17T12:28:05.075-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36217546",
     "titulo": "Boneca Barbie Professions, de cabelo loiro, dançarina de balé",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_993577-MLA96134750565_102025-F.jpg",
@@ -1498,15 +1508,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2jHC25Z",
     "atualizado_em": "2026-09-16T12:30:05.902-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27376047",
-    "titulo": "Mosquiteiro Para Carrinho E Bebê Conforto - Marca Buba Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620720-MLA114914803245_072026-F.jpg",
-    "preco": 15.38,
-    "preco_anterior": 27.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vjHHMz",
-    "atualizado_em": "2026-09-16T12:24:56.501-03:00"
   }
 ]
