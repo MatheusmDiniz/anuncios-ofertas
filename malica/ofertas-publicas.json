@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26816126",
+    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
+    "preco": 18.48,
+    "preco_anterior": 31.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dDis3R",
+    "atualizado_em": "2026-09-17T08:21:28.224-03:00"
+  },
+  {
     "id": "shopee:1341241314.54554614099",
     "titulo": "Lucky baby/kit body e calça bebê/ kit body bebê menina carters/conjunto body e calça bebê menina",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82625-mjfvx1we4sn514",
@@ -1140,16 +1150,6 @@
     "atualizado_em": "2026-09-16T12:40:27.530-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB26816126",
-    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
-    "preco": 18.48,
-    "preco_anterior": 31.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1dDis3R",
-    "atualizado_em": "2026-09-16T12:35:17.119-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB62061333",
     "titulo": "Kit Talheres De Treinamento Azul, Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_620341-MLA98092033781_112025-F.jpg",
@@ -1628,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1BJR8cr",
     "atualizado_em": "2026-09-16T08:22:34.144-03:00"
-  },
-  {
-    "id": "shopee:1361476561.19397991697",
-    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
-    "preco": 24.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9AOcQGNcOX",
-    "atualizado_em": "2026-09-16T08:17:26.579-03:00"
   }
 ]
