@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1361476561.19397991697",
+    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
+    "preco": 24.99,
+    "preco_anterior": 49.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9Ki7OuiCjC",
+    "atualizado_em": "2026-09-17T08:26:34.292-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26816126",
     "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5fomgM23SU",
     "atualizado_em": "2026-09-16T08:27:39.431-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36217546",
-    "titulo": "Boneca Barbie Professions, de cabelo loiro, dançarina de balé",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993577-MLA96134750565_102025-F.jpg",
-    "preco": 45.3,
-    "preco_anterior": 58.4,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1BJR8cr",
-    "atualizado_em": "2026-09-16T08:22:34.144-03:00"
   }
 ]
