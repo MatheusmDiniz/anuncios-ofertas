@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:816642727.23994061112",
+    "titulo": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo79fsp4i8lcc4",
+    "preco": 23.89,
+    "preco_anterior": 35.66,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9peNzq6uCZ",
+    "atualizado_em": "2026-09-17T14:13:09.183-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36931922",
     "titulo": "Desodorante Colônia Cebolinha Turma da Mônica 25ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_685367-MLA115708034876_092026-F.jpg",
@@ -1340,16 +1350,6 @@
     "atualizado_em": "2026-09-16T16:30:05.950-03:00"
   },
   {
-    "id": "shopee:816642727.23994061112",
-    "titulo": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo79fsp4i8lcc4",
-    "preco": 23.89,
-    "preco_anterior": 35.66,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1VzBIBHGwU",
-    "atualizado_em": "2026-09-16T16:24:52.022-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB19642578",
     "titulo": "Natura Mamae Bebe Agua De Colonia Sem Alcool 50ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_921701-MLA99833208789_112025-F.jpg",
@@ -1518,15 +1518,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/14tHhh1",
     "atualizado_em": "2026-09-16T14:13:55.920-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23414358",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
-    "preco": 59.69,
-    "preco_anterior": 65.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vyhpHT",
-    "atualizado_em": "2026-09-16T14:08:45.489-03:00"
   }
 ]
