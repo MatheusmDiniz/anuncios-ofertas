@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1042066189.43481645729",
+    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
+    "preco": 29.48,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1ASHliL9k",
+    "atualizado_em": "2026-09-17T17:39:18.506-03:00"
+  },
+  {
     "id": "shopee:341167297.19598019373",
     "titulo": "Kit Básico 10 Peças Roupa Bebê Menino - 5 Camisetas Básicas + 5 Bermudas - 5 Conjuntos Lisos Bebê Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moyaaziysoarc3",
@@ -1460,16 +1470,6 @@
     "atualizado_em": "2026-09-16T18:40:58.805-03:00"
   },
   {
-    "id": "shopee:1042066189.43481645729",
-    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
-    "preco": 29.48,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYIHiE6Fh",
-    "atualizado_em": "2026-09-16T18:35:44.100-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB19543081",
     "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
@@ -1528,15 +1528,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60RcuiXaOB",
     "atualizado_em": "2026-09-16T17:44:20.518-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406931",
-    "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
-    "preco": 12.99,
-    "preco_anterior": 26.92,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KK85gv",
-    "atualizado_em": "2026-09-16T17:39:16.262-03:00"
   }
 ]
