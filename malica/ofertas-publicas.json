@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28881714",
+    "titulo": "Kit 12 Sabonete Em Barra Nutri Spa Amêndoas Johnson's 80g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864105-MLA99936656487_112025-F.jpg",
+    "preco": 25.9,
+    "preco_anterior": 39.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1HeF7Gj",
+    "atualizado_em": "2026-09-17T19:01:17.436-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875637",
     "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
@@ -1538,15 +1548,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gBCVpLmhu",
     "atualizado_em": "2026-09-16T19:01:27.166-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24208936",
-    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-    "preco": 36.05,
-    "preco_anterior": 62.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2q4b5HH",
-    "atualizado_em": "2026-09-16T18:56:22.768-03:00"
   }
 ]
