@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875892",
+    "titulo": "Sabonete Líquido de Glicerina Granado Bebê Tradicional 500ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
+    "preco": 29.99,
+    "preco_anterior": 32.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2iVciEN",
+    "atualizado_em": "2026-09-17T13:57:38.186-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
