@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27044595",
+    "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
+    "preco": 20.66,
+    "preco_anterior": 44.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kcZvHR",
+    "atualizado_em": "2026-09-17T09:02:29.197-03:00"
+  },
+  {
     "id": "shopee:910649627.58213273842",
     "titulo": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
@@ -1070,16 +1080,6 @@
     "atualizado_em": "2026-09-16T13:58:21.379-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB27044595",
-    "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
-    "preco": 20.66,
-    "preco_anterior": 44.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kcZvHR",
-    "atualizado_em": "2026-09-16T13:48:00.746-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB31739631",
     "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
@@ -1588,15 +1588,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/18T5Pyt",
     "atualizado_em": "2026-09-16T09:03:31.852-03:00"
-  },
-  {
-    "id": "shopee:604069672.17512767444",
-    "titulo": "Kit 5 Pomadas Preventivas para Assaduras 45g Turminha da Bagunça Pomada Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mlp21ce1lnnq1c",
-    "preco": 27.92,
-    "preco_anterior": 45.03,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AUu3CNMFSr",
-    "atualizado_em": "2026-09-16T08:58:21.293-03:00"
   }
 ]
