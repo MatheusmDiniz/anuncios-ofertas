@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17457276",
+    "titulo": "Toalhetes Desinfetantes Coperalcool Bacfree Álcool 70° Pacote 15 Unid",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_719214-MLA99823204133_112025-F.jpg",
+    "preco": 10,
+    "preco_anterior": 11.01,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bevmQk",
+    "atualizado_em": "2026-09-17T17:23:49.691-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47734236",
     "titulo": "Escova De Dente Primeiro Dentinhos 0 A 2 Anos Mordedor Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_689843-MLA99854193703_112025-F.jpg",
@@ -1548,15 +1558,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BTrRh6vcE",
     "atualizado_em": "2026-09-16T17:23:52.356-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34506179",
-    "titulo": "Dove Original Sabonete em Barra 90 g 6 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_616595-MLA99422627444_112025-F.jpg",
-    "preco": 23.69,
-    "preco_anterior": 35.94,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/152M88P",
-    "atualizado_em": "2026-09-16T17:18:45.608-03:00"
   }
 ]
