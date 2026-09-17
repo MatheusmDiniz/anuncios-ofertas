@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875743",
+    "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
+    "preco": 15.09,
+    "preco_anterior": 21,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2CNXtvV",
+    "atualizado_em": "2026-09-17T12:50:33.946-03:00"
+  },
+  {
     "id": "shopee:399621856.23992794977",
     "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
@@ -1338,16 +1348,6 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1mUFvwo",
     "atualizado_em": "2026-09-16T15:05:44.872-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875743",
-    "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
-    "preco": 15.09,
-    "preco_anterior": 21,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CNXtvV",
-    "atualizado_em": "2026-09-16T15:00:35.502-03:00"
   },
   {
     "id": "mercadolivre:product:MLB39448662",
