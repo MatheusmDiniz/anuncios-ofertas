@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB31739631",
+    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
+    "preco": 438,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Y8xSvd",
+    "atualizado_em": "2026-09-17T15:35:37.058-03:00"
+  },
+  {
     "id": "shopee:443147300.22799039483",
     "titulo": "Kit 3 Pijama Criança Infantil Short Dool e Baby Doll Menina Verão Juvenil Menininha Estampadinho Garota OFERTA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv92dsn8umd86",
@@ -1568,15 +1578,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1vpPWWV",
     "atualizado_em": "2026-09-16T15:36:40.023-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17335680",
-    "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 36 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729959-MLA99437189922_112025-F.jpg",
-    "preco": 47.61,
-    "preco_anterior": 56.57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hnXz7Z",
-    "atualizado_em": "2026-09-16T15:31:26.380-03:00"
   }
 ]
