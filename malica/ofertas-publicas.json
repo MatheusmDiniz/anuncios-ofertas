@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.19598019373",
+    "titulo": "Kit Básico 10 Peças Roupa Bebê Menino - 5 Camisetas Básicas + 5 Bermudas - 5 Conjuntos Lisos Bebê Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moyaaziysoarc3",
+    "preco": 93.9,
+    "preco_anterior": 149.05,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80CjoSnHR4",
+    "atualizado_em": "2026-09-17T17:34:11.280-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50571754",
     "titulo": "Colônia Seiva de Alfazema Lavanda Clássica, 118 mL",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837530-MLA99798267087_112025-F.jpg",
@@ -1470,16 +1480,6 @@
     "atualizado_em": "2026-09-16T18:30:37.961-03:00"
   },
   {
-    "id": "shopee:341167297.19598019373",
-    "titulo": "Kit Básico 10 Peças Roupa Bebê Menino - 5 Camisetas Básicas + 5 Bermudas - 5 Conjuntos Lisos Bebê Menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moyaaziysoarc3",
-    "preco": 93.9,
-    "preco_anterior": 149.05,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AKaZoPJB1s",
-    "atualizado_em": "2026-09-16T18:25:29.644-03:00"
-  },
-  {
     "id": "shopee:1167191968.41628916751",
     "titulo": "Vestido Infantil Luxo Premium Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
@@ -1538,15 +1538,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KK85gv",
     "atualizado_em": "2026-09-16T17:39:16.262-03:00"
-  },
-  {
-    "id": "shopee:1328472746.58200651904",
-    "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3h9ri6ul1cf5",
-    "preco": 71.99,
-    "preco_anterior": 133.31,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6L4TJKWJiD",
-    "atualizado_em": "2026-09-16T17:34:07.344-03:00"
   }
 ]
