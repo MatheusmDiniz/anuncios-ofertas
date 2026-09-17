@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24696459",
+    "titulo": "Pinico Mictorio Menino Sapo Sapinho Infantil Mais Resistente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628884-MLA105469096781_012026-F.jpg",
+    "preco": 19.9,
+    "preco_anterior": 39.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19TGYfP",
+    "atualizado_em": "2026-09-17T13:47:13.707-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28318987",
     "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
@@ -1128,16 +1138,6 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30o2uRKW1w",
     "atualizado_em": "2026-09-16T18:04:54.881-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24696459",
-    "titulo": "Pinico Mictorio Menino Sapo Sapinho Infantil Mais Resistente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628884-MLA105469096781_012026-F.jpg",
-    "preco": 21.9,
-    "preco_anterior": 39.89,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/22NHRW9",
-    "atualizado_em": "2026-09-16T17:59:48.942-03:00"
   },
   {
     "id": "shopee:690480779.58264030163",
