@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50571754",
+    "titulo": "Colônia Seiva de Alfazema Lavanda Clássica, 118 mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837530-MLA99798267087_112025-F.jpg",
+    "preco": 24.9,
+    "preco_anterior": 41.87,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1NjCC1D",
+    "atualizado_em": "2026-09-17T17:29:01.055-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17457276",
     "titulo": "Toalhetes Desinfetantes Coperalcool Bacfree Álcool 70° Pacote 15 Unid",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_719214-MLA99823204133_112025-F.jpg",
@@ -1548,15 +1558,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VNuzLDklh",
     "atualizado_em": "2026-09-16T17:29:01.260-03:00"
-  },
-  {
-    "id": "shopee:800263385.22097923147",
-    "titulo": "Creme Anti-Estrias - Diga Adeus às Estrias! Previne Novas Estrias & Reforça a Elasticidade Da Pele",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmrrtbtgn37lec",
-    "preco": 38.9,
-    "preco_anterior": 121.56,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/BTrRh6vcE",
-    "atualizado_em": "2026-09-16T17:23:52.356-03:00"
   }
 ]
