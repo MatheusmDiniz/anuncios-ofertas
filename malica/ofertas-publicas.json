@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44895132",
+    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
+    "preco": 56,
+    "preco_anterior": 249,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1SZdqFJ",
+    "atualizado_em": "2026-09-17T08:31:46.068-03:00"
+  },
+  {
     "id": "shopee:1361476561.19397991697",
     "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
@@ -1010,16 +1020,6 @@
     "atualizado_em": "2026-09-16T13:58:21.379-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB44895132",
-    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
-    "preco": 56,
-    "preco_anterior": 249,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1SZdqFJ",
-    "atualizado_em": "2026-09-16T13:53:11.084-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB27044595",
     "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
@@ -1618,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Ktnopa",
     "atualizado_em": "2026-09-16T08:32:47.877-03:00"
-  },
-  {
-    "id": "shopee:1735703075.58210539222",
-    "titulo": "Moletom infantil menina estilo suéter puro algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mo5j06xy76rk61",
-    "preco": 39.99,
-    "preco_anterior": 99.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5fomgM23SU",
-    "atualizado_em": "2026-09-16T08:27:39.431-03:00"
   }
 ]
