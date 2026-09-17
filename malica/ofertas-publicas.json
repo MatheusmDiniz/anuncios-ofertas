@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB43809739",
+    "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
+    "preco": 8.11,
+    "preco_anterior": 19.97,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28TvvrA",
+    "atualizado_em": "2026-09-17T11:06:00.171-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20969462",
     "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
@@ -1528,15 +1538,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fcnWdW",
     "atualizado_em": "2026-09-16T11:07:22.081-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB43809739",
-    "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
-    "preco": 8.11,
-    "preco_anterior": 19.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28TvvrA",
-    "atualizado_em": "2026-09-16T11:02:11.255-03:00"
   }
 ]
