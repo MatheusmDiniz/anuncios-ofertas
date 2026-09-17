@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46531575",
+    "titulo": "Almofada De Banho Ursinho Cor Rosa Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906032-MLA99586876530_122025-F.jpg",
+    "preco": 74.95,
+    "preco_anterior": 78.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2FxbjCs",
+    "atualizado_em": "2026-09-17T10:45:24.001-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24276913",
     "titulo": "Prato infantil Redondo em Silicone com Divisórias e Ventosas Buba Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_705376-MLA100086252029_122025-F.jpg",
@@ -1250,16 +1260,6 @@
     "atualizado_em": "2026-09-16T13:42:50.148-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB46531575",
-    "titulo": "Almofada De Banho Ursinho Cor Rosa Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906032-MLA99586876530_122025-F.jpg",
-    "preco": 74.95,
-    "preco_anterior": 78.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2FxbjCs",
-    "atualizado_em": "2026-09-16T13:37:39.407-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB27488701",
     "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
@@ -1538,15 +1538,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kWUm1A",
     "atualizado_em": "2026-09-16T10:51:43.501-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29878854",
-    "titulo": "Conjunto De Brinquedo Chelsea Piloto De Avião - Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904544-MLA99533926800_122025-F.jpg",
-    "preco": 110.99,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Ztsgta",
-    "atualizado_em": "2026-09-16T10:41:23.897-03:00"
   }
 ]
