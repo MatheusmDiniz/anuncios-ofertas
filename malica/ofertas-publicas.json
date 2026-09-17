@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22953629",
+    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
+    "preco": 279.9,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yKShtn",
+    "atualizado_em": "2026-09-17T13:52:23.266-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24696459",
     "titulo": "Pinico Mictorio Menino Sapo Sapinho Infantil Mais Resistente",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_628884-MLA105469096781_012026-F.jpg",
@@ -1098,16 +1108,6 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AKaZoPJB1s",
     "atualizado_em": "2026-09-16T18:25:29.644-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22953629",
-    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
-    "preco": 279.9,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yKShtn",
-    "atualizado_em": "2026-09-16T18:20:17.526-03:00"
   },
   {
     "id": "shopee:1167191968.41628916751",
