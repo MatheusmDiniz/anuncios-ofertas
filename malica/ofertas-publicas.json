@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42418820",
+    "titulo": "Aquecedor De Mamadeira Baby Usb Térmico Infantil Leite Materno Bebê Portátil Com Regulagem Temperatura 3 Niveis Para Manter Aquecido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_773471-MLA99561428486_122025-F.jpg",
+    "preco": 36.7,
+    "preco_anterior": 134.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/17mw33i",
+    "atualizado_em": "2026-09-17T11:36:50.361-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392724",
     "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
@@ -1130,16 +1140,6 @@
     "atualizado_em": "2026-09-16T15:47:02.852-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB42418820",
-    "titulo": "Aquecedor De Mamadeira Baby Usb Térmico Infantil Leite Materno Bebê Portátil Com Regulagem Temperatura 3 Niveis Para Manter Aquecido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_773471-MLA99561428486_122025-F.jpg",
-    "preco": 34.73,
-    "preco_anterior": 45.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12qERrN",
-    "atualizado_em": "2026-09-16T15:41:56.869-03:00"
-  },
-  {
     "id": "mercadolivre:product:MLB28643543",
     "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
@@ -1518,15 +1518,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xXuLrP",
     "atualizado_em": "2026-09-16T11:38:19.279-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24646908",
-    "titulo": "Kit Trava Gaveta Porta Armário Geladeira Segurança Bebê Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962810-MLA99839467723_112025-F.jpg",
-    "preco": 33.13,
-    "preco_anterior": 68.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1p8M5jt",
-    "atualizado_em": "2026-09-16T11:33:09.447-03:00"
   }
 ]
