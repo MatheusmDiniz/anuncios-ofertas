@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875996",
+    "titulo": "Sabonete Líquido Baruel Baby Glicerina Neutro 210ml A-R",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835837-MLA105345918437_012026-F.jpg",
+    "preco": 16.09,
+    "preco_anterior": 20.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kH8NKX",
+    "atualizado_em": "2026-09-16T21:05:41.125-03:00"
+  },
+  {
     "id": "shopee:1687829254.22194788832",
     "titulo": "Kit com 3 macacões bebês | 100% Algodão | RN ao G | | Macacão| Menina, Menino e Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mo01rwh4xiis16",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3g3iIhVGQV",
     "atualizado_em": "2026-09-15T21:06:45.185-03:00"
-  },
-  {
-    "id": "shopee:1087906676.22597332269",
-    "titulo": "Kit 5 Pares Brincos Infantil Tarraxa Baby Folheados a ouro Antialergico Sortidos Tarracha Criança Garantia Atacado Promo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrc4sqsrbwh0aa",
-    "preco": 24.89,
-    "preco_anterior": 40.15,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/80ChSeoZgZ",
-    "atualizado_em": "2026-09-15T21:01:39.246-03:00"
   }
 ]
