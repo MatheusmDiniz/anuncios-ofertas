@@ -1,82 +1,1562 @@
 [
   {
-    "id": "mercadolivre:product:MLB23352511",
-    "titulo": "Quebra Cabeça Psg Lionel Messi 100 peças Mimo Toys",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_870317-MLA99988288021_112025-B.jpeg",
-    "preco": 12.69,
-    "preco_anterior": null,
+    "id": "mercadolivre:product:MLB18397534",
+    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
+    "preco": 67.07,
+    "preco_anterior": 100.24,
     "loja": "Mercado Livre",
-    "link": "https://meli.la/2ikmifS",
-    "atualizado_em": "2026-09-17T12:19:22.410-03:00"
+    "link": "https://meli.la/1Yvt5Vw",
+    "atualizado_em": "2026-09-17T16:42:48.108-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB76873286",
-    "titulo": "Calça Mom Jeans Feminina Cintura Alta Marmorizada",
-    "imagem": "https://divulgadorinteligente.com/cdn-cgi/imagedelivery/MZSoNqg03WJMyxIyXeG5YA/1b5638e7-d92d-4381-87d1-6eebfb76e200/fullhd",
-    "preco": 47.55,
+    "id": "mercadolivre:product:MLB17876098",
+    "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
+    "preco": 13.99,
+    "preco_anterior": 17.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2LCJPbM",
+    "atualizado_em": "2026-09-17T16:37:36.208-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17876092",
+    "titulo": "Sabonete Líquido De Glicerina 400ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
+    "preco": 23.99,
+    "preco_anterior": 41.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xXuLrP",
+    "atualizado_em": "2026-09-17T16:32:24.562-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB39448662",
+    "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665934-MLA99476766924_112025-F.jpg",
+    "preco": 52.29,
+    "preco_anterior": 167.29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2iTmTiG",
+    "atualizado_em": "2026-09-17T16:27:15.341-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18342378",
+    "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
+    "preco": 20.67,
+    "preco_anterior": 28.29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1DB9JYB",
+    "atualizado_em": "2026-09-17T16:22:05.659-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24531140",
+    "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
+    "preco": 8,
+    "preco_anterior": 19.07,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26SYkKg",
+    "atualizado_em": "2026-09-17T16:16:56.113-03:00"
+  },
+  {
+    "id": "shopee:1063329222.58259146242",
+    "titulo": "Bolsa De Silicone Infantil Criança Borboleta",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrdfi658p5hj80",
+    "preco": 13.99,
+    "preco_anterior": 58.29,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/W6jNLHwnj",
+    "atualizado_em": "2026-09-17T16:11:46.313-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB26504827",
+    "titulo": "Totokinha Totoka Sport Carrinho Andador Brinquedo Educativo Formas Geométricas Passeio Cardoso Toys",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891342-MLA111243159677_052026-F.jpg",
+    "preco": 78.06,
+    "preco_anterior": 139.34,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Tz6yaN",
+    "atualizado_em": "2026-09-17T16:06:38.826-03:00"
+  },
+  {
+    "id": "shopee:424773647.58257712601",
+    "titulo": "Kit 5 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt4aj74z0cuc2e",
+    "preco": 44.13,
+    "preco_anterior": 119.27,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9peOQ2fa8l",
+    "atualizado_em": "2026-09-17T16:01:26.397-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB25236528",
+    "titulo": "Patrulha Canina Helicóptero Skye 1389 - Sunny",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888311-MLA93092797412_092025-F.jpg",
+    "preco": 76.53,
+    "preco_anterior": 78.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2k5imDJ",
+    "atualizado_em": "2026-09-17T15:56:19.898-03:00"
+  },
+  {
+    "id": "shopee:504754787.23793169776",
+    "titulo": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e",
+    "preco": 179.9,
+    "preco_anterior": 359.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8V90PQONE9",
+    "atualizado_em": "2026-09-17T15:51:07.180-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB27488701",
+    "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
+    "preco": 32.9,
+    "preco_anterior": 69,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1izSjBj",
+    "atualizado_em": "2026-09-17T15:46:01.102-03:00"
+  },
+  {
+    "id": "shopee:871353519.58203956748",
+    "titulo": "KIT 3 Peças Alça Sortidas Menina Verão Tamanho 1 ao 14 anos Infantil e Juvenil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mphy3woyx0qp64",
+    "preco": 36.9,
+    "preco_anterior": 80.22,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7AddF7uOq3",
+    "atualizado_em": "2026-09-17T15:40:42.940-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB31739631",
+    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
+    "preco": 438,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Y8xSvd",
+    "atualizado_em": "2026-09-17T15:35:37.058-03:00"
+  },
+  {
+    "id": "shopee:443147300.22799039483",
+    "titulo": "Kit 3 Pijama Criança Infantil Short Dool e Baby Doll Menina Verão Juvenil Menininha Estampadinho Garota OFERTA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv92dsn8umd86",
+    "preco": 26.99,
+    "preco_anterior": 89.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4qFiSpYYNb",
+    "atualizado_em": "2026-09-17T15:30:22.912-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB29878854",
+    "titulo": "Conjunto De Brinquedo Chelsea Piloto De Avião - Barbie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904544-MLA99533926800_122025-F.jpg",
+    "preco": 110.99,
+    "preco_anterior": 159.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Ztsgta",
+    "atualizado_em": "2026-09-17T15:25:16.319-03:00"
+  },
+  {
+    "id": "shopee:378105312.54507799907",
+    "titulo": "Porta Leite em Pó 3 Compartimentos Dosador Portátil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mmbwyvoby39fa1",
+    "preco": 12.99,
+    "preco_anterior": 30.21,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5AsYrR6xGC",
+    "atualizado_em": "2026-09-17T15:20:07.322-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17489277",
+    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bcKcRJ",
+    "atualizado_em": "2026-09-17T15:15:01.418-03:00"
+  },
+  {
+    "id": "shopee:230709939.45109165673",
+    "titulo": "Cubo Sensorial Needoh Para Alívio De Ansiedade , Ferramenta De Mesa Antiestresse Foco De Criança Adulta , Brinquedo Fidg",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134301-81zw6-mmu014u8lf606d",
+    "preco": 26.73,
+    "preco_anterior": 44.55,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AUu4n6GlAT",
+    "atualizado_em": "2026-09-17T15:09:46.727-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB50480622",
+    "titulo": "Cadeirinha Bebê Descanso Musical Vibratória Rosa Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_732532-MLA95142110312_102025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 263.78,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28aNNQK",
+    "atualizado_em": "2026-09-17T15:04:39.922-03:00"
+  },
+  {
+    "id": "shopee:1076565213.22595172854",
+    "titulo": "KIT6/12/24PCSMini brinquedo colorido de mola maluca barato de plástico para meninos e meninas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr6n0viwu39je0",
+    "preco": 10.99,
+    "preco_anterior": 49.95,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9Ki7OxLCXC",
+    "atualizado_em": "2026-09-17T14:59:28.791-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18392841",
+    "titulo": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753827-MLA80015367155_102024-F.jpg",
+    "preco": 29.99,
+    "preco_anterior": 39.23,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1N9F5E3",
+    "atualizado_em": "2026-09-17T14:54:22.188-03:00"
+  },
+  {
+    "id": "shopee:1676334505.58262581775",
+    "titulo": "Kit 6 Legging estampada Infantil - Algodão - Tamanhos 1 ao 10",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-msftewomwqh24b",
+    "preco": 68,
+    "preco_anterior": 170,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7Kx3ROdBFC",
+    "atualizado_em": "2026-09-17T14:49:13.273-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB33294420",
+    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
+    "preco": 13.52,
+    "preco_anterior": 27.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Q4Wv1Y",
+    "atualizado_em": "2026-09-17T14:44:07.146-03:00"
+  },
+  {
+    "id": "shopee:646220829.23092088458",
+    "titulo": "Kit 6 Rosquinhas de Amamentação Protetor de Seios Donut em Tricoline Antialérgico",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mr7e1qmkepdwdd",
+    "preco": 19.9,
+    "preco_anterior": 66.33,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4fwIGUIOev",
+    "atualizado_em": "2026-09-17T14:38:57.190-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB22761169",
+    "titulo": "Brinquedo Educativo Kendy Cubo Baby Com Blocos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963262-MLA100083108993_122025-F.jpg",
+    "preco": 11.33,
+    "preco_anterior": 21.49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1UjP16B",
+    "atualizado_em": "2026-09-17T14:33:44.851-03:00"
+  },
+  {
+    "id": "shopee:585253987.22094330581",
+    "titulo": "Banco De Cintura Para Bebê Canguru Passeio Varias Cores Mochila Infantil Hipseat CarrierPara Bebê",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-mdaoj8ybtmux04",
+    "preco": 99.79,
+    "preco_anterior": 199.58,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5VVPG0ol0S",
+    "atualizado_em": "2026-09-17T14:28:35.598-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB28660083",
+    "titulo": "Mosquiteiro Universale Branco Bublim Incomfral Elástico Carrinho Mini Berço",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906796-MLA100096322935_122025-F.jpg",
+    "preco": 10.31,
+    "preco_anterior": 20.06,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EYrH38",
+    "atualizado_em": "2026-09-17T14:23:29.899-03:00"
+  },
+  {
+    "id": "shopee:341167297.20599551957",
+    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
+    "preco": 55.9,
+    "preco_anterior": 99.82,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8KpaD4m0l6",
+    "atualizado_em": "2026-09-17T14:18:17.454-03:00"
+  },
+  {
+    "id": "shopee:816642727.23994061112",
+    "titulo": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo79fsp4i8lcc4",
+    "preco": 23.89,
+    "preco_anterior": 35.66,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9peNzq6uCZ",
+    "atualizado_em": "2026-09-17T14:13:09.183-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB36931922",
+    "titulo": "Desodorante Colônia Cebolinha Turma da Mônica 25ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_685367-MLA115708034876_092026-F.jpg",
+    "preco": 19.9,
+    "preco_anterior": 34.34,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24boscH",
+    "atualizado_em": "2026-09-17T14:08:01.618-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB34115521",
+    "titulo": "Chocalho e Mordedor Minnie Mouse Rattle Rosa Disney Meninas Bebê Elka",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827862-MLA99358289636_112025-F.jpg",
+    "preco": 18.25,
+    "preco_anterior": 33.71,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1CfhZdx",
+    "atualizado_em": "2026-09-17T14:02:50.175-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17875892",
+    "titulo": "Sabonete Líquido de Glicerina Granado Bebê Tradicional 500ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
+    "preco": 29.99,
+    "preco_anterior": 32.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2iVciEN",
+    "atualizado_em": "2026-09-17T13:57:38.186-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB22953629",
+    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
+    "preco": 279.9,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yKShtn",
+    "atualizado_em": "2026-09-17T13:52:23.266-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24696459",
+    "titulo": "Pinico Mictorio Menino Sapo Sapinho Infantil Mais Resistente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628884-MLA105469096781_012026-F.jpg",
+    "preco": 19.9,
+    "preco_anterior": 39.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19TGYfP",
+    "atualizado_em": "2026-09-17T13:47:13.707-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 175.95,
+    "preco_anterior": 263.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Cuz4mH",
+    "atualizado_em": "2026-09-17T13:41:57.998-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB37736345",
+    "titulo": "Maxi Baby Cadeira De Alimentação Portátil Bebê Honey Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891734-MLA96139666555_102025-F.jpg",
+    "preco": 289.9,
+    "preco_anterior": 528.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28PCAVk",
+    "atualizado_em": "2026-09-17T13:36:47.995-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18342443",
+    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
+    "preco": 6.56,
+    "preco_anterior": 7.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RGiPDf",
+    "atualizado_em": "2026-09-17T13:31:33.805-03:00"
+  },
+  {
+    "id": "shopee:341167297.20698276094",
+    "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
+    "preco": 29.9,
+    "preco_anterior": 69.53,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9zxoC8ffNO",
+    "atualizado_em": "2026-09-17T13:26:25.852-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB47743053",
+    "titulo": "Escova De Dente Mordedor Primeiro Dentinhos 0 A 2 Anos Buba Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915524-MLA99907110867_112025-F.jpg",
+    "preco": 9.23,
+    "preco_anterior": 10.65,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32DaJwm",
+    "atualizado_em": "2026-09-17T13:21:19.573-03:00"
+  },
+  {
+    "id": "shopee:1365993167.58209968589",
+    "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
+    "preco": 19.9,
+    "preco_anterior": 29.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8plqo0AiEH",
+    "atualizado_em": "2026-09-17T13:16:00.900-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB26198574",
+    "titulo": "12 Protetor Tomada Bebê Segurança Contra Choque livenza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749686-MLA100080294681_122025-F.jpg",
+    "preco": 6.86,
+    "preco_anterior": 17.7,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Fsuebq",
+    "atualizado_em": "2026-09-17T13:11:06.216-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB64885191",
+    "titulo": "Lançador Buzz Lightyear Imaginext para Toy Story e Filme Lightyear",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_907583-MLA105094624010_012026-F.jpg",
+    "preco": 49.9,
     "preco_anterior": 99.99,
     "loja": "Mercado Livre",
-    "link": "https://meli.la/2xR2ZHZ",
-    "atualizado_em": "2026-09-17T12:14:16.652-03:00"
+    "link": "https://meli.la/1neKJaN",
+    "atualizado_em": "2026-09-17T13:05:57.562-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB72859298",
-    "titulo": "Camisa Xadrez Feminina Manga Longa Flanelada Branco Xadrez G",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_886589-MLB116060667650_092026-B.jpeg",
-    "preco": 36.53,
-    "preco_anterior": 119.9,
+    "id": "mercadolivre:product:MLB27145476",
+    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 28,
     "loja": "Mercado Livre",
-    "link": "https://meli.la/1kQmp1r",
-    "atualizado_em": "2026-09-17T11:54:12.969-03:00"
+    "link": "https://meli.la/1mUFvwo",
+    "atualizado_em": "2026-09-17T13:00:48.794-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB64165236",
-    "titulo": "Bermuda Sarja Masculina Slim Chino Social Algodão 100% Vrn",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_920147-MLB91022653439_082025-B-bermuda-sarja-masculina-slim-chino-social-algodo-100-vrn.jpeg",
-    "preco": 60.09,
-    "preco_anterior": 129.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1oqdMSP",
-    "atualizado_em": "2026-09-17T10:13:51.750-03:00"
+    "id": "shopee:1361476561.22493583538",
+    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
+    "preco": 36.9,
+    "preco_anterior": 87.86,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AUu4n3dlMT",
+    "atualizado_em": "2026-09-17T12:55:39.988-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB74472440",
-    "titulo": "Calça Jeans Wide Leg Feminina Cintura Alta Sem Lycra Stillge",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_2X_717613-MLB96633630079_102025-B-calca-jeans-wide-leg-feminina-cintura-alta-sem-lycra-stillge.jpeg",
-    "preco": 52.4,
-    "preco_anterior": 109.99,
+    "id": "mercadolivre:product:MLB17875743",
+    "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
+    "preco": 15.09,
+    "preco_anterior": 21,
     "loja": "Mercado Livre",
-    "link": "https://meli.la/2RDbUbV",
-    "atualizado_em": "2026-09-17T10:04:09.068-03:00"
+    "link": "https://meli.la/2CNXtvV",
+    "atualizado_em": "2026-09-17T12:50:33.946-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB68290295",
-    "titulo": "Kit 3 Regata Modelo Americano Canelada Premium",
-    "imagem": "https://divulgadorinteligente.com/cdn-cgi/imagedelivery/MZSoNqg03WJMyxIyXeG5YA/932991af-b391-45ee-ff66-718978cff100/fullhd",
-    "preco": 43.46,
-    "preco_anterior": 118,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13BC4nh",
-    "atualizado_em": "2026-09-17T09:56:51.063-03:00"
+    "id": "shopee:399621856.23992794977",
+    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
+    "preco": 31.59,
+    "preco_anterior": 45.13,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8fSQbhBLZE",
+    "atualizado_em": "2026-09-17T12:45:25.307-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB38285898",
-    "titulo": "Kit Hidratação Braé Stages Shampoo + Condicionador Hydration",
-    "imagem": "https://divulgadorinteligente.com/cdn-cgi/imagedelivery/MZSoNqg03WJMyxIyXeG5YA/73e8b3d3-4e4b-4118-a866-ab9a02610200/fullhd",
-    "preco": 62.78,
-    "preco_anterior": 90.86,
+    "id": "mercadolivre:product:MLB62933980",
+    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 447.82,
     "loja": "Mercado Livre",
-    "link": "https://meli.la/1DWmuwp",
-    "atualizado_em": "2026-09-17T00:14:03.040-03:00"
+    "link": "https://meli.la/2XQuVVJ",
+    "atualizado_em": "2026-09-17T12:43:35.856-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB27949473",
-    "titulo": "Voyage Ploc Troninho Penico Redutor Infantil Para Bebê Criança Até 23 Kg Azul",
-    "imagem": "https://divulgadorinteligente.com/cdn-cgi/imagedelivery/MZSoNqg03WJMyxIyXeG5YA/c33bce4e-dcde-405d-3f75-a39102d5ea00/fullhd",
-    "preco": 37.41,
-    "preco_anterior": 94,
+    "id": "mercadolivre:product:MLB24646908",
+    "titulo": "Kit Trava Gaveta Porta Armário Geladeira Segurança Bebê Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962810-MLA99839467723_112025-F.jpg",
+    "preco": 33.13,
+    "preco_anterior": 68.9,
     "loja": "Mercado Livre",
-    "link": "https://meli.la/1agxzXw",
-    "atualizado_em": "2026-09-17T00:08:56.665-03:00"
+    "link": "https://meli.la/1p8M5jt",
+    "atualizado_em": "2026-09-17T12:38:22.002-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB27672036",
+    "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
+    "preco": 24.49,
+    "preco_anterior": 47.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2chmi3v",
+    "atualizado_em": "2026-09-17T12:33:13.641-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB23024522",
+    "titulo": "Brinquedo Educativo Cubo Mágico Grande Didático Infantil Encaixe 6 Faces Mercotoys",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949635-MLA107382075000_032026-F.jpg",
+    "preco": 63.71,
+    "preco_anterior": 151.02,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2xAR8oH",
+    "atualizado_em": "2026-09-17T12:28:05.075-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB36217546",
+    "titulo": "Boneca Barbie Professions, de cabelo loiro, dançarina de balé",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993577-MLA96134750565_102025-F.jpg",
+    "preco": 45.3,
+    "preco_anterior": 58.4,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BJR8cr",
+    "atualizado_em": "2026-09-17T12:22:57.222-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18395240",
+    "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
+    "preco": 11.09,
+    "preco_anterior": 14.58,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cy9aXb",
+    "atualizado_em": "2026-09-17T12:17:49.728-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24626810",
+    "titulo": "Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700261-MLA99618194932_122025-F.jpg",
+    "preco": 34.55,
+    "preco_anterior": 59.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1F6WDYg",
+    "atualizado_em": "2026-09-17T12:12:42.486-03:00"
+  },
+  {
+    "id": "shopee:1822435935.58214954463",
+    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Inverno Infantil Fashion Short Blusa Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr26imqr94w499",
+    "preco": 47.89,
+    "preco_anterior": 95.78,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9V1XbDhZOF",
+    "atualizado_em": "2026-09-17T12:07:34.165-03:00"
+  },
+  {
+    "id": "shopee:1700242901.58214519187",
+    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
+    "preco": 47.89,
+    "preco_anterior": 108.84,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8KpaD5CcF8",
+    "atualizado_em": "2026-09-17T12:02:28.458-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB51240172",
+    "titulo": "Boneco Stitch Banho Divertido - Disney Cotiplás 2905",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
+    "preco": 58.11,
+    "preco_anterior": 105.21,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fcnWdW",
+    "atualizado_em": "2026-09-17T11:57:22.772-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24689526",
+    "titulo": "Protetor De Tomada Anti Choque P/ Crianças Pacote Com 20 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684091-MLA100076543741_122025-F.jpg",
+    "preco": 11.36,
+    "preco_anterior": 24.18,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BjR1iD",
+    "atualizado_em": "2026-09-17T11:52:14.497-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB28885783",
+    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
+    "preco": 10.87,
+    "preco_anterior": 20.41,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2far6hn",
+    "atualizado_em": "2026-09-17T11:47:06.378-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB41695273",
+    "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
+    "preco": 78.7,
+    "preco_anterior": 151.36,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2khifsH",
+    "atualizado_em": "2026-09-17T11:41:58.839-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB42418820",
+    "titulo": "Aquecedor De Mamadeira Baby Usb Térmico Infantil Leite Materno Bebê Portátil Com Regulagem Temperatura 3 Niveis Para Manter Aquecido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_773471-MLA99561428486_122025-F.jpg",
+    "preco": 36.7,
+    "preco_anterior": 134.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/17mw33i",
+    "atualizado_em": "2026-09-17T11:36:50.361-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18392724",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
+    "preco": 33.9,
+    "preco_anterior": 39.24,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Eeujoq",
+    "atualizado_em": "2026-09-17T11:31:41.586-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24215261",
+    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
+    "preco": 122,
+    "preco_anterior": 211.17,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cztGHW",
+    "atualizado_em": "2026-09-17T11:26:33.391-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB72983430",
+    "titulo": "Spa Banheira Dobrável Adulto 254l Ofurô Quente Ou Gelo Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_630337-MLA111867119246_062026-F.jpg",
+    "preco": 106.99,
+    "preco_anterior": 204.73,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2V5Vavk",
+    "atualizado_em": "2026-09-17T11:21:24.831-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17775080",
+    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
+    "preco": 11.78,
+    "preco_anterior": 18.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/317psw4",
+    "atualizado_em": "2026-09-17T11:16:15.905-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB69561731",
+    "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
+    "preco": 32.44,
+    "preco_anterior": 59.73,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1HsJSmD",
+    "atualizado_em": "2026-09-17T11:11:08.310-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB43809739",
+    "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
+    "preco": 8.11,
+    "preco_anterior": 19.97,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28TvvrA",
+    "atualizado_em": "2026-09-17T11:06:00.171-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB20969462",
+    "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
+    "preco": 90.9,
+    "preco_anterior": 159.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32opZnB",
+    "atualizado_em": "2026-09-17T11:00:51.592-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB47247005",
+    "titulo": "Caranguejo Brinquedo Fujão Sensor Dança E Som Eletrônico Top",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835568-MLA100080033031_122025-F.jpg",
+    "preco": 36.99,
+    "preco_anterior": 54.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kWUm1A",
+    "atualizado_em": "2026-09-17T10:55:43.168-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB21466956",
+    "titulo": "Colônia Johnson's Baby Lavanda 400ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819092-MLA96870761653_102025-F.jpg",
+    "preco": 33.99,
+    "preco_anterior": 60.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1AkQVCp",
+    "atualizado_em": "2026-09-17T10:50:32.156-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB46531575",
+    "titulo": "Almofada De Banho Ursinho Cor Rosa Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906032-MLA99586876530_122025-F.jpg",
+    "preco": 74.95,
+    "preco_anterior": 78.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2FxbjCs",
+    "atualizado_em": "2026-09-17T10:45:24.001-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24276913",
+    "titulo": "Prato infantil Redondo em Silicone com Divisórias e Ventosas Buba Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705376-MLA100086252029_122025-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 64.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28SEv7U",
+    "atualizado_em": "2026-09-17T10:40:15.182-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB25603083",
+    "titulo": "Brinquedo Centopeia de Atividades Encaixa E Puxa Fisher Price 8350",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838837-MLA99998725363_112025-F.jpg",
+    "preco": 47.9,
+    "preco_anterior": 79.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1nTzPvA",
+    "atualizado_em": "2026-09-17T10:35:05.269-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB23480808",
+    "titulo": "Laptop Infantil Educativo Spider Man Candide",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
+    "preco": 57.99,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZSvfs3",
+    "atualizado_em": "2026-09-17T10:29:56.406-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24647481",
+    "titulo": "Bicicleta De Equilíbrio Zippy Toys Andador Infantil Bike Sem Pedal Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_890028-MLA96136074259_102025-F.jpg",
+    "preco": 78.89,
+    "preco_anterior": 132.12,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1uG6w7U",
+    "atualizado_em": "2026-09-17T10:24:46.602-03:00"
+  },
+  {
+    "id": "shopee:761647073.58250442234",
+    "titulo": "Kit 24 Massinha de Modelar + 25 Moldes Cortador Festa Aniversário Kit Lembracinha",
+    "imagem": "https://cf.shopee.com.br/file/br-11134224-81z1k-mgo1nc280a9w87",
+    "preco": 14.99,
+    "preco_anterior": 23.06,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fop2DZ9yq",
+    "atualizado_em": "2026-09-17T10:19:38.137-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB63710202",
+    "titulo": "Absorventes para Seios Ultra Respiráveis Medela, 30 unids",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810766-MLA103253081881_122025-F.jpg",
+    "preco": 25.5,
+    "preco_anterior": 29.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/18T5Pyt",
+    "atualizado_em": "2026-09-17T10:14:32.663-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17336098",
+    "titulo": "Huggies Fralda Descartável Máxima Proteção XXG - 26 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_878869-MLA99362201706_112025-F.jpg",
+    "preco": 51.56,
+    "preco_anterior": 63.03,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19szzmM",
+    "atualizado_em": "2026-09-17T10:09:23.390-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB42105593",
+    "titulo": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
+    "preco": 47.82,
+    "preco_anterior": 63.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19ebFat",
+    "atualizado_em": "2026-09-17T10:04:08.239-03:00"
+  },
+  {
+    "id": "shopee:400262096.23393553033",
+    "titulo": "Bolsa Térmica Infantil Com Design Divertido Bolsa Termica 916 YOBEL",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-mg896d4cq3gt3b",
+    "preco": 9.99,
+    "preco_anterior": 39.96,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BEwwHo6dq",
+    "atualizado_em": "2026-09-17T09:59:00.282-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB19509698",
+    "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
+    "preco": 23.01,
+    "preco_anterior": 24.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Ktnopa",
+    "atualizado_em": "2026-09-17T09:53:54.330-03:00"
+  },
+  {
+    "id": "shopee:1203275050.23398654174",
+    "titulo": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
+    "preco": 49.9,
+    "preco_anterior": 142.57,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4fwHusEG7G",
+    "atualizado_em": "2026-09-17T09:48:44.968-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB44196987",
+    "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
+    "preco": 25,
+    "preco_anterior": 45.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1VHwaBz",
+    "atualizado_em": "2026-09-17T09:43:39.140-03:00"
+  },
+  {
+    "id": "shopee:499950777.22198012044",
+    "titulo": "Tenis Infantil Menino Masculino Sapato Infantil Menino Tenis Infantil Masculino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-msy1v6auq5frc1",
+    "preco": 54.9,
+    "preco_anterior": 99.82,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8AWA0v9cAr",
+    "atualizado_em": "2026-09-17T09:38:30.154-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB16091843",
+    "titulo": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665735-MLA100006870577_122025-F.jpg",
+    "preco": 169,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1DCnzZH",
+    "atualizado_em": "2026-09-17T09:33:23.630-03:00"
+  },
+  {
+    "id": "shopee:1782683148.58261565925",
+    "titulo": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mosh25xiujgg80",
+    "preco": 38.9,
+    "preco_anterior": 69.46,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4fwHqTs0JJ",
+    "atualizado_em": "2026-09-17T09:28:12.386-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB34078818",
+    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
+    "preco": 22,
+    "preco_anterior": 39.13,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Krfvgn",
+    "atualizado_em": "2026-09-17T09:23:05.561-03:00"
+  },
+  {
+    "id": "shopee:315643622.21197619738",
+    "titulo": "Travesseiro de corpo para Gestante Gravida 1,20x60 micropercal  200 fios Promoção",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqyr5zajv86zc3",
+    "preco": 29.89,
+    "preco_anterior": 42.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fop2JNnYH",
+    "atualizado_em": "2026-09-17T09:17:53.513-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB65726839",
+    "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
+    "preco": 29.58,
+    "preco_anterior": 29.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ibWYA9",
+    "atualizado_em": "2026-09-17T09:12:43.831-03:00"
+  },
+  {
+    "id": "shopee:212844114.19699230407",
+    "titulo": "Cueiro Estampado Flanelado Bebê Kit 3 Unidades 80X50CM Papi/Incomfral",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rccc-ltfis1v4rhn523",
+    "preco": 18.99,
+    "preco_anterior": 32.19,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BEwrppbTk",
+    "atualizado_em": "2026-09-17T09:07:35.551-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB27044595",
+    "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
+    "preco": 20.66,
+    "preco_anterior": 44.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kcZvHR",
+    "atualizado_em": "2026-09-17T09:02:29.197-03:00"
+  },
+  {
+    "id": "shopee:910649627.58213273842",
+    "titulo": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
+    "preco": 11.99,
+    "preco_anterior": 19.03,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4fwHqO3MfQ",
+    "atualizado_em": "2026-09-17T08:57:20.490-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB28552599",
+    "titulo": "Carro Conversível Rosa Grande para Bonecas Barbie, de 37cm e 2 Lugares",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_606831-MLA99362507496_112025-F.jpg",
+    "preco": 19.99,
+    "preco_anterior": 45.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2obdLLP",
+    "atualizado_em": "2026-09-17T08:52:15.252-03:00"
+  },
+  {
+    "id": "shopee:230709939.54611442359",
+    "titulo": "Brinquedo Super Macio e Lento de Apertar com Aroma de Manteiga, Presente de Natal para Alívio do Estresse",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134253-823pq-movih93bd4p8b4",
+    "preco": 10.43,
+    "preco_anterior": 17.38,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BTsU6u68K",
+    "atualizado_em": "2026-09-17T08:47:06.559-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB39426115",
+    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
+    "preco": 66,
+    "preco_anterior": 172.65,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/33bipXK",
+    "atualizado_em": "2026-09-17T08:42:01.034-03:00"
+  },
+  {
+    "id": "shopee:1590063220.58207147029",
+    "titulo": "Kit 2 Talco Para Bebe Com Amido De Milho 200g - Pom Pom",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlz39myktjife3",
+    "preco": 38.9,
+    "preco_anterior": 73.4,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/40gb39Ettc",
+    "atualizado_em": "2026-09-17T08:36:51.912-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB44895132",
+    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
+    "preco": 56,
+    "preco_anterior": 249,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1SZdqFJ",
+    "atualizado_em": "2026-09-17T08:31:46.068-03:00"
+  },
+  {
+    "id": "shopee:1361476561.19397991697",
+    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
+    "preco": 24.99,
+    "preco_anterior": 49.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9Ki7OuiCjC",
+    "atualizado_em": "2026-09-17T08:26:34.292-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB26816126",
+    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
+    "preco": 18.48,
+    "preco_anterior": 31.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dDis3R",
+    "atualizado_em": "2026-09-17T08:21:28.224-03:00"
+  },
+  {
+    "id": "shopee:1341241314.54554614099",
+    "titulo": "Lucky baby/kit body e calça bebê/ kit body bebê menina carters/conjunto body e calça bebê menina",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82625-mjfvx1we4sn514",
+    "preco": 101.5,
+    "preco_anterior": null,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9AOhCXg7ja",
+    "atualizado_em": "2026-09-17T08:16:19.115-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB27590860",
+    "titulo": "Babador De Silicone Pega Migalhas Menina 09724 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_831978-MLA100084513681_122025-F.jpg",
+    "preco": 18.69,
+    "preco_anterior": 36.4,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1HcG1eP",
+    "atualizado_em": "2026-09-17T08:11:14.691-03:00"
+  },
+  {
+    "id": "shopee:1409311869.28043601178",
+    "titulo": "Estoque Pronto Carter Manga Curta Cinco Peças/Macacão Infantil/Baby Romper/Roupa SO0108",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821dj-mh3odwwll4p470",
+    "preco": 149.04,
+    "preco_anterior": null,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6L4VpIa7Rh",
+    "atualizado_em": "2026-09-17T08:06:06.129-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB35090823",
+    "titulo": "Fisher-price Tablet De Aprendizagem Cresce Comigo - Mattel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930205-MLA99502382540_112025-F.jpg",
+    "preco": 109.9,
+    "preco_anterior": 179.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2aC3q8p",
+    "atualizado_em": "2026-09-17T08:01:01.787-03:00"
+  },
+  {
+    "id": "shopee:1698895168.58254892330",
+    "titulo": "Mosquiteiro Para Berço Americano e Mini Berço Tule Tela Mosquiteira Cortinado Rede Protetora",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn94rclpiqkhd9",
+    "preco": 23.99,
+    "preco_anterior": 40.66,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80Cim4i7LU",
+    "atualizado_em": "2026-09-16T22:02:01.725-03:00"
+  },
+  {
+    "id": "shopee:1360717076.22793967394",
+    "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963",
+    "preco": 12.5,
+    "preco_anterior": 54.35,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3VkJkfvhu4",
+    "atualizado_em": "2026-09-16T21:51:51.676-03:00"
+  },
+  {
+    "id": "shopee:1127030290.22999007704",
+    "titulo": "Aspirador Nasal Bebê Recarregável Silicone Macio Limpeza Nasal Infantil Portátil USB",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r7-moh6bx9amnt5aa",
+    "preco": 29.99,
+    "preco_anterior": 99.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9Ki6hO96OC",
+    "atualizado_em": "2026-09-16T21:46:46.090-03:00"
+  },
+  {
+    "id": "shopee:527508334.58216972769",
+    "titulo": "Grade de Cama de Proteção Branca | Tamanhos Pequena, Média, Grande e GG | Segurança antiqueda para Bebês, Criança, Idoso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mscmw3rs2oeed8",
+    "preco": 35,
+    "preco_anterior": 53.85,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1VzF286rXc",
+    "atualizado_em": "2026-09-16T21:41:40.988-03:00"
+  },
+  {
+    "id": "shopee:432628853.58208814983",
+    "titulo": "Capa de Chuva Infantil Adulto Com Capuz Botão Material Impermeável Colorida e Galaxy Transparente",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mn0lrmed11qa1f",
+    "preco": 15,
+    "preco_anterior": 30,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5AsWAZ3ETX",
+    "atualizado_em": "2026-09-16T21:36:36.879-03:00"
+  },
+  {
+    "id": "shopee:1481897291.58215220404",
+    "titulo": "Conjunto de bebê Infantil Verão Menino Body e Short 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ay-mr8sjhr2ez9g02",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9peJDUL52r",
+    "atualizado_em": "2026-09-16T21:31:31.014-03:00"
+  },
+  {
+    "id": "shopee:575397523.51106656675",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAH9c6kHMU",
+    "atualizado_em": "2026-09-16T21:26:20.726-03:00"
+  },
+  {
+    "id": "shopee:341167297.54661500433",
+    "titulo": "Kit 6 ou 4 peças Regata Infantil de Menino Minimalista Basico Verão Masculino Bebe Casual ou 6 Peças Roupa de Calor",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mp0ttzdplt6t9f",
+    "preco": 39.9,
+    "preco_anterior": 75.28,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9fKt1BLiNo",
+    "atualizado_em": "2026-09-16T21:21:05.172-03:00"
+  },
+  {
+    "id": "shopee:396723953.40026562019",
+    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
+    "preco": 58.89,
+    "preco_anterior": 99.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AKaZoPje1V",
+    "atualizado_em": "2026-09-16T21:15:54.878-03:00"
+  },
+  {
+    "id": "shopee:341167297.47453028150",
+    "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l01",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
+    "preco": 24.9,
+    "preco_anterior": 49.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/LnDu1vFK8",
+    "atualizado_em": "2026-09-16T21:10:49.475-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17875996",
+    "titulo": "Sabonete Líquido Baruel Baby Glicerina Neutro 210ml A-R",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835837-MLA105345918437_012026-F.jpg",
+    "preco": 16.09,
+    "preco_anterior": 20.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kH8NKX",
+    "atualizado_em": "2026-09-16T21:05:41.125-03:00"
+  },
+  {
+    "id": "shopee:1687829254.22194788832",
+    "titulo": "Kit com 3 macacões bebês | 100% Algodão | RN ao G | | Macacão| Menina, Menino e Unissex",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mo01rwh4xiis16",
+    "preco": 79.8,
+    "preco_anterior": 221.67,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1BMKtZIXca",
+    "atualizado_em": "2026-09-16T21:00:33.773-03:00"
+  },
+  {
+    "id": "shopee:1422731263.42508384555",
+    "titulo": "Vestido Barrado Manga Infantil Menina Estampado Casual Festa Luxo 4 a 12 Anos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meytlw3zjfgn18",
+    "preco": 37.9,
+    "preco_anterior": 70.19,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/20vUOoMXa2",
+    "atualizado_em": "2026-09-16T20:55:24.234-03:00"
+  },
+  {
+    "id": "shopee:1006215031.24092960895",
+    "titulo": "Colar Com Pingente De Coração Para Meninas , Nó De Borboleta Rosa , Joia Fofa , Presente",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxr-mcaohz21m09saf",
+    "preco": 4.78,
+    "preco_anterior": 11.12,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LQtTGwOhq",
+    "atualizado_em": "2026-09-16T20:49:58.412-03:00"
+  },
+  {
+    "id": "shopee:367379535.22493855388",
+    "titulo": "Sunga Infantil Boxer Com Cordão Tamanhos 4 ao 12 Estampas Exclusivas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-msvcegpazevbfa",
+    "preco": 19.9,
+    "preco_anterior": 33.17,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/30o34eXKxZ",
+    "atualizado_em": "2026-09-16T20:44:50.341-03:00"
+  },
+  {
+    "id": "shopee:938887028.52206254012",
+    "titulo": "Fantasia Guerreira KPOP Infantil Rumi Guerreira K-POP Luxo Dança Show Menina Carnaval Dia Das Crianças",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zue-mkukab9t86io72",
+    "preco": 69.99,
+    "preco_anterior": 148.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/qjYUexRyd",
+    "atualizado_em": "2026-09-16T20:39:42.980-03:00"
+  },
+  {
+    "id": "shopee:497089612.58108632896",
+    "titulo": "Kit Suspensório+Gravata Borboleta Ajustavel Social Kids Criança Para Festa Igreja Pajem Casamento",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-momzpkhfa3npbb",
+    "preco": 18.99,
+    "preco_anterior": 59.34,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50Z7SJ8WoI",
+    "atualizado_em": "2026-09-16T20:34:34.634-03:00"
+  },
+  {
+    "id": "shopee:1013389007.18399892826",
+    "titulo": "Sandália Rsteirinha Slide Capri 867A KIKIVE",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j2-mf30vz8orvgq9e",
+    "preco": 15,
+    "preco_anterior": 50,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80Cj1oWi1Q",
+    "atualizado_em": "2026-09-16T20:29:23.548-03:00"
+  },
+  {
+    "id": "shopee:1573559015.43327284969",
+    "titulo": "Mini Potes para Congelar Papinha c/ Tampa Hermética Porta Leita em pó Frutas para Bebe adultos Kit c/2/4/8/16",
+    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mic3d2r0aaknfd",
+    "preco": 13.88,
+    "preco_anterior": 29.53,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LQtJ3JFM6",
+    "atualizado_em": "2026-09-16T20:24:17.485-03:00"
+  },
+  {
+    "id": "shopee:822992046.19199071899",
+    "titulo": "Kit 36 Repelente Adesivo Citronela Sai Mosquito",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lofeebvexyknae",
+    "preco": 5,
+    "preco_anterior": 10,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qc4sRtF3U",
+    "atualizado_em": "2026-09-16T20:18:56.935-03:00"
+  },
+  {
+    "id": "shopee:341167297.44506971957",
+    "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
+    "preco": 47.9,
+    "preco_anterior": 99.79,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BTnhivsf9",
+    "atualizado_em": "2026-09-16T20:13:46.527-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18406873",
+    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
+    "preco": 21.59,
+    "preco_anterior": 31.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2nh1NJn",
+    "atualizado_em": "2026-09-16T20:03:11.947-03:00"
+  },
+  {
+    "id": "shopee:1146454576.58215376863",
+    "titulo": "Conjunto Body Bebe Menina com Calca Tiara e Sapatinho do Tema Ovelhinha",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-mrbx59ga6j2d42",
+    "preco": 38.83,
+    "preco_anterior": 55.47,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9V1SosMLip",
+    "atualizado_em": "2026-09-16T19:58:00.167-03:00"
+  },
+  {
+    "id": "shopee:1207318462.18098113310",
+    "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
+    "preco": 34.75,
+    "preco_anterior": 59.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1ANVQMyzL",
+    "atualizado_em": "2026-09-16T19:52:54.500-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18342439",
+    "titulo": "Sabonete Em Barra Odor De Rosas 90g Phebo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_618747-MLA99932085853_112025-F.jpg",
+    "preco": 5.09,
+    "preco_anterior": 9.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZR7cvD",
+    "atualizado_em": "2026-09-16T19:47:45.546-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17876060",
+    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby 200ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851803-MLA109484201294_042026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 26.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1PTC89z",
+    "atualizado_em": "2026-09-16T19:42:30.454-03:00"
+  },
+  {
+    "id": "shopee:1739680653.58204448907",
+    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
+    "preco": 24.9,
+    "preco_anterior": 75.45,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1BMKtYs4dF",
+    "atualizado_em": "2026-09-16T19:37:22.524-03:00"
+  },
+  {
+    "id": "shopee:391751753.58210250288",
+    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
+    "preco": 30,
+    "preco_anterior": 69.77,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/112uhGJAxZ",
+    "atualizado_em": "2026-09-16T19:32:12.044-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18342490",
+    "titulo": "Nivea Sabonete Em Barra Pure Milk Sensitive Promo 6 Uni 90g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869664-MLA99925323751_112025-F.jpg",
+    "preco": 20.66,
+    "preco_anterior": 28.29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WsxaQr",
+    "atualizado_em": "2026-09-16T19:27:07.690-03:00"
+  },
+  {
+    "id": "shopee:1544277082.22099545986",
+    "titulo": "Brinquedo 2 em 1 Carro que Transforma em Dragão Robô Infantil Educativo",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mpug70794dtsb1",
+    "preco": 45.9,
+    "preco_anterior": 99.78,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/qjYPH0NS0",
+    "atualizado_em": "2026-09-16T19:11:38.205-03:00"
+  },
+  {
+    "id": "shopee:291174073.21297732100",
+    "titulo": "Kit 8pçs Talheres de Silicone p/ Bebê c/ Ventosa, Colher, Garfo, Canudo e Babador Infantil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyw-lyy3asttten617",
+    "preco": 34.99,
+    "preco_anterior": 99.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2gBCVpLmhu",
+    "atualizado_em": "2026-09-16T19:01:27.166-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 36.05,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-09-16T18:56:22.768-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17875637",
+    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 16.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2j8Abfk",
+    "atualizado_em": "2026-09-16T18:51:13.066-03:00"
+  },
+  {
+    "id": "shopee:1017646777.21899901744",
+    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
+    "preco": 134.98,
+    "preco_anterior": 198.5,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AUu00iIXgv",
+    "atualizado_em": "2026-09-16T18:46:04.296-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB17775077",
+    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
+    "preco": 14.49,
+    "preco_anterior": 25.46,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Kh8yRD",
+    "atualizado_em": "2026-09-16T18:40:58.805-03:00"
+  },
+  {
+    "id": "shopee:1042066189.43481645729",
+    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
+    "preco": 29.48,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2LYIHiE6Fh",
+    "atualizado_em": "2026-09-16T18:35:44.100-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB19543081",
+    "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
+    "preco": 14,
+    "preco_anterior": 27.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2grLWyY",
+    "atualizado_em": "2026-09-16T18:30:37.961-03:00"
+  },
+  {
+    "id": "shopee:341167297.19598019373",
+    "titulo": "Kit Básico 10 Peças Roupa Bebê Menino - 5 Camisetas Básicas + 5 Bermudas - 5 Conjuntos Lisos Bebê Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moyaaziysoarc3",
+    "preco": 93.9,
+    "preco_anterior": 149.05,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AKaZoPJB1s",
+    "atualizado_em": "2026-09-16T18:25:29.644-03:00"
+  },
+  {
+    "id": "shopee:1167191968.41628916751",
+    "titulo": "Vestido Infantil Luxo Premium Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
+    "preco": 35.9,
+    "preco_anterior": 55.23,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1gIe0CNoFs",
+    "atualizado_em": "2026-09-16T18:15:09.397-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB16195428",
+    "titulo": "Mustela Musti Perfume Bebê 50 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933153-MLA99894006019_112025-F.jpg",
+    "preco": 88.99,
+    "preco_anterior": 201.7,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Dmn5cF",
+    "atualizado_em": "2026-09-16T18:10:02.888-03:00"
+  },
+  {
+    "id": "shopee:1360752092.22398663565",
+    "titulo": "Bomba Amamentacao tira-leite elétrica Sem dor Alta potencia de sucção integrada Silenciosa Portátil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratk-mb4eca4ny91t2e",
+    "preco": 39.69,
+    "preco_anterior": 152.65,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/30o2uRKW1w",
+    "atualizado_em": "2026-09-16T18:04:54.881-03:00"
+  },
+  {
+    "id": "shopee:690480779.58264030163",
+    "titulo": "Blusa Suéter Infantil Juvenil Menino em Tricô Liso Malha Leve Manga Longa Elegante 4 a 14 Anos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mqhoikfty9z59e",
+    "preco": 42.99,
+    "preco_anterior": 84.29,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9fKwqgUo2J",
+    "atualizado_em": "2026-09-16T17:54:37.913-03:00"
+  },
+  {
+    "id": "shopee:1472462269.58259359702",
+    "titulo": "Tenda infantil: casa dos sonhos, infância feliz",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mndekygqd1q96d",
+    "preco": 60.25,
+    "preco_anterior": 87.32,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/60RcuiXaOB",
+    "atualizado_em": "2026-09-16T17:44:20.518-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18406931",
+    "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
+    "preco": 12.99,
+    "preco_anterior": 26.92,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KK85gv",
+    "atualizado_em": "2026-09-16T17:39:16.262-03:00"
+  },
+  {
+    "id": "shopee:1328472746.58200651904",
+    "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3h9ri6ul1cf5",
+    "preco": 71.99,
+    "preco_anterior": 133.31,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6L4TJKWJiD",
+    "atualizado_em": "2026-09-16T17:34:07.344-03:00"
+  },
+  {
+    "id": "shopee:1853509573.45164255494",
+    "titulo": "Brinquedo de pelúcia sensorial de música interativa de morango Banana, toque corporal pode ativar som e melodia, respond",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258g-mr8lt6k2ocn8fe",
+    "preco": 29.79,
+    "preco_anterior": 60.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6VNuzLDklh",
+    "atualizado_em": "2026-09-16T17:29:01.260-03:00"
+  },
+  {
+    "id": "shopee:800263385.22097923147",
+    "titulo": "Creme Anti-Estrias - Diga Adeus às Estrias! Previne Novas Estrias & Reforça a Elasticidade Da Pele",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmrrtbtgn37lec",
+    "preco": 38.9,
+    "preco_anterior": 121.56,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BTrRh6vcE",
+    "atualizado_em": "2026-09-16T17:23:52.356-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB34506179",
+    "titulo": "Dove Original Sabonete em Barra 90 g 6 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_616595-MLA99422627444_112025-F.jpg",
+    "preco": 23.69,
+    "preco_anterior": 35.94,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/152M88P",
+    "atualizado_em": "2026-09-16T17:18:45.608-03:00"
+  },
+  {
+    "id": "shopee:1321993634.28620926406",
+    "titulo": "Blocos de Montagem Mini Peças Personagens de Anime Brinquedo Educativo Presente Infantil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfie-m3vxlfg4tkbf4c",
+    "preco": 7.95,
+    "preco_anterior": 25.65,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2LYM1fU5YG",
+    "atualizado_em": "2026-09-16T17:13:30.786-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB19559227",
+    "titulo": "Alicate Cuticula Profissional Classic 522 Mundial S A Prateado",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926003-MLA114474208884_082026-F.jpg",
+    "preco": 17,
+    "preco_anterior": 29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/14sycM5",
+    "atualizado_em": "2026-09-16T17:08:25.151-03:00"
+  },
+  {
+    "id": "shopee:569114904.22995516214",
+    "titulo": "4/12/20 Peças Quadrado/Rotundidade Protetor De Quina Silicone Mesa Segurança Para Crianças E Bebes Proteção Promoção",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mmehrc88zmdc38",
+    "preco": 8.98,
+    "preco_anterior": 23.03,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fonzmr04o",
+    "atualizado_em": "2026-09-16T17:03:02.517-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB18342188",
+    "titulo": "Sabonete Em Barra Dove Original 90 G 8 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_610720-MLA109540315790_042026-F.jpg",
+    "preco": 34.92,
+    "preco_anterior": 36,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1hBHYzZ",
+    "atualizado_em": "2026-09-16T16:57:56.498-03:00"
+  },
+  {
+    "id": "shopee:728451683.23991805523",
+    "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
+    "preco": 35,
+    "preco_anterior": 64.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/20vRt6FMvf",
+    "atualizado_em": "2026-09-16T16:52:47.124-03:00"
   }
 ]
