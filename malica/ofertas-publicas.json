@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25603083",
+    "titulo": "Brinquedo Centopeia de Atividades Encaixa E Puxa Fisher Price 8350",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838837-MLA99998725363_112025-F.jpg",
+    "preco": 47.9,
+    "preco_anterior": 79.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1nTzPvA",
+    "atualizado_em": "2026-09-17T10:35:05.269-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23480808",
     "titulo": "Laptop Infantil Educativo Spider Man Candide",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
@@ -1460,16 +1470,6 @@
     "atualizado_em": "2026-09-16T11:27:56.147-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB25603083",
-    "titulo": "Brinquedo Centopeia de Atividades Encaixa E Puxa Fisher Price 8350",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838837-MLA99998725363_112025-F.jpg",
-    "preco": 47.9,
-    "preco_anterior": 79.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1nTzPvA",
-    "atualizado_em": "2026-09-16T11:22:46.058-03:00"
-  },
-  {
     "id": "shopee:1822435935.58214954463",
     "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Inverno Infantil Fashion Short Blusa Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr26imqr94w499",
@@ -1538,15 +1538,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Ztsgta",
     "atualizado_em": "2026-09-16T10:41:23.897-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18395240",
-    "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
-    "preco": 11.09,
-    "preco_anterior": 14.58,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cy9aXb",
-    "atualizado_em": "2026-09-16T10:31:03.464-03:00"
   }
 ]
