@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB64885191",
+    "titulo": "Lançador Buzz Lightyear Imaginext para Toy Story e Filme Lightyear",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_907583-MLA105094624010_012026-F.jpg",
+    "preco": 49.9,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1neKJaN",
+    "atualizado_em": "2026-09-17T13:05:57.562-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27145476",
     "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
@@ -1498,15 +1508,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1N9F5E3",
     "atualizado_em": "2026-09-16T13:11:53.169-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17489277",
-    "titulo": "LEGO Classic - Maleta da Criatividade - 213 Peças - 10713",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bcKcRJ",
-    "atualizado_em": "2026-09-16T13:01:31.503-03:00"
   }
 ]
