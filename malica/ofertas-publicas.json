@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342490",
+    "titulo": "Nivea Sabonete Em Barra Pure Milk Sensitive Promo 6 Uni 90g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869664-MLA99925323751_112025-F.jpg",
+    "preco": 17.99,
+    "preco_anterior": 28.29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WsxaQr",
+    "atualizado_em": "2026-09-17T17:13:31.153-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26454526",
     "titulo": "Fisher Price Puxe A Tartaruga Y8652 - Mattel",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_832645-MLA99959799305_112025-F.jpg",
@@ -1360,16 +1370,6 @@
     "atualizado_em": "2026-09-16T19:32:12.044-03:00"
   },
   {
-    "id": "mercadolivre:product:MLB18342490",
-    "titulo": "Nivea Sabonete Em Barra Pure Milk Sensitive Promo 6 Uni 90g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869664-MLA99925323751_112025-F.jpg",
-    "preco": 20.66,
-    "preco_anterior": 28.29,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WsxaQr",
-    "atualizado_em": "2026-09-16T19:27:07.690-03:00"
-  },
-  {
     "id": "shopee:1544277082.22099545986",
     "titulo": "Brinquedo 2 em 1 Carro que Transforma em Dragão Robô Infantil Educativo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mpug70794dtsb1",
@@ -1548,25 +1548,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/152M88P",
     "atualizado_em": "2026-09-16T17:18:45.608-03:00"
-  },
-  {
-    "id": "shopee:1321993634.28620926406",
-    "titulo": "Blocos de Montagem Mini Peças Personagens de Anime Brinquedo Educativo Presente Infantil",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfie-m3vxlfg4tkbf4c",
-    "preco": 7.95,
-    "preco_anterior": 25.65,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYM1fU5YG",
-    "atualizado_em": "2026-09-16T17:13:30.786-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19559227",
-    "titulo": "Alicate Cuticula Profissional Classic 522 Mundial S A Prateado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926003-MLA114474208884_082026-F.jpg",
-    "preco": 17,
-    "preco_anterior": 29,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/14sycM5",
-    "atualizado_em": "2026-09-16T17:08:25.151-03:00"
   }
 ]
