@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:443147300.22494223336",
+    "titulo": "Kit 5 Pijama Infantil Criança Personagem Microfibra Soltinho Conforto Short Dool Blusa Roupa de Dormir Infantil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbo21xhvzkux12",
+    "preco": 26.99,
+    "preco_anterior": 99.96,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fopSMVNgm",
+    "atualizado_em": "2026-09-18T09:58:09.971-03:00"
+  },
+  {
     "id": "shopee:581829117.23897712860",
     "titulo": "JULIETE INFANTIL Óculos de Sol INFANTIL Juliete Plástico Criança Menino Menina Com Proteção Solar UV400",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyd-lz0odnh7gvvm52",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BEwwHo6dq",
     "atualizado_em": "2026-09-17T09:59:00.282-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19509698",
-    "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
-    "preco": 23.01,
-    "preco_anterior": 24.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Ktnopa",
-    "atualizado_em": "2026-09-17T09:53:54.330-03:00"
   }
 ]
