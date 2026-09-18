@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8JVLYKT",
+    "titulo": "Granado Refil Shampoo Bebê, Tradicional, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/51JNcvab-nL._AC_SL1500_.jpg",
+    "preco": 11,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=malica09-20",
+    "atualizado_em": "2026-09-18T20:49:47.607-03:00"
+  },
+  {
     "id": "amazon:B0H6QSWK96",
     "titulo": "Oferta: Kit Banheira Plastibaby 4 Peças com Organizador (Rosa Perolado)",
     "imagem": "https://m.media-amazon.com/images/I/51o1S2-rM3L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1VzG4Wcd7B",
     "atualizado_em": "2026-09-17T20:54:02.006-03:00"
-  },
-  {
-    "id": "shopee:341167297.47453028150",
-    "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l01",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
-    "preco": 24.9,
-    "preco_anterior": 49.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6fhME0sM8w",
-    "atualizado_em": "2026-09-17T20:48:56.338-03:00"
   }
 ]
