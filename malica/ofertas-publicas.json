@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.22736205362",
+    "titulo": "Kit 4 Peças Moletom Minimalista Bebês Menina Baby Blusa e Calça Manga Longa Roupa de Frio Inverno Feminina Neném",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mn1et7jzfnk4b1",
+    "preco": 47.9,
+    "preco_anterior": 149.69,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3qNAqo38tp",
+    "atualizado_em": "2026-09-18T18:25:33.569-03:00"
+  },
+  {
     "id": "amazon:B07DHRPTPB",
     "titulo": "Shampoo Para Bebê Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1mv74Yq",
     "atualizado_em": "2026-09-17T18:30:38.204-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17457292",
-    "titulo": "Pano Umedecido Álcool 70° Refil Com 35 Unidades Coperalcool",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877620-MLA99934081237_112025-F.jpg",
-    "preco": 15.8,
-    "preco_anterior": 18.3,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bSwQpF",
-    "atualizado_em": "2026-09-17T18:25:31.513-03:00"
   }
 ]
