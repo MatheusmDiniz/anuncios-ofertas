@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BLJS7ZBW",
+    "titulo": "Barbie Laboratório de  Ciências, Playset com Duas Bonecas e Acessórios STEM Para Experimentos Criativos!",
+    "imagem": "https://m.media-amazon.com/images/I/61iQjnKjSFL._AC_SL1500_.jpg",
+    "preco": 216.65,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BLJS7ZBW?tag=malica09-20",
+    "atualizado_em": "2026-09-18T14:13:09.945-03:00"
+  },
+  {
     "id": "amazon:B07G8QLGSR",
     "titulo": "PARA ESTERELIZAR TUDO!!",
     "imagem": "https://m.media-amazon.com/images/I/51UOsl4f9jL._AC_SL1500_.jpg",
@@ -1618,25 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8KpaD4m0l6",
     "atualizado_em": "2026-09-17T14:18:17.454-03:00"
-  },
-  {
-    "id": "shopee:816642727.23994061112",
-    "titulo": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo79fsp4i8lcc4",
-    "preco": 23.89,
-    "preco_anterior": 35.66,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9peNzq6uCZ",
-    "atualizado_em": "2026-09-17T14:13:09.183-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36931922",
-    "titulo": "Desodorante Colônia Cebolinha Turma da Mônica 25ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_685367-MLA115708034876_092026-F.jpg",
-    "preco": 19.9,
-    "preco_anterior": 34.34,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24boscH",
-    "atualizado_em": "2026-09-17T14:08:01.618-03:00"
   }
 ]
