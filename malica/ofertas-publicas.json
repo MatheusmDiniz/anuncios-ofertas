@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:562281331.22093625906",
+    "titulo": "1/2/4 girafas estica e gruda melman pop it tubo com luz brinquedo para crianças promoção",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj92wdv9yo7a44",
+    "preco": 10,
+    "preco_anterior": 58.82,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/60RhL7ADGk",
+    "atualizado_em": "2026-09-18T16:26:59.652-03:00"
+  },
+  {
     "id": "amazon:B0GVMQ37N5",
     "titulo": "Lenço Umedecido Bebê Baby Club 280 Unidades 4x70 Hipoalergênico : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/61Zmnoy9BFL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2iTmTiG",
     "atualizado_em": "2026-09-17T16:27:15.341-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342378",
-    "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
-    "preco": 20.67,
-    "preco_anterior": 28.29,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1DB9JYB",
-    "atualizado_em": "2026-09-17T16:22:05.659-03:00"
   }
 ]
