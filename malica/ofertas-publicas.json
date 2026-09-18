@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1700242901.58264520528",
+    "titulo": "Kit 6 Peças Roupa De Bebê Body Menino Animado Estampado Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrwueepou8sn74",
+    "preco": 47.89,
+    "preco_anterior": 108.84,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4B01fYPF4t",
+    "atualizado_em": "2026-09-18T18:30:41.420-03:00"
+  },
+  {
     "id": "shopee:341167297.22736205362",
     "titulo": "Kit 4 Peças Moletom Minimalista Bebês Menina Baby Blusa e Calça Manga Longa Roupa de Frio Inverno Feminina Neném",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mn1et7jzfnk4b1",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1nLmEEc",
     "atualizado_em": "2026-09-17T18:35:44.961-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876062",
-    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 14.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mv74Yq",
-    "atualizado_em": "2026-09-17T18:30:38.204-03:00"
   }
 ]
