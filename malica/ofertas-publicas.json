@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B009KBH0FI",
+    "titulo": "Óleo Hidratante De Amêndoas Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41-JhIE-jhL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B009KBH0FI?tag=malica09-20",
+    "atualizado_em": "2026-09-18T16:32:16.288-03:00"
+  },
+  {
     "id": "shopee:562281331.22093625906",
     "titulo": "1/2/4 girafas estica e gruda melman pop it tubo com luz brinquedo para crianças promoção",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj92wdv9yo7a44",
