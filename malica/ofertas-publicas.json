@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076X7VHWN",
+    "titulo": "APRENDER BRINCANDO É MAIS LEGAL!",
+    "imagem": "https://m.media-amazon.com/images/I/61Tgw23t8-L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=malica09-20",
+    "atualizado_em": "2026-09-18T13:51:56.927-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19601136",
     "titulo": "Lenços Umedecidos Upa Bebê - 140 Unidades Toalhas Umedecidas Com Tampa Flip Top Sem Alcool",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_771265-MLA104343721506_012026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1yKShtn",
     "atualizado_em": "2026-09-17T13:52:23.266-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24696459",
-    "titulo": "Pinico Mictorio Menino Sapo Sapinho Infantil Mais Resistente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628884-MLA105469096781_012026-F.jpg",
-    "preco": 19.9,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19TGYfP",
-    "atualizado_em": "2026-09-17T13:47:13.707-03:00"
   }
 ]
