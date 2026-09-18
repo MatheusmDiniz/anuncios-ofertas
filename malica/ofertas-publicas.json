@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDLK45SR",
+    "titulo": "Oferta: Maxi Baby Tapete Ginásio Com Bolinhas Para Bebê Movie Cinza",
+    "imagem": "https://m.media-amazon.com/images/I/61S3tEH25ML._AC_SL1500_.jpg",
+    "preco": 259.89,
+    "preco_anterior": 314.42,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDLK45SR?tag=malica09-20",
+    "atualizado_em": "2026-09-18T19:53:09.352-03:00"
+  },
+  {
     "id": "amazon:B0GV4YYQ1L",
     "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
     "imagem": "https://m.media-amazon.com/images/I/81VlMrdeDzL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2epHF18",
     "atualizado_em": "2026-09-17T19:57:40.055-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19559227",
-    "titulo": "Alicate Cuticula Profissional Classic 522 Mundial S A Prateado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926003-MLA114474208884_082026-F.jpg",
-    "preco": 17,
-    "preco_anterior": 29,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/14sycM5",
-    "atualizado_em": "2026-09-17T19:52:32.026-03:00"
   }
 ]
