@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1669522364.58255859733",
+    "titulo": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkynhxip4uf770",
+    "preco": 31,
+    "preco_anterior": 64.58,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2gBF4VNvPb",
+    "atualizado_em": "2026-09-18T12:34:55.727-03:00"
+  },
+  {
     "id": "amazon:B0FH7JFL16",
     "titulo": "PROTEÇÃO NATURAL PARA A PELE DO BEBÊ",
     "imagem": "https://m.media-amazon.com/images/I/61RXhuVAZkL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1p8M5jt",
     "atualizado_em": "2026-09-17T12:38:22.002-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27672036",
-    "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
-    "preco": 24.49,
-    "preco_anterior": 47.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2chmi3v",
-    "atualizado_em": "2026-09-17T12:33:13.641-03:00"
   }
 ]
