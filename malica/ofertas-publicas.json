@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:396723953.48056685219",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/20vWfRaj6K",
+    "atualizado_em": "2026-09-18T10:08:42.808-03:00"
+  },
+  {
     "id": "shopee:574744823.22996924590",
     "titulo": "Sapato Social Infantil Masculino Verniz Preto Leve Super Confortavel",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mmuirjyu20as47",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/19szzmM",
     "atualizado_em": "2026-09-17T10:09:23.390-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42105593",
-    "titulo": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
-    "preco": 47.82,
-    "preco_anterior": 63.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19ebFat",
-    "atualizado_em": "2026-09-17T10:04:08.239-03:00"
   }
 ]
