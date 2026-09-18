@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Y94W69D",
+    "titulo": "Oferta: Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista gigante com lançador, rampas e ataque do T-Rex motorizado. Para crianças a partir de 4 anos.",
+    "imagem": "https://m.media-amazon.com/images/I/81q94ZM9zjL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=malica09-20",
+    "atualizado_em": "2026-09-18T16:42:43.136-03:00"
+  },
+  {
     "id": "shopee:427457955.22498844695",
     "titulo": "Lança Bolhas Sabão Automático Brinquedo Infantil Menino Menina Festa Aniversário Presente Elétrico",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mowqrc9hs6bpfa",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Yvt5Vw",
     "atualizado_em": "2026-09-17T16:42:48.108-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876098",
-    "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
-    "preco": 13.99,
-    "preco_anterior": 17.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2LCJPbM",
-    "atualizado_em": "2026-09-17T16:37:36.208-03:00"
   }
 ]
