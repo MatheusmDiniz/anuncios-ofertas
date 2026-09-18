@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.22197391400",
+    "titulo": "Kit Sortido 10 Peças de Roupas Infantil Bebê Menina (5 Camisetas + 5 Shorts) Kit 5 Conjuntos Bebê",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mr4suhqemgp126",
+    "preco": 88.9,
+    "preco_anterior": 141.11,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7VGTDXpBSB",
+    "atualizado_em": "2026-09-18T10:29:14.168-03:00"
+  },
+  {
     "id": "shopee:580787446.27945255322",
     "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ZSvfs3",
     "atualizado_em": "2026-09-17T10:29:56.406-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24647481",
-    "titulo": "Bicicleta De Equilíbrio Zippy Toys Andador Infantil Bike Sem Pedal Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_890028-MLA96136074259_102025-F.jpg",
-    "preco": 78.89,
-    "preco_anterior": 132.12,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1uG6w7U",
-    "atualizado_em": "2026-09-17T10:24:46.602-03:00"
   }
 ]
