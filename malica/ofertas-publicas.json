@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:800263385.22097923147",
+    "titulo": "Creme Anti-Estrias - Diga Adeus às Estrias! Previne Novas Estrias & Reforça a Elasticidade Da Pele",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmrrtbtgn37lec",
+    "preco": 38.9,
+    "preco_anterior": 121.56,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6fhN26MxE5",
+    "atualizado_em": "2026-09-18T16:01:21.626-03:00"
+  },
+  {
     "id": "amazon:B00F5NZ34K",
     "titulo": "BAIXOU DEMAIS CORREE",
     "imagem": "https://m.media-amazon.com/images/I/517fke2-VpL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9peOQ2fa8l",
     "atualizado_em": "2026-09-17T16:01:26.397-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25236528",
-    "titulo": "Patrulha Canina Helicóptero Skye 1389 - Sunny",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888311-MLA93092797412_092025-F.jpg",
-    "preco": 76.53,
-    "preco_anterior": 78.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2k5imDJ",
-    "atualizado_em": "2026-09-17T15:56:19.898-03:00"
   }
 ]
