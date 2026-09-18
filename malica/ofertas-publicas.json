@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25961240",
+    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
+    "preco": 105.04,
+    "preco_anterior": 149.28,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WbnBpU",
+    "atualizado_em": "2026-09-18T11:48:27.801-03:00"
+  },
+  {
     "id": "shopee:341167297.22296977271",
     "titulo": "Kit 4 Peças Pijama Infantil Menina Manga Comprida Tamanho 1 ao 10",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly2t7zj3codya5",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2BjR1iD",
     "atualizado_em": "2026-09-17T11:52:14.497-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28885783",
-    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
-    "preco": 10.87,
-    "preco_anterior": 20.41,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2far6hn",
-    "atualizado_em": "2026-09-17T11:47:06.378-03:00"
   }
 ]
