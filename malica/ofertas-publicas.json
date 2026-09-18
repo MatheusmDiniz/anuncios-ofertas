@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08SFMNZF6",
+    "titulo": "O PREÇO DA LOJA FÍSICA É CHOCANTE",
+    "imagem": "https://m.media-amazon.com/images/I/51tOnEh+kZL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08SFMNZF6?tag=malica09-20",
+    "atualizado_em": "2026-09-18T13:10:49.820-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47912495",
     "titulo": "Hastes Flexíveis Buba Bebê Ponta Proteção Cotonete 60 Unid",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_744521-MLA83727475941_042025-F.jpg",
