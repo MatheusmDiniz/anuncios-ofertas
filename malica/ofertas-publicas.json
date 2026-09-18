@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGG1QK3D",
+    "titulo": "Oferta: Conjunto de Talheres Infantis Tramontina em Aço Inox com Estojo 05 Pçs",
+    "imagem": "https://m.media-amazon.com/images/I/61eJ1mhmjRL._AC_SL1500_.jpg",
+    "preco": 52.03,
+    "preco_anterior": 58.22,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGG1QK3D?tag=malica09-20",
+    "atualizado_em": "2026-09-18T20:08:45.795-03:00"
+  },
+  {
     "id": "amazon:B0GYQ57VPX",
     "titulo": "Pixar Toy Story 5 Figura de Ação Alto-falante Buzz Lightyear de 7\" : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/515RPS5FgLL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KK85gv",
     "atualizado_em": "2026-09-17T20:13:02.526-03:00"
-  },
-  {
-    "id": "shopee:1207318462.18098113310",
-    "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
-    "preco": 40.55,
-    "preco_anterior": 69.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/112zTbeX82",
-    "atualizado_em": "2026-09-17T20:07:52.688-03:00"
   }
 ]
