@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1167191968.41628916751",
+    "titulo": "Vestido Infantil Luxo Premium Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
+    "preco": 35.9,
+    "preco_anterior": 55.23,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2qUfxudXcb",
+    "atualizado_em": "2026-09-18T18:51:14.668-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20787112",
     "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_733772-MLA111515571640_062026-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2j8Abfk",
     "atualizado_em": "2026-09-17T18:56:09.697-03:00"
-  },
-  {
-    "id": "shopee:391751753.58210250288",
-    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
-    "preco": 30,
-    "preco_anterior": 69.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/gQ94zfnnw",
-    "atualizado_em": "2026-09-17T18:51:02.485-03:00"
   }
 ]
