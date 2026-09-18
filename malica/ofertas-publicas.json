@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19153445",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho G 112 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_925302-MLA99917067965_112025-F.jpg",
+    "preco": 189.23,
+    "preco_anterior": 204.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2a8oMsm",
+    "atualizado_em": "2026-09-18T08:46:28.146-03:00"
+  },
+  {
     "id": "shopee:1450084195.42071102324",
     "titulo": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BTsU6u68K",
     "atualizado_em": "2026-09-17T08:47:06.559-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39426115",
-    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
-    "preco": 66,
-    "preco_anterior": 172.65,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/33bipXK",
-    "atualizado_em": "2026-09-17T08:42:01.034-03:00"
   }
 ]
