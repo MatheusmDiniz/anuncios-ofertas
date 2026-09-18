@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1480010644.54052225033",
+    "titulo": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
+    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkecw4985qc28",
+    "preco": 79,
+    "preco_anterior": 197.5,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1LfrTyvHVr",
+    "atualizado_em": "2026-09-18T08:56:44.210-03:00"
+  },
+  {
     "id": "shopee:287287585.21699091414",
     "titulo": "Sapatilha Antiderrapante Infantil Menino Sapato Aquática Sapatilha Piscina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-loi7d9vm3iz0ad",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fwHqO3MfQ",
     "atualizado_em": "2026-09-17T08:57:20.490-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28552599",
-    "titulo": "Carro Conversível Rosa Grande para Bonecas Barbie, de 37cm e 2 Lugares",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_606831-MLA99362507496_112025-F.jpg",
-    "preco": 19.99,
-    "preco_anterior": 45.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2obdLLP",
-    "atualizado_em": "2026-09-17T08:52:15.252-03:00"
   }
 ]
