@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19466939",
+    "titulo": "Cereal neston 3 cereais 360g Nestlé",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602906-MLU78432990521_082024-F.jpg",
+    "preco": 16.62,
+    "preco_anterior": 38.84,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MMUBY3",
+    "atualizado_em": "2026-09-18T08:15:40.257-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22974681",
     "titulo": "Travel System Duo, Cosco Kids, Reverse, 0 a 15kg, Preto Rajado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_687710-MLA99456623672_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9AOhCXg7ja",
     "atualizado_em": "2026-09-17T08:16:19.115-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27590860",
-    "titulo": "Babador De Silicone Pega Migalhas Menina 09724 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_831978-MLA100084513681_122025-F.jpg",
-    "preco": 18.69,
-    "preco_anterior": 36.4,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HcG1eP",
-    "atualizado_em": "2026-09-17T08:11:14.691-03:00"
   }
 ]
