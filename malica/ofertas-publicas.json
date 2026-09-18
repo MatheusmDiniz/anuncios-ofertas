@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB43492534",
+    "titulo": "Cadeirinha De Descanso Musical Para Bebe Balanço Reclinável com Mobile Rosa - KaBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_693657-MLA110462228855_042026-F.jpg",
+    "preco": 217.9,
+    "preco_anterior": 499.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1in2c7m",
+    "atualizado_em": "2026-09-18T19:27:12.605-03:00"
+  },
+  {
     "id": "shopee:421446882.22594196096",
     "titulo": "Toalha Banho Bebê Capuz Roupão Infantil Recém Nascido Criança Bichinho Bordado ABCSHOP",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmrup9n9ds00f4",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60Rfqvmqzd",
     "atualizado_em": "2026-09-17T19:31:59.576-03:00"
-  },
-  {
-    "id": "shopee:343246764.22193965722",
-    "titulo": "Kit 10/13 Higiene Cuidado Bebê Recém Nascido Essencial Peças Cuidados Com O Bebê Recém Cortador Escova Cabelo Unha Pente",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfhx-m96rilw62r3681",
-    "preco": 21.99,
-    "preco_anterior": 34.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fKyX9Hpm2",
-    "atualizado_em": "2026-09-17T19:26:54.497-03:00"
   }
 ]
