@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B3S9QWQY",
+    "titulo": "SONINHO TRANQUILO COM BARUEL",
+    "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
+    "atualizado_em": "2026-09-18T12:19:35.680-03:00"
+  },
+  {
     "id": "shopee:1600778769.58212545720",
     "titulo": "Prendedor De Chupeta Com Trava Com Corrente Clipe Chupeta Menino e Menina - Promoção",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-824im-mpidtfgsuvpr87",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1BJR8cr",
     "atualizado_em": "2026-09-17T12:22:57.222-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18395240",
-    "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
-    "preco": 11.09,
-    "preco_anterior": 14.58,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cy9aXb",
-    "atualizado_em": "2026-09-17T12:17:49.728-03:00"
   }
 ]
