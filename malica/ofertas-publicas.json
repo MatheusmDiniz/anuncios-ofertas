@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRPTPB",
+    "titulo": "Shampoo Para Bebê Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
+    "atualizado_em": "2026-09-18T18:20:28.046-03:00"
+  },
+  {
     "id": "amazon:B07M73V8JD",
     "titulo": "Danone Nutricia - Aptanutri Premium 3, 1-3 anos, Fórmula de Seguimento, 800g",
     "imagem": "https://m.media-amazon.com/images/I/61LK0Z8R8TL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bSwQpF",
     "atualizado_em": "2026-09-17T18:25:31.513-03:00"
-  },
-  {
-    "id": "shopee:428189389.22999397938",
-    "titulo": "Camisa Gola Polo Infantil e Juvenil Premium Manga Curta Bebê Menino Algodão de alta Qualidade",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mrt43yh8jz0k43",
-    "preco": 43.9,
-    "preco_anterior": 68.59,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6q0n5COBoV",
-    "atualizado_em": "2026-09-17T18:20:24.224-03:00"
   }
 ]
