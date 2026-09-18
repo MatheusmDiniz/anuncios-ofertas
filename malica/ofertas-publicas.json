@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09F4PKD9Y",
+    "titulo": "Kit 2 Macacões Bebê Sem Manga Listrado – Estampas Siri e Girafa – Suedine 100% Algodão – Cor Branco (M)",
+    "imagem": "https://m.media-amazon.com/images/I/61aI1y-yWkL._AC_SL1500_.jpg",
+    "preco": 108,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09F4PKD9Y?tag=malica09-20",
+    "atualizado_em": "2026-09-18T19:42:37.778-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26382862",
     "titulo": "Colchão Infantil Para Berço D18 70x130cm Supreme/Dream Gazin Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_812689-MLA99445998812_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ZR7cvD",
     "atualizado_em": "2026-09-17T19:47:19.584-03:00"
-  },
-  {
-    "id": "shopee:1668201561.22199693873",
-    "titulo": "Pulseira de Segurança Infantil Retrátil Anti Perdido Ajustável com Trava para Crianças e Bebês 1,5m",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqyymla2g7id1d",
-    "preco": 17.98,
-    "preco_anterior": 31.54,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V1Y1MZWtM",
-    "atualizado_em": "2026-09-17T19:42:11.408-03:00"
   }
 ]
