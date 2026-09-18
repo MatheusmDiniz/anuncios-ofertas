@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FS85GWNV",
+    "titulo": "Sof Fralda Babysec Ultra Giga G 2X80",
+    "imagem": "https://m.media-amazon.com/images/I/61IFAzKPIgL._AC_SL1500_.jpg",
+    "preco": 82.9,
+    "preco_anterior": 94.82,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FS85GWNV?tag=malica09-20",
+    "atualizado_em": "2026-09-18T18:05:03.729-03:00"
+  },
+  {
     "id": "shopee:1156409244.58208474935",
     "titulo": "Kit 2 Blusa Infantil Forrada Jaquetas Escolar Infantil Unissex - Moletom Premium (Tam. 4 ao 16)",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mmtjdl36qcjo5c",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1LKq29J",
     "atualizado_em": "2026-09-17T18:10:06.745-03:00"
-  },
-  {
-    "id": "shopee:1191044678.58257320426",
-    "titulo": "Jaqueta Puffer Infantil Bobojaco Masculino Peluciada Capuz Removível Inverno Frio",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mm20urron37q4d",
-    "preco": 88.49,
-    "preco_anterior": 201.11,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4B01uFMQHS",
-    "atualizado_em": "2026-09-17T18:04:58.162-03:00"
   }
 ]
