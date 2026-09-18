@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CPTB83ZW",
+    "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
+    "imagem": "https://m.media-amazon.com/images/I/612MPCMzhxL._AC_SL1500_.jpg",
+    "preco": 31.99,
+    "preco_anterior": 35.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CPTB83ZW?tag=malica09-20",
+    "atualizado_em": "2026-09-18T17:54:30.850-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26114298",
     "titulo": "Garrafinha Infantil Com Canudo Dino 400ml 12m+ Azul - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_782620-MLA99588881380_122025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2grLWyY",
     "atualizado_em": "2026-09-17T17:54:44.783-03:00"
-  },
-  {
-    "id": "shopee:1687829254.22194788832",
-    "titulo": "Kit com 3 macacões bebês | 100% Algodão | RN ao G | | Macacão| Menina, Menino e Unissex",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mo01rwh4xiis16",
-    "preco": 79.8,
-    "preco_anterior": 221.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1BMPfudtn5",
-    "atualizado_em": "2026-09-17T17:49:32.469-03:00"
   }
 ]
