@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FX5X7DV2",
+    "titulo": "Oferta: Assento Redutor Infantil Dobrável Com Escada Desfralde (Cinza)",
+    "imagem": "https://m.media-amazon.com/images/I/51erH0MubIL._AC_SL1500_.jpg",
+    "preco": 74.95,
+    "preco_anterior": 78.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FX5X7DV2?tag=malica09-20",
+    "atualizado_em": "2026-09-18T19:58:29.653-03:00"
+  },
+  {
     "id": "amazon:B0DDLK45SR",
     "titulo": "Oferta: Maxi Baby Tapete Ginásio Com Bolinhas Para Bebê Movie Cinza",
     "imagem": "https://m.media-amazon.com/images/I/61S3tEH25ML._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70KCccr5Sy",
     "atualizado_em": "2026-09-17T20:02:46.973-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19481216",
-    "titulo": "Shampoo Johnson's Baby Cachos Definidos 400ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_985376-MLA99931805363_112025-F.jpg",
-    "preco": 21.5,
-    "preco_anterior": 34.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2epHF18",
-    "atualizado_em": "2026-09-17T19:57:40.055-03:00"
   }
 ]
