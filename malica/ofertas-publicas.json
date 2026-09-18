@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G73SVBYF",
+    "titulo": "Oferta: Bichinho Para Banho Fundo Do Mar Oceano Infantil Bebê",
+    "imagem": "https://m.media-amazon.com/images/I/61z4rk-KluL._AC_SL1500_.jpg",
+    "preco": 40.41,
+    "preco_anterior": 44.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G73SVBYF?tag=malica09-20",
+    "atualizado_em": "2026-09-18T20:13:53.658-03:00"
+  },
+  {
     "id": "amazon:B0CGG1QK3D",
     "titulo": "Oferta: Conjunto de Talheres Infantis Tramontina em Aço Inox com Estojo 05 Pçs",
     "imagem": "https://m.media-amazon.com/images/I/61eJ1mhmjRL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1vyhpHT",
     "atualizado_em": "2026-09-17T20:18:14.557-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406931",
-    "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
-    "preco": 12.99,
-    "preco_anterior": 26.92,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KK85gv",
-    "atualizado_em": "2026-09-17T20:13:02.526-03:00"
   }
 ]
