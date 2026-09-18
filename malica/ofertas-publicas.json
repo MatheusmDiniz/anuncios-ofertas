@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26114298",
+    "titulo": "Garrafinha Infantil Com Canudo Dino 400ml 12m+ Azul - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_782620-MLA99588881380_122025-F.jpg",
+    "preco": 23,
+    "preco_anterior": 40.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2x5sgB6",
+    "atualizado_em": "2026-09-18T17:49:22.285-03:00"
+  },
+  {
     "id": "amazon:B0CNQ9C8TC",
     "titulo": "Pampers Sabonete Liquido Refil Glicerina 350ml",
     "imagem": "https://m.media-amazon.com/images/I/71jkq4uh1hL._AC_SL1500_.jpg",
