@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:548029260.58257405717",
+    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
+    "preco": 42.9,
+    "preco_anterior": 70.33,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4Vcs4ANyOv",
+    "atualizado_em": "2026-09-18T17:28:48.729-03:00"
+  },
+  {
     "id": "amazon:B0D7PT9T9B",
     "titulo": "Oferta: Kit Pista Hot Wheels Super Delegacia de Polícia Mattel. Pista com lançador, prisão de vilões e cenário urbano cheio de ação. Para crianças a partir de 4 anos.",
     "imagem": "https://m.media-amazon.com/images/I/81dvJBBZUnL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1NjCC1D",
     "atualizado_em": "2026-09-17T17:29:01.055-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17457276",
-    "titulo": "Toalhetes Desinfetantes Coperalcool Bacfree Álcool 70° Pacote 15 Unid",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_719214-MLA99823204133_112025-F.jpg",
-    "preco": 10,
-    "preco_anterior": 11.01,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bevmQk",
-    "atualizado_em": "2026-09-17T17:23:49.691-03:00"
   }
 ]
