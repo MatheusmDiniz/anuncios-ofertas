@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B091664YFV",
+    "titulo": "OS PASSEIOS GANHARAM UM ALIADO",
+    "imagem": "https://m.media-amazon.com/images/I/51vhe3JElxL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B091664YFV?tag=malica09-20",
+    "atualizado_em": "2026-09-18T15:16:39.557-03:00"
+  },
+  {
     "id": "shopee:533413030.23897094852",
     "titulo": "Macacão Curto Babado Minimalista Bebê Menina - Até 12 Meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mt2jrpfxr5z922",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AsYrR6xGC",
     "atualizado_em": "2026-09-17T15:20:07.322-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17489277",
-    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bcKcRJ",
-    "atualizado_em": "2026-09-17T15:15:01.418-03:00"
   }
 ]
