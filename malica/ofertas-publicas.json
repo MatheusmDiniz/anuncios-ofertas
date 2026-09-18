@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DHSHNWMX",
+    "titulo": "Gel Para Aliviar a Febre Buba",
+    "imagem": "https://m.media-amazon.com/images/I/61dbYxMz3HL._AC_SL1500_.jpg",
+    "preco": 19.7,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=malica09-20",
+    "atualizado_em": "2026-09-18T11:27:57.109-03:00"
+  },
+  {
     "id": "shopee:888899466.58263239161",
     "titulo": "Kit Enxoval Bebê 10 Peças | 5 Body Manga Longa + 5 Calças Mijão | Lisas | 100% Algodão | Menina Menino Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mszx5yk69vye58",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Eeujoq",
     "atualizado_em": "2026-09-17T11:31:41.586-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215261",
-    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
-    "preco": 122,
-    "preco_anterior": 211.17,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cztGHW",
-    "atualizado_em": "2026-09-17T11:26:33.391-03:00"
   }
 ]
