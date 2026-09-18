@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.22296977271",
+    "titulo": "Kit 4 Peças Pijama Infantil Menina Manga Comprida Tamanho 1 ao 10",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly2t7zj3codya5",
+    "preco": 43.9,
+    "preco_anterior": 84.42,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5LBz3kWeMk",
+    "atualizado_em": "2026-09-18T11:43:18.316-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26981196",
     "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2far6hn",
     "atualizado_em": "2026-09-17T11:47:06.378-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41695273",
-    "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
-    "preco": 78.7,
-    "preco_anterior": 151.36,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2khifsH",
-    "atualizado_em": "2026-09-17T11:41:58.839-03:00"
   }
 ]
