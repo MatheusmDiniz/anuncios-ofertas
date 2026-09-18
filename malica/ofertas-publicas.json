@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28463775",
+    "titulo": "Brinquedo Educativo Pica Pau Baby Toys Set Didático Encaixe 19 Peças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874707-MLA98409763554_112025-F.jpg",
+    "preco": 36.41,
+    "preco_anterior": 56.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MBhnxo",
+    "atualizado_em": "2026-09-18T19:06:38.494-03:00"
+  },
+  {
     "id": "shopee:1797406160.58209316436",
     "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zxovkPlgW",
     "atualizado_em": "2026-09-17T19:11:31.890-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21006188",
-    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
-    "preco": 136.24,
-    "preco_anterior": 252.25,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1RwUN5W",
-    "atualizado_em": "2026-09-17T19:06:27.956-03:00"
   }
 ]
