@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47912495",
+    "titulo": "Hastes Flexíveis Buba Bebê Ponta Proteção Cotonete 60 Unid",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744521-MLA83727475941_042025-F.jpg",
+    "preco": 10.57,
+    "preco_anterior": 12.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1gq4UWd",
+    "atualizado_em": "2026-09-18T13:05:42.237-03:00"
+  },
+  {
     "id": "amazon:B076J2G18D",
     "titulo": "PROMETE  ATÉ 10 HORAS  DE PROTEÇÃO",
     "imagem": "https://m.media-amazon.com/images/I/510a5JF9lWL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1neKJaN",
     "atualizado_em": "2026-09-17T13:05:57.562-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27145476",
-    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 28,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mUFvwo",
-    "atualizado_em": "2026-09-17T13:00:48.794-03:00"
   }
 ]
