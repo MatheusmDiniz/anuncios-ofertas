@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPRGYFCL",
+    "titulo": "O ACHOCOLATADO MAIS VENDIDO DA AMAZON",
+    "imagem": "https://m.media-amazon.com/images/I/61fgMVvEKiL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=malica09-20",
+    "atualizado_em": "2026-09-18T14:18:18.927-03:00"
+  },
+  {
     "id": "amazon:B0BLJS7ZBW",
     "titulo": "Barbie Laboratório de  Ciências, Playset com Duas Bonecas e Acessórios STEM Para Experimentos Criativos!",
     "imagem": "https://m.media-amazon.com/images/I/61iQjnKjSFL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EYrH38",
     "atualizado_em": "2026-09-17T14:23:29.899-03:00"
-  },
-  {
-    "id": "shopee:341167297.20599551957",
-    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
-    "preco": 55.9,
-    "preco_anterior": 99.82,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8KpaD4m0l6",
-    "atualizado_em": "2026-09-17T14:18:17.454-03:00"
   }
 ]
