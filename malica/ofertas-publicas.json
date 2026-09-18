@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B086QD5F3V",
+    "titulo": "Ariel Sabão Líquido Expert Concentrado 3L : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/51Bz4yexvBL._AC_SL1500_.jpg",
+    "preco": 43,
+    "preco_anterior": 64,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B086QD5F3V?tag=malica09-20",
+    "atualizado_em": "2026-09-18T17:03:15.361-03:00"
+  },
+  {
     "id": "shopee:463228698.58251231612",
     "titulo": "20/100Pcs Garras De Cabelo Pequenas E Coloridas Garotas Estrela Fofa Coração Mickey Clipes Acessórios Kids Cartoons",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227f-mhmkp56rgb9k95",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2b9dkbC",
     "atualizado_em": "2026-09-17T17:08:22.053-03:00"
-  },
-  {
-    "id": "shopee:728451683.23991805523",
-    "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
-    "preco": 35,
-    "preco_anterior": 64.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AAHEOS5dWf",
-    "atualizado_em": "2026-09-17T17:03:10.787-03:00"
   }
 ]
