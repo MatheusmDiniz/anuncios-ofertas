@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26382862",
+    "titulo": "Colchão Infantil Para Berço D18 70x130cm Supreme/Dream Gazin Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812689-MLA99445998812_112025-F.jpg",
+    "preco": 149,
+    "preco_anterior": 399,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fwPMj3",
+    "atualizado_em": "2026-09-18T19:37:29.064-03:00"
+  },
+  {
     "id": "amazon:B01MDUHOZZ",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81HwfB7LknL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V1Y1MZWtM",
     "atualizado_em": "2026-09-17T19:42:11.408-03:00"
-  },
-  {
-    "id": "shopee:1233552581.23492959831",
-    "titulo": "Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Quente Feminino Jaqueta Infantil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zum-mkjug1b6qviadf",
-    "preco": 18.8,
-    "preco_anterior": 69.63,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qUeOgAYex",
-    "atualizado_em": "2026-09-17T19:37:05.617-03:00"
   }
 ]
