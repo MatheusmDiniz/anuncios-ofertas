@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:463228698.58251231612",
+    "titulo": "20/100Pcs Garras De Cabelo Pequenas E Coloridas Garotas Estrela Fofa Coração Mickey Clipes Acessórios Kids Cartoons",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227f-mhmkp56rgb9k95",
+    "preco": 10.99,
+    "preco_anterior": 23.38,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8AWC52Cr3Z",
+    "atualizado_em": "2026-09-18T16:58:09.650-03:00"
+  },
+  {
     "id": "amazon:B09QLH5SHB",
     "titulo": "Oferta: Casa de Bonecas Barbie Malibu Dois Andares Rosa Mattel",
     "imagem": "https://m.media-amazon.com/images/I/81DFMqlGQ+L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAHEOS5dWf",
     "atualizado_em": "2026-09-17T17:03:10.787-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28643543",
-    "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
-    "preco": 36.74,
-    "preco_anterior": 53.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vpPWWV",
-    "atualizado_em": "2026-09-17T16:58:04.216-03:00"
   }
 ]
