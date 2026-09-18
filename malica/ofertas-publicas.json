@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GVMQ37N5",
+    "titulo": "Lenço Umedecido Bebê Baby Club 280 Unidades 4x70 Hipoalergênico : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/61Zmnoy9BFL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GVMQ37N5?tag=malica09-20",
+    "atualizado_em": "2026-09-18T16:21:52.306-03:00"
+  },
+  {
     "id": "shopee:452780596.57062162763",
     "titulo": "Conjunto bebe menina oncinha inverno frio roupa roupinha P M G Mini diva estampado com faixa  cabelo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mpfidy8mnfgh1d",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1DB9JYB",
     "atualizado_em": "2026-09-17T16:22:05.659-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24531140",
-    "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
-    "preco": 8,
-    "preco_anterior": 19.07,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26SYkKg",
-    "atualizado_em": "2026-09-17T16:16:56.113-03:00"
   }
 ]
