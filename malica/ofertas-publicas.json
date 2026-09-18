@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09BJZPBNR",
+    "titulo": "A QUALIDADE QUE A MAMÃE AMA",
+    "imagem": "https://m.media-amazon.com/images/I/81qAxGK4mXL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09BJZPBNR?tag=malica09-20",
+    "atualizado_em": "2026-09-18T15:26:50.088-03:00"
+  },
+  {
     "id": "shopee:1671170801.58200794735",
     "titulo": "Saia Estilo Tutu Menina Infantil Verão Cotton Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mrga0q2iozk510",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4qFiSpYYNb",
     "atualizado_em": "2026-09-17T15:30:22.912-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29878854",
-    "titulo": "Conjunto De Brinquedo Chelsea Piloto De Avião - Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904544-MLA99533926800_122025-F.jpg",
-    "preco": 110.99,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Ztsgta",
-    "atualizado_em": "2026-09-17T15:25:16.319-03:00"
   }
 ]
