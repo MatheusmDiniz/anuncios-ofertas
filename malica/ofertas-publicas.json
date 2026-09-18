@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FS9R2B83",
+    "titulo": "OFERTA IMPERDÍVEL",
+    "imagem": "https://m.media-amazon.com/images/I/41UWHcqnkKL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FS9R2B83?tag=malica09-20",
+    "atualizado_em": "2026-09-18T16:06:29.795-03:00"
+  },
+  {
     "id": "shopee:800263385.22097923147",
     "titulo": "Creme Anti-Estrias - Diga Adeus às Estrias! Previne Novas Estrias & Reforça a Elasticidade Da Pele",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmrrtbtgn37lec",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Tz6yaN",
     "atualizado_em": "2026-09-17T16:06:38.826-03:00"
-  },
-  {
-    "id": "shopee:424773647.58257712601",
-    "titulo": "Kit 5 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt4aj74z0cuc2e",
-    "preco": 44.13,
-    "preco_anterior": 119.27,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9peOQ2fa8l",
-    "atualizado_em": "2026-09-17T16:01:26.397-03:00"
   }
 ]
