@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1501359196.21299678393",
+    "titulo": "Sapato Infantil Menino Mocassim 18 ao 27",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84tyuo788wh97",
+    "preco": 38.35,
+    "preco_anterior": 79.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7VGU72GS3L",
+    "atualizado_em": "2026-09-17T21:45:32.806-03:00"
+  },
+  {
     "id": "shopee:344438002.23199132850",
     "titulo": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê 27 x 33 MALA/VIAGEM/ROUPA MOLHADA e SECA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9nhri7tolf6",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9Ki6hO96OC",
     "atualizado_em": "2026-09-16T21:46:46.090-03:00"
-  },
-  {
-    "id": "shopee:527508334.58216972769",
-    "titulo": "Grade de Cama de Proteção Branca | Tamanhos Pequena, Média, Grande e GG | Segurança antiqueda para Bebês, Criança, Idoso",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mscmw3rs2oeed8",
-    "preco": 35,
-    "preco_anterior": 53.85,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1VzF286rXc",
-    "atualizado_em": "2026-09-16T21:41:40.988-03:00"
   }
 ]
