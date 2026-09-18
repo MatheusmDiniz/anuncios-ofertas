@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:427457955.22498844695",
+    "titulo": "Lança Bolhas Sabão Automático Brinquedo Infantil Menino Menina Festa Aniversário Presente Elétrico",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mowqrc9hs6bpfa",
+    "preco": 21.89,
+    "preco_anterior": 31.27,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8V926JFGYi",
+    "atualizado_em": "2026-09-18T16:37:22.120-03:00"
+  },
+  {
     "id": "amazon:B009KBH0FI",
     "titulo": "Óleo Hidratante De Amêndoas Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41-JhIE-jhL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2LCJPbM",
     "atualizado_em": "2026-09-17T16:37:36.208-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876092",
-    "titulo": "Sabonete Líquido De Glicerina 400ml Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
-    "preco": 23.99,
-    "preco_anterior": 41.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xXuLrP",
-    "atualizado_em": "2026-09-17T16:32:24.562-03:00"
   }
 ]
