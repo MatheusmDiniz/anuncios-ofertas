@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FLLHPR16",
+    "titulo": "HORA DE ESTOCAR FÓRMULA",
+    "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
+    "preco": 91.47,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FLLHPR16?tag=malica09-20",
+    "atualizado_em": "2026-09-18T12:40:01.482-03:00"
+  },
+  {
     "id": "shopee:1669522364.58255859733",
     "titulo": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkynhxip4uf770",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XQuVVJ",
     "atualizado_em": "2026-09-17T12:43:35.856-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24646908",
-    "titulo": "Kit Trava Gaveta Porta Armário Geladeira Segurança Bebê Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962810-MLA99839467723_112025-F.jpg",
-    "preco": 33.13,
-    "preco_anterior": 68.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1p8M5jt",
-    "atualizado_em": "2026-09-17T12:38:22.002-03:00"
   }
 ]
