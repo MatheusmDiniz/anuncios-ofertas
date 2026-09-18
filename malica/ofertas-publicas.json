@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1450084195.42071102324",
+    "titulo": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
+    "preco": 68.75,
+    "preco_anterior": 125,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5LC0FJkrFl",
+    "atualizado_em": "2026-09-18T08:41:19.652-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18626757",
     "titulo": "Triciclo Infantil Cardoso Totokinha Ariel Azul 1-3 Anos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_865500-MLA99942056617_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/33bipXK",
     "atualizado_em": "2026-09-17T08:42:01.034-03:00"
-  },
-  {
-    "id": "shopee:1590063220.58207147029",
-    "titulo": "Kit 2 Talco Para Bebe Com Amido De Milho 200g - Pom Pom",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlz39myktjife3",
-    "preco": 38.9,
-    "preco_anterior": 73.4,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/40gb39Ettc",
-    "atualizado_em": "2026-09-17T08:36:51.912-03:00"
   }
 ]
