@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FH7JFL16",
+    "titulo": "PROTEÇÃO NATURAL PARA A PELE DO BEBÊ",
+    "imagem": "https://m.media-amazon.com/images/I/61RXhuVAZkL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FH7JFL16?tag=malica09-20",
+    "atualizado_em": "2026-09-18T12:29:50.149-03:00"
+  },
+  {
     "id": "shopee:744229092.58215504309",
     "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2chmi3v",
     "atualizado_em": "2026-09-17T12:33:13.641-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23024522",
-    "titulo": "Brinquedo Educativo Cubo Mágico Grande Didático Infantil Encaixe 6 Faces Mercotoys",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949635-MLA107382075000_032026-F.jpg",
-    "preco": 63.71,
-    "preco_anterior": 151.02,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2xAR8oH",
-    "atualizado_em": "2026-09-17T12:28:05.075-03:00"
   }
 ]
