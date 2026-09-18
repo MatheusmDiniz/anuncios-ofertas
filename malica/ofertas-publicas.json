@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZHGT9ZT",
+    "titulo": "BANHO SUAVE COM DOVE",
+    "imagem": "https://m.media-amazon.com/images/I/61bL8uVCTxL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=malica09-20",
+    "atualizado_em": "2026-09-18T14:02:44.141-03:00"
+  },
+  {
     "id": "amazon:B0CYLYDHS2",
     "titulo": "O SHAMPOO PERFEITO PARA SUA PRINCESA",
     "imagem": "https://m.media-amazon.com/images/I/61ndOSBPPkL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1CfhZdx",
     "atualizado_em": "2026-09-17T14:02:50.175-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875892",
-    "titulo": "Sabonete Líquido de Glicerina Granado Bebê Tradicional 500ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
-    "preco": 29.99,
-    "preco_anterior": 32.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2iVciEN",
-    "atualizado_em": "2026-09-17T13:57:38.186-03:00"
   }
 ]
