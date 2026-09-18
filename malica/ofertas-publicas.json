@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22610979",
+    "titulo": "Garrafinha Fresh Buba Com Canudo De Silicone 300ml Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798091-MLA99641081032_122025-F.jpg",
+    "preco": 19,
+    "preco_anterior": 36.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Ueee5F",
+    "atualizado_em": "2026-09-18T10:44:38.950-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69894840",
     "titulo": "Copo De Transição Para Bebê 200ml - Philips Avent Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_635950-MLA111824091327_052026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2FxbjCs",
     "atualizado_em": "2026-09-17T10:45:24.001-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24276913",
-    "titulo": "Prato infantil Redondo em Silicone com Divisórias e Ventosas Buba Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705376-MLA100086252029_122025-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 64.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28SEv7U",
-    "atualizado_em": "2026-09-17T10:40:15.182-03:00"
   }
 ]
