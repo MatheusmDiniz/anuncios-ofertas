@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076J2G18D",
+    "titulo": "PROMETE  ATÉ 10 HORAS  DE PROTEÇÃO",
+    "imagem": "https://m.media-amazon.com/images/I/510a5JF9lWL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076J2G18D?tag=malica09-20",
+    "atualizado_em": "2026-09-18T13:00:33.035-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69331466",
     "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1mUFvwo",
     "atualizado_em": "2026-09-17T13:00:48.794-03:00"
-  },
-  {
-    "id": "shopee:1361476561.22493583538",
-    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
-    "preco": 36.9,
-    "preco_anterior": 87.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AUu4n3dlMT",
-    "atualizado_em": "2026-09-17T12:55:39.988-03:00"
   }
 ]
