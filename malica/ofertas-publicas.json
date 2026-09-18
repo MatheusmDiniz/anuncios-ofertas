@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B086GP4FW7",
+    "titulo": "VAI ACABAR RÁPIDO, CORRE",
+    "imagem": "https://m.media-amazon.com/images/I/61zI6xqN6XL._AC_SL1500_.jpg",
+    "preco": 1.46,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B086GP4FW7?tag=malica09-20",
+    "atualizado_em": "2026-09-18T14:43:56.326-03:00"
+  },
+  {
     "id": "shopee:1253561331.22293115832",
     "titulo": "Macacão Promoção Jardineira Body Manga Longa Kids Bebê Menina Bordado de Ursinha Lola Palha",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mn1d7qur91qc9e",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Q4Wv1Y",
     "atualizado_em": "2026-09-17T14:44:07.146-03:00"
-  },
-  {
-    "id": "shopee:646220829.23092088458",
-    "titulo": "Kit 6 Rosquinhas de Amamentação Protetor de Seios Donut em Tricoline Antialérgico",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mr7e1qmkepdwdd",
-    "preco": 19.9,
-    "preco_anterior": 66.33,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fwIGUIOev",
-    "atualizado_em": "2026-09-17T14:38:57.190-03:00"
   }
 ]
