@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09QLH5SHB",
+    "titulo": "Oferta: Casa de Bonecas Barbie Malibu Dois Andares Rosa Mattel",
+    "imagem": "https://m.media-amazon.com/images/I/81DFMqlGQ+L._AC_SL1500_.jpg",
+    "preco": 479,
+    "preco_anterior": 1159,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09QLH5SHB?tag=malica09-20",
+    "atualizado_em": "2026-09-18T16:53:02.265-03:00"
+  },
+  {
     "id": "shopee:932796296.23594703650",
     "titulo": "Lançador De Avião(COM LUZ) Planador Brinquedo Infantil De Espuma Catapulta",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260l-mm0dg1gbnk05c0",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1vpPWWV",
     "atualizado_em": "2026-09-17T16:58:04.216-03:00"
-  },
-  {
-    "id": "shopee:1017646777.21899901744",
-    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
-    "preco": 134.98,
-    "preco_anterior": 198.5,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AWA0lme67",
-    "atualizado_em": "2026-09-17T16:52:52.930-03:00"
   }
 ]
