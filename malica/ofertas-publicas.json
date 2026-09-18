@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69894840",
+    "titulo": "Copo De Transição Para Bebê 200ml - Philips Avent Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635950-MLA111824091327_052026-F.jpg",
+    "preco": 39.61,
+    "preco_anterior": 47.16,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1eqRnGP",
+    "atualizado_em": "2026-09-18T10:39:30.687-03:00"
+  },
+  {
     "id": "shopee:238412076.11380435890",
     "titulo": "Conjunto Social Para Bebe Menino Recém Nascido a 05 Meses Casamento",
     "imagem": "https://cf.shopee.com.br/file/0dcd8c5ca566a001ad15f235bdb24705",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28SEv7U",
     "atualizado_em": "2026-09-17T10:40:15.182-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25603083",
-    "titulo": "Brinquedo Centopeia de Atividades Encaixa E Puxa Fisher Price 8350",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838837-MLA99998725363_112025-F.jpg",
-    "preco": 47.9,
-    "preco_anterior": 79.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1nTzPvA",
-    "atualizado_em": "2026-09-17T10:35:05.269-03:00"
   }
 ]
