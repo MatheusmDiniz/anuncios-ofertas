@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB30165309",
+    "titulo": "Conjunto Piscina Glam Com Boneca Barbie Com Maiô Rosa Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706830-MLA99544928706_122025-F.jpg",
+    "preco": 102.99,
+    "preco_anterior": 159.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32w6dAa",
+    "atualizado_em": "2026-09-18T19:16:55.979-03:00"
+  },
+  {
     "id": "shopee:1253552940.50514700398",
     "titulo": "Kit 4 Peças 2 Conjunto Infantil Menino Verão Confortável 2 Camisas 2 Shorts Sortido Roupa Infantil Bebê 1 ao 12",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mr0omth7lmh23d",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q0n9w29YX",
     "atualizado_em": "2026-09-17T19:21:43.264-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22918403",
-    "titulo": "Chupeta Soothie 0-3m Scf099/03 Philips Avent",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703787-MLA99451951336_112025-F.jpg",
-    "preco": 39.97,
-    "preco_anterior": 68.61,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Psw939",
-    "atualizado_em": "2026-09-17T19:16:38.391-03:00"
   }
 ]
