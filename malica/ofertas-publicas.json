@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07VRYJWPC",
+    "titulo": "Repelente Elétrico Líquido SBP 45 Noites Cheiro Suave com 2 unidades de 32.9ml",
+    "imagem": "https://m.media-amazon.com/images/I/71OFi08UO7L._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07VRYJWPC?tag=malica09-20",
+    "atualizado_em": "2026-09-18T20:54:55.567-03:00"
+  },
+  {
     "id": "amazon:B0D8JVLYKT",
     "titulo": "Granado Refil Shampoo Bebê, Tradicional, 250ml",
     "imagem": "https://m.media-amazon.com/images/I/51JNcvab-nL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1PTC89z",
     "atualizado_em": "2026-09-17T20:59:10.636-03:00"
-  },
-  {
-    "id": "shopee:396723953.40026562019",
-    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
-    "preco": 58.89,
-    "preco_anterior": 99.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1VzG4Wcd7B",
-    "atualizado_em": "2026-09-17T20:54:02.006-03:00"
   }
 ]
