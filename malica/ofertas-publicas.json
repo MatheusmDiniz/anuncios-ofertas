@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1156409244.58208474935",
+    "titulo": "Kit 2 Blusa Infantil Forrada Jaquetas Escolar Infantil Unissex - Moletom Premium (Tam. 4 ao 16)",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mmtjdl36qcjo5c",
+    "preco": 34.99,
+    "preco_anterior": 89.72,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1Lfs6FnBtU",
+    "atualizado_em": "2026-09-18T17:59:53.655-03:00"
+  },
+  {
     "id": "amazon:B0CPTB83ZW",
     "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
     "imagem": "https://m.media-amazon.com/images/I/612MPCMzhxL._AC_SL1500_.jpg",
@@ -1608,25 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B01uFMQHS",
     "atualizado_em": "2026-09-17T18:04:58.162-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27376047",
-    "titulo": "Mosquiteiro Para Carrinho E Bebê Conforto - Marca Buba Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620720-MLA114914803245_072026-F.jpg",
-    "preco": 15.38,
-    "preco_anterior": 27.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vjHHMz",
-    "atualizado_em": "2026-09-17T17:59:52.800-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19543081",
-    "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
-    "preco": 14,
-    "preco_anterior": 27.19,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2grLWyY",
-    "atualizado_em": "2026-09-17T17:54:44.783-03:00"
   }
 ]
