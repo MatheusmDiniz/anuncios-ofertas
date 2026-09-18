@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:744229092.58215504309",
+    "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
+    "preco": 21.99,
+    "preco_anterior": 81.44,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9pePp9ozPU",
+    "atualizado_em": "2026-09-18T12:24:42.875-03:00"
+  },
+  {
     "id": "amazon:B0B3S9QWQY",
     "titulo": "SONINHO TRANQUILO COM BARUEL",
     "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2xAR8oH",
     "atualizado_em": "2026-09-17T12:28:05.075-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36217546",
-    "titulo": "Boneca Barbie Professions, de cabelo loiro, dançarina de balé",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993577-MLA96134750565_102025-F.jpg",
-    "preco": 45.3,
-    "preco_anterior": 58.4,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1BJR8cr",
-    "atualizado_em": "2026-09-17T12:22:57.222-03:00"
   }
 ]
