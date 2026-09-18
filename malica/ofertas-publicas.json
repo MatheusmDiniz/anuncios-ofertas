@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0979VS2JH",
+    "titulo": "PREÇO ESPECIAL NA POM POM G",
+    "imagem": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SL1500_.jpg",
+    "preco": 0.78,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
+    "atualizado_em": "2026-09-18T15:02:09.007-03:00"
+  },
+  {
     "id": "shopee:435692544.22797147604",
     "titulo": "KIT 4 Macacões Bebê Amore Vira Pé com Ziper Sortidos Estampados 100% Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu7-mksc8gjqiy9ta5",
@@ -1618,25 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28aNNQK",
     "atualizado_em": "2026-09-17T15:04:39.922-03:00"
-  },
-  {
-    "id": "shopee:1076565213.22595172854",
-    "titulo": "KIT6/12/24PCSMini brinquedo colorido de mola maluca barato de plástico para meninos e meninas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr6n0viwu39je0",
-    "preco": 10.99,
-    "preco_anterior": 49.95,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9Ki7OxLCXC",
-    "atualizado_em": "2026-09-17T14:59:28.791-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392841",
-    "titulo": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753827-MLA80015367155_102024-F.jpg",
-    "preco": 29.99,
-    "preco_anterior": 39.23,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1N9F5E3",
-    "atualizado_em": "2026-09-17T14:54:22.188-03:00"
   }
 ]
