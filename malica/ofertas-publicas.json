@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00F5NZ34K",
+    "titulo": "BAIXOU DEMAIS CORREE",
+    "imagem": "https://m.media-amazon.com/images/I/517fke2-VpL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=malica09-20",
+    "atualizado_em": "2026-09-18T15:56:14.199-03:00"
+  },
+  {
     "id": "shopee:391301937.41927033529",
     "titulo": "Kit Conjuntos Menino Roupa de Bebê Masculino Verão Camisas Sortidos Enxoval De Bebê Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhwptar1y0htc8",
