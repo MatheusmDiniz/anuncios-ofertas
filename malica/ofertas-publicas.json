@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392845",
+    "titulo": "Lenços Umedecidos Huggies Recém Nascido Pack C/4 - 192 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700377-MLA99930638257_112025-F.jpg",
+    "preco": 29.18,
+    "preco_anterior": 45.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Gwm8pw",
+    "atualizado_em": "2026-09-18T08:25:58.028-03:00"
+  },
+  {
     "id": "shopee:1777221519.58210846395",
     "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9Ki7OuiCjC",
     "atualizado_em": "2026-09-17T08:26:34.292-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26816126",
-    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
-    "preco": 18.48,
-    "preco_anterior": 31.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1dDis3R",
-    "atualizado_em": "2026-09-17T08:21:28.224-03:00"
   }
 ]
