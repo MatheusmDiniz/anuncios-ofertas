@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:399916544.23193986803",
+    "titulo": "Kit Com 5 Blusa de Alcinha Infantil Regatinha Menina Alça Basica",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9yogero5a9l5a",
+    "preco": 44.99,
+    "preco_anterior": 99.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7ptLOJniKW",
+    "atualizado_em": "2026-09-18T18:10:09.931-03:00"
+  },
+  {
     "id": "amazon:B0FS85GWNV",
     "titulo": "Sof Fralda Babysec Ultra Giga G 2X80",
     "imagem": "https://m.media-amazon.com/images/I/61IFAzKPIgL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYNivEvEe",
     "atualizado_em": "2026-09-17T18:15:11.288-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875756",
-    "titulo": "Sabonete Líquido De Glicerina Da Cabeça Aos Pés Com Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
-    "preco": 18.14,
-    "preco_anterior": 36.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1LKq29J",
-    "atualizado_em": "2026-09-17T18:10:06.745-03:00"
   }
 ]
