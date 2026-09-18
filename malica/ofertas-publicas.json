@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D4F4VS9M",
+    "titulo": "Oferta: CHUPETA MAM ORIGINAL TRIO - EMBALAGEM BLISTER TRIPLA",
+    "imagem": "https://m.media-amazon.com/images/I/51aMok8t0jL._AC_SL1500_.jpg",
+    "preco": 69.9,
+    "preco_anterior": 96,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=malica09-20",
+    "atualizado_em": "2026-09-18T20:24:09.836-03:00"
+  },
+  {
     "id": "amazon:B0BXMV4ZXW",
     "titulo": "Oferta: Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
     "imagem": "https://m.media-amazon.com/images/I/615AvAaOM8L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LQv46JDJ0",
     "atualizado_em": "2026-09-17T20:28:29.847-03:00"
-  },
-  {
-    "id": "shopee:938887028.52206254012",
-    "titulo": "Fantasia Guerreira KPOP Infantil Rumi Guerreira K-POP Luxo Dança Show Menina Carnaval Dia Das Crianças",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zue-mkukab9t86io72",
-    "preco": 69.99,
-    "preco_anterior": 148.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1130I5lYk5",
-    "atualizado_em": "2026-09-17T20:23:19.986-03:00"
   }
 ]
