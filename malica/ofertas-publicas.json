@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1797406160.58209316436",
+    "titulo": "DLI Kit 3 Brinquedo Sensorial para Bebê - Ventosa Adesiva Gira Spinner Atividade Educativa",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mpannw5mh69sfc",
+    "preco": 25.99,
+    "preco_anterior": 55.3,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4LJRRleEgi",
+    "atualizado_em": "2026-09-18T19:01:29.138-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB55747994",
     "titulo": "Mamadeira Easy Flow 120ml Recem Nascido Anticolica - Buba Cinza Nuvem",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928104-MLA91801482532_092025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1RwUN5W",
     "atualizado_em": "2026-09-17T19:06:27.956-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28881714",
-    "titulo": "Kit 12 Sabonete Em Barra Nutri Spa Amêndoas Johnson's 80g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864105-MLA99936656487_112025-F.jpg",
-    "preco": 25.9,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HeF7Gj",
-    "atualizado_em": "2026-09-17T19:01:17.436-03:00"
   }
 ]
