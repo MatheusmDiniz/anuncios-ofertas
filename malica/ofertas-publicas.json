@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CYLYDHS2",
+    "titulo": "O SHAMPOO PERFEITO PARA SUA PRINCESA",
+    "imagem": "https://m.media-amazon.com/images/I/61ndOSBPPkL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CYLYDHS2?tag=malica09-20",
+    "atualizado_em": "2026-09-18T13:57:34.964-03:00"
+  },
+  {
     "id": "amazon:B076X7VHWN",
     "titulo": "APRENDER BRINCANDO É MAIS LEGAL!",
     "imagem": "https://m.media-amazon.com/images/I/61Tgw23t8-L._AC_SL1500_.jpg",
