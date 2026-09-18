@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1482022618.22994864051",
+    "titulo": "Brinquedo Aquático Infantil Para Brincar Na Praia No Verão, Pistola De Água A Jato.",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8225u-mhkxectyglqa78",
+    "preco": 12.68,
+    "preco_anterior": 29.49,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5VVQWnQgeQ",
+    "atualizado_em": "2026-09-18T11:10:15.196-03:00"
+  },
+  {
     "id": "shopee:1664620793.22999531214",
     "titulo": "Kit Introdução Alimentar Bebê Silicone 8 Peças Prato Divisórias Babador Copo Tigela Talheres com Sucção",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258i-mqbesjgvpdkw6f",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1HsJSmD",
     "atualizado_em": "2026-09-17T11:11:08.310-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB43809739",
-    "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
-    "preco": 8.11,
-    "preco_anterior": 19.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28TvvrA",
-    "atualizado_em": "2026-09-17T11:06:00.171-03:00"
   }
 ]
