@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXMV4ZXW",
+    "titulo": "Oferta: Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
+    "imagem": "https://m.media-amazon.com/images/I/615AvAaOM8L._AC_SL1500_.jpg",
+    "preco": 698.9,
+    "preco_anterior": 828.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=malica09-20",
+    "atualizado_em": "2026-09-18T20:19:01.740-03:00"
+  },
+  {
     "id": "amazon:B0G73SVBYF",
     "titulo": "Oferta: Bichinho Para Banho Fundo Do Mar Oceano Infantil Bebê",
     "imagem": "https://m.media-amazon.com/images/I/61z4rk-KluL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1130I5lYk5",
     "atualizado_em": "2026-09-17T20:23:19.986-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23414358",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
-    "preco": 59.68,
-    "preco_anterior": 65.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vyhpHT",
-    "atualizado_em": "2026-09-17T20:18:14.557-03:00"
   }
 ]
