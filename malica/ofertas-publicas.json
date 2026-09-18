@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24647478",
+    "titulo": "Andador Bebe Carrinho Infantil Treina Equilíbrio Zippy Toys Cor Vermelho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950359-MLA99487901484_112025-F.jpg",
+    "preco": 78.9,
+    "preco_anterior": 159.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dK5e2i",
+    "atualizado_em": "2026-09-18T13:36:32.874-03:00"
+  },
+  {
     "id": "shopee:212844114.23997427973",
     "titulo": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltfij9pjjayg55",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28PCAVk",
     "atualizado_em": "2026-09-17T13:36:47.995-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342443",
-    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
-    "preco": 6.56,
-    "preco_anterior": 7.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RGiPDf",
-    "atualizado_em": "2026-09-17T13:31:33.805-03:00"
   }
 ]
