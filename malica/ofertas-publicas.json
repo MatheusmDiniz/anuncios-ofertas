@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1773403493.54165475797",
+    "titulo": "Squishies Manteiga e Queijo Brinquedos Sensoriais Antiestresse Macios para Apertar Fidget Toy",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ay-mrmrodhi8e8597",
+    "preco": 19.99,
+    "preco_anterior": 111.06,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8fSSDZiLHV",
+    "atualizado_em": "2026-09-18T09:32:29.463-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46396110",
     "titulo": "Fisher-price - Pelúcia Irmã Do Cachorrinho - Mattel Jfd30 Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_764219-MLA99460668914_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1DCnzZH",
     "atualizado_em": "2026-09-17T09:33:23.630-03:00"
-  },
-  {
-    "id": "shopee:1782683148.58261565925",
-    "titulo": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mosh25xiujgg80",
-    "preco": 38.9,
-    "preco_anterior": 69.46,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fwHqTs0JJ",
-    "atualizado_em": "2026-09-17T09:28:12.386-03:00"
   }
 ]
