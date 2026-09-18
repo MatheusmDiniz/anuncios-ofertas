@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46396110",
+    "titulo": "Fisher-price - Pelúcia Irmã Do Cachorrinho - Mattel Jfd30 Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_764219-MLA99460668914_112025-F.jpg",
+    "preco": 206.9,
+    "preco_anterior": 369.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26HPpba",
+    "atualizado_em": "2026-09-18T09:27:23.531-03:00"
+  },
+  {
     "id": "shopee:303419140.54505641752",
     "titulo": "Tênis Infantil Casual Escolar Envio Rápido",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262m-mk3x9648hybs79",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fwHqTs0JJ",
     "atualizado_em": "2026-09-17T09:28:12.386-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34078818",
-    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
-    "preco": 22,
-    "preco_anterior": 39.13,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Krfvgn",
-    "atualizado_em": "2026-09-17T09:23:05.561-03:00"
   }
 ]
