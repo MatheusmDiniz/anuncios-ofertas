@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1481897291.58215220404",
+    "titulo": "Conjunto de bebê Infantil Verão Menino Body e Short 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ay-mr8sjhr2ez9g02",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7ptJc9numD",
+    "atualizado_em": "2026-09-18T08:31:03.467-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392845",
     "titulo": "Lenços Umedecidos Huggies Recém Nascido Pack C/4 - 192 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_700377-MLA99930638257_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1SZdqFJ",
     "atualizado_em": "2026-09-17T08:31:46.068-03:00"
-  },
-  {
-    "id": "shopee:1361476561.19397991697",
-    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
-    "preco": 24.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9Ki7OuiCjC",
-    "atualizado_em": "2026-09-17T08:26:34.292-03:00"
   }
 ]
