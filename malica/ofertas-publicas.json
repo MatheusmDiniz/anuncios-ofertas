@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72983430",
+    "titulo": "Spa Banheira Dobrável Adulto 254l Ofurô Quente Ou Gelo Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_630337-MLA111867119246_062026-F.jpg",
+    "preco": 106.99,
+    "preco_anterior": 204.73,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2V5Vavk",
+    "atualizado_em": "2026-09-19T09:02:06.293-03:00"
+  },
+  {
     "id": "shopee:967746038.23694425476",
     "titulo": "Kit 4 Rosquinhas de Amamentação Protetor 100% Algodão Macio",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1BMRHj82aT",
     "atualizado_em": "2026-09-18T09:06:55.346-03:00"
-  },
-  {
-    "id": "shopee:927473129.23993617336",
-    "titulo": "Carteira Infantil Meninos e Meninas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4tbon5nxlmadb",
-    "preco": 12.9,
-    "preco_anterior": 24.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AWBcY4Su5",
-    "atualizado_em": "2026-09-18T09:01:49.962-03:00"
   }
 ]
