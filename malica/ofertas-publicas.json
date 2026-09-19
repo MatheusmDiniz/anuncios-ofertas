@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08QG5H9RD",
+    "titulo": "Fralda Huggies Tripla Proteção M - 42 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/51AkVFxlBQL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=malica09-20",
+    "atualizado_em": "2026-09-19T13:54:20.335-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB43809739",
     "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CYLYDHS2?tag=malica09-20",
     "atualizado_em": "2026-09-18T13:57:34.964-03:00"
-  },
-  {
-    "id": "amazon:B076X7VHWN",
-    "titulo": "APRENDER BRINCANDO É MAIS LEGAL!",
-    "imagem": "https://m.media-amazon.com/images/I/61Tgw23t8-L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=malica09-20",
-    "atualizado_em": "2026-09-18T13:51:56.927-03:00"
   }
 ]
