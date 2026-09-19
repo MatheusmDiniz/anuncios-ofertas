@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24689526",
+    "titulo": "Protetor De Tomada Anti Choque P/ Crianças Pacote Com 20 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684091-MLA100076543741_122025-F.jpg",
+    "preco": 11.36,
+    "preco_anterior": 25.48,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BjR1iD",
+    "atualizado_em": "2026-09-19T10:54:47.099-03:00"
+  },
+  {
     "id": "amazon:B093G9PSPP",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71aOjTMuajL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1130N69zgn",
     "atualizado_em": "2026-09-18T10:54:57.690-03:00"
-  },
-  {
-    "id": "shopee:338208282.23596091818",
-    "titulo": "Mochila Rodinha Infantil Masculina Feminina Escolar Juvenil Reforçada - Envio Imediato",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mofsczuerthi24",
-    "preco": 49.9,
-    "preco_anterior": 138.61,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2BEydm87Pd",
-    "atualizado_em": "2026-09-18T10:49:43.719-03:00"
   }
 ]
