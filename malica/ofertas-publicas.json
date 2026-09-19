@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093G8NZ4Y",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71l5ps7efSL._AC_SL1500_.jpg",
+    "preco": 34,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=malica09-20",
+    "atualizado_em": "2026-09-19T11:51:15.542-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42418820",
     "titulo": "Aquecedor De Mamadeira Baby Usb Térmico Infantil Leite Materno Bebê Portátil Com Regulagem Temperatura 3 Niveis Para Manter Aquecido",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_773471-MLA99561428486_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYOforTU5",
     "atualizado_em": "2026-09-18T11:53:34.883-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25961240",
-    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
-    "preco": 105.04,
-    "preco_anterior": 149.28,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WbnBpU",
-    "atualizado_em": "2026-09-18T11:48:27.801-03:00"
   }
 ]
