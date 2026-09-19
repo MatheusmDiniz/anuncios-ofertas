@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28552599",
+    "titulo": "Carro Conversível Rosa Grande para Bonecas Barbie, de 37cm e 2 Lugares",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_606831-MLA99362507496_112025-F.jpg",
+    "preco": 19.99,
+    "preco_anterior": 45.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2obdLLP",
+    "atualizado_em": "2026-09-18T21:56:25.089-03:00"
+  },
+  {
     "id": "amazon:B075ZJXD5K",
     "titulo": "BLACK+DECKER Umidificador de Ar Portátil AIR1000 Capacidade de 2,5L Bivolt | Capacidade de 2,5L",
     "imagem": "https://m.media-amazon.com/images/I/618OBjPwZnL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYNxbGpw6",
     "atualizado_em": "2026-09-17T22:00:50.589-03:00"
-  },
-  {
-    "id": "shopee:371599001.23194042103",
-    "titulo": "Celular Infantil Telefone Interativo Musical Unicórnio Bebê ou celular Dinossauro",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mnzr4z29w5c4af",
-    "preco": 13.9,
-    "preco_anterior": 21.06,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9peNzsJIWH",
-    "atualizado_em": "2026-09-17T21:55:44.417-03:00"
   }
 ]
