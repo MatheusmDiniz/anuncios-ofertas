@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47743053",
+    "titulo": "Escova De Dente Mordedor Primeiro Dentinhos 0 A 2 Anos Buba Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915524-MLA99907110867_112025-F.jpg",
+    "preco": 9.63,
+    "preco_anterior": 11.49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32DaJwm",
+    "atualizado_em": "2026-09-19T20:07:56.315-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44117936",
     "titulo": "Brinquedo Boneco Pop Racing Mclaren Ayrton Senna Miniatura",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_611541-MLA99931609275_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGG1QK3D?tag=malica09-20",
     "atualizado_em": "2026-09-18T20:08:45.795-03:00"
-  },
-  {
-    "id": "amazon:B0GYQ57VPX",
-    "titulo": "Pixar Toy Story 5 Figura de Ação Alto-falante Buzz Lightyear de 7\" : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/515RPS5FgLL._AC_SL1500_.jpg",
-    "preco": 155.23,
-    "preco_anterior": 269.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GYQ57VPX?tag=malica09-20",
-    "atualizado_em": "2026-09-18T20:03:39.138-03:00"
   }
 ]
