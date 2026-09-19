@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3YY6FY",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61Twnnnkq4L._AC_SL1500_.jpg",
+    "preco": 101,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=malica09-20",
+    "atualizado_em": "2026-09-19T18:15:06.223-03:00"
+  },
+  {
     "id": "amazon:B0CWP7YKV8",
     "titulo": "Philips Avent Kit de Mamadeira Pétala, 125ml bico fluxo-lento, 260ml bico fluxo-médio, 330ml bico fluxo-rápido, Azul SCD838/29",
     "imagem": "https://m.media-amazon.com/images/I/613-Kuy12SL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07M73V8JD?tag=malica09-20",
     "atualizado_em": "2026-09-18T18:15:20.088-03:00"
-  },
-  {
-    "id": "shopee:399916544.23193986803",
-    "titulo": "Kit Com 5 Blusa de Alcinha Infantil Regatinha Menina Alça Basica",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9yogero5a9l5a",
-    "preco": 44.99,
-    "preco_anterior": 99.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7ptLOJniKW",
-    "atualizado_em": "2026-09-18T18:10:09.931-03:00"
   }
 ]
