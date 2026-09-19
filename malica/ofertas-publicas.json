@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07YVNBQ6Z",
+    "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
+    "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
+    "preco": 186,
+    "preco_anterior": 238,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07YVNBQ6Z?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:07:20.914-03:00"
+  },
+  {
     "id": "amazon:B0D292HCS7",
     "titulo": "Aptanutri Soja 3 Fórmula Infantil 800g",
     "imagem": "https://m.media-amazon.com/images/I/61E+SWCXdWL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNCcyTL9t",
     "atualizado_em": "2026-09-18T16:11:36.116-03:00"
-  },
-  {
-    "id": "amazon:B0FS9R2B83",
-    "titulo": "OFERTA IMPERDÍVEL",
-    "imagem": "https://m.media-amazon.com/images/I/41UWHcqnkKL._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FS9R2B83?tag=malica09-20",
-    "atualizado_em": "2026-09-18T16:06:29.795-03:00"
   }
 ]
