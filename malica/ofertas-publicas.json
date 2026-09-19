@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CWP7YKV8",
+    "titulo": "Philips Avent Kit de Mamadeira Pétala, 125ml bico fluxo-lento, 260ml bico fluxo-médio, 330ml bico fluxo-rápido, Azul SCD838/29",
+    "imagem": "https://m.media-amazon.com/images/I/613-Kuy12SL._AC_SL1500_.jpg",
+    "preco": 180,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CWP7YKV8?tag=malica09-20",
+    "atualizado_em": "2026-09-19T18:09:59.669-03:00"
+  },
+  {
     "id": "amazon:B0GW3TH25S",
     "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7ptLOJniKW",
     "atualizado_em": "2026-09-18T18:10:09.931-03:00"
-  },
-  {
-    "id": "amazon:B0FS85GWNV",
-    "titulo": "Sof Fralda Babysec Ultra Giga G 2X80",
-    "imagem": "https://m.media-amazon.com/images/I/61IFAzKPIgL._AC_SL1500_.jpg",
-    "preco": 82.9,
-    "preco_anterior": 94.82,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FS85GWNV?tag=malica09-20",
-    "atualizado_em": "2026-09-18T18:05:03.729-03:00"
   }
 ]
