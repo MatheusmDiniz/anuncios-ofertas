@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07C3XMTFY",
+    "titulo": "Babysec Ultrasec Galinha Pintadinha - Fralda, Tamanho G, 32 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51rLa23uplL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07C3XMTFY?tag=malica09-20",
+    "atualizado_em": "2026-09-19T15:00:52.741-03:00"
+  },
+  {
     "id": "amazon:B0BXM1CSC2",
     "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho G, 70 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
     "imagem": "https://m.media-amazon.com/images/I/81TPU8xgDyL._AC_SL1500_.jpg",
