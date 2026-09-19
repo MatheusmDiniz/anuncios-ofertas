@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DV7BN75H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho XG 70 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61mRVh6xnFL._AC_SL1500_.jpg",
+    "preco": 94,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=malica09-20",
+    "atualizado_em": "2026-09-18T21:40:56.902-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35090823",
     "titulo": "Fisher-price Tablet De Aprendizagem Cresce Comigo - Mattel",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_930205-MLA99502382540_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGU72GS3L",
     "atualizado_em": "2026-09-17T21:45:32.806-03:00"
-  },
-  {
-    "id": "shopee:344438002.23199132850",
-    "titulo": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê 27 x 33 MALA/VIAGEM/ROUPA MOLHADA e SECA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mra9nhri7tolf6",
-    "preco": 11.99,
-    "preco_anterior": 19.03,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4qFi2h2jKT",
-    "atualizado_em": "2026-09-17T21:40:26.565-03:00"
   }
 ]
