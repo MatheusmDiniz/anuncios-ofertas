@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN1XPNW",
+    "titulo": "Lenços Huggies Higiene Superior Limpam 2x Mais 6 x 48 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71rS1wIq+bL._AC_SL1500_.jpg",
+    "preco": 46.49,
+    "preco_anterior": 55.48,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN1XPNW?tag=malica09-20",
+    "atualizado_em": "2026-09-19T14:14:47.945-03:00"
+  },
+  {
     "id": "amazon:B08K4L37HD",
     "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=malica09-20",
     "atualizado_em": "2026-09-18T14:18:18.927-03:00"
-  },
-  {
-    "id": "amazon:B0BLJS7ZBW",
-    "titulo": "Barbie Laboratório de  Ciências, Playset com Duas Bonecas e Acessórios STEM Para Experimentos Criativos!",
-    "imagem": "https://m.media-amazon.com/images/I/61iQjnKjSFL._AC_SL1500_.jpg",
-    "preco": 216.65,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BLJS7ZBW?tag=malica09-20",
-    "atualizado_em": "2026-09-18T14:13:09.945-03:00"
   }
 ]
