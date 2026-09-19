@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY6WDHC",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
+    "preco": 189.9,
+    "preco_anterior": 227.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:22:42.294-03:00"
+  },
+  {
     "id": "amazon:B0FPSHCSQF",
     "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XG - 144 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/813VUlveBgL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60RhL7ADGk",
     "atualizado_em": "2026-09-18T16:26:59.652-03:00"
-  },
-  {
-    "id": "amazon:B0GVMQ37N5",
-    "titulo": "Lenço Umedecido Bebê Baby Club 280 Unidades 4x70 Hipoalergênico : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/61Zmnoy9BFL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GVMQ37N5?tag=malica09-20",
-    "atualizado_em": "2026-09-18T16:21:52.306-03:00"
   }
 ]
