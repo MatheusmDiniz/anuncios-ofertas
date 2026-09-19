@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099NCTCX8",
+    "titulo": "Xô Inseto Spray Repelente 15% DEET 200mL",
+    "imagem": "https://m.media-amazon.com/images/I/61ISJ-si56L._AC_SL1500_.jpg",
+    "preco": 12,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099NCTCX8?tag=malica09-20",
+    "atualizado_em": "2026-09-18T21:05:06.196-03:00"
+  },
+  {
     "id": "shopee:325954291.55863571735",
     "titulo": "Macacão Vestido Canelado Conjunto Laço Fofo Body Tapa Fralda Conforto",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mqf909kghn9da0",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2xtUxZj",
     "atualizado_em": "2026-09-17T21:09:28.552-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24208936",
-    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-    "preco": 39.9,
-    "preco_anterior": 62.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2q4b5HH",
-    "atualizado_em": "2026-09-17T21:04:19.481-03:00"
   }
 ]
