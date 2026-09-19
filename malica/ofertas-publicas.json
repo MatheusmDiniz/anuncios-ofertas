@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17489277",
+    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bcKcRJ",
+    "atualizado_em": "2026-09-19T13:28:43.253-03:00"
+  },
+  {
     "id": "amazon:B0BDT2JD8T",
     "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gIiB8vubY",
     "atualizado_em": "2026-09-18T13:31:23.656-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29765788",
-    "titulo": "Colônia Infantil Baruel Baby Sono Tranquilo 120ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968895-MLA113215874062_072026-F.jpg",
-    "preco": 14.85,
-    "preco_anterior": 26.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2yXFWmw",
-    "atualizado_em": "2026-09-18T13:26:17.011-03:00"
   }
 ]
