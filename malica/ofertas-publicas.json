@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.20698276094",
+    "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
+    "preco": 29.9,
+    "preco_anterior": 69.53,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9zxoC8ffNO",
+    "atualizado_em": "2026-09-19T19:52:33.115-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36931922",
     "titulo": "Desodorante Colônia Cebolinha Turma da Mônica 25ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_685367-MLA115708034876_092026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DDLK45SR?tag=malica09-20",
     "atualizado_em": "2026-09-18T19:53:09.352-03:00"
-  },
-  {
-    "id": "amazon:B0GV4YYQ1L",
-    "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81VlMrdeDzL._AC_SL1500_.jpg",
-    "preco": 117,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GV4YYQ1L?tag=malica09-20",
-    "atualizado_em": "2026-09-18T19:47:56.162-03:00"
   }
 ]
