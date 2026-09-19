@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GV4QQCPN",
+    "titulo": "Carter",
+    "imagem": "https://m.media-amazon.com/images/I/71xnjS4d1xL._AC_SL1500_.jpg",
+    "preco": 130.96,
+    "preco_anterior": 187.09,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GV4QQCPN?tag=malica09-20",
+    "atualizado_em": "2026-09-18T21:30:38.924-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26816126",
     "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4VcsXVWXRl",
     "atualizado_em": "2026-09-17T21:35:18.311-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392643",
-    "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
-    "preco": 19.39,
-    "preco_anterior": 28.68,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13mp6c6",
-    "atualizado_em": "2026-09-17T21:30:12.813-03:00"
   }
 ]
