@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37736345",
+    "titulo": "Maxi Baby Cadeira De Alimentação Portátil Bebê Honey Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891734-MLA96139666555_102025-F.jpg",
+    "preco": 289.9,
+    "preco_anterior": 528.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28PCAVk",
+    "atualizado_em": "2026-09-19T19:26:47.172-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB31739631",
     "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1in2c7m",
     "atualizado_em": "2026-09-18T19:27:12.605-03:00"
-  },
-  {
-    "id": "shopee:421446882.22594196096",
-    "titulo": "Toalha Banho Bebê Capuz Roupão Infantil Recém Nascido Criança Bichinho Bordado ABCSHOP",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmrup9n9ds00f4",
-    "preco": 14.9,
-    "preco_anterior": 49.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4B03YNyK5U",
-    "atualizado_em": "2026-09-18T19:22:01.548-03:00"
   }
 ]
