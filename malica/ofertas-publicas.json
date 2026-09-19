@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24626810",
+    "titulo": "Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700261-MLA99618194932_122025-F.jpg",
+    "preco": 34,
+    "preco_anterior": 68.01,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2uuTxjq",
+    "atualizado_em": "2026-09-19T08:51:51.236-03:00"
+  },
+  {
     "id": "shopee:1043389652.58263490386",
     "titulo": "Máscara Faixa Modeladora Do Rosto Lipo De Papada Lifting",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a8-mq4ypvoju87h13",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1LfrTyvHVr",
     "atualizado_em": "2026-09-18T08:56:44.210-03:00"
-  },
-  {
-    "id": "shopee:287287585.21699091414",
-    "titulo": "Sapatilha Antiderrapante Infantil Menino Sapato Aquática Sapatilha Piscina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-loi7d9vm3iz0ad",
-    "preco": 45.95,
-    "preco_anterior": 74.11,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20vYHCSTzD",
-    "atualizado_em": "2026-09-18T08:51:33.744-03:00"
   }
 ]
