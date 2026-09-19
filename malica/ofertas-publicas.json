@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23480808",
+    "titulo": "Laptop Infantil Educativo Spider Man Candide",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
+    "preco": 57.99,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZSvfs3",
+    "atualizado_em": "2026-09-19T09:32:47.891-03:00"
+  },
+  {
     "id": "shopee:1261893889.19899258737",
     "titulo": "Colônia Huggies para Bebê Extra Suave Hipoalergênica 100 ml",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259w-mrt19ancf9xh22",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W6kUZi5kv",
     "atualizado_em": "2026-09-18T09:37:41.919-03:00"
-  },
-  {
-    "id": "shopee:1773403493.54165475797",
-    "titulo": "Squishies Manteiga e Queijo Brinquedos Sensoriais Antiestresse Macios para Apertar Fidget Toy",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ay-mrmrodhi8e8597",
-    "preco": 19.99,
-    "preco_anterior": 111.06,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8fSSDZiLHV",
-    "atualizado_em": "2026-09-18T09:32:29.463-03:00"
   }
 ]
