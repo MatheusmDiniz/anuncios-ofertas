@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FKWBT",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:03:34.833-03:00"
+  },
+  {
     "id": "amazon:B0D4NN2W72",
     "titulo": "Kit Aptanutri Premium 3 Fórmula Infantil em Pó para Crianças a partir de 1 Ano, Contém Leite – 800 g (Kit com 4 Unidades)",
     "imagem": "https://m.media-amazon.com/images/I/61kIg0LhZWL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9fKzcqpckT",
     "atualizado_em": "2026-09-18T17:08:21.713-03:00"
-  },
-  {
-    "id": "amazon:B086QD5F3V",
-    "titulo": "Ariel Sabão Líquido Expert Concentrado 3L : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/51Bz4yexvBL._AC_SL1500_.jpg",
-    "preco": 43,
-    "preco_anterior": 64,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B086QD5F3V?tag=malica09-20",
-    "atualizado_em": "2026-09-18T17:03:15.361-03:00"
   }
 ]
