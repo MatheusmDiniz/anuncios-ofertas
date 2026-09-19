@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08K4L37HD",
+    "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
+    "preco": 151,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
+    "atualizado_em": "2026-09-19T14:09:40.986-03:00"
+  },
+  {
     "id": "amazon:B0BCH32VGZ",
     "titulo": "Fralda Babysec Premium Shortinho Hiper M 60 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61IDOP72rZL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BLJS7ZBW?tag=malica09-20",
     "atualizado_em": "2026-09-18T14:13:09.945-03:00"
-  },
-  {
-    "id": "amazon:B07G8QLGSR",
-    "titulo": "PARA ESTERELIZAR TUDO!!",
-    "imagem": "https://m.media-amazon.com/images/I/51UOsl4f9jL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07G8QLGSR?tag=malica09-20",
-    "atualizado_em": "2026-09-18T14:07:53.544-03:00"
   }
 ]
