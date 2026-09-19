@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:534737666.19799672554",
+    "titulo": "Kit 4 Calças Moletom Infantil Peluciada com Punho Elástico 60% Algodão Tamanhos 02 ao 18 Unissex",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-msddp3542m134f",
+    "preco": 78.9,
+    "preco_anterior": 136.03,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/60RjRr0XjV",
+    "atualizado_em": "2026-09-19T20:43:49.378-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47247005",
     "titulo": "Caranguejo Brinquedo Fujão Sensor Dança E Som Eletrônico Top",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835568-MLA100080033031_122025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H6QSWK96?tag=malica09-20",
     "atualizado_em": "2026-09-18T20:44:40.818-03:00"
-  },
-  {
-    "id": "amazon:B0G93K2JDK",
-    "titulo": "Oferta: Patinete Infantil 3 Rodas Com Luzes LED Dobrável Altura Regulável",
-    "imagem": "https://m.media-amazon.com/images/I/51b5AO88AqL._AC_SL1500_.jpg",
-    "preco": 56.9,
-    "preco_anterior": 199.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G93K2JDK?tag=malica09-20",
-    "atualizado_em": "2026-09-18T20:39:34.107-03:00"
   }
 ]
