@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MT9LCV1",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61U2+G0QD+L._AC_SL1500_.jpg",
+    "preco": 24,
+    "preco_anterior": 49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MT9LCV1?tag=malica09-20",
+    "atualizado_em": "2026-09-19T15:11:06.302-03:00"
+  },
+  {
     "id": "amazon:B0C9W3MZV2",
     "titulo": "Sabonete Nutritivo Derma Protect JOHNSON",
     "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
