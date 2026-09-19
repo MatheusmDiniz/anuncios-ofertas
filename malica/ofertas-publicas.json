@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXKZQ2Y",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+    "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
+    "preco": 174.9,
+    "preco_anterior": 229.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
+    "atualizado_em": "2026-09-19T10:59:54.181-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24689526",
     "titulo": "Protetor De Tomada Anti Choque P/ Crianças Pacote Com 20 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_684091-MLA100076543741_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AUu6Z6Xaib",
     "atualizado_em": "2026-09-18T11:00:03.458-03:00"
-  },
-  {
-    "id": "shopee:1599506020.22499054580",
-    "titulo": "Babador De Silicone Impermeável Para Bebê Com Pega Migalhas Ajustável Resistente E Durável Infantil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mo7rvd2mvdhe13",
-    "preco": 13.49,
-    "preco_anterior": 28.1,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1130N69zgn",
-    "atualizado_em": "2026-09-18T10:54:57.690-03:00"
   }
 ]
