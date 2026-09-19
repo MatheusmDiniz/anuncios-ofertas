@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BJ7ZTCH6",
+    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
+    "preco": 117,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
+    "atualizado_em": "2026-09-19T11:10:09.379-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34115521",
     "titulo": "Chocalho e Mordedor Minnie Mouse Rattle Rosa Disney Meninas Bebê Elka",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_827862-MLA99358289636_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VVQWnQgeQ",
     "atualizado_em": "2026-09-18T11:10:15.196-03:00"
-  },
-  {
-    "id": "shopee:1664620793.22999531214",
-    "titulo": "Kit Introdução Alimentar Bebê Silicone 8 Peças Prato Divisórias Babador Copo Tigela Talheres com Sucção",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258i-mqbesjgvpdkw6f",
-    "preco": 44.89,
-    "preco_anterior": 74.82,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6Al6RIi66U",
-    "atualizado_em": "2026-09-18T11:05:10.151-03:00"
   }
 ]
