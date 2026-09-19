@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B99BCYCP",
+    "titulo": "Lava-Roupas em Pó Omo Puro Cuidado Caixa 2,2kg Tamanho Família",
+    "imagem": "https://m.media-amazon.com/images/I/717syvOckGL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B99BCYCP?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:18:52.341-03:00"
+  },
+  {
     "id": "amazon:B0781CTJF6",
     "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
     "imagem": "https://m.media-amazon.com/images/I/51XpbplLvaL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D7PT9T9B?tag=malica09-20",
     "atualizado_em": "2026-09-18T17:23:43.412-03:00"
-  },
-  {
-    "id": "shopee:463228698.58257979473",
-    "titulo": "Kit Ate 36 Anéis Infantil Menina anel Modelo Ajustável Sortidos Colorido",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262t-mmhssjkzcmisa6",
-    "preco": 8.99,
-    "preco_anterior": 29.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V1ZQXqG5S",
-    "atualizado_em": "2026-09-18T17:18:36.037-03:00"
   }
 ]
