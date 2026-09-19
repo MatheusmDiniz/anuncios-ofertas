@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08QG3H6YR",
+    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
+    "atualizado_em": "2026-09-19T15:52:04.437-03:00"
+  },
+  {
     "id": "amazon:B09KNTZXKL",
     "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=malica09-20",
     "atualizado_em": "2026-09-18T15:56:14.199-03:00"
-  },
-  {
-    "id": "shopee:391301937.41927033529",
-    "titulo": "Kit Conjuntos Menino Roupa de Bebê Masculino Verão Camisas Sortidos Enxoval De Bebê Masculino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhwptar1y0htc8",
-    "preco": 17.99,
-    "preco_anterior": 69.19,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/40gb372VYg",
-    "atualizado_em": "2026-09-18T15:51:04.859-03:00"
   }
 ]
