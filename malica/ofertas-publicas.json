@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB51240172",
+    "titulo": "Boneco Stitch Banho Divertido - Disney Cotiplás 2905",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
+    "preco": 58.11,
+    "preco_anterior": 105.21,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fcnWdW",
+    "atualizado_em": "2026-09-19T13:08:11.141-03:00"
+  },
+  {
     "id": "amazon:B0GSXJLHZQ",
     "titulo": "Kit 5 Pct Lenços/toalhas Umedecidos Baby Free Caixa 500un",
     "imagem": "https://m.media-amazon.com/images/I/51FNZRww7DL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08SFMNZF6?tag=malica09-20",
     "atualizado_em": "2026-09-18T13:10:49.820-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47912495",
-    "titulo": "Hastes Flexíveis Buba Bebê Ponta Proteção Cotonete 60 Unid",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744521-MLA83727475941_042025-F.jpg",
-    "preco": 10.57,
-    "preco_anterior": 12.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1gq4UWd",
-    "atualizado_em": "2026-09-18T13:05:42.237-03:00"
   }
 ]
