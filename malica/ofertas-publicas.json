@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65220062",
+    "titulo": "Veículo Patrulha Canina Liberty Resgate Sunny 4870",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_907505-MLA106705915942_022026-F.jpg",
+    "preco": 67,
+    "preco_anterior": 90.85,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RE4L7u",
+    "atualizado_em": "2026-09-19T11:35:54.132-03:00"
+  },
+  {
     "id": "amazon:B0BFXJ12QQ",
     "titulo": "Huggies Fralda Supreme Care M 196 Un",
     "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2CfRhYg",
     "atualizado_em": "2026-09-18T11:38:11.930-03:00"
-  },
-  {
-    "id": "shopee:382759839.23997651015",
-    "titulo": "Body Bebe Menina Recem Nascido Gola Bordada",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly0d61dze7y737",
-    "preco": 26.8,
-    "preco_anterior": 49.63,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/30o3rHWv4c",
-    "atualizado_em": "2026-09-18T11:33:03.270-03:00"
   }
 ]
