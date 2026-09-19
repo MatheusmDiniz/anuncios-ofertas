@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFQJQGPL",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXXG,108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/718R8GtN1dL._AC_SL1500_.jpg",
+    "preco": 187,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=malica09-20",
+    "atualizado_em": "2026-09-19T14:25:01.447-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44196987",
     "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gBF4NeHtj",
     "atualizado_em": "2026-09-18T14:28:33.366-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58264964287",
-    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
-    "preco": 47.89,
-    "preco_anterior": 95.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4LJRRj1Esi",
-    "atualizado_em": "2026-09-18T14:23:26.055-03:00"
   }
 ]
