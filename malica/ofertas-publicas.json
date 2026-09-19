@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215261",
+    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
+    "preco": 122,
+    "preco_anterior": 204.13,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cztGHW",
+    "atualizado_em": "2026-09-19T10:44:29.784-03:00"
+  },
+  {
     "id": "amazon:B099KXW911",
     "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71gXkKF1aPL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Ueee5F",
     "atualizado_em": "2026-09-18T10:44:38.950-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69894840",
-    "titulo": "Copo De Transição Para Bebê 200ml - Philips Avent Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635950-MLA111824091327_052026-F.jpg",
-    "preco": 39.61,
-    "preco_anterior": 47.16,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1eqRnGP",
-    "atualizado_em": "2026-09-18T10:39:30.687-03:00"
   }
 ]
