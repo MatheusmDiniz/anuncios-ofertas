@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1261893889.19899258737",
+    "titulo": "Colônia Huggies para Bebê Extra Suave Hipoalergênica 100 ml",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259w-mrt19ancf9xh22",
+    "preco": 17.9,
+    "preco_anterior": 25.94,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80Cldnmd1e",
+    "atualizado_em": "2026-09-19T09:27:40.187-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24646908",
     "titulo": "Kit Trava Gaveta Porta Armário Geladeira Segurança Bebê Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962810-MLA99839467723_112025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fSSDZiLHV",
     "atualizado_em": "2026-09-18T09:32:29.463-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46396110",
-    "titulo": "Fisher-price - Pelúcia Irmã Do Cachorrinho - Mattel Jfd30 Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_764219-MLA99460668914_112025-F.jpg",
-    "preco": 206.9,
-    "preco_anterior": 369.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26HPpba",
-    "atualizado_em": "2026-09-18T09:27:23.531-03:00"
   }
 ]
