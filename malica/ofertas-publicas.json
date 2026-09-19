@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB33294420",
+    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
+    "preco": 13.52,
+    "preco_anterior": 27.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Q4Wv1Y",
+    "atualizado_em": "2026-09-19T08:00:48.626-03:00"
+  },
+  {
     "id": "amazon:B0FTD7ZB8V",
     "titulo": "Oferta: Árvore de Natal Tradicional, 2,10m, 1150 Galhos, com Flores Douradas Decorativas",
     "imagem": "https://m.media-amazon.com/images/I/71wrv44r7vL._AC_SL1500_.jpg",
