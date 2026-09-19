@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB31739631",
+    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
+    "preco": 438,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Y8xSvd",
+    "atualizado_em": "2026-09-19T19:21:40.374-03:00"
+  },
+  {
     "id": "shopee:399621856.23992794977",
     "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B03YNyK5U",
     "atualizado_em": "2026-09-18T19:22:01.548-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB30165309",
-    "titulo": "Conjunto Piscina Glam Com Boneca Barbie Com Maiô Rosa Multicolor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706830-MLA99544928706_122025-F.jpg",
-    "preco": 102.99,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32w6dAa",
-    "atualizado_em": "2026-09-18T19:16:55.979-03:00"
   }
 ]
