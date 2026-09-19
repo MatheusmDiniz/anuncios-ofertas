@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D292HCS7",
+    "titulo": "Aptanutri Soja 3 Fórmula Infantil 800g",
+    "imagem": "https://m.media-amazon.com/images/I/61E+SWCXdWL._AC_SL1500_.jpg",
+    "preco": 82,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:02:16.278-03:00"
+  },
+  {
     "id": "amazon:B09BBDVPB1",
     "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
