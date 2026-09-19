@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62933980",
+    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 447.82,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XQuVVJ",
+    "atualizado_em": "2026-09-19T12:27:06.557-03:00"
+  },
+  {
     "id": "amazon:B07GQ136TS",
     "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FH7JFL16?tag=malica09-20",
     "atualizado_em": "2026-09-18T12:29:50.149-03:00"
-  },
-  {
-    "id": "shopee:744229092.58215504309",
-    "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
-    "preco": 21.99,
-    "preco_anterior": 81.44,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9pePp9ozPU",
-    "atualizado_em": "2026-09-18T12:24:42.875-03:00"
   }
 ]
