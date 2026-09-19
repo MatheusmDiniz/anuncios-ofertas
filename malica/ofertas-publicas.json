@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GQ136TS",
+    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
+    "preco": 57,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
+    "atualizado_em": "2026-09-19T12:21:58.794-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25603083",
     "titulo": "Brinquedo Centopeia de Atividades Encaixa E Puxa Fisher Price 8350",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_838837-MLA99998725363_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9pePp9ozPU",
     "atualizado_em": "2026-09-18T12:24:42.875-03:00"
-  },
-  {
-    "id": "amazon:B0B3S9QWQY",
-    "titulo": "SONINHO TRANQUILO COM BARUEL",
-    "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
-    "atualizado_em": "2026-09-18T12:19:35.680-03:00"
   }
 ]
