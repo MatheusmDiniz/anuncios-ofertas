@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1443637814.51006015979",
+    "titulo": "Kit 400 Toalhas Umedecidas Chameguinho Baby Lenço Umedecido Infantil Higiene Bebê Menina Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkij2fr51lhfd4",
+    "preco": 23.9,
+    "preco_anterior": 49.79,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/60RjRrQsAW",
+    "atualizado_em": "2026-09-19T20:54:10.992-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876098",
     "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07VRYJWPC?tag=malica09-20",
     "atualizado_em": "2026-09-18T20:54:55.567-03:00"
-  },
-  {
-    "id": "amazon:B0D8JVLYKT",
-    "titulo": "Granado Refil Shampoo Bebê, Tradicional, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/51JNcvab-nL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=malica09-20",
-    "atualizado_em": "2026-09-18T20:49:47.607-03:00"
   }
 ]
