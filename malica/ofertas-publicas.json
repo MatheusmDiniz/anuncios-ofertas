@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1700242901.58214519187",
+    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
+    "preco": 47.89,
+    "preco_anterior": 108.84,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5VVR8pONbq",
+    "atualizado_em": "2026-09-19T18:25:18.543-03:00"
+  },
+  {
     "id": "amazon:B0FBBWQB4G",
     "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
     "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNAqo38tp",
     "atualizado_em": "2026-09-18T18:25:33.569-03:00"
-  },
-  {
-    "id": "amazon:B07DHRPTPB",
-    "titulo": "Shampoo Para Bebê Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
-    "atualizado_em": "2026-09-18T18:20:28.046-03:00"
   }
 ]
