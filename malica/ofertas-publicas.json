@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YK3CVLY",
+    "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+    "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
+    "preco": 109,
+    "preco_anterior": 136,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:08:41.283-03:00"
+  },
+  {
     "id": "amazon:B07D2FKWBT",
     "titulo": "Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G164W3ND?tag=malica09-20",
     "atualizado_em": "2026-09-18T17:13:28.757-03:00"
-  },
-  {
-    "id": "shopee:430146238.18299092908",
-    "titulo": "Kit 24 pulseiras lindas infantis de miçanga",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-loh0ntsxax7t1d",
-    "preco": 19.97,
-    "preco_anterior": 39.94,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fKzcqpckT",
-    "atualizado_em": "2026-09-18T17:08:21.713-03:00"
   }
 ]
