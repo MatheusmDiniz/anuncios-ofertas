@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXM1CSC2",
+    "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho G, 70 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+    "imagem": "https://m.media-amazon.com/images/I/81TPU8xgDyL._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=malica09-20",
+    "atualizado_em": "2026-09-19T14:55:45.845-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22761169",
     "titulo": "Brinquedo Educativo Kendy Cubo Baby Com Blocos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_963262-MLA100083108993_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
     "atualizado_em": "2026-09-18T15:02:09.007-03:00"
-  },
-  {
-    "id": "shopee:435692544.22797147604",
-    "titulo": "KIT 4 Macacões Bebê Amore Vira Pé com Ziper Sortidos Estampados 100% Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu7-mksc8gjqiy9ta5",
-    "preco": 106.9,
-    "preco_anterior": 201.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qUfGgdeYk",
-    "atualizado_em": "2026-09-18T14:54:11.940-03:00"
   }
 ]
