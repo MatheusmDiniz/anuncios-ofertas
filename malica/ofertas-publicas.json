@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18395240",
+    "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
+    "preco": 10.69,
+    "preco_anterior": 14.58,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cy9aXb",
+    "atualizado_em": "2026-09-19T18:55:59.341-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26198574",
     "titulo": "12 Protetor Tomada Bebê Segurança Contra Choque livenza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_749686-MLA100080294681_122025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2zqwyiY",
     "atualizado_em": "2026-09-18T18:56:24.073-03:00"
-  },
-  {
-    "id": "shopee:1167191968.41628916751",
-    "titulo": "Vestido Infantil Luxo Premium Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
-    "preco": 35.9,
-    "preco_anterior": 55.23,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qUfxudXcb",
-    "atualizado_em": "2026-09-18T18:51:14.668-03:00"
   }
 ]
