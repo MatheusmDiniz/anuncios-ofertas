@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0781CTJF6",
+    "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
+    "imagem": "https://m.media-amazon.com/images/I/51XpbplLvaL._AC_SL1500_.jpg",
+    "preco": 8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0781CTJF6?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:13:46.413-03:00"
+  },
+  {
     "id": "amazon:B08YK3CVLY",
     "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
     "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V1ZQXqG5S",
     "atualizado_em": "2026-09-18T17:18:36.037-03:00"
-  },
-  {
-    "id": "amazon:B0G164W3ND",
-    "titulo": "Banheira Bebê Dobrável com Termômetro Digital, Portátil e Compacta para Viagem e Apartamento",
-    "imagem": "https://m.media-amazon.com/images/I/51-tet2Jl+L._AC_SL1500_.jpg",
-    "preco": 189,
-    "preco_anterior": 238,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G164W3ND?tag=malica09-20",
-    "atualizado_em": "2026-09-18T17:13:28.757-03:00"
   }
 ]
