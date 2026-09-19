@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DG41GPFM",
+    "titulo": "Leite em Pó Integral Instantâneo Piracanjuba Pouch 700g",
+    "imagem": "https://m.media-amazon.com/images/I/71sv3ntD3iL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DG41GPFM?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:34:15.029-03:00"
+  },
+  {
     "id": "amazon:B08Y1Z25MG",
     "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g",
     "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gIiNsTFAn",
     "atualizado_em": "2026-09-18T17:39:01.068-03:00"
-  },
-  {
-    "id": "amazon:B0CYTFNV7Z",
-    "titulo": "Oferta: JOY.CO Blocks Baldinho com 14 Peças",
-    "imagem": "https://m.media-amazon.com/images/I/61Bzi414JPL._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CYTFNV7Z?tag=malica09-20",
-    "atualizado_em": "2026-09-18T17:33:54.133-03:00"
   }
 ]
