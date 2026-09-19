@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D4NN2W72",
+    "titulo": "Kit Aptanutri Premium 3 Fórmula Infantil em Pó para Crianças a partir de 1 Ano, Contém Leite – 800 g (Kit com 4 Unidades)",
+    "imagem": "https://m.media-amazon.com/images/I/61kIg0LhZWL._AC_SL1500_.jpg",
+    "preco": 211,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D4NN2W72?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:58:30.028-03:00"
+  },
+  {
     "id": "amazon:B08FVVH9BC",
     "titulo": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
     "imagem": "https://m.media-amazon.com/images/I/716S5cnZi7L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086QD5F3V?tag=malica09-20",
     "atualizado_em": "2026-09-18T17:03:15.361-03:00"
-  },
-  {
-    "id": "shopee:463228698.58251231612",
-    "titulo": "20/100Pcs Garras De Cabelo Pequenas E Coloridas Garotas Estrela Fofa Coração Mickey Clipes Acessórios Kids Cartoons",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227f-mhmkp56rgb9k95",
-    "preco": 10.99,
-    "preco_anterior": 23.38,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AWC52Cr3Z",
-    "atualizado_em": "2026-09-18T16:58:09.650-03:00"
   }
 ]
