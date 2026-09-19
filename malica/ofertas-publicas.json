@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34078818",
+    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
+    "preco": 22,
+    "preco_anterior": 37.41,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Krfvgn",
+    "atualizado_em": "2026-09-19T12:57:55.092-03:00"
+  },
+  {
     "id": "amazon:B071FX83XS",
     "titulo": "Gel Lavante Calmante Mustela, 300ml, para Pele Muito Sensível, Corpo e Cabelo de Bebês e Crianças, Sem Fragrância",
     "imagem": "https://m.media-amazon.com/images/I/51fChei9oSL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076J2G18D?tag=malica09-20",
     "atualizado_em": "2026-09-18T13:00:33.035-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69331466",
-    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
-    "preco": 899.99,
-    "preco_anterior": 1553.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MwERQ2",
-    "atualizado_em": "2026-09-18T12:55:25.810-03:00"
   }
 ]
