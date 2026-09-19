@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47247005",
+    "titulo": "Caranguejo Brinquedo Fujão Sensor Dança E Som Eletrônico Top",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835568-MLA100080033031_122025-F.jpg",
+    "preco": 33.99,
+    "preco_anterior": 54.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kWUm1A",
+    "atualizado_em": "2026-09-19T20:38:45.502-03:00"
+  },
+  {
     "id": "shopee:1310127163.55856022915",
     "titulo": "Kit Alimentação Bebê Silicone 6 Peças Com Ventosa Prato Dividido, Babador, Copo e Talheres Colher Garfo Canudo Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlya5o00muiv14",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G93K2JDK?tag=malica09-20",
     "atualizado_em": "2026-09-18T20:39:34.107-03:00"
-  },
-  {
-    "id": "amazon:B0FDH242N8",
-    "titulo": "Oferta: Kit Naninha e Travesseiro Anatômico, Safari Animais 28x28cm, Travesseiro 25x22cm (ZEBRA)",
-    "imagem": "https://m.media-amazon.com/images/I/619xba-HaYL._AC_SL1500_.jpg",
-    "preco": 35,
-    "preco_anterior": 38.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FDH242N8?tag=malica09-20",
-    "atualizado_em": "2026-09-18T20:34:25.645-03:00"
   }
 ]
