@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CXJLK24Y",
+    "titulo": "Oferta: Nescau Bebida Láctea 180ml caixa com 27 unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61gtHqTqSkL._AC_SL1500_.jpg",
+    "preco": 48,
+    "preco_anterior": 79,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:44:26.456-03:00"
+  },
+  {
     "id": "amazon:B07L4TSL64",
     "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L",
     "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2x5sgB6",
     "atualizado_em": "2026-09-18T17:49:22.285-03:00"
-  },
-  {
-    "id": "amazon:B0CNQ9C8TC",
-    "titulo": "Pampers Sabonete Liquido Refil Glicerina 350ml",
-    "imagem": "https://m.media-amazon.com/images/I/71jkq4uh1hL._AC_SL1500_.jpg",
-    "preco": 26.99,
-    "preco_anterior": 29.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CNQ9C8TC?tag=malica09-20",
-    "atualizado_em": "2026-09-18T17:44:08.607-03:00"
   }
 ]
