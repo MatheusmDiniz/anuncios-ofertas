@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
+    "preco": 88,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
+    "atualizado_em": "2026-09-19T10:18:52.656-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20969462",
     "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
