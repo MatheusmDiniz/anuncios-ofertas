@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07L4TSL64",
+    "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L",
+    "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
+    "preco": 151,
+    "preco_anterior": 222,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:39:20.130-03:00"
+  },
+  {
     "id": "amazon:B0DG41GPFM",
     "titulo": "Leite em Pó Integral Instantâneo Piracanjuba Pouch 700g",
     "imagem": "https://m.media-amazon.com/images/I/71sv3ntD3iL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CNQ9C8TC?tag=malica09-20",
     "atualizado_em": "2026-09-18T17:44:08.607-03:00"
-  },
-  {
-    "id": "shopee:313281426.58263488661",
-    "titulo": "Kit 3 Camisetas Infantis 100% Algodão Gola Redonda Califórnia Blogueirinho Adolescente Streetwear",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ay-mq52uq9clwjkb6",
-    "preco": 57.54,
-    "preco_anterior": 89.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gIiNsTFAn",
-    "atualizado_em": "2026-09-18T17:39:01.068-03:00"
   }
 ]
