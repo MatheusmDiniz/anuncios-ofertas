@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BDT2JD8T",
+    "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
+    "preco": 32.99,
+    "preco_anterior": 36.96,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=malica09-20",
+    "atualizado_em": "2026-09-19T13:23:35.029-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46531575",
     "titulo": "Almofada De Banho Ursinho Cor Rosa Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_906032-MLA99586876530_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2yXFWmw",
     "atualizado_em": "2026-09-18T13:26:17.011-03:00"
-  },
-  {
-    "id": "amazon:B09WTLQ53R",
-    "titulo": "É A LATONA  DE LEITE NINHO!",
-    "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09WTLQ53R?tag=malica09-20",
-    "atualizado_em": "2026-09-18T13:21:08.620-03:00"
   }
 ]
