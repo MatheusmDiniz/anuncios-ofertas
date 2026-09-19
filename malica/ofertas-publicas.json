@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397534",
+    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
+    "preco": 67.07,
+    "preco_anterior": 100.24,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Yvt5Vw",
+    "atualizado_em": "2026-09-19T18:40:38.063-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23414358",
     "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1wxvhEi",
     "atualizado_em": "2026-09-18T18:40:57.495-03:00"
-  },
-  {
-    "id": "shopee:396723953.21097982704",
-    "titulo": "Saída Maternidade Menino Jardineira Savana 05 Peças Roupa de Bebê Menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mr7qr0ds39qca8",
-    "preco": 51.31,
-    "preco_anterior": 100.61,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2gBDSf7aGY",
-    "atualizado_em": "2026-09-18T18:35:47.197-03:00"
   }
 ]
