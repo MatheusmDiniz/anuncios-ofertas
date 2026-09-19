@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GY6GG8R7",
+    "titulo": "Fralda Pampers Recém Nascido Tamanho RN+ (Até 5 kg), 36 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ySA4+115L._AC_SL1500_.jpg",
+    "preco": 52.83,
+    "preco_anterior": 88.05,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GY6GG8R7?tag=malica09-20",
+    "atualizado_em": "2026-09-19T10:29:06.529-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24663801",
     "titulo": "Porta Frutinha Chupeta De Alimentação Silicone Bebê Infantil Cor Azul e Rosa Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_713131-MLA116734916409_082026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGTDXpBSB",
     "atualizado_em": "2026-09-18T10:29:14.168-03:00"
-  },
-  {
-    "id": "shopee:580787446.27945255322",
-    "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYN43ZSQQ",
-    "atualizado_em": "2026-09-18T10:24:08.001-03:00"
   }
 ]
