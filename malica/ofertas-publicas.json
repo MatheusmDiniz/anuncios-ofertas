@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B071ZMZW9Q",
+    "titulo": "Canetinha Vai e Vem 24 Cores, Faber-Castell, 15.0124VVZF, Multicor",
+    "imagem": "https://m.media-amazon.com/images/I/61-KXdy6v1L._AC_SL1500_.jpg",
+    "preco": 46,
+    "preco_anterior": 75,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B071ZMZW9Q?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:49:33.064-03:00"
+  },
+  {
     "id": "amazon:B0CXJLK24Y",
     "titulo": "Oferta: Nescau Bebida Láctea 180ml caixa com 27 unidades",
     "imagem": "https://m.media-amazon.com/images/I/61gtHqTqSkL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CPTB83ZW?tag=malica09-20",
     "atualizado_em": "2026-09-18T17:54:30.850-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26114298",
-    "titulo": "Garrafinha Infantil Com Canudo Dino 400ml 12m+ Azul - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_782620-MLA99588881380_122025-F.jpg",
-    "preco": 23,
-    "preco_anterior": 40.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2x5sgB6",
-    "atualizado_em": "2026-09-18T17:49:22.285-03:00"
   }
 ]
