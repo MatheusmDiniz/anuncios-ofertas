@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXM4ZSBD",
+    "titulo": "Fralda Pants Huggies Supreme Care Tamanho XXG, Estilo Roupinha, 58 Unidades, Vermelho",
+    "imagem": "https://m.media-amazon.com/images/I/817zDtkBwEL._AC_SL1500_.jpg",
+    "preco": 72,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=malica09-20",
+    "atualizado_em": "2026-09-19T09:07:13.995-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72983430",
     "titulo": "Spa Banheira Dobrável Adulto 254l Ofurô Quente Ou Gelo Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_630337-MLA111867119246_062026-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/80CjoVQHF4",
     "atualizado_em": "2026-09-18T09:12:04.028-03:00"
-  },
-  {
-    "id": "shopee:1698895168.58254892330",
-    "titulo": "Mosquiteiro Para Berço Americano e Mini Berço Tule Tela Mosquiteira Cortinado Rede Protetora",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn94rclpiqkhd9",
-    "preco": 23.99,
-    "preco_anterior": 40.66,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1BMRHj82aT",
-    "atualizado_em": "2026-09-18T09:06:55.346-03:00"
   }
 ]
