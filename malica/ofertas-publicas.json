@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHQZPZV",
+    "titulo": "Desitin Proteção Diária Creme Preventivo De Assaduras Creamy, 57g",
+    "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
+    "preco": 36.91,
+    "preco_anterior": 57.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:12:27.559-03:00"
+  },
+  {
     "id": "amazon:B07YVNBQ6Z",
     "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
     "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4qFi2dzKrv",
     "atualizado_em": "2026-09-18T16:16:36.709-03:00"
-  },
-  {
-    "id": "shopee:695080340.22098773814",
-    "titulo": "Kit 2, 3 ou 4 Calças Leggings de Cotton Sortidas Infantil Menina Premium",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mm1nzmxdq39if5",
-    "preco": 27.8,
-    "preco_anterior": 48.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qNCcyTL9t",
-    "atualizado_em": "2026-09-18T16:11:36.116-03:00"
   }
 ]
