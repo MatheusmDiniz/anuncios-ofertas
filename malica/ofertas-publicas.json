@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1452530060.19299611725",
+    "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
+    "preco": 19.99,
+    "preco_anterior": 39.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6VNzDZE3PB",
+    "atualizado_em": "2026-09-19T08:36:31.901-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27672036",
     "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5LC0FJkrFl",
     "atualizado_em": "2026-09-18T08:41:19.652-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18626757",
-    "titulo": "Triciclo Infantil Cardoso Totokinha Ariel Azul 1-3 Anos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_865500-MLA99942056617_112025-F.jpg",
-    "preco": 77,
-    "preco_anterior": 169.59,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/167HUht",
-    "atualizado_em": "2026-09-18T08:36:13.213-03:00"
   }
 ]
