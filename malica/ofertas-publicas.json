@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22918403",
+    "titulo": "Chupeta Soothie 0-3m Scf099/03 Philips Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703787-MLA99451951336_112025-F.jpg",
+    "preco": 39.97,
+    "preco_anterior": 68.61,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Psw939",
+    "atualizado_em": "2026-09-19T09:53:16.043-03:00"
+  },
+  {
     "id": "shopee:280039385.44152768165",
     "titulo": "Kit 3 Pares Chinelo Infantil Menina Sortido Confortável Leve Macio",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rase-maeftjaqyw5t40",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5fopSMVNgm",
     "atualizado_em": "2026-09-18T09:58:09.971-03:00"
-  },
-  {
-    "id": "shopee:581829117.23897712860",
-    "titulo": "JULIETE INFANTIL Óculos de Sol INFANTIL Juliete Plástico Criança Menino Menina Com Proteção Solar UV400",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyd-lz0odnh7gvvm52",
-    "preco": 12.99,
-    "preco_anterior": 19.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AUu5bbjRqi",
-    "atualizado_em": "2026-09-18T09:53:03.204-03:00"
   }
 ]
