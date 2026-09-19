@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39426115",
+    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
+    "preco": 66,
+    "preco_anterior": 172.65,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/33bipXK",
+    "atualizado_em": "2026-09-19T19:42:10.582-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875892",
     "titulo": "Sabonete Líquido de Glicerina Granado Bebê Tradicional 500ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09F4PKD9Y?tag=malica09-20",
     "atualizado_em": "2026-09-18T19:42:37.778-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26382862",
-    "titulo": "Colchão Infantil Para Berço D18 70x130cm Supreme/Dream Gazin Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812689-MLA99445998812_112025-F.jpg",
-    "preco": 149,
-    "preco_anterior": 399,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fwPMj3",
-    "atualizado_em": "2026-09-18T19:37:29.064-03:00"
   }
 ]
