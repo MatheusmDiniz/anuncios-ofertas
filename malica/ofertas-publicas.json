@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38429203",
+    "titulo": "Mustela Refil Gel Lavante Suave Com Abacate Orgânico 400ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665621-MLA108909941042_032026-F.jpg",
+    "preco": 45.79,
+    "preco_anterior": 57.62,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BV8UjF",
+    "atualizado_em": "2026-09-19T20:13:03.430-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47743053",
     "titulo": "Escova De Dente Mordedor Primeiro Dentinhos 0 A 2 Anos Buba Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_915524-MLA99907110867_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G73SVBYF?tag=malica09-20",
     "atualizado_em": "2026-09-18T20:13:53.658-03:00"
-  },
-  {
-    "id": "amazon:B0CGG1QK3D",
-    "titulo": "Oferta: Conjunto de Talheres Infantis Tramontina em Aço Inox com Estojo 05 Pçs",
-    "imagem": "https://m.media-amazon.com/images/I/61eJ1mhmjRL._AC_SL1500_.jpg",
-    "preco": 52.03,
-    "preco_anterior": 58.22,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGG1QK3D?tag=malica09-20",
-    "atualizado_em": "2026-09-18T20:08:45.795-03:00"
   }
 ]
