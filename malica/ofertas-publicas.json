@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 32.12,
+    "preco_anterior": 97.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26qddxz",
+    "atualizado_em": "2026-09-19T19:57:41.260-03:00"
+  },
+  {
     "id": "shopee:341167297.20698276094",
     "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FX5X7DV2?tag=malica09-20",
     "atualizado_em": "2026-09-18T19:58:29.653-03:00"
-  },
-  {
-    "id": "amazon:B0DDLK45SR",
-    "titulo": "Oferta: Maxi Baby Tapete Ginásio Com Bolinhas Para Bebê Movie Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/61S3tEH25ML._AC_SL1500_.jpg",
-    "preco": 259.89,
-    "preco_anterior": 314.42,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DDLK45SR?tag=malica09-20",
-    "atualizado_em": "2026-09-18T19:53:09.352-03:00"
   }
 ]
