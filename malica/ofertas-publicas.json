@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB41695273",
+    "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
+    "preco": 78.7,
+    "preco_anterior": 170.98,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2khifsH",
+    "atualizado_em": "2026-09-19T15:21:20.654-03:00"
+  },
+  {
     "id": "amazon:B0FPSPP7N5",
     "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/61zvjBzkh3L._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAHGScTSMU",
     "atualizado_em": "2026-09-18T15:21:44.599-03:00"
-  },
-  {
-    "id": "amazon:B091664YFV",
-    "titulo": "OS PASSEIOS GANHARAM UM ALIADO",
-    "imagem": "https://m.media-amazon.com/images/I/51vhe3JElxL._AC_SL1500_.jpg",
-    "preco": 185,
-    "preco_anterior": 314,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B091664YFV?tag=malica09-20",
-    "atualizado_em": "2026-09-18T15:16:39.557-03:00"
   }
 ]
