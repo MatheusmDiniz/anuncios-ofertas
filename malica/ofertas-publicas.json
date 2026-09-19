@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:967746038.23694425476",
+    "titulo": "Kit 4 Rosquinhas de Amamentação Protetor 100% Algodão Macio",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
+    "preco": 16.99,
+    "preco_anterior": 24.99,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/LnLsFSG3A",
+    "atualizado_em": "2026-09-19T08:56:56.291-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24626810",
     "titulo": "Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_700261-MLA99618194932_122025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8AWBcY4Su5",
     "atualizado_em": "2026-09-18T09:01:49.962-03:00"
-  },
-  {
-    "id": "shopee:1480010644.54052225033",
-    "titulo": "32 Peças Kit De Maquiagem Para Crianças Lavável/Conjunto Portátil Meninas",
-    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhkecw4985qc28",
-    "preco": 79,
-    "preco_anterior": 197.5,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1LfrTyvHVr",
-    "atualizado_em": "2026-09-18T08:56:44.210-03:00"
   }
 ]
