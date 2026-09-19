@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875892",
+    "titulo": "Sabonete Líquido de Glicerina Granado Bebê Tradicional 500ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
+    "preco": 29.99,
+    "preco_anterior": 32.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2iVciEN",
+    "atualizado_em": "2026-09-19T19:37:03.214-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fwPMj3",
     "atualizado_em": "2026-09-18T19:37:29.064-03:00"
-  },
-  {
-    "id": "amazon:B01MDUHOZZ",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81HwfB7LknL._AC_SL1500_.jpg",
-    "preco": 160,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B01MDUHOZZ?tag=malica09-20",
-    "atualizado_em": "2026-09-18T19:32:19.862-03:00"
   }
 ]
