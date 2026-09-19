@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB43809739",
+    "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
+    "preco": 8.11,
+    "preco_anterior": 20.09,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28TvvrA",
+    "atualizado_em": "2026-09-19T13:49:13.747-03:00"
+  },
+  {
     "id": "amazon:B07GB34N8Q",
     "titulo": "Mili Fralda Baby Jumbinho G - 20 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71eqvJbMMfL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=malica09-20",
     "atualizado_em": "2026-09-18T13:51:56.927-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19601136",
-    "titulo": "Lenços Umedecidos Upa Bebê - 140 Unidades Toalhas Umedecidas Com Tampa Flip Top Sem Alcool",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771265-MLA104343721506_012026-F.jpg",
-    "preco": 8.55,
-    "preco_anterior": 13,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1sVJCsv",
-    "atualizado_em": "2026-09-18T13:46:51.572-03:00"
   }
 ]
