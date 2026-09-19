@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19466939",
+    "titulo": "Cereal neston 3 cereais 360g Nestlé",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602906-MLU78432990521_082024-F.jpg",
+    "preco": 15.74,
+    "preco_anterior": 16.62,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MMUBY3",
+    "atualizado_em": "2026-09-19T20:59:20.218-03:00"
+  },
+  {
     "id": "shopee:1443637814.51006015979",
     "titulo": "Kit 400 Toalhas Umedecidas Chameguinho Baby Lenço Umedecido Infantil Higiene Bebê Menina Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkij2fr51lhfd4",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B02r8YZr8",
     "atualizado_em": "2026-09-18T21:00:01.178-03:00"
-  },
-  {
-    "id": "amazon:B07VRYJWPC",
-    "titulo": "Repelente Elétrico Líquido SBP 45 Noites Cheiro Suave com 2 unidades de 32.9ml",
-    "imagem": "https://m.media-amazon.com/images/I/71OFi08UO7L._AC_SL1500_.jpg",
-    "preco": 15,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07VRYJWPC?tag=malica09-20",
-    "atualizado_em": "2026-09-18T20:54:55.567-03:00"
   }
 ]
