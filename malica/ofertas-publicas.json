@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B085CZ2F4J",
+    "titulo": "Sabonete Líquido Refil Glicerina Da Cabeça Aos Pés Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/71XwqjMGZsL._AC_SL1500_.jpg",
+    "preco": 18.14,
+    "preco_anterior": 36.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B085CZ2F4J?tag=malica09-20",
+    "atualizado_em": "2026-09-19T14:35:16.062-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876092",
     "titulo": "Sabonete Líquido De Glicerina Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B7VfIcNsm",
     "atualizado_em": "2026-09-18T14:38:48.329-03:00"
-  },
-  {
-    "id": "shopee:341167297.23098766321",
-    "titulo": "Conjunto Moletom Bebe Menina Escolha Seu Modelo, com Estampas Fofas e Conforto Infantil Bebê Feminino Frio Inverno. l04",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mlmeb1wcfo5g1b",
-    "preco": 34.9,
-    "preco_anterior": 69.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50Z8EwyhWu",
-    "atualizado_em": "2026-09-18T14:33:40.655-03:00"
   }
 ]
