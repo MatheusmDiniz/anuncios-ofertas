@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24276913",
+    "titulo": "Prato infantil Redondo em Silicone com Divisórias e Ventosas Buba Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705376-MLA100086252029_122025-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 64.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28SEv7U",
+    "atualizado_em": "2026-09-19T20:28:34.254-03:00"
+  },
+  {
     "id": "shopee:1361476561.22493583538",
     "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=malica09-20",
     "atualizado_em": "2026-09-18T20:29:18.219-03:00"
-  },
-  {
-    "id": "amazon:B0D4F4VS9M",
-    "titulo": "Oferta: CHUPETA MAM ORIGINAL TRIO - EMBALAGEM BLISTER TRIPLA",
-    "imagem": "https://m.media-amazon.com/images/I/51aMok8t0jL._AC_SL1500_.jpg",
-    "preco": 69.9,
-    "preco_anterior": 96,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=malica09-20",
-    "atualizado_em": "2026-09-18T20:24:09.836-03:00"
   }
 ]
