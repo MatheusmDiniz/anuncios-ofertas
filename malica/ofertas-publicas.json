@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09BBDVPB1",
+    "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
+    "atualizado_em": "2026-09-19T15:57:08.990-03:00"
+  },
+  {
     "id": "amazon:B08QG3H6YR",
     "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fhN26MxE5",
     "atualizado_em": "2026-09-18T16:01:21.626-03:00"
-  },
-  {
-    "id": "amazon:B00F5NZ34K",
-    "titulo": "BAIXOU DEMAIS CORREE",
-    "imagem": "https://m.media-amazon.com/images/I/517fke2-VpL._AC_SL1500_.jpg",
-    "preco": 13.49,
-    "preco_anterior": 24.79,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00F5NZ34K?tag=malica09-20",
-    "atualizado_em": "2026-09-18T15:56:14.199-03:00"
   }
 ]
