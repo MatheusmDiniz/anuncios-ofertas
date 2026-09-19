@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1409311869.28043601178",
+    "titulo": "Estoque Pronto Carter Manga Curta Cinco Peças/Macacão Infantil/Baby Romper/Roupa SO0108",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821dj-mh3odwwll4p470",
+    "preco": 149.04,
+    "preco_anterior": null,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6L4VpIa7Rh",
+    "atualizado_em": "2026-09-18T21:10:10.739-03:00"
+  },
+  {
     "id": "amazon:B099NCTCX8",
     "titulo": "Xô Inseto Spray Repelente 15% DEET 200mL",
     "imagem": "https://m.media-amazon.com/images/I/61ISJ-si56L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7fZtPqoY7A",
     "atualizado_em": "2026-09-17T21:14:33.986-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19460712",
-    "titulo": "Huggies Toalha Umedecida Hidratação E Nutrição Lev 4 Pag 3",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_996036-MLA99934977847_112025-F.jpg",
-    "preco": 31.9,
-    "preco_anterior": 45.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2xtUxZj",
-    "atualizado_em": "2026-09-17T21:09:28.552-03:00"
   }
 ]
