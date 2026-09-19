@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28885783",
+    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
+    "preco": 10.87,
+    "preco_anterior": 20.41,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2far6hn",
+    "atualizado_em": "2026-09-19T12:06:37.570-03:00"
+  },
+  {
     "id": "amazon:B095R95SNW",
     "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
     "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FT23TCW?tag=malica09-20",
     "atualizado_em": "2026-09-18T12:09:18.135-03:00"
-  },
-  {
-    "id": "shopee:1571239092.23494546355",
-    "titulo": "Kit Legging Escolar Lisa Preta e Azul Marinho Feminina/Menina Infantil Juvenil Calça Meia Estação",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-msrrh12wegp32a",
-    "preco": 39.9,
-    "preco_anterior": 120.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3g3mQfTyUq",
-    "atualizado_em": "2026-09-18T12:04:07.629-03:00"
   }
 ]
