@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775080",
+    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
+    "preco": 11.78,
+    "preco_anterior": 18.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/317psw4",
+    "atualizado_em": "2026-09-19T08:41:39.077-03:00"
+  },
+  {
     "id": "shopee:1452530060.19299611725",
     "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2a8oMsm",
     "atualizado_em": "2026-09-18T08:46:28.146-03:00"
-  },
-  {
-    "id": "shopee:1450084195.42071102324",
-    "titulo": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-    "preco": 68.75,
-    "preco_anterior": 125,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5LC0FJkrFl",
-    "atualizado_em": "2026-09-18T08:41:19.652-03:00"
   }
 ]
