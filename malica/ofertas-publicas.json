@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BZBPXLBG",
+    "titulo": "Hidratante Mustela Stelatopia+ Relipidante Antiprurido, 300ml, para Peles Secas e Atópicas, Sem Fragrância, Uso Familiar",
+    "imagem": "https://m.media-amazon.com/images/I/41-bgYFF0nL._AC_SL1500_.jpg",
+    "preco": 189,
+    "preco_anterior": 239,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BZBPXLBG?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:54:39.968-03:00"
+  },
+  {
     "id": "amazon:B071ZMZW9Q",
     "titulo": "Canetinha Vai e Vem 24 Cores, Faber-Castell, 15.0124VVZF, Multicor",
     "imagem": "https://m.media-amazon.com/images/I/61-KXdy6v1L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1Lfs6FnBtU",
     "atualizado_em": "2026-09-18T17:59:53.655-03:00"
-  },
-  {
-    "id": "amazon:B0CPTB83ZW",
-    "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
-    "imagem": "https://m.media-amazon.com/images/I/612MPCMzhxL._AC_SL1500_.jpg",
-    "preco": 31.99,
-    "preco_anterior": 35.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPTB83ZW?tag=malica09-20",
-    "atualizado_em": "2026-09-18T17:54:30.850-03:00"
   }
 ]
