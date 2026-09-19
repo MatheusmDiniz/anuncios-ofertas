@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42105593",
+    "titulo": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
+    "preco": 47.82,
+    "preco_anterior": 63.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19ebFat",
+    "atualizado_em": "2026-09-19T08:11:00.428-03:00"
+  },
+  {
     "id": "shopee:1341241314.54554614099",
     "titulo": "Lucky baby/kit body e calça bebê/ kit body bebê menina carters/conjunto body e calça bebê menina",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82625-mjfvx1we4sn514",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1MMUBY3",
     "atualizado_em": "2026-09-18T08:15:40.257-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22974681",
-    "titulo": "Travel System Duo, Cosco Kids, Reverse, 0 a 15kg, Preto Rajado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687710-MLA99456623672_112025-F.jpg",
-    "preco": 789.9,
-    "preco_anterior": 999,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1g7rgyh",
-    "atualizado_em": "2026-09-18T08:10:32.197-03:00"
   }
 ]
