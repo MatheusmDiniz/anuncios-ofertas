@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C9W3MZV2",
+    "titulo": "Sabonete Nutritivo Derma Protect JOHNSON",
+    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
+    "preco": 27,
+    "preco_anterior": 53,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
+    "atualizado_em": "2026-09-19T15:05:59.327-03:00"
+  },
+  {
     "id": "amazon:B07C3XMTFY",
     "titulo": "Babysec Ultrasec Galinha Pintadinha - Fralda, Tamanho G, 32 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51rLa23uplL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3g3mGDaTrx",
     "atualizado_em": "2026-09-18T15:11:33.579-03:00"
-  },
-  {
-    "id": "amazon:B0979VS2JH",
-    "titulo": "PREÇO ESPECIAL NA POM POM G",
-    "imagem": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SL1500_.jpg",
-    "preco": 0.78,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
-    "atualizado_em": "2026-09-18T15:02:09.007-03:00"
   }
 ]
