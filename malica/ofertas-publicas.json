@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65726839",
+    "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
+    "preco": 29.58,
+    "preco_anterior": 29.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ibWYA9",
+    "atualizado_em": "2026-09-19T18:45:44.857-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18397534",
     "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2QVZvYb",
     "atualizado_em": "2026-09-18T18:46:08.683-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46053660",
-    "titulo": "LEGO Speed - Oracle Red Bull Racing RB20 F1 - 251 Peças - 77243",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_658714-MLA100005501511_122025-F.jpg",
-    "preco": 158.9,
-    "preco_anterior": 264.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1wxvhEi",
-    "atualizado_em": "2026-09-18T18:40:57.495-03:00"
   }
 ]
