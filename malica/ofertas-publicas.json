@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23024522",
+    "titulo": "Brinquedo Educativo Cubo Mágico Grande Didático Infantil Encaixe 6 Faces Mercotoys",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949635-MLA107382075000_032026-F.jpg",
+    "preco": 63.71,
+    "preco_anterior": 149.69,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2xAR8oH",
+    "atualizado_em": "2026-09-19T19:11:24.668-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28643543",
     "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8AWCJjEEC6",
     "atualizado_em": "2026-09-18T19:11:45.828-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28463775",
-    "titulo": "Brinquedo Educativo Pica Pau Baby Toys Set Didático Encaixe 19 Peças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874707-MLA98409763554_112025-F.jpg",
-    "preco": 36.41,
-    "preco_anterior": 56.5,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MBhnxo",
-    "atualizado_em": "2026-09-18T19:06:38.494-03:00"
   }
 ]
