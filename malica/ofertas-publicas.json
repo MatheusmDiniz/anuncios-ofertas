@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGYR8GBT",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
+    "preco": 189,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
+    "atualizado_em": "2026-09-19T10:08:37.662-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39448662",
     "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_665934-MLA99476766924_112025-F.jpg",
