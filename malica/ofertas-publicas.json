@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DMTGT96Z",
+    "titulo": "Travel System Safety 1st Spark Plus Trio com Isofix, 0 a 22 kg, Black Graphite",
+    "imagem": "https://m.media-amazon.com/images/I/51h10ijXAzL._AC_SL1500_.jpg",
+    "preco": 1599.99,
+    "preco_anterior": 2399,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DMTGT96Z?tag=malica09-20",
+    "atualizado_em": "2026-09-18T21:20:25.226-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27590860",
     "titulo": "Babador De Silicone Pega Migalhas Menina 09724 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_831978-MLA100084513681_122025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2nh1NJn",
     "atualizado_em": "2026-09-17T21:24:53.759-03:00"
-  },
-  {
-    "id": "shopee:575397523.51106656675",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gIgGpbzmE",
-    "atualizado_em": "2026-09-17T21:19:42.488-03:00"
   }
 ]
