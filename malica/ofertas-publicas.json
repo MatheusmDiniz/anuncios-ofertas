@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27145476",
+    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 27.23,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mUFvwo",
+    "atualizado_em": "2026-09-19T11:56:23.324-03:00"
+  },
+  {
     "id": "amazon:B093G8NZ4Y",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71l5ps7efSL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
     "atualizado_em": "2026-09-18T11:59:00.824-03:00"
-  },
-  {
-    "id": "shopee:511410160.23396808146",
-    "titulo": "Kit Cozinha Infantil De Brinquedo Completa Sai Água de Verdade",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7r99r-ll9v8xtm25h07c",
-    "preco": 68.9,
-    "preco_anterior": 149.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYOforTU5",
-    "atualizado_em": "2026-09-18T11:53:34.883-03:00"
   }
 ]
