@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B7K738RQ",
+    "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
+    "preco": 55.19,
+    "preco_anterior": 64.64,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
+    "atualizado_em": "2026-09-19T11:41:00.452-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65220062",
     "titulo": "Veículo Patrulha Canina Liberty Resgate Sunny 4870",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_907505-MLA106705915942_022026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5LBz3kWeMk",
     "atualizado_em": "2026-09-18T11:43:18.316-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26981196",
-    "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
-    "preco": 77.29,
-    "preco_anterior": 129.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CfRhYg",
-    "atualizado_em": "2026-09-18T11:38:11.930-03:00"
   }
 ]
