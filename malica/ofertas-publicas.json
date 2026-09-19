@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPSHCSQF",
+    "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XG - 144 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/813VUlveBgL._AC_SL1500_.jpg",
+    "preco": 197,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:17:35.795-03:00"
+  },
+  {
     "id": "amazon:B07DHQZPZV",
     "titulo": "Desitin Proteção Diária Creme Preventivo De Assaduras Creamy, 57g",
     "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GVMQ37N5?tag=malica09-20",
     "atualizado_em": "2026-09-18T16:21:52.306-03:00"
-  },
-  {
-    "id": "shopee:452780596.57062162763",
-    "titulo": "Conjunto bebe menina oncinha inverno frio roupa roupinha P M G Mini diva estampado com faixa  cabelo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mpfidy8mnfgh1d",
-    "preco": 39.9,
-    "preco_anterior": 70,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4qFi2dzKrv",
-    "atualizado_em": "2026-09-18T16:16:36.709-03:00"
   }
 ]
