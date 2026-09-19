@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42418820",
+    "titulo": "Aquecedor De Mamadeira Baby Usb Térmico Infantil Leite Materno Bebê Portátil Com Regulagem Temperatura 3 Niveis Para Manter Aquecido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_773471-MLA99561428486_122025-F.jpg",
+    "preco": 36.7,
+    "preco_anterior": 134.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/17mw33i",
+    "atualizado_em": "2026-09-19T11:46:08.321-03:00"
+  },
+  {
     "id": "amazon:B0B7K738RQ",
     "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1WbnBpU",
     "atualizado_em": "2026-09-18T11:48:27.801-03:00"
-  },
-  {
-    "id": "shopee:341167297.22296977271",
-    "titulo": "Kit 4 Peças Pijama Infantil Menina Manga Comprida Tamanho 1 ao 10",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly2t7zj3codya5",
-    "preco": 43.9,
-    "preco_anterior": 84.42,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5LBz3kWeMk",
-    "atualizado_em": "2026-09-18T11:43:18.316-03:00"
   }
 ]
