@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F9MSZW9D",
+    "titulo": "Kit Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61RjPmc4DmL._AC_SL1500_.jpg",
+    "preco": 56.6,
+    "preco_anterior": 107.98,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F9MSZW9D?tag=malica09-20",
+    "atualizado_em": "2026-09-19T13:13:17.837-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB51240172",
     "titulo": "Boneco Stitch Banho Divertido - Disney Cotiplás 2905",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dYxzfS",
     "atualizado_em": "2026-09-18T13:15:59.431-03:00"
-  },
-  {
-    "id": "amazon:B08SFMNZF6",
-    "titulo": "O PREÇO DA LOJA FÍSICA É CHOCANTE",
-    "imagem": "https://m.media-amazon.com/images/I/51tOnEh+kZL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08SFMNZF6?tag=malica09-20",
-    "atualizado_em": "2026-09-18T13:10:49.820-03:00"
   }
 ]
