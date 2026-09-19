@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50480622",
+    "titulo": "Cadeirinha Bebê Descanso Musical Vibratória Rosa Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_732532-MLA95142110312_102025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 263.78,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28aNNQK",
+    "atualizado_em": "2026-09-19T12:37:25.097-03:00"
+  },
+  {
     "id": "amazon:B09MZXLW51",
     "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
     "imagem": "https://m.media-amazon.com/images/I/61dN-GFMm8L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FLLHPR16?tag=malica09-20",
     "atualizado_em": "2026-09-18T12:40:01.482-03:00"
-  },
-  {
-    "id": "shopee:1669522364.58255859733",
-    "titulo": "Tênis Infantil Menino Super Leve e Confortável Escolar Esportivo - Volta as aulas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkynhxip4uf770",
-    "preco": 31,
-    "preco_anterior": 64.58,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2gBF4VNvPb",
-    "atualizado_em": "2026-09-18T12:34:55.727-03:00"
   }
 ]
