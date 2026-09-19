@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CBCRP3BS",
+    "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
+    "imagem": "https://m.media-amazon.com/images/I/71y1o6ee9IL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CBCRP3BS?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:32:57.439-03:00"
+  },
+  {
     "id": "amazon:B0GTN3CDWG",
     "titulo": "Mustela Kit Minis Travel Size - Gel  Lavante + Hydra Bebê + Água de Limpeza + Creme Vitaminado Preventivo de Assaduras 54g - Nova Embalagem - Edição Limitada - Mustela Bebê e Criança.",
     "imagem": null,
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8V926JFGYi",
     "atualizado_em": "2026-09-18T16:37:22.120-03:00"
-  },
-  {
-    "id": "amazon:B009KBH0FI",
-    "titulo": "Óleo Hidratante De Amêndoas Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41-JhIE-jhL._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B009KBH0FI?tag=malica09-20",
-    "atualizado_em": "2026-09-18T16:32:16.288-03:00"
   }
 ]
