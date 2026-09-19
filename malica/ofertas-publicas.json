@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20611931",
+    "titulo": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
+    "preco": 85.9,
+    "preco_anterior": 129.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gfkcGb",
+    "atualizado_em": "2026-09-19T08:21:12.729-03:00"
+  },
+  {
     "id": "shopee:1361476561.19397991697",
     "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Gwm8pw",
     "atualizado_em": "2026-09-18T08:25:58.028-03:00"
-  },
-  {
-    "id": "shopee:1777221519.58210846395",
-    "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
-    "preco": 35.67,
-    "preco_anterior": 51.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fKxnX7XXW",
-    "atualizado_em": "2026-09-18T08:20:45.864-03:00"
   }
 ]
