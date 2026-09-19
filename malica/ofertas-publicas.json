@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26816126",
+    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
+    "preco": 18.48,
+    "preco_anterior": 31.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dDis3R",
+    "atualizado_em": "2026-09-18T21:25:32.735-03:00"
+  },
+  {
     "id": "amazon:B0DMTGT96Z",
     "titulo": "Travel System Safety 1st Spark Plus Trio com Isofix, 0 a 22 kg, Black Graphite",
     "imagem": "https://m.media-amazon.com/images/I/51h10ijXAzL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13mp6c6",
     "atualizado_em": "2026-09-17T21:30:12.813-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406873",
-    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
-    "preco": 21.59,
-    "preco_anterior": 31.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nh1NJn",
-    "atualizado_em": "2026-09-17T21:24:53.759-03:00"
   }
 ]
