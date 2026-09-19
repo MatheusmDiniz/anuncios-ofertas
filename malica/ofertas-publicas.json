@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1422731263.42508384555",
+    "titulo": "Vestido Barrado Manga Infantil Menina Estampado Casual Festa Luxo 4 a 12 Anos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meytlw3zjfgn18",
+    "preco": 37.9,
+    "preco_anterior": 70.19,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/30o6ADcuHe",
+    "atualizado_em": "2026-09-19T09:17:27.619-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875743",
     "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qUfGoNI4c",
     "atualizado_em": "2026-09-18T09:22:14.879-03:00"
-  },
-  {
-    "id": "shopee:989001237.23397999673",
-    "titulo": "Kit 6 Peças de Roupas Infantil Menina 3 Conjuntos Verão Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3pll6ed4w91",
-    "preco": 49.9,
-    "preco_anterior": 83.17,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8Kpb6dKX0i",
-    "atualizado_em": "2026-09-18T09:17:09.681-03:00"
   }
 ]
