@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBBWQB4G",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
+    "preco": 87,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
+    "atualizado_em": "2026-09-19T18:20:12.704-03:00"
+  },
+  {
     "id": "amazon:B0GW3YY6FY",
     "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61Twnnnkq4L._AC_SL1500_.jpg",
