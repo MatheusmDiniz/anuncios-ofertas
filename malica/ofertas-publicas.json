@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFJHYD5X",
+    "titulo": "Shampoo Infantil Para Cabelos Crespos Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61NlR+sHiOL._AC_SL1500_.jpg",
+    "preco": 16,
+    "preco_anterior": 34,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=malica09-20",
+    "atualizado_em": "2026-09-19T15:26:27.737-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB41695273",
     "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09BJZPBNR?tag=malica09-20",
     "atualizado_em": "2026-09-18T15:26:50.088-03:00"
-  },
-  {
-    "id": "shopee:1671170801.58200794735",
-    "titulo": "Saia Estilo Tutu Menina Infantil Verão Cotton Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mrga0q2iozk510",
-    "preco": 36.7,
-    "preco_anterior": 79.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AAHGScTSMU",
-    "atualizado_em": "2026-09-18T15:21:44.599-03:00"
   }
 ]
