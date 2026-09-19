@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093G9PSPP",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71aOjTMuajL._AC_SL1500_.jpg",
+    "preco": 43.34,
+    "preco_anterior": 50.29,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=malica09-20",
+    "atualizado_em": "2026-09-19T10:49:36.414-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215261",
     "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
