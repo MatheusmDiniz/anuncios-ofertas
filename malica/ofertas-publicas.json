@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BDBFT1QP",
+    "titulo": "Fórmula Infantil: Aptamil Profutura Gold 2 800g - 6-12 meses",
+    "imagem": "https://m.media-amazon.com/images/I/71n8HGruFRL._AC_SL1500_.jpg",
+    "preco": 109,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BDBFT1QP?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:59:46.544-03:00"
+  },
+  {
     "id": "amazon:B0BZBPXLBG",
     "titulo": "Hidratante Mustela Stelatopia+ Relipidante Antiprurido, 300ml, para Peles Secas e Atópicas, Sem Fragrância, Uso Familiar",
     "imagem": "https://m.media-amazon.com/images/I/41-bgYFF0nL._AC_SL1500_.jpg",
