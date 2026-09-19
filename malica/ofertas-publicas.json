@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6561264053",
+    "titulo": "Coleção Cores Mágicas - Bluey",
+    "imagem": "https://m.media-amazon.com/images/I/81Ud7DGLsKL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": 29,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6561264053?tag=malica09-20",
+    "atualizado_em": "2026-09-19T17:24:02.039-03:00"
+  },
+  {
     "id": "amazon:B0B99BCYCP",
     "titulo": "Lava-Roupas em Pó Omo Puro Cuidado Caixa 2,2kg Tamanho Família",
     "imagem": "https://m.media-amazon.com/images/I/717syvOckGL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4Vcs4ANyOv",
     "atualizado_em": "2026-09-18T17:28:48.729-03:00"
-  },
-  {
-    "id": "amazon:B0D7PT9T9B",
-    "titulo": "Oferta: Kit Pista Hot Wheels Super Delegacia de Polícia Mattel. Pista com lançador, prisão de vilões e cenário urbano cheio de ação. Para crianças a partir de 4 anos.",
-    "imagem": "https://m.media-amazon.com/images/I/81dvJBBZUnL._AC_SL1500_.jpg",
-    "preco": 149,
-    "preco_anterior": 259,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D7PT9T9B?tag=malica09-20",
-    "atualizado_em": "2026-09-18T17:23:43.412-03:00"
   }
 ]
