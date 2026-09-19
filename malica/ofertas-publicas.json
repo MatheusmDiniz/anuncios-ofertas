@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPSPP7N5",
+    "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/61zvjBzkh3L._AC_SL1500_.jpg",
+    "preco": 219,
+    "preco_anterior": 289,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=malica09-20",
+    "atualizado_em": "2026-09-19T15:16:13.131-03:00"
+  },
+  {
     "id": "amazon:B07MT9LCV1",
     "titulo": "Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61U2+G0QD+L._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B091664YFV?tag=malica09-20",
     "atualizado_em": "2026-09-18T15:16:39.557-03:00"
-  },
-  {
-    "id": "shopee:533413030.23897094852",
-    "titulo": "Macacão Curto Babado Minimalista Bebê Menina - Até 12 Meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mt2jrpfxr5z922",
-    "preco": 34.1,
-    "preco_anterior": 50.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3g3mGDaTrx",
-    "atualizado_em": "2026-09-18T15:11:33.579-03:00"
   }
 ]
