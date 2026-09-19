@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08FVVH9BC",
+    "titulo": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
+    "imagem": "https://m.media-amazon.com/images/I/716S5cnZi7L._AC_SL1500_.jpg",
+    "preco": 56,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=malica09-20",
+    "atualizado_em": "2026-09-19T16:53:23.898-03:00"
+  },
+  {
     "id": "amazon:B0CHZ9XXPX",
     "titulo": "HIPOGLÓS® Creme Preventivo De Assaduras, 40g",
     "imagem": "https://m.media-amazon.com/images/I/51QMN1Euz1L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8AWC52Cr3Z",
     "atualizado_em": "2026-09-18T16:58:09.650-03:00"
-  },
-  {
-    "id": "amazon:B09QLH5SHB",
-    "titulo": "Oferta: Casa de Bonecas Barbie Malibu Dois Andares Rosa Mattel",
-    "imagem": "https://m.media-amazon.com/images/I/81DFMqlGQ+L._AC_SL1500_.jpg",
-    "preco": 479,
-    "preco_anterior": 1159,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09QLH5SHB?tag=malica09-20",
-    "atualizado_em": "2026-09-18T16:53:02.265-03:00"
   }
 ]
