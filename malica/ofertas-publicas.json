@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXJ12QQ",
+    "titulo": "Huggies Fralda Supreme Care M 196 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
+    "preco": 174.9,
+    "preco_anterior": 229.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
+    "atualizado_em": "2026-09-19T11:30:36.207-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63710202",
     "titulo": "Absorventes para Seios Ultra Respiráveis Medela, 30 unids",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_810766-MLA103253081881_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30o3rHWv4c",
     "atualizado_em": "2026-09-18T11:33:03.270-03:00"
-  },
-  {
-    "id": "amazon:B0DHSHNWMX",
-    "titulo": "Gel Para Aliviar a Febre Buba",
-    "imagem": "https://m.media-amazon.com/images/I/61dbYxMz3HL._AC_SL1500_.jpg",
-    "preco": 19.7,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=malica09-20",
-    "atualizado_em": "2026-09-18T11:27:57.109-03:00"
   }
 ]
