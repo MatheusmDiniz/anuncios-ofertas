@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BCH32VGZ",
+    "titulo": "Fralda Babysec Premium Shortinho Hiper M 60 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61IDOP72rZL._AC_SL1500_.jpg",
+    "preco": 77.99,
+    "preco_anterior": 97.49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BCH32VGZ?tag=malica09-20",
+    "atualizado_em": "2026-09-19T14:04:33.768-03:00"
+  },
+  {
     "id": "amazon:B0H1JZ3YQC",
     "titulo": "Fralda Cremer Jumbo P 24 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71QU7clBmvL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07G8QLGSR?tag=malica09-20",
     "atualizado_em": "2026-09-18T14:07:53.544-03:00"
-  },
-  {
-    "id": "amazon:B07ZHGT9ZT",
-    "titulo": "BANHO SUAVE COM DOVE",
-    "imagem": "https://m.media-amazon.com/images/I/61bL8uVCTxL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=malica09-20",
-    "atualizado_em": "2026-09-18T14:02:44.141-03:00"
   }
 ]
