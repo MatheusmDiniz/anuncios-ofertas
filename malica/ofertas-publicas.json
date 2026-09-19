@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1361476561.19397991697",
+    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
+    "preco": 24.99,
+    "preco_anterior": 49.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7ptLv7FUsK",
+    "atualizado_em": "2026-09-19T08:16:04.947-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42105593",
     "titulo": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9fKxnX7XXW",
     "atualizado_em": "2026-09-18T08:20:45.864-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19466939",
-    "titulo": "Cereal neston 3 cereais 360g Nestlé",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602906-MLU78432990521_082024-F.jpg",
-    "preco": 16.62,
-    "preco_anterior": 38.84,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MMUBY3",
-    "atualizado_em": "2026-09-18T08:15:40.257-03:00"
   }
 ]
