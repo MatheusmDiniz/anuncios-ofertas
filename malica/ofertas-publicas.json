@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1472462269.58259359702",
+    "titulo": "Tenda infantil: casa dos sonhos, infância feliz",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mndekygqd1q96d",
+    "preco": 60.25,
+    "preco_anterior": 87.32,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2qUiRufCfA",
+    "atualizado_em": "2026-09-20T09:13:03.220-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28463775",
     "titulo": "Brinquedo Educativo Pica Pau Baby Toys Set Didático Encaixe 19 Peças",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_874707-MLA98409763554_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30o6ADcuHe",
     "atualizado_em": "2026-09-19T09:17:27.619-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875743",
-    "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
-    "preco": 15.09,
-    "preco_anterior": 21,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CNXtvV",
-    "atualizado_em": "2026-09-19T09:12:21.731-03:00"
   }
 ]
