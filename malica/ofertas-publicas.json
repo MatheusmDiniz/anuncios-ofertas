@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1233552581.23492959831",
+    "titulo": "Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Quente Feminino Jaqueta Infantil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zum-mkjug1b6qviadf",
+    "preco": 18.8,
+    "preco_anterior": 69.63,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9AOmae7UC8",
+    "atualizado_em": "2026-09-20T17:37:43.261-03:00"
+  },
+  {
     "id": "amazon:B0GXFF828Z",
     "titulo": "Oferta: Cercadinho para Bebe Cercado para Bebê Cercadinho Infantil Chiqueirinho Bebe de Proteção Criança Grande Tamanho DOUBLE S (150 * 130cm)",
     "imagem": "https://m.media-amazon.com/images/I/71GfPMrrR7L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
     "atualizado_em": "2026-09-19T17:39:20.130-03:00"
-  },
-  {
-    "id": "amazon:B0DG41GPFM",
-    "titulo": "Leite em Pó Integral Instantâneo Piracanjuba Pouch 700g",
-    "imagem": "https://m.media-amazon.com/images/I/71sv3ntD3iL._AC_SL1500_.jpg",
-    "preco": 35,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DG41GPFM?tag=malica09-20",
-    "atualizado_em": "2026-09-19T17:34:15.029-03:00"
   }
 ]
