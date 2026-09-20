@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FGXQTFJV",
+    "titulo": "Oferta: Portão de Segurança Retrátil para Bebês e Pets, 86 cm x 3 m, Tela PVC, cinza",
+    "imagem": "https://m.media-amazon.com/images/I/71LU7hu2XwL._AC_SL1500_.jpg",
+    "preco": 189,
+    "preco_anterior": 259,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FGXQTFJV?tag=malica09-20",
+    "atualizado_em": "2026-09-20T17:11:53.706-03:00"
+  },
+  {
     "id": "shopee:1223506816.58251518035",
     "titulo": "Livro Infantil Falante Bilíngue Português/Inglês Educativo Interativo com Som",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mscge5xo2rk7e9",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0781CTJF6?tag=malica09-20",
     "atualizado_em": "2026-09-19T17:13:46.413-03:00"
-  },
-  {
-    "id": "amazon:B08YK3CVLY",
-    "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
-    "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
-    "preco": 109,
-    "preco_anterior": 136,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
-    "atualizado_em": "2026-09-19T17:08:41.283-03:00"
   }
 ]
