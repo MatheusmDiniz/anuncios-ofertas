@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08NQNXMPL",
+    "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
+    "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
+    "preco": 54.99,
+    "preco_anterior": 93.6,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=malica09-20",
+    "atualizado_em": "2026-09-20T10:24:28.745-03:00"
+  },
+  {
     "id": "shopee:1450084195.42071102324",
     "titulo": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GY6GG8R7?tag=malica09-20",
     "atualizado_em": "2026-09-19T10:29:06.529-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24663801",
-    "titulo": "Porta Frutinha Chupeta De Alimentação Silicone Bebê Infantil Cor Azul e Rosa Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_713131-MLA116734916409_082026-F.jpg",
-    "preco": 16,
-    "preco_anterior": 24.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KpmmYk",
-    "atualizado_em": "2026-09-19T10:24:00.118-03:00"
   }
 ]
