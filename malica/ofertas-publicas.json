@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08HK41RHJ",
+    "titulo": "Kit Vida Macia (Lava Roupas e Amaciante - Glicerina e Camomila) 2 x 1L",
+    "imagem": "https://m.media-amazon.com/images/I/61OYJq2IHHL._AC_SL1500_.jpg",
+    "preco": 49.9,
+    "preco_anterior": 83.17,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08HK41RHJ?tag=malica09-20",
+    "atualizado_em": "2026-09-20T10:14:17.721-03:00"
+  },
+  {
     "id": "shopee:596442927.19299244394",
     "titulo": "Calça Jeans Infantil Jogger Menino com Elástico e Regulador na Cintura Tamanhos 1 ao 6",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt8gvlvp7jls3b",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
     "atualizado_em": "2026-09-19T10:18:52.656-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20969462",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
-    "preco": 90.9,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32opZnB",
-    "atualizado_em": "2026-09-19T10:13:45.983-03:00"
   }
 ]
