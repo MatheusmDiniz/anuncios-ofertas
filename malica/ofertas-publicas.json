@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17457292",
+    "titulo": "Pano Umedecido Álcool 70° Refil Com 35 Unidades Coperalcool",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877620-MLA99934081237_112025-F.jpg",
+    "preco": 13.49,
+    "preco_anterior": 15.49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2oRJVHT",
+    "atualizado_em": "2026-09-19T21:30:08.676-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19642578",
     "titulo": "Natura Mamae Bebe Agua De Colonia Sem Alcool 50ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_921701-MLA99833208789_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GV4QQCPN?tag=malica09-20",
     "atualizado_em": "2026-09-18T21:30:38.924-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26816126",
-    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
-    "preco": 18.48,
-    "preco_anterior": 31.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1dDis3R",
-    "atualizado_em": "2026-09-18T21:25:32.735-03:00"
   }
 ]
