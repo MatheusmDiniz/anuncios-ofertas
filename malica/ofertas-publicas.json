@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G2T18VCZ",
+    "titulo": "LEGO Minecraft O Dragão Ender 21595",
+    "imagem": "https://m.media-amazon.com/images/I/81y8ioIqBUL._AC_SL1500_.jpg",
+    "preco": 379,
+    "preco_anterior": 499,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G2T18VCZ?tag=malica09-20",
+    "atualizado_em": "2026-09-20T15:21:40.330-03:00"
+  },
+  {
     "id": "amazon:B0FMS6SQ4M",
     "titulo": "LEGO Creator Tubarão Feroz com um Baú de Tesouro 31381 (262 Peças)",
     "imagem": "https://m.media-amazon.com/images/I/81bIFcQ-vJL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFJHYD5X?tag=malica09-20",
     "atualizado_em": "2026-09-19T15:26:27.737-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41695273",
-    "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
-    "preco": 78.7,
-    "preco_anterior": 170.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2khifsH",
-    "atualizado_em": "2026-09-19T15:21:20.654-03:00"
   }
 ]
