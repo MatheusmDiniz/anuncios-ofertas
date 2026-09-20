@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01N7W4YLV",
+    "titulo": "Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
+    "imagem": "https://m.media-amazon.com/images/I/51bPkgUfURL._AC_SL1500_.jpg",
+    "preco": 57.9,
+    "preco_anterior": 79.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=malica09-20",
+    "atualizado_em": "2026-09-20T14:30:28.771-03:00"
+  },
+  {
     "id": "amazon:B0D3617S3R",
     "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 500 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/81sCPAKvuhL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B085CZ2F4J?tag=malica09-20",
     "atualizado_em": "2026-09-19T14:35:16.062-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876092",
-    "titulo": "Sabonete Líquido De Glicerina Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
-    "preco": 23.27,
-    "preco_anterior": 41.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xXuLrP",
-    "atualizado_em": "2026-09-19T14:30:08.675-03:00"
   }
 ]
