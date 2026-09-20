@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BLJRDJRY",
+    "titulo": "Barbie Chelsea Novo Camper 2 em 1 com Boneca e Pets : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/71X334bltJL._AC_SL1500_.jpg",
+    "preco": 183,
+    "preco_anterior": 299,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BLJRDJRY?tag=malica09-20",
+    "atualizado_em": "2026-09-20T18:29:01.049-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26693140",
     "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V1XbDhZOF",
     "atualizado_em": "2026-09-19T18:30:24.057-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58214519187",
-    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VVR8pONbq",
-    "atualizado_em": "2026-09-19T18:25:18.543-03:00"
   }
 ]
