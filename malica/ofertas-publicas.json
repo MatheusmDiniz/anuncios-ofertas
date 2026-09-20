@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876060",
+    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby 200ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851803-MLA109484201294_042026-F.jpg",
+    "preco": 17.24,
+    "preco_anterior": 26.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1PTC89z",
+    "atualizado_em": "2026-09-20T15:01:16.455-03:00"
+  },
+  {
     "id": "shopee:341167297.44506971957",
     "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
     "atualizado_em": "2026-09-19T15:05:59.327-03:00"
-  },
-  {
-    "id": "amazon:B07C3XMTFY",
-    "titulo": "Babysec Ultrasec Galinha Pintadinha - Fralda, Tamanho G, 32 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/51rLa23uplL._AC_SL1500_.jpg",
-    "preco": 35,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07C3XMTFY?tag=malica09-20",
-    "atualizado_em": "2026-09-19T15:00:52.741-03:00"
   }
 ]
