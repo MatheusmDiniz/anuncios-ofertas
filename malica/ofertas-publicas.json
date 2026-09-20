@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFRTQCQ6",
+    "titulo": "Fun Divirta-se - Disney - Pelúcia Divertidamente - Inveja 23 cm - A partir de 2 anos",
+    "imagem": "https://m.media-amazon.com/images/I/61-W4JQcFeL._AC_SL1500_.jpg",
+    "preco": 75,
+    "preco_anterior": 159,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFRTQCQ6?tag=malica09-20",
+    "atualizado_em": "2026-09-20T13:44:23.736-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28TvvrA",
     "atualizado_em": "2026-09-19T13:49:13.747-03:00"
-  },
-  {
-    "id": "amazon:B07GB34N8Q",
-    "titulo": "Mili Fralda Baby Jumbinho G - 20 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71eqvJbMMfL._AC_SL1500_.jpg",
-    "preco": 18.99,
-    "preco_anterior": 33.22,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=malica09-20",
-    "atualizado_em": "2026-09-19T13:44:06.177-03:00"
   }
 ]
