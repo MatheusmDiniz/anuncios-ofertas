@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CRL8SWP",
+    "titulo": "Oferta: Mini Mercado Sylvanian Families",
+    "imagem": "https://m.media-amazon.com/images/I/71oBEl0x5-L._AC_SL1500_.jpg",
+    "preco": 221,
+    "preco_anterior": 319,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CRL8SWP?tag=malica09-20",
+    "atualizado_em": "2026-09-20T18:54:42.947-03:00"
+  },
+  {
     "id": "amazon:B08826NL9L",
     "titulo": "Oferta: Super Mario Blow Up! Shaky Tower",
     "imagem": "https://m.media-amazon.com/images/I/619RvzScKCL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1cy9aXb",
     "atualizado_em": "2026-09-19T18:55:59.341-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26198574",
-    "titulo": "12 Protetor Tomada Bebê Segurança Contra Choque livenza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749686-MLA100080294681_122025-F.jpg",
-    "preco": 6.86,
-    "preco_anterior": 17.89,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Fsuebq",
-    "atualizado_em": "2026-09-19T18:50:52.277-03:00"
   }
 ]
