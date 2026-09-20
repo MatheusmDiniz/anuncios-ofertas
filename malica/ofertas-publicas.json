@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25120404",
+    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
+    "preco": 81.21,
+    "preco_anterior": 99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZsrkHX",
+    "atualizado_em": "2026-09-20T13:39:17.585-03:00"
+  },
+  {
     "id": "amazon:B07QQD88BG",
     "titulo": "Oferta: Caneta Ponta Pincel, Faber-Castell, Supersoft Brush, 15.0710SOFT, 10 Cores",
     "imagem": "https://m.media-amazon.com/images/I/61hvlNTDThL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GB34N8Q?tag=malica09-20",
     "atualizado_em": "2026-09-19T13:44:06.177-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392724",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
-    "preco": 33.9,
-    "preco_anterior": 39.24,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Eeujoq",
-    "atualizado_em": "2026-09-19T13:38:59.333-03:00"
   }
 ]
