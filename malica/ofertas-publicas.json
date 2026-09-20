@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DNTL32F6",
+    "titulo": "Oferta: Maxi Baby Mesa Atividades Infantil Didática Musical Eduka",
+    "imagem": "https://m.media-amazon.com/images/I/61hIPqAn-rL._AC_SL1500_.jpg",
+    "preco": 255,
+    "preco_anterior": 399,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DNTL32F6?tag=malica09-20",
+    "atualizado_em": "2026-09-20T17:22:06.126-03:00"
+  },
+  {
     "id": "shopee:1101286870.58257972986",
     "titulo": "Calça Legging Gestante Flare Cós Alto Conforto Sustentação Zero Transparência  Proteção UV",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmhndgcgnwg422",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6561264053?tag=malica09-20",
     "atualizado_em": "2026-09-19T17:24:02.039-03:00"
-  },
-  {
-    "id": "amazon:B0B99BCYCP",
-    "titulo": "Lava-Roupas em Pó Omo Puro Cuidado Caixa 2,2kg Tamanho Família",
-    "imagem": "https://m.media-amazon.com/images/I/717syvOckGL._AC_SL1500_.jpg",
-    "preco": 26,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B99BCYCP?tag=malica09-20",
-    "atualizado_em": "2026-09-19T17:18:52.341-03:00"
   }
 ]
