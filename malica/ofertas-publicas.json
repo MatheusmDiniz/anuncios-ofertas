@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095D664HJ",
+    "titulo": "Sabonete Líquido Bebê Glicerina 400ml – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/71YbbEVNxcL._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095D664HJ?tag=malica09-20",
+    "atualizado_em": "2026-09-20T13:13:42.832-03:00"
+  },
+  {
     "id": "amazon:B0H1K5C532",
     "titulo": "Fralda Cremer Jumbo M 22 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/715v3H3birL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2FxbjCs",
     "atualizado_em": "2026-09-19T13:18:28.359-03:00"
-  },
-  {
-    "id": "amazon:B0F9MSZW9D",
-    "titulo": "Kit Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61RjPmc4DmL._AC_SL1500_.jpg",
-    "preco": 56.6,
-    "preco_anterior": 107.98,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F9MSZW9D?tag=malica09-20",
-    "atualizado_em": "2026-09-19T13:13:17.837-03:00"
   }
 ]
