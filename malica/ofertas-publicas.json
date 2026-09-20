@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:596442927.19299244394",
+    "titulo": "Calça Jeans Infantil Jogger Menino com Elástico e Regulador na Cintura Tamanhos 1 ao 6",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt8gvlvp7jls3b",
+    "preco": 25.99,
+    "preco_anterior": 44.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/W6nfhH8Dx",
+    "atualizado_em": "2026-09-20T10:09:11.327-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18626757",
     "titulo": "Triciclo Infantil Cardoso Totokinha Ariel Azul 1-3 Anos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_865500-MLA99942056617_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32opZnB",
     "atualizado_em": "2026-09-19T10:13:45.983-03:00"
-  },
-  {
-    "id": "amazon:B0CGYR8GBT",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
-    "preco": 189,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
-    "atualizado_em": "2026-09-19T10:08:37.662-03:00"
   }
 ]
