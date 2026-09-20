@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1145578475.23993936364",
+    "titulo": "Conjunto Bebê Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Estampa Exclusiva",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkihr9549t6q8f",
+    "preco": 42.98,
+    "preco_anterior": 70.46,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7Kx7o8GU6Z",
+    "atualizado_em": "2026-09-20T19:30:37.833-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19153445",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho G 112 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_925302-MLA99917067965_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1yKShtn",
     "atualizado_em": "2026-09-19T19:31:53.919-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB37736345",
-    "titulo": "Maxi Baby Cadeira De Alimentação Portátil Bebê Honey Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891734-MLA96139666555_102025-F.jpg",
-    "preco": 289.9,
-    "preco_anterior": 528.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28PCAVk",
-    "atualizado_em": "2026-09-19T19:26:47.172-03:00"
   }
 ]
