@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26816126",
+    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
+    "preco": 18.48,
+    "preco_anterior": 31.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dDis3R",
+    "atualizado_em": "2026-09-20T12:12:11.689-03:00"
+  },
+  {
     "id": "amazon:B00TQCAAQW",
     "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
     "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1nTzPvA",
     "atualizado_em": "2026-09-19T12:16:52.597-03:00"
-  },
-  {
-    "id": "amazon:B086BVN842",
-    "titulo": "MamyPoko Fralda-Calça Dia&Noite M 58 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/712wZccW3uL._AC_SL1500_.jpg",
-    "preco": 74.9,
-    "preco_anterior": 83.22,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B086BVN842?tag=malica09-20",
-    "atualizado_em": "2026-09-19T12:11:44.134-03:00"
   }
 ]
