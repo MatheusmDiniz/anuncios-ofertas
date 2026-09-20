@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50571754",
+    "titulo": "Colônia Seiva de Alfazema Lavanda Extra, 118 mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837530-MLA99798267087_112025-F.jpg",
+    "preco": 24.9,
+    "preco_anterior": 42.12,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1NjCC1D",
+    "atualizado_em": "2026-09-20T13:54:40.173-03:00"
+  },
+  {
     "id": "amazon:B0GY6CFJTK",
     "titulo": "Oferta: Luminária Infantil – Abajur LED Portátil e Recarregável USB | Luz Noturna Segura para Crianças e Bebês, Silicone Macio, 6 Cores, 3 Níveis de Brilho, Timer 30min e Até 6h de Duração (Dinossauro",
     "imagem": "https://m.media-amazon.com/images/I/51Ts7ZNseKL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H1JZ3YQC?tag=malica09-20",
     "atualizado_em": "2026-09-19T13:59:26.567-03:00"
-  },
-  {
-    "id": "amazon:B08QG5H9RD",
-    "titulo": "Fralda Huggies Tripla Proteção M - 42 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/51AkVFxlBQL._AC_SL1500_.jpg",
-    "preco": 41,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=malica09-20",
-    "atualizado_em": "2026-09-19T13:54:20.335-03:00"
   }
 ]
