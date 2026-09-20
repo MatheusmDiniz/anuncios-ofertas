@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D51V4FYN",
+    "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71Ggiw6beZL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=malica09-20",
+    "atualizado_em": "2026-09-20T11:46:32.175-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35090823",
     "titulo": "Fisher-price Tablet De Aprendizagem Cresce Comigo - Mattel",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_930205-MLA99502382540_112025-F.jpg",
