@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:574744823.22996924590",
+    "titulo": "Sapato Social Infantil Masculino Verniz Preto Leve Super Confortavel",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mmuirjyu20as47",
+    "preco": 47.9,
+    "preco_anterior": 69.42,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4LJWEf4Yez",
+    "atualizado_em": "2026-09-20T09:02:50.429-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53758596",
     "titulo": "Haste Suporte Varal Para Mosqueteiro Berços Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706549-MLA100086849109_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=malica09-20",
     "atualizado_em": "2026-09-19T09:07:13.995-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72983430",
-    "titulo": "Spa Banheira Dobrável Adulto 254l Ofurô Quente Ou Gelo Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_630337-MLA111867119246_062026-F.jpg",
-    "preco": 106.99,
-    "preco_anterior": 204.73,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2V5Vavk",
-    "atualizado_em": "2026-09-19T09:02:06.293-03:00"
   }
 ]
