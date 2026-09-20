@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00EWGJ324",
+    "titulo": "Giovanna Baby Deo Colônia Rosa 50ml",
+    "imagem": "https://m.media-amazon.com/images/I/61UBFsChF0L._AC_SL1500_.jpg",
+    "preco": 58.17,
+    "preco_anterior": 82.45,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00EWGJ324?tag=malica09-20",
+    "atualizado_em": "2026-09-20T12:58:23.191-03:00"
+  },
+  {
     "id": "amazon:B0D8RHX3C6",
     "titulo": "Sérum Hidratante Corporal Para Pele com Tom Irregular 48h de Hidratação Regenerativa Dove Dermo Renovador Niacinamida Redutor de Marcas Escurecidas Clinicamente Comprovado 380mL",
     "imagem": "https://m.media-amazon.com/images/I/41jEssG9EDL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GSXJLHZQ?tag=malica09-20",
     "atualizado_em": "2026-09-19T13:03:03.290-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34078818",
-    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
-    "preco": 22,
-    "preco_anterior": 37.41,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Krfvgn",
-    "atualizado_em": "2026-09-19T12:57:55.092-03:00"
   }
 ]
