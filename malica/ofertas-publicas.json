@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47912495",
+    "titulo": "Hastes Flexíveis Buba Bebê Ponta Proteção Cotonete 60 Unid",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744521-MLA83727475941_042025-F.jpg",
+    "preco": 10.57,
+    "preco_anterior": 12.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1gq4UWd",
+    "atualizado_em": "2026-09-20T09:43:39.146-03:00"
+  },
+  {
     "id": "shopee:910649627.58213273842",
     "titulo": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qc9f28XZ5",
     "atualizado_em": "2026-09-19T09:48:06.830-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28318987",
-    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
-    "preco": 175.95,
-    "preco_anterior": 263.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Cuz4mH",
-    "atualizado_em": "2026-09-19T09:43:01.603-03:00"
   }
 ]
