@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CTD56FW3",
+    "titulo": "Oferta: Maxi Baby Móbile Para Carrinho e Berço com Chocalho Ocean",
+    "imagem": "https://m.media-amazon.com/images/I/51O0jgSkUKL._AC_SL1500_.jpg",
+    "preco": 75.9,
+    "preco_anterior": 149.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CTD56FW3?tag=malica09-20",
+    "atualizado_em": "2026-09-20T12:27:36.422-03:00"
+  },
+  {
     "id": "amazon:B0DD7V56G1",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
     "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=malica09-20",
     "atualizado_em": "2026-09-19T12:32:15.411-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62933980",
-    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
-    "preco": 229.9,
-    "preco_anterior": 447.82,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2XQuVVJ",
-    "atualizado_em": "2026-09-19T12:27:06.557-03:00"
   }
 ]
