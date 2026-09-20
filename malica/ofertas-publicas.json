@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C2CRZL5H",
+    "titulo": "Oferta: Conjunto Hora do Banho - Trigêmeos",
+    "imagem": "https://m.media-amazon.com/images/I/61fKtXhEBIL._AC_SL1500_.jpg",
+    "preco": 165,
+    "preco_anterior": 219,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C2CRZL5H?tag=malica09-20",
+    "atualizado_em": "2026-09-20T17:42:51.691-03:00"
+  },
+  {
     "id": "shopee:1233552581.23492959831",
     "titulo": "Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Quente Feminino Jaqueta Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81zum-mkjug1b6qviadf",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=malica09-20",
     "atualizado_em": "2026-09-19T17:44:26.456-03:00"
-  },
-  {
-    "id": "amazon:B07L4TSL64",
-    "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L",
-    "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
-    "preco": 151,
-    "preco_anterior": 222,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
-    "atualizado_em": "2026-09-19T17:39:20.130-03:00"
   }
 ]
