@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MD1PNQM",
+    "titulo": "Oferta: Hot Wheels City Pista de Brinquedo Mega Reboque 3 anos",
+    "imagem": "https://m.media-amazon.com/images/I/61tZYoKkISL._AC_SL1500_.jpg",
+    "preco": 139,
+    "preco_anterior": 289,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MD1PNQM?tag=malica09-20",
+    "atualizado_em": "2026-09-20T18:18:47.051-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34063536",
     "titulo": "Kit 3 Unidades Mamadeiras Pétala 3.0 Cor Rosa ‎Philips Avent",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_879165-MLA99996660265_112025-F.jpg",
