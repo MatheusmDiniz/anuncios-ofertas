@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08826NL9L",
+    "titulo": "Oferta: Super Mario Blow Up! Shaky Tower",
+    "imagem": "https://m.media-amazon.com/images/I/619RvzScKCL._AC_SL1500_.jpg",
+    "preco": 112,
+    "preco_anterior": 219,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08826NL9L?tag=malica09-20",
+    "atualizado_em": "2026-09-20T18:49:33.681-03:00"
+  },
+  {
     "id": "amazon:B098BX31JL",
     "titulo": "Baby Dove Sabonete Líquido De Glicerina Hidratação Relaxante Hora De Dormir Frasco 400 Ml",
     "imagem": "https://m.media-amazon.com/images/I/61g5SCJ2r0L._AC_SL1500_.jpg",
