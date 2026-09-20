@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342443",
+    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
+    "preco": 6.56,
+    "preco_anterior": 7.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RGiPDf",
+    "atualizado_em": "2026-09-19T21:45:36.708-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24531140",
     "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kcZvHR",
     "atualizado_em": "2026-09-18T21:46:04.775-03:00"
-  },
-  {
-    "id": "amazon:B0DV7BN75H",
-    "titulo": "Fralda Pampers Supersequinha Tamanho XG 70 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61mRVh6xnFL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=malica09-20",
-    "atualizado_em": "2026-09-18T21:40:56.902-03:00"
   }
 ]
