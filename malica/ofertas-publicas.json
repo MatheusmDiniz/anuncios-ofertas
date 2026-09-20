@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:478457753.20597624044",
+    "titulo": "Mocassim Menina Modelo Oxford Off White e Preto Lindo Confortável",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrpvxbcpnfaz77",
+    "preco": 47.98,
+    "preco_anterior": 69.54,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8V95iSBFR1",
+    "atualizado_em": "2026-09-20T16:46:23.393-03:00"
+  },
+  {
     "id": "amazon:B0DR3N5BV6+B0DR3PTGH3",
     "titulo": "Oferta: Cachorrinho Aprende Comigo Para Bebês Fisher-Price Mattel",
     "imagem": "https://m.media-amazon.com/images/I/718Amaq9yaL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=malica09-20",
     "atualizado_em": "2026-09-19T16:48:18.580-03:00"
-  },
-  {
-    "id": "amazon:B0BKLNG66P",
-    "titulo": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81zBDScUUWL._AC_SL1500_.jpg",
-    "preco": 79,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=malica09-20",
-    "atualizado_em": "2026-09-19T16:43:10.341-03:00"
   }
 ]
