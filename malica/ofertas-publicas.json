@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20611931",
+    "titulo": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
+    "preco": 85.9,
+    "preco_anterior": 129.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gfkcGb",
+    "atualizado_em": "2026-09-20T20:29:02.660-03:00"
+  },
+  {
     "id": "amazon:B0CGG1QK3D",
     "titulo": "Conjunto de Talheres Infantis Tramontina em Aço Inox com Estojo 05 Pçs : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/61eJ1mhmjRL._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8V94QRM1OT",
     "atualizado_em": "2026-09-19T20:33:38.197-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24276913",
-    "titulo": "Prato infantil Redondo em Silicone com Divisórias e Ventosas Buba Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705376-MLA100086252029_122025-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 64.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28SEv7U",
-    "atualizado_em": "2026-09-19T20:28:34.254-03:00"
   }
 ]
