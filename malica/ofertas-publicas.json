@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1341241314.54554614099",
+    "titulo": "Lucky baby/kit body e calça bebê/ kit body bebê menina carters/conjunto body e calça bebê menina",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82625-mjfvx1we4sn514",
+    "preco": 101.5,
+    "preco_anterior": null,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6VO0oXPflM",
+    "atualizado_em": "2026-09-20T20:39:23.389-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB33294420",
     "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60RjRr0XjV",
     "atualizado_em": "2026-09-19T20:43:49.378-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47247005",
-    "titulo": "Caranguejo Brinquedo Fujão Sensor Dança E Som Eletrônico Top",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835568-MLA100080033031_122025-F.jpg",
-    "preco": 33.99,
-    "preco_anterior": 54.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kWUm1A",
-    "atualizado_em": "2026-09-19T20:38:45.502-03:00"
   }
 ]
