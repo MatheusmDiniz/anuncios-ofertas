@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C2B7LBKF",
+    "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 30g | 30g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
+    "imagem": "https://m.media-amazon.com/images/I/61kB4BkWYML._AC_SL1500_.jpg",
+    "preco": 23.48,
+    "preco_anterior": 24.72,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C2B7LBKF?tag=malica09-20",
+    "atualizado_em": "2026-09-20T08:21:55.942-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24647478",
     "titulo": "Andador Bebe Carrinho Infantil Treina Equilíbrio Zippy Toys Cor Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_950359-MLA99487901484_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3g3mxSVMKe",
     "atualizado_em": "2026-09-19T08:26:18.243-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20611931",
-    "titulo": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
-    "preco": 85.9,
-    "preco_anterior": 129.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2gfkcGb",
-    "atualizado_em": "2026-09-19T08:21:12.729-03:00"
   }
 ]
