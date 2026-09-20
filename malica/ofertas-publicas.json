@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775077",
+    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
+    "preco": 10.99,
+    "preco_anterior": 13.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GZPrDm",
+    "atualizado_em": "2026-09-20T19:35:44.939-03:00"
+  },
+  {
     "id": "shopee:1145578475.23993936364",
     "titulo": "Conjunto Bebê Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Estampa Exclusiva",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkihr9549t6q8f",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2iVciEN",
     "atualizado_em": "2026-09-19T19:37:03.214-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22953629",
-    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
-    "preco": 279.9,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yKShtn",
-    "atualizado_em": "2026-09-19T19:31:53.919-03:00"
   }
 ]
