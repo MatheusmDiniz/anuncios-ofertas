@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H56K2L78",
+    "titulo": "Lixeira Mágica Antiodor 13 Litros Para Fraldas Bebe Lixo Anti Odor | Lixeira para Fraldas com Vedação 13 Litros - Lixeira Higiênica Anti-Odor para Quarto de Bebê e Troca de Fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/41KPitDdm3L._AC_SL1500_.jpg",
+    "preco": 109.9,
+    "preco_anterior": 137.38,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H56K2L78?tag=malica09-20",
+    "atualizado_em": "2026-09-20T14:04:51.395-03:00"
+  },
+  {
     "id": "amazon:B0B7S2TPHF",
     "titulo": "Burigotto Banheira Oplà, Polar",
     "imagem": "https://m.media-amazon.com/images/I/41fJRTK7KoL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
     "atualizado_em": "2026-09-19T14:09:40.986-03:00"
-  },
-  {
-    "id": "amazon:B0BCH32VGZ",
-    "titulo": "Fralda Babysec Premium Shortinho Hiper M 60 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61IDOP72rZL._AC_SL1500_.jpg",
-    "preco": 77.99,
-    "preco_anterior": 97.49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BCH32VGZ?tag=malica09-20",
-    "atualizado_em": "2026-09-19T14:04:33.768-03:00"
   }
 ]
