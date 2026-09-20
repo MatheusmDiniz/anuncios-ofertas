@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69331466",
+    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "preco": 899.99,
+    "preco_anterior": 1699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bC1ui2",
+    "atualizado_em": "2026-09-20T09:53:52.420-03:00"
+  },
+  {
     "id": "shopee:1478327279.58208858765",
     "titulo": "Galocha Infantil Feminina Impermeável Leve Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mt4bqwsffnk75c",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAHGSheqGd",
     "atualizado_em": "2026-09-19T09:58:21.532-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22918403",
-    "titulo": "Chupeta Soothie 0-3m Scf099/03 Philips Avent",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703787-MLA99451951336_112025-F.jpg",
-    "preco": 39.97,
-    "preco_anterior": 68.61,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Psw939",
-    "atualizado_em": "2026-09-19T09:53:16.043-03:00"
   }
 ]
