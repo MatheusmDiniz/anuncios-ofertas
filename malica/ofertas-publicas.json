@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077BY84XX",
+    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41CGJiuDeKL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": 44,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=malica09-20",
+    "atualizado_em": "2026-09-20T11:36:14.652-03:00"
+  },
+  {
     "id": "shopee:280039385.43007791633",
     "titulo": "Chinelo Infantil com Elástico Antiderrapante Confortável Bebê Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby1vqu3deu144",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
     "atualizado_em": "2026-09-19T11:41:00.452-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65220062",
-    "titulo": "Veículo Patrulha Canina Liberty Resgate Sunny 4870",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_907505-MLA106705915942_022026-F.jpg",
-    "preco": 67,
-    "preco_anterior": 90.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RE4L7u",
-    "atualizado_em": "2026-09-19T11:35:54.132-03:00"
   }
 ]
