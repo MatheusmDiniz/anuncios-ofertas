@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1777221519.58210846395",
+    "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
+    "preco": 35.67,
+    "preco_anterior": 51.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/905LnCaTAe",
+    "atualizado_em": "2026-09-20T14:35:33.906-03:00"
+  },
+  {
     "id": "amazon:B01N7W4YLV",
     "titulo": "Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
     "imagem": "https://m.media-amazon.com/images/I/51bPkgUfURL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EYrH38",
     "atualizado_em": "2026-09-19T14:40:23.609-03:00"
-  },
-  {
-    "id": "amazon:B085CZ2F4J",
-    "titulo": "Sabonete Líquido Refil Glicerina Da Cabeça Aos Pés Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/71XwqjMGZsL._AC_SL1500_.jpg",
-    "preco": 18.14,
-    "preco_anterior": 36.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B085CZ2F4J?tag=malica09-20",
-    "atualizado_em": "2026-09-19T14:35:16.062-03:00"
   }
 ]
