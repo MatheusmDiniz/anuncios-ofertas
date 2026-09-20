@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DLLJRBGV",
+    "titulo": "Oferta: Cadeira de Alimentação Portátil Bebê 11kgs Minnie Multikids",
+    "imagem": "https://m.media-amazon.com/images/I/51ndP7T0ppL._AC_SL1500_.jpg",
+    "preco": 99.9,
+    "preco_anterior": 109,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DLLJRBGV?tag=malica09-20",
+    "atualizado_em": "2026-09-20T13:03:29.338-03:00"
+  },
+  {
     "id": "amazon:B00EWGJ324",
     "titulo": "Giovanna Baby Deo Colônia Rosa 50ml",
     "imagem": "https://m.media-amazon.com/images/I/61UBFsChF0L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fcnWdW",
     "atualizado_em": "2026-09-19T13:08:11.141-03:00"
-  },
-  {
-    "id": "amazon:B0GSXJLHZQ",
-    "titulo": "Kit 5 Pct Lenços/toalhas Umedecidos Baby Free Caixa 500un",
-    "imagem": "https://m.media-amazon.com/images/I/51FNZRww7DL._AC_SL1500_.jpg",
-    "preco": 31.47,
-    "preco_anterior": 44.96,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GSXJLHZQ?tag=malica09-20",
-    "atualizado_em": "2026-09-19T13:03:03.290-03:00"
   }
 ]
