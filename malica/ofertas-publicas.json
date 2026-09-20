@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28552599",
+    "titulo": "Carro Conversível Rosa Grande para Bonecas Barbie, de 37cm e 2 Lugares",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_606831-MLA99362507496_112025-F.jpg",
+    "preco": 19.99,
+    "preco_anterior": 45.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2obdLLP",
+    "atualizado_em": "2026-09-20T11:10:37.889-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP5Y",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
     "imagem": "https://m.media-amazon.com/images/I/71EGaknfKuL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gBGix9onY",
     "atualizado_em": "2026-09-19T11:15:14.951-03:00"
-  },
-  {
-    "id": "amazon:B0BJ7ZTCH6",
-    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses",
-    "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
-    "preco": 117,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
-    "atualizado_em": "2026-09-19T11:10:09.379-03:00"
   }
 ]
