@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00TQCAAQW",
+    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
+    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
+    "preco": 67.07,
+    "preco_anterior": 100.24,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
+    "atualizado_em": "2026-09-20T12:07:01.679-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27044595",
     "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086BVN842?tag=malica09-20",
     "atualizado_em": "2026-09-19T12:11:44.134-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28885783",
-    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
-    "preco": 10.87,
-    "preco_anterior": 20.41,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2far6hn",
-    "atualizado_em": "2026-09-19T12:06:37.570-03:00"
   }
 ]
