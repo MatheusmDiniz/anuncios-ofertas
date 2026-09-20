@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07QQD88BG",
+    "titulo": "Oferta: Caneta Ponta Pincel, Faber-Castell, Supersoft Brush, 15.0710SOFT, 10 Cores",
+    "imagem": "https://m.media-amazon.com/images/I/61hvlNTDThL._AC_SL1500_.jpg",
+    "preco": 34,
+    "preco_anterior": 70,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07QQD88BG?tag=malica09-20",
+    "atualizado_em": "2026-09-20T13:34:10.147-03:00"
+  },
+  {
     "id": "amazon:B0DN4G614Z",
     "titulo": "Canetas Brush Pen 80 Cores Ponta Dupla Fina e Pincel Base Água | Ponta fina 0,4mm e pincel 1–2mm, para colorir, desenhar, ilustrar, lettering e papelaria criativa",
     "imagem": "https://m.media-amazon.com/images/I/71njtqCbQoL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Eeujoq",
     "atualizado_em": "2026-09-19T13:38:59.333-03:00"
-  },
-  {
-    "id": "amazon:B0CCF1WTB1",
-    "titulo": "Fralda Babysec Premium Hiper XG 56 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61J7H48T91L._AC_SL1500_.jpg",
-    "preco": 77,
-    "preco_anterior": 85.2,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=malica09-20",
-    "atualizado_em": "2026-09-19T13:33:49.782-03:00"
   }
 ]
