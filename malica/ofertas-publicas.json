@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:690480779.58264030163",
+    "titulo": "Blusa Suéter Infantil Juvenil Menino em Tricô Liso Malha Leve Manga Longa Elegante 4 a 14 Anos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mqhoikfty9z59e",
+    "preco": 42.9,
+    "preco_anterior": 84.12,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/LnNzQpTKE",
+    "atualizado_em": "2026-09-20T16:25:57.390-03:00"
+  },
+  {
     "id": "amazon:B00008PW0J",
     "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Girafa com Blocos para crianças a partir de 6 meses",
     "imagem": "https://m.media-amazon.com/images/I/51ZD5QAtRpL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GTN3CDWG?tag=malica09-20",
     "atualizado_em": "2026-09-19T16:27:50.724-03:00"
-  },
-  {
-    "id": "amazon:B0CGY6WDHC",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
-    "preco": 189.9,
-    "preco_anterior": 227.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
-    "atualizado_em": "2026-09-19T16:22:42.294-03:00"
   }
 ]
