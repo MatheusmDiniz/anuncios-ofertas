@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093GBK61Q",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ncta4HE2L._AC_SL1500_.jpg",
+    "preco": 45.56,
+    "preco_anterior": 50.29,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=malica09-20",
+    "atualizado_em": "2026-09-20T10:55:12.712-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26981196",
     "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
     "atualizado_em": "2026-09-19T10:59:54.181-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24689526",
-    "titulo": "Protetor De Tomada Anti Choque P/ Crianças Pacote Com 20 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684091-MLA100076543741_122025-F.jpg",
-    "preco": 11.36,
-    "preco_anterior": 25.48,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BjR1iD",
-    "atualizado_em": "2026-09-19T10:54:47.099-03:00"
   }
 ]
