@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BT55RMS4",
+    "titulo": "Papi Textil Paninho De Boca Bordados Karinho Estampado 32Cm X 32Cm Contém 04 Un",
+    "imagem": "https://m.media-amazon.com/images/I/61vj00utZOL._AC_SL1500_.jpg",
+    "preco": 22.68,
+    "preco_anterior": 37.8,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BT55RMS4?tag=malica09-20",
+    "atualizado_em": "2026-09-20T12:37:51.529-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17335680",
     "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 36 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_729959-MLA99437189922_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07MS7V342?tag=malica09-20",
     "atualizado_em": "2026-09-19T12:42:31.883-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50480622",
-    "titulo": "Cadeirinha Bebê Descanso Musical Vibratória Rosa Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_732532-MLA95142110312_102025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 263.78,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28aNNQK",
-    "atualizado_em": "2026-09-19T12:37:25.097-03:00"
   }
 ]
