@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58193221",
+    "titulo": "Cadeira Descanso Bebê Musical Polar Skyline Bege Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_852901-MLA96423879623_102025-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 159.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1TKheki",
+    "atualizado_em": "2026-09-19T21:04:32.149-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19466939",
     "titulo": "Cereal neston 3 cereais 360g Nestlé",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_602906-MLU78432990521_082024-F.jpg",
