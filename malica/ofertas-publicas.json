@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19543081",
+    "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
+    "preco": 14,
+    "preco_anterior": 27.34,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2grLWyY",
+    "atualizado_em": "2026-09-20T09:33:26.957-03:00"
+  },
+  {
     "id": "shopee:499950777.22198012044",
     "titulo": "Tenis Infantil Menino Masculino Sapato Infantil Menino Tenis Infantil Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-msy1v6auq5frc1",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4VcupvTSCT",
     "atualizado_em": "2026-09-19T09:37:53.654-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23480808",
-    "titulo": "Laptop Infantil Educativo Spider Man Candide",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
-    "preco": 57.99,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZSvfs3",
-    "atualizado_em": "2026-09-19T09:32:47.891-03:00"
   }
 ]
