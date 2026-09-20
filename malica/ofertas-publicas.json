@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342378",
+    "titulo": "NIVEA Kit Sabonete em Barra Creme Care 90g (6 unidades)",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738561-MLA99929271525_112025-F.jpg",
+    "preco": 24.14,
+    "preco_anterior": 28.29,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1DB9JYB",
+    "atualizado_em": "2026-09-19T21:09:39.161-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB58193221",
     "titulo": "Cadeira Descanso Bebê Musical Polar Skyline Bege Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_852901-MLA96423879623_102025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6L4VpIa7Rh",
     "atualizado_em": "2026-09-18T21:10:10.739-03:00"
-  },
-  {
-    "id": "amazon:B099NCTCX8",
-    "titulo": "Xô Inseto Spray Repelente 15% DEET 200mL",
-    "imagem": "https://m.media-amazon.com/images/I/61ISJ-si56L._AC_SL1500_.jpg",
-    "preco": 12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099NCTCX8?tag=malica09-20",
-    "atualizado_em": "2026-09-18T21:05:06.196-03:00"
   }
 ]
