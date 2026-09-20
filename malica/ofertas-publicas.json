@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8RHX3C6",
+    "titulo": "Sérum Hidratante Corporal Para Pele com Tom Irregular 48h de Hidratação Regenerativa Dove Dermo Renovador Niacinamida Redutor de Marcas Escurecidas Clinicamente Comprovado 380mL",
+    "imagem": "https://m.media-amazon.com/images/I/41jEssG9EDL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": 47,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=malica09-20",
+    "atualizado_em": "2026-09-20T12:53:16.625-03:00"
+  },
+  {
     "id": "amazon:B09QLH5SHB",
     "titulo": "Oferta: Casa de Bonecas Barbie Malibu Dois Andares Rosa Mattel",
     "imagem": "https://m.media-amazon.com/images/I/81DFMqlGQ+L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Krfvgn",
     "atualizado_em": "2026-09-19T12:57:55.092-03:00"
-  },
-  {
-    "id": "amazon:B071FX83XS",
-    "titulo": "Gel Lavante Calmante Mustela, 300ml, para Pele Muito Sensível, Corpo e Cabelo de Bebês e Crianças, Sem Fragrância",
-    "imagem": "https://m.media-amazon.com/images/I/51fChei9oSL._AC_SL1500_.jpg",
-    "preco": 69,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B071FX83XS?tag=malica09-20",
-    "atualizado_em": "2026-09-19T12:52:46.280-03:00"
   }
 ]
