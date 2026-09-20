@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FCRJW9HQ",
+    "titulo": "Boia Salva-Vidas Colete Infantil, Não Fura, Segurança para Praia e Piscina, Ajustável para Crianças de 1 Ano (ou 8kg) até 25kg",
+    "imagem": "https://m.media-amazon.com/images/I/61wO5IbkbDL._AC_SL1500_.jpg",
+    "preco": 94,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FCRJW9HQ?tag=malica09-20",
+    "atualizado_em": "2026-09-20T13:23:55.712-03:00"
+  },
+  {
     "id": "amazon:B0DRW797HB",
     "titulo": "LEGO Jurassic World Fósseis de Dinossauros: Tyrannosaurus rex 76968",
     "imagem": "https://m.media-amazon.com/images/I/81xOGAyDr4L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bcKcRJ",
     "atualizado_em": "2026-09-19T13:28:43.253-03:00"
-  },
-  {
-    "id": "amazon:B0BDT2JD8T",
-    "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
-    "preco": 32.99,
-    "preco_anterior": 36.96,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=malica09-20",
-    "atualizado_em": "2026-09-19T13:23:35.029-03:00"
   }
 ]
