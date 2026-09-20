@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB33294420",
+    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
+    "preco": 13.52,
+    "preco_anterior": 27.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Q4Wv1Y",
+    "atualizado_em": "2026-09-20T20:34:17.838-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20611931",
     "titulo": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kWUm1A",
     "atualizado_em": "2026-09-19T20:38:45.502-03:00"
-  },
-  {
-    "id": "shopee:1310127163.55856022915",
-    "titulo": "Kit Alimentação Bebê Silicone 6 Peças Com Ventosa Prato Dividido, Babador, Copo e Talheres Colher Garfo Canudo Infantil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mlya5o00muiv14",
-    "preco": 29.9,
-    "preco_anterior": 56.42,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8V94QRM1OT",
-    "atualizado_em": "2026-09-19T20:33:38.197-03:00"
   }
 ]
