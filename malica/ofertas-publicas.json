@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1123144676.18897796293",
+    "titulo": "Almofada de Viagem H Para Carro Com Travesseiro Cinto De Segurança para Criança",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke8zmgbkoht1e",
+    "preco": 69.99,
+    "preco_anterior": 166.64,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5AsdEHuhRB",
+    "atualizado_em": "2026-09-20T16:15:45.414-03:00"
+  },
+  {
     "id": "amazon:B0BS4C1TTM",
     "titulo": "Oferta: Cadeira Para Auto KidFit Adapt Plus 2 em 1 Preto - 7079728860070",
     "imagem": "https://m.media-amazon.com/images/I/51zybo4VRIL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=malica09-20",
     "atualizado_em": "2026-09-19T16:17:35.795-03:00"
-  },
-  {
-    "id": "amazon:B07DHQZPZV",
-    "titulo": "Desitin Proteção Diária Creme Preventivo De Assaduras Creamy, 57g",
-    "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
-    "preco": 36.91,
-    "preco_anterior": 57.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
-    "atualizado_em": "2026-09-19T16:12:27.559-03:00"
   }
 ]
