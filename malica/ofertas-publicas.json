@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY62F23",
+    "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61lSWTBB1NL._AC_SL1500_.jpg",
+    "preco": 36.49,
+    "preco_anterior": 46.7,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
+    "atualizado_em": "2026-09-20T11:56:49.378-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19509698",
     "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
     "atualizado_em": "2026-09-19T12:01:29.755-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27145476",
-    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 27.23,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mUFvwo",
-    "atualizado_em": "2026-09-19T11:56:23.324-03:00"
   }
 ]
