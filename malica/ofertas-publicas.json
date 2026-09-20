@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:378105312.54507799907",
+    "titulo": "Porta Leite em Pó 3 Compartimentos Dosador Portátil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mmbwyvoby39fa1",
+    "preco": 12.99,
+    "preco_anterior": 30.21,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9fL36YYLbg",
+    "atualizado_em": "2026-09-20T16:00:28.296-03:00"
+  },
+  {
     "id": "amazon:B0FMYW5RBW",
     "titulo": "LEGO Star Wars Busto de Darth Vader™ 75439 (349 Peças)",
     "imagem": "https://m.media-amazon.com/images/I/81+5zy5q-JL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=malica09-20",
     "atualizado_em": "2026-09-19T16:02:16.278-03:00"
-  },
-  {
-    "id": "amazon:B09BBDVPB1",
-    "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
-    "atualizado_em": "2026-09-19T15:57:08.990-03:00"
   }
 ]
