@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.47453028150",
+    "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l01",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
+    "preco": 19.99,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80CobMDwkl",
+    "atualizado_em": "2026-09-20T19:51:03.603-03:00"
+  },
+  {
     "id": "shopee:396723953.40026562019",
     "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zxoC8ffNO",
     "atualizado_em": "2026-09-19T19:52:33.115-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36931922",
-    "titulo": "Desodorante Colônia Cebolinha Turma da Mônica 25ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_685367-MLA115708034876_092026-F.jpg",
-    "preco": 19.9,
-    "preco_anterior": 34.13,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24boscH",
-    "atualizado_em": "2026-09-19T19:47:19.849-03:00"
   }
 ]
