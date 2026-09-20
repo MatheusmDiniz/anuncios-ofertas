@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FS9R2B83",
+    "titulo": "Paninho de Boca Bebê Papi Soft Estampado 28x28 cm – Contém 6 Unidades, Azul",
+    "imagem": "https://m.media-amazon.com/images/I/41UWHcqnkKL._AC_SL1500_.jpg",
+    "preco": 17.77,
+    "preco_anterior": 21.69,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FS9R2B83?tag=malica09-20",
+    "atualizado_em": "2026-09-20T10:44:56.544-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876062",
     "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=malica09-20",
     "atualizado_em": "2026-09-19T10:49:36.414-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215261",
-    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
-    "preco": 122,
-    "preco_anterior": 204.13,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cztGHW",
-    "atualizado_em": "2026-09-19T10:44:29.784-03:00"
   }
 ]
