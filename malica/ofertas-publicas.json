@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1739680653.58204448907",
+    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
+    "preco": 24.9,
+    "preco_anterior": 75.45,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7VGY0RFqla",
+    "atualizado_em": "2026-09-20T15:11:28.798-03:00"
+  },
+  {
     "id": "shopee:1042066189.43481645729",
     "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=malica09-20",
     "atualizado_em": "2026-09-19T15:16:13.131-03:00"
-  },
-  {
-    "id": "amazon:B07MT9LCV1",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61U2+G0QD+L._AC_SL1500_.jpg",
-    "preco": 24,
-    "preco_anterior": 49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MT9LCV1?tag=malica09-20",
-    "atualizado_em": "2026-09-19T15:11:06.302-03:00"
   }
 ]
