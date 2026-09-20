@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FS85GWNV",
+    "titulo": "Sof Fralda Babysec Ultra Giga G 2X80",
+    "imagem": "https://m.media-amazon.com/images/I/61IFAzKPIgL._AC_SL1500_.jpg",
+    "preco": 82,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FS85GWNV?tag=malica09-20",
+    "atualizado_em": "2026-09-20T08:11:38.009-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB55747994",
     "titulo": "Mamadeira Easy Flow 120ml Recem Nascido Anticolica - Buba Cinza Nuvem",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928104-MLA91801482532_092025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7ptLv7FUsK",
     "atualizado_em": "2026-09-19T08:16:04.947-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42105593",
-    "titulo": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_754916-MLA99922830519_112025-F.jpg",
-    "preco": 47.82,
-    "preco_anterior": 63.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19ebFat",
-    "atualizado_em": "2026-09-19T08:11:00.428-03:00"
   }
 ]
