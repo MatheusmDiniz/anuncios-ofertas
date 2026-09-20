@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22189449",
+    "titulo": "Garrafinha Buba Leao 12115 450 ML",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_727995-MLA99630096154_122025-F.jpg",
+    "preco": 33.81,
+    "preco_anterior": 71.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2o3GaZk",
+    "atualizado_em": "2026-09-20T18:59:51.224-03:00"
+  },
+  {
     "id": "amazon:B07CRL8SWP",
     "titulo": "Oferta: Mini Mercado Sylvanian Families",
     "imagem": "https://m.media-amazon.com/images/I/71oBEl0x5-L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1SZdqFJ",
     "atualizado_em": "2026-09-19T19:01:08.001-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18395240",
-    "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
-    "preco": 10.69,
-    "preco_anterior": 14.58,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cy9aXb",
-    "atualizado_em": "2026-09-19T18:55:59.341-03:00"
   }
 ]
