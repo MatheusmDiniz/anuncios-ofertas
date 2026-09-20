@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1146454576.58215376863",
+    "titulo": "Conjunto Body Bebe Menina com Calca Tiara e Sapatinho do Tema Ovelhinha",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-mrbx59ga6j2d42",
+    "preco": 38.83,
+    "preco_anterior": 55.47,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7fZyCkFDQb",
+    "atualizado_em": "2026-09-20T14:09:56.949-03:00"
+  },
+  {
     "id": "amazon:B0H56K2L78",
     "titulo": "Lixeira Mágica Antiodor 13 Litros Para Fraldas Bebe Lixo Anti Odor | Lixeira para Fraldas com Vedação 13 Litros - Lixeira Higiênica Anti-Odor para Quarto de Bebê e Troca de Fraldas",
     "imagem": "https://m.media-amazon.com/images/I/41KPitDdm3L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN1XPNW?tag=malica09-20",
     "atualizado_em": "2026-09-19T14:14:47.945-03:00"
-  },
-  {
-    "id": "amazon:B08K4L37HD",
-    "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
-    "preco": 151,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
-    "atualizado_em": "2026-09-19T14:09:40.986-03:00"
   }
 ]
