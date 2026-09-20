@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19481216",
+    "titulo": "Shampoo Johnson's Baby Cachos Definidos 400ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_985376-MLA99931805363_112025-F.jpg",
+    "preco": 21.5,
+    "preco_anterior": 34.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2epHF18",
+    "atualizado_em": "2026-09-20T08:27:03.312-03:00"
+  },
+  {
     "id": "amazon:B0C2B7LBKF",
     "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 30g | 30g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
     "imagem": "https://m.media-amazon.com/images/I/61kB4BkWYML._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2rCdHwg",
     "atualizado_em": "2026-09-19T08:31:26.127-03:00"
-  },
-  {
-    "id": "shopee:421581203.22398990698",
-    "titulo": "Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Criança Bebê Masculino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mm34akips3y803",
-    "preco": 27.95,
-    "preco_anterior": 45.08,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3g3mxSVMKe",
-    "atualizado_em": "2026-09-19T08:26:18.243-03:00"
   }
 ]
