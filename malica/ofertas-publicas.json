@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GY6CFJTK",
+    "titulo": "Oferta: Luminária Infantil – Abajur LED Portátil e Recarregável USB | Luz Noturna Segura para Crianças e Bebês, Silicone Macio, 6 Cores, 3 Níveis de Brilho, Timer 30min e Até 6h de Duração (Dinossauro",
+    "imagem": "https://m.media-amazon.com/images/I/51Ts7ZNseKL._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": 69,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GY6CFJTK?tag=malica09-20",
+    "atualizado_em": "2026-09-20T13:49:32.279-03:00"
+  },
+  {
     "id": "amazon:B0DFRTQCQ6",
     "titulo": "Fun Divirta-se - Disney - Pelúcia Divertidamente - Inveja 23 cm - A partir de 2 anos",
     "imagem": "https://m.media-amazon.com/images/I/61-W4JQcFeL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=malica09-20",
     "atualizado_em": "2026-09-19T13:54:20.335-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB43809739",
-    "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
-    "preco": 8.11,
-    "preco_anterior": 20.09,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28TvvrA",
-    "atualizado_em": "2026-09-19T13:49:13.747-03:00"
   }
 ]
