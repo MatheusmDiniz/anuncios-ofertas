@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19509698",
+    "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
+    "preco": 23.01,
+    "preco_anterior": 24.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Ktnopa",
+    "atualizado_em": "2026-09-20T11:51:43.385-03:00"
+  },
+  {
     "id": "amazon:B0D51V4FYN",
     "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71Ggiw6beZL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1mUFvwo",
     "atualizado_em": "2026-09-19T11:56:23.324-03:00"
-  },
-  {
-    "id": "amazon:B093G8NZ4Y",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71l5ps7efSL._AC_SL1500_.jpg",
-    "preco": 34,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=malica09-20",
-    "atualizado_em": "2026-09-19T11:51:15.542-03:00"
   }
 ]
