@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DR3N5BV6+B0DR3PTGH3",
+    "titulo": "Oferta: Cachorrinho Aprende Comigo Para Bebês Fisher-Price Mattel",
+    "imagem": "https://m.media-amazon.com/images/I/718Amaq9yaL._AC_SL1500_.jpg",
+    "preco": 219,
+    "preco_anterior": 369,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=malica09-20",
+    "atualizado_em": "2026-09-20T16:41:17.617-03:00"
+  },
+  {
     "id": "shopee:287082132.27580831879",
     "titulo": "Colchão Para Berço Desmontável Chiqueirinho Cercadinho Capa Removível 90x60x07cm Macio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg841a0agnb4ed",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=malica09-20",
     "atualizado_em": "2026-09-19T16:43:10.341-03:00"
-  },
-  {
-    "id": "amazon:B0D84MB72K",
-    "titulo": "Pó Dermo Protetor JOHNSON",
-    "imagem": "https://m.media-amazon.com/images/I/41TMpXU3M2L._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D84MB72K?tag=malica09-20",
-    "atualizado_em": "2026-09-19T16:38:04.095-03:00"
   }
 ]
