@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DD7V56G1",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
+    "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
+    "preco": 166,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
+    "atualizado_em": "2026-09-20T12:22:29.577-03:00"
+  },
+  {
     "id": "amazon:B0HGRNF7F1",
     "titulo": "Lixeira para Fraldas Antiodor 10L com Sistema Giratório, Alça Prática e Vedação de Resíduos, Design Decorativo para Quarto de Bebê, Banheiro e Lavabo",
     "imagem": "https://m.media-amazon.com/images/I/61vvQj2bwaL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XQuVVJ",
     "atualizado_em": "2026-09-19T12:27:06.557-03:00"
-  },
-  {
-    "id": "amazon:B07GQ136TS",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
-    "preco": 57,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
-    "atualizado_em": "2026-09-19T12:21:58.794-03:00"
   }
 ]
