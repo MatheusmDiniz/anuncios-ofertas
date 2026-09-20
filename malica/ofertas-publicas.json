@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GC8THCC8",
+    "titulo": "Oferta: Guerreiras do KPop Boneca Mira com canção 4Y+",
+    "imagem": "https://m.media-amazon.com/images/I/81JJlouRzbL._AC_SL1500_.jpg",
+    "preco": 256,
+    "preco_anterior": 449,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GC8THCC8?tag=malica09-20",
+    "atualizado_em": "2026-09-20T18:39:19.150-03:00"
+  },
+  {
     "id": "amazon:B08V2M2MQV",
     "titulo": "Oferta: Lillo Caneca Aprendizado C/ Alça Evolution Bebedor SIL 150 ml - Menino, Lillo, Azul/Laranja",
     "imagem": "https://m.media-amazon.com/images/I/61o06R0iS-L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Yvt5Vw",
     "atualizado_em": "2026-09-19T18:40:38.063-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23414358",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825242-MLA109518750392_042026-F.jpg",
-    "preco": 59.68,
-    "preco_anterior": 65.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vyhpHT",
-    "atualizado_em": "2026-09-19T18:35:30.855-03:00"
   }
 ]
