@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17335680",
+    "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 36 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729959-MLA99437189922_112025-F.jpg",
+    "preco": 49.99,
+    "preco_anterior": 56.57,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hnXz7Z",
+    "atualizado_em": "2026-09-20T12:32:43.152-03:00"
+  },
+  {
     "id": "amazon:B0CTD56FW3",
     "titulo": "Oferta: Maxi Baby Móbile Para Carrinho e Berço com Chocalho Ocean",
     "imagem": "https://m.media-amazon.com/images/I/51O0jgSkUKL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28aNNQK",
     "atualizado_em": "2026-09-19T12:37:25.097-03:00"
-  },
-  {
-    "id": "amazon:B09MZXLW51",
-    "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
-    "imagem": "https://m.media-amazon.com/images/I/61dN-GFMm8L._AC_SL1500_.jpg",
-    "preco": 38.99,
-    "preco_anterior": 48.75,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=malica09-20",
-    "atualizado_em": "2026-09-19T12:32:15.411-03:00"
   }
 ]
