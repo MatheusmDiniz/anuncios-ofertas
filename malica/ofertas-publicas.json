@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09JNB5C1D",
+    "titulo": "Oferta: GGB Brinquedo Educativo Infantil Bingo dos Animais",
+    "imagem": "https://m.media-amazon.com/images/I/61qcr6csz-L._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09JNB5C1D?tag=malica09-20",
+    "atualizado_em": "2026-09-20T17:53:06.066-03:00"
+  },
+  {
     "id": "shopee:1203275050.23398654174",
     "titulo": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BZBPXLBG?tag=malica09-20",
     "atualizado_em": "2026-09-19T17:54:39.968-03:00"
-  },
-  {
-    "id": "amazon:B071ZMZW9Q",
-    "titulo": "Canetinha Vai e Vem 24 Cores, Faber-Castell, 15.0124VVZF, Multicor",
-    "imagem": "https://m.media-amazon.com/images/I/61-KXdy6v1L._AC_SL1500_.jpg",
-    "preco": 46,
-    "preco_anterior": 75,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B071ZMZW9Q?tag=malica09-20",
-    "atualizado_em": "2026-09-19T17:49:33.064-03:00"
   }
 ]
