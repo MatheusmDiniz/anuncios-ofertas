@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26693140",
+    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
+    "preco": 78.2,
+    "preco_anterior": 170.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/138DV6n",
+    "atualizado_em": "2026-09-20T18:23:54.645-03:00"
+  },
+  {
     "id": "amazon:B07MD1PNQM",
     "titulo": "Oferta: Hot Wheels City Pista de Brinquedo Mega Reboque 3 anos",
     "imagem": "https://m.media-amazon.com/images/I/61tZYoKkISL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VVR8pONbq",
     "atualizado_em": "2026-09-19T18:25:18.543-03:00"
-  },
-  {
-    "id": "amazon:B0FBBWQB4G",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
-    "preco": 87,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
-    "atualizado_em": "2026-09-19T18:20:12.704-03:00"
   }
 ]
