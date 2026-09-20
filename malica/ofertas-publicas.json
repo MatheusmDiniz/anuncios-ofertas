@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D3617S3R",
+    "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 500 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81sCPAKvuhL._AC_SL1500_.jpg",
+    "preco": 79.4,
+    "preco_anterior": 83.58,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D3617S3R?tag=malica09-20",
+    "atualizado_em": "2026-09-20T14:25:22.456-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22517003",
     "titulo": "Lenço Umedecido Huggies Higiene Diária Rendem 2x Mais 88 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_663083-MLA110467585125_042026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xXuLrP",
     "atualizado_em": "2026-09-19T14:30:08.675-03:00"
-  },
-  {
-    "id": "amazon:B0DFQJQGPL",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXXG,108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/718R8GtN1dL._AC_SL1500_.jpg",
-    "preco": 187,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=malica09-20",
-    "atualizado_em": "2026-09-19T14:25:01.447-03:00"
   }
 ]
