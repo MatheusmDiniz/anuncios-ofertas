@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18626757",
+    "titulo": "Triciclo Infantil Cardoso Totokinha Ariel Azul 1-3 Anos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_865500-MLA99942056617_112025-F.jpg",
+    "preco": 65.45,
+    "preco_anterior": 176,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/254zUvS",
+    "atualizado_em": "2026-09-20T10:04:05.618-03:00"
+  },
+  {
     "id": "shopee:378486926.58263443418",
     "titulo": "Bota Infantil Menina Coturno Cano Curto Feminina Blogueira Juvenil Tratorada",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr7dzhf6p0cl83",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
     "atualizado_em": "2026-09-19T10:08:37.662-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39448662",
-    "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665934-MLA99476766924_112025-F.jpg",
-    "preco": 52.29,
-    "preco_anterior": 167.29,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2iTmTiG",
-    "atualizado_em": "2026-09-19T10:03:29.213-03:00"
   }
 ]
