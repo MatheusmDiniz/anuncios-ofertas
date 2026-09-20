@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:280039385.43007791633",
+    "titulo": "Chinelo Infantil com Elástico Antiderrapante Confortável Bebê Unissex",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby1vqu3deu144",
+    "preco": 16.9,
+    "preco_anterior": 40.24,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1gIlCs6XAW",
+    "atualizado_em": "2026-09-20T11:31:07.935-03:00"
+  },
+  {
     "id": "amazon:B0DH7357F1",
     "titulo": "Buba, Mamadeira Easy Flow Nuvem Branca 330ml",
     "imagem": "https://m.media-amazon.com/images/I/41bsPRoMkvL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2RE4L7u",
     "atualizado_em": "2026-09-19T11:35:54.132-03:00"
-  },
-  {
-    "id": "amazon:B0BFXJ12QQ",
-    "titulo": "Huggies Fralda Supreme Care M 196 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
-    "preco": 174.9,
-    "preco_anterior": 229.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
-    "atualizado_em": "2026-09-19T11:30:36.207-03:00"
   }
 ]
