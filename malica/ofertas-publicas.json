@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875756",
+    "titulo": "Sabonete Líquido De Glicerina Da Cabeça Aos Pés Com Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
+    "preco": 18.14,
+    "preco_anterior": 36.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1LKq29J",
+    "atualizado_em": "2026-09-20T08:37:17.615-03:00"
+  },
+  {
     "id": "shopee:1017646777.21899901744",
     "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/317psw4",
     "atualizado_em": "2026-09-19T08:41:39.077-03:00"
-  },
-  {
-    "id": "shopee:1452530060.19299611725",
-    "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
-    "preco": 19.99,
-    "preco_anterior": 39.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6VNzDZE3PB",
-    "atualizado_em": "2026-09-19T08:36:31.901-03:00"
   }
 ]
