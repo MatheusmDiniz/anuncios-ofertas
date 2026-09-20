@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35090823",
+    "titulo": "Fisher-price Tablet De Aprendizagem Cresce Comigo - Mattel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930205-MLA99502382540_112025-F.jpg",
+    "preco": 108.99,
+    "preco_anterior": 179.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2aC3q8p",
+    "atualizado_em": "2026-09-20T11:41:24.289-03:00"
+  },
+  {
     "id": "amazon:B077BY84XX",
     "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41CGJiuDeKL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/17mw33i",
     "atualizado_em": "2026-09-19T11:46:08.321-03:00"
-  },
-  {
-    "id": "amazon:B0B7K738RQ",
-    "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
-    "preco": 55.19,
-    "preco_anterior": 64.64,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
-    "atualizado_em": "2026-09-19T11:41:00.452-03:00"
   }
 ]
