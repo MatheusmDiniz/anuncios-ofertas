@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DH7357F1",
+    "titulo": "Buba, Mamadeira Easy Flow Nuvem Branca 330ml",
+    "imagem": "https://m.media-amazon.com/images/I/41bsPRoMkvL._AC_SL1500_.jpg",
+    "preco": 28.9,
+    "preco_anterior": 36.12,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DH7357F1?tag=malica09-20",
+    "atualizado_em": "2026-09-20T11:26:02.395-03:00"
+  },
+  {
     "id": "shopee:1838770840.58265197313",
     "titulo": "Kit Raquete Frescobol Bateu Colou Peteca Tênis C/ Bolinha Bate Gruda Binquedo Menino e Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr85lot3rtacc0",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
     "atualizado_em": "2026-09-19T11:30:36.207-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63710202",
-    "titulo": "Absorventes para Seios Ultra Respiráveis Medela, 30 unids",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810766-MLA103253081881_122025-F.jpg",
-    "preco": 25.5,
-    "preco_anterior": 29.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/18T5Pyt",
-    "atualizado_em": "2026-09-19T11:25:31.051-03:00"
   }
 ]
