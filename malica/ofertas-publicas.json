@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28463775",
+    "titulo": "Brinquedo Educativo Pica Pau Baby Toys Set Didático Encaixe 19 Peças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874707-MLA98409763554_112025-F.jpg",
+    "preco": 36.41,
+    "preco_anterior": 56.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MBhnxo",
+    "atualizado_em": "2026-09-20T09:07:58.613-03:00"
+  },
+  {
     "id": "shopee:574744823.22996924590",
     "titulo": "Sapato Social Infantil Masculino Verniz Preto Leve Super Confortavel",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mmuirjyu20as47",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2CNXtvV",
     "atualizado_em": "2026-09-19T09:12:21.731-03:00"
-  },
-  {
-    "id": "amazon:B0BXM4ZSBD",
-    "titulo": "Fralda Pants Huggies Supreme Care Tamanho XXG, Estilo Roupinha, 58 Unidades, Vermelho",
-    "imagem": "https://m.media-amazon.com/images/I/817zDtkBwEL._AC_SL1500_.jpg",
-    "preco": 72,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=malica09-20",
-    "atualizado_em": "2026-09-19T09:07:13.995-03:00"
   }
 ]
