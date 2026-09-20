@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077PLGWMG",
+    "titulo": "Oferta: Jogo Cilada, Estrela",
+    "imagem": "https://m.media-amazon.com/images/I/81KlwvRaklL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": 39,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077PLGWMG?tag=malica09-20",
+    "atualizado_em": "2026-09-20T17:58:13.237-03:00"
+  },
+  {
     "id": "amazon:B09JNB5C1D",
     "titulo": "Oferta: GGB Brinquedo Educativo Infantil Bingo dos Animais",
     "imagem": "https://m.media-amazon.com/images/I/61qcr6csz-L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BDBFT1QP?tag=malica09-20",
     "atualizado_em": "2026-09-19T17:59:46.544-03:00"
-  },
-  {
-    "id": "amazon:B0BZBPXLBG",
-    "titulo": "Hidratante Mustela Stelatopia+ Relipidante Antiprurido, 300ml, para Peles Secas e Atópicas, Sem Fragrância, Uso Familiar",
-    "imagem": "https://m.media-amazon.com/images/I/41-bgYFF0nL._AC_SL1500_.jpg",
-    "preco": 189,
-    "preco_anterior": 239,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BZBPXLBG?tag=malica09-20",
-    "atualizado_em": "2026-09-19T17:54:39.968-03:00"
   }
 ]
