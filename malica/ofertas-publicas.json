@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FMYW5RBW",
+    "titulo": "LEGO Star Wars Busto de Darth Vader™ 75439 (349 Peças)",
+    "imagem": "https://m.media-amazon.com/images/I/81+5zy5q-JL._AC_SL1500_.jpg",
+    "preco": 345,
+    "preco_anterior": 499,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FMYW5RBW?tag=malica09-20",
+    "atualizado_em": "2026-09-20T15:55:15.171-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17336102",
     "titulo": "Fralda Huggies Rápida Absorção M - 92 unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_625506-MLA96889901808_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
     "atualizado_em": "2026-09-19T15:57:08.990-03:00"
-  },
-  {
-    "id": "amazon:B08QG3H6YR",
-    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
-    "preco": 41,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
-    "atualizado_em": "2026-09-19T15:52:04.437-03:00"
   }
 ]
