@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29765788",
+    "titulo": "Colônia Infantil Baruel Baby Sono Tranquilo 120ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968895-MLA113215874062_072026-F.jpg",
+    "preco": 12.22,
+    "preco_anterior": 19.09,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2sgHcUd",
+    "atualizado_em": "2026-09-20T14:51:02.959-03:00"
+  },
+  {
     "id": "amazon:B0GP9G51RN",
     "titulo": "Oferta: Travel System Galzerano Napoli 1452 Com Base para Carro Trio Preto e Cobre | Diferenciação do peso suportado (que passou de 15kg do modelo antigo pra 22Kg nesse modelo novo).",
     "imagem": "https://m.media-amazon.com/images/I/51EVt91hopL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=malica09-20",
     "atualizado_em": "2026-09-19T14:55:45.845-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22761169",
-    "titulo": "Brinquedo Educativo Kendy Cubo Baby Com Blocos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963262-MLA100083108993_122025-F.jpg",
-    "preco": 11.33,
-    "preco_anterior": 21.28,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1UjP16B",
-    "atualizado_em": "2026-09-19T14:50:38.951-03:00"
   }
 ]
