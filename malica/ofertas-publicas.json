@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26981196",
+    "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
+    "preco": 71.5,
+    "preco_anterior": 129.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2CfRhYg",
+    "atualizado_em": "2026-09-20T10:50:06.260-03:00"
+  },
+  {
     "id": "amazon:B0FS9R2B83",
     "titulo": "Paninho de Boca Bebê Papi Soft Estampado 28x28 cm – Contém 6 Unidades, Azul",
     "imagem": "https://m.media-amazon.com/images/I/41UWHcqnkKL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2BjR1iD",
     "atualizado_em": "2026-09-19T10:54:47.099-03:00"
-  },
-  {
-    "id": "amazon:B093G9PSPP",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71aOjTMuajL._AC_SL1500_.jpg",
-    "preco": 43.34,
-    "preco_anterior": 50.29,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=malica09-20",
-    "atualizado_em": "2026-09-19T10:49:36.414-03:00"
   }
 ]
