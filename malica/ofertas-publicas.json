@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:391751753.58210250288",
+    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
+    "preco": 30,
+    "preco_anterior": 69.77,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80CobMeHCY",
+    "atualizado_em": "2026-09-20T19:15:08.684-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18406931",
     "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fSQbhBLZE",
     "atualizado_em": "2026-09-19T19:16:29.607-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23024522",
-    "titulo": "Brinquedo Educativo Cubo Mágico Grande Didático Infantil Encaixe 6 Faces Mercotoys",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949635-MLA107382075000_032026-F.jpg",
-    "preco": 63.71,
-    "preco_anterior": 149.69,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2xAR8oH",
-    "atualizado_em": "2026-09-19T19:11:24.668-03:00"
   }
 ]
