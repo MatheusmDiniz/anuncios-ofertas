@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:585253987.22094330581",
+    "titulo": "Banco De Cintura Para Bebê Canguru Passeio Varias Cores Mochila Infantil Hipseat CarrierPara Bebê",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwd-mdaoj8ybtmux04",
+    "preco": 99.79,
+    "preco_anterior": 199.58,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1134GdAYtE",
+    "atualizado_em": "2026-09-20T10:29:33.563-03:00"
+  },
+  {
     "id": "amazon:B08NQNXMPL",
     "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
     "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uiuBZ6",
     "atualizado_em": "2026-09-19T10:34:15.169-03:00"
-  },
-  {
-    "id": "amazon:B0GY6GG8R7",
-    "titulo": "Fralda Pampers Recém Nascido Tamanho RN+ (Até 5 kg), 36 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71ySA4+115L._AC_SL1500_.jpg",
-    "preco": 52.83,
-    "preco_anterior": 88.05,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GY6GG8R7?tag=malica09-20",
-    "atualizado_em": "2026-09-19T10:29:06.529-03:00"
   }
 ]
