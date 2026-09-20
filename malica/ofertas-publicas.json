@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:396723953.40026562019",
+    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
+    "preco": 58.89,
+    "preco_anterior": 99.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8AWEnfddrb",
+    "atualizado_em": "2026-09-20T19:45:57.312-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875996",
     "titulo": "Sabonete Líquido Baruel Baby Glicerina Perfumado 210ml A-R",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835837-MLA105345918437_012026-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/24boscH",
     "atualizado_em": "2026-09-19T19:47:19.849-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39426115",
-    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
-    "preco": 66,
-    "preco_anterior": 172.65,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/33bipXK",
-    "atualizado_em": "2026-09-19T19:42:10.582-03:00"
   }
 ]
