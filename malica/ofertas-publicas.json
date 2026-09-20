@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DSC8C4XH",
+    "titulo": "Oferta: Fralda Huggies Premium Dermacare XG - 38 Un",
+    "imagem": "https://m.media-amazon.com/images/I/719yVPNSxpL._AC_SL1500_.jpg",
+    "preco": 85,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DSC8C4XH?tag=malica09-20",
+    "atualizado_em": "2026-09-20T08:01:23.846-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26454526",
     "titulo": "Fisher Price Puxe A Tartaruga Y8652 - Mattel",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_832645-MLA99959799305_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8V93b6EPI8",
     "atualizado_em": "2026-09-19T08:05:53.134-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB33294420",
-    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
-    "preco": 13.52,
-    "preco_anterior": 27.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Q4Wv1Y",
-    "atualizado_em": "2026-09-19T08:00:48.626-03:00"
   }
 ]
