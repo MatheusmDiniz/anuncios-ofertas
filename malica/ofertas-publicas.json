@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H4WPWNGL",
+    "titulo": "Oferta: Banheira Dobrável Com Suporte Termômetro e Redutor Assento Ergonômico 20kg Melon Maxi Baby",
+    "imagem": "https://m.media-amazon.com/images/I/51u2tW4ctsL._AC_SL1500_.jpg",
+    "preco": 379,
+    "preco_anterior": 549,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H4WPWNGL?tag=malica09-20",
+    "atualizado_em": "2026-09-20T16:51:29.482-03:00"
+  },
+  {
     "id": "shopee:478457753.20597624044",
     "titulo": "Mocassim Menina Modelo Oxford Off White e Preto Lindo Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrpvxbcpnfaz77",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=malica09-20",
     "atualizado_em": "2026-09-19T16:53:23.898-03:00"
-  },
-  {
-    "id": "amazon:B0CHZ9XXPX",
-    "titulo": "HIPOGLÓS® Creme Preventivo De Assaduras, 40g",
-    "imagem": "https://m.media-amazon.com/images/I/51QMN1Euz1L._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=malica09-20",
-    "atualizado_em": "2026-09-19T16:48:18.580-03:00"
   }
 ]
