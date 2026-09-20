@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B7S2TPHF",
+    "titulo": "Burigotto Banheira Oplà, Polar",
+    "imagem": "https://m.media-amazon.com/images/I/41fJRTK7KoL._AC_SL1500_.jpg",
+    "preco": 189,
+    "preco_anterior": 259,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B7S2TPHF?tag=malica09-20",
+    "atualizado_em": "2026-09-20T13:59:46.618-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50571754",
     "titulo": "Colônia Seiva de Alfazema Lavanda Extra, 118 mL",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837530-MLA99798267087_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BCH32VGZ?tag=malica09-20",
     "atualizado_em": "2026-09-19T14:04:33.768-03:00"
-  },
-  {
-    "id": "amazon:B0H1JZ3YQC",
-    "titulo": "Fralda Cremer Jumbo P 24 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71QU7clBmvL._AC_SL1500_.jpg",
-    "preco": 19.99,
-    "preco_anterior": 22.97,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H1JZ3YQC?tag=malica09-20",
-    "atualizado_em": "2026-09-19T13:59:26.567-03:00"
   }
 ]
