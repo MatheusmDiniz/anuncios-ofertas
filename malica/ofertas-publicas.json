@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00008PW0J",
+    "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Girafa com Blocos para crianças a partir de 6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/51ZD5QAtRpL._AC_SL1500_.jpg",
+    "preco": 104,
+    "preco_anterior": 179,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00008PW0J?tag=malica09-20",
+    "atualizado_em": "2026-09-20T16:20:51.505-03:00"
+  },
+  {
     "id": "shopee:1123144676.18897796293",
     "titulo": "Almofada de Viagem H Para Carro Com Travesseiro Cinto De Segurança para Criança",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke8zmgbkoht1e",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
     "atualizado_em": "2026-09-19T16:22:42.294-03:00"
-  },
-  {
-    "id": "amazon:B0FPSHCSQF",
-    "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XG - 144 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/813VUlveBgL._AC_SL1500_.jpg",
-    "preco": 197,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=malica09-20",
-    "atualizado_em": "2026-09-19T16:17:35.795-03:00"
   }
 ]
