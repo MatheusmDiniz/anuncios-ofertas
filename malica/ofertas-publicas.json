@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGG1QK3D",
+    "titulo": "Conjunto de Talheres Infantis Tramontina em Aço Inox com Estojo 05 Pçs : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/61eJ1mhmjRL._AC_SL1500_.jpg",
+    "preco": 52.03,
+    "preco_anterior": 58.22,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGG1QK3D?tag=malica09-20",
+    "atualizado_em": "2026-09-20T20:23:56.090-03:00"
+  },
+  {
     "id": "amazon:B0B2C15WR3",
     "titulo": "Oferta: Assento De Carro Infantil Elevação Fit Up Preto Replay Kids",
     "imagem": "https://m.media-amazon.com/images/I/41fovdMiHkL._AC_SL1500_.jpg",
@@ -1588,25 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28SEv7U",
     "atualizado_em": "2026-09-19T20:28:34.254-03:00"
-  },
-  {
-    "id": "shopee:1361476561.22493583538",
-    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
-    "preco": 36.9,
-    "preco_anterior": 87.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AUu4n3dlMT",
-    "atualizado_em": "2026-09-19T20:23:27.245-03:00"
-  },
-  {
-    "id": "shopee:1365993167.58209968589",
-    "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
-    "preco": 19.9,
-    "preco_anterior": 29.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8plqo0AiEH",
-    "atualizado_em": "2026-09-19T20:18:19.148-03:00"
   }
 ]
