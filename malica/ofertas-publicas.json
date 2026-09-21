@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28643543",
+    "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
+    "preco": 36.74,
+    "preco_anterior": 53.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1vpPWWV",
+    "atualizado_em": "2026-09-21T12:11:42.857-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB41695273",
     "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dDis3R",
     "atualizado_em": "2026-09-20T12:12:11.689-03:00"
-  },
-  {
-    "id": "amazon:B00TQCAAQW",
-    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
-    "preco": 67.07,
-    "preco_anterior": 100.24,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
-    "atualizado_em": "2026-09-20T12:07:01.679-03:00"
   }
 ]
