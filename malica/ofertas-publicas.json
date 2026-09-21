@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44196987",
+    "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
+    "preco": 25,
+    "preco_anterior": 45.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1VHwaBz",
+    "atualizado_em": "2026-09-21T10:54:24.878-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28318987",
     "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=malica09-20",
     "atualizado_em": "2026-09-20T10:55:12.712-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26981196",
-    "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
-    "preco": 71.5,
-    "preco_anterior": 129.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CfRhYg",
-    "atualizado_em": "2026-09-20T10:50:06.260-03:00"
   }
 ]
