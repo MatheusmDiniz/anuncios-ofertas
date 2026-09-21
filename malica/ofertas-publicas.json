@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB51240172",
+    "titulo": "Boneco Stitch Banho Divertido - Disney Cotiplás 2905",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
+    "preco": 58.11,
+    "preco_anterior": 103.54,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fcnWdW",
+    "atualizado_em": "2026-09-21T11:40:49.134-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42418820",
     "titulo": "Aquecedor De Mamadeira Baby Usb Térmico Infantil Leite Materno Bebê Portátil Com Regulagem Temperatura 3 Niveis Para Manter Aquecido",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_773471-MLA99561428486_122025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2aC3q8p",
     "atualizado_em": "2026-09-20T11:41:24.289-03:00"
-  },
-  {
-    "id": "amazon:B077BY84XX",
-    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41CGJiuDeKL._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": 44,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=malica09-20",
-    "atualizado_em": "2026-09-20T11:36:14.652-03:00"
   }
 ]
