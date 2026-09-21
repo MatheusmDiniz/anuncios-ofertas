@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775080",
+    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
+    "preco": 11.78,
+    "preco_anterior": 18.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/317psw4",
+    "atualizado_em": "2026-09-21T12:21:57.764-03:00"
+  },
+  {
     "id": "shopee:341167297.20698276094",
     "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
     "atualizado_em": "2026-09-20T12:22:29.577-03:00"
-  },
-  {
-    "id": "amazon:B0HGRNF7F1",
-    "titulo": "Lixeira para Fraldas Antiodor 10L com Sistema Giratório, Alça Prática e Vedação de Resíduos, Design Decorativo para Quarto de Bebê, Banheiro e Lavabo",
-    "imagem": "https://m.media-amazon.com/images/I/61vvQj2bwaL._AC_SL1500_.jpg",
-    "preco": 99.9,
-    "preco_anterior": 166.5,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HGRNF7F1?tag=malica09-20",
-    "atualizado_em": "2026-09-20T12:17:18.835-03:00"
   }
 ]
