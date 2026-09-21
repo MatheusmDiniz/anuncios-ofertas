@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46014518",
+    "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
+    "preco": 149.9,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1C78WCp",
+    "atualizado_em": "2026-09-21T12:58:17.201-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875743",
     "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00EWGJ324?tag=malica09-20",
     "atualizado_em": "2026-09-20T12:58:23.191-03:00"
-  },
-  {
-    "id": "amazon:B0D8RHX3C6",
-    "titulo": "Sérum Hidratante Corporal Para Pele com Tom Irregular 48h de Hidratação Regenerativa Dove Dermo Renovador Niacinamida Redutor de Marcas Escurecidas Clinicamente Comprovado 380mL",
-    "imagem": "https://m.media-amazon.com/images/I/41jEssG9EDL._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": 47,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=malica09-20",
-    "atualizado_em": "2026-09-20T12:53:16.625-03:00"
   }
 ]
