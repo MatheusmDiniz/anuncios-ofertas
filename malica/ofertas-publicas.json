@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24626810",
+    "titulo": "Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700261-MLA99618194932_122025-F.jpg",
+    "preco": 34,
+    "preco_anterior": 66.27,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2uuTxjq",
+    "atualizado_em": "2026-09-20T21:45:57.851-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24646908",
     "titulo": "Kit Trava Gaveta Porta Armário Geladeira Segurança Bebê Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962810-MLA99839467723_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAHEOS5dWf",
     "atualizado_em": "2026-09-19T21:50:41.772-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342443",
-    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
-    "preco": 6.56,
-    "preco_anterior": 7.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RGiPDf",
-    "atualizado_em": "2026-09-19T21:45:36.708-03:00"
   }
 ]
