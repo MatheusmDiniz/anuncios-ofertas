@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27896994",
+    "titulo": "Aspirador Nasal De Sucção Com Estojo - Buba Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819995-MLA99635327832_122025-F.jpg",
+    "preco": 16.86,
+    "preco_anterior": 19.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1St5dja",
+    "atualizado_em": "2026-09-21T12:37:29.675-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB52130244",
     "titulo": "Laptop Infantil Educativo Candide Minnie Bilíngue",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_813445-MLA99895279573_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BT55RMS4?tag=malica09-20",
     "atualizado_em": "2026-09-20T12:37:51.529-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17335680",
-    "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 36 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729959-MLA99437189922_112025-F.jpg",
-    "preco": 49.99,
-    "preco_anterior": 56.57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hnXz7Z",
-    "atualizado_em": "2026-09-20T12:32:43.152-03:00"
   }
 ]
