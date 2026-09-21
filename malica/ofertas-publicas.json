@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB43809739",
+    "titulo": "4 Pçs Protetor Borda Canto Quina Mesa Vidro Cantoneira Bebê Cor Transparente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847559-MLA100082600555_122025-F.jpg",
+    "preco": 8.11,
+    "preco_anterior": 19.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28TvvrA",
+    "atualizado_em": "2026-09-21T16:13:48.017-03:00"
+  },
+  {
     "id": "shopee:534737666.19799672554",
     "titulo": "Kit 4 Calças Moletom Infantil Peluciada com Punho Elástico 60% Algodão Tamanhos 02 ao 18 Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-msddp3542m134f",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AsdEHuhRB",
     "atualizado_em": "2026-09-20T16:15:45.414-03:00"
-  },
-  {
-    "id": "amazon:B0BS4C1TTM",
-    "titulo": "Oferta: Cadeira Para Auto KidFit Adapt Plus 2 em 1 Preto - 7079728860070",
-    "imagem": "https://m.media-amazon.com/images/I/51zybo4VRIL._AC_SL1500_.jpg",
-    "preco": 918,
-    "preco_anterior": 1199,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BS4C1TTM?tag=malica09-20",
-    "atualizado_em": "2026-09-20T16:10:39.069-03:00"
   }
 ]
