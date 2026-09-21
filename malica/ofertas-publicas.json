@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26764181",
+    "titulo": "Totokinha Menina 0300 - Cardoso Toys Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765391-MLA99932711605_112025-F.jpg",
+    "preco": 74.9,
+    "preco_anterior": 78.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Djwx39",
+    "atualizado_em": "2026-09-21T18:04:44.698-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39448662",
     "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_665934-MLA99476766924_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FFT7WR18?tag=malica09-20",
     "atualizado_em": "2026-09-20T18:08:28.914-03:00"
-  },
-  {
-    "id": "amazon:B09S3ST9V7",
-    "titulo": "Oferta: Primeira Casa Sylvanian Families",
-    "imagem": "https://m.media-amazon.com/images/I/61AW7oz-4XL._AC_SL1500_.jpg",
-    "preco": 184,
-    "preco_anterior": 249,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09S3ST9V7?tag=malica09-20",
-    "atualizado_em": "2026-09-20T18:03:19.963-03:00"
   }
 ]
