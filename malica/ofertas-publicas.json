@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:463228698.58257979473",
+    "titulo": "Kit Ate 36 Anéis Infantil Menina anel Modelo Ajustável Sortidos Colorido",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262t-mmhssjkzcmisa6",
+    "preco": 8.99,
+    "preco_anterior": 29.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9peUt6JVqX",
+    "atualizado_em": "2026-09-21T17:00:09.267-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54891526",
     "titulo": "Pratinho Em Silicone Com Ventosa Gumy 19cm Buba Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_722587-MLA96180269941_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DJSM5L6X?tag=malica09-20",
     "atualizado_em": "2026-09-20T17:01:40.816-03:00"
-  },
-  {
-    "id": "shopee:291174073.21297732100",
-    "titulo": "Kit 8pçs Talheres de Silicone p/ Bebê c/ Ventosa, Colher, Garfo, Canudo e Babador Infantil",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyw-lyy3asttten617",
-    "preco": 37.99,
-    "preco_anterior": 99.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6AlAwAozt2",
-    "atualizado_em": "2026-09-20T16:56:34.377-03:00"
   }
 ]
