@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23576106",
+    "titulo": "Chupeta recém nascidos Start 0-2 meses rosa MAM",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_842789-MLA99583786732_122025-F.jpg",
+    "preco": 21.99,
+    "preco_anterior": 38.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/14kLguN",
+    "atualizado_em": "2026-09-21T13:08:34.115-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392845",
     "titulo": "Lenços Umedecidos Huggies Recém Nascido Pack C/4 - 192 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_700377-MLA99930638257_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H1K5C532?tag=malica09-20",
     "atualizado_em": "2026-09-20T13:08:36.071-03:00"
-  },
-  {
-    "id": "amazon:B0DLLJRBGV",
-    "titulo": "Oferta: Cadeira de Alimentação Portátil Bebê 11kgs Minnie Multikids",
-    "imagem": "https://m.media-amazon.com/images/I/51ndP7T0ppL._AC_SL1500_.jpg",
-    "preco": 99.9,
-    "preco_anterior": 109,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DLLJRBGV?tag=malica09-20",
-    "atualizado_em": "2026-09-20T13:03:29.338-03:00"
   }
 ]
