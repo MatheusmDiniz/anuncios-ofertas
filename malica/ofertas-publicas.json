@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22953629",
+    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
+    "preco": 279.9,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yKShtn",
+    "atualizado_em": "2026-09-21T11:20:03.796-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342392",
     "titulo": "NIVEA Sabonete em Barra Creme Care 90g, Limpeza Suave, Banho, Hidrata e Protege, Uso Diário, Todas as Peles",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_778685-MLA99403688656_112025-F.jpg",
