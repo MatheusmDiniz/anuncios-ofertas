@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1481897291.58215220404",
+    "titulo": "Conjunto de bebê Infantil Verão Menino Body e Short 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ay-mr8sjhr2ez9g02",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9peSmj6y2C",
+    "atualizado_em": "2026-09-21T17:36:07.865-03:00"
+  },
+  {
     "id": "shopee:341167297.52156184789",
     "titulo": "Escolha Seu Macacão Bebe Menina Roupa Inverno Soft Peluciado Com Zíper Quentinho Confortável Panda, Ursinho, Florido L09",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mko8utap0t1d2b",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9AOmae7UC8",
     "atualizado_em": "2026-09-20T17:37:43.261-03:00"
-  },
-  {
-    "id": "amazon:B0GXFF828Z",
-    "titulo": "Oferta: Cercadinho para Bebe Cercado para Bebê Cercadinho Infantil Chiqueirinho Bebe de Proteção Criança Grande Tamanho DOUBLE S (150 * 130cm)",
-    "imagem": "https://m.media-amazon.com/images/I/71GfPMrrR7L._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GXFF828Z?tag=malica09-20",
-    "atualizado_em": "2026-09-20T17:32:37.725-03:00"
   }
 ]
