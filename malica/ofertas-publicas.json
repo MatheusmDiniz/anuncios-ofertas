@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21867939",
+    "titulo": "Mustela Stelaker Crosta Láctea Bebê 40ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811924-MLA99428014524_112025-F.jpg",
+    "preco": 86.78,
+    "preco_anterior": 122,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XgURRt",
+    "atualizado_em": "2026-09-21T15:22:32.599-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2xtUxZj",
     "atualizado_em": "2026-09-20T15:44:56.119-03:00"
-  },
-  {
-    "id": "amazon:B0G2T18VCZ",
-    "titulo": "LEGO Minecraft O Dragão Ender 21595",
-    "imagem": "https://m.media-amazon.com/images/I/81y8ioIqBUL._AC_SL1500_.jpg",
-    "preco": 379,
-    "preco_anterior": 499,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G2T18VCZ?tag=malica09-20",
-    "atualizado_em": "2026-09-20T15:21:40.330-03:00"
   }
 ]
