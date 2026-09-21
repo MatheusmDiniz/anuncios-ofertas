@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47797382",
+    "titulo": "Triciclo Com Empurrador Conforto E Segurança Bebê 3 Em 1 Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772685-MLA114732370305_072026-F.jpg",
+    "preco": 172.14,
+    "preco_anterior": 302,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kNYDe4",
+    "atualizado_em": "2026-09-21T08:51:38.843-03:00"
+  },
+  {
     "id": "shopee:1213801506.21398107610",
     "titulo": "Jaqueta Puffer Infantil Masculina Peluciada Com Capuz 100% Impermeável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mpcg2yhvti4m20",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VO02mOy9f",
     "atualizado_em": "2026-09-20T08:52:37.583-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17457276",
-    "titulo": "Toalhetes Desinfetantes Coperalcool Bacfree Álcool 70° Pacote 15 Unid",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_719214-MLA99823204133_112025-F.jpg",
-    "preco": 10,
-    "preco_anterior": 11.01,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bevmQk",
-    "atualizado_em": "2026-09-20T08:47:31.816-03:00"
   }
 ]
