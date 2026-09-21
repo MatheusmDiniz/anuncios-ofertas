@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23480808",
+    "titulo": "Laptop Infantil Educativo Spider Man Candide",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
+    "preco": 57.99,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZSvfs3",
+    "atualizado_em": "2026-09-21T10:13:24.530-03:00"
+  },
+  {
     "id": "shopee:1624354211.58259642577",
     "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08HK41RHJ?tag=malica09-20",
     "atualizado_em": "2026-09-20T10:14:17.721-03:00"
-  },
-  {
-    "id": "shopee:596442927.19299244394",
-    "titulo": "Calça Jeans Infantil Jogger Menino com Elástico e Regulador na Cintura Tamanhos 1 ao 6",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt8gvlvp7jls3b",
-    "preco": 25.99,
-    "preco_anterior": 44.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/W6nfhH8Dx",
-    "atualizado_em": "2026-09-20T10:09:11.327-03:00"
   }
 ]
