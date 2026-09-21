@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:807185675.53157799582",
+    "titulo": "Jaqueta Puffer Infantil Unissex Bobojaco Juvenil Peluciada Capuz Removível Inverno Frio",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mm7o26rhqwhs12",
+    "preco": 88.49,
+    "preco_anterior": 201.11,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2LYSgMwmWz",
+    "atualizado_em": "2026-09-20T21:15:18.447-03:00"
+  },
+  {
     "id": "shopee:421446882.22594196096",
     "titulo": "Toalha Banho Bebê Capuz Roupão Infantil Recém Nascido Criança Bichinho Bordado ABCSHOP",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmrup9n9ds00f4",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Gwm8pw",
     "atualizado_em": "2026-09-19T21:19:54.253-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46639917",
-    "titulo": "Buba, Almofada De Banho Ursinho Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717266-MLA99496738952_112025-F.jpg",
-    "preco": 82.66,
-    "preco_anterior": 147.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1tiDFHn",
-    "atualizado_em": "2026-09-19T21:14:46.272-03:00"
   }
 ]
