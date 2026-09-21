@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:382759839.23997651015",
+    "titulo": "Body Bebe Menina Recem Nascido Gola Bordada",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly0d61dze7y737",
+    "preco": 24.95,
+    "preco_anterior": 49.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5VVTclnnHL",
+    "atualizado_em": "2026-09-21T19:11:29.878-03:00"
+  },
+  {
     "id": "shopee:238412076.11380435890",
     "titulo": "Conjunto Social Para Bebe Menino Recém Nascido a 05 Meses Casamento",
     "imagem": "https://cf.shopee.com.br/file/0dcd8c5ca566a001ad15f235bdb24705",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/80CobMeHCY",
     "atualizado_em": "2026-09-20T19:15:08.684-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406931",
-    "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
-    "preco": 13.49,
-    "preco_anterior": 22.62,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KK85gv",
-    "atualizado_em": "2026-09-20T19:10:03.968-03:00"
   }
 ]
