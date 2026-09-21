@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28885783",
+    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
+    "preco": 10.87,
+    "preco_anterior": 20.41,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2far6hn",
+    "atualizado_em": "2026-09-21T08:10:42.611-03:00"
+  },
+  {
     "id": "shopee:1361476561.19397991697",
     "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FS85GWNV?tag=malica09-20",
     "atualizado_em": "2026-09-20T08:11:38.009-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB55747994",
-    "titulo": "Mamadeira Easy Flow 120ml Recem Nascido Anticolica - Buba Cinza Nuvem",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928104-MLA91801482532_092025-F.jpg",
-    "preco": 30.99,
-    "preco_anterior": 119.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zqwyiY",
-    "atualizado_em": "2026-09-20T08:06:30.462-03:00"
   }
 ]
