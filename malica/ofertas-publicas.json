@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DMWCBX7L",
+    "titulo": "Oferta: Kit Pista Hot Wheels Mega Garagem Mattel. Conjunto com elevador e estacionamento para vários veículos. Diversão e corridas para crianças a partir de 4 anos.",
+    "imagem": "https://m.media-amazon.com/images/I/81Oy-I3vSIL._AC_SL1500_.jpg",
+    "preco": 411,
+    "preco_anterior": 744,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DMWCBX7L?tag=malica09-20",
+    "atualizado_em": "2026-09-20T21:05:07.537-03:00"
+  },
+  {
     "id": "shopee:1127030290.22999007704",
     "titulo": "Aspirador Nasal Bebê Recarregável Silicone Macio Limpeza Nasal Infantil Portátil USB",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-823r7-moh6bx9amnt5aa",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1DB9JYB",
     "atualizado_em": "2026-09-19T21:09:39.161-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58193221",
-    "titulo": "Cadeira Descanso Bebê Musical Polar Skyline Bege Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_852901-MLA96423879623_102025-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 159.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1TKheki",
-    "atualizado_em": "2026-09-19T21:04:32.149-03:00"
   }
 ]
