@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22918403",
+    "titulo": "Chupeta Soothie 0-3m Scf099/03 Philips Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703787-MLA99451951336_112025-F.jpg",
+    "preco": 39.97,
+    "preco_anterior": 68.61,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Psw939",
+    "atualizado_em": "2026-09-21T11:25:12.816-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DH7357F1?tag=malica09-20",
     "atualizado_em": "2026-09-20T11:26:02.395-03:00"
-  },
-  {
-    "id": "shopee:1838770840.58265197313",
-    "titulo": "Kit Raquete Frescobol Bateu Colou Peteca Tênis C/ Bolinha Bate Gruda Binquedo Menino e Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr85lot3rtacc0",
-    "preco": 20.99,
-    "preco_anterior": 55.24,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7Adhkw4GlW",
-    "atualizado_em": "2026-09-20T11:20:53.523-03:00"
   }
 ]
