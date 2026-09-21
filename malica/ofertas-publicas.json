@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1510573551.58251186532",
+    "titulo": "Chapéu Boné 65g moda Feminino De Aba Longa Respirável Viseira Em Cor Lisa Confortável proteção solar Algodão anti odores",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-ms2j1gdw8uf934",
+    "preco": 12.99,
+    "preco_anterior": 59.05,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5LC4KdOzSO",
+    "atualizado_em": "2026-09-20T22:01:22.956-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72983430",
     "titulo": "Spa Banheira Dobrável Adulto 254l Ofurô Quente Ou Gelo Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_630337-MLA111867119246_062026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DSC8C4XH?tag=malica09-20",
     "atualizado_em": "2026-09-20T08:01:23.846-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26454526",
-    "titulo": "Fisher Price Puxe A Tartaruga Y8652 - Mattel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_832645-MLA99959799305_112025-F.jpg",
-    "preco": 59.9,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2b9dkbC",
-    "atualizado_em": "2026-09-19T22:00:54.450-03:00"
   }
 ]
