@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44117936",
+    "titulo": "Funko Pop - Racing - Ayrton Senna 11",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611541-MLA99931609275_112025-F.jpg",
+    "preco": 131.15,
+    "preco_anterior": 149.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Dbbhm7",
+    "atualizado_em": "2026-09-21T11:56:18.553-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46639917",
     "titulo": "Buba, Almofada De Banho Ursinho Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_717266-MLA99496738952_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
     "atualizado_em": "2026-09-20T11:56:49.378-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19509698",
-    "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
-    "preco": 23.01,
-    "preco_anterior": 24.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Ktnopa",
-    "atualizado_em": "2026-09-20T11:51:43.385-03:00"
   }
 ]
