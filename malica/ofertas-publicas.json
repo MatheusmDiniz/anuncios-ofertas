@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392643",
+    "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
+    "preco": 16,
+    "preco_anterior": 43.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1uoVigd",
+    "atualizado_em": "2026-09-21T13:49:50.158-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24647481",
     "titulo": "Bicicleta De Equilíbrio Zippy Toys Andador Infantil Bike Sem Pedal Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_890028-MLA96136074259_102025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1NjCC1D",
     "atualizado_em": "2026-09-20T13:54:40.173-03:00"
-  },
-  {
-    "id": "amazon:B0GY6CFJTK",
-    "titulo": "Oferta: Luminária Infantil – Abajur LED Portátil e Recarregável USB | Luz Noturna Segura para Crianças e Bebês, Silicone Macio, 6 Cores, 3 Níveis de Brilho, Timer 30min e Até 6h de Duração (Dinossauro",
-    "imagem": "https://m.media-amazon.com/images/I/51Ts7ZNseKL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": 69,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GY6CFJTK?tag=malica09-20",
-    "atualizado_em": "2026-09-20T13:49:32.279-03:00"
   }
 ]
