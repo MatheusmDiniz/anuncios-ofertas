@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:816642727.23994061112",
+    "titulo": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo79fsp4i8lcc4",
+    "preco": 23.89,
+    "preco_anterior": 35.66,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9peV8GZmAr",
+    "atualizado_em": "2026-09-21T20:43:46.458-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19481216",
     "titulo": "Shampoo Johnson's Baby Cachos Definidos 400ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_985376-MLA99931805363_112025-F.jpg",
@@ -1618,25 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VO1duaoKt",
     "atualizado_em": "2026-09-20T20:44:38.984-03:00"
-  },
-  {
-    "id": "shopee:1341241314.54554614099",
-    "titulo": "Lucky baby/kit body e calça bebê/ kit body bebê menina carters/conjunto body e calça bebê menina",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82625-mjfvx1we4sn514",
-    "preco": 101.5,
-    "preco_anterior": null,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6VO0oXPflM",
-    "atualizado_em": "2026-09-20T20:39:23.389-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB33294420",
-    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
-    "preco": 13.52,
-    "preco_anterior": 27.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Q4Wv1Y",
-    "atualizado_em": "2026-09-20T20:34:17.838-03:00"
   }
 ]
