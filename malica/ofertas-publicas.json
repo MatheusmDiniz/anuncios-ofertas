@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65726839",
+    "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
+    "preco": 29.58,
+    "preco_anterior": 31.14,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ibWYA9",
+    "atualizado_em": "2026-09-21T14:20:40.508-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18397534",
     "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D3617S3R?tag=malica09-20",
     "atualizado_em": "2026-09-20T14:25:22.456-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22517003",
-    "titulo": "Lenço Umedecido Huggies Higiene Diária Rendem 2x Mais 88 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_663083-MLA110467585125_042026-F.jpg",
-    "preco": 9.22,
-    "preco_anterior": 11.84,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1nLmEEc",
-    "atualizado_em": "2026-09-20T14:20:14.169-03:00"
   }
 ]
