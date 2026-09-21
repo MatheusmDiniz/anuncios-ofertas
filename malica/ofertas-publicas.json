@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17489277",
+    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bcKcRJ",
+    "atualizado_em": "2026-09-21T08:31:11.534-03:00"
+  },
+  {
     "id": "shopee:1668201561.22199693873",
     "titulo": "Pulseira de Segurança Infantil Retrátil Anti Perdido Ajustável com Trava para Crianças e Bebês 1,5m",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqyymla2g7id1d",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fhR0uJ1SN",
     "atualizado_em": "2026-09-20T08:32:10.875-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19481216",
-    "titulo": "Shampoo Johnson's Baby Cachos Definidos 400ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_985376-MLA99931805363_112025-F.jpg",
-    "preco": 21.5,
-    "preco_anterior": 34.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2epHF18",
-    "atualizado_em": "2026-09-20T08:27:03.312-03:00"
   }
 ]
