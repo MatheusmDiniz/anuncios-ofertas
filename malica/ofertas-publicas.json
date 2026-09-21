@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26268364",
+    "titulo": "Mordedor Buba Para Bebe De Agua Gelado Massageador Gengiva Centopéia",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827085-MLA100104760109_122025-F.jpg",
+    "preco": 20,
+    "preco_anterior": 24.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/23uNWoP",
+    "atualizado_em": "2026-09-21T12:27:07.420-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17775080",
     "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CTD56FW3?tag=malica09-20",
     "atualizado_em": "2026-09-20T12:27:36.422-03:00"
-  },
-  {
-    "id": "amazon:B0DD7V56G1",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
-    "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
-    "preco": 166,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
-    "atualizado_em": "2026-09-20T12:22:29.577-03:00"
   }
 ]
