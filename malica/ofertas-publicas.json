@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C5JR7T37",
+    "titulo": "Cosco Kids, Berço Nanny, 0 a 18kg, Azul Rajado",
+    "imagem": "https://m.media-amazon.com/images/I/61ybxaWF52L._AC_SL1500_.jpg",
+    "preco": 529,
+    "preco_anterior": 649,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C5JR7T37?tag=malica09-20",
+    "atualizado_em": "2026-09-20T21:20:26.040-03:00"
+  },
+  {
     "id": "shopee:807185675.53157799582",
     "titulo": "Jaqueta Puffer Infantil Unissex Bobojaco Juvenil Peluciada Capuz Removível Inverno Frio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mm7o26rhqwhs12",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1v9Vxzw",
     "atualizado_em": "2026-09-19T21:25:01.338-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392845",
-    "titulo": "Lenços Umedecidos Huggies Recém Nascido Pack C/4 - 192 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700377-MLA99930638257_112025-F.jpg",
-    "preco": 29.18,
-    "preco_anterior": 45.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Gwm8pw",
-    "atualizado_em": "2026-09-19T21:19:54.253-03:00"
   }
 ]
