@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1668201561.22199693873",
+    "titulo": "Pulseira de Segurança Infantil Retrátil Anti Perdido Ajustável com Trava para Crianças e Bebês 1,5m",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqyymla2g7id1d",
+    "preco": 17.98,
+    "preco_anterior": 31.54,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BTxH6DjaB",
+    "atualizado_em": "2026-09-21T08:26:00.414-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62933980",
     "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2epHF18",
     "atualizado_em": "2026-09-20T08:27:03.312-03:00"
-  },
-  {
-    "id": "amazon:B0C2B7LBKF",
-    "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 30g | 30g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
-    "imagem": "https://m.media-amazon.com/images/I/61kB4BkWYML._AC_SL1500_.jpg",
-    "preco": 23.48,
-    "preco_anterior": 24.72,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2B7LBKF?tag=malica09-20",
-    "atualizado_em": "2026-09-20T08:21:55.942-03:00"
   }
 ]
