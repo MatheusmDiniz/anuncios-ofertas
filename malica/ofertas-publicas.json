@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB43498260",
+    "titulo": "Sabão em barra Natura Mamãe e Bebê de 25 g 6 u",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_688441-MLA99933314357_112025-F.jpg",
+    "preco": 23.94,
+    "preco_anterior": 39.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zRqr4Z",
+    "atualizado_em": "2026-09-21T19:21:53.315-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24208936",
     "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2a8oMsm",
     "atualizado_em": "2026-09-20T19:25:31.691-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46053660",
-    "titulo": "LEGO Speed - Oracle Red Bull Racing RB20 F1 - 251 Peças - 77243",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_658714-MLA100005501511_122025-F.jpg",
-    "preco": 158.9,
-    "preco_anterior": 268.31,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1wxvhEi",
-    "atualizado_em": "2026-09-20T19:20:19.335-03:00"
   }
 ]
