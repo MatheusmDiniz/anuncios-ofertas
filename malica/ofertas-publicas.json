@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:967746038.23694425476",
+    "titulo": "Kit 4 Rosquinhas de Amamentação Protetor 100% Algodão Macio",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
+    "preco": 16.99,
+    "preco_anterior": 24.99,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4qFovuCDWO",
+    "atualizado_em": "2026-09-21T16:24:09.537-03:00"
+  },
+  {
     "id": "shopee:1510354865.23794206460",
     "titulo": "Cinto Social Infantil Masculino de Couro Sintético Cinto Para Crianças Com Regulagem 80cm/85cm",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztz-ml5chhw3hatifc",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnNzQpTKE",
     "atualizado_em": "2026-09-20T16:25:57.390-03:00"
-  },
-  {
-    "id": "amazon:B00008PW0J",
-    "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Girafa com Blocos para crianças a partir de 6 meses",
-    "imagem": "https://m.media-amazon.com/images/I/51ZD5QAtRpL._AC_SL1500_.jpg",
-    "preco": 104,
-    "preco_anterior": 179,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00008PW0J?tag=malica09-20",
-    "atualizado_em": "2026-09-20T16:20:51.505-03:00"
   }
 ]
