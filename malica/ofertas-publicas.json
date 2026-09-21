@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44895132",
+    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
+    "preco": 56,
+    "preco_anterior": 249,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1SZdqFJ",
+    "atualizado_em": "2026-09-21T10:44:09.662-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB41740051",
     "titulo": "Kit 10 Miniaturas de Animais da Fazenda em Plástico Hipoalergênico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_924468-MLA99600409038_122025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FS9R2B83?tag=malica09-20",
     "atualizado_em": "2026-09-20T10:44:56.544-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876062",
-    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 14.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mv74Yq",
-    "atualizado_em": "2026-09-20T10:39:50.507-03:00"
   }
 ]
