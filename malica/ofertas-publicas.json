@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342443",
+    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
+    "preco": 6.56,
+    "preco_anterior": 7.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RGiPDf",
+    "atualizado_em": "2026-09-21T15:07:07.941-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392651",
     "titulo": "Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_908623-MLA111032843377_042026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGY0RFqla",
     "atualizado_em": "2026-09-20T15:11:28.798-03:00"
-  },
-  {
-    "id": "shopee:1042066189.43481645729",
-    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
-    "preco": 29.48,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8fSVOabjqc",
-    "atualizado_em": "2026-09-20T15:06:21.791-03:00"
   }
 ]
