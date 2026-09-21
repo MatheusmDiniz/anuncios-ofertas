@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:321115312.22392476232",
+    "titulo": "kit com 10 Calcinha infantil Kids",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
+    "preco": 20.9,
+    "preco_anterior": 40.19,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7ptQfR9Saa",
+    "atualizado_em": "2026-09-21T18:20:23.213-03:00"
+  },
+  {
     "id": "shopee:1126224431.23497604775",
     "titulo": "Relógio Digital Infantil À Prova D'água Com Display Luminoso Multifuncional Esportivo Para Meninos E Meninas Presentes",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqigqf0p2ltt27",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/138DV6n",
     "atualizado_em": "2026-09-20T18:23:54.645-03:00"
-  },
-  {
-    "id": "amazon:B07MD1PNQM",
-    "titulo": "Oferta: Hot Wheels City Pista de Brinquedo Mega Reboque 3 anos",
-    "imagem": "https://m.media-amazon.com/images/I/61tZYoKkISL._AC_SL1500_.jpg",
-    "preco": 139,
-    "preco_anterior": 289,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MD1PNQM?tag=malica09-20",
-    "atualizado_em": "2026-09-20T18:18:47.051-03:00"
   }
 ]
