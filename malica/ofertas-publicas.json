@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:575397523.51106656675",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7AdhbphRtV",
+    "atualizado_em": "2026-09-21T13:18:51.295-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FCRJW9HQ?tag=malica09-20",
     "atualizado_em": "2026-09-20T13:23:55.712-03:00"
-  },
-  {
-    "id": "amazon:B0DRW797HB",
-    "titulo": "LEGO Jurassic World Fósseis de Dinossauros: Tyrannosaurus rex 76968",
-    "imagem": "https://m.media-amazon.com/images/I/81xOGAyDr4L._AC_SL1500_.jpg",
-    "preco": 1954,
-    "preco_anterior": 2499,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DRW797HB?tag=malica09-20",
-    "atualizado_em": "2026-09-20T13:18:49.380-03:00"
   }
 ]
