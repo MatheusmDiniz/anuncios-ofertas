@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:428189389.22999397938",
+    "titulo": "Camisa Gola Polo Infantil e Juvenil Premium Manga Curta Bebê Menino Algodão de alta Qualidade",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mrt43yh8jz0k43",
+    "preco": 43.9,
+    "preco_anterior": 68.59,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4qFovqZlM9",
+    "atualizado_em": "2026-09-21T15:58:23.415-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27672036",
     "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9fL36YYLbg",
     "atualizado_em": "2026-09-20T16:00:28.296-03:00"
-  },
-  {
-    "id": "amazon:B0FMYW5RBW",
-    "titulo": "LEGO Star Wars Busto de Darth Vader™ 75439 (349 Peças)",
-    "imagem": "https://m.media-amazon.com/images/I/81+5zy5q-JL._AC_SL1500_.jpg",
-    "preco": 345,
-    "preco_anterior": 499,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMYW5RBW?tag=malica09-20",
-    "atualizado_em": "2026-09-20T15:55:15.171-03:00"
   }
 ]
