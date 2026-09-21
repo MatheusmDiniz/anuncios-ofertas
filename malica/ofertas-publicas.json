@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24531140",
+    "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
+    "preco": 8,
+    "preco_anterior": 19.07,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26SYkKg",
+    "atualizado_em": "2026-09-21T17:20:47.264-03:00"
+  },
+  {
     "id": "shopee:1452530060.19299611725",
     "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DNTL32F6?tag=malica09-20",
     "atualizado_em": "2026-09-20T17:22:06.126-03:00"
-  },
-  {
-    "id": "shopee:1101286870.58257972986",
-    "titulo": "Calça Legging Gestante Flare Cós Alto Conforto Sustentação Zero Transparência  Proteção UV",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmhndgcgnwg422",
-    "preco": 43.9,
-    "preco_anterior": 79.82,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2gBIll6FSo",
-    "atualizado_em": "2026-09-20T17:16:59.709-03:00"
   }
 ]
