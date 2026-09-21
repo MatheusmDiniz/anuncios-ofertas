@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1253561331.22293115832",
+    "titulo": "Macacão Promoção Jardineira Body Manga Longa Kids Bebê Menina Bordado de Ursinha Lola Palha",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mn1d7qur91qc9e",
+    "preco": 59.67,
+    "preco_anterior": 85.24,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50ZD1qphIG",
+    "atualizado_em": "2026-09-21T17:46:23.406-03:00"
+  },
+  {
     "id": "shopee:548029260.58257405717",
     "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9AOmaeXkMz",
     "atualizado_em": "2026-09-20T17:47:59.184-03:00"
-  },
-  {
-    "id": "amazon:B0C2CRZL5H",
-    "titulo": "Oferta: Conjunto Hora do Banho - Trigêmeos",
-    "imagem": "https://m.media-amazon.com/images/I/61fKtXhEBIL._AC_SL1500_.jpg",
-    "preco": 165,
-    "preco_anterior": 219,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2CRZL5H?tag=malica09-20",
-    "atualizado_em": "2026-09-20T17:42:51.691-03:00"
   }
 ]
