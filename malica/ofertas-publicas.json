@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.20599551957",
+    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
+    "preco": 55.9,
+    "preco_anterior": 99.82,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6q0rDDIO7O",
+    "atualizado_em": "2026-09-21T15:17:23.187-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876098",
     "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G2T18VCZ?tag=malica09-20",
     "atualizado_em": "2026-09-20T15:21:40.330-03:00"
-  },
-  {
-    "id": "amazon:B0FMS6SQ4M",
-    "titulo": "LEGO Creator Tubarão Feroz com um Baú de Tesouro 31381 (262 Peças)",
-    "imagem": "https://m.media-amazon.com/images/I/81bIFcQ-vJL._AC_SL1500_.jpg",
-    "preco": 218,
-    "preco_anterior": 299,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMS6SQ4M?tag=malica09-20",
-    "atualizado_em": "2026-09-20T15:16:35.721-03:00"
   }
 ]
