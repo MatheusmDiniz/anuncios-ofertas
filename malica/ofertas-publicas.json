@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1365993167.58209968589",
+    "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
+    "preco": 19.9,
+    "preco_anterior": 29.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AKajNeVOSm",
+    "atualizado_em": "2026-09-21T14:25:47.117-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65726839",
     "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=malica09-20",
     "atualizado_em": "2026-09-20T14:30:28.771-03:00"
-  },
-  {
-    "id": "amazon:B0D3617S3R",
-    "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 500 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/81sCPAKvuhL._AC_SL1500_.jpg",
-    "preco": 79.4,
-    "preco_anterior": 83.58,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D3617S3R?tag=malica09-20",
-    "atualizado_em": "2026-09-20T14:25:22.456-03:00"
   }
 ]
