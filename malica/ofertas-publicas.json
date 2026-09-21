@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1304580988.58250632488",
+    "titulo": "Macacão Jardineira Menino Calça Jeans com bolso diversas cores 1 ao 3.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-msl8708ngef8c7",
+    "preco": 49.9,
+    "preco_anterior": 151.21,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/70KJfw31ab",
+    "atualizado_em": "2026-09-21T18:35:42.492-03:00"
+  },
+  {
     "id": "shopee:1679478603.22099205542",
     "titulo": "Lousa Mágica Tela Lcd 8.5 /10 /12 Polegadas Infantil De Escrever E Desenhar Tablet",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227t-mhhz4t9wei9t49",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GC8THCC8?tag=malica09-20",
     "atualizado_em": "2026-09-20T18:39:19.150-03:00"
-  },
-  {
-    "id": "amazon:B08V2M2MQV",
-    "titulo": "Oferta: Lillo Caneca Aprendizado C/ Alça Evolution Bebedor SIL 150 ml - Menino, Lillo, Azul/Laranja",
-    "imagem": "https://m.media-amazon.com/images/I/61o06R0iS-L._AC_SL1500_.jpg",
-    "preco": 33.86,
-    "preco_anterior": 45.78,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08V2M2MQV?tag=malica09-20",
-    "atualizado_em": "2026-09-20T18:34:12.636-03:00"
   }
 ]
