@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19466939",
+    "titulo": "Cereal neston 3 cereais 360g Nestlé",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602906-MLU78432990521_082024-F.jpg",
+    "preco": 19.71,
+    "preco_anterior": 21.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2U7NUHu",
+    "atualizado_em": "2026-09-21T13:39:28.583-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27488701",
     "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DFRTQCQ6?tag=malica09-20",
     "atualizado_em": "2026-09-20T13:44:23.736-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 81.21,
-    "preco_anterior": 99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZsrkHX",
-    "atualizado_em": "2026-09-20T13:39:17.585-03:00"
   }
 ]
