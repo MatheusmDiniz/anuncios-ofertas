@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875892",
+    "titulo": "Sabonete Líquido de Glicerina Granado Bebê Tradicional 500ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
+    "preco": 29.99,
+    "preco_anterior": 32.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2iVciEN",
+    "atualizado_em": "2026-09-21T09:12:07.246-03:00"
+  },
+  {
     "id": "shopee:1393510332.20499840117",
     "titulo": "Barraca Infantil Menina Tenda Minha Casinha",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2b8ko2fn0217",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qUiRufCfA",
     "atualizado_em": "2026-09-20T09:13:03.220-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28463775",
-    "titulo": "Brinquedo Educativo Pica Pau Baby Toys Set Didático Encaixe 19 Peças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874707-MLA98409763554_112025-F.jpg",
-    "preco": 36.41,
-    "preco_anterior": 56.5,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MBhnxo",
-    "atualizado_em": "2026-09-20T09:07:58.613-03:00"
   }
 ]
