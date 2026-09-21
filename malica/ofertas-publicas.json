@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1452530060.19299611725",
+    "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
+    "preco": 19.99,
+    "preco_anterior": 39.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9AOoAkev02",
+    "atualizado_em": "2026-09-21T17:15:32.890-03:00"
+  },
+  {
     "id": "shopee:893488979.26943820562",
     "titulo": "Escova de Mamadeira Limpeza Bico de Bebe recém nascido menina e menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mslh3cpoaeis2e",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gBIll6FSo",
     "atualizado_em": "2026-09-20T17:16:59.709-03:00"
-  },
-  {
-    "id": "amazon:B0FGXQTFJV",
-    "titulo": "Oferta: Portão de Segurança Retrátil para Bebês e Pets, 86 cm x 3 m, Tela PVC, cinza",
-    "imagem": "https://m.media-amazon.com/images/I/71LU7hu2XwL._AC_SL1500_.jpg",
-    "preco": 189,
-    "preco_anterior": 259,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FGXQTFJV?tag=malica09-20",
-    "atualizado_em": "2026-09-20T17:11:53.706-03:00"
   }
 ]
