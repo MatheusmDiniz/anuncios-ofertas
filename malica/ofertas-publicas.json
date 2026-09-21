@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1045085918.58205879273",
+    "titulo": "Kit 2 Protetor Solar Carro Buba Ventosa Protege Sol",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260z-ml6fhqm0035t0a",
+    "preco": 15.79,
+    "preco_anterior": 24.67,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/LnPZeowWf",
+    "atualizado_em": "2026-09-21T16:39:27.241-03:00"
+  },
+  {
     "id": "shopee:1112204909.58214582936",
     "titulo": "Helicóptero Voador Controle Remoto Sensor Recarregável Brinquedo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mqub0rm4c8w224",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=malica09-20",
     "atualizado_em": "2026-09-20T16:41:17.617-03:00"
-  },
-  {
-    "id": "shopee:287082132.27580831879",
-    "titulo": "Colchão Para Berço Desmontável Chiqueirinho Cercadinho Capa Removível 90x60x07cm Macio",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg841a0agnb4ed",
-    "preco": 57.9,
-    "preco_anterior": 89.08,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/80CobQCGJw",
-    "atualizado_em": "2026-09-20T16:36:08.992-03:00"
   }
 ]
