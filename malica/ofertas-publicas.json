@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38429203",
+    "titulo": "Mustela Refil Gel Lavante Suave Com Abacate Orgânico 400ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665621-MLA108909941042_032026-F.jpg",
+    "preco": 45.79,
+    "preco_anterior": 57.62,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BV8UjF",
+    "atualizado_em": "2026-09-21T14:00:07.279-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875937",
     "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H56K2L78?tag=malica09-20",
     "atualizado_em": "2026-09-20T14:04:51.395-03:00"
-  },
-  {
-    "id": "amazon:B0B7S2TPHF",
-    "titulo": "Burigotto Banheira Oplà, Polar",
-    "imagem": "https://m.media-amazon.com/images/I/41fJRTK7KoL._AC_SL1500_.jpg",
-    "preco": 189,
-    "preco_anterior": 259,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B7S2TPHF?tag=malica09-20",
-    "atualizado_em": "2026-09-20T13:59:46.618-03:00"
   }
 ]
