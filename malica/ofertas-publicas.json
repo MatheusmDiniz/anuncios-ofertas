@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25972870",
+    "titulo": "MAMADEIRA PETALA PHILIPS AVENT 260ML AZUL SCY903/21",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798265-MLA99950086767_112025-F.jpg",
+    "preco": 59.75,
+    "preco_anterior": 100.84,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1zKKVur",
+    "atualizado_em": "2026-09-21T13:29:11.317-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34078818",
     "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07QQD88BG?tag=malica09-20",
     "atualizado_em": "2026-09-20T13:34:10.147-03:00"
-  },
-  {
-    "id": "amazon:B0DN4G614Z",
-    "titulo": "Canetas Brush Pen 80 Cores Ponta Dupla Fina e Pincel Base Água | Ponta fina 0,4mm e pincel 1–2mm, para colorir, desenhar, ilustrar, lettering e papelaria criativa",
-    "imagem": "https://m.media-amazon.com/images/I/71njtqCbQoL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": 101,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DN4G614Z?tag=malica09-20",
-    "atualizado_em": "2026-09-20T13:29:03.131-03:00"
   }
 ]
