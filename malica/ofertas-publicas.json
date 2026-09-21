@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1633765168.23899438927",
+    "titulo": "Kit 5 Camisetas Infantil Menina Algodão Básicas Lisas Coloridas Confortáveis Delicadas e Versáteis",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnmp7ise8zk4a6",
+    "preco": 49.9,
+    "preco_anterior": 99.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3B7aRF9DS5",
+    "atualizado_em": "2026-09-21T09:58:04.713-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27145476",
     "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGY0YQ116",
     "atualizado_em": "2026-09-20T09:58:57.418-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69331466",
-    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
-    "preco": 899.99,
-    "preco_anterior": 1699.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bC1ui2",
-    "atualizado_em": "2026-09-20T09:53:52.420-03:00"
   }
 ]
