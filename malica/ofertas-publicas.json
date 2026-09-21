@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397534",
+    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
+    "preco": 67.07,
+    "preco_anterior": 100.24,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Yvt5Vw",
+    "atualizado_em": "2026-09-21T14:15:32.192-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392841",
     "titulo": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_753827-MLA80015367155_102024-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1nLmEEc",
     "atualizado_em": "2026-09-20T14:20:14.169-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875637",
-    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 16.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2j8Abfk",
-    "atualizado_em": "2026-09-20T14:15:05.461-03:00"
   }
 ]
