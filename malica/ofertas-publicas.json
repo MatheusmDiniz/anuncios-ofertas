@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875937",
+    "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
+    "preco": 23.41,
+    "preco_anterior": 34.49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/12NvazT",
+    "atualizado_em": "2026-09-21T13:54:58.539-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392643",
     "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B7S2TPHF?tag=malica09-20",
     "atualizado_em": "2026-09-20T13:59:46.618-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50571754",
-    "titulo": "Colônia Seiva de Alfazema Lavanda Extra, 118 mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837530-MLA99798267087_112025-F.jpg",
-    "preco": 24.9,
-    "preco_anterior": 42.12,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1NjCC1D",
-    "atualizado_em": "2026-09-20T13:54:40.173-03:00"
   }
 ]
