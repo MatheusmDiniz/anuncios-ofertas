@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1624354211.58259642577",
+    "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
+    "preco": 18.5,
+    "preco_anterior": 45.12,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9KiDqy3OCU",
+    "atualizado_em": "2026-09-21T10:08:17.559-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24689526",
     "titulo": "Protetor De Tomada Anti Choque P/ Crianças Pacote Com 20 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_684091-MLA100076543741_122025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W6nfhH8Dx",
     "atualizado_em": "2026-09-20T10:09:11.327-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18626757",
-    "titulo": "Triciclo Infantil Cardoso Totokinha Ariel Azul 1-3 Anos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_865500-MLA99942056617_112025-F.jpg",
-    "preco": 65.45,
-    "preco_anterior": 176,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/254zUvS",
-    "atualizado_em": "2026-09-20T10:04:05.618-03:00"
   }
 ]
