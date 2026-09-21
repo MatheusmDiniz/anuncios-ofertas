@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25603083",
+    "titulo": "Brinquedo Centopeia de Atividades Encaixa E Puxa Fisher Price 8350",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838837-MLA99998725363_112025-F.jpg",
+    "preco": 47.9,
+    "preco_anterior": 79.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1nTzPvA",
+    "atualizado_em": "2026-09-21T10:59:33.416-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44196987",
     "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1HcG1eP",
     "atualizado_em": "2026-09-20T11:00:22.161-03:00"
-  },
-  {
-    "id": "amazon:B093GBK61Q",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71ncta4HE2L._AC_SL1500_.jpg",
-    "preco": 45.56,
-    "preco_anterior": 50.29,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=malica09-20",
-    "atualizado_em": "2026-09-20T10:55:12.712-03:00"
   }
 ]
