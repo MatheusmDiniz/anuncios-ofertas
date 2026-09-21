@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34078818",
+    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
+    "preco": 22,
+    "preco_anterior": 37.2,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Krfvgn",
+    "atualizado_em": "2026-09-21T13:24:01.235-03:00"
+  },
+  {
     "id": "shopee:575397523.51106656675",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DN4G614Z?tag=malica09-20",
     "atualizado_em": "2026-09-20T13:29:03.131-03:00"
-  },
-  {
-    "id": "amazon:B0FCRJW9HQ",
-    "titulo": "Boia Salva-Vidas Colete Infantil, Não Fura, Segurança para Praia e Piscina, Ajustável para Crianças de 1 Ano (ou 8kg) até 25kg",
-    "imagem": "https://m.media-amazon.com/images/I/61wO5IbkbDL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FCRJW9HQ?tag=malica09-20",
-    "atualizado_em": "2026-09-20T13:23:55.712-03:00"
   }
 ]
