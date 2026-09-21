@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18715372",
+    "titulo": "Fralda Descartável Pom Pom Proteção de Mãe XG com 38 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749805-MLA99439515898_112025-F.jpg",
+    "preco": 36,
+    "preco_anterior": 50.3,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NtLWbo",
+    "atualizado_em": "2026-09-21T14:36:04.917-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23581207",
     "titulo": "Banheira Plástica Acqua Trio Branca Galzerano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706338-MLA113145908796_072026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C5F2T4Q2?tag=malica09-20",
     "atualizado_em": "2026-09-20T14:40:40.122-03:00"
-  },
-  {
-    "id": "shopee:1777221519.58210846395",
-    "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
-    "preco": 35.67,
-    "preco_anterior": 51.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/905LnCaTAe",
-    "atualizado_em": "2026-09-20T14:35:33.906-03:00"
   }
 ]
