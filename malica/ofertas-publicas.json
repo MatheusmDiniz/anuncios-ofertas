@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27145476",
+    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 27.23,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mUFvwo",
+    "atualizado_em": "2026-09-21T09:52:59.326-03:00"
+  },
+  {
     "id": "shopee:379507619.9879082764",
     "titulo": "Kit 12 Pares de Meias Menina Recém Nascidos e Bebê com Antiderrapante Feminina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mqnp4ngjk74395",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bC1ui2",
     "atualizado_em": "2026-09-20T09:53:52.420-03:00"
-  },
-  {
-    "id": "shopee:1478327279.58208858765",
-    "titulo": "Galocha Infantil Feminina Impermeável Leve Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mt4bqwsffnk75c",
-    "preco": 37.9,
-    "preco_anterior": 118.44,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60RkDn5KNG",
-    "atualizado_em": "2026-09-20T09:48:44.780-03:00"
   }
 ]
