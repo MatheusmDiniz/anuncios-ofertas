@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:399621856.23992794977",
+    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
+    "preco": 31.59,
+    "preco_anterior": 45.13,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1AX4f8jQl",
+    "atualizado_em": "2026-09-21T12:01:24.165-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44117936",
     "titulo": "Funko Pop - Racing - Ayrton Senna 11",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_611541-MLA99931609275_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kcZvHR",
     "atualizado_em": "2026-09-20T12:01:56.943-03:00"
-  },
-  {
-    "id": "amazon:B0CGY62F23",
-    "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61lSWTBB1NL._AC_SL1500_.jpg",
-    "preco": 36.49,
-    "preco_anterior": 46.7,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
-    "atualizado_em": "2026-09-20T11:56:49.378-03:00"
   }
 ]
