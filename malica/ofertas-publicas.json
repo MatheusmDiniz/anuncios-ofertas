@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27672036",
+    "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
+    "preco": 24.49,
+    "preco_anterior": 47.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2chmi3v",
+    "atualizado_em": "2026-09-21T15:53:17.545-03:00"
+  },
+  {
     "id": "shopee:589142248.22194576869",
     "titulo": "Brinquedo Montessori para crianças 2 em 1, labirinto magnético de madeira para colorir e números com prancheta, classifi",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5xd0gq08ao98",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FMYW5RBW?tag=malica09-20",
     "atualizado_em": "2026-09-20T15:55:15.171-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17336102",
-    "titulo": "Fralda Huggies Rápida Absorção M - 92 unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_625506-MLA96889901808_112025-F.jpg",
-    "preco": 67.9,
-    "preco_anterior": 74.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1rfT9hS",
-    "atualizado_em": "2026-09-20T15:50:10.514-03:00"
   }
 ]
