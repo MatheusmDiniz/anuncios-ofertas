@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23581207",
+    "titulo": "Banheira Plástica Acqua Trio Branca Galzerano",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706338-MLA113145908796_072026-F.jpg",
+    "preco": 205.9,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2VRZmh8",
+    "atualizado_em": "2026-09-21T14:30:56.072-03:00"
+  },
+  {
     "id": "shopee:1365993167.58209968589",
     "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/905LnCaTAe",
     "atualizado_em": "2026-09-20T14:35:33.906-03:00"
-  },
-  {
-    "id": "amazon:B01N7W4YLV",
-    "titulo": "Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
-    "imagem": "https://m.media-amazon.com/images/I/51bPkgUfURL._AC_SL1500_.jpg",
-    "preco": 57.9,
-    "preco_anterior": 79.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=malica09-20",
-    "atualizado_em": "2026-09-20T14:30:28.771-03:00"
   }
 ]
