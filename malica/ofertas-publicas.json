@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJ17HPF2",
+    "titulo": "LEGO Animal Crossing Admirando estrelas com Celeste 77053 (78 Peças)",
+    "imagem": "https://m.media-amazon.com/images/I/81g3ehi8q1L._AC_SL1500_.jpg",
+    "preco": 97,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJ17HPF2?tag=malica09-20",
+    "atualizado_em": "2026-09-22T16:42:01.848-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17933512",
     "titulo": "Cereal Neston 3 Cereais Nestlé Multicereais para Vitaminas 600 g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_828436-MLA99439720320_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qjgAaDIhj",
     "atualizado_em": "2026-09-21T16:44:33.128-03:00"
-  },
-  {
-    "id": "shopee:1045085918.58205879273",
-    "titulo": "Kit 2 Protetor Solar Carro Buba Ventosa Protege Sol",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260z-ml6fhqm0035t0a",
-    "preco": 15.79,
-    "preco_anterior": 24.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/LnPZeowWf",
-    "atualizado_em": "2026-09-21T16:39:27.241-03:00"
   }
 ]
