@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26816126",
+    "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
+    "preco": 18.48,
+    "preco_anterior": 31.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dDis3R",
+    "atualizado_em": "2026-09-22T09:18:37.903-03:00"
+  },
+  {
     "id": "shopee:1146454576.58215376863",
     "titulo": "Conjunto Body Bebe Menina com Calca Tiara e Sapatinho do Tema Ovelhinha",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-mrbx59ga6j2d42",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xXuLrP",
     "atualizado_em": "2026-09-21T09:22:20.903-03:00"
-  },
-  {
-    "id": "shopee:281898655.42514418718",
-    "titulo": "Jogo Stop Em Português Tecla Letras Palavras Responda Rápido Com Temporizador De Mesa 10 Segundos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mmtppsr1xu6a1d",
-    "preco": 39.89,
-    "preco_anterior": 110.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9peUNSxm45",
-    "atualizado_em": "2026-09-21T09:17:12.577-03:00"
   }
 ]
