@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H5FLS644",
+    "titulo": "Conjunto de calça de body de 2 peças 2-piece Bodysuit Pant Set Carter",
+    "imagem": "https://m.media-amazon.com/images/I/7187gfeY8xL._AC_SL1500_.jpg",
+    "preco": 114,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H5FLS644?tag=malica09-20",
+    "atualizado_em": "2026-09-22T19:17:39.166-03:00"
+  },
+  {
     "id": "amazon:B07GNTGLDK",
     "titulo": "Fralda Cremer Jumbo Grandinhos 14 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71EYP++bCqL._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2zRqr4Z",
     "atualizado_em": "2026-09-21T19:21:53.315-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24208936",
-    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-    "preco": 38.65,
-    "preco_anterior": 62.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2q4b5HH",
-    "atualizado_em": "2026-09-21T19:16:41.843-03:00"
   }
 ]
