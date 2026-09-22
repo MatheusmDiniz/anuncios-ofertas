@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B3S9QWQY",
+    "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
+    "atualizado_em": "2026-09-22T15:00:02.868-03:00"
+  },
+  {
     "id": "amazon:B07XRPT1P4",
     "titulo": "Babysec Fralda Premium M 32 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/512mbN+Sq+L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1RH5oJU",
     "atualizado_em": "2026-09-21T15:01:55.367-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47743053",
-    "titulo": "Escova De Dente Mordedor Primeiro Dentinhos 0 A 2 Anos Buba Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915524-MLA99907110867_112025-F.jpg",
-    "preco": 9.63,
-    "preco_anterior": 11.49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32DaJwm",
-    "atualizado_em": "2026-09-21T14:56:44.282-03:00"
   }
 ]
