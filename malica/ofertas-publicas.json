@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20611931",
+    "titulo": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
+    "preco": 85.9,
+    "preco_anterior": 129.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gfkcGb",
+    "atualizado_em": "2026-09-22T11:42:14.153-03:00"
+  },
+  {
     "id": "amazon:B0BKLNG66P",
     "titulo": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
     "imagem": "https://m.media-amazon.com/images/I/81zBDScUUWL._AC_SL1500_.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1zgAYso",
     "atualizado_em": "2026-09-21T11:45:58.669-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB51240172",
-    "titulo": "Boneco Stitch Banho Divertido - Disney Cotiplás 2905",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
-    "preco": 58.11,
-    "preco_anterior": 103.54,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fcnWdW",
-    "atualizado_em": "2026-09-21T11:40:49.134-03:00"
   }
 ]
