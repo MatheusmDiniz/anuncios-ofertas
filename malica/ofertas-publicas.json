@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09TF36S57",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71gXxei8HqL._AC_SL1500_.jpg",
+    "preco": 151,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=malica09-20",
+    "atualizado_em": "2026-09-22T11:26:47.745-03:00"
+  },
+  {
     "id": "shopee:1630828144.58204284882",
     "titulo": "Organizador de brinquedos saco organizador de banho para escorrer água de brinquedos de tecido",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk28k1obyn0i2e",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32opZnB",
     "atualizado_em": "2026-09-21T11:30:20.943-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22918403",
-    "titulo": "Chupeta Soothie 0-3m Scf099/03 Philips Avent",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703787-MLA99451951336_112025-F.jpg",
-    "preco": 39.97,
-    "preco_anterior": 68.61,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Psw939",
-    "atualizado_em": "2026-09-21T11:25:12.816-03:00"
   }
 ]
