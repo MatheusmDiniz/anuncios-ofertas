@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26981196",
+    "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
+    "preco": 71.5,
+    "preco_anterior": 129.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2CfRhYg",
+    "atualizado_em": "2026-09-22T10:09:46.425-03:00"
+  },
+  {
     "id": "shopee:935616631.19899200549",
     "titulo": "Grade Portão de Proteção Pet Cachorro Cães Crianças Bebes 69cm A 84 Cm Promoção Envio Imediato",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztr-mks11jmuap6o4d",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ZSvfs3",
     "atualizado_em": "2026-09-21T10:13:24.530-03:00"
-  },
-  {
-    "id": "shopee:1624354211.58259642577",
-    "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
-    "preco": 18.5,
-    "preco_anterior": 45.12,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9KiDqy3OCU",
-    "atualizado_em": "2026-09-21T10:08:17.559-03:00"
   }
 ]
