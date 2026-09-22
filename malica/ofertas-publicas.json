@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27375861",
+    "titulo": "Kit Escovas Mamadeiras De Bico E Canudos Azul 7290 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_909813-MLA100091967111_122025-F.jpg",
+    "preco": 26.26,
+    "preco_anterior": 51.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2eiSAuj",
+    "atualizado_em": "2026-09-22T18:52:08.532-03:00"
+  },
+  {
     "id": "amazon:B0CQTNGCF9",
     "titulo": "Play-Doh, Massinha de Modelar Infantil, Smoothies Coloridos - Conjunto de Brinquedo com Liquidificador de Brinquedo, Acessórios e 5 Potes - A partir de 3 Anos",
     "imagem": "https://m.media-amazon.com/images/I/71HyVqL3MRL._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qcDMQ9Ufx",
     "atualizado_em": "2026-09-21T18:56:11.474-03:00"
-  },
-  {
-    "id": "shopee:1274541243.22593508855",
-    "titulo": "Bola Mágica Disco Voador Brinquedo Ao Ar Livre Bola Maluca",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7reqj-m22mx4w5f9j41e",
-    "preco": 23.88,
-    "preco_anterior": 36.74,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1LfwlUKjnI",
-    "atualizado_em": "2026-09-21T18:51:05.563-03:00"
   }
 ]
