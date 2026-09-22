@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BJ7ZDKR7",
+    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses",
+    "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
+    "preco": 112,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BJ7ZDKR7?tag=malica09-20",
+    "atualizado_em": "2026-09-22T14:18:57.391-03:00"
+  },
+  {
     "id": "amazon:B07YVNBQ6Z",
     "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
     "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ibWYA9",
     "atualizado_em": "2026-09-21T14:20:40.508-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397534",
-    "titulo": "Mustela Creme Preventivo Vitaminado de Assaduras 1>2>3 108g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857356-MLA99444649856_112025-F.jpg",
-    "preco": 67.07,
-    "preco_anterior": 100.24,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Yvt5Vw",
-    "atualizado_em": "2026-09-21T14:15:32.192-03:00"
   }
 ]
