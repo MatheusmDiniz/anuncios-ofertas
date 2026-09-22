@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFQJQGPL",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXXG,108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/718R8GtN1dL._AC_SL1500_.jpg",
+    "preco": 187,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=malica09-20",
+    "atualizado_em": "2026-09-22T11:57:48.484-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB33294420",
     "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1AX4f8jQl",
     "atualizado_em": "2026-09-21T12:01:24.165-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44117936",
-    "titulo": "Funko Pop - Racing - Ayrton Senna 11",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611541-MLA99931609275_112025-F.jpg",
-    "preco": 131.15,
-    "preco_anterior": 149.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Dbbhm7",
-    "atualizado_em": "2026-09-21T11:56:18.553-03:00"
   }
 ]
