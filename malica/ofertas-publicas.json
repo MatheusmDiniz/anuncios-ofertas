@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:967746038.23298976362",
+    "titulo": "Kit 3 Pares Rosquinhas de Amamentação Protetor 100% Algodão Macio 6 - Unidades",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
+    "preco": 19.49,
+    "preco_anterior": 29.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8plymfFqVW",
+    "atualizado_em": "2026-09-22T09:54:25.423-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875756",
     "titulo": "Sabonete Líquido De Glicerina Da Cabeça Aos Pés Com Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B7aRF9DS5",
     "atualizado_em": "2026-09-21T09:58:04.713-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27145476",
-    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
-    "preco": 15.99,
-    "preco_anterior": 27.23,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mUFvwo",
-    "atualizado_em": "2026-09-21T09:52:59.326-03:00"
   }
 ]
