@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555474629",
+    "titulo": "Oferta: Meu Primeiro Livro - Vogais",
+    "imagem": "https://m.media-amazon.com/images/I/71eSkRgGJGL._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555474629?tag=malica09-20",
+    "atualizado_em": "2026-09-22T15:05:11.607-03:00"
+  },
+  {
     "id": "amazon:B0B3S9QWQY",
     "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
     "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2RGiPDf",
     "atualizado_em": "2026-09-21T15:07:07.941-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392651",
-    "titulo": "Fralda Descartável Turma da Mônica Baby XG Pacote 42 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908623-MLA111032843377_042026-F.jpg",
-    "preco": 35.9,
-    "preco_anterior": 50.05,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1RH5oJU",
-    "atualizado_em": "2026-09-21T15:01:55.367-03:00"
   }
 ]
