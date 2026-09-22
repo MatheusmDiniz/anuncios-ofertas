@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B072BXQK4X",
+    "titulo": "Shampoo e Sabonete de Laranja para Crianças | 2 em 1| Fragrância Natural com Óleo de Gergelim | 150ml",
+    "imagem": "https://m.media-amazon.com/images/I/61BsSI+c1BL._AC_SL1500_.jpg",
+    "preco": 59,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B072BXQK4X?tag=malica09-20",
+    "atualizado_em": "2026-09-22T14:29:11.946-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44604901",
     "titulo": "Boneco Funko Pop! Harry Potter de Vinil Colecionável-01",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_945719-MLA99463645862_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2VRZmh8",
     "atualizado_em": "2026-09-21T14:30:56.072-03:00"
-  },
-  {
-    "id": "shopee:1365993167.58209968589",
-    "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
-    "preco": 19.9,
-    "preco_anterior": 29.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AKajNeVOSm",
-    "atualizado_em": "2026-09-21T14:25:47.117-03:00"
   }
 ]
