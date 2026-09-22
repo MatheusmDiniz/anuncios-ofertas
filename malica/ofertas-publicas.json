@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07LF7C7YL",
+    "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
+    "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
+    "preco": 55.53,
+    "preco_anterior": 87.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=malica09-20",
+    "atualizado_em": "2026-09-22T13:43:11.305-03:00"
+  },
+  {
     "id": "amazon:B07X4GWDZY",
     "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32GEWzd",
     "atualizado_em": "2026-09-21T13:44:37.831-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19466939",
-    "titulo": "Cereal neston 3 cereais 360g Nestlé",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602906-MLU78432990521_082024-F.jpg",
-    "preco": 19.71,
-    "preco_anterior": 21.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2U7NUHu",
-    "atualizado_em": "2026-09-21T13:39:28.583-03:00"
   }
 ]
