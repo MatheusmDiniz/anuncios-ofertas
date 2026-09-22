@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BJ7ZTCH6",
+    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
+    "preco": 117,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
+    "atualizado_em": "2026-09-22T15:20:31.374-03:00"
+  },
+  {
     "id": "amazon:B0CPN2L6MQ",
     "titulo": "Oferta: Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
     "imagem": "https://m.media-amazon.com/images/I/61-uEvSBG0L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XgURRt",
     "atualizado_em": "2026-09-21T15:22:32.599-03:00"
-  },
-  {
-    "id": "shopee:341167297.20599551957",
-    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
-    "preco": 55.9,
-    "preco_anterior": 99.82,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6q0rDDIO7O",
-    "atualizado_em": "2026-09-21T15:17:23.187-03:00"
   }
 ]
