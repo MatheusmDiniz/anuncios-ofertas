@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXJHXDP",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+    "imagem": "https://m.media-amazon.com/images/I/81kCJKbN01L._AC_SL1500_.jpg",
+    "preco": 166,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=malica09-20",
+    "atualizado_em": "2026-09-22T12:05:31.165-03:00"
+  },
+  {
     "id": "shopee:396723953.40026562019",
     "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2khifsH",
     "atualizado_em": "2026-09-21T12:06:33.910-03:00"
-  },
-  {
-    "id": "shopee:399621856.23992794977",
-    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
-    "preco": 31.59,
-    "preco_anterior": 45.13,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1AX4f8jQl",
-    "atualizado_em": "2026-09-21T12:01:24.165-03:00"
   }
 ]
