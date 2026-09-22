@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29765788",
+    "titulo": "Colônia Infantil Baruel Baby Sono Tranquilo 120ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968895-MLA113215874062_072026-F.jpg",
+    "preco": 8.35,
+    "preco_anterior": 14.85,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2yXFWmw",
+    "atualizado_em": "2026-09-22T11:31:56.742-03:00"
+  },
+  {
     "id": "amazon:B09TF36S57",
     "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71gXxei8HqL._AC_SL1500_.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/17mw33i",
     "atualizado_em": "2026-09-21T11:35:36.677-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20969462",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa Cgn63 Quantidade de peças 4",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
-    "preco": 85.99,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32opZnB",
-    "atualizado_em": "2026-09-21T11:30:20.943-03:00"
   }
 ]
