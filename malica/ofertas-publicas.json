@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z5B115H",
+    "titulo": "Likluc Xô Febre - compressas refrescantes para alivio da febre, Azul Oceano, Tamanho Único",
+    "imagem": "https://m.media-amazon.com/images/I/71EMAbb3YKL._AC_SL1500_.jpg",
+    "preco": 35.98,
+    "preco_anterior": 42.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z5B115H?tag=malica09-20",
+    "atualizado_em": "2026-09-22T19:58:37.220-03:00"
+  },
+  {
     "id": "amazon:B0H6QSWK96",
     "titulo": "Kit Banheira Plastibaby 4 Peças com Organizador (Rosa Perolado)",
     "imagem": "https://m.media-amazon.com/images/I/51o1S2-rM3L._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnPjfxbee",
     "atualizado_em": "2026-09-21T20:02:49.480-03:00"
-  },
-  {
-    "id": "shopee:430146238.18299092908",
-    "titulo": "Kit 24 pulseiras lindas infantis de miçanga",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-loh0ntsxax7t1d",
-    "preco": 19.97,
-    "preco_anterior": 39.94,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fL4gnK9BU",
-    "atualizado_em": "2026-09-21T19:57:44.094-03:00"
   }
 ]
