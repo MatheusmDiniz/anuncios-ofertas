@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G73SVBYF",
+    "titulo": "Bichinho Para Banho Fundo Do Mar Oceano Infantil Bebê",
+    "imagem": "https://m.media-amazon.com/images/I/61z4rk-KluL._AC_SL1500_.jpg",
+    "preco": 40.41,
+    "preco_anterior": 44.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G73SVBYF?tag=malica09-20",
+    "atualizado_em": "2026-09-22T19:38:09.175-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VVVyLxrPa",
     "atualizado_em": "2026-09-21T19:42:25.041-03:00"
-  },
-  {
-    "id": "shopee:1384480317.20399545613",
-    "titulo": "Mochila Escolar Infantil Menino Menina Dinossauro",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnued4mo8w0257",
-    "preco": 27.99,
-    "preco_anterior": 45.89,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VVVyL2fFY",
-    "atualizado_em": "2026-09-21T19:37:20.147-03:00"
   }
 ]
