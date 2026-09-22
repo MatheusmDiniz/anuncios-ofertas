@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:256178443.43827654367",
+    "titulo": "KIT Anéis Infantil Sortidos Ajustáveis Menina Anel  para Criança Modelos Divertidos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivps325puki8d",
+    "preco": 9.2,
+    "preco_anterior": 21.4,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3g3rXlgzMe",
+    "atualizado_em": "2026-09-22T09:23:43.310-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26816126",
     "titulo": "Massageador Mordedor De Gengiva Banana Bebê Buba Cor Amarelo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742940-MLA116173555770_092026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnP412bHS",
     "atualizado_em": "2026-09-21T09:27:25.773-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876092",
-    "titulo": "Sabonete Líquido De Glicerina Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
-    "preco": 28.74,
-    "preco_anterior": 41.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xXuLrP",
-    "atualizado_em": "2026-09-21T09:22:20.903-03:00"
   }
 ]
