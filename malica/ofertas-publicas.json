@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0HKBR2RD2",
+    "titulo": "Kit Cuidado Higiene Completo Infantil Bebê Crianças Minizen",
+    "imagem": "https://m.media-amazon.com/images/I/51Tw+HTOTDL._AC_SL1500_.jpg",
+    "preco": 119.9,
+    "preco_anterior": 149.88,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0HKBR2RD2?tag=malica09-20",
+    "atualizado_em": "2026-09-22T12:51:47.177-03:00"
+  },
+  {
     "id": "amazon:B07DHRS6RN",
     "titulo": "Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51ZGkcF+raL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2CNXtvV",
     "atualizado_em": "2026-09-21T12:53:06.320-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34115521",
-    "titulo": "Chocalho e Mordedor Minnie Mouse Rattle Rosa Disney Meninas Bebê Elka",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827862-MLA99358289636_112025-F.jpg",
-    "preco": 18.24,
-    "preco_anterior": 33.96,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1CfhZdx",
-    "atualizado_em": "2026-09-21T12:47:56.468-03:00"
   }
 ]
