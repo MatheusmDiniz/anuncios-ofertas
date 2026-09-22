@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19835052",
+    "titulo": "Toalha Umedecida Meu Bebê Ultra 1x50 Folhas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677768-MLA99423570880_112025-F.jpg",
+    "preco": 12.99,
+    "preco_anterior": 24.3,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/21w4XE8",
+    "atualizado_em": "2026-09-22T12:20:55.300-03:00"
+  },
+  {
     "id": "amazon:B0H5BXQ86H",
     "titulo": "Brinquedos Montessori – Trem Elétrico 3D de 128 Peças para Construção e Blocos, Jogo de Blocos de Montar e Criatividade para Crianças de 3+ Anos",
     "imagem": "https://m.media-amazon.com/images/I/71fNEc60X2L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/317psw4",
     "atualizado_em": "2026-09-21T12:21:57.764-03:00"
-  },
-  {
-    "id": "shopee:341167297.20698276094",
-    "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
-    "preco": 29.9,
-    "preco_anterior": 69.53,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6AlAPzKvTC",
-    "atualizado_em": "2026-09-21T12:16:49.644-03:00"
   }
 ]
