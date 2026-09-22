@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876024",
+    "titulo": "Sabonete Líquido Hora Do Sono 200ml Baby Johnson's",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673875-MLA99831791045_112025-F.jpg",
+    "preco": 13.99,
+    "preco_anterior": 26.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/18azKf2",
+    "atualizado_em": "2026-09-22T08:53:50.771-03:00"
+  },
+  {
     "id": "shopee:410705973.7183482061",
     "titulo": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção  JorgeStore",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbk7-lnu5cle2rcg8ea",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnP3zh8w9",
     "atualizado_em": "2026-09-21T08:56:43.946-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47797382",
-    "titulo": "Triciclo Com Empurrador Conforto E Segurança Bebê 3 Em 1 Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772685-MLA114732370305_072026-F.jpg",
-    "preco": 172.14,
-    "preco_anterior": 302,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kNYDe4",
-    "atualizado_em": "2026-09-21T08:51:38.843-03:00"
   }
 ]
