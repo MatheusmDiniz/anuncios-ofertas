@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BKLNG66P",
+    "titulo": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81zBDScUUWL._AC_SL1500_.jpg",
+    "preco": 79,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=malica09-20",
+    "atualizado_em": "2026-09-22T11:37:04.934-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29765788",
     "titulo": "Colônia Infantil Baruel Baby Sono Tranquilo 120ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_968895-MLA113215874062_072026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fcnWdW",
     "atualizado_em": "2026-09-21T11:40:49.134-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42418820",
-    "titulo": "Aquecedor De Mamadeira Baby Usb Térmico Infantil Leite Materno Bebê Portátil Com Regulagem Temperatura 3 Niveis Para Manter Aquecido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_773471-MLA99561428486_122025-F.jpg",
-    "preco": 36.7,
-    "preco_anterior": 134.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/17mw33i",
-    "atualizado_em": "2026-09-21T11:35:36.677-03:00"
   }
 ]
