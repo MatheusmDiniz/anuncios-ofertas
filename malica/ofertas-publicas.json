@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GQ136TS",
+    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
+    "atualizado_em": "2026-09-22T11:47:24.148-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20611931",
     "titulo": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1tiDFHn",
     "atualizado_em": "2026-09-21T11:51:08.429-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24762578",
-    "titulo": "Assento Redutor Infantil Com Escada Para Vaso Sanitário",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932110-MLA104013585861_012026-F.jpg",
-    "preco": 59.9,
-    "preco_anterior": 124.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1zgAYso",
-    "atualizado_em": "2026-09-21T11:45:58.669-03:00"
   }
 ]
