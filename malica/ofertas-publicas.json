@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MRDV6Q7",
+    "titulo": "Body 5-pack Long-sleeve Bodysuit Carter",
+    "imagem": "https://m.media-amazon.com/images/I/91nmQXUt9SL._AC_SL1500_.jpg",
+    "preco": 156,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MRDV6Q7?tag=malica09-20",
+    "atualizado_em": "2026-09-22T19:27:51.977-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26200003",
     "titulo": "Kit 6 Patinhos De Banho Brinquedo Bebê Esguicha Água Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_739826-MLA99361242984_112025-F.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zxvKbLGvV",
     "atualizado_em": "2026-09-21T19:32:15.254-03:00"
-  },
-  {
-    "id": "shopee:341167297.22197391400",
-    "titulo": "Kit Sortido 10 Peças de Roupas Infantil Bebê Menina (5 Camisetas + 5 Shorts) Kit 5 Conjuntos Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mr4suhqemgp126",
-    "preco": 88.9,
-    "preco_anterior": 141.11,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9KiCBo8s39",
-    "atualizado_em": "2026-09-21T19:27:07.894-03:00"
   }
 ]
