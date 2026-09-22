@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26200003",
+    "titulo": "Kit 6 Patinhos De Banho Brinquedo Bebê Esguicha Água Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_739826-MLA99361242984_112025-F.jpg",
+    "preco": 22.14,
+    "preco_anterior": 36.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XpGQFA",
+    "atualizado_em": "2026-09-22T19:22:45.721-03:00"
+  },
+  {
     "id": "amazon:B0H5FLS644",
     "titulo": "Conjunto de calça de body de 2 peças 2-piece Bodysuit Pant Set Carter",
     "imagem": "https://m.media-amazon.com/images/I/7187gfeY8xL._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9KiCBo8s39",
     "atualizado_em": "2026-09-21T19:27:07.894-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB43498260",
-    "titulo": "Sabão em barra Natura Mamãe e Bebê de 25 g 6 u",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_688441-MLA99933314357_112025-F.jpg",
-    "preco": 23.94,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zRqr4Z",
-    "atualizado_em": "2026-09-21T19:21:53.315-03:00"
   }
 ]
