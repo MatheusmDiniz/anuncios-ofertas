@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GP7KDZRJ",
+    "titulo": "Tramontina Jogo de Panelas Veronese em Alumínio com Revestimento Cerâmico cor Bege 5 Peças.",
+    "imagem": "https://m.media-amazon.com/images/I/51-bj9rtB7L._AC_SL1500_.jpg",
+    "preco": 373.9,
+    "preco_anterior": 652.59,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GP7KDZRJ?tag=malica09-20",
+    "atualizado_em": "2026-09-22T17:33:29.823-03:00"
+  },
+  {
     "id": "amazon:B0H2G6W6L5",
     "titulo": "Oferta: Kit 2 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 200g - Bepantol Baby",
     "imagem": "https://m.media-amazon.com/images/I/61GzAiD3PML._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9peSmj6y2C",
     "atualizado_em": "2026-09-21T17:36:07.865-03:00"
-  },
-  {
-    "id": "shopee:341167297.52156184789",
-    "titulo": "Escolha Seu Macacão Bebe Menina Roupa Inverno Soft Peluciado Com Zíper Quentinho Confortável Panda, Ursinho, Florido L09",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mko8utap0t1d2b",
-    "preco": 29.9,
-    "preco_anterior": 69.53,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5fotp4n9wK",
-    "atualizado_em": "2026-09-21T17:31:00.739-03:00"
   }
 ]
