@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07YVNBQ6Z",
+    "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
+    "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
+    "preco": 184,
+    "preco_anterior": 238,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07YVNBQ6Z?tag=malica09-20",
+    "atualizado_em": "2026-09-22T14:13:47.059-03:00"
+  },
+  {
     "id": "amazon:B0D4F4VS9M",
     "titulo": "CHUPETA MAM ORIGINAL TRIO - EMBALAGEM BLISTER TRIPLA",
     "imagem": "https://m.media-amazon.com/images/I/51aMok8t0jL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Yvt5Vw",
     "atualizado_em": "2026-09-21T14:15:32.192-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392841",
-    "titulo": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753827-MLA80015367155_102024-F.jpg",
-    "preco": 29.99,
-    "preco_anterior": 39.23,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1N9F5E3",
-    "atualizado_em": "2026-09-21T14:10:23.654-03:00"
   }
 ]
