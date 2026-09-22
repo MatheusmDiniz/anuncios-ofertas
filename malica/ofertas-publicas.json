@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1574065889.22698734793",
+    "titulo": "Kit 3 Camiseta Gola Polo Para Menino Bebê 100% Algodão Infantil Na Promoção",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcapzc06jborc2",
+    "preco": 29,
+    "preco_anterior": 70.73,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50ZF89Z81C",
+    "atualizado_em": "2026-09-22T10:25:05.219-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19509698",
     "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2VrtmmyefL",
     "atualizado_em": "2026-09-21T10:28:43.331-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29878854",
-    "titulo": "Conjunto De Brinquedo Chelsea Piloto De Avião - Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904544-MLA99533926800_122025-F.jpg",
-    "preco": 104.99,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Ztsgta",
-    "atualizado_em": "2026-09-21T10:23:37.751-03:00"
   }
 ]
