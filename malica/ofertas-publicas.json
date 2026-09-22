@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44326248",
+    "titulo": "Filtro de Linha 5 tomadas Intelbras Preto EPE205 Bivolt",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905986-MLA99450018062_112025-F.jpg",
+    "preco": 31.32,
+    "preco_anterior": 67,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2pisWec",
+    "atualizado_em": "2026-09-22T15:55:29.626-03:00"
+  },
+  {
     "id": "amazon:B0CTD3QXV6",
     "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
     "imagem": "https://m.media-amazon.com/images/I/71SiuUhmYML._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4qFovqZlM9",
     "atualizado_em": "2026-09-21T15:58:23.415-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27672036",
-    "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
-    "preco": 24.49,
-    "preco_anterior": 47.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2chmi3v",
-    "atualizado_em": "2026-09-21T15:53:17.545-03:00"
   }
 ]
