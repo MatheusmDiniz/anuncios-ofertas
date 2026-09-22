@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY6WDHC",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
+    "preco": 189,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
+    "atualizado_em": "2026-09-22T12:36:14.686-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876062",
     "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1St5dja",
     "atualizado_em": "2026-09-21T12:37:29.675-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52130244",
-    "titulo": "Laptop Infantil Educativo Candide Minnie Bilíngue",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_813445-MLA99895279573_112025-F.jpg",
-    "preco": 66,
-    "preco_anterior": 75.19,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1gpPG51",
-    "atualizado_em": "2026-09-21T12:32:20.676-03:00"
   }
 ]
