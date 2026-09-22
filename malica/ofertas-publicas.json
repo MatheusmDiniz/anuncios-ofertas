@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0083F2XCW",
+    "titulo": "Oferta: Mega Bloks First Builders - Sacola 60 Peças - Números Dch55",
+    "imagem": "https://m.media-amazon.com/images/I/71SJc9rruvL._AC_SL1500_.jpg",
+    "preco": 84.9,
+    "preco_anterior": 129.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0083F2XCW?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:13:55.797-03:00"
+  },
+  {
     "id": "amazon:B08HDGKR5B",
     "titulo": "Pomada de Lanolina para Hidratação dos Mamilos Medela Purelan 2.0 - 37g, Medela, Incolor, 37G",
     "imagem": "https://m.media-amazon.com/images/I/71WGk8W2guL._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNFdhu8fB",
     "atualizado_em": "2026-09-21T20:18:09.235-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58264964287",
-    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
-    "preco": 47.89,
-    "preco_anterior": 95.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fwOylOmio",
-    "atualizado_em": "2026-09-21T20:13:02.139-03:00"
   }
 ]
