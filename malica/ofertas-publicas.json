@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08K4L37HD",
+    "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
+    "preco": 151,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
+    "atualizado_em": "2026-09-22T10:35:22.028-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40049965",
     "titulo": "Brinquedo Educativo Sensorial Colecione Encaixe MDF 16,5 cm 2-4 anos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_939155-MLA99584633068_122025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2yHV4QA",
     "atualizado_em": "2026-09-21T10:38:58.537-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65220062",
-    "titulo": "Veículo Patrulha Canina Liberty Resgate Sunny 4870",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_907505-MLA106705915942_022026-F.jpg",
-    "preco": 67,
-    "preco_anterior": 90.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RE4L7u",
-    "atualizado_em": "2026-09-21T10:33:51.181-03:00"
   }
 ]
