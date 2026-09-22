@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN7VP6M",
+    "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
+    "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
+    "preco": 1,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=malica09-20",
+    "atualizado_em": "2026-09-22T12:56:53.640-03:00"
+  },
+  {
     "id": "amazon:B0HKBR2RD2",
     "titulo": "Kit Cuidado Higiene Completo Infantil Bebê Crianças Minizen",
     "imagem": "https://m.media-amazon.com/images/I/51Tw+HTOTDL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1C78WCp",
     "atualizado_em": "2026-09-21T12:58:17.201-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875743",
-    "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
-    "preco": 15.09,
-    "preco_anterior": 21,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CNXtvV",
-    "atualizado_em": "2026-09-21T12:53:06.320-03:00"
   }
 ]
