@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB33294420",
+    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
+    "preco": 13.52,
+    "preco_anterior": 27.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Q4Wv1Y",
+    "atualizado_em": "2026-09-22T11:52:40.528-03:00"
+  },
+  {
     "id": "amazon:B07GQ136TS",
     "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Dbbhm7",
     "atualizado_em": "2026-09-21T11:56:18.553-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46639917",
-    "titulo": "Buba, Almofada De Banho Ursinho Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717266-MLA99496738952_112025-F.jpg",
-    "preco": 82.66,
-    "preco_anterior": 147.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1tiDFHn",
-    "atualizado_em": "2026-09-21T11:51:08.429-03:00"
   }
 ]
