@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875637",
+    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
+    "preco": 14.24,
+    "preco_anterior": 16.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2j8Abfk",
+    "atualizado_em": "2026-09-22T15:34:50.012-03:00"
+  },
+  {
     "id": "amazon:B0BJ7ZTCH6",
     "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fhR0ujLuQ",
     "atualizado_em": "2026-09-21T15:37:52.996-03:00"
-  },
-  {
-    "id": "shopee:434188453.23994339315",
-    "titulo": "Kit Conjunto de Saída de Maternidade Jardineira  Romper Casaquinho  Manta Luxo 3 Pecas Enxoval Tricô",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mqqbovv7az9c8e",
-    "preco": 78.99,
-    "preco_anterior": 179.52,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8plvatAm3y",
-    "atualizado_em": "2026-09-21T15:32:45.807-03:00"
   }
 ]
