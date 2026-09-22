@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07J2PCFB3",
+    "titulo": "Oferta: Sunny, Skye,1342, Pelúcia, 12",
+    "imagem": "https://m.media-amazon.com/images/I/51pI0bdl8AL._AC_SL1500_.jpg",
+    "preco": 78,
+    "preco_anterior": 129,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07J2PCFB3?tag=malica09-20",
+    "atualizado_em": "2026-09-22T17:12:55.132-03:00"
+  },
+  {
     "id": "amazon:B0DJ19VGDH",
     "titulo": "LEGO E MINECRAFT, ELES AMAM",
     "imagem": null,
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9AOoAkev02",
     "atualizado_em": "2026-09-21T17:15:32.890-03:00"
-  },
-  {
-    "id": "shopee:893488979.26943820562",
-    "titulo": "Escova de Mamadeira Limpeza Bico de Bebe recém nascido menina e menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mslh3cpoaeis2e",
-    "preco": 11.98,
-    "preco_anterior": 36.3,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7fa0NzK5nB",
-    "atualizado_em": "2026-09-21T17:10:24.701-03:00"
   }
 ]
