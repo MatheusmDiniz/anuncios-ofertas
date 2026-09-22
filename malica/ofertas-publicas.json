@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876060",
+    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby 200ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851803-MLA109484201294_042026-F.jpg",
+    "preco": 13.99,
+    "preco_anterior": 26.39,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1PTC89z",
+    "atualizado_em": "2026-09-22T18:21:24.975-03:00"
+  },
+  {
     "id": "shopee:391751753.58210250288",
     "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gImeUEvUu",
     "atualizado_em": "2026-09-21T18:25:27.987-03:00"
-  },
-  {
-    "id": "shopee:321115312.22392476232",
-    "titulo": "kit com 10 Calcinha infantil Kids",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
-    "preco": 20.9,
-    "preco_anterior": 40.19,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7ptQfR9Saa",
-    "atualizado_em": "2026-09-21T18:20:23.213-03:00"
   }
 ]
