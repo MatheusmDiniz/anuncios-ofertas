@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CDR1SKHR",
+    "titulo": "Oferta: Jogo de Panelas Tramontina Turim em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 10 Peças",
+    "imagem": "https://m.media-amazon.com/images/I/61AjgTFEaRL._AC_SL1500_.jpg",
+    "preco": 378.17,
+    "preco_anterior": 581.27,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CDR1SKHR?tag=malica09-20",
+    "atualizado_em": "2026-09-22T17:43:49.115-03:00"
+  },
+  {
     "id": "amazon:B0D98VXWXB",
     "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 220V | Até 90% Menos Óleo – tecnologia RapidAir, 12 modos de preparo e controle analógico (NA130/09) : Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/510Uj5C7LdL._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50ZD1qphIG",
     "atualizado_em": "2026-09-21T17:46:23.406-03:00"
-  },
-  {
-    "id": "shopee:548029260.58257405717",
-    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
-    "preco": 42.9,
-    "preco_anterior": 70.33,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4LJWEcsEeC",
-    "atualizado_em": "2026-09-21T17:41:14.709-03:00"
   }
 ]
