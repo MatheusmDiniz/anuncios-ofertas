@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJ19VGDH",
+    "titulo": "LEGO E MINECRAFT, ELES AMAM",
+    "imagem": null,
+    "preco": 126,
+    "preco_anterior": 179,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJ19VGDH?tag=malica09-20",
+    "atualizado_em": "2026-09-22T17:07:48.447-03:00"
+  },
+  {
     "id": "amazon:B095D5PSPG",
     "titulo": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61pYc6NhTXL._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7fa0NzK5nB",
     "atualizado_em": "2026-09-21T17:10:24.701-03:00"
-  },
-  {
-    "id": "shopee:903571416.45155625439",
-    "titulo": "Suporte de Berço para Aparelho de Ruído Branco Bebê Berço Universal",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk58orsw4l4yf2",
-    "preco": 11.12,
-    "preco_anterior": 20.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3LR19B3mdx",
-    "atualizado_em": "2026-09-21T17:05:17.670-03:00"
   }
 ]
