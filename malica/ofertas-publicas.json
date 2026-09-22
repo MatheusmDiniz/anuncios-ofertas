@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB70172169",
+    "titulo": "Boneco Titan Series Homem Aranha - Hasbro G3401",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_757095-MLA111147408778_052026-F.jpg",
+    "preco": 69.9,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24JBp3H",
+    "atualizado_em": "2026-09-22T08:43:35.134-03:00"
+  },
+  {
     "id": "shopee:1163467429.23394401680",
     "titulo": "Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinha Premium 02 Peças",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrnt72k0npe90",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1135rB1g8F",
     "atualizado_em": "2026-09-21T08:46:32.514-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392724",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
-    "preco": 33.9,
-    "preco_anterior": 39.24,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Eeujoq",
-    "atualizado_em": "2026-09-21T08:41:24.929-03:00"
   }
 ]
