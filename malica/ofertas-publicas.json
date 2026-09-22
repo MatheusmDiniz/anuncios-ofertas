@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08NQNXMPL",
+    "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
+    "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
+    "preco": 54.99,
+    "preco_anterior": 93.6,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=malica09-20",
+    "atualizado_em": "2026-09-22T19:07:28.373-03:00"
+  },
+  {
     "id": "amazon:B0C9ZT3B49",
     "titulo": "Oferta: Play-Doh Mini Kit Veterinário com cão, brinquedo para crianças",
     "imagem": "https://m.media-amazon.com/images/I/61HthRzWF8L._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VVTclnnHL",
     "atualizado_em": "2026-09-21T19:11:29.878-03:00"
-  },
-  {
-    "id": "shopee:238412076.11380435890",
-    "titulo": "Conjunto Social Para Bebe Menino Recém Nascido a 05 Meses Casamento",
-    "imagem": "https://cf.shopee.com.br/file/0dcd8c5ca566a001ad15f235bdb24705",
-    "preco": 22.9,
-    "preco_anterior": 49.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fL2aQ7bNB",
-    "atualizado_em": "2026-09-21T19:06:23.279-03:00"
   }
 ]
