@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D292HCS7",
+    "titulo": "Aptanutri Soja 3 Fórmula Infantil 800g",
+    "imagem": "https://m.media-amazon.com/images/I/61E+SWCXdWL._AC_SL1500_.jpg",
+    "preco": 82,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=malica09-20",
+    "atualizado_em": "2026-09-22T11:16:33.396-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24626810",
     "titulo": "Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_700261-MLA99618194932_122025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1yKShtn",
     "atualizado_em": "2026-09-21T11:20:03.796-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342392",
-    "titulo": "NIVEA Sabonete em Barra Creme Care 90g, Limpeza Suave, Banho, Hidrata e Protege, Uso Diário, Todas as Peles",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_778685-MLA99403688656_112025-F.jpg",
-    "preco": 8.9,
-    "preco_anterior": 21.42,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2B5V6hv",
-    "atualizado_em": "2026-09-21T11:14:56.181-03:00"
   }
 ]
