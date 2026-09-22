@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFD25P8S",
+    "titulo": "Mustela Shampoo Cachos Desembaraçados 200ml - Para Cabelos Ondulados, Cacheados e Texturizados - Limpa Suavemente, Nutre e Desembaraça",
+    "imagem": "https://m.media-amazon.com/images/I/71qEYm2z2oL._AC_SL1500_.jpg",
+    "preco": 57,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFD25P8S?tag=malica09-20",
+    "atualizado_em": "2026-09-22T15:10:20.285-03:00"
+  },
+  {
     "id": "amazon:6555474629",
     "titulo": "Oferta: Meu Primeiro Livro - Vogais",
     "imagem": "https://m.media-amazon.com/images/I/71eSkRgGJGL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2LCJPbM",
     "atualizado_em": "2026-09-21T15:12:17.205-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342443",
-    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
-    "preco": 6.56,
-    "preco_anterior": 7.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RGiPDf",
-    "atualizado_em": "2026-09-21T15:07:07.941-03:00"
   }
 ]
