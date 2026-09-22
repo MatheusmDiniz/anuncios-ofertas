@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B098BX31JL",
+    "titulo": "Baby Dove Sabonete Líquido De Glicerina Hidratação Relaxante Hora De Dormir Frasco 400 Ml",
+    "imagem": "https://m.media-amazon.com/images/I/61g5SCJ2r0L._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B098BX31JL?tag=malica09-20",
+    "atualizado_em": "2026-09-22T19:43:18.768-03:00"
+  },
+  {
     "id": "amazon:B0G73SVBYF",
     "titulo": "Bichinho Para Banho Fundo Do Mar Oceano Infantil Bebê",
     "imagem": "https://m.media-amazon.com/images/I/61z4rk-KluL._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYUCYZqD6",
     "atualizado_em": "2026-09-21T19:47:32.341-03:00"
-  },
-  {
-    "id": "shopee:367379535.57609794773",
-    "titulo": "Conjunto Camiseta UV 50+ Manga Comprida Proteção Solar e Sunga Com Cordão Juvenil Menino Moda Praia Tamanho 10 ao 16",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mnqc1172qmtde5",
-    "preco": 41.9,
-    "preco_anterior": 80.58,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VVVyLxrPa",
-    "atualizado_em": "2026-09-21T19:42:25.041-03:00"
   }
 ]
