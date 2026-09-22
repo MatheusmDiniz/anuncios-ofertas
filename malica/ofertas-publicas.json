@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FRBBQF36",
+    "titulo": "Umidificador Ultrassônico Easy Air 1.8L Branco Multi Saúde - HC290 : Amazon.com.br: Casa",
+    "imagem": "https://m.media-amazon.com/images/I/41QgGU-LO2L._AC_SL1500_.jpg",
+    "preco": 78,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=malica09-20",
+    "atualizado_em": "2026-09-22T13:07:06.871-03:00"
+  },
+  {
     "id": "amazon:B07YVMT1M2",
     "titulo": "Mustela Maternité Óleo Estrias 105 Ml - Previne Estrias Com Ação Hidratante Aumenta A Elasticidade E Acalma A Sensação De Coceira -100% Natural - Gravidez E Pós-Parto",
     "imagem": "https://m.media-amazon.com/images/I/51Xj1dq9NpL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/14kLguN",
     "atualizado_em": "2026-09-21T13:08:34.115-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392845",
-    "titulo": "Lenços Umedecidos Huggies Recém Nascido Pack C/4 - 192 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700377-MLA99930638257_112025-F.jpg",
-    "preco": 29.18,
-    "preco_anterior": 45.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Gwm8pw",
-    "atualizado_em": "2026-09-21T13:03:25.301-03:00"
   }
 ]
