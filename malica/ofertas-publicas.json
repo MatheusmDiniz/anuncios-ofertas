@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25120404",
+    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
+    "preco": 81.21,
+    "preco_anterior": 99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZsrkHX",
+    "atualizado_em": "2026-09-22T19:33:02.506-03:00"
+  },
+  {
     "id": "amazon:B01MRDV6Q7",
     "titulo": "Body 5-pack Long-sleeve Bodysuit Carter",
     "imagem": "https://m.media-amazon.com/images/I/91nmQXUt9SL._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VVVyL2fFY",
     "atualizado_em": "2026-09-21T19:37:20.147-03:00"
-  },
-  {
-    "id": "shopee:212844114.23997427973",
-    "titulo": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltfij9pjjayg55",
-    "preco": 31.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9zxvKbLGvV",
-    "atualizado_em": "2026-09-21T19:32:15.254-03:00"
   }
 ]
