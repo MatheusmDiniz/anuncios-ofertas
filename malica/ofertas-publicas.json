@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FFSV7VG",
+    "titulo": "BEM BARATINHO",
+    "imagem": "https://m.media-amazon.com/images/I/61CV6pou1pL._AC_SL1500_.jpg",
+    "preco": 16.77,
+    "preco_anterior": 20.96,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FFSV7VG?tag=malica09-20",
+    "atualizado_em": "2026-09-22T13:32:57.551-03:00"
+  },
+  {
     "id": "amazon:B0B21WYYQR",
     "titulo": "Leave-In Creme de Pentear Vegano Infantil Natural",
     "imagem": "https://m.media-amazon.com/images/I/41EqQGlIS3L._AC_SL1500_.jpg",
