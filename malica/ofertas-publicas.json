@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44604901",
+    "titulo": "Boneco Funko Pop! Harry Potter de Vinil Colecionável-01",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_945719-MLA99463645862_112025-F.jpg",
+    "preco": 55.21,
+    "preco_anterior": 124,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NrxpxU",
+    "atualizado_em": "2026-09-22T14:24:05.401-03:00"
+  },
+  {
     "id": "amazon:B0BJ7ZDKR7",
     "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses",
     "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AKajNeVOSm",
     "atualizado_em": "2026-09-21T14:25:47.117-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65726839",
-    "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
-    "preco": 29.58,
-    "preco_anterior": 31.14,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ibWYA9",
-    "atualizado_em": "2026-09-21T14:20:40.508-03:00"
   }
 ]
