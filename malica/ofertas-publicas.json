@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17335680",
+    "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 36 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729959-MLA99437189922_112025-F.jpg",
+    "preco": 47.61,
+    "preco_anterior": 56.57,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hnXz7Z",
+    "atualizado_em": "2026-09-22T09:39:05.465-03:00"
+  },
+  {
     "id": "shopee:1063329222.58259146242",
     "titulo": "Bolsa De Silicone Infantil Criança Borboleta",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mrdfi658p5hj80",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Y8xSvd",
     "atualizado_em": "2026-09-21T09:42:47.860-03:00"
-  },
-  {
-    "id": "shopee:315643622.21197619738",
-    "titulo": "Travesseiro de corpo para Gestante Gravida 1,20x60 micropercal  200 fios Promoção",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqyr5zajv86zc3",
-    "preco": 29.89,
-    "preco_anterior": 42.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fL4BAtfpC",
-    "atualizado_em": "2026-09-21T09:37:39.956-03:00"
   }
 ]
