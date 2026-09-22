@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CYLY287R",
+    "titulo": "Shampoo Huggies Kids Brilho Mágico 360 ml",
+    "imagem": "https://m.media-amazon.com/images/I/61AfAY+8DWL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CYLY287R?tag=malica09-20",
+    "atualizado_em": "2026-09-22T14:49:50.185-03:00"
+  },
+  {
     "id": "amazon:B07D3SCHVS",
     "titulo": "Sabonete Líquido Huggies Camomila para Recém-Nascidos 200ml",
     "imagem": "https://m.media-amazon.com/images/I/61ENSnIO0qL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1v9Vxzw",
     "atualizado_em": "2026-09-21T14:51:34.095-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24364799",
-    "titulo": "Pratinho Em Silicone Com Ventosas Verde Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600922-MLA99840674123_112025-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 64.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2P7Qp1Q",
-    "atualizado_em": "2026-09-21T14:46:24.628-03:00"
   }
 ]
