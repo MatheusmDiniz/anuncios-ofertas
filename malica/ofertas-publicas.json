@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MDUHOZZ",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81HwfB7LknL._AC_SL1500_.jpg",
+    "preco": 160,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MDUHOZZ?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:19:02.284-03:00"
+  },
+  {
     "id": "amazon:B0083F2XCW",
     "titulo": "Oferta: Mega Bloks First Builders - Sacola 60 Peças - Números Dch55",
     "imagem": "https://m.media-amazon.com/images/I/71SJc9rruvL._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4LJYa9Q3Om",
     "atualizado_em": "2026-09-21T20:23:15.572-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58264520528",
-    "titulo": "Kit 6 Peças Roupa De Bebê Body Menino Animado Estampado Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrwueepou8sn74",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qNFdhu8fB",
-    "atualizado_em": "2026-09-21T20:18:09.235-03:00"
   }
 ]
