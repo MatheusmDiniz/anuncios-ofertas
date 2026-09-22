@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C4Z5HYLW",
+    "titulo": "Buba, Massageador De Gengiva Banana Cerdas Curtas",
+    "imagem": "https://m.media-amazon.com/images/I/51DIF160lnL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C4Z5HYLW?tag=malica09-20",
+    "atualizado_em": "2026-09-22T16:11:00.785-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342620",
     "titulo": "Sabonete Barra Phebo Cremoso Limão Siciliano 100g Limpeza e Hidratação",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_904722-MLA99931619101_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28TvvrA",
     "atualizado_em": "2026-09-21T16:13:48.017-03:00"
-  },
-  {
-    "id": "shopee:534737666.19799672554",
-    "titulo": "Kit 4 Calças Moletom Infantil Peluciada com Punho Elástico 60% Algodão Tamanhos 02 ao 18 Unissex",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-msddp3542m134f",
-    "preco": 78.9,
-    "preco_anterior": 136.03,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gInA2CM2N",
-    "atualizado_em": "2026-09-21T16:08:39.091-03:00"
   }
 ]
