@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DD7V56G1",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
+    "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
+    "preco": 161,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
+    "atualizado_em": "2026-09-22T13:22:44.373-03:00"
+  },
+  {
     "id": "amazon:B00TAC05EA",
     "titulo": "Granado Shampoo Bebê, Lavanda, 250ml",
     "imagem": "https://m.media-amazon.com/images/I/51C6yHuVIKL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Krfvgn",
     "atualizado_em": "2026-09-21T13:24:01.235-03:00"
-  },
-  {
-    "id": "shopee:575397523.51106656675",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7AdhbphRtV",
-    "atualizado_em": "2026-09-21T13:18:51.295-03:00"
   }
 ]
