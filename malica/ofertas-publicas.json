@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62061333",
+    "titulo": "Kit Talheres De Treinamento Azul, Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620341-MLA98092033781_112025-F.jpg",
+    "preco": 14.25,
+    "preco_anterior": 22.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2jHC25Z",
+    "atualizado_em": "2026-09-22T16:16:10.143-03:00"
+  },
+  {
     "id": "amazon:B0C4Z5HYLW",
     "titulo": "Buba, Massageador De Gengiva Banana Cerdas Curtas",
     "imagem": "https://m.media-amazon.com/images/I/51DIF160lnL._AC_SL1500_.jpg",
