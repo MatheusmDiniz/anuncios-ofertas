@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08HDGKR5B",
+    "titulo": "Pomada de Lanolina para Hidratação dos Mamilos Medela Purelan 2.0 - 37g, Medela, Incolor, 37G",
+    "imagem": "https://m.media-amazon.com/images/I/71WGk8W2guL._AC_SL1500_.jpg",
+    "preco": 55.99,
+    "preco_anterior": 62.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08HDGKR5B?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:08:49.729-03:00"
+  },
+  {
     "id": "amazon:B0GFNVXR3K",
     "titulo": "Almofada de Bebê Atividades Acessórios Chocalho Interativo Animal Colorido com Som (Leão)",
     "imagem": "https://m.media-amazon.com/images/I/71MVdow8XML._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fwOylOmio",
     "atualizado_em": "2026-09-21T20:13:02.139-03:00"
-  },
-  {
-    "id": "shopee:580787446.27945255322",
-    "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5LC3QSoQcI",
-    "atualizado_em": "2026-09-21T20:07:56.031-03:00"
   }
 ]
