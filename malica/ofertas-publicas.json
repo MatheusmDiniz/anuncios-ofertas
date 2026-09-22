@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY62F23",
+    "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61lSWTBB1NL._AC_SL1500_.jpg",
+    "preco": 30,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
+    "atualizado_em": "2026-09-22T12:41:35.828-03:00"
+  },
+  {
     "id": "amazon:B0CGY6WDHC",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/18T5Pyt",
     "atualizado_em": "2026-09-21T12:42:44.026-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27896994",
-    "titulo": "Aspirador Nasal De Sucção Com Estojo - Buba Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819995-MLA99635327832_122025-F.jpg",
-    "preco": 16.86,
-    "preco_anterior": 19.5,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1St5dja",
-    "atualizado_em": "2026-09-21T12:37:29.675-03:00"
   }
 ]
