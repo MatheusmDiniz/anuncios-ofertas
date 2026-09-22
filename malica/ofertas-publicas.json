@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B21WYYQR",
+    "titulo": "Leave-In Creme de Pentear Vegano Infantil Natural",
+    "imagem": "https://m.media-amazon.com/images/I/41EqQGlIS3L._AC_SL1500_.jpg",
+    "preco": 35.91,
+    "preco_anterior": 39.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B21WYYQR?tag=malica09-20",
+    "atualizado_em": "2026-09-22T13:27:50.993-03:00"
+  },
+  {
     "id": "amazon:B0DD7V56G1",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
     "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1zKKVur",
     "atualizado_em": "2026-09-21T13:29:11.317-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34078818",
-    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
-    "preco": 22,
-    "preco_anterior": 37.2,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Krfvgn",
-    "atualizado_em": "2026-09-21T13:24:01.235-03:00"
   }
 ]
