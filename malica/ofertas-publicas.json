@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01K7VHOR8",
+    "titulo": "Fisher-Price Baby Banheira Baleia Hora do Banho Banheira para bebês em Estágio de desenvolvimento, White, set",
+    "imagem": "https://m.media-amazon.com/images/I/51QjpD8FHhL._AC_SL1500_.jpg",
+    "preco": 98.99,
+    "preco_anterior": 329.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01K7VHOR8?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:34:23.281-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62933980",
     "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9peV8GZmAr",
     "atualizado_em": "2026-09-21T20:43:46.458-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19481216",
-    "titulo": "Shampoo Johnson's Baby Cachos Definidos 400ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_985376-MLA99931805363_112025-F.jpg",
-    "preco": 21.5,
-    "preco_anterior": 34.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2epHF18",
-    "atualizado_em": "2026-09-21T20:33:34.424-03:00"
   }
 ]
