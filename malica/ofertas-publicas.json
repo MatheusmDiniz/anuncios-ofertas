@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095R95SNW",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
+    "atualizado_em": "2026-09-22T12:25:59.941-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19835052",
     "titulo": "Toalha Umedecida Meu Bebê Ultra 1x50 Folhas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_677768-MLA99423570880_112025-F.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/23uNWoP",
     "atualizado_em": "2026-09-21T12:27:07.420-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17775080",
-    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
-    "preco": 11.78,
-    "preco_anterior": 18.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/317psw4",
-    "atualizado_em": "2026-09-21T12:21:57.764-03:00"
   }
 ]
