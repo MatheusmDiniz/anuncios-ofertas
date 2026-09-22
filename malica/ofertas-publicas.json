@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z9T391C",
+    "titulo": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
+    "imagem": "https://m.media-amazon.com/images/I/71ZZb66C4NL._AC_SL1500_.jpg",
+    "preco": 62,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z9T391C?tag=malica09-20",
+    "atualizado_em": "2026-09-22T14:34:26.395-03:00"
+  },
+  {
     "id": "amazon:B072BXQK4X",
     "titulo": "Shampoo e Sabonete de Laranja para Crianças | 2 em 1| Fragrância Natural com Óleo de Gergelim | 150ml",
     "imagem": "https://m.media-amazon.com/images/I/61BsSI+c1BL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2NtLWbo",
     "atualizado_em": "2026-09-21T14:36:04.917-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23581207",
-    "titulo": "Banheira Plástica Acqua Trio Branca Galzerano",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706338-MLA113145908796_072026-F.jpg",
-    "preco": 205.9,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2VRZmh8",
-    "atualizado_em": "2026-09-21T14:30:56.072-03:00"
   }
 ]
