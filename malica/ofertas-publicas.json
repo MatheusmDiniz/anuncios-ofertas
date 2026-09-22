@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CTD3QXV6",
+    "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
+    "imagem": "https://m.media-amazon.com/images/I/71SiuUhmYML._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=malica09-20",
+    "atualizado_em": "2026-09-22T15:50:18.041-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22517003",
     "titulo": "Lenço Umedecido Huggies Higiene Diária Rendem 2x Mais 88 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_663083-MLA110467585125_042026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2chmi3v",
     "atualizado_em": "2026-09-21T15:53:17.545-03:00"
-  },
-  {
-    "id": "shopee:589142248.22194576869",
-    "titulo": "Brinquedo Montessori para crianças 2 em 1, labirinto magnético de madeira para colorir e números com prancheta, classifi",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg5xd0gq08ao98",
-    "preco": 28.89,
-    "preco_anterior": 58.96,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7ptQVJpx69",
-    "atualizado_em": "2026-09-21T15:48:05.096-03:00"
   }
 ]
