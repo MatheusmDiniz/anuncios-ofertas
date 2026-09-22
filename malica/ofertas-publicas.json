@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FDH242N8",
+    "titulo": "Oferta: Kit Naninha e Travesseiro Anatômico, Safari Animais 28x28cm, Travesseiro 25x22cm (ZEBRA)",
+    "imagem": "https://m.media-amazon.com/images/I/619xba-HaYL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": 38.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FDH242N8?tag=malica09-20",
+    "atualizado_em": "2026-09-22T19:48:24.559-03:00"
+  },
+  {
     "id": "amazon:B098BX31JL",
     "titulo": "Baby Dove Sabonete Líquido De Glicerina Hidratação Relaxante Hora De Dormir Frasco 400 Ml",
     "imagem": "https://m.media-amazon.com/images/I/61g5SCJ2r0L._AC_SL1500_.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BTyrghmH8",
     "atualizado_em": "2026-09-21T19:52:37.889-03:00"
-  },
-  {
-    "id": "shopee:1782683148.58261565925",
-    "titulo": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mosh25xiujgg80",
-    "preco": 38.9,
-    "preco_anterior": 69.46,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYUCYZqD6",
-    "atualizado_em": "2026-09-21T19:47:32.341-03:00"
   }
 ]
