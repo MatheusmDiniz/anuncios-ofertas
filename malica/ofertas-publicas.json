@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53758596",
+    "titulo": "Haste Suporte Varal Para Mosqueteiro Berços Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706549-MLA100086849109_122025-F.jpg",
+    "preco": 9.67,
+    "preco_anterior": 18.53,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ikkwWa",
+    "atualizado_em": "2026-09-22T09:59:32.771-03:00"
+  },
+  {
     "id": "shopee:967746038.23298976362",
     "titulo": "Kit 3 Pares Rosquinhas de Amamentação Protetor 100% Algodão Macio 6 - Unidades",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2BjR1iD",
     "atualizado_em": "2026-09-21T10:03:12.749-03:00"
-  },
-  {
-    "id": "shopee:1633765168.23899438927",
-    "titulo": "Kit 5 Camisetas Infantil Menina Algodão Básicas Lisas Coloridas Confortáveis Delicadas e Versáteis",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mnmp7ise8zk4a6",
-    "preco": 49.9,
-    "preco_anterior": 99.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3B7aRF9DS5",
-    "atualizado_em": "2026-09-21T09:58:04.713-03:00"
   }
 ]
