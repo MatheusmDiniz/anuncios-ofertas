@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXM3TSS9",
+    "titulo": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/81rfab7At1L._AC_SL1500_.jpg",
+    "preco": 90,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=malica09-20",
+    "atualizado_em": "2026-09-22T13:53:25.010-03:00"
+  },
+  {
     "id": "amazon:B08QG3H6YR",
     "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/12NvazT",
     "atualizado_em": "2026-09-21T13:54:58.539-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392643",
-    "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
-    "preco": 16,
-    "preco_anterior": 43.5,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1uoVigd",
-    "atualizado_em": "2026-09-21T13:49:50.158-03:00"
   }
 ]
