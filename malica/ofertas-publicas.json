@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07M7Q36ZS",
+    "titulo": "Absorvente Para Seios Amamente® 30 UN",
+    "imagem": "https://m.media-amazon.com/images/I/716xonuId3L._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07M7Q36ZS?tag=malica09-20",
+    "atualizado_em": "2026-09-22T18:57:13.309-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27375861",
     "titulo": "Kit Escovas Mamadeiras De Bico E Canudos Azul 7290 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_909813-MLA100091967111_122025-F.jpg",
@@ -1568,15 +1578,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1AZB1uwnm",
     "atualizado_em": "2026-09-21T19:01:17.156-03:00"
-  },
-  {
-    "id": "shopee:1452530060.22498910656",
-    "titulo": "Almofada de Pescoço Bebê com Apoio de Cabeça para Cadeirinha bebe conforto",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h1-mekho1dx5gjm38",
-    "preco": 16.99,
-    "preco_anterior": 34.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qcDMQ9Ufx",
-    "atualizado_em": "2026-09-21T18:56:11.474-03:00"
   }
 ]
