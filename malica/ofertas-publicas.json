@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09LRFMY7Q",
+    "titulo": "Buba Kit Cuidados Multicolorido",
+    "imagem": "https://m.media-amazon.com/images/I/513CzCVbT1L._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": 47,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=malica09-20",
+    "atualizado_em": "2026-09-22T16:00:38.681-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44326248",
     "titulo": "Filtro de Linha 5 tomadas Intelbras Preto EPE205 Bivolt",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_905986-MLA99450018062_112025-F.jpg",
