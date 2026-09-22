@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FJ2V1XBR",
+    "titulo": "Travel System Safety 1st, Mobi Duo, Grey Sport",
+    "imagem": "https://m.media-amazon.com/images/I/51+zjaKGq3L._AC_SL1500_.jpg",
+    "preco": 1479.99,
+    "preco_anterior": 2199,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FJ2V1XBR?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:44:40.125-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28885783",
     "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGaRD5hYu",
     "atualizado_em": "2026-09-21T20:48:58.626-03:00"
-  },
-  {
-    "id": "shopee:816642727.23994061112",
-    "titulo": "Sapatinho de bebê - Sapatilha Boneca Feminina Batizado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mo79fsp4i8lcc4",
-    "preco": 23.89,
-    "preco_anterior": 35.66,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9peV8GZmAr",
-    "atualizado_em": "2026-09-21T20:43:46.458-03:00"
   }
 ]
