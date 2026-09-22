@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1777221519.58210846395",
+    "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
+    "preco": 35.67,
+    "preco_anterior": 51.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9V1ejeb2qp",
+    "atualizado_em": "2026-09-22T08:07:48.267-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27590860",
     "titulo": "Babador De Silicone Pega Migalhas Menina 09724 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_831978-MLA100084513681_122025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2far6hn",
     "atualizado_em": "2026-09-21T08:10:42.611-03:00"
-  },
-  {
-    "id": "shopee:1361476561.19397991697",
-    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
-    "preco": 24.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7ptLv7FUsK",
-    "atualizado_em": "2026-09-21T08:05:36.133-03:00"
   }
 ]
