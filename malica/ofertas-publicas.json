@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:410705973.7183482061",
+    "titulo": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção  JorgeStore",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbk7-lnu5cle2rcg8ea",
+    "preco": 27.55,
+    "preco_anterior": 70.64,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6VO2TleVMN",
+    "atualizado_em": "2026-09-22T08:48:40.688-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70172169",
     "titulo": "Boneco Titan Series Homem Aranha - Hasbro G3401",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_757095-MLA111147408778_052026-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kNYDe4",
     "atualizado_em": "2026-09-21T08:51:38.843-03:00"
-  },
-  {
-    "id": "shopee:1213801506.21398107610",
-    "titulo": "Jaqueta Puffer Infantil Masculina Peluciada Com Capuz 100% Impermeável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mpcg2yhvti4m20",
-    "preco": 84.99,
-    "preco_anterior": 180.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1135rB1g8F",
-    "atualizado_em": "2026-09-21T08:46:32.514-03:00"
   }
 ]
