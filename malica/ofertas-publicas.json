@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BLJS7ZBW",
+    "titulo": "Oferta: Barbie Laboratório de Ciências, Playset com Duas Bonecas e Acessórios STEM Para Experimentos Criativos",
+    "imagem": "https://m.media-amazon.com/images/I/61iQjnKjSFL._AC_SL1500_.jpg",
+    "preco": 156,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BLJS7ZBW?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:49:46.599-03:00"
+  },
+  {
     "id": "amazon:B0FJ2V1XBR",
     "titulo": "Travel System Safety 1st, Mobi Duo, Grey Sport",
     "imagem": "https://m.media-amazon.com/images/I/51+zjaKGq3L._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9peVDVsDnJ",
     "atualizado_em": "2026-09-21T20:54:04.396-03:00"
-  },
-  {
-    "id": "shopee:436773535.22898347074",
-    "titulo": "Kit 4 Peças Pijama Brilha no Escuro Sortido Infantil Menino Inverno Roupa Infantil Masculina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjebx0vxa1oi7c",
-    "preco": 39.99,
-    "preco_anterior": 70.16,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7VGaRD5hYu",
-    "atualizado_em": "2026-09-21T20:48:58.626-03:00"
   }
 ]
