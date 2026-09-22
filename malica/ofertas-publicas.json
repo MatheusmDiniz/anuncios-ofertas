@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHR9LSK",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
+    "preco": 16,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
+    "atualizado_em": "2026-09-22T14:39:34.073-03:00"
+  },
+  {
     "id": "amazon:B07Z9T391C",
     "titulo": "Babysec Fraldas Descartáveis Ultrasec Galinha Pintadinha, 72 Unidades, Tamanho M 5 - 9, 5 Kg, Babysec, Azul, M",
     "imagem": "https://m.media-amazon.com/images/I/71ZZb66C4NL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/33bipXK",
     "atualizado_em": "2026-09-21T14:41:14.194-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18715372",
-    "titulo": "Fralda Descartável Pom Pom Proteção de Mãe XG com 38 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749805-MLA99439515898_112025-F.jpg",
-    "preco": 36,
-    "preco_anterior": 50.3,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2NtLWbo",
-    "atualizado_em": "2026-09-21T14:36:04.917-03:00"
   }
 ]
