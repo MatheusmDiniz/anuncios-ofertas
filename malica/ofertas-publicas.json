@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:291174073.21297732100",
+    "titulo": "Kit 8pçs Talheres de Silicone p/ Bebê c/ Ventosa, Colher, Garfo, Canudo e Babador Infantil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyw-lyy3asttten617",
+    "preco": 37.99,
+    "preco_anterior": 99.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1LfxqtZC89",
+    "atualizado_em": "2026-09-22T10:14:51.946-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26981196",
     "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6L4cHSf8hK",
     "atualizado_em": "2026-09-21T10:18:30.513-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23480808",
-    "titulo": "Laptop Infantil Educativo Spider Man Candide",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
-    "preco": 57.99,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZSvfs3",
-    "atualizado_em": "2026-09-21T10:13:24.530-03:00"
   }
 ]
