@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZPQ2RRR",
+    "titulo": "Macacão de dormir para bebês Pacote com 2 pares neutros de algodão com pés para dormir e brincar Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
+    "preco": 138,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:54:53.226-03:00"
+  },
+  {
     "id": "amazon:B0BLJS7ZBW",
     "titulo": "Oferta: Barbie Laboratório de Ciências, Playset com Duas Bonecas e Acessórios STEM Para Experimentos Criativos",
     "imagem": "https://m.media-amazon.com/images/I/61iQjnKjSFL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNI4Ujecq",
     "atualizado_em": "2026-09-21T20:59:10.554-03:00"
-  },
-  {
-    "id": "shopee:1590063220.58207147029",
-    "titulo": "Kit 2 Talco Para Bebe Com Amido De Milho 200g - Pom Pom",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlz39myktjife3",
-    "preco": 38.9,
-    "preco_anterior": 73.4,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9peVDVsDnJ",
-    "atualizado_em": "2026-09-21T20:54:04.396-03:00"
   }
 ]
