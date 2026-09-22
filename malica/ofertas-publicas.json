@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26213267",
+    "titulo": "Minigame Laptop Barbie Educativo Bilíngue Candide Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_609516-MLA116538346022_092026-F.jpg",
+    "preco": 59.84,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WnpTxa",
+    "atualizado_em": "2026-09-22T08:12:56.186-03:00"
+  },
+  {
     "id": "shopee:1777221519.58210846395",
     "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
@@ -1598,15 +1608,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VVR8pONbq",
     "atualizado_em": "2026-09-21T08:15:47.196-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28885783",
-    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
-    "preco": 10.87,
-    "preco_anterior": 20.41,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2far6hn",
-    "atualizado_em": "2026-09-21T08:10:42.611-03:00"
   }
 ]
