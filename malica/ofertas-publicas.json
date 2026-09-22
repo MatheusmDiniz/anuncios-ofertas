@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GWDZY",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 90,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-09-22T13:38:04.644-03:00"
+  },
+  {
     "id": "amazon:B07FFSV7VG",
     "titulo": "BEM BARATINHO",
     "imagem": "https://m.media-amazon.com/images/I/61CV6pou1pL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2U7NUHu",
     "atualizado_em": "2026-09-21T13:39:28.583-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27488701",
-    "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
-    "preco": 26.33,
-    "preco_anterior": 69,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1izSjBj",
-    "atualizado_em": "2026-09-21T13:34:20.380-03:00"
   }
 ]
