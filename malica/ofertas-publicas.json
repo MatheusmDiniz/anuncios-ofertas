@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:391739739.9830388367",
+    "titulo": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
+    "preco": 27.55,
+    "preco_anterior": 70.64,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2VrwpdY41U",
+    "atualizado_em": "2026-09-23T08:26:23.293-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27896994",
     "titulo": "Aspirador Nasal De Sucção Com Estojo - Buba Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_819995-MLA99635327832_122025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fhUCdcdvs",
     "atualizado_em": "2026-09-22T08:28:13.521-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB33387739",
-    "titulo": "Cadeirinha Infantil Reclinável Legacy Cinza e Preto Mescla Voyage",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_856035-MLA99488954664_112025-F.jpg",
-    "preco": 638.91,
-    "preco_anterior": 799,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/34dcDyf",
-    "atualizado_em": "2026-09-22T08:23:08.240-03:00"
   }
 ]
