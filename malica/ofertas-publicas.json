@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24364799",
+    "titulo": "Pratinho Em Silicone Com Ventosas Verde Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600922-MLA99840674123_112025-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 64.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2P7Qp1Q",
+    "atualizado_em": "2026-09-23T17:08:10.579-03:00"
+  },
+  {
     "id": "shopee:1827740773.58261744144",
     "titulo": "Saia Curta Infantil Feminina Rodada com Elastico na Cintura Barinha Frufru Em Suplex Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp51dnng25fld2",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07J2PCFB3?tag=malica09-20",
     "atualizado_em": "2026-09-22T17:12:55.132-03:00"
-  },
-  {
-    "id": "amazon:B0DJ19VGDH",
-    "titulo": "LEGO E MINECRAFT, ELES AMAM",
-    "imagem": null,
-    "preco": 126,
-    "preco_anterior": 179,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ19VGDH?tag=malica09-20",
-    "atualizado_em": "2026-09-22T17:07:48.447-03:00"
   }
 ]
