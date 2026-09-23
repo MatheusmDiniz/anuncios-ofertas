@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MRE7ABF",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81Zg0xsZgDL._AC_SL1500_.jpg",
+    "preco": 158.39,
+    "preco_anterior": 197.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MRE7ABF?tag=malica09-20",
+    "atualizado_em": "2026-09-23T17:44:17.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19481216",
     "titulo": "Shampoo Johnson's Baby Cachos Definidos 400ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_985376-MLA99931805363_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kPbXaV",
     "atualizado_em": "2026-09-22T17:48:58.048-03:00"
-  },
-  {
-    "id": "amazon:B0CDR1SKHR",
-    "titulo": "Oferta: Jogo de Panelas Tramontina Turim em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 10 Peças",
-    "imagem": "https://m.media-amazon.com/images/I/61AjgTFEaRL._AC_SL1500_.jpg",
-    "preco": 378.17,
-    "preco_anterior": 581.27,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CDR1SKHR?tag=malica09-20",
-    "atualizado_em": "2026-09-22T17:43:49.115-03:00"
   }
 ]
