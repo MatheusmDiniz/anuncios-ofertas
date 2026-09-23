@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26454526",
+    "titulo": "Fisher Price Puxe A Tartaruga Y8652 - Mattel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_832645-MLA99959799305_112025-F.jpg",
+    "preco": 59.9,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2b9dkbC",
+    "atualizado_em": "2026-09-23T11:22:20.722-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17775080",
     "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=malica09-20",
     "atualizado_em": "2026-09-22T11:26:47.745-03:00"
-  },
-  {
-    "id": "shopee:1630828144.58204284882",
-    "titulo": "Organizador de brinquedos saco organizador de banho para escorrer água de brinquedos de tecido",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk28k1obyn0i2e",
-    "preco": 16.91,
-    "preco_anterior": 28.18,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7VGaBgKj8A",
-    "atualizado_em": "2026-09-22T11:21:39.577-03:00"
   }
 ]
