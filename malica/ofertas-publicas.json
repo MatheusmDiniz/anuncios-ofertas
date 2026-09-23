@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GKNF9FZ",
+    "titulo": "Body Pacote com 5 bodies de manga comprida Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/9170UFB2zgL._AC_SL1500_.jpg",
+    "preco": 146,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GKNF9FZ?tag=malica09-20",
+    "atualizado_em": "2026-09-22T21:10:31.318-03:00"
+  },
+  {
     "id": "amazon:B09M8XF3CJ",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81Fagm+57oL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7ptQpslHqT",
     "atualizado_em": "2026-09-21T21:14:32.149-03:00"
-  },
-  {
-    "id": "shopee:1738148702.58214605068",
-    "titulo": "Bolero Infantil Plusher Festa Casual Fofo Casaquinho Estilo Luxo Pelinho Gola Casaco Blusinha Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqvvsfoi64ue7f",
-    "preco": 35.96,
-    "preco_anterior": 89.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/qjgKYEVth",
-    "atualizado_em": "2026-09-21T21:09:26.236-03:00"
   }
 ]
