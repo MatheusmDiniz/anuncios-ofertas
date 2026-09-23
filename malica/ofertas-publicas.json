@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392643",
+    "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
+    "preco": 16,
+    "preco_anterior": 43.67,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1uoVigd",
+    "atualizado_em": "2026-09-23T13:57:29.918-03:00"
+  },
+  {
     "id": "amazon:B08FXTMMF9",
     "titulo": "Bala Skittles Original - Case com 14 unidades de 38g",
     "imagem": "https://m.media-amazon.com/images/I/6108kSPV7XL._AC_SL1500_.jpg",
