@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875743",
+    "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
+    "preco": 17.29,
+    "preco_anterior": 23.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KPgFmp",
+    "atualizado_em": "2026-09-23T15:51:00.077-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876098",
     "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2pisWec",
     "atualizado_em": "2026-09-22T15:55:29.626-03:00"
-  },
-  {
-    "id": "amazon:B0CTD3QXV6",
-    "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
-    "imagem": "https://m.media-amazon.com/images/I/71SiuUhmYML._AC_SL1500_.jpg",
-    "preco": 10,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=malica09-20",
-    "atualizado_em": "2026-09-22T15:50:18.041-03:00"
   }
 ]
