@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07J2CR38V",
+    "titulo": "Oferta: Pelúcia Chase, 12",
+    "imagem": "https://m.media-amazon.com/images/I/51noVFeY0hL._AC_SL1500_.jpg",
+    "preco": 75.99,
+    "preco_anterior": 129.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07J2CR38V?tag=malica09-20",
+    "atualizado_em": "2026-09-23T17:59:39.125-03:00"
+  },
+  {
     "id": "amazon:B072M6PHM7",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81j0asOYlbL._AC_SL1500_.jpg",
