@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34115521",
+    "titulo": "Chocalho e Mordedor Minnie Mouse Rattle Rosa Disney Meninas Bebê Elka",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827862-MLA99358289636_112025-F.jpg",
+    "preco": 18.24,
+    "preco_anterior": 33.96,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1CfhZdx",
+    "atualizado_em": "2026-09-23T09:54:07.305-03:00"
+  },
+  {
     "id": "shopee:499950777.22198012044",
     "titulo": "Tenis Infantil Menino Masculino Sapato Infantil Menino Tenis Infantil Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-msy1v6auq5frc1",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8plymfFqVW",
     "atualizado_em": "2026-09-22T09:54:25.423-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875756",
-    "titulo": "Sabonete Líquido De Glicerina Da Cabeça Aos Pés Com Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
-    "preco": 18.14,
-    "preco_anterior": 36.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1LKq29J",
-    "atualizado_em": "2026-09-22T09:49:19.348-03:00"
   }
 ]
