@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H5FBVLGF",
+    "titulo": "Carter",
+    "imagem": "https://m.media-amazon.com/images/I/719Y4aHPrHL._AC_SL1500_.jpg",
+    "preco": 110,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H5FBVLGF?tag=malica09-20",
+    "atualizado_em": "2026-09-23T19:26:37.473-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38943078",
     "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01MRDV6Q7?tag=malica09-20",
     "atualizado_em": "2026-09-22T19:27:51.977-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26200003",
-    "titulo": "Kit 6 Patinhos De Banho Brinquedo Bebê Esguicha Água Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_739826-MLA99361242984_112025-F.jpg",
-    "preco": 22.14,
-    "preco_anterior": 36.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2XpGQFA",
-    "atualizado_em": "2026-09-22T19:22:45.721-03:00"
   }
 ]
