@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JQND4NB",
+    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+    "imagem": "https://m.media-amazon.com/images/I/51xjZk9-YjL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JQND4NB?tag=malica09-20",
+    "atualizado_em": "2026-09-23T12:50:12.970-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875937",
     "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0HKBR2RD2?tag=malica09-20",
     "atualizado_em": "2026-09-22T12:51:47.177-03:00"
-  },
-  {
-    "id": "amazon:B07DHRS6RN",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51ZGkcF+raL._AC_SL1500_.jpg",
-    "preco": 32.99,
-    "preco_anterior": 44.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRS6RN?tag=malica09-20",
-    "atualizado_em": "2026-09-22T12:46:41.384-03:00"
   }
 ]
