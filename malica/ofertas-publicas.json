@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H1GBRK4V",
+    "titulo": "Lápis de Cor Aquarelável 72 Cores, Alta Pigmentação e Mina Resistente | Dissolve facilmente, Efeito aquarela, Fácil de usar, Alta resistência à quebra, Alta pigmentação,Momento de relaxar",
+    "imagem": "https://m.media-amazon.com/images/I/81ryf8a12NL._AC_SL1500_.jpg",
+    "preco": 80,
+    "preco_anterior": 139,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H1GBRK4V?tag=malica09-20",
+    "atualizado_em": "2026-09-23T15:40:41.664-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1nLmEEc",
     "atualizado_em": "2026-09-22T15:45:09.290-03:00"
-  },
-  {
-    "id": "shopee:1739680653.58204448907",
-    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
-    "preco": 24.9,
-    "preco_anterior": 75.45,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7AdjxMFGe4",
-    "atualizado_em": "2026-09-22T15:39:59.209-03:00"
   }
 ]
