@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44196987",
+    "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
+    "preco": 25,
+    "preco_anterior": 45.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1VHwaBz",
+    "atualizado_em": "2026-09-23T12:39:45.700-03:00"
+  },
+  {
     "id": "amazon:B0CPT8CMSM",
     "titulo": "Pampers Sabonete Líquido Glicerina 200ml : Amazon.com.br: Beleza",
     "imagem": "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
     "atualizado_em": "2026-09-22T12:41:35.828-03:00"
-  },
-  {
-    "id": "amazon:B0CGY6WDHC",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
-    "preco": 189,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
-    "atualizado_em": "2026-09-22T12:36:14.686-03:00"
   }
 ]
