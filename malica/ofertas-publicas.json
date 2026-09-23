@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1126224431.23497604775",
+    "titulo": "Relógio Digital Infantil À Prova D'água Com Display Luminoso Multifuncional Esportivo Para Meninos E Meninas Presentes",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqigqf0p2ltt27",
+    "preco": 16.79,
+    "preco_anterior": 49.38,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1LfzVyj8cX",
+    "atualizado_em": "2026-09-23T10:25:01.792-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB51240172",
     "titulo": "Boneco Stitch Banho Divertido - Disney Cotiplás 2905",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50ZF89Z81C",
     "atualizado_em": "2026-09-22T10:25:05.219-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19509698",
-    "titulo": "Creme Hidratante Corporal Derma Toque Seco 30g Bepantol",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771979-MLA115294132313_072026-F.jpg",
-    "preco": 27.21,
-    "preco_anterior": 33.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1uy7PKe",
-    "atualizado_em": "2026-09-22T10:19:59.699-03:00"
   }
 ]
