@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0781CTJF6",
+    "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
+    "imagem": "https://m.media-amazon.com/images/I/51XpbplLvaL._AC_SL1500_.jpg",
+    "preco": 8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0781CTJF6?tag=malica09-20",
+    "atualizado_em": "2026-09-23T13:11:00.579-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25863440",
     "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=malica09-20",
     "atualizado_em": "2026-09-22T13:12:19.478-03:00"
-  },
-  {
-    "id": "amazon:B0FRBBQF36",
-    "titulo": "Umidificador Ultrassônico Easy Air 1.8L Branco Multi Saúde - HC290 : Amazon.com.br: Casa",
-    "imagem": "https://m.media-amazon.com/images/I/41QgGU-LO2L._AC_SL1500_.jpg",
-    "preco": 78,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:07:06.871-03:00"
   }
 ]
