@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26458025",
+    "titulo": "Protetor De Tomada 10 Un - Safety 1st",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855654-MLU78213173869_082024-F.jpg",
+    "preco": 6.47,
+    "preco_anterior": 10,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Ln8XrJ",
+    "atualizado_em": "2026-09-23T19:42:02.627-03:00"
+  },
+  {
     "id": "amazon:B0H77B5HGQ",
     "titulo": "Macacão de dormir para bebês Fleece Sleep and Play Carter",
     "imagem": "https://m.media-amazon.com/images/I/71zZoQkf+vL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B098BX31JL?tag=malica09-20",
     "atualizado_em": "2026-09-22T19:43:18.768-03:00"
-  },
-  {
-    "id": "amazon:B0G73SVBYF",
-    "titulo": "Bichinho Para Banho Fundo Do Mar Oceano Infantil Bebê",
-    "imagem": "https://m.media-amazon.com/images/I/61z4rk-KluL._AC_SL1500_.jpg",
-    "preco": 40.41,
-    "preco_anterior": 44.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G73SVBYF?tag=malica09-20",
-    "atualizado_em": "2026-09-22T19:38:09.175-03:00"
   }
 ]
