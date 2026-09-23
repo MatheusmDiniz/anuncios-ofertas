@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B9RB65MY",
+    "titulo": "Brinquedos Estrela - Boneco Vinil Ursinhos Carinhosos, Boa Sorte, Verde, 7,5 cm",
+    "imagem": "https://m.media-amazon.com/images/I/81ZgMw06uhL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": 49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B9RB65MY?tag=malica09-20",
+    "atualizado_em": "2026-09-23T15:09:51.549-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27044593",
     "titulo": "Babador De Silicone Gumy Com Pega Migalhas Azul Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_807671-MLA100108484153_122025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DFD25P8S?tag=malica09-20",
     "atualizado_em": "2026-09-22T15:10:20.285-03:00"
-  },
-  {
-    "id": "amazon:6555474629",
-    "titulo": "Oferta: Meu Primeiro Livro - Vogais",
-    "imagem": "https://m.media-amazon.com/images/I/71eSkRgGJGL._AC_SL1500_.jpg",
-    "preco": 10,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6555474629?tag=malica09-20",
-    "atualizado_em": "2026-09-22T15:05:11.607-03:00"
   }
 ]
