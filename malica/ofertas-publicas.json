@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32614835",
+    "titulo": "Conjunto De Talheres Personagens Infantil Garfo Faca Colher Cor Minnie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717340-MLA99615494408_122025-F.jpg",
+    "preco": 15.94,
+    "preco_anterior": 16.78,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2eAaKdy",
+    "atualizado_em": "2026-09-23T20:02:37.717-03:00"
+  },
+  {
     "id": "amazon:B09LRZZYQD",
     "titulo": "Granado Sabonete Líquido Bebê, Lavanda, 500ml",
     "imagem": "https://m.media-amazon.com/images/I/51EvV1U5LNL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GFNVXR3K?tag=malica09-20",
     "atualizado_em": "2026-09-22T20:03:43.340-03:00"
-  },
-  {
-    "id": "amazon:B07Z5B115H",
-    "titulo": "Likluc Xô Febre - compressas refrescantes para alivio da febre, Azul Oceano, Tamanho Único",
-    "imagem": "https://m.media-amazon.com/images/I/71EMAbb3YKL._AC_SL1500_.jpg",
-    "preco": 35.98,
-    "preco_anterior": 42.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z5B115H?tag=malica09-20",
-    "atualizado_em": "2026-09-22T19:58:37.220-03:00"
   }
 ]
