@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB41740051",
+    "titulo": "Kit 10 Miniaturas de Animais da Fazenda em Plástico Hipoalergênico",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924468-MLA99600409038_122025-F.jpg",
+    "preco": 19,
+    "preco_anterior": 59.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2yHV4QA",
+    "atualizado_em": "2026-09-23T10:56:12.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23480808",
     "titulo": "Laptop Infantil Educativo Spider Man Candide",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2grLWyY",
     "atualizado_em": "2026-09-22T11:01:08.996-03:00"
-  },
-  {
-    "id": "amazon:B07X5KWJK9",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61E4OFmEC+L._AC_SL1500_.jpg",
-    "preco": 89,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=malica09-20",
-    "atualizado_em": "2026-09-22T10:55:57.093-03:00"
   }
 ]
