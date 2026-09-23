@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D92N4VBW",
+    "titulo": "Fralda Cremer Econômica G 30 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71B77M0LbML._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D92N4VBW?tag=malica09-20",
+    "atualizado_em": "2026-09-22T21:30:55.615-03:00"
+  },
+  {
     "id": "amazon:B0FM9R6HCT",
     "titulo": "Bicicleta Andador Equilíbrio Sem Pedal 4 Roda Zippy Toys (Bege)",
     "imagem": "https://m.media-amazon.com/images/I/51KMLLuARHL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50ZFIDPBgn",
     "atualizado_em": "2026-09-21T21:35:13.147-03:00"
-  },
-  {
-    "id": "shopee:762363442.16389928134",
-    "titulo": "Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Serve em Todas as Marcas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mrzuzflakhl2a6",
-    "preco": 43.03,
-    "preco_anterior": 79.69,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/905NyRfYL1",
-    "atualizado_em": "2026-09-21T21:30:06.677-03:00"
   }
 ]
