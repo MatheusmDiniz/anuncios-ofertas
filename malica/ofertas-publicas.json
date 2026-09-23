@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18342443",
+    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
+    "preco": 6.56,
+    "preco_anterior": 7.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RGiPDf",
+    "atualizado_em": "2026-09-23T13:21:21.348-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27145476",
     "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
     "atualizado_em": "2026-09-22T13:22:44.373-03:00"
-  },
-  {
-    "id": "amazon:B00TAC05EA",
-    "titulo": "Granado Shampoo Bebê, Lavanda, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/51C6yHuVIKL._AC_SL1500_.jpg",
-    "preco": 16.9,
-    "preco_anterior": 20.26,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00TAC05EA?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:17:35.764-03:00"
   }
 ]
