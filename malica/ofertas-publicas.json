@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FM9R6HCT",
+    "titulo": "Bicicleta Andador Equilíbrio Sem Pedal 4 Roda Zippy Toys (Bege)",
+    "imagem": "https://m.media-amazon.com/images/I/51KMLLuARHL._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": 150,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FM9R6HCT?tag=malica09-20",
+    "atualizado_em": "2026-09-22T21:25:51.113-03:00"
+  },
+  {
     "id": "amazon:B08V2HBZH2",
     "titulo": "Baby Dove Shampoo Hidratação Glicerinada 400 ML",
     "imagem": "https://m.media-amazon.com/images/I/510MkOygOrL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/905NyRfYL1",
     "atualizado_em": "2026-09-21T21:30:06.677-03:00"
-  },
-  {
-    "id": "shopee:1262749405.23598301209",
-    "titulo": "Bolinhas para Piscina até 100 Unidades Coloridas 76mm alta Qualidade Não Amassa Envio rápido",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-ml7twrykqn7r5d",
-    "preco": 16.9,
-    "preco_anterior": 30.18,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3LR0dVvz2I",
-    "atualizado_em": "2026-09-21T21:24:50.456-03:00"
   }
 ]
