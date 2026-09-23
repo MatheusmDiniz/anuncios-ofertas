@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24531140",
+    "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
+    "preco": 8,
+    "preco_anterior": 19.07,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26SYkKg",
+    "atualizado_em": "2026-09-23T15:30:27.396-03:00"
+  },
+  {
     "id": "amazon:B0CQDGFNBP",
     "titulo": "Oferta: Calcinha Absorvente Menstrual Pantys Xodó, Fluxo Moderado, Feminino, 1 Unidade",
     "imagem": "https://m.media-amazon.com/images/I/51DGhK2g8qL._AC_SL1500_.jpg",
