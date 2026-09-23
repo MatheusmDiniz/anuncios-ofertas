@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07BW1CKBY",
+    "titulo": "Jogo Cara a Cara Princesas Disney, Estrela",
+    "imagem": "https://m.media-amazon.com/images/I/61TXasqOHML._AC_SL1500_.jpg",
+    "preco": 79,
+    "preco_anterior": 129,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07BW1CKBY?tag=malica09-20",
+    "atualizado_em": "2026-09-23T12:03:36.241-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27488701",
     "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=malica09-20",
     "atualizado_em": "2026-09-22T12:05:31.165-03:00"
-  },
-  {
-    "id": "shopee:396723953.40026562019",
-    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
-    "preco": 58.89,
-    "preco_anterior": 99.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5LC5lzquJ8",
-    "atualizado_em": "2026-09-22T12:00:22.855-03:00"
   }
 ]
