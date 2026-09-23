@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZPQDHXH",
+    "titulo": "Macacão de dormir para bebês 2-pack Neutral Fleece Footed Sleep and Play Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81c23pu3BAL._AC_SL1500_.jpg",
+    "preco": 161,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZPQDHXH?tag=malica09-20",
+    "atualizado_em": "2026-09-22T20:59:59.888-03:00"
+  },
+  {
     "id": "amazon:B07ZPQ2RRR",
     "titulo": "Macacão de dormir para bebês Pacote com 2 pares neutros de algodão com pés para dormir e brincar Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7KxAEwNCFm",
     "atualizado_em": "2026-09-21T21:04:18.101-03:00"
-  },
-  {
-    "id": "shopee:1167191968.41628916751",
-    "titulo": "Vestido Infantil Luxo Premium Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
-    "preco": 35.9,
-    "preco_anterior": 55.23,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qNI4Ujecq",
-    "atualizado_em": "2026-09-21T20:59:10.554-03:00"
   }
 ]
