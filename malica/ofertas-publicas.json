@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H77B5HGQ",
+    "titulo": "Macacão de dormir para bebês Fleece Sleep and Play Carter",
+    "imagem": "https://m.media-amazon.com/images/I/71zZoQkf+vL._AC_SL1500_.jpg",
+    "preco": 73,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H77B5HGQ?tag=malica09-20",
+    "atualizado_em": "2026-09-23T19:36:52.560-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19601136",
     "titulo": "Lenços Umedecidos Upa Bebê - 140 Unidades Toalhas Umedecidas Com Tampa Flip Top Sem Alcool",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_771265-MLA104343721506_012026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G73SVBYF?tag=malica09-20",
     "atualizado_em": "2026-09-22T19:38:09.175-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 81.21,
-    "preco_anterior": 99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZsrkHX",
-    "atualizado_em": "2026-09-22T19:33:02.506-03:00"
   }
 ]
