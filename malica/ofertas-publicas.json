@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23480808",
+    "titulo": "Laptop Infantil Educativo Spider Man Candide",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
+    "preco": 55.09,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZSvfs3",
+    "atualizado_em": "2026-09-23T10:50:59.879-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342392",
     "titulo": "NIVEA Sabonete em Barra Creme Care 90g, Limpeza Suave, Banho, Hidrata e Protege, Uso Diário, Todas as Peles",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_778685-MLA99403688656_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=malica09-20",
     "atualizado_em": "2026-09-22T10:55:57.093-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72983430",
-    "titulo": "Spa Banheira Dobrável Adulto 254l Ofurô Quente Ou Gelo Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_630337-MLA111867119246_062026-F.jpg",
-    "preco": 106.99,
-    "preco_anterior": 204.73,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2V5Vavk",
-    "atualizado_em": "2026-09-22T10:50:51.227-03:00"
   }
 ]
