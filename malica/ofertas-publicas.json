@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGYVLMRD",
+    "titulo": "LEGO® Creator 3 em 1 – Patins Retrô Brinquedo Antigo com Caixa de Som e Skate 31148",
+    "imagem": "https://m.media-amazon.com/images/I/81BBb97xbQL._AC_SL1500_.jpg",
+    "preco": 159,
+    "preco_anterior": 279,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGYVLMRD?tag=malica09-20",
+    "atualizado_em": "2026-09-23T15:20:12.463-03:00"
+  },
+  {
     "id": "amazon:B0BTTLQL75",
     "titulo": "Personal Fralda Baby Total Protect Pants M, 28 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51+Uej-jA5L._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
     "atualizado_em": "2026-09-22T15:20:31.374-03:00"
-  },
-  {
-    "id": "amazon:B0CPN2L6MQ",
-    "titulo": "Oferta: Carrinho de Bebê Passeio Vira Berço NIVI Maxi Baby (Cinza)",
-    "imagem": "https://m.media-amazon.com/images/I/61-uEvSBG0L._AC_SL1500_.jpg",
-    "preco": 416,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPN2L6MQ?tag=malica09-20",
-    "atualizado_em": "2026-09-22T15:15:26.610-03:00"
   }
 ]
