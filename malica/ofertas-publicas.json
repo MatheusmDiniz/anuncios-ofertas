@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26764181",
+    "titulo": "Totokinha Menina 0300 - Cardoso Toys Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765391-MLA99932711605_112025-F.jpg",
+    "preco": 74.9,
+    "preco_anterior": 78.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Djwx39",
+    "atualizado_em": "2026-09-23T11:32:25.686-03:00"
+  },
+  {
     "id": "shopee:399621856.23992794977",
     "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=malica09-20",
     "atualizado_em": "2026-09-22T11:37:04.934-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29765788",
-    "titulo": "Colônia Infantil Baruel Baby Sono Tranquilo 120ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968895-MLA113215874062_072026-F.jpg",
-    "preco": 8.35,
-    "preco_anterior": 14.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2yXFWmw",
-    "atualizado_em": "2026-09-22T11:31:56.742-03:00"
   }
 ]
