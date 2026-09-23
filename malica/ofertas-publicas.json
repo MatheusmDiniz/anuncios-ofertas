@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01HDTKUY6",
+    "titulo": "Tira Manchas Líquido Vanish White refil 500ml para Roupas Brancas. Sem Cloro, remove manchas sem danificar os tecidos e deixa o branco até 5 tons mais branco. Confie em Vanish.",
+    "imagem": "https://m.media-amazon.com/images/I/71w1Xz++HtL._AC_SL1500_.jpg",
+    "preco": 9.37,
+    "preco_anterior": 14.29,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01HDTKUY6?tag=malica09-20",
+    "atualizado_em": "2026-09-23T16:11:45.781-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19642578",
     "titulo": "Natura Mamae Bebe Agua De Colonia Sem Alcool 50ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_921701-MLA99833208789_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2jHC25Z",
     "atualizado_em": "2026-09-22T16:16:10.143-03:00"
-  },
-  {
-    "id": "amazon:B0C4Z5HYLW",
-    "titulo": "Buba, Massageador De Gengiva Banana Cerdas Curtas",
-    "imagem": "https://m.media-amazon.com/images/I/51DIF160lnL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C4Z5HYLW?tag=malica09-20",
-    "atualizado_em": "2026-09-22T16:11:00.785-03:00"
   }
 ]
