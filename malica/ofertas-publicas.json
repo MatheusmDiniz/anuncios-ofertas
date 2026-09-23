@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392724",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
+    "preco": 33.9,
+    "preco_anterior": 39.24,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Eeujoq",
+    "atualizado_em": "2026-09-22T21:36:02.540-03:00"
+  },
+  {
     "id": "amazon:B0D92N4VBW",
     "titulo": "Fralda Cremer Econômica G 30 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71B77M0LbML._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1136c1ckAC",
     "atualizado_em": "2026-09-21T21:40:36.019-03:00"
-  },
-  {
-    "id": "shopee:1006215031.28836487724",
-    "titulo": "Relógio Eletrônico LED De Astronauta Moderno Para Crianças E Estudantes Com Recurso De Luz Noturna",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823p9-mp4lzb06azgv39",
-    "preco": 9.58,
-    "preco_anterior": 14.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50ZFIDPBgn",
-    "atualizado_em": "2026-09-21T21:35:13.147-03:00"
   }
 ]
