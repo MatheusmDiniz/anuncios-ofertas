@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F4KXTCFT",
+    "titulo": "Desitin Creme Preventivo De Assaduras Proteção Diária Creamy, Kit com 3 Unidades de 113g",
+    "imagem": "https://m.media-amazon.com/images/I/71k9xm1E0gL._AC_SL1500_.jpg",
+    "preco": 112,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=malica09-20",
+    "atualizado_em": "2026-09-23T13:00:41.996-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB31739631",
     "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
