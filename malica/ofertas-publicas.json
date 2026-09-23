@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392608",
+    "titulo": "Fralda Descartável Baby M Pacote 50 Unidades Turma da Mônica",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
+    "preco": 31.06,
+    "preco_anterior": 50.05,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1DaK9pG",
+    "atualizado_em": "2026-09-23T14:13:08.526-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB51319421",
     "titulo": "Cadeira De Alimentação 3 em 1 Styll Baby - Mundo Bita",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_738066-MLA96129846303_102025-F.jpg",
