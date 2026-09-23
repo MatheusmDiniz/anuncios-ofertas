@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62786425",
+    "titulo": "LEGO Marvel Homem Aranha Vs. Motoqueiro Fantasma com Motocicleta 76335",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_686701-MLA100242913479_122025-F.jpg",
+    "preco": 55.9,
+    "preco_anterior": 79.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32r6vTz",
+    "atualizado_em": "2026-09-23T20:53:52.118-03:00"
+  },
+  {
     "id": "amazon:B07Z55NZ7G",
     "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
     "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
     "atualizado_em": "2026-09-22T20:54:53.226-03:00"
-  },
-  {
-    "id": "amazon:B0BLJS7ZBW",
-    "titulo": "Oferta: Barbie Laboratório de Ciências, Playset com Duas Bonecas e Acessórios STEM Para Experimentos Criativos",
-    "imagem": "https://m.media-amazon.com/images/I/61iQjnKjSFL._AC_SL1500_.jpg",
-    "preco": 156,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BLJS7ZBW?tag=malica09-20",
-    "atualizado_em": "2026-09-22T20:49:46.599-03:00"
   }
 ]
