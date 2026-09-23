@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CPT8CMSM",
+    "titulo": "Pampers Sabonete Líquido Glicerina 200ml : Amazon.com.br: Beleza",
+    "imagem": "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=malica09-20",
+    "atualizado_em": "2026-09-23T12:34:34.038-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44117936",
     "titulo": "Funko Pop - Racing - Ayrton Senna 11",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_611541-MLA99931609275_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
     "atualizado_em": "2026-09-22T12:36:14.686-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876062",
-    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 14.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mv74Yq",
-    "atualizado_em": "2026-09-22T12:31:07.495-03:00"
   }
 ]
