@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34078818",
+    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
+    "preco": 23,
+    "preco_anterior": 39.54,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2eoTVgJ",
+    "atualizado_em": "2026-09-23T11:06:42.304-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26693140",
     "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uuTxjq",
     "atualizado_em": "2026-09-22T11:11:25.256-03:00"
-  },
-  {
-    "id": "amazon:B0DW21JJGF",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho XXXG, 54 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/616S187g2jL._AC_SL1500_.jpg",
-    "preco": 93,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DW21JJGF?tag=malica09-20",
-    "atualizado_em": "2026-09-22T11:06:16.158-03:00"
   }
 ]
