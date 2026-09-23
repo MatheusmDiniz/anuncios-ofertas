@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19466939",
+    "titulo": "Cereal neston 3 cereais 360g Nestlé",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602906-MLU78432990521_082024-F.jpg",
+    "preco": 15.74,
+    "preco_anterior": 16.62,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MMUBY3",
+    "atualizado_em": "2026-09-23T10:30:11.743-03:00"
+  },
+  {
     "id": "shopee:1126224431.23497604775",
     "titulo": "Relógio Digital Infantil À Prova D'água Com Display Luminoso Multifuncional Esportivo Para Meninos E Meninas Presentes",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqigqf0p2ltt27",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KdJfCp",
     "atualizado_em": "2026-09-22T10:30:15.219-03:00"
-  },
-  {
-    "id": "shopee:1574065889.22698734793",
-    "titulo": "Kit 3 Camiseta Gola Polo Para Menino Bebê 100% Algodão Infantil Na Promoção",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcapzc06jborc2",
-    "preco": 29,
-    "preco_anterior": 70.73,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50ZF89Z81C",
-    "atualizado_em": "2026-09-22T10:25:05.219-03:00"
   }
 ]
