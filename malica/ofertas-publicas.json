@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876098",
+    "titulo": "Refil Sabonete Líquido Hora Do 180ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911165-MLA108909313046_032026-F.jpg",
+    "preco": 10.99,
+    "preco_anterior": 17.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2LCJPbM",
+    "atualizado_em": "2026-09-23T15:45:50.161-03:00"
+  },
+  {
     "id": "amazon:B0H1GBRK4V",
     "titulo": "Lápis de Cor Aquarelável 72 Cores, Alta Pigmentação e Mina Resistente | Dissolve facilmente, Efeito aquarela, Fácil de usar, Alta resistência à quebra, Alta pigmentação,Momento de relaxar",
     "imagem": "https://m.media-amazon.com/images/I/81ryf8a12NL._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=malica09-20",
     "atualizado_em": "2026-09-22T15:50:18.041-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22517003",
-    "titulo": "Lenço Umedecido Huggies Higiene Diária Rendem 2x Mais 88 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_663083-MLA110467585125_042026-F.jpg",
-    "preco": 9.22,
-    "preco_anterior": 11.84,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1nLmEEc",
-    "atualizado_em": "2026-09-22T15:45:09.290-03:00"
   }
 ]
