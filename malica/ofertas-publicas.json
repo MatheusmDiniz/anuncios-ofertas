@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876092",
+    "titulo": "Sabonete Líquido De Glicerina Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
+    "preco": 23.99,
+    "preco_anterior": 41.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xXuLrP",
+    "atualizado_em": "2026-09-22T21:41:09.491-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392724",
     "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4VcymSu50L",
     "atualizado_em": "2026-09-21T21:45:43.373-03:00"
-  },
-  {
-    "id": "shopee:888899466.58263239161",
-    "titulo": "Kit Enxoval Bebê 10 Peças 5 Body Manga Longa   5 Calças Mijão | Lisas | 100% Algodão | Menina Menino Unissex infantil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mte8vetzgkqo7d",
-    "preco": 59.99,
-    "preco_anterior": 124.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1136c1ckAC",
-    "atualizado_em": "2026-09-21T21:40:36.019-03:00"
   }
 ]
