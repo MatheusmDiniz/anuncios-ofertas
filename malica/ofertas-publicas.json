@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:548029260.58257405717",
+    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
+    "preco": 42.9,
+    "preco_anterior": 70.33,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7fa0YHi1Zk",
+    "atualizado_em": "2026-09-23T19:01:05.328-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21867939",
     "titulo": "Mustela Stelaker Crosta Láctea Bebê 40ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811924-MLA99428014524_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C9ZT3B49?tag=malica09-20",
     "atualizado_em": "2026-09-22T19:02:22.000-03:00"
-  },
-  {
-    "id": "amazon:B07M7Q36ZS",
-    "titulo": "Absorvente Para Seios Amamente® 30 UN",
-    "imagem": "https://m.media-amazon.com/images/I/716xonuId3L._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07M7Q36ZS?tag=malica09-20",
-    "atualizado_em": "2026-09-22T18:57:13.309-03:00"
   }
 ]
