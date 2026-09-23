@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28660083",
+    "titulo": "Mosquiteiro Universale Branco Bublim Incomfral Elástico Carrinho Mini Berço",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906796-MLA100096322935_122025-F.jpg",
+    "preco": 10.31,
+    "preco_anterior": 19.83,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EYrH38",
+    "atualizado_em": "2026-09-23T10:40:37.617-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39426115",
     "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
     "atualizado_em": "2026-09-22T10:45:42.722-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26114298",
-    "titulo": "Garrafinha Infantil Com Canudo Dino 400ml 12m+ Azul - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_782620-MLA99588881380_122025-F.jpg",
-    "preco": 23,
-    "preco_anterior": 40.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2x5sgB6",
-    "atualizado_em": "2026-09-22T10:40:34.959-03:00"
   }
 ]
