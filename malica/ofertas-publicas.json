@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:264369390.22698324836",
+    "titulo": "Vestido de Menina Infantil - ENVIO IMEDIATO",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8mj2rgzkhapa5",
+    "preco": 19.99,
+    "preco_anterior": 29.84,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/W6sS2dnMT",
+    "atualizado_em": "2026-09-23T09:28:19.247-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63710202",
     "titulo": "Absorventes para Seios Ultra Respiráveis Medela, 30 unids",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_810766-MLA103253081881_122025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bevmQk",
     "atualizado_em": "2026-09-22T09:28:52.396-03:00"
-  },
-  {
-    "id": "shopee:256178443.43827654367",
-    "titulo": "KIT Anéis Infantil Sortidos Ajustáveis Menina Anel  para Criança Modelos Divertidos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mivps325puki8d",
-    "preco": 9.2,
-    "preco_anterior": 21.4,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3g3rXlgzMe",
-    "atualizado_em": "2026-09-22T09:23:43.310-03:00"
   }
 ]
