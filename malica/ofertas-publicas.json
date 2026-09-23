@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24647481",
+    "titulo": "Bicicleta De Equilíbrio Zippy Toys Andador Infantil Bike Sem Pedal Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_890028-MLA96136074259_102025-F.jpg",
+    "preco": 77.7,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32GEWzd",
+    "atualizado_em": "2026-09-23T08:52:19.959-03:00"
+  },
+  {
     "id": "shopee:1233552581.23492959831",
     "titulo": "Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Quente Feminino Jaqueta Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81zum-mkjug1b6qviadf",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/18azKf2",
     "atualizado_em": "2026-09-22T08:53:50.771-03:00"
-  },
-  {
-    "id": "shopee:410705973.7183482061",
-    "titulo": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção  JorgeStore",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbk7-lnu5cle2rcg8ea",
-    "preco": 27.55,
-    "preco_anterior": 70.64,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6VO2TleVMN",
-    "atualizado_em": "2026-09-22T08:48:40.688-03:00"
   }
 ]
