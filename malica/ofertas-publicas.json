@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24762578",
+    "titulo": "Assento Redutor Infantil Com Escada Para Vaso Sanitário",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932110-MLA104013585861_012026-F.jpg",
+    "preco": 65.13,
+    "preco_anterior": 99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/18mRjbm",
+    "atualizado_em": "2026-09-23T17:13:22.975-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24364799",
     "titulo": "Pratinho Em Silicone Com Ventosas Verde Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_600922-MLA99840674123_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07J2M2YL1?tag=malica09-20",
     "atualizado_em": "2026-09-22T17:18:05.075-03:00"
-  },
-  {
-    "id": "amazon:B07J2PCFB3",
-    "titulo": "Oferta: Sunny, Skye,1342, Pelúcia, 12",
-    "imagem": "https://m.media-amazon.com/images/I/51pI0bdl8AL._AC_SL1500_.jpg",
-    "preco": 78,
-    "preco_anterior": 129,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07J2PCFB3?tag=malica09-20",
-    "atualizado_em": "2026-09-22T17:12:55.132-03:00"
   }
 ]
