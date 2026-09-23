@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24646908",
+    "titulo": "Kit Trava Gaveta Porta Armário Geladeira Segurança Bebê Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962810-MLA99839467723_112025-F.jpg",
+    "preco": 33.49,
+    "preco_anterior": 68.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1p8M5jt",
+    "atualizado_em": "2026-09-23T14:54:25.108-03:00"
+  },
+  {
     "id": "shopee:1009324389.21399759049",
     "titulo": "Carrinho De Bebê EasyGo Com Cesto 3 Rodas Até 15kg KaBaby - Cinza",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratp-maoi7fobmij4a2",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=malica09-20",
     "atualizado_em": "2026-09-22T14:54:56.435-03:00"
-  },
-  {
-    "id": "amazon:B0CYLY287R",
-    "titulo": "Shampoo Huggies Kids Brilho Mágico 360 ml",
-    "imagem": "https://m.media-amazon.com/images/I/61AfAY+8DWL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CYLY287R?tag=malica09-20",
-    "atualizado_em": "2026-09-22T14:49:50.185-03:00"
   }
 ]
