@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB31739631",
+    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
+    "preco": 424.86,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Y8xSvd",
+    "atualizado_em": "2026-09-23T12:55:33.241-03:00"
+  },
+  {
     "id": "amazon:B08JQND4NB",
     "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
     "imagem": "https://m.media-amazon.com/images/I/51xjZk9-YjL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=malica09-20",
     "atualizado_em": "2026-09-22T12:56:53.640-03:00"
-  },
-  {
-    "id": "amazon:B0HKBR2RD2",
-    "titulo": "Kit Cuidado Higiene Completo Infantil Bebê Crianças Minizen",
-    "imagem": "https://m.media-amazon.com/images/I/51Tw+HTOTDL._AC_SL1500_.jpg",
-    "preco": 119.9,
-    "preco_anterior": 149.88,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HKBR2RD2?tag=malica09-20",
-    "atualizado_em": "2026-09-22T12:51:47.177-03:00"
   }
 ]
