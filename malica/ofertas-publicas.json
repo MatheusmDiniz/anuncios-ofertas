@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CQDGFNBP",
+    "titulo": "Oferta: Calcinha Absorvente Menstrual Pantys Xodó, Fluxo Moderado, Feminino, 1 Unidade",
+    "imagem": "https://m.media-amazon.com/images/I/51DGhK2g8qL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": 59,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CQDGFNBP?tag=malica09-20",
+    "atualizado_em": "2026-09-23T15:25:18.950-03:00"
+  },
+  {
     "id": "amazon:B0CGYVLMRD",
     "titulo": "LEGO® Creator 3 em 1 – Patins Retrô Brinquedo Antigo com Caixa de Som e Skate 31148",
     "imagem": "https://m.media-amazon.com/images/I/81BBb97xbQL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2j8Abfk",
     "atualizado_em": "2026-09-22T15:34:50.012-03:00"
-  },
-  {
-    "id": "amazon:B0BJ7ZTCH6",
-    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
-    "preco": 117,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
-    "atualizado_em": "2026-09-22T15:20:31.374-03:00"
   }
 ]
