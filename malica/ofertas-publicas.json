@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H77JHHH6",
+    "titulo": "Conjunto de 3 peças de body e calça 3-piece Bodysuit Pant Sets Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81RVNTeDT7L._AC_SL1500_.jpg",
+    "preco": 107,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H77JHHH6?tag=malica09-20",
+    "atualizado_em": "2026-09-23T19:06:10.494-03:00"
+  },
+  {
     "id": "shopee:548029260.58257405717",
     "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=malica09-20",
     "atualizado_em": "2026-09-22T19:07:28.373-03:00"
-  },
-  {
-    "id": "amazon:B0C9ZT3B49",
-    "titulo": "Oferta: Play-Doh Mini Kit Veterinário com cão, brinquedo para crianças",
-    "imagem": "https://m.media-amazon.com/images/I/61HthRzWF8L._AC_SL1500_.jpg",
-    "preco": 35,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9ZT3B49?tag=malica09-20",
-    "atualizado_em": "2026-09-22T19:02:22.000-03:00"
   }
 ]
