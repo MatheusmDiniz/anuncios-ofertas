@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DH9L38ZM",
+    "titulo": "Buba, Máquina Fotográfica Com Projetor",
+    "imagem": "https://m.media-amazon.com/images/I/51Cs1tlQ7yL._AC_SL1500_.jpg",
+    "preco": 59,
+    "preco_anterior": 141,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DH9L38ZM?tag=malica09-20",
+    "atualizado_em": "2026-09-23T14:23:27.507-03:00"
+  },
+  {
     "id": "amazon:B07Y2H5NL4",
     "titulo": "Garrafa Térmica Parede Dupla, Buba, Rosa, 400 ml : Não Informado: Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/41aE1cs6+kL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2NrxpxU",
     "atualizado_em": "2026-09-22T14:24:05.401-03:00"
-  },
-  {
-    "id": "amazon:B0BJ7ZDKR7",
-    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses",
-    "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
-    "preco": 112,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BJ7ZDKR7?tag=malica09-20",
-    "atualizado_em": "2026-09-22T14:18:57.391-03:00"
   }
 ]
