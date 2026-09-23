@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1009324389.21399759049",
+    "titulo": "Carrinho De Bebê EasyGo Com Cesto 3 Rodas Até 15kg KaBaby - Cinza",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratp-maoi7fobmij4a2",
+    "preco": 349.95,
+    "preco_anterior": 795.34,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BF6snCxcQ",
+    "atualizado_em": "2026-09-23T14:49:13.785-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45976810",
     "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CYLY287R?tag=malica09-20",
     "atualizado_em": "2026-09-22T14:49:50.185-03:00"
-  },
-  {
-    "id": "amazon:B07D3SCHVS",
-    "titulo": "Sabonete Líquido Huggies Camomila para Recém-Nascidos 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61ENSnIO0qL._AC_SL1500_.jpg",
-    "preco": 12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D3SCHVS?tag=malica09-20",
-    "atualizado_em": "2026-09-22T14:44:39.127-03:00"
   }
 ]
