@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25972870",
+    "titulo": "MAMADEIRA PETALA PHILIPS AVENT 260ML AZUL SCY903/21",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798265-MLA99950086767_112025-F.jpg",
+    "preco": 59.9,
+    "preco_anterior": 99.91,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2xbL1US",
+    "atualizado_em": "2026-09-23T11:11:52.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34078818",
     "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=malica09-20",
     "atualizado_em": "2026-09-22T11:16:33.396-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24626810",
-    "titulo": "Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700261-MLA99618194932_122025-F.jpg",
-    "preco": 34,
-    "preco_anterior": 67.92,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2uuTxjq",
-    "atualizado_em": "2026-09-22T11:11:25.256-03:00"
   }
 ]
