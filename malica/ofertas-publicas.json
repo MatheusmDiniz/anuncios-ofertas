@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19601136",
+    "titulo": "Lenços Umedecidos Upa Bebê - 140 Unidades Toalhas Umedecidas Com Tampa Flip Top Sem Alcool",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771265-MLA104343721506_012026-F.jpg",
+    "preco": 8,
+    "preco_anterior": 18.74,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1jfeDiZ",
+    "atualizado_em": "2026-09-23T19:31:48.358-03:00"
+  },
+  {
     "id": "amazon:B0H5FBVLGF",
     "titulo": "Carter",
     "imagem": "https://m.media-amazon.com/images/I/719Y4aHPrHL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZsrkHX",
     "atualizado_em": "2026-09-22T19:33:02.506-03:00"
-  },
-  {
-    "id": "amazon:B01MRDV6Q7",
-    "titulo": "Body 5-pack Long-sleeve Bodysuit Carter",
-    "imagem": "https://m.media-amazon.com/images/I/91nmQXUt9SL._AC_SL1500_.jpg",
-    "preco": 156,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B01MRDV6Q7?tag=malica09-20",
-    "atualizado_em": "2026-09-22T19:27:51.977-03:00"
   }
 ]
