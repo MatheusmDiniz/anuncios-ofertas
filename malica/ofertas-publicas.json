@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07KJXP8TK",
+    "titulo": "Malvatrikids F Infantil gel 70g",
+    "imagem": "https://m.media-amazon.com/images/I/51cI+X7NOjL._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07KJXP8TK?tag=malica09-20",
+    "atualizado_em": "2026-09-23T14:02:40.716-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392643",
     "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093GCJ1JP?tag=malica09-20",
     "atualizado_em": "2026-09-22T14:03:37.038-03:00"
-  },
-  {
-    "id": "amazon:B0BDT2JD8T",
-    "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
-    "preco": 26,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:58:30.318-03:00"
   }
 ]
