@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z55NZ7G",
+    "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
+    "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
+    "preco": 11,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
+    "atualizado_em": "2026-09-23T20:48:42.157-03:00"
+  },
+  {
     "id": "amazon:B08T6JZC6D",
     "titulo": "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
     "imagem": "https://m.media-amazon.com/images/I/61Odo+CzWwL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BLJS7ZBW?tag=malica09-20",
     "atualizado_em": "2026-09-22T20:49:46.599-03:00"
-  },
-  {
-    "id": "amazon:B0FJ2V1XBR",
-    "titulo": "Travel System Safety 1st, Mobi Duo, Grey Sport",
-    "imagem": "https://m.media-amazon.com/images/I/51+zjaKGq3L._AC_SL1500_.jpg",
-    "preco": 1479.99,
-    "preco_anterior": 2199,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FJ2V1XBR?tag=malica09-20",
-    "atualizado_em": "2026-09-22T20:44:40.125-03:00"
   }
 ]
