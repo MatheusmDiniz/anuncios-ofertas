@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215261",
+    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
+    "preco": 124,
+    "preco_anterior": 210.74,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kR3Zoo",
+    "atualizado_em": "2026-09-23T15:56:19.100-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875743",
     "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=malica09-20",
     "atualizado_em": "2026-09-22T16:00:38.681-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44326248",
-    "titulo": "Filtro de Linha 5 tomadas Intelbras Preto EPE205 Bivolt",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905986-MLA99450018062_112025-F.jpg",
-    "preco": 31.32,
-    "preco_anterior": 67,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2pisWec",
-    "atualizado_em": "2026-09-22T15:55:29.626-03:00"
   }
 ]
