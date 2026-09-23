@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1700242901.58214519187",
+    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
+    "preco": 47.9,
+    "preco_anterior": 108.86,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8V97XoeqsT",
+    "atualizado_em": "2026-09-23T08:05:50.970-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27044595",
     "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V1ejeb2qp",
     "atualizado_em": "2026-09-22T08:07:48.267-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27590860",
-    "titulo": "Babador De Silicone Pega Migalhas Menina 09724 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_831978-MLA100084513681_122025-F.jpg",
-    "preco": 18.69,
-    "preco_anterior": 39.05,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HcG1eP",
-    "atualizado_em": "2026-09-22T08:02:43.619-03:00"
   }
 ]
