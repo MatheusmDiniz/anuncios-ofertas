@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28643543",
+    "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
+    "preco": 36.74,
+    "preco_anterior": 53.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1vpPWWV",
+    "atualizado_em": "2026-09-23T09:12:53.940-03:00"
+  },
+  {
     "id": "shopee:378486926.58263443418",
     "titulo": "Bota Infantil Menina Coturno Cano Curto Feminina Blogueira Juvenil Tratorada",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr7dzhf6p0cl83",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGaLyDzy6",
     "atualizado_em": "2026-09-22T09:13:29.864-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35090823",
-    "titulo": "Fisher-price Tablet De Aprendizagem Cresce Comigo - Mattel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930205-MLA99502382540_112025-F.jpg",
-    "preco": 108.99,
-    "preco_anterior": 179.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2aC3q8p",
-    "atualizado_em": "2026-09-22T09:08:24.293-03:00"
   }
 ]
