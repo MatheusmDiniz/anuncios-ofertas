@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08V2HBZH2",
+    "titulo": "Baby Dove Shampoo Hidratação Glicerinada 400 ML",
+    "imagem": "https://m.media-amazon.com/images/I/510MkOygOrL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08V2HBZH2?tag=malica09-20",
+    "atualizado_em": "2026-09-22T21:20:44.710-03:00"
+  },
+  {
     "id": "amazon:B0744PMZVG",
     "titulo": "Calças Pacote com 4 calças neutras Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/812ym5SVSUL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LR0dVvz2I",
     "atualizado_em": "2026-09-21T21:24:50.456-03:00"
-  },
-  {
-    "id": "shopee:1351699374.23399364621",
-    "titulo": "Short Boxer Infantil Curto Cotton Menina 96%Algodão Ideal para Usar com Saias e Vestidos Tam 2 ao 12",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mraaaogwndhgd4",
-    "preco": 17.98,
-    "preco_anterior": 26.06,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fwP44NoGG",
-    "atualizado_em": "2026-09-21T21:19:38.673-03:00"
   }
 ]
