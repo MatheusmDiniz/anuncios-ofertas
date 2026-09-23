@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09M8XF3CJ",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81Fagm+57oL._AC_SL1500_.jpg",
+    "preco": 183,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09M8XF3CJ?tag=malica09-20",
+    "atualizado_em": "2026-09-22T21:05:21.861-03:00"
+  },
+  {
     "id": "amazon:B07ZPQDHXH",
     "titulo": "Macacão de dormir para bebês 2-pack Neutral Fleece Footed Sleep and Play Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81c23pu3BAL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qjgKYEVth",
     "atualizado_em": "2026-09-21T21:09:26.236-03:00"
-  },
-  {
-    "id": "shopee:1263405995.19298130468",
-    "titulo": "Materna Nestlé 30 Comprimidos Suplemento Vitamínico Gestação Saúde Nutricional Bem Estar Diário",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7req9-m8v1lbc6yknp48",
-    "preco": 62.45,
-    "preco_anterior": 124.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7KxAEwNCFm",
-    "atualizado_em": "2026-09-21T21:04:18.101-03:00"
   }
 ]
