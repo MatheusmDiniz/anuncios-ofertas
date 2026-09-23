@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27145476",
+    "titulo": "Huggies Colônia Extra Suave Sem Álcool Hipoalegênica 100 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896995-MLA116124106381_082026-F.jpg",
+    "preco": 15.99,
+    "preco_anterior": 27.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mUFvwo",
+    "atualizado_em": "2026-09-23T13:16:11.964-03:00"
+  },
+  {
     "id": "amazon:B0781CTJF6",
     "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
     "imagem": "https://m.media-amazon.com/images/I/51XpbplLvaL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00TAC05EA?tag=malica09-20",
     "atualizado_em": "2026-09-22T13:17:35.764-03:00"
-  },
-  {
-    "id": "amazon:B0D8JVLYKT",
-    "titulo": "Granado Refil Shampoo Bebê, Tradicional, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/51JNcvab-nL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:12:19.478-03:00"
   }
 ]
