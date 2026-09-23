@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27044593",
+    "titulo": "Babador De Silicone Gumy Com Pega Migalhas Azul Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807671-MLA100108484153_122025-F.jpg",
+    "preco": 23.99,
+    "preco_anterior": 40.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2K98RFw",
+    "atualizado_em": "2026-09-23T15:04:45.606-03:00"
+  },
+  {
     "id": "amazon:B0GSBW6L2Y",
     "titulo": "Buba, Garrafinha De Alumínio Buba Zoo Girafa",
     "imagem": "https://m.media-amazon.com/images/I/512j1J1Kf2L._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6555474629?tag=malica09-20",
     "atualizado_em": "2026-09-22T15:05:11.607-03:00"
-  },
-  {
-    "id": "amazon:B0B3S9QWQY",
-    "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
-    "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
-    "atualizado_em": "2026-09-22T15:00:02.868-03:00"
   }
 ]
