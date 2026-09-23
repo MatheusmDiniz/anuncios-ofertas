@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07BSL81YD",
+    "titulo": "Jogo War Edição Especial, 3 a 6 Jogadores, a partir de 10 anos",
+    "imagem": "https://m.media-amazon.com/images/I/71gw302vfSL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07BSL81YD?tag=malica09-20",
+    "atualizado_em": "2026-09-23T16:37:23.497-03:00"
+  },
+  {
     "id": "amazon:B0D6S1883H",
     "titulo": "Vida Macia Amaciante Glicerina & Erva Doce 500Ml",
     "imagem": "https://m.media-amazon.com/images/I/61kUYKJSohL._AC_SL1500_.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DJ17HPF2?tag=malica09-20",
     "atualizado_em": "2026-09-22T16:42:01.848-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17933512",
-    "titulo": "Cereal Neston 3 Cereais Nestlé Multicereais para Vitaminas 600 g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828436-MLA99439720320_112025-F.jpg",
-    "preco": 16.9,
-    "preco_anterior": 21.01,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13cojK9",
-    "atualizado_em": "2026-09-22T16:36:51.164-03:00"
   }
 ]
