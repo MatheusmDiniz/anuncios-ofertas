@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38943078",
+    "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
+    "preco": 206.9,
+    "preco_anterior": 399.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/12iT7nu",
+    "atualizado_em": "2026-09-23T19:21:29.515-03:00"
+  },
+  {
     "id": "amazon:B0H5L73M1X",
     "titulo": "Carter",
     "imagem": "https://m.media-amazon.com/images/I/71MzXYFL5gL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XpGQFA",
     "atualizado_em": "2026-09-22T19:22:45.721-03:00"
-  },
-  {
-    "id": "amazon:B0H5FLS644",
-    "titulo": "Conjunto de calça de body de 2 peças 2-piece Bodysuit Pant Set Carter",
-    "imagem": "https://m.media-amazon.com/images/I/7187gfeY8xL._AC_SL1500_.jpg",
-    "preco": 114,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5FLS644?tag=malica09-20",
-    "atualizado_em": "2026-09-22T19:17:39.166-03:00"
   }
 ]
