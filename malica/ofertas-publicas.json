@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18406873",
+    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
+    "preco": 21.59,
+    "preco_anterior": 31.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2nh1NJn",
+    "atualizado_em": "2026-09-23T17:18:31.250-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24762578",
     "titulo": "Assento Redutor Infantil Com Escada Para Vaso Sanitário",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932110-MLA104013585861_012026-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0848FMW1W?tag=malica09-20",
     "atualizado_em": "2026-09-22T17:23:13.053-03:00"
-  },
-  {
-    "id": "amazon:B07J2M2YL1",
-    "titulo": "Pelucia Patrulha Canina Rubble 30cm Sunny",
-    "imagem": "https://m.media-amazon.com/images/I/51c-4QTWsFL._AC_SL1500_.jpg",
-    "preco": 68,
-    "preco_anterior": 129,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07J2M2YL1?tag=malica09-20",
-    "atualizado_em": "2026-09-22T17:18:05.075-03:00"
   }
 ]
