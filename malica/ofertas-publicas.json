@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1822435935.58214954463",
+    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Inverno Infantil Fashion Short Blusa Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr26imqr94w499",
+    "preco": 47.9,
+    "preco_anterior": 95.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80CtNiRGoK",
+    "atualizado_em": "2026-09-23T11:37:38.468-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26764181",
     "titulo": "Totokinha Menina 0300 - Cardoso Toys Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_765391-MLA99932711605_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2gfkcGb",
     "atualizado_em": "2026-09-22T11:42:14.153-03:00"
-  },
-  {
-    "id": "amazon:B0BKLNG66P",
-    "titulo": "Huggies Fralda Pants Premium Natural Care XG - 56 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81zBDScUUWL._AC_SL1500_.jpg",
-    "preco": 79,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BKLNG66P?tag=malica09-20",
-    "atualizado_em": "2026-09-22T11:37:04.934-03:00"
   }
 ]
