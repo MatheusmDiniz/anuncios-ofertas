@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19531106",
+    "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
+    "preco": 296.64,
+    "preco_anterior": 599.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2uiuBZ6",
+    "atualizado_em": "2026-09-23T15:35:36.765-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24531140",
     "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7AdjxMFGe4",
     "atualizado_em": "2026-09-22T15:39:59.209-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875637",
-    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
-    "preco": 14.24,
-    "preco_anterior": 16.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2j8Abfk",
-    "atualizado_em": "2026-09-22T15:34:50.012-03:00"
   }
 ]
