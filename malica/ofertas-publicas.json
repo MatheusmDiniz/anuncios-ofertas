@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GV4ZMBN2",
+    "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81Jwady6ctL._AC_SL1500_.jpg",
+    "preco": 126,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GV4ZMBN2?tag=malica09-20",
+    "atualizado_em": "2026-09-23T19:47:08.849-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26458025",
     "titulo": "Protetor De Tomada 10 Un - Safety 1st",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_855654-MLU78213173869_082024-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FDH242N8?tag=malica09-20",
     "atualizado_em": "2026-09-22T19:48:24.559-03:00"
-  },
-  {
-    "id": "amazon:B098BX31JL",
-    "titulo": "Baby Dove Sabonete Líquido De Glicerina Hidratação Relaxante Hora De Dormir Frasco 400 Ml",
-    "imagem": "https://m.media-amazon.com/images/I/61g5SCJ2r0L._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B098BX31JL?tag=malica09-20",
-    "atualizado_em": "2026-09-22T19:43:18.768-03:00"
   }
 ]
