@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69561731",
+    "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
+    "preco": 32.44,
+    "preco_anterior": 59.73,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1HsJSmD",
+    "atualizado_em": "2026-09-23T08:41:55.214-03:00"
+  },
+  {
     "id": "shopee:1698895168.58254892330",
     "titulo": "Mosquiteiro Para Berço Americano e Mini Berço Tule Tela Mosquiteira Cortinado Rede Protetora",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn94rclpiqkhd9",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/24JBp3H",
     "atualizado_em": "2026-09-22T08:43:35.134-03:00"
-  },
-  {
-    "id": "shopee:1163467429.23394401680",
-    "titulo": "Manta Cobertor de Bebê c/ Naninha Para Menina Menino Infantil Mantinha Premium 02 Peças",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrnt72k0npe90",
-    "preco": 34.47,
-    "preco_anterior": 59.43,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2Vru9e6xK9",
-    "atualizado_em": "2026-09-22T08:38:27.327-03:00"
   }
 ]
