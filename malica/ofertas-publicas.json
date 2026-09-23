@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBBWQB4G",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
+    "preco": 87,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
+    "atualizado_em": "2026-09-23T11:53:14.281-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47743053",
     "titulo": "Escova De Dente Mordedor Primeiro Dentinhos 0 A 2 Anos Buba Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_915524-MLA99907110867_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DFQJQGPL?tag=malica09-20",
     "atualizado_em": "2026-09-22T11:57:48.484-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB33294420",
-    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
-    "preco": 13.52,
-    "preco_anterior": 27.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Q4Wv1Y",
-    "atualizado_em": "2026-09-22T11:52:40.528-03:00"
   }
 ]
