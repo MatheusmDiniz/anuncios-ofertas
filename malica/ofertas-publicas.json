@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25863440",
+    "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
+    "preco": 79.39,
+    "preco_anterior": 147.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kf8ris",
+    "atualizado_em": "2026-09-23T13:05:52.552-03:00"
+  },
+  {
     "id": "amazon:B0F4KXTCFT",
     "titulo": "Desitin Creme Preventivo De Assaduras Proteção Diária Creamy, Kit com 3 Unidades de 113g",
     "imagem": "https://m.media-amazon.com/images/I/71k9xm1E0gL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=malica09-20",
     "atualizado_em": "2026-09-22T13:07:06.871-03:00"
-  },
-  {
-    "id": "amazon:B07YVMT1M2",
-    "titulo": "Mustela Maternité Óleo Estrias 105 Ml - Previne Estrias Com Ação Hidratante Aumenta A Elasticidade E Acalma A Sensação De Coceira -100% Natural - Gravidez E Pós-Parto",
-    "imagem": "https://m.media-amazon.com/images/I/51Xj1dq9NpL._AC_SL1500_.jpg",
-    "preco": 117.9,
-    "preco_anterior": 147.38,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07YVMT1M2?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:02:00.409-03:00"
   }
 ]
