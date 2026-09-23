@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875996",
+    "titulo": "Sabonete Líquido Baruel Baby Glicerina Perfumado 210ml A-R",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835837-MLA105345918437_012026-F.jpg",
+    "preco": 16.09,
+    "preco_anterior": 20.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kH8NKX",
+    "atualizado_em": "2026-09-22T21:51:24.572-03:00"
+  },
+  {
     "id": "shopee:1207318462.18098113310",
     "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8AWEnZ6jL2",
     "atualizado_em": "2026-09-21T21:56:07.518-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB51319421",
-    "titulo": "Cadeira De Alimentação 3 em 1 Styll Baby - Mundo Bita",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738066-MLA96129846303_102025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 319.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yMuwAJ",
-    "atualizado_em": "2026-09-21T21:51:02.872-03:00"
   }
 ]
