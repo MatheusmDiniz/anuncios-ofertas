@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 175.95,
+    "preco_anterior": 263.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Cuz4mH",
+    "atualizado_em": "2026-09-23T12:24:14.939-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392841",
     "titulo": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_753827-MLA80015367155_102024-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
     "atualizado_em": "2026-09-22T12:25:59.941-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19835052",
-    "titulo": "Toalha Umedecida Meu Bebê Ultra 1x50 Folhas",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677768-MLA99423570880_112025-F.jpg",
-    "preco": 12.99,
-    "preco_anterior": 24.3,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/21w4XE8",
-    "atualizado_em": "2026-09-22T12:20:55.300-03:00"
   }
 ]
