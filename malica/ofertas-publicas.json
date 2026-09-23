@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18406931",
+    "titulo": "Sabonete Líquido Glicerina Huggies Extra Suave Refil 200 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755691-MLA116124369539_082026-F.jpg",
+    "preco": 12.99,
+    "preco_anterior": 22.52,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KK85gv",
+    "atualizado_em": "2026-09-23T18:50:54.233-03:00"
+  },
+  {
     "id": "amazon:B0DS6HRGFF",
     "titulo": "Oferta: Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
     "imagem": "https://m.media-amazon.com/images/I/51Q8ZhEzdvL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2eiSAuj",
     "atualizado_em": "2026-09-22T18:52:08.532-03:00"
-  },
-  {
-    "id": "amazon:B0CQTNGCF9",
-    "titulo": "Play-Doh, Massinha de Modelar Infantil, Smoothies Coloridos - Conjunto de Brinquedo com Liquidificador de Brinquedo, Acessórios e 5 Potes - A partir de 3 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71HyVqL3MRL._AC_SL1500_.jpg",
-    "preco": 43,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CQTNGCF9?tag=malica09-20",
-    "atualizado_em": "2026-09-22T18:46:56.962-03:00"
   }
 ]
