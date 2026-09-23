@@ -1578,15 +1578,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D3SCHVS?tag=malica09-20",
     "atualizado_em": "2026-09-22T14:44:39.127-03:00"
-  },
-  {
-    "id": "amazon:B07DHR9LSK",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
-    "preco": 16,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
-    "atualizado_em": "2026-09-22T14:39:34.073-03:00"
   }
 ]
