@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FQG8WBGZ",
+    "titulo": "Bancada Penteadeira Infantil 3 em 1 Maleta 21 Peça Maxi Toys",
+    "imagem": "https://m.media-amazon.com/images/I/71TZzNwpLrL._AC_SL1500_.jpg",
+    "preco": 63,
+    "preco_anterior": 129,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FQG8WBGZ?tag=malica09-20",
+    "atualizado_em": "2026-09-23T13:26:30.741-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342443",
     "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B21WYYQR?tag=malica09-20",
     "atualizado_em": "2026-09-22T13:27:50.993-03:00"
-  },
-  {
-    "id": "amazon:B0DD7V56G1",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
-    "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
-    "preco": 161,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:22:44.373-03:00"
   }
 ]
