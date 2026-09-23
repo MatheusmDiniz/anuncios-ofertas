@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0744PMZVG",
+    "titulo": "Calças Pacote com 4 calças neutras Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/812ym5SVSUL._AC_SL1500_.jpg",
+    "preco": 136,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0744PMZVG?tag=malica09-20",
+    "atualizado_em": "2026-09-22T21:15:35.944-03:00"
+  },
+  {
     "id": "amazon:B07GKNF9FZ",
     "titulo": "Body Pacote com 5 bodies de manga comprida Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/9170UFB2zgL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fwP44NoGG",
     "atualizado_em": "2026-09-21T21:19:38.673-03:00"
-  },
-  {
-    "id": "shopee:1450084195.22498145016",
-    "titulo": "Cadeira de alimentação bebê portátil 3 em 1 Styll Baby Seggura cadeirão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mqxbbzf9cdfqed",
-    "preco": 193,
-    "preco_anterior": 321.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7ptQpslHqT",
-    "atualizado_em": "2026-09-21T21:14:32.149-03:00"
   }
 ]
