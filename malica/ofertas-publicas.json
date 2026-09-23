@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB64887929",
+    "titulo": "Figura de Ação Lançador do Woody Toy Story Imaginext Mattel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601215-MLA105676782387_012026-F.jpg",
+    "preco": 50.9,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1aerZMn",
+    "atualizado_em": "2026-09-23T19:52:16.875-03:00"
+  },
+  {
     "id": "amazon:B0GV4ZMBN2",
     "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
     "imagem": "https://m.media-amazon.com/images/I/81Jwady6ctL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H6QSWK96?tag=malica09-20",
     "atualizado_em": "2026-09-22T19:53:30.663-03:00"
-  },
-  {
-    "id": "amazon:B0FDH242N8",
-    "titulo": "Oferta: Kit Naninha e Travesseiro Anatômico, Safari Animais 28x28cm, Travesseiro 25x22cm (ZEBRA)",
-    "imagem": "https://m.media-amazon.com/images/I/619xba-HaYL._AC_SL1500_.jpg",
-    "preco": 35,
-    "preco_anterior": 38.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FDH242N8?tag=malica09-20",
-    "atualizado_em": "2026-09-22T19:48:24.559-03:00"
   }
 ]
