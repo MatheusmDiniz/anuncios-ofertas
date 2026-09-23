@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08LK15F8N",
+    "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+    "imagem": "https://m.media-amazon.com/images/I/51EXy5ZJQSL._AC_SL1500_.jpg",
+    "preco": 29.99,
+    "preco_anterior": 47.89,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
+    "atualizado_em": "2026-09-23T18:20:19.844-03:00"
+  },
+  {
     "id": "shopee:534737666.19799672554",
     "titulo": "Kit 4 Calças Moletom Infantil Peluciada com Punho Elástico 60% Algodão Tamanhos 02 ao 18 Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-msddp3542m134f",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1PTC89z",
     "atualizado_em": "2026-09-22T18:21:24.975-03:00"
-  },
-  {
-    "id": "shopee:391751753.58210250288",
-    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
-    "preco": 30,
-    "preco_anterior": 69.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VVVyIqGyB",
-    "atualizado_em": "2026-09-22T18:16:17.147-03:00"
   }
 ]
