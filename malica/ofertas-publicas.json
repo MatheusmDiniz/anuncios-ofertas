@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Y2H5NL4",
+    "titulo": "Garrafa Térmica Parede Dupla, Buba, Rosa, 400 ml : Não Informado: Amazon.com.br: Cozinha",
+    "imagem": "https://m.media-amazon.com/images/I/41aE1cs6+kL._AC_SL1500_.jpg",
+    "preco": 58,
+    "preco_anterior": 98,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Y2H5NL4?tag=malica09-20",
+    "atualizado_em": "2026-09-23T14:18:19.459-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392608",
     "titulo": "Fralda Descartável Baby M Pacote 50 Unidades Turma da Mônica",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BJ7ZDKR7?tag=malica09-20",
     "atualizado_em": "2026-09-22T14:18:57.391-03:00"
-  },
-  {
-    "id": "amazon:B07YVNBQ6Z",
-    "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
-    "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
-    "preco": 184,
-    "preco_anterior": 238,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07YVNBQ6Z?tag=malica09-20",
-    "atualizado_em": "2026-09-22T14:13:47.059-03:00"
   }
 ]
