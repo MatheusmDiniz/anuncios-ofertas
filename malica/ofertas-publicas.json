@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CPN7TJ4F",
+    "titulo": "Oferta: Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
+    "imagem": "https://m.media-amazon.com/images/I/51m2jYYIG6L._AC_SL1500_.jpg",
+    "preco": 329.9,
+    "preco_anterior": 469.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CPN7TJ4F?tag=malica09-20",
+    "atualizado_em": "2026-09-23T20:33:18.298-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26213267",
     "titulo": "Minigame Laptop Barbie Educativo Bilíngue Candide Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_609516-MLA116538346022_092026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01K7VHOR8?tag=malica09-20",
     "atualizado_em": "2026-09-22T20:34:23.281-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62933980",
-    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
-    "preco": 218.41,
-    "preco_anterior": 447.82,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2XQuVVJ",
-    "atualizado_em": "2026-09-22T20:29:17.316-03:00"
   }
 ]
