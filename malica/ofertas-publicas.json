@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62787255",
+    "titulo": "LEGO Speed Champions - Carro Esportivo Ferrari SF90 XX Stradale - 339 Peças - 77254",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877436-MLA99757737148_122025-F.jpg",
+    "preco": 168.98,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1uMmGh8",
+    "atualizado_em": "2026-09-23T16:01:27.583-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215261",
     "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
@@ -1588,15 +1598,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1SbAZ92",
     "atualizado_em": "2026-09-22T16:05:49.739-03:00"
-  },
-  {
-    "id": "amazon:B09LRFMY7Q",
-    "titulo": "Buba Kit Cuidados Multicolorido",
-    "imagem": "https://m.media-amazon.com/images/I/513CzCVbT1L._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": 47,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=malica09-20",
-    "atualizado_em": "2026-09-22T16:00:38.681-03:00"
   }
 ]
