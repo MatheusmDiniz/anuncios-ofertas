@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB41695273",
+    "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
+    "preco": 78.7,
+    "preco_anterior": 170.98,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2khifsH",
+    "atualizado_em": "2026-09-23T13:36:48.642-03:00"
+  },
+  {
     "id": "amazon:B0789TG4TQ",
     "titulo": "Johnson",
     "imagem": "https://m.media-amazon.com/images/I/612IRMp15hL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
     "atualizado_em": "2026-09-22T13:38:04.644-03:00"
-  },
-  {
-    "id": "amazon:B07FFSV7VG",
-    "titulo": "BEM BARATINHO",
-    "imagem": "https://m.media-amazon.com/images/I/61CV6pou1pL._AC_SL1500_.jpg",
-    "preco": 16.77,
-    "preco_anterior": 20.96,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FFSV7VG?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:32:57.551-03:00"
   }
 ]
