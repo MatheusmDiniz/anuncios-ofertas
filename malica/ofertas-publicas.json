@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44895132",
+    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
+    "preco": 56,
+    "preco_anterior": 249,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1SZdqFJ",
+    "atualizado_em": "2026-09-23T13:47:09.828-03:00"
+  },
+  {
     "id": "amazon:B078YCYYWR",
     "titulo": "Oferta: EcoLapis de Cor Faber-Castell 60 Cores, Faber-Castell, 120160G, Multicor",
     "imagem": "https://m.media-amazon.com/images/I/71pkMkauNnL._AC_SL1500_.jpg",
@@ -1578,15 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
     "atualizado_em": "2026-09-22T13:48:18.352-03:00"
-  },
-  {
-    "id": "amazon:B07LF7C7YL",
-    "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
-    "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
-    "preco": 55.53,
-    "preco_anterior": 87.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=malica09-20",
-    "atualizado_em": "2026-09-22T13:43:11.305-03:00"
   }
 ]
