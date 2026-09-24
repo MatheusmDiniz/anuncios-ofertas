@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24700379",
+    "titulo": "Chupeta Philips Avent Soothie Rosa 0-3m 2 Unidades SCF099/02",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730029-MLA99523310654_122025-F.jpg",
+    "preco": 57.9,
+    "preco_anterior": 97.84,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1vzwebS",
+    "atualizado_em": "2026-09-24T14:42:40.829-03:00"
+  },
+  {
     "id": "amazon:B07GMCX7P4",
     "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61d4XyvDRzL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/15DaxEK",
     "atualizado_em": "2026-09-23T14:44:08.008-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24208936",
-    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-    "preco": 38.55,
-    "preco_anterior": 62.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2q4b5HH",
-    "atualizado_em": "2026-09-23T14:38:59.247-03:00"
   }
 ]
