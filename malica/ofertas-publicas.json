@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FKHFY1WG",
+    "titulo": "Oferta: Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
+    "imagem": "https://m.media-amazon.com/images/I/61wB2ObIr3L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FKHFY1WG?tag=malica09-20",
+    "atualizado_em": "2026-09-24T11:22:03.687-03:00"
+  },
+  {
     "id": "shopee:646220829.23092088458",
     "titulo": "Kit 6 Rosquinhas de Amamentação Protetor de Seios Donut em Tricoline Antialérgico",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mr7e1qmkepdwdd",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2b9dkbC",
     "atualizado_em": "2026-09-23T11:22:20.722-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17775080",
-    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 19.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2YBUR6P",
-    "atualizado_em": "2026-09-23T11:17:06.426-03:00"
   }
 ]
