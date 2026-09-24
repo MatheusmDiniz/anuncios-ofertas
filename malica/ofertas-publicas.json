@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CZ3WTMCP",
+    "titulo": "Placa de Montessori Sensorial para Crianças Maleta Educativa Brinquedo | (Azul) : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/71PqpG7KMcL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CZ3WTMCP?tag=malica09-20",
+    "atualizado_em": "2026-09-24T16:20:08.556-03:00"
+  },
+  {
     "id": "amazon:B0DGKY94HS",
     "titulo": "Blocos de Montar Magnéticos Construção Brinquedo Educativo Infantil | 130 Peças，Blocos de Montar Magnéticos，STEM",
     "imagem": "https://m.media-amazon.com/images/I/81BLH8BzGXL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
     "atualizado_em": "2026-09-23T16:22:00.646-03:00"
-  },
-  {
-    "id": "amazon:B07F1Z7ZM2",
-    "titulo": "Condicionador Infantil Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51P0ONPQUCL._AC_SL1500_.jpg",
-    "preco": 22.99,
-    "preco_anterior": 44.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07F1Z7ZM2?tag=malica09-20",
-    "atualizado_em": "2026-09-23T16:16:52.714-03:00"
   }
 ]
