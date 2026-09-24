@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXM4ZSBD",
+    "titulo": "Fralda Pants Huggies Supreme Care Tamanho XXG, Estilo Roupinha, 58 Unidades, Vermelho",
+    "imagem": "https://m.media-amazon.com/images/I/817zDtkBwEL._AC_SL1500_.jpg",
+    "preco": 94,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=malica09-20",
+    "atualizado_em": "2026-09-24T14:21:54.415-03:00"
+  },
+  {
     "id": "amazon:B0D2DPCP55",
     "titulo": "Oferta: Elka Bluey, Brinquedo, boneco de ação, 2+ Anos",
     "imagem": "https://m.media-amazon.com/images/I/619Z3Zol2IL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DH9L38ZM?tag=malica09-20",
     "atualizado_em": "2026-09-23T14:23:27.507-03:00"
-  },
-  {
-    "id": "amazon:B07Y2H5NL4",
-    "titulo": "Garrafa Térmica Parede Dupla, Buba, Rosa, 400 ml : Não Informado: Amazon.com.br: Cozinha",
-    "imagem": "https://m.media-amazon.com/images/I/41aE1cs6+kL._AC_SL1500_.jpg",
-    "preco": 58,
-    "preco_anterior": 98,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Y2H5NL4?tag=malica09-20",
-    "atualizado_em": "2026-09-23T14:18:19.459-03:00"
   }
 ]
