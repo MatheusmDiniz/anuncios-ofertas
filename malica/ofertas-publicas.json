@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50738913",
+    "titulo": "Kit Babadores Bandana Bebê Gênero Unissex Child Of Mine 3 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753783-MLA96677488573_102025-F.jpg",
+    "preco": 65.9,
+    "preco_anterior": 75.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1d1Cdat",
+    "atualizado_em": "2026-09-24T12:08:21.773-03:00"
+  },
+  {
     "id": "amazon:B07GQ136TS",
     "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Gwm8pw",
     "atualizado_em": "2026-09-23T12:08:46.285-03:00"
-  },
-  {
-    "id": "amazon:B07BW1CKBY",
-    "titulo": "Jogo Cara a Cara Princesas Disney, Estrela",
-    "imagem": "https://m.media-amazon.com/images/I/61TXasqOHML._AC_SL1500_.jpg",
-    "preco": 79,
-    "preco_anterior": 129,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07BW1CKBY?tag=malica09-20",
-    "atualizado_em": "2026-09-23T12:03:36.241-03:00"
   }
 ]
