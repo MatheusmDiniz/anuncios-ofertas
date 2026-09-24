@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392647",
+    "titulo": "Fraldas Descartáveis Baby Qu4troSec Com 62 Unidades Tamanho P Turma da Mônica",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944831-MLA110297599476_052026-F.jpg",
+    "preco": 36.3,
+    "preco_anterior": 50.05,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kPbXaV",
+    "atualizado_em": "2026-09-24T12:28:55.204-03:00"
+  },
+  {
     "id": "amazon:B0GW8LKVTS",
     "titulo": "Oferta: Pelúcia com Manta 2 em 1 Premium Infantil – Bichinhos Fofos com Zíper e Cobertor Embutido Super Macio Antialérgico (Unicórnio)",
     "imagem": "https://m.media-amazon.com/images/I/61mAFLEF41L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Dbbhm7",
     "atualizado_em": "2026-09-23T12:29:25.150-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28318987",
-    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
-    "preco": 175.95,
-    "preco_anterior": 263.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Cuz4mH",
-    "atualizado_em": "2026-09-23T12:24:14.939-03:00"
   }
 ]
