@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:287082132.27580831879",
+    "titulo": "Colchão Para Berço Desmontável Chiqueirinho Cercadinho Capa Removível 90x60x07cm Macio",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg841a0agnb4ed",
+    "preco": 57.9,
+    "preco_anterior": 89.08,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/113AiejTgH",
+    "atualizado_em": "2026-09-24T11:27:09.889-03:00"
+  },
+  {
     "id": "amazon:B0FKHFY1WG",
     "titulo": "Oferta: Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
     "imagem": "https://m.media-amazon.com/images/I/61wB2ObIr3L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8AWH9Cg7YR",
     "atualizado_em": "2026-09-23T11:27:12.156-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26454526",
-    "titulo": "Fisher Price Puxe A Tartaruga Y8652 - Mattel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_832645-MLA99959799305_112025-F.jpg",
-    "preco": 59.9,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2b9dkbC",
-    "atualizado_em": "2026-09-23T11:22:20.722-03:00"
   }
 ]
