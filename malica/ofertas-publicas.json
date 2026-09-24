@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18643752",
+    "titulo": "Fralda Babysec Ultrasec Galinha Pintadinha G 60 Unid",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_987937-MLA100068639287_122025-F.jpg",
+    "preco": 45.58,
+    "preco_anterior": 126.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ANU4Uy",
+    "atualizado_em": "2026-09-24T12:59:48.096-03:00"
+  },
+  {
     "id": "amazon:B0F7125SP4",
     "titulo": "Oferta: Sunny, Patrulha Canina, Playset Torre de Vigilância, 75 cm | Brinquedo Torre de Vigilância com 75 cm, Luzes e Sons, Boneco e Carrinho Inclusos",
     "imagem": "https://m.media-amazon.com/images/I/61V5U5Ie96L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=malica09-20",
     "atualizado_em": "2026-09-23T13:00:41.996-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB31739631",
-    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
-    "preco": 424.86,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Y8xSvd",
-    "atualizado_em": "2026-09-23T12:55:33.241-03:00"
   }
 ]
