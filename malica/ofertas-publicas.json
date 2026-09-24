@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHS1MD2",
+    "titulo": "Shampoogotas de Brilho, Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61OBGlobLML._AC_SL1500_.jpg",
+    "preco": 17.09,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=malica09-20",
+    "atualizado_em": "2026-09-24T11:01:36.218-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17457276",
     "titulo": "Toalhetes Desinfetantes Coperalcool Bacfree Álcool 70° Pacote 15 Unid",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_719214-MLA99823204133_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2eoTVgJ",
     "atualizado_em": "2026-09-23T11:06:42.304-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26693140",
-    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
-    "preco": 76,
-    "preco_anterior": 170.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/138DV6n",
-    "atualizado_em": "2026-09-23T11:01:26.320-03:00"
   }
 ]
