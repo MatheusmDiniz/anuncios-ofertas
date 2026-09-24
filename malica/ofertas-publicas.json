@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61922175",
+    "titulo": "Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_740155-MLA97653162409_112025-F.jpg",
+    "preco": 74,
+    "preco_anterior": 149.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19aCMdn",
+    "atualizado_em": "2026-09-24T12:39:11.190-03:00"
+  },
+  {
     "id": "amazon:B0H5BXQ86H",
     "titulo": "Oferta: Brinquedos Montessori – Trem Elétrico 3D de 128 Peças para Construção e Blocos, Jogo de Blocos de Montar e Criatividade para Crianças de 3+ Anos",
     "imagem": "https://m.media-amazon.com/images/I/71fNEc60X2L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1VHwaBz",
     "atualizado_em": "2026-09-23T12:39:45.700-03:00"
-  },
-  {
-    "id": "amazon:B0CPT8CMSM",
-    "titulo": "Pampers Sabonete Líquido Glicerina 200ml : Amazon.com.br: Beleza",
-    "imagem": "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=malica09-20",
-    "atualizado_em": "2026-09-23T12:34:34.038-03:00"
   }
 ]
