@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FYLVQ",
+    "titulo": "Cotonetes Hastes Flexíveis,75un : Amazon.com.br: Casa",
+    "imagem": "https://m.media-amazon.com/images/I/61v9t58hdHL._AC_SL1500_.jpg",
+    "preco": 4,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FYLVQ?tag=malica09-20",
+    "atualizado_em": "2026-09-24T13:25:24.938-03:00"
+  },
+  {
     "id": "amazon:B07X4GWDZY",
     "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FQG8WBGZ?tag=malica09-20",
     "atualizado_em": "2026-09-23T13:26:30.741-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342443",
-    "titulo": "Sabonete em Barra Pom Pom Hidratante com Manteiga de Karité para os Tipos de Pele",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717020-MLA99441377676_112025-F.jpg",
-    "preco": 6.56,
-    "preco_anterior": 7.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RGiPDf",
-    "atualizado_em": "2026-09-23T13:21:21.348-03:00"
   }
 ]
