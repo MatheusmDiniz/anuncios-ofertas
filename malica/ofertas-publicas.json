@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GMCX7P4",
+    "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61d4XyvDRzL._AC_SL1500_.jpg",
+    "preco": 44.99,
+    "preco_anterior": 77.27,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=malica09-20",
+    "atualizado_em": "2026-09-24T14:37:30.231-03:00"
+  },
+  {
     "id": "amazon:B0BFXJHXDP",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
     "imagem": "https://m.media-amazon.com/images/I/81kCJKbN01L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2q4b5HH",
     "atualizado_em": "2026-09-23T14:38:59.247-03:00"
-  },
-  {
-    "id": "shopee:1361476561.22493583538",
-    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
-    "preco": 36.9,
-    "preco_anterior": 87.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8KpjmKQ08Q",
-    "atualizado_em": "2026-09-23T14:33:43.064-03:00"
   }
 ]
