@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F7125SP4",
+    "titulo": "Oferta: Sunny, Patrulha Canina, Playset Torre de Vigilância, 75 cm | Brinquedo Torre de Vigilância com 75 cm, Luzes e Sons, Boneco e Carrinho Inclusos",
+    "imagem": "https://m.media-amazon.com/images/I/61V5U5Ie96L._AC_SL1500_.jpg",
+    "preco": 975.64,
+    "preco_anterior": 1699,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F7125SP4?tag=malica09-20",
+    "atualizado_em": "2026-09-24T12:54:39.718-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19543081",
     "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Y8xSvd",
     "atualizado_em": "2026-09-23T12:55:33.241-03:00"
-  },
-  {
-    "id": "amazon:B08JQND4NB",
-    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
-    "imagem": "https://m.media-amazon.com/images/I/51xjZk9-YjL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08JQND4NB?tag=malica09-20",
-    "atualizado_em": "2026-09-23T12:50:12.970-03:00"
   }
 ]
