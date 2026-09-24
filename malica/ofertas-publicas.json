@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BBJM19ZB",
+    "titulo": "Buba Garrafinha Aventuras Princesa 400 Ml Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/61+O3VA6yhL._AC_SL1500_.jpg",
+    "preco": 24,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BBJM19ZB?tag=malica09-20",
+    "atualizado_em": "2026-09-24T15:08:23.233-03:00"
+  },
+  {
     "id": "amazon:B0FPP1FTKY",
     "titulo": "Protetor Solar Corporal em Loção Sundown Kids, FPS 60, 100ml | Praia e Piscina, Extra Proteção, Dermatologicamente Testado, Extratos Calmantes",
     "imagem": "https://m.media-amazon.com/images/I/61AF+B7nAfL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B9RB65MY?tag=malica09-20",
     "atualizado_em": "2026-09-23T15:09:51.549-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27044593",
-    "titulo": "Babador De Silicone Gumy Com Pega Migalhas Azul Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807671-MLA100108484153_122025-F.jpg",
-    "preco": 23.99,
-    "preco_anterior": 40.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2K98RFw",
-    "atualizado_em": "2026-09-23T15:04:45.606-03:00"
   }
 ]
