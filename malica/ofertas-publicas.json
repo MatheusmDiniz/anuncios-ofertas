@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53758596",
+    "titulo": "Haste Suporte Varal Para Mosqueteiro Berços Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706549-MLA100086849109_122025-F.jpg",
+    "preco": 9.67,
+    "preco_anterior": 19.62,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ikkwWa",
+    "atualizado_em": "2026-09-24T10:35:58.865-03:00"
+  },
+  {
     "id": "amazon:B07X83MH7M",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61Wl8dMHuyL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EYrH38",
     "atualizado_em": "2026-09-23T10:40:37.617-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39426115",
-    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
-    "preco": 66,
-    "preco_anterior": 172.65,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/33bipXK",
-    "atualizado_em": "2026-09-23T10:35:27.881-03:00"
   }
 ]
