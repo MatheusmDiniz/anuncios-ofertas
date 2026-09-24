@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21346355",
+    "titulo": "Buba, Naninha Macia Pelúcia Antialérgica - Leãozinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648527-MLA95960351171_102025-F.jpg",
+    "preco": 34.25,
+    "preco_anterior": 54.81,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fAtUZg",
+    "atualizado_em": "2026-09-24T09:07:29.065-03:00"
+  },
+  {
     "id": "shopee:1017646777.22898838787",
     "titulo": "Kit 5 Camisetas Regata Bebê Menino Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mnk8vy4obx1gb6",
