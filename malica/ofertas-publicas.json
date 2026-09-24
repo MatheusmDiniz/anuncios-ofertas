@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67134266",
+    "titulo": "Barbie Conjunto de Brinquedo Conjunto de Jogo Pizzaria",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636730-MLA108638769090_032026-F.jpg",
+    "preco": 141.9,
+    "preco_anterior": 269.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2nzh1nh",
+    "atualizado_em": "2026-09-24T13:45:56.188-03:00"
+  },
+  {
     "id": "amazon:B0C9W3MZV2",
     "titulo": "Sabonete Nutritivo Derma Protect JOHNSON",
     "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
