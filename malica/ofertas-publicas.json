@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00LTDSMRU",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51Ta5ZMmkcL._AC_SL1500_.jpg",
+    "preco": 36,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=malica09-20",
+    "atualizado_em": "2026-09-24T14:58:09.772-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP6M",
     "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
     "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GSBW6L2Y?tag=malica09-20",
     "atualizado_em": "2026-09-23T14:59:35.297-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24646908",
-    "titulo": "Kit Trava Gaveta Porta Armário Geladeira Segurança Bebê Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962810-MLA99839467723_112025-F.jpg",
-    "preco": 33.49,
-    "preco_anterior": 68.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1p8M5jt",
-    "atualizado_em": "2026-09-23T14:54:25.108-03:00"
   }
 ]
