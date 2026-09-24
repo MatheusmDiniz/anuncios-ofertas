@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08D9VGDVJ",
+    "titulo": "Hot Wheels Bateria Infantil Radical",
+    "imagem": "https://m.media-amazon.com/images/I/61987CLYJxL._AC_SL1500_.jpg",
+    "preco": 246.4,
+    "preco_anterior": 329.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08D9VGDVJ?tag=malica09-20",
+    "atualizado_em": "2026-09-24T16:40:41.328-03:00"
+  },
+  {
     "id": "amazon:B0058NC0UW",
     "titulo": "Oferta: DINOSSAURO INTERATIVO, PRIMAL HATCH, SUNNY",
     "imagem": "https://m.media-amazon.com/images/I/71-iJxe+qrL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1RH5oJU",
     "atualizado_em": "2026-09-23T16:42:32.288-03:00"
-  },
-  {
-    "id": "amazon:B07BSL81YD",
-    "titulo": "Jogo War Edição Especial, 3 a 6 Jogadores, a partir de 10 anos",
-    "imagem": "https://m.media-amazon.com/images/I/71gw302vfSL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07BSL81YD?tag=malica09-20",
-    "atualizado_em": "2026-09-23T16:37:23.497-03:00"
   }
 ]
