@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26981196",
+    "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
+    "preco": 64.9,
+    "preco_anterior": 129.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2CfRhYg",
+    "atualizado_em": "2026-09-24T09:17:40.574-03:00"
+  },
+  {
     "id": "shopee:527508334.58216972769",
     "titulo": "Grade de Cama de Proteção Branca | Tamanhos Pequena, Média, Grande e GG | Segurança antiqueda para Bebês, Criança, Idoso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mscmw3rs2oeed8",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/gQG8HwKyg",
     "atualizado_em": "2026-09-23T09:18:01.397-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28643543",
-    "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
-    "preco": 36.74,
-    "preco_anterior": 53.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vpPWWV",
-    "atualizado_em": "2026-09-23T09:12:53.940-03:00"
   }
 ]
