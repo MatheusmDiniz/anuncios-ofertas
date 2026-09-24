@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GSP3VVHW",
+    "titulo": "Oferta: Brinquedos para Bebê Torre Giratória Fazendinha Animais Educativo",
+    "imagem": "https://m.media-amazon.com/images/I/71kIpEFr7oL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GSP3VVHW?tag=malica09-20",
+    "atualizado_em": "2026-09-24T16:09:55.024-03:00"
+  },
+  {
     "id": "amazon:B0FMFWWD8H",
     "titulo": "Oferta: Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
     "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01HDTKUY6?tag=malica09-20",
     "atualizado_em": "2026-09-23T16:11:45.781-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19642578",
-    "titulo": "Natura Mamae Bebe Agua De Colonia Sem Alcool 50ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_921701-MLA99833208789_112025-F.jpg",
-    "preco": 38.9,
-    "preco_anterior": 75.39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1v9Vxzw",
-    "atualizado_em": "2026-09-23T16:06:35.604-03:00"
   }
 ]
