@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1145578475.23993936364",
+    "titulo": "Conjunto Bebê Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Estampa Exclusiva",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkihr9549t6q8f",
+    "preco": 42.98,
+    "preco_anterior": 70.46,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1VzRF2yQZd",
+    "atualizado_em": "2026-09-24T20:11:06.534-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27044595",
     "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=malica09-20",
     "atualizado_em": "2026-09-23T20:12:51.190-03:00"
-  },
-  {
-    "id": "amazon:B0GP4F111M",
-    "titulo": "CONJUNTINHO A CARA DO VERÃO PARA SUA PEQUENA",
-    "imagem": null,
-    "preco": 112,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GP4F111M?tag=malica09-20",
-    "atualizado_em": "2026-09-23T20:07:44.504-03:00"
   }
 ]
