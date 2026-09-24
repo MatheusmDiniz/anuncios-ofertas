@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CZ7LPPZH",
+    "titulo": "Cachinho Feliz Creme de Pentear Salada de Frutas 450g, Lola Cosmetics",
+    "imagem": "https://m.media-amazon.com/images/I/51-g7r13XSL._AC_SL1500_.jpg",
+    "preco": 30,
+    "preco_anterior": 69,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CZ7LPPZH?tag=malica09-20",
+    "atualizado_em": "2026-09-24T15:28:52.502-03:00"
+  },
+  {
     "id": "amazon:B0F4G5NL2K",
     "titulo": "Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26SYkKg",
     "atualizado_em": "2026-09-23T15:30:27.396-03:00"
-  },
-  {
-    "id": "amazon:B0CQDGFNBP",
-    "titulo": "Oferta: Calcinha Absorvente Menstrual Pantys Xodó, Fluxo Moderado, Feminino, 1 Unidade",
-    "imagem": "https://m.media-amazon.com/images/I/51DGhK2g8qL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": 59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CQDGFNBP?tag=malica09-20",
-    "atualizado_em": "2026-09-23T15:25:18.950-03:00"
   }
 ]
