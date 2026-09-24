@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39454640",
+    "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980471-MLA95405495148_102025-F.jpg",
+    "preco": 64.9,
+    "preco_anterior": 162.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2W1qkFU",
+    "atualizado_em": "2026-09-24T08:46:59.005-03:00"
+  },
+  {
     "id": "shopee:1671170801.58200794735",
     "titulo": "Saia Estilo Tutu Menina Infantil Verão Cotton Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mrga0q2iozk510",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VO5b09hYH",
     "atualizado_em": "2026-09-23T08:47:08.137-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69561731",
-    "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
-    "preco": 32.44,
-    "preco_anterior": 59.73,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HsJSmD",
-    "atualizado_em": "2026-09-23T08:41:55.214-03:00"
   }
 ]
