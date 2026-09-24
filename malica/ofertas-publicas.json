@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GT2CBBBR",
+    "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ybDaoMvSL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=malica09-20",
+    "atualizado_em": "2026-09-24T17:06:16.067-03:00"
+  },
+  {
     "id": "shopee:391751753.58210250288",
     "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2P7Qp1Q",
     "atualizado_em": "2026-09-23T17:08:10.579-03:00"
-  },
-  {
-    "id": "shopee:1827740773.58261744144",
-    "titulo": "Saia Curta Infantil Feminina Rodada com Elastico na Cintura Barinha Frufru Em Suplex Premium",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mp51dnng25fld2",
-    "preco": 20.98,
-    "preco_anterior": 52.45,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/LnSqbRg8h",
-    "atualizado_em": "2026-09-23T17:03:00.874-03:00"
   }
 ]
