@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
+    "preco": 85,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
+    "atualizado_em": "2026-09-24T12:44:20.818-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61922175",
     "titulo": "Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_740155-MLA97653162409_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/12NvazT",
     "atualizado_em": "2026-09-23T12:45:04.704-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44196987",
-    "titulo": "Rede Proteção Redutor Banheira Bebê Apoio Universal Lorben Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881250-MLA108950873968_032026-F.jpg",
-    "preco": 25,
-    "preco_anterior": 45.77,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1VHwaBz",
-    "atualizado_em": "2026-09-23T12:39:45.700-03:00"
   }
 ]
