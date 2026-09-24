@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1777221519.58210846395",
+    "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
+    "preco": 35.67,
+    "preco_anterior": 51.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/LnTqZbc4X",
+    "atualizado_em": "2026-09-24T08:05:41.128-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29765788",
     "titulo": "Colônia Infantil Baruel Baby Sono Tranquilo 120ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_968895-MLA113215874062_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8V97XoeqsT",
     "atualizado_em": "2026-09-23T08:05:50.970-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27044595",
-    "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
-    "preco": 20.66,
-    "preco_anterior": 44.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kcZvHR",
-    "atualizado_em": "2026-09-23T08:00:45.289-03:00"
   }
 ]
