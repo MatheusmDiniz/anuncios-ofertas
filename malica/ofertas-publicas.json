@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397481",
+    "titulo": "Creme Preventivo de Assaduras Desitin para Bebê 57g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_971170-MLA105413034348_012026-F.jpg",
+    "preco": 36.8,
+    "preco_anterior": 67.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2VGs5gU",
+    "atualizado_em": "2026-09-24T13:35:41.051-03:00"
+  },
+  {
     "id": "amazon:B07FN9FRVM",
     "titulo": "Fralda Pants Huggies Proteção Acolchoada Tamanho G 30 unidades – Nova fralda Supreme Care estilo roupinha, que veste como shortinho e com cintura acolchoada super macia que previne marquinhas, fácil d",
     "imagem": "https://m.media-amazon.com/images/I/71Ixde1c-eL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2khifsH",
     "atualizado_em": "2026-09-23T13:36:48.642-03:00"
-  },
-  {
-    "id": "amazon:B0789TG4TQ",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/612IRMp15hL._AC_SL1500_.jpg",
-    "preco": 12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=malica09-20",
-    "atualizado_em": "2026-09-23T13:31:39.773-03:00"
   }
 ]
