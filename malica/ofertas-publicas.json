@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876062",
+    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada Refil 180ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991376-MLA104651791987_012026-F.jpg",
+    "preco": 9.99,
+    "preco_anterior": 14.85,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mv74Yq",
+    "atualizado_em": "2026-09-24T17:21:41.548-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875756",
     "titulo": "Sabonete Líquido De Glicerina Da Cabeça Aos Pés Com Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2rMrbzs",
     "atualizado_em": "2026-09-23T17:23:40.542-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406873",
-    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
-    "preco": 21.59,
-    "preco_anterior": 31.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nh1NJn",
-    "atualizado_em": "2026-09-23T17:18:31.250-03:00"
   }
 ]
