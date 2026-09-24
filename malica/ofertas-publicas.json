@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25687130",
+    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
+    "preco": 101.9,
+    "preco_anterior": 169.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26WmrW9",
+    "atualizado_em": "2026-09-24T18:12:58.871-03:00"
+  },
+  {
     "id": "shopee:596442927.19299244394",
     "titulo": "Calça Jeans Infantil Jogger Menino com Elástico na Cintura",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt8gvlvp7jls3b",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q0wfQv4HL",
     "atualizado_em": "2026-09-23T18:15:13.498-03:00"
-  },
-  {
-    "id": "shopee:341167297.20599551957",
-    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
-    "preco": 55.9,
-    "preco_anterior": 99.82,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/905QZYNSmc",
-    "atualizado_em": "2026-09-23T18:10:05.482-03:00"
   }
 ]
