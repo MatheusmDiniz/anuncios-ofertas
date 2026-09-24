@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRL34V",
+    "titulo": "Loção Hidratante Para Uso Diário Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41JShnIUmZL._AC_SL1500_.jpg",
+    "preco": 29.99,
+    "preco_anterior": 48.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRL34V?tag=malica09-20",
+    "atualizado_em": "2026-09-24T16:25:17.354-03:00"
+  },
+  {
     "id": "amazon:B0CZ3WTMCP",
     "titulo": "Placa de Montessori Sensorial para Crianças Maleta Educativa Brinquedo | (Azul) : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/71PqpG7KMcL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=malica09-20",
     "atualizado_em": "2026-09-23T16:27:08.860-03:00"
-  },
-  {
-    "id": "amazon:B00TQCAAQW",
-    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
-    "preco": 59.86,
-    "preco_anterior": 100.24,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
-    "atualizado_em": "2026-09-23T16:22:00.646-03:00"
   }
 ]
