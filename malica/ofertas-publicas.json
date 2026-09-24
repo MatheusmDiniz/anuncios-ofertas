@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876092",
+    "titulo": "Sabonete Líquido De Glicerina Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
+    "preco": 23.99,
+    "preco_anterior": 41.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xXuLrP",
+    "atualizado_em": "2026-09-24T11:57:55.883-03:00"
+  },
+  {
     "id": "amazon:B0DD7V56G1",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
     "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1izSjBj",
     "atualizado_em": "2026-09-23T11:58:26.149-03:00"
-  },
-  {
-    "id": "amazon:B0FBBWQB4G",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
-    "preco": 87,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
-    "atualizado_em": "2026-09-23T11:53:14.281-03:00"
   }
 ]
