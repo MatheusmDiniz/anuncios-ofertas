@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07YBNQKJ9",
+    "titulo": "Ovomaltine Achocolatado Flocos Crocantes Pote 400g : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/81Xa9FLwU5L._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07YBNQKJ9?tag=malica09-20",
+    "atualizado_em": "2026-09-24T13:56:17.865-03:00"
+  },
+  {
     "id": "amazon:B077C4JWCK",
     "titulo": "Condicionador Infantil Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61WidFSVeOL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1uoVigd",
     "atualizado_em": "2026-09-23T13:57:29.918-03:00"
-  },
-  {
-    "id": "amazon:B08FXTMMF9",
-    "titulo": "Bala Skittles Original - Case com 14 unidades de 38g",
-    "imagem": "https://m.media-amazon.com/images/I/6108kSPV7XL._AC_SL1500_.jpg",
-    "preco": 38,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08FXTMMF9?tag=malica09-20",
-    "atualizado_em": "2026-09-23T13:52:19.981-03:00"
   }
 ]
