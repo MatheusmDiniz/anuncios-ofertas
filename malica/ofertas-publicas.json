@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077BY791C",
+    "titulo": "Óleo Hidratante Relaxante Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41Nq+5DWLkL._AC_SL1500_.jpg",
+    "preco": 42.48,
+    "preco_anterior": 72.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077BY791C?tag=malica09-20",
+    "atualizado_em": "2026-09-24T13:15:10.969-03:00"
+  },
+  {
     "id": "amazon:B07D2FKWBT",
     "titulo": "Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
