@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22517003",
+    "titulo": "Lenço Umedecido Huggies Higiene Diária Rendem 2x Mais 88 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_663083-MLA110467585125_042026-F.jpg",
+    "preco": 9.31,
+    "preco_anterior": 11.84,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1nLmEEc",
+    "atualizado_em": "2026-09-24T17:11:24.281-03:00"
+  },
+  {
     "id": "amazon:B0GT2CBBBR",
     "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71ybDaoMvSL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/18mRjbm",
     "atualizado_em": "2026-09-23T17:13:22.975-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24364799",
-    "titulo": "Pratinho Em Silicone Com Ventosas Verde Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600922-MLA99840674123_112025-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 64.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2P7Qp1Q",
-    "atualizado_em": "2026-09-23T17:08:10.579-03:00"
   }
 ]
