@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775077",
+    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
+    "preco": 10.99,
+    "preco_anterior": 13.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GZPrDm",
+    "atualizado_em": "2026-09-24T20:36:39.668-03:00"
+  },
+  {
     "id": "shopee:382759839.23997651015",
     "titulo": "Body Bebe Menina Recem Nascido Gola Bordada",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly0d61dze7y737",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H9SPZ26P?tag=malica09-20",
     "atualizado_em": "2026-09-23T20:38:29.461-03:00"
-  },
-  {
-    "id": "amazon:B0CPN7TJ4F",
-    "titulo": "Oferta: Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
-    "imagem": "https://m.media-amazon.com/images/I/51m2jYYIG6L._AC_SL1500_.jpg",
-    "preco": 329.9,
-    "preco_anterior": 469.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPN7TJ4F?tag=malica09-20",
-    "atualizado_em": "2026-09-23T20:33:18.298-03:00"
   }
 ]
