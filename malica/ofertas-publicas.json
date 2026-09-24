@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1501359196.21299678393",
+    "titulo": "Sapato Infantil Menino Mocassim 18 ao 27",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84tyuo788wh97",
+    "preco": 38.35,
+    "preco_anterior": 79.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8pm2cX6z9O",
+    "atualizado_em": "2026-09-24T18:28:24.503-03:00"
+  },
+  {
     "id": "amazon:B0DR3PTGH3",
     "titulo": "Cachorrinho Aprende Comigo Para Bebês Fisher-Price Mattel",
     "imagem": "https://m.media-amazon.com/images/I/718Amaq9yaL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B071FX83XS?tag=malica09-20",
     "atualizado_em": "2026-09-23T18:30:31.775-03:00"
-  },
-  {
-    "id": "shopee:744229092.58215504309",
-    "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
-    "preco": 21.99,
-    "preco_anterior": 81.44,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9zxyRG9H02",
-    "atualizado_em": "2026-09-23T18:25:25.603-03:00"
   }
 ]
