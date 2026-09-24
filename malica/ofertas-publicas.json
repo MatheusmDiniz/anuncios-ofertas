@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09MZXLW51",
+    "titulo": "Personal Fralda Baby Premium Protection Grande 30Pads",
+    "imagem": "https://m.media-amazon.com/images/I/61dN-GFMm8L._AC_SL1500_.jpg",
+    "preco": 37.04,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09MZXLW51?tag=malica09-20",
+    "atualizado_em": "2026-09-24T19:50:18.093-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875996",
     "titulo": "Sabonete Líquido Baruel Baby Glicerina Perfumado 210ml A-R",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835837-MLA105345918437_012026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1aerZMn",
     "atualizado_em": "2026-09-23T19:52:16.875-03:00"
-  },
-  {
-    "id": "amazon:B0GV4ZMBN2",
-    "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81Jwady6ctL._AC_SL1500_.jpg",
-    "preco": 126,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GV4ZMBN2?tag=malica09-20",
-    "atualizado_em": "2026-09-23T19:47:08.849-03:00"
   }
 ]
