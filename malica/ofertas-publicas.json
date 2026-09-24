@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KTC5VJ",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
+    "preco": 24.31,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
+    "atualizado_em": "2026-09-24T13:04:55.065-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18643752",
     "titulo": "Fralda Babysec Ultrasec Galinha Pintadinha G 60 Unid",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_987937-MLA100068639287_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kf8ris",
     "atualizado_em": "2026-09-23T13:05:52.552-03:00"
-  },
-  {
-    "id": "amazon:B0F4KXTCFT",
-    "titulo": "Desitin Creme Preventivo De Assaduras Proteção Diária Creamy, Kit com 3 Unidades de 113g",
-    "imagem": "https://m.media-amazon.com/images/I/71k9xm1E0gL._AC_SL1500_.jpg",
-    "preco": 112,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=malica09-20",
-    "atualizado_em": "2026-09-23T13:00:41.996-03:00"
   }
 ]
