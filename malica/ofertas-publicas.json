@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:428189389.22999397938",
+    "titulo": "Camisa Gola Polo Infantil e Juvenil Premium Manga Curta Bebê Menino Algodão de alta Qualidade",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mrt43yh8jz0k43",
+    "preco": 43.9,
+    "preco_anterior": 68.59,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3qNMk8gRFv",
+    "atualizado_em": "2026-09-24T19:29:53.365-03:00"
+  },
+  {
     "id": "shopee:433637354.23694327209",
     "titulo": "Kit 8 peças Mordedor para Bebe Sensorial Macio com Chocalho",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mrhk6vuqjnk580",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1jfeDiZ",
     "atualizado_em": "2026-09-23T19:31:48.358-03:00"
-  },
-  {
-    "id": "amazon:B0H5FBVLGF",
-    "titulo": "Carter",
-    "imagem": "https://m.media-amazon.com/images/I/719Y4aHPrHL._AC_SL1500_.jpg",
-    "preco": 110,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5FBVLGF?tag=malica09-20",
-    "atualizado_em": "2026-09-23T19:26:37.473-03:00"
   }
 ]
