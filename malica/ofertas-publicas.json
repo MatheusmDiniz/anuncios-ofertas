@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27672036",
+    "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
+    "preco": 24.49,
+    "preco_anterior": 47.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2chmi3v",
+    "atualizado_em": "2026-09-24T18:59:10.189-03:00"
+  },
+  {
     "id": "shopee:1207318462.18098113310",
     "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7fa0YHi1Zk",
     "atualizado_em": "2026-09-23T19:01:05.328-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21867939",
-    "titulo": "Mustela Stelaker Crosta Láctea Bebê 40ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811924-MLA99428014524_112025-F.jpg",
-    "preco": 86.78,
-    "preco_anterior": 122,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2XgURRt",
-    "atualizado_em": "2026-09-23T18:56:00.903-03:00"
   }
 ]
