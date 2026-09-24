@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FMFWWD8H",
+    "titulo": "Oferta: Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
+    "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
+    "preco": 685,
+    "preco_anterior": 1399,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=malica09-20",
+    "atualizado_em": "2026-09-24T16:04:47.577-03:00"
+  },
+  {
     "id": "amazon:B08HTGRMD3",
     "titulo": "Fralda Pampers Splashers Para Nadar Baby Shark Tamanho XG 10 Unidades : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/716wdYVdlgL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1v9Vxzw",
     "atualizado_em": "2026-09-23T16:06:35.604-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62787255",
-    "titulo": "LEGO Speed Champions - Carro Esportivo Ferrari SF90 XX Stradale - 339 Peças - 77254",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877436-MLA99757737148_122025-F.jpg",
-    "preco": 168.98,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1uMmGh8",
-    "atualizado_em": "2026-09-23T16:01:27.583-03:00"
   }
 ]
