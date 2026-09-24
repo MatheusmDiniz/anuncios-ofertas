@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1042066189.43481645729",
+    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
+    "preco": 29.48,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1AdRxcskV",
+    "atualizado_em": "2026-09-24T08:21:25.155-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34803603",
     "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Ocean",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_869786-MLA96103846233_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2VrwpdY41U",
     "atualizado_em": "2026-09-23T08:26:23.293-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27896994",
-    "titulo": "Aspirador Nasal De Sucção Com Estojo - Buba Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819995-MLA99635327832_122025-F.jpg",
-    "preco": 16.86,
-    "preco_anterior": 19.5,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1St5dja",
-    "atualizado_em": "2026-09-23T08:21:16.056-03:00"
   }
 ]
