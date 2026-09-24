@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B078BMLGKJ",
+    "titulo": "Hidrográfica com 24 Cores Estojo Cartão, Faber-Castell, 15.0124CZF, Multicor",
+    "imagem": "https://m.media-amazon.com/images/I/61Uk-4r0NKL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B078BMLGKJ?tag=malica09-20",
+    "atualizado_em": "2026-09-24T16:50:58.666-03:00"
+  },
+  {
     "id": "amazon:B07B9HHG39",
     "titulo": "Patrulha Canina Mini Maleta da Aventura Sunny Brinquedos, Multicor : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/616vxlnbMCL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8AWJa1QdTN",
     "atualizado_em": "2026-09-23T16:52:46.829-03:00"
-  },
-  {
-    "id": "shopee:728451683.23991805523",
-    "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
-    "preco": 35,
-    "preco_anterior": 64.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fL4vxaPVo",
-    "atualizado_em": "2026-09-23T16:47:38.935-03:00"
   }
 ]
