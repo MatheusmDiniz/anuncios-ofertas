@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DX3J6MT7",
+    "titulo": "LEGO Super Mario Game Boy™ 72046 (421 Peças)",
+    "imagem": "https://m.media-amazon.com/images/I/810rmeI3X7L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DX3J6MT7?tag=malica09-20",
+    "atualizado_em": "2026-09-24T17:57:32.950-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB16091843",
     "titulo": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_665735-MLA100006870577_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07J2CR38V?tag=malica09-20",
     "atualizado_em": "2026-09-23T17:59:39.125-03:00"
-  },
-  {
-    "id": "amazon:B072M6PHM7",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81j0asOYlbL._AC_SL1500_.jpg",
-    "preco": 191.2,
-    "preco_anterior": 318.67,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B072M6PHM7?tag=malica09-20",
-    "atualizado_em": "2026-09-23T17:54:29.210-03:00"
   }
 ]
