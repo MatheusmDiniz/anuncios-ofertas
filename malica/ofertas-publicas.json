@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DD7V56G1",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
+    "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
+    "preco": 166,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
+    "atualizado_em": "2026-09-24T11:52:49.256-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392724",
     "titulo": "Huggies Fralda Descartável Premium Natural Care RN 34 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837020-MLA99452042258_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
     "atualizado_em": "2026-09-23T11:53:14.281-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47743053",
-    "titulo": "Escova De Dente Mordedor Primeiro Dentinhos 0 A 2 Anos Buba Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915524-MLA99907110867_112025-F.jpg",
-    "preco": 9.63,
-    "preco_anterior": 11.49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32DaJwm",
-    "atualizado_em": "2026-09-23T11:48:03.495-03:00"
   }
 ]
