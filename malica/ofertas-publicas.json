@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GZNWJ17",
+    "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+    "imagem": "https://m.media-amazon.com/images/I/818MarZ6OOL._AC_SL1500_.jpg",
+    "preco": 80,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=malica09-20",
+    "atualizado_em": "2026-09-24T12:13:29.051-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50738913",
     "titulo": "Kit Babadores Bandana Bebê Gênero Unissex Child Of Mine 3 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_753783-MLA96677488573_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=malica09-20",
     "atualizado_em": "2026-09-23T12:13:53.972-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392845",
-    "titulo": "Lenços Umedecidos Huggies Recém Nascido Pack C/4 - 192 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700377-MLA99930638257_112025-F.jpg",
-    "preco": 29.18,
-    "preco_anterior": 45.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Gwm8pw",
-    "atualizado_em": "2026-09-23T12:08:46.285-03:00"
   }
 ]
