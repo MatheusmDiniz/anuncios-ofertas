@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY62F23",
+    "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61lSWTBB1NL._AC_SL1500_.jpg",
+    "preco": 30,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
+    "atualizado_em": "2026-09-24T10:20:34.842-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40049965",
     "titulo": "Brinquedo Educativo Sensorial Colecione Encaixe MDF 16,5 cm 2-4 anos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_939155-MLA99584633068_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1LfzVyj8cX",
     "atualizado_em": "2026-09-23T10:25:01.792-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB51240172",
-    "titulo": "Boneco Stitch Banho Divertido - Disney Cotiplás 2905",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
-    "preco": 58.11,
-    "preco_anterior": 103.56,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fcnWdW",
-    "atualizado_em": "2026-09-23T10:19:54.301-03:00"
   }
 ]
