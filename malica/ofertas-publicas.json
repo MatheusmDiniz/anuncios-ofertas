@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B079VQTRM7",
+    "titulo": "Bio-Oil Óleo para cuidado da pele, Rosa, 125 ml",
+    "imagem": "https://m.media-amazon.com/images/I/41UeIwJ3WBL._AC_SL1500_.jpg",
+    "preco": 51.21,
+    "preco_anterior": 85.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B079VQTRM7?tag=malica09-20",
+    "atualizado_em": "2026-09-24T19:14:36.591-03:00"
+  },
+  {
     "id": "shopee:1253552940.50514700398",
     "titulo": "Kit 4 Peças 2 Conjunto Infantil Menino Verão Confortável 2 Camisas 2 Shorts Sortido Roupa Infantil Bebê 1 ao 12",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mr0omth7lmh23d",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H5L73M1X?tag=malica09-20",
     "atualizado_em": "2026-09-23T19:16:18.782-03:00"
-  },
-  {
-    "id": "amazon:B0GV4X58G1",
-    "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
-    "imagem": "https://m.media-amazon.com/images/I/817AP--jXEL._AC_SL1500_.jpg",
-    "preco": 121,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GV4X58G1?tag=malica09-20",
-    "atualizado_em": "2026-09-23T19:11:14.539-03:00"
   }
 ]
