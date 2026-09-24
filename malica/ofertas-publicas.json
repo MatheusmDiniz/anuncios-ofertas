@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C9W3MZV2",
+    "titulo": "Sabonete Nutritivo Derma Protect JOHNSON",
+    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
+    "atualizado_em": "2026-09-24T13:40:47.851-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18397481",
     "titulo": "Creme Preventivo de Assaduras Desitin para Bebê 57g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_971170-MLA105413034348_012026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B078YCYYWR?tag=malica09-20",
     "atualizado_em": "2026-09-23T13:41:57.196-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41695273",
-    "titulo": "Motoca Totokinha Rosa Cardoso Buzina Formas Geométricas Som",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955358-MLA99441242018_112025-F.jpg",
-    "preco": 78.7,
-    "preco_anterior": 170.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2khifsH",
-    "atualizado_em": "2026-09-23T13:36:48.642-03:00"
   }
 ]
