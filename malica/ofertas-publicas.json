@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRV94V",
+    "titulo": "Loção Hidratante Relaxante Para Uso Diário Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51KNP7RNDtL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRV94V?tag=malica09-20",
+    "atualizado_em": "2026-09-24T14:06:31.777-03:00"
+  },
+  {
     "id": "amazon:B0CZSCDB97",
     "titulo": "Travel System Cosco Kids, Reverse Duo, 0 a 15kg, Preto Bronze",
     "imagem": "https://m.media-amazon.com/images/I/61LpFH49WdL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1yMuwAJ",
     "atualizado_em": "2026-09-23T14:07:51.821-03:00"
-  },
-  {
-    "id": "amazon:B07KJXP8TK",
-    "titulo": "Malvatrikids F Infantil gel 70g",
-    "imagem": "https://m.media-amazon.com/images/I/51cI+X7NOjL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07KJXP8TK?tag=malica09-20",
-    "atualizado_em": "2026-09-23T14:02:40.716-03:00"
   }
 ]
