@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09WT4NCD5",
+    "titulo": "Fórmula Infantil Nestogeno 2 1,2kg",
+    "imagem": "https://m.media-amazon.com/images/I/51ommYaOL8L._AC_SL1500_.jpg",
+    "preco": 90,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09WT4NCD5?tag=malica09-20",
+    "atualizado_em": "2026-09-24T11:32:16.739-03:00"
+  },
+  {
     "id": "shopee:287082132.27580831879",
     "titulo": "Colchão Para Berço Desmontável Chiqueirinho Cercadinho Capa Removível 90x60x07cm Macio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg841a0agnb4ed",
