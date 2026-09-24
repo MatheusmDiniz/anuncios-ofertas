@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875637",
+    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
+    "preco": 14.41,
+    "preco_anterior": 16.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2j8Abfk",
+    "atualizado_em": "2026-09-24T17:42:07.590-03:00"
+  },
+  {
     "id": "shopee:396723953.48056685219",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01MRE7ABF?tag=malica09-20",
     "atualizado_em": "2026-09-23T17:44:17.108-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19481216",
-    "titulo": "Shampoo Johnson's Baby Cachos Definidos 400ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_985376-MLA99931805363_112025-F.jpg",
-    "preco": 21.5,
-    "preco_anterior": 34.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2epHF18",
-    "atualizado_em": "2026-09-23T17:39:11.175-03:00"
   }
 ]
