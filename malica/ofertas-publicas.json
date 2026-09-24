@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D23M9C4T",
+    "titulo": "Suplemento alimentar em cápsulas Materna Ômega-3 30 unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61AV+Mh6eTL._AC_SL1500_.jpg",
+    "preco": 74.95,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D23M9C4T?tag=malica09-20",
+    "atualizado_em": "2026-09-24T15:13:30.798-03:00"
+  },
+  {
     "id": "amazon:B0BBJM19ZB",
     "titulo": "Buba Garrafinha Aventuras Princesa 400 Ml Rosa",
     "imagem": "https://m.media-amazon.com/images/I/61+O3VA6yhL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=malica09-20",
     "atualizado_em": "2026-09-23T15:15:05.872-03:00"
-  },
-  {
-    "id": "amazon:B0B9RB65MY",
-    "titulo": "Brinquedos Estrela - Boneco Vinil Ursinhos Carinhosos, Boa Sorte, Verde, 7,5 cm",
-    "imagem": "https://m.media-amazon.com/images/I/81ZgMw06uhL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": 49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B9RB65MY?tag=malica09-20",
-    "atualizado_em": "2026-09-23T15:09:51.549-03:00"
   }
 ]
