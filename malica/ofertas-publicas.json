@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28885783",
+    "titulo": "Sabonete Johnsons Amendoas Pack C/3 Wxz",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774249-MLA99392057848_112025-F.jpg",
+    "preco": 10.87,
+    "preco_anterior": 21.15,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2far6hn",
+    "atualizado_em": "2026-09-24T11:06:44.704-03:00"
+  },
+  {
     "id": "amazon:B07DHS1MD2",
     "titulo": "Shampoogotas de Brilho, Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61OBGlobLML._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2xbL1US",
     "atualizado_em": "2026-09-23T11:11:52.108-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34078818",
-    "titulo": "Escova de Dentes Infantil Oral B Kids, para uma Limpeza Completa, Cerdas Macias, 4 Unidades, Multicolor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915750-MLA90121998927_082025-F.jpg",
-    "preco": 23,
-    "preco_anterior": 39.54,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2eoTVgJ",
-    "atualizado_em": "2026-09-23T11:06:42.304-03:00"
   }
 ]
