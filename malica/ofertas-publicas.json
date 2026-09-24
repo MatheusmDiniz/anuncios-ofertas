@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FKWBT",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
+    "preco": 17.56,
+    "preco_anterior": 34.49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
+    "atualizado_em": "2026-09-24T13:10:05.377-03:00"
+  },
+  {
     "id": "amazon:B099KTC5VJ",
     "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0781CTJF6?tag=malica09-20",
     "atualizado_em": "2026-09-23T13:11:00.579-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25863440",
-    "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
-    "preco": 79.39,
-    "preco_anterior": 147.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kf8ris",
-    "atualizado_em": "2026-09-23T13:05:52.552-03:00"
   }
 ]
