@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:596442927.19299244394",
+    "titulo": "Calça Jeans Infantil Jogger Menino com Elástico na Cintura",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt8gvlvp7jls3b",
+    "preco": 25.99,
+    "preco_anterior": 44.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8fScQB4Qmj",
+    "atualizado_em": "2026-09-24T18:07:47.922-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23447020",
     "titulo": "Philips Avent Ultra Soft chupeta seda bege período de idade 6-18 meses",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_915659-MLA100087486085_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/905QZYNSmc",
     "atualizado_em": "2026-09-23T18:10:05.482-03:00"
-  },
-  {
-    "id": "shopee:575397523.51106656675",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60RmZDoMxK",
-    "atualizado_em": "2026-09-23T18:04:43.571-03:00"
   }
 ]
