@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:378105312.45004572291",
+    "titulo": "Kit Higiene Bebê 5 Peças Escova, Pente, Tesoura E Cortador",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82604-mjeewbhlfsp367",
+    "preco": 17.99,
+    "preco_anterior": 59.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50ZJPBahtz",
+    "atualizado_em": "2026-09-24T08:31:37.849-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342620",
     "titulo": "Sabonete Barra Phebo Cremoso Limão Siciliano 100g Limpeza e Hidratação",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_904722-MLA99931619101_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LR2UD5OeP",
     "atualizado_em": "2026-09-23T08:36:41.794-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22953629",
-    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
-    "preco": 279.9,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yKShtn",
-    "atualizado_em": "2026-09-23T08:31:34.115-03:00"
   }
 ]
