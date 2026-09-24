@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CLH9BCWW",
+    "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil Refil, 380ml",
+    "imagem": "https://m.media-amazon.com/images/I/71l7t1PbwJL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CLH9BCWW?tag=malica09-20",
+    "atualizado_em": "2026-09-24T09:53:41.251-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62933980",
     "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
