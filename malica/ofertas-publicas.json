@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27044595",
+    "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
+    "preco": 20.88,
+    "preco_anterior": 44.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kcZvHR",
+    "atualizado_em": "2026-09-24T20:05:43.221-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19460712",
     "titulo": "Huggies Toalha Umedecida Hidratação E Nutrição Lev 4 Pag 3",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_996036-MLA99934977847_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GP4F111M?tag=malica09-20",
     "atualizado_em": "2026-09-23T20:07:44.504-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB32614835",
-    "titulo": "Conjunto De Talheres Personagens Infantil Garfo Faca Colher Cor Minnie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717340-MLA99615494408_122025-F.jpg",
-    "preco": 15.94,
-    "preco_anterior": 16.78,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2eAaKdy",
-    "atualizado_em": "2026-09-23T20:02:37.717-03:00"
   }
 ]
