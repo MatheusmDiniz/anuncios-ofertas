@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17457276",
+    "titulo": "Toalhetes Desinfetantes Coperalcool Bacfree Álcool 70° Pacote 15 Unid",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_719214-MLA99823204133_112025-F.jpg",
+    "preco": 9.55,
+    "preco_anterior": 13.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cRzUzJ",
+    "atualizado_em": "2026-09-24T10:56:28.827-03:00"
+  },
+  {
     "id": "amazon:B07DHR9LSK",
     "titulo": "Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/138DV6n",
     "atualizado_em": "2026-09-23T11:01:26.320-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41740051",
-    "titulo": "Kit 10 Miniaturas de Animais da Fazenda em Plástico Hipoalergênico",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924468-MLA99600409038_122025-F.jpg",
-    "preco": 19,
-    "preco_anterior": 59.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2yHV4QA",
-    "atualizado_em": "2026-09-23T10:56:12.108-03:00"
   }
 ]
