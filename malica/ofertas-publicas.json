@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19835052",
+    "titulo": "Toalha Umedecida Meu Bebê Ultra 1x50 Folhas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677768-MLA99423570880_112025-F.jpg",
+    "preco": 12.99,
+    "preco_anterior": 23.4,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/21w4XE8",
+    "atualizado_em": "2026-09-24T18:43:48.527-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342237",
     "titulo": "Sabonete Em Barra Alfazema Provençal 100g Phebo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_605773-MLA99446690474_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=malica09-20",
     "atualizado_em": "2026-09-23T18:45:47.013-03:00"
-  },
-  {
-    "id": "amazon:B0DYPF8T2X",
-    "titulo": "Figura Batman Xl 12\", Metal Force, Sunny",
-    "imagem": "https://m.media-amazon.com/images/I/715sZ-wcJFL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DYPF8T2X?tag=malica09-20",
-    "atualizado_em": "2026-09-23T18:40:42.602-03:00"
   }
 ]
