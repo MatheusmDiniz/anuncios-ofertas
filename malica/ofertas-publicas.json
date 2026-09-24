@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00IJUS3XE+B07DHRLXJ5",
+    "titulo": "Sabonete em Barra Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51OebIz0zqL._AC_SL1500_.jpg",
+    "preco": 4,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRLXJ5?tag=malica09-20",
+    "atualizado_em": "2026-09-24T17:31:53.195-03:00"
+  },
+  {
     "id": "shopee:1739680653.58204448907",
     "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
