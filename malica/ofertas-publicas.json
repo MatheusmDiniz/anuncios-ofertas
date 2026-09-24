@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076DB2FMW",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61A1zIfjSfL._AC_SL1500_.jpg",
+    "preco": 53,
+    "preco_anterior": 87,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076DB2FMW?tag=malica09-20",
+    "atualizado_em": "2026-09-24T15:34:01.073-03:00"
+  },
+  {
     "id": "amazon:B0CZ7LPPZH",
     "titulo": "Cachinho Feliz Creme de Pentear Salada de Frutas 450g, Lola Cosmetics",
     "imagem": "https://m.media-amazon.com/images/I/51-g7r13XSL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uiuBZ6",
     "atualizado_em": "2026-09-23T15:35:36.765-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24531140",
-    "titulo": "Escova Dental Kess Basic Kids Extra Macia C/ 3 Unid Wxz",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793175-MLA99416121068_112025-F.jpg",
-    "preco": 8,
-    "preco_anterior": 19.07,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26SYkKg",
-    "atualizado_em": "2026-09-23T15:30:27.396-03:00"
   }
 ]
