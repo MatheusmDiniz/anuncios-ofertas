@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27375861",
+    "titulo": "Kit Escovas Mamadeiras De Bico E Canudos Azul 7290 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_909813-MLA100091967111_122025-F.jpg",
+    "preco": 26.26,
+    "preco_anterior": 51.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2eiSAuj",
+    "atualizado_em": "2026-09-24T09:27:57.738-03:00"
+  },
+  {
     "id": "amazon:B08FW1Q54T",
     "titulo": "Huggies Lenços Umedecidos Hidratação e Nutrição Contra Assaduras 4 x 48Un",
     "imagem": "https://m.media-amazon.com/images/I/71USw3KvpvL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W6sS2dnMT",
     "atualizado_em": "2026-09-23T09:28:19.247-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63710202",
-    "titulo": "Absorventes para Seios Ultra Respiráveis Medela, 30 unids",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810766-MLA103253081881_122025-F.jpg",
-    "preco": 25.5,
-    "preco_anterior": 29.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/18T5Pyt",
-    "atualizado_em": "2026-09-23T09:23:13.128-03:00"
   }
 ]
