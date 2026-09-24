@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:433637354.23694327209",
+    "titulo": "Kit 8 peças Mordedor para Bebe Sensorial Macio com Chocalho",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mrhk6vuqjnk580",
+    "preco": 22.99,
+    "preco_anterior": 40.33,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BF8l4MNtf",
+    "atualizado_em": "2026-09-24T19:24:48.074-03:00"
+  },
+  {
     "id": "shopee:440034724.58207764813",
     "titulo": "Escova Para Lavar Mamadeira E Bico Com Esponja Buba Azul Rosa Bebê garrafas térmicas multiuso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-ms5m5c3pacqs59",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H5FBVLGF?tag=malica09-20",
     "atualizado_em": "2026-09-23T19:26:37.473-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38943078",
-    "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
-    "preco": 206.9,
-    "preco_anterior": 399.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12iT7nu",
-    "atualizado_em": "2026-09-23T19:21:29.515-03:00"
   }
 ]
