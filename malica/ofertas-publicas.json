@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DR3PTGH3",
+    "titulo": "Cachorrinho Aprende Comigo Para Bebês Fisher-Price Mattel",
+    "imagem": "https://m.media-amazon.com/images/I/718Amaq9yaL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=malica09-20",
+    "atualizado_em": "2026-09-24T18:23:19.284-03:00"
+  },
+  {
     "id": "shopee:421581203.22398990698",
     "titulo": "Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Criança Bebê Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mm34akips3y803",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zxyRG9H02",
     "atualizado_em": "2026-09-23T18:25:25.603-03:00"
-  },
-  {
-    "id": "amazon:B08LK15F8N",
-    "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
-    "imagem": "https://m.media-amazon.com/images/I/51EXy5ZJQSL._AC_SL1500_.jpg",
-    "preco": 29.99,
-    "preco_anterior": 47.89,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
-    "atualizado_em": "2026-09-23T18:20:19.844-03:00"
   }
 ]
