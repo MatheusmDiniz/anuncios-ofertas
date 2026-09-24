@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHR9LSK",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
+    "preco": 16.19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
+    "atualizado_em": "2026-09-24T10:51:21.253-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62061333",
     "titulo": "Kit Talheres De Treinamento Azul, Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_620341-MLA98092033781_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2yHV4QA",
     "atualizado_em": "2026-09-23T10:56:12.108-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23480808",
-    "titulo": "Laptop Infantil Educativo Spider Man Candide",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
-    "preco": 55.09,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZSvfs3",
-    "atualizado_em": "2026-09-23T10:50:59.879-03:00"
   }
 ]
