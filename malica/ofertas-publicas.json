@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHSGC5B",
+    "titulo": "Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61jtP7w98pL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHSGC5B?tag=malica09-20",
+    "atualizado_em": "2026-09-24T14:47:46.364-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24700379",
     "titulo": "Chupeta Philips Avent Soothie Rosa 0-3m 2 Unidades SCF099/02",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_730029-MLA99523310654_122025-F.jpg",
