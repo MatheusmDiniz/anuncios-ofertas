@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GQ136TS",
+    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
+    "preco": 49.99,
+    "preco_anterior": 71.67,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
+    "atualizado_em": "2026-09-24T12:03:01.075-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17876092",
     "titulo": "Sabonete Líquido De Glicerina Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
