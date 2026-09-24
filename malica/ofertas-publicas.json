@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24626810",
+    "titulo": "Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700261-MLA99618194932_122025-F.jpg",
+    "preco": 37.97,
+    "preco_anterior": 65.71,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2uuTxjq",
+    "atualizado_em": "2026-09-24T08:36:45.880-03:00"
+  },
+  {
     "id": "shopee:378105312.45004572291",
     "titulo": "Kit Higiene Bebê 5 Peças Escova, Pente, Tesoura E Cortador",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82604-mjeewbhlfsp367",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1HsJSmD",
     "atualizado_em": "2026-09-23T08:41:55.214-03:00"
-  },
-  {
-    "id": "shopee:1698895168.58254892330",
-    "titulo": "Mosquiteiro Para Berço Americano e Mini Berço Tule Tela Mosquiteira Cortinado Rede Protetora",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn94rclpiqkhd9",
-    "preco": 23.99,
-    "preco_anterior": 40.66,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3LR2UD5OeP",
-    "atualizado_em": "2026-09-23T08:36:41.794-03:00"
   }
 ]
