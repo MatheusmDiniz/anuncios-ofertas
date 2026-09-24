@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25120404",
+    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
+    "preco": 81.21,
+    "preco_anterior": 99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZsrkHX",
+    "atualizado_em": "2026-09-24T09:58:53.914-03:00"
+  },
+  {
     "id": "amazon:B0CLH9BCWW",
     "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil Refil, 380ml",
     "imagem": "https://m.media-amazon.com/images/I/71l7t1PbwJL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7KxCacZEpo",
     "atualizado_em": "2026-09-23T09:59:14.005-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34115521",
-    "titulo": "Chocalho e Mordedor Minnie Mouse Rattle Rosa Disney Meninas Bebê Elka",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827862-MLA99358289636_112025-F.jpg",
-    "preco": 18.24,
-    "preco_anterior": 33.96,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1CfhZdx",
-    "atualizado_em": "2026-09-23T09:54:07.305-03:00"
   }
 ]
