@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29632495",
+    "titulo": "Lenços Pampers Cuidado de Bebê 48 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628309-MLA95692798560_102025-F.jpg",
+    "preco": 12.99,
+    "preco_anterior": 31.02,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZM65bz",
+    "atualizado_em": "2026-09-24T20:52:02.201-03:00"
+  },
+  {
     "id": "shopee:1700242901.58264520528",
     "titulo": "Kit 6 Peças Roupa De Bebê Body Menino Animado Estampado Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrwueepou8sn74",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32r6vTz",
     "atualizado_em": "2026-09-23T20:53:52.118-03:00"
-  },
-  {
-    "id": "amazon:B07Z55NZ7G",
-    "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
-    "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
-    "atualizado_em": "2026-09-23T20:48:42.157-03:00"
   }
 ]
