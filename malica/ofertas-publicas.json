@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72684098",
+    "titulo": "Kit Mini Berço Menina Menino 5 Peças Com Saia Cor Bosque Encantado",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851167-MLA111728925368_062026-F.jpg",
+    "preco": 55.9,
+    "preco_anterior": 107.2,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BvMb5X",
+    "atualizado_em": "2026-09-25T18:16:39.210-03:00"
+  },
+  {
     "id": "amazon:B0CXDZKZKM",
     "titulo": "Mochila com Guia Infanti, Tigre",
     "imagem": "https://m.media-amazon.com/images/I/510BkMnV1cL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70KOR7b6bP",
     "atualizado_em": "2026-09-24T18:18:05.088-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25687130",
-    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
-    "preco": 101.9,
-    "preco_anterior": 169.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26WmrW9",
-    "atualizado_em": "2026-09-24T18:12:58.871-03:00"
   }
 ]
