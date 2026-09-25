@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MBXDB51",
+    "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
+    "imagem": "https://m.media-amazon.com/images/I/61NJbm2a9tL._AC_SL1500_.jpg",
+    "preco": 52.14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=malica09-20",
+    "atualizado_em": "2026-09-25T18:32:00.640-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24436385",
     "titulo": "Prato infantil em Silicone com Ventosas Buba Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_948894-MLA99625585780_122025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GQB93FT?tag=malica09-20",
     "atualizado_em": "2026-09-24T18:33:32.116-03:00"
-  },
-  {
-    "id": "shopee:1501359196.21299678393",
-    "titulo": "Sapato Infantil Menino Mocassim 18 ao 27",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m84tyuo788wh97",
-    "preco": 38.35,
-    "preco_anterior": 79.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8pm2cX6z9O",
-    "atualizado_em": "2026-09-24T18:28:24.503-03:00"
   }
 ]
