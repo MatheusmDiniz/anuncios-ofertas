@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C9W32C1J",
+    "titulo": "Loção Hidratante Corporal Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1500_.jpg",
+    "preco": 47,
+    "preco_anterior": 86,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C9W32C1J?tag=malica09-20",
+    "atualizado_em": "2026-09-25T10:40:24.695-03:00"
+  },
+  {
     "id": "amazon:B07MJZ74TS",
     "titulo": "Sabonete Líquido de Glicerina Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51Mpgohw-eL._AC_SL1500_.jpg",
