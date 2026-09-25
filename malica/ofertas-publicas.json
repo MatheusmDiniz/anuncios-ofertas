@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58047533",
+    "titulo": "Troninho Privadinha Assento Redutor Pinico Para Desfralde Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889606-MLA96073229271_102025-F.jpg",
+    "preco": 68,
+    "preco_anterior": 125,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KQKKbo",
+    "atualizado_em": "2026-09-25T16:03:17.257-03:00"
+  },
+  {
     "id": "amazon:B07LF7C7YL",
     "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
     "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:04:47.577-03:00"
-  },
-  {
-    "id": "amazon:B08HTGRMD3",
-    "titulo": "Fralda Pampers Splashers Para Nadar Baby Shark Tamanho XG 10 Unidades : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/716wdYVdlgL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08HTGRMD3?tag=malica09-20",
-    "atualizado_em": "2026-09-24T15:59:42.727-03:00"
   }
 ]
