@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C5S8NW3X",
+    "titulo": "Carrinho Chicco Glee 0m+ até 22kg Fechamento Automático Prático - 8087068730000",
+    "imagem": "https://m.media-amazon.com/images/I/61G37rbYWzL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C5S8NW3X?tag=malica09-20",
+    "atualizado_em": "2026-09-25T16:49:28.421-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34235115",
     "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B078BMLGKJ?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:50:58.666-03:00"
-  },
-  {
-    "id": "amazon:B07B9HHG39",
-    "titulo": "Patrulha Canina Mini Maleta da Aventura Sunny Brinquedos, Multicor : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/616vxlnbMCL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": 49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07B9HHG39?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:45:47.194-03:00"
   }
 ]
