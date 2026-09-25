@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6561263022",
+    "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+    "imagem": "https://m.media-amazon.com/images/I/614Bmynt4LL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6561263022?tag=malica09-20",
+    "atualizado_em": "2026-09-25T10:03:58.573-03:00"
+  },
+  {
     "id": "shopee:1360752092.22398663565",
     "titulo": "Bomba Amamentacao tira-leite elétrica Sem dor Alta potencia de sucção integrada Silenciosa Portátil",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratk-mb4eca4ny91t2e",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=malica09-20",
     "atualizado_em": "2026-09-24T10:03:59.371-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 81.21,
-    "preco_anterior": 99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZsrkHX",
-    "atualizado_em": "2026-09-24T09:58:53.914-03:00"
   }
 ]
