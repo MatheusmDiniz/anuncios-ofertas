@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19491178",
+    "titulo": "Assento de Carro Infantil Elevação Booster Fit Up 15 à 36kgs Preto Maxi Baby - 21423",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_886802-MLA99508601024_112025-F.jpg",
+    "preco": 66,
+    "preco_anterior": 119,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2QatG1L",
+    "atualizado_em": "2026-09-25T17:15:04.879-03:00"
+  },
+  {
     "id": "amazon:B0FBNJM6G3",
     "titulo": "Bicicleta De Equilibrio Buba, 4 Rodas",
     "imagem": "https://m.media-amazon.com/images/I/51C8eY8DwYL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1LKq29J",
     "atualizado_em": "2026-09-24T17:16:31.222-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22517003",
-    "titulo": "Lenço Umedecido Huggies Higiene Diária Rendem 2x Mais 88 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_663083-MLA110467585125_042026-F.jpg",
-    "preco": 9.31,
-    "preco_anterior": 11.84,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1nLmEEc",
-    "atualizado_em": "2026-09-24T17:11:24.281-03:00"
   }
 ]
