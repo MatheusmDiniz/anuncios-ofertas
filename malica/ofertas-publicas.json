@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:378486926.58263443418",
+    "titulo": "Bota Infantil Menina Coturno Cano Curto Feminina Blogueira Juvenil Tratorada",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr7dzhf6p0cl83",
+    "preco": 22.89,
+    "preco_anterior": 69.36,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/70KPXb2m57",
+    "atualizado_em": "2026-09-25T12:33:11.194-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB59328402",
     "titulo": "Escova Limpeza Mamadeira Copos Espuma Macia Limpeza Completa Cor Azul Celeste",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_994212-MLA115173947426_082026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H5BXQ86H?tag=malica09-20",
     "atualizado_em": "2026-09-24T12:34:02.418-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392647",
-    "titulo": "Fraldas Descartáveis Baby Qu4troSec Com 62 Unidades Tamanho P Turma da Mônica",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944831-MLA110297599476_052026-F.jpg",
-    "preco": 36.3,
-    "preco_anterior": 50.05,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kPbXaV",
-    "atualizado_em": "2026-09-24T12:28:55.204-03:00"
   }
 ]
