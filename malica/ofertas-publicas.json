@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093GBK61S",
+    "titulo": "Oferta: Pomada Pom Pom Anti Assaduras 90G",
+    "imagem": "https://m.media-amazon.com/images/I/61Z-EvS7jzL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093GBK61S?tag=malica09-20",
+    "atualizado_em": "2026-09-25T08:21:19.476-03:00"
+  },
+  {
     "id": "shopee:1700242901.58214519187",
     "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1AdRxcskV",
     "atualizado_em": "2026-09-24T08:21:25.155-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34803603",
-    "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Ocean",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869786-MLA96103846233_102025-F.jpg",
-    "preco": 72.84,
-    "preco_anterior": 145.68,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1SE9wN5",
-    "atualizado_em": "2026-09-24T08:16:19.580-03:00"
   }
 ]
