@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24331807",
+    "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
+    "preco": 36.19,
+    "preco_anterior": 70,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1wtWi5X",
+    "atualizado_em": "2026-09-25T11:16:17.078-03:00"
+  },
+  {
     "id": "amazon:B0GYQ57VPX",
     "titulo": "Pixar Toy Story 5 Figura de Ação Alto-falante Buzz Lightyear de 7\" : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/515RPS5FgLL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1Lg17GDPdk",
     "atualizado_em": "2026-09-24T11:16:55.674-03:00"
-  },
-  {
-    "id": "amazon:B0BJ7ZTCH6",
-    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
-    "preco": 117,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
-    "atualizado_em": "2026-09-24T11:11:50.157-03:00"
   }
 ]
