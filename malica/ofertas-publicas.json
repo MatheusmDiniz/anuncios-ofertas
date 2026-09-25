@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:432628853.58208814983",
+    "titulo": "Capa de Chuva Infantil Adulto Com Capuz Botão Material Impermeável Colorida e Galaxy Transparente",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mn0lrmed11qa1f",
+    "preco": 15.7,
+    "preco_anterior": 30.19,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80CwZbPBQY",
+    "atualizado_em": "2026-09-25T09:38:12.138-03:00"
+  },
+  {
     "id": "amazon:B0H4WVM5GY",
     "titulo": "Oferta: Banheira Dobrável Com Suporte Termômetro e Redutor Assento Ergonômico 20kg Melon Maxi Baby",
     "imagem": "https://m.media-amazon.com/images/I/51373kbMfhL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Fsuebq",
     "atualizado_em": "2026-09-24T09:38:16.543-03:00"
-  },
-  {
-    "id": "amazon:B0BKLM298N",
-    "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
-    "imagem": "https://m.media-amazon.com/images/I/810rIzQ5ptL._AC_SL1500_.jpg",
-    "preco": 80,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=malica09-20",
-    "atualizado_em": "2026-09-24T09:33:07.228-03:00"
   }
 ]
