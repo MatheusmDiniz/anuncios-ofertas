@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1361476561.19397991697",
+    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
+    "preco": 24.99,
+    "preco_anterior": 49.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1gIrR21TKO",
+    "atualizado_em": "2026-09-25T08:06:01.068-03:00"
+  },
+  {
     "id": "amazon:B0BFXJ12QQ",
     "titulo": "Huggies Fralda Supreme Care M 196 Un",
     "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
@@ -1638,25 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Q4Wv1Y",
     "atualizado_em": "2026-09-24T08:06:08.095-03:00"
-  },
-  {
-    "id": "shopee:1777221519.58210846395",
-    "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
-    "preco": 35.67,
-    "preco_anterior": 51.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/LnTqZbc4X",
-    "atualizado_em": "2026-09-24T08:05:41.128-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29765788",
-    "titulo": "Colônia Infantil Baruel Baby Sono Tranquilo 120ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968895-MLA113215874062_072026-F.jpg",
-    "preco": 8.35,
-    "preco_anterior": 14.85,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2yXFWmw",
-    "atualizado_em": "2026-09-24T08:00:36.383-03:00"
   }
 ]
