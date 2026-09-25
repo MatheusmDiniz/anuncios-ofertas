@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CCF1WTB1",
+    "titulo": "Oferta: Fralda Babysec Premium Hiper XG 56 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51nS49ppbtL._AC_SL1500_.jpg",
+    "preco": 60,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=malica09-20",
+    "atualizado_em": "2026-09-25T17:40:47.799-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB49782425",
     "titulo": "Colchão Solteiro D20 Bordado 78 X 188 X 12 Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_989848-MLA99453910550_112025-F.jpg",
