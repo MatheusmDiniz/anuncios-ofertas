@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63962761",
+    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
+    "preco": 94.91,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SJwgA7",
+    "atualizado_em": "2026-09-25T15:53:03.612-03:00"
+  },
+  {
     "id": "amazon:B0GFY71S31",
     "titulo": "Oferta: Mastela Berço Sensor de Movimento Balanço Automático com Timer e Música Sense Cinza Claro",
     "imagem": "https://m.media-amazon.com/images/I/51gbVd7L5vL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CZPLVXS5?tag=malica09-20",
     "atualizado_em": "2026-09-24T15:54:37.918-03:00"
-  },
-  {
-    "id": "amazon:B0BFJGG8MK",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61xm-vNbcbL._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFJGG8MK?tag=malica09-20",
-    "atualizado_em": "2026-09-24T15:49:30.477-03:00"
   }
 ]
