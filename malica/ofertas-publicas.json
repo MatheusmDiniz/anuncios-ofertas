@@ -1698,15 +1698,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1cRzUzJ",
     "atualizado_em": "2026-09-24T10:56:28.827-03:00"
-  },
-  {
-    "id": "amazon:B07DHR9LSK",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
-    "preco": 16.19,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
-    "atualizado_em": "2026-09-24T10:51:21.253-03:00"
   }
 ]
