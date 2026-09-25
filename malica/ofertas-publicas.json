@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB59328402",
+    "titulo": "Escova Limpeza Mamadeira Copos Espuma Macia Limpeza Completa Cor Azul Celeste",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_994212-MLA115173947426_082026-F.jpg",
+    "preco": 29.99,
+    "preco_anterior": 75.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/13L7e22",
+    "atualizado_em": "2026-09-25T12:28:06.366-03:00"
+  },
+  {
     "id": "shopee:676684389.58261683831",
     "titulo": "Sandália Babuche Infantil Menina Enfeite de Jardim. Linda, leve e Macia Ideal para todas meninas",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyrxich8sn80e",
