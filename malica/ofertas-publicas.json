@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CPFBBHP4",
+    "titulo": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, 220v | Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos Inteligente com Visão por IA e Laser LiDAR,Ideal para P",
+    "imagem": "https://m.media-amazon.com/images/I/71ylrz9PRgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CPFBBHP4?tag=malica09-20",
+    "atualizado_em": "2026-09-25T16:18:43.450-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28992390",
     "titulo": "Bomba Tira Leite Materno Elétrica Portátil Extratora Amamentação Mãos Livres Sem BPA Coletor Sugador Bombinha Peito 3 Modos 9 Níveis de Sucção Recarregável Silenciosa Display Digital Fergusom",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_913059-MLA116869655113_082026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CZ3WTMCP?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:20:08.556-03:00"
-  },
-  {
-    "id": "amazon:B0DGKY94HS",
-    "titulo": "Blocos de Montar Magnéticos Construção Brinquedo Educativo Infantil | 130 Peças，Blocos de Montar Magnéticos，STEM",
-    "imagem": "https://m.media-amazon.com/images/I/81BLH8BzGXL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DGKY94HS?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:15:01.743-03:00"
   }
 ]
