@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25997851",
+    "titulo": "Buba Treme-Treme De Atividades Zoo - Panda",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629314-MLA95633395326_102025-F.jpg",
+    "preco": 74.4,
+    "preco_anterior": 126.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1m7nHFq",
+    "atualizado_em": "2026-09-25T13:39:53.614-03:00"
+  },
+  {
     "id": "amazon:B089YLCYBZ",
     "titulo": "HIPOGLÓS® Transparente Creme Preventivo De Assaduras, 30g",
     "imagem": "https://m.media-amazon.com/images/I/518FaPzfPCL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
     "atualizado_em": "2026-09-24T13:40:47.851-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397481",
-    "titulo": "Creme Preventivo de Assaduras Desitin para Bebê 57g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_971170-MLA105413034348_012026-F.jpg",
-    "preco": 36.8,
-    "preco_anterior": 67.42,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2VGs5gU",
-    "atualizado_em": "2026-09-24T13:35:41.051-03:00"
   }
 ]
