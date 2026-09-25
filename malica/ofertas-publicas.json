@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MJ251Z8",
+    "titulo": "Lenços Umedecidos Huggies Rosto e Corpo Limpeza 4 x 48 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71943l48V+L._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MJ251Z8?tag=malica09-20",
+    "atualizado_em": "2026-09-25T14:05:33.334-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74177687",
     "titulo": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_815286-MLA112368898246_062026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHRV94V?tag=malica09-20",
     "atualizado_em": "2026-09-24T14:06:31.777-03:00"
-  },
-  {
-    "id": "amazon:B0CZSCDB97",
-    "titulo": "Travel System Cosco Kids, Reverse Duo, 0 a 15kg, Preto Bronze",
-    "imagem": "https://m.media-amazon.com/images/I/61LpFH49WdL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CZSCDB97?tag=malica09-20",
-    "atualizado_em": "2026-09-24T14:01:23.565-03:00"
   }
 ]
