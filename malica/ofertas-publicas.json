@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08L46TX4L",
+    "titulo": "Mustela Stelatopia Gel Lavante 500 ml - Sabonete Líquido Sem Fragrância para Peles Secas e Extremamente Ressecadas - Lava Sem Ressecar a Pele - Seguro para Bebês, Crianças e Adultos - Stelatopia",
+    "imagem": "https://m.media-amazon.com/images/I/41rG3POKp6L._AC_SL1500_.jpg",
+    "preco": 118,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08L46TX4L?tag=malica09-20",
+    "atualizado_em": "2026-09-25T11:21:24.567-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24331807",
     "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FKHFY1WG?tag=malica09-20",
     "atualizado_em": "2026-09-24T11:22:03.687-03:00"
-  },
-  {
-    "id": "shopee:646220829.23092088458",
-    "titulo": "Kit 6 Rosquinhas de Amamentação Protetor de Seios Donut em Tricoline Antialérgico",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mr7e1qmkepdwdd",
-    "preco": 19.9,
-    "preco_anterior": 66.33,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1Lg17GDPdk",
-    "atualizado_em": "2026-09-24T11:16:55.674-03:00"
   }
 ]
