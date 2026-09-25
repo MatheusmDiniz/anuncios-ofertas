@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75984769",
+    "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
+    "preco": 169,
+    "preco_anterior": 329.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2U76gEk",
+    "atualizado_em": "2026-09-25T17:04:50.964-03:00"
+  },
+  {
     "id": "amazon:B077PLGRBY",
     "titulo": "Jogo Detetive com Aplicativo, Estrela",
     "imagem": "https://m.media-amazon.com/images/I/81qJ6EU3SiL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=malica09-20",
     "atualizado_em": "2026-09-24T17:06:16.067-03:00"
-  },
-  {
-    "id": "shopee:391751753.58210250288",
-    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
-    "preco": 30,
-    "preco_anterior": 69.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3VkVciqoWD",
-    "atualizado_em": "2026-09-24T17:01:11.050-03:00"
   }
 ]
