@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C5F1GZV8",
+    "titulo": "Cadeira Para Auto 0-36 Kg Litet Mass Preta e Cinza - BB458",
+    "imagem": "https://m.media-amazon.com/images/I/61GhloKCMdL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C5F1GZV8?tag=malica09-20",
+    "atualizado_em": "2026-09-25T13:24:26.975-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73604609",
     "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_944934-MLA112072218194_062026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D2FYLVQ?tag=malica09-20",
     "atualizado_em": "2026-09-24T13:25:24.938-03:00"
-  },
-  {
-    "id": "amazon:B07X4GWDZY",
-    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
-    "preco": 88,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
-    "atualizado_em": "2026-09-24T13:20:17.996-03:00"
   }
 ]
