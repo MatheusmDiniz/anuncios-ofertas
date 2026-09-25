@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FMQNX7LP",
+    "titulo": "Oferta: Kit Maleta Médica Infantil Brinquedo Faz de Conta com 14 Peças na cor Rosa 23 x 39 cm",
+    "imagem": "https://m.media-amazon.com/images/I/71rEbflSqWL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FMQNX7LP?tag=malica09-20",
+    "atualizado_em": "2026-09-25T12:53:37.841-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75373452",
     "titulo": "Suporte Tablet Celular P/ Banco Carro Bebê Criança Organizador Encosto garrafa d'água brinquedo sacola viagem DIMYS BATH HOME",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_839941-MLA114417379495_072026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F7125SP4?tag=malica09-20",
     "atualizado_em": "2026-09-24T12:54:39.718-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19543081",
-    "titulo": "Sabonetes Em Barra Natura Mamãe E Bebê 2un 110g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_758739-MLA104618321858_012026-F.jpg",
-    "preco": 14,
-    "preco_anterior": 28.93,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2grLWyY",
-    "atualizado_em": "2026-09-24T12:49:31.392-03:00"
   }
 ]
