@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DW4DKXT5",
+    "titulo": "Carmed Fini Minhocas Gel Dental com Flúor Sabor Maçã Verde 70g",
+    "imagem": "https://m.media-amazon.com/images/I/61rQKTmvM6L._AC_SL1500_.jpg",
+    "preco": 8.91,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DW4DKXT5?tag=malica09-20",
+    "atualizado_em": "2026-09-25T20:04:15.247-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB59097044",
     "titulo": "Kit 148 Blocos Imã Magnéticos Construção Montar Empilhamento Cubo Infantil Brinquedo Educativo Covei Toys",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA116378687368_092026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kcZvHR",
     "atualizado_em": "2026-09-24T20:05:43.221-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19460712",
-    "titulo": "Huggies Toalha Umedecida Hidratação E Nutrição Lev 4 Pag 3",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_996036-MLA99934977847_112025-F.jpg",
-    "preco": 30.9,
-    "preco_anterior": 45.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2xtUxZj",
-    "atualizado_em": "2026-09-24T20:00:36.020-03:00"
   }
 ]
