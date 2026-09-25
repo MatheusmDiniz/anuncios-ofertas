@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.20698276094",
+    "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
+    "preco": 29.9,
+    "preco_anterior": 69.53,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qcHdL0pzR",
+    "atualizado_em": "2026-09-25T10:45:31.518-03:00"
+  },
+  {
     "id": "amazon:B0C9W32C1J",
     "titulo": "Loção Hidratante Corporal Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2jHC25Z",
     "atualizado_em": "2026-09-24T10:46:14.299-03:00"
-  },
-  {
-    "id": "amazon:B0HGRNF7F1",
-    "titulo": "Lixeira para Fraldas Antiodor 10L com Sistema Giratório, Alça Prática e Vedação de Resíduos, Design Decorativo para Quarto de Bebê, Banheiro e Lavabo",
-    "imagem": "https://m.media-amazon.com/images/I/61vvQj2bwaL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HGRNF7F1?tag=malica09-20",
-    "atualizado_em": "2026-09-24T10:41:06.517-03:00"
   }
 ]
