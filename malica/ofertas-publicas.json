@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CSTGM172",
+    "titulo": "Oferta: Kit de Mamadeiras Anticólica Essence Smart Flow 270ml NUK – Branca",
+    "imagem": "https://m.media-amazon.com/images/I/71XAHXsR9ZL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CSTGM172?tag=malica09-20",
+    "atualizado_em": "2026-09-25T17:30:28.208-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24696459",
     "titulo": "Pinico Mictorio Menino Sapo Sapinho Infantil Mais Resistente",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_628884-MLA105469096781_012026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHRLXJ5?tag=malica09-20",
     "atualizado_em": "2026-09-24T17:31:53.195-03:00"
-  },
-  {
-    "id": "shopee:1739680653.58204448907",
-    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
-    "preco": 24.9,
-    "preco_anterior": 75.45,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8V9BZabSSr",
-    "atualizado_em": "2026-09-24T17:26:48.156-03:00"
   }
 ]
