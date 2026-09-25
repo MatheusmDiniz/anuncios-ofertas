@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52680667",
+    "titulo": "Andador Infantil Empurrador Atividade Musical Bebê Didático Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824627-MLA100063596379_122025-F.jpg",
+    "preco": 118.34,
+    "preco_anterior": 269.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WUFJ1e",
+    "atualizado_em": "2026-09-25T13:09:03.778-03:00"
+  },
+  {
     "id": "amazon:B0DS6HRGFF",
     "titulo": "Oferta: Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
     "imagem": "https://m.media-amazon.com/images/I/51Q8ZhEzdvL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
     "atualizado_em": "2026-09-24T13:10:05.377-03:00"
-  },
-  {
-    "id": "amazon:B099KTC5VJ",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
-    "preco": 24.31,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
-    "atualizado_em": "2026-09-24T13:04:55.065-03:00"
   }
 ]
