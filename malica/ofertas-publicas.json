@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G9RQHY7",
+    "titulo": "Mili Fralda Ultra Seca Jumbinho M 1X22",
+    "imagem": "https://m.media-amazon.com/images/I/71A0f1G1dtL._AC_SL1500_.jpg",
+    "preco": 0.9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=malica09-20",
+    "atualizado_em": "2026-09-24T21:07:23.051-03:00"
+  },
+  {
     "id": "amazon:B000GKUEVE",
     "titulo": "Oferta: Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
     "imagem": "https://m.media-amazon.com/images/I/81GMRnT1SsL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1jtyHdx",
     "atualizado_em": "2026-09-23T21:09:19.828-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18715372",
-    "titulo": "Fralda Descartável Pom Pom Proteção de Mãe XG com 38 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749805-MLA99439515898_112025-F.jpg",
-    "preco": 37.1,
-    "preco_anterior": 50.3,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2NtLWbo",
-    "atualizado_em": "2026-09-23T21:04:11.253-03:00"
   }
 ]
