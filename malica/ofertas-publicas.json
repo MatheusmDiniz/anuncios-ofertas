@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBNJM6G3",
+    "titulo": "Bicicleta De Equilibrio Buba, 4 Rodas",
+    "imagem": "https://m.media-amazon.com/images/I/51C8eY8DwYL._AC_SL1500_.jpg",
+    "preco": 136,
+    "preco_anterior": 239,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBNJM6G3?tag=malica09-20",
+    "atualizado_em": "2026-09-25T17:09:56.646-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75984769",
     "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1nLmEEc",
     "atualizado_em": "2026-09-24T17:11:24.281-03:00"
-  },
-  {
-    "id": "amazon:B0GT2CBBBR",
-    "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71ybDaoMvSL._AC_SL1500_.jpg",
-    "preco": 52,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=malica09-20",
-    "atualizado_em": "2026-09-24T17:06:16.067-03:00"
   }
 ]
