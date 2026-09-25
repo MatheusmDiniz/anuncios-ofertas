@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16600923",
+    "titulo": "Talco Pom Pom de Amido de Milho Para Bebê 200g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759853-MLA111048261147_042026-F.jpg",
+    "preco": 17.9,
+    "preco_anterior": 31.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QN3gHd",
+    "atualizado_em": "2026-09-25T17:56:09.420-03:00"
+  },
+  {
     "id": "amazon:B00SO7H0BS",
     "titulo": "Fisher-Price Zebra Blocos Surpresa",
     "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
