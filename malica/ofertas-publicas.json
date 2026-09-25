@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZPPR52L",
+    "titulo": "Macacão de dormir para bebês 2-pack Neutral Fleece Footed Sleep and Play Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81c23pu3BAL._AC_SL1500_.jpg",
+    "preco": 148,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZPPR52L?tag=malica09-20",
+    "atualizado_em": "2026-09-25T20:19:34.212-03:00"
+  },
+  {
     "id": "amazon:B07MWT9NND",
     "titulo": "Escorredor de Mamadeira Branco/Cinza, Clingo, Cinza : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/61BXh8wKG8L._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7ptVaShec8",
     "atualizado_em": "2026-09-24T20:21:17.420-03:00"
-  },
-  {
-    "id": "shopee:463228698.58257979473",
-    "titulo": "Kit Ate 36 Anéis Infantil Menina anel Modelo Ajustável Sortidos Colorido",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262t-mmhssjkzcmisa6",
-    "preco": 8.99,
-    "preco_anterior": 29.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qcIRONJ3V",
-    "atualizado_em": "2026-09-24T20:16:12.997-03:00"
   }
 ]
