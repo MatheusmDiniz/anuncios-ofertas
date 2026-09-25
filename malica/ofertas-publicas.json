@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G3QFG9M4",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61K5hrmtDLL._AC_SL1500_.jpg",
+    "preco": 45,
+    "preco_anterior": 78,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G3QFG9M4?tag=malica09-20",
+    "atualizado_em": "2026-09-25T13:55:18.414-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45456305",
     "titulo": "Mosquiteiro Para Ninho Redutor De Berço Avulso Universal Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_619405-MLA110859253276_052026-F.jpg",
