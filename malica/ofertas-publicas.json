@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65313748",
+    "titulo": "Tapete Bebê Emborrachado Dobrável Proteção Dupla Face Selva",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818382-MLA106046813850_022026-F.jpg",
+    "preco": 57.77,
+    "preco_anterior": 149.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1VTbtdV",
+    "atualizado_em": "2026-09-25T16:23:51.215-03:00"
+  },
+  {
     "id": "amazon:B0CPFBBHP4",
     "titulo": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, 220v | Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos Inteligente com Visão por IA e Laser LiDAR,Ideal para P",
     "imagem": "https://m.media-amazon.com/images/I/71ylrz9PRgL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHRL34V?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:25:17.354-03:00"
-  },
-  {
-    "id": "amazon:B0CZ3WTMCP",
-    "titulo": "Placa de Montessori Sensorial para Crianças Maleta Educativa Brinquedo | (Azul) : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/71PqpG7KMcL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CZ3WTMCP?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:20:08.556-03:00"
   }
 ]
