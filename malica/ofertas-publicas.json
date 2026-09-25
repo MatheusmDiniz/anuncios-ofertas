@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00SO7H0BS",
+    "titulo": "Fisher-Price Zebra Blocos Surpresa",
+    "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=malica09-20",
+    "atualizado_em": "2026-09-25T17:51:02.057-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50689223",
     "titulo": "Colchão Carrinho Bebê Acolchoado Colchonete Moises Algodão Cor Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_736539-MLA85419587243_052025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13voeZF",
     "atualizado_em": "2026-09-24T17:52:24.231-03:00"
-  },
-  {
-    "id": "amazon:B08R93TVRG",
-    "titulo": "Oferta: Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
-    "imagem": "https://m.media-amazon.com/images/I/612gXC9waVL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08R93TVRG?tag=malica09-20",
-    "atualizado_em": "2026-09-24T17:47:13.978-03:00"
   }
 ]
