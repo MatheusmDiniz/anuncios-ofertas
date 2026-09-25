@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MQG6SWC",
+    "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
+    "imagem": "https://m.media-amazon.com/images/I/61m5QAg1xHL._AC_SL1500_.jpg",
+    "preco": 38.27,
+    "preco_anterior": 59.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=malica09-20",
+    "atualizado_em": "2026-09-25T18:52:32.596-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69561731",
     "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AUuFxFyuRf",
     "atualizado_em": "2026-09-24T18:54:02.910-03:00"
-  },
-  {
-    "id": "shopee:1017646777.21899901744",
-    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
-    "preco": 134.98,
-    "preco_anterior": 198.5,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9zxzMfS4K4",
-    "atualizado_em": "2026-09-24T18:48:55.899-03:00"
   }
 ]
