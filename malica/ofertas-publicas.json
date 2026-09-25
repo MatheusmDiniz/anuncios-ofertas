@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50689223",
+    "titulo": "Colchão Carrinho Bebê Acolchoado Colchonete Moises Algodão Cor Vermelho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_736539-MLA85419587243_052025-F.jpg",
+    "preco": 24.47,
+    "preco_anterior": 69.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29yCHDY",
+    "atualizado_em": "2026-09-25T17:45:56.590-03:00"
+  },
+  {
     "id": "amazon:B0CCF1WTB1",
     "titulo": "Oferta: Fralda Babysec Premium Hiper XG 56 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51nS49ppbtL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08R93TVRG?tag=malica09-20",
     "atualizado_em": "2026-09-24T17:47:13.978-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875637",
-    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
-    "preco": 14.41,
-    "preco_anterior": 16.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2j8Abfk",
-    "atualizado_em": "2026-09-24T17:42:07.590-03:00"
   }
 ]
