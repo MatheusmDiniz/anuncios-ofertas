@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:676684389.58261683831",
+    "titulo": "Sandália Babuche Infantil Menina Enfeite de Jardim. Linda, leve e Macia Ideal para todas meninas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqyrxich8sn80e",
+    "preco": 19.9,
+    "preco_anterior": 60.3,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/20viYmI99y",
+    "atualizado_em": "2026-09-25T12:22:57.752-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61794290",
     "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW8LKVTS?tag=malica09-20",
     "atualizado_em": "2026-09-24T12:23:44.192-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41898480",
-    "titulo": "Retrovisor Bebê Espelho Para Banco Traseiro Carro Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_736189-MLA99991510869_112025-F.jpg",
-    "preco": 62,
-    "preco_anterior": 119.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/16wvoKp",
-    "atualizado_em": "2026-09-24T12:18:37.631-03:00"
   }
 ]
