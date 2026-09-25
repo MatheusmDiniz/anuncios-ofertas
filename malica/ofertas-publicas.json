@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73212051",
+    "titulo": "Boneca Reborn Bebê Realista Vinil Siliconado Récem-nascida",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600577-MLA111972112470_062026-F.jpg",
+    "preco": 78.9,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28AtUPJ",
+    "atualizado_em": "2026-09-25T13:29:35.392-03:00"
+  },
+  {
     "id": "amazon:B0C5F1GZV8",
     "titulo": "Cadeira Para Auto 0-36 Kg Litet Mass Preta e Cinza - BB458",
     "imagem": "https://m.media-amazon.com/images/I/61GhloKCMdL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN9FRVM?tag=malica09-20",
     "atualizado_em": "2026-09-24T13:30:31.917-03:00"
-  },
-  {
-    "id": "amazon:B07D2FYLVQ",
-    "titulo": "Cotonetes Hastes Flexíveis,75un : Amazon.com.br: Casa",
-    "imagem": "https://m.media-amazon.com/images/I/61v9t58hdHL._AC_SL1500_.jpg",
-    "preco": 4,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FYLVQ?tag=malica09-20",
-    "atualizado_em": "2026-09-24T13:25:24.938-03:00"
   }
 ]
