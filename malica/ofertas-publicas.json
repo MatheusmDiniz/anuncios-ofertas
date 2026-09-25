@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62692070",
+    "titulo": "Capa De Chuva Protetora Para Carrinho De Bebê Universal Transparente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_986543-MLA99504323420_112025-F.jpg",
+    "preco": 24.73,
+    "preco_anterior": 49.98,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2MjtBx6",
+    "atualizado_em": "2026-09-25T14:31:10.804-03:00"
+  },
+  {
     "id": "amazon:B07ZQVVP87",
     "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
     "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=malica09-20",
     "atualizado_em": "2026-09-24T14:32:17.283-03:00"
-  },
-  {
-    "id": "amazon:B095R9CKYR",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71DAxC1Pu4L._AC_SL1500_.jpg",
-    "preco": 33.9,
-    "preco_anterior": 43.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=malica09-20",
-    "atualizado_em": "2026-09-24T14:27:10.297-03:00"
   }
 ]
