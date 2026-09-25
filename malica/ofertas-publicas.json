@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77515553",
+    "titulo": "Cubo Sensorial Educativo Blocos Montar Interativo Cognitivo Crianças Bebês Babuu Brinquedos Educativos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_960790-MLA117880162901_092026-F.jpg",
+    "preco": 39.44,
+    "preco_anterior": 69.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RLoEMy",
+    "atualizado_em": "2026-09-25T16:54:36.887-03:00"
+  },
+  {
     "id": "amazon:B0C5S8NW3X",
     "titulo": "Carrinho Chicco Glee 0m+ até 22kg Fechamento Automático Prático - 8087068730000",
     "imagem": "https://m.media-amazon.com/images/I/61G37rbYWzL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8pm1yCaBmt",
     "atualizado_em": "2026-09-24T16:56:04.810-03:00"
-  },
-  {
-    "id": "amazon:B078BMLGKJ",
-    "titulo": "Hidrográfica com 24 Cores Estojo Cartão, Faber-Castell, 15.0124CZF, Multicor",
-    "imagem": "https://m.media-amazon.com/images/I/61Uk-4r0NKL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B078BMLGKJ?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:50:58.666-03:00"
   }
 ]
