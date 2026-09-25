@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73604609",
+    "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944934-MLA112072218194_062026-F.jpg",
+    "preco": 34.9,
+    "preco_anterior": 59.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/15u3mgb",
+    "atualizado_em": "2026-09-25T13:19:20.802-03:00"
+  },
+  {
     "id": "amazon:B0BDBHZSZT",
     "titulo": "Fórmula Infantil: Aptamil Profutura Gold 1 800g - 0-6 meses : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/716SKFzV-CL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
     "atualizado_em": "2026-09-24T13:20:17.996-03:00"
-  },
-  {
-    "id": "amazon:B077BY791C",
-    "titulo": "Óleo Hidratante Relaxante Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41Nq+5DWLkL._AC_SL1500_.jpg",
-    "preco": 42.48,
-    "preco_anterior": 72.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY791C?tag=malica09-20",
-    "atualizado_em": "2026-09-24T13:15:10.969-03:00"
   }
 ]
