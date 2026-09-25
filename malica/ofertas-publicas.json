@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49782425",
+    "titulo": "Colchão Solteiro D20 Bordado 78 X 188 X 12 Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_989848-MLA99453910550_112025-F.jpg",
+    "preco": 259,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Z7N545",
+    "atualizado_em": "2026-09-25T17:35:36.063-03:00"
+  },
+  {
     "id": "amazon:B0CSTGM172",
     "titulo": "Oferta: Kit de Mamadeiras Anticólica Essence Smart Flow 270ml NUK – Branca",
     "imagem": "https://m.media-amazon.com/images/I/71XAHXsR9ZL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/905SAV4cUU",
     "atualizado_em": "2026-09-24T17:36:59.758-03:00"
-  },
-  {
-    "id": "amazon:B00IJUS3XE+B07DHRLXJ5",
-    "titulo": "Sabonete em Barra Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51OebIz0zqL._AC_SL1500_.jpg",
-    "preco": 4,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRLXJ5?tag=malica09-20",
-    "atualizado_em": "2026-09-24T17:31:53.195-03:00"
   }
 ]
