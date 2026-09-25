@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXMV4ZXW",
+    "titulo": "Oferta: Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
+    "imagem": "https://m.media-amazon.com/images/I/615AvAaOM8L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=malica09-20",
+    "atualizado_em": "2026-09-25T09:22:47.900-03:00"
+  },
+  {
     "id": "shopee:604069672.17512767444",
     "titulo": "Kit 5 Pomadas Preventivas para Assaduras 45g Turminha da Bagunça Pomada Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mlp21ce1lnnq1c",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08FW1Q54T?tag=malica09-20",
     "atualizado_em": "2026-09-24T09:22:49.022-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26981196",
-    "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
-    "preco": 64.9,
-    "preco_anterior": 129.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CfRhYg",
-    "atualizado_em": "2026-09-24T09:17:40.574-03:00"
   }
 ]
