@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0964S52NM",
+    "titulo": "Leite em Pó Integral Ninho 380g",
+    "imagem": "https://m.media-amazon.com/images/I/81bh9m+Fm0L._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0964S52NM?tag=malica09-20",
+    "atualizado_em": "2026-09-25T10:30:31.065-03:00"
+  },
+  {
     "id": "shopee:1700242901.58264964287",
     "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
@@ -1678,15 +1688,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=malica09-20",
     "atualizado_em": "2026-09-24T10:30:45.945-03:00"
-  },
-  {
-    "id": "shopee:396723953.40026562019",
-    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
-    "preco": 58.89,
-    "preco_anterior": 99.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/gQKFBaLOh",
-    "atualizado_em": "2026-09-24T10:25:40.438-03:00"
   }
 ]
