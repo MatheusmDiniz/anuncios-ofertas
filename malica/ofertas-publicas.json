@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MWT9NND",
+    "titulo": "Escorredor de Mamadeira Branco/Cinza, Clingo, Cinza : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/61BXh8wKG8L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MWT9NND?tag=malica09-20",
+    "atualizado_em": "2026-09-25T20:14:27.317-03:00"
+  },
+  {
     "id": "amazon:B07ZPQ2RRR",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qcIRONJ3V",
     "atualizado_em": "2026-09-24T20:16:12.997-03:00"
-  },
-  {
-    "id": "shopee:1145578475.23993936364",
-    "titulo": "Conjunto Bebê Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Estampa Exclusiva",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkihr9549t6q8f",
-    "preco": 42.98,
-    "preco_anterior": 70.46,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1VzRF2yQZd",
-    "atualizado_em": "2026-09-24T20:11:06.534-03:00"
   }
 ]
