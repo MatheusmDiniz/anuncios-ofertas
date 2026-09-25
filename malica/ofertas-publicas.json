@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46877009",
+    "titulo": "Mosquiteiro Portátil Capa Tela Universal Para Carrinho Bebe cor Única",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928124-MLA111823408961_052026-F.jpg",
+    "preco": 16.9,
+    "preco_anterior": 39.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1LoeqHG",
+    "atualizado_em": "2026-09-25T19:18:14.007-03:00"
+  },
+  {
     "id": "amazon:B08ZWNDM5J",
     "titulo": "Gel Dental Trá Lá Lá Baby - Maçã e Pera (70g)",
     "imagem": "https://m.media-amazon.com/images/I/41b4W3npN1L._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AskKZg68L",
     "atualizado_em": "2026-09-24T19:19:42.221-03:00"
-  },
-  {
-    "id": "amazon:B079VQTRM7",
-    "titulo": "Bio-Oil Óleo para cuidado da pele, Rosa, 125 ml",
-    "imagem": "https://m.media-amazon.com/images/I/41UeIwJ3WBL._AC_SL1500_.jpg",
-    "preco": 51.21,
-    "preco_anterior": 85.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B079VQTRM7?tag=malica09-20",
-    "atualizado_em": "2026-09-24T19:14:36.591-03:00"
   }
 ]
