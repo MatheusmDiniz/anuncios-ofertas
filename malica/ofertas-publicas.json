@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0845Y8VWJ",
+    "titulo": "Mustela Shampoo Recém-Nascido 150 ml - Xampu textura Espuma, Previne e Elimina a Crosta Láctea dos Bebês - Vegano, feito com 99% de ingredientes de origem natural - Mustela Bebê e Criança",
+    "imagem": "https://m.media-amazon.com/images/I/41F0QUlisCL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0845Y8VWJ?tag=malica09-20",
+    "atualizado_em": "2026-09-25T14:46:31.332-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHSGC5B?tag=malica09-20",
     "atualizado_em": "2026-09-24T14:47:46.364-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24700379",
-    "titulo": "Chupeta Philips Avent Soothie Rosa 0-3m 2 Unidades SCF099/02",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730029-MLA99523310654_122025-F.jpg",
-    "preco": 57.9,
-    "preco_anterior": 97.84,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vzwebS",
-    "atualizado_em": "2026-09-24T14:42:40.829-03:00"
   }
 ]
