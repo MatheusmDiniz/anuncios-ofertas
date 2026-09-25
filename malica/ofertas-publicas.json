@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H2G47KGJ",
+    "titulo": "Kit 5 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 500g - Bepantol Baby",
+    "imagem": "https://m.media-amazon.com/images/I/71UzmwOYCLL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H2G47KGJ?tag=malica09-20",
+    "atualizado_em": "2026-09-25T08:31:30.766-03:00"
+  },
+  {
     "id": "shopee:424773647.58257712601",
     "titulo": "Kit 5 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt4aj74z0cuc2e",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50ZJPBahtz",
     "atualizado_em": "2026-09-24T08:31:37.849-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18342620",
-    "titulo": "Sabonete Barra Phebo Cremoso Limão Siciliano 100g Limpeza e Hidratação",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904722-MLA99931619101_112025-F.jpg",
-    "preco": 7.9,
-    "preco_anterior": 8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1SbAZ92",
-    "atualizado_em": "2026-09-24T08:26:32.643-03:00"
   }
 ]
