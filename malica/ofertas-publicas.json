@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62939994",
+    "titulo": "Mesa de Atividades Infantil Didática com Blocos de Montar Brinq Kids Azul-marinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797318-MLA100663215085_122025-F.jpg",
+    "preco": 45.9,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2MtKmdr",
+    "atualizado_em": "2026-09-25T15:01:50.816-03:00"
+  },
+  {
     "id": "amazon:B0BLJ4FDT4",
     "titulo": "Oferta: LEGO Creator Ônibus Espacial 3em1: Nave Espacial 31134 | Brinquedos de Construção para Meninos e Meninas, Anos 6+, 144 Peças, Brinquedo Espacial, Presente para Crianças",
     "imagem": "https://m.media-amazon.com/images/I/71lhVag75AL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPP1FTKY?tag=malica09-20",
     "atualizado_em": "2026-09-24T15:03:17.138-03:00"
-  },
-  {
-    "id": "amazon:B00LTDSMRU",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51Ta5ZMmkcL._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=malica09-20",
-    "atualizado_em": "2026-09-24T14:58:09.772-03:00"
   }
 ]
