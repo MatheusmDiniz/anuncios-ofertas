@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G43Y411C",
+    "titulo": "Oferta: Figura de Ação DC Premiere Batman™ 12\"",
+    "imagem": "https://m.media-amazon.com/images/I/51sAtJaVudL._AC_SL1500_.jpg",
+    "preco": 71.99,
+    "preco_anterior": 149.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G43Y411C?tag=malica09-20",
+    "atualizado_em": "2026-09-25T19:23:18.959-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46877009",
     "titulo": "Mosquiteiro Portátil Capa Tela Universal Para Carrinho Bebe cor Única",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928124-MLA111823408961_052026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BF8l4MNtf",
     "atualizado_em": "2026-09-24T19:24:48.074-03:00"
-  },
-  {
-    "id": "shopee:440034724.58207764813",
-    "titulo": "Escova Para Lavar Mamadeira E Bico Com Esponja Buba Azul Rosa Bebê garrafas térmicas multiuso",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-ms5m5c3pacqs59",
-    "preco": 10,
-    "preco_anterior": 22.22,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5AskKZg68L",
-    "atualizado_em": "2026-09-24T19:19:42.221-03:00"
   }
 ]
