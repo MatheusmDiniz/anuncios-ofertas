@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB41740051",
+    "titulo": "Kit 10 Miniaturas de Animais da Fazenda em Plástico Hipoalergênico",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924468-MLA99600409038_122025-F.jpg",
+    "preco": 19,
+    "preco_anterior": 59.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2yHV4QA",
+    "atualizado_em": "2026-09-25T11:36:50.603-03:00"
+  },
+  {
     "id": "amazon:B086DR4Q6Q",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, Fácil de Vestir, 84 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61B5ljO6D8L._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XpGQFA",
     "atualizado_em": "2026-09-24T11:37:24.557-03:00"
-  },
-  {
-    "id": "amazon:B09WT4NCD5",
-    "titulo": "Fórmula Infantil Nestogeno 2 1,2kg",
-    "imagem": "https://m.media-amazon.com/images/I/51ommYaOL8L._AC_SL1500_.jpg",
-    "preco": 90,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09WT4NCD5?tag=malica09-20",
-    "atualizado_em": "2026-09-24T11:32:16.739-03:00"
   }
 ]
