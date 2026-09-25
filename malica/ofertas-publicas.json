@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75373452",
+    "titulo": "Suporte Tablet Celular P/ Banco Carro Bebê Criança Organizador Encosto garrafa d'água brinquedo sacola viagem DIMYS BATH HOME",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839941-MLA114417379495_072026-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 57.96,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Hma3dY",
+    "atualizado_em": "2026-09-25T12:48:32.515-03:00"
+  },
+  {
     "id": "amazon:B0BJ7ZDKR7",
     "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses",
     "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2grLWyY",
     "atualizado_em": "2026-09-24T12:49:31.392-03:00"
-  },
-  {
-    "id": "amazon:B07X4GVF9H",
-    "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
-    "preco": 85,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
-    "atualizado_em": "2026-09-24T12:44:20.818-03:00"
   }
 ]
