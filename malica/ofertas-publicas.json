@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29817222",
+    "titulo": "Bico de Mamadeira Philips Fluxo Médio Anti-Colic (3m+)Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828184-MLA99592085850_122025-F.jpg",
+    "preco": 28.52,
+    "preco_anterior": 68.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QdwtN9",
+    "atualizado_em": "2026-09-25T11:47:06.428-03:00"
+  },
+  {
     "id": "amazon:B0B25M6HGJ",
     "titulo": "SUNNY, Gabby",
     "imagem": "https://m.media-amazon.com/images/I/71EVzHyO+7L._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Eeujoq",
     "atualizado_em": "2026-09-24T11:47:40.511-03:00"
-  },
-  {
-    "id": "amazon:B095R95SNW",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
-    "atualizado_em": "2026-09-24T11:42:33.430-03:00"
   }
 ]
