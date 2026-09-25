@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B25M6HGJ",
+    "titulo": "SUNNY, Gabby",
+    "imagem": "https://m.media-amazon.com/images/I/71EVzHyO+7L._AC_SL1500_.jpg",
+    "preco": 77.59,
+    "preco_anterior": 175.94,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B25M6HGJ?tag=malica09-20",
+    "atualizado_em": "2026-09-25T11:41:58.064-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB41740051",
     "titulo": "Kit 10 Miniaturas de Animais da Fazenda em Plástico Hipoalergênico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_924468-MLA99600409038_122025-F.jpg",
