@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69561731",
+    "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
+    "preco": 59.3,
+    "preco_anterior": 99.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/21x8K1E",
+    "atualizado_em": "2026-09-25T18:47:25.179-03:00"
+  },
+  {
     "id": "amazon:B0C3FQQVLH",
     "titulo": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61z8aeVGdpL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zxzMfS4K4",
     "atualizado_em": "2026-09-24T18:48:55.899-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19835052",
-    "titulo": "Toalha Umedecida Meu Bebê Ultra 1x50 Folhas",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677768-MLA99423570880_112025-F.jpg",
-    "preco": 12.99,
-    "preco_anterior": 23.4,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/21w4XE8",
-    "atualizado_em": "2026-09-24T18:43:48.527-03:00"
   }
 ]
