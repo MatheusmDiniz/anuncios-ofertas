@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B000GKUEVE",
+    "titulo": "Oferta: Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
+    "imagem": "https://m.media-amazon.com/images/I/81GMRnT1SsL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B000GKUEVE?tag=malica09-20",
+    "atualizado_em": "2026-09-24T21:02:16.290-03:00"
+  },
+  {
     "id": "amazon:B07Y2GSDVN",
     "titulo": "BUBA Garrafa Térmica Parede Dupla 400 Ml - Azul, Azul, Tamanho único : Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/51Nkf0CFFyL._AC_SL1500_.jpg",
