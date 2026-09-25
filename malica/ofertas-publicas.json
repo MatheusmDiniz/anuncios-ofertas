@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KW58QQ",
+    "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61se8cNhwjL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=malica09-20",
+    "atualizado_em": "2026-09-25T08:51:59.057-03:00"
+  },
+  {
     "id": "shopee:315643622.21197619738",
     "titulo": "Travesseiro de corpo para Gestante Gravida 1,20x60 micropercal  200 fios Promoção",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqyr5zajv86zc3",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gIrRH40RR",
     "atualizado_em": "2026-09-24T08:52:03.824-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39454640",
-    "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980471-MLA95405495148_102025-F.jpg",
-    "preco": 64.9,
-    "preco_anterior": 162.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2W1qkFU",
-    "atualizado_em": "2026-09-24T08:46:59.005-03:00"
   }
 ]
