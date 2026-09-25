@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DBRCGQ6N",
+    "titulo": "Play-Doh Conjunto de massinha Mesa de Ferramentas Coloridas com 5 potes de massinha de modelar e acessórios, para brincadeiras criativas, presente para crianças acima de 3 anos",
+    "imagem": "https://m.media-amazon.com/images/I/719CKKMonDL._AC_SL1500_.jpg",
+    "preco": 69,
+    "preco_anterior": 129,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DBRCGQ6N?tag=malica09-20",
+    "atualizado_em": "2026-09-25T16:28:59.434-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65313748",
     "titulo": "Tapete Bebê Emborrachado Dobrável Proteção Dupla Face Selva",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_818382-MLA106046813850_022026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H2VKB99H?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:30:27.522-03:00"
-  },
-  {
-    "id": "amazon:B07DHRL34V",
-    "titulo": "Loção Hidratante Para Uso Diário Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41JShnIUmZL._AC_SL1500_.jpg",
-    "preco": 29.99,
-    "preco_anterior": 48.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRL34V?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:25:17.354-03:00"
   }
 ]
