@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGVQ5GCM",
+    "titulo": "Quadriciclo Infantil Feminino Lady Star Rosa +9 Meses com Guia Maral",
+    "imagem": "https://m.media-amazon.com/images/I/61n4-S0RMuL._AC_SL1500_.jpg",
+    "preco": 349,
+    "preco_anterior": 409,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGVQ5GCM?tag=malica09-20",
+    "atualizado_em": "2026-09-24T21:22:43.586-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17489277",
     "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2FxBWSe",
     "atualizado_em": "2026-09-23T21:24:41.749-03:00"
-  },
-  {
-    "id": "amazon:B0DP835W1R",
-    "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 1L",
-    "imagem": "https://m.media-amazon.com/images/I/71lxVZRTMYL._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": 68,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DP835W1R?tag=malica09-20",
-    "atualizado_em": "2026-09-23T21:19:33.463-03:00"
   }
 ]
