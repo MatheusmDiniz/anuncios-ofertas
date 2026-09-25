@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1123144676.18897796293",
+    "titulo": "Almofada de Viagem H Para Carro Com Travesseiro Cinto De Segurança para Criança",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke8zmgbkoht1e",
+    "preco": 69.99,
+    "preco_anterior": 166.64,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/W6vdfiEwl",
+    "atualizado_em": "2026-09-25T08:36:37.104-03:00"
+  },
+  {
     "id": "amazon:B0H2G47KGJ",
     "titulo": "Kit 5 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 500g - Bepantol Baby",
     "imagem": "https://m.media-amazon.com/images/I/71UzmwOYCLL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uuTxjq",
     "atualizado_em": "2026-09-24T08:36:45.880-03:00"
-  },
-  {
-    "id": "shopee:378105312.45004572291",
-    "titulo": "Kit Higiene Bebê 5 Peças Escova, Pente, Tesoura E Cortador",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82604-mjeewbhlfsp367",
-    "preco": 17.99,
-    "preco_anterior": 59.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50ZJPBahtz",
-    "atualizado_em": "2026-09-24T08:31:37.849-03:00"
   }
 ]
