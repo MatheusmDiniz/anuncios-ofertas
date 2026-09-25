@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:284865829.22397722846",
+    "titulo": "Bota Para Chuva Galocha Infantil Básica Reciclável Confortável Macio Plugt Linha Sustentável Cores",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lz0v38whvq8lb0",
+    "preco": 58,
+    "preco_anterior": 89.23,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8fSdMpn2lS",
+    "atualizado_em": "2026-09-25T09:48:28.123-03:00"
+  },
+  {
     "id": "amazon:B0BFXKZQ2Y",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
     "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XQuVVJ",
     "atualizado_em": "2026-09-24T09:48:35.800-03:00"
-  },
-  {
-    "id": "amazon:B07DHRPTPB",
-    "titulo": "Shampoo Para Bebê Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
-    "preco": 17.99,
-    "preco_anterior": 34.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
-    "atualizado_em": "2026-09-24T09:43:25.404-03:00"
   }
 ]
