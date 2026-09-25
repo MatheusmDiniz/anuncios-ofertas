@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73076611",
+    "titulo": "Kit Chocalho Mordedor Sensorial Para Bebê Coloridos 8 Peças Colorido Infantil",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_921921-MLA117328843993_092026-F.jpg",
+    "preco": 26,
+    "preco_anterior": 49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RqNrf7",
+    "atualizado_em": "2026-09-25T16:34:07.423-03:00"
+  },
+  {
     "id": "amazon:B0DBRCGQ6N",
     "titulo": "Play-Doh Conjunto de massinha Mesa de Ferramentas Coloridas com 5 potes de massinha de modelar e acessórios, para brincadeiras criativas, presente para crianças acima de 3 anos",
     "imagem": "https://m.media-amazon.com/images/I/719CKKMonDL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0058NC0UW?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:35:35.525-03:00"
-  },
-  {
-    "id": "amazon:B0H2VKB99H",
-    "titulo": "Blocos Magnéticos para Construção, Brinquedo Educativo Adequado para Crianças de 3 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71Z+WnMklYL._AC_SL1500_.jpg",
-    "preco": 98.65,
-    "preco_anterior": 136,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H2VKB99H?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:30:27.522-03:00"
   }
 ]
