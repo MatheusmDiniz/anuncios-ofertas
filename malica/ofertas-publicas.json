@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GR5YBSQ",
+    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho XG, 12-15kg, 48 Unidades, Estilo Roupinha com Cintura Acolchoada",
+    "imagem": "https://m.media-amazon.com/images/I/81bfqQYF1UL._AC_SL1500_.jpg",
+    "preco": 71,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GR5YBSQ?tag=malica09-20",
+    "atualizado_em": "2026-09-25T10:50:40.041-03:00"
+  },
+  {
     "id": "shopee:341167297.20698276094",
     "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
     "atualizado_em": "2026-09-24T10:51:21.253-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62061333",
-    "titulo": "Kit Talheres De Treinamento Azul, Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620341-MLA98092033781_112025-F.jpg",
-    "preco": 14.27,
-    "preco_anterior": 22.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2jHC25Z",
-    "atualizado_em": "2026-09-24T10:46:14.299-03:00"
   }
 ]
