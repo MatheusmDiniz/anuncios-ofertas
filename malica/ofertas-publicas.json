@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB78015488",
+    "titulo": "Pulseira Guia Infantil Seguranca Anti Perda Criança Viagens Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_959694-MLA115154246856_082026-F.jpg",
+    "preco": 24.4,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Hsd6ZK",
+    "atualizado_em": "2026-09-25T15:22:21.121-03:00"
+  },
+  {
     "id": "amazon:B08Y1Z25MG",
     "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
     "atualizado_em": "2026-09-24T15:23:44.614-03:00"
-  },
-  {
-    "id": "amazon:B0CYLYM9LR",
-    "titulo": "Condicionador Huggies Kids Brilho Mágico 360 ml",
-    "imagem": "https://m.media-amazon.com/images/I/61ovC3w0CdL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CYLYM9LR?tag=malica09-20",
-    "atualizado_em": "2026-09-24T15:18:35.882-03:00"
   }
 ]
