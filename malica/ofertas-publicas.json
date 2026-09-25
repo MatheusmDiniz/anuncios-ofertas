@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73969392",
+    "titulo": "Extensor Alargador Com Botão Para Calças Aumenta Cós Calça Cor Jeans Azul Médio Kinneken",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800110-MLA117289087727_092026-F.jpg",
+    "preco": 23.18,
+    "preco_anterior": 39.98,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fLhoNr",
+    "atualizado_em": "2026-09-25T18:06:23.759-03:00"
+  },
+  {
     "id": "amazon:B08HJPJ69C",
     "titulo": "Gummy Rosa 400Ml. Fliptop",
     "imagem": "https://m.media-amazon.com/images/I/41B9Z+T2pYL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fScQB4Qmj",
     "atualizado_em": "2026-09-24T18:07:47.922-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23447020",
-    "titulo": "Philips Avent Ultra Soft chupeta seda bege período de idade 6-18 meses",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915659-MLA100087486085_122025-F.jpg",
-    "preco": 28.7,
-    "preco_anterior": 53.67,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2fvANTQ",
-    "atualizado_em": "2026-09-24T18:02:42.658-03:00"
   }
 ]
