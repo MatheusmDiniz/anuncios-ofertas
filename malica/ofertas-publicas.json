@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB59097044",
+    "titulo": "Kit 148 Blocos Imã Magnéticos Construção Montar Empilhamento Cubo Infantil Brinquedo Educativo Covei Toys",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA116378687368_092026-F.jpg",
+    "preco": 97,
+    "preco_anterior": 198.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/22MvWWY",
+    "atualizado_em": "2026-09-25T19:59:07.322-03:00"
+  },
+  {
     "id": "amazon:B09888TC4W",
     "titulo": "Buba Mantinha Ovelhinha Azul Buba Azul",
     "imagem": "https://m.media-amazon.com/images/I/61wmHxoZfsL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2xtUxZj",
     "atualizado_em": "2026-09-24T20:00:36.020-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB33387739",
-    "titulo": "Cadeirinha Infantil Reclinável Legacy Cinza e Preto Mescla Voyage",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_856035-MLA99488954664_112025-F.jpg",
-    "preco": 692.55,
-    "preco_anterior": 799,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/34dcDyf",
-    "atualizado_em": "2026-09-24T19:55:28.110-03:00"
   }
 ]
