@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B29Z4RW7",
+    "titulo": "Disney Princesa Boneca Bela para crianças a partir de 3 anos",
+    "imagem": "https://m.media-amazon.com/images/I/81XtwX31klL._AC_SL1500_.jpg",
+    "preco": 89.99,
+    "preco_anterior": 169.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B29Z4RW7?tag=malica09-20",
+    "atualizado_em": "2026-09-25T11:00:53.521-03:00"
+  },
+  {
     "id": "shopee:1365993167.58209968589",
     "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=malica09-20",
     "atualizado_em": "2026-09-24T11:01:36.218-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17457276",
-    "titulo": "Toalhetes Desinfetantes Coperalcool Bacfree Álcool 70° Pacote 15 Unid",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_719214-MLA99823204133_112025-F.jpg",
-    "preco": 9.55,
-    "preco_anterior": 13.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cRzUzJ",
-    "atualizado_em": "2026-09-24T10:56:28.827-03:00"
   }
 ]
