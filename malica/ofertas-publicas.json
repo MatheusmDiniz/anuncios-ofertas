@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FVB7KV7G",
+    "titulo": "Buba, Kit 3 Mamadeiras Easy Flow Nuvem Azul 120/270/330ml",
+    "imagem": "https://m.media-amazon.com/images/I/51Ea7liXrjL._AC_SL1500_.jpg",
+    "preco": 70,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FVB7KV7G?tag=malica09-20",
+    "atualizado_em": "2026-09-25T15:06:58.253-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62939994",
     "titulo": "Mesa de Atividades Infantil Didática com Blocos de Montar Brinq Kids Azul-marinho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797318-MLA100663215085_122025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BBJM19ZB?tag=malica09-20",
     "atualizado_em": "2026-09-24T15:08:23.233-03:00"
-  },
-  {
-    "id": "amazon:B0FPP1FTKY",
-    "titulo": "Protetor Solar Corporal em Loção Sundown Kids, FPS 60, 100ml | Praia e Piscina, Extra Proteção, Dermatologicamente Testado, Extratos Calmantes",
-    "imagem": "https://m.media-amazon.com/images/I/61AF+B7nAfL._AC_SL1500_.jpg",
-    "preco": 33,
-    "preco_anterior": 44,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPP1FTKY?tag=malica09-20",
-    "atualizado_em": "2026-09-24T15:03:17.138-03:00"
   }
 ]
