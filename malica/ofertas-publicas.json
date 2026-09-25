@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61118769",
+    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
+    "preco": 449.9,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2sQi2Ef",
+    "atualizado_em": "2026-09-25T20:45:09.533-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875937",
     "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGeNkAKXJ",
     "atualizado_em": "2026-09-24T20:46:51.812-03:00"
-  },
-  {
-    "id": "shopee:434188453.23994339315",
-    "titulo": "Kit Conjunto de Saída de Maternidade Jardineira  Romper Casaquinho  Manta Luxo 3 Pecas Enxoval Tricô",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mqqbovv7az9c8e",
-    "preco": 79,
-    "preco_anterior": 179.55,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYYEZvFss",
-    "atualizado_em": "2026-09-24T20:41:46.083-03:00"
   }
 ]
