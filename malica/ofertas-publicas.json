@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CXDZKZKM",
+    "titulo": "Mochila com Guia Infanti, Tigre",
+    "imagem": "https://m.media-amazon.com/images/I/510BkMnV1cL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CXDZKZKM?tag=malica09-20",
+    "atualizado_em": "2026-09-25T18:11:30.674-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73969392",
     "titulo": "Extensor Alargador Com Botão Para Calças Aumenta Cós Calça Cor Jeans Azul Médio Kinneken",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_800110-MLA117289087727_092026-F.jpg",
