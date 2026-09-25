@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B2CYXPMX",
+    "titulo": "Tiny Love, Andador e Triciclo 5 em 1, Here I Grow, Blue",
+    "imagem": "https://m.media-amazon.com/images/I/51qBkBQ8qHL._AC_SL1500_.jpg",
+    "preco": 330,
+    "preco_anterior": 599,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B2CYXPMX?tag=malica09-20",
+    "atualizado_em": "2026-09-25T18:37:10.183-03:00"
+  },
+  {
     "id": "amazon:B07MBXDB51",
     "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
     "imagem": "https://m.media-amazon.com/images/I/61NJbm2a9tL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1UrgL1W",
     "atualizado_em": "2026-09-24T18:38:40.721-03:00"
-  },
-  {
-    "id": "amazon:B07GQB93FT",
-    "titulo": "Fralda Pampers Primeiros Dias Tamanho RN (Até 4 kg), 36 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61JeKENg3gL._AC_SL1500_.jpg",
-    "preco": 42,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQB93FT?tag=malica09-20",
-    "atualizado_em": "2026-09-24T18:33:32.116-03:00"
   }
 ]
