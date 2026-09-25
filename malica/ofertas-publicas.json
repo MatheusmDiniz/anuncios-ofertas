@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74177687",
+    "titulo": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_815286-MLA112368898246_062026-F.jpg",
+    "preco": 31,
+    "preco_anterior": 57,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2s1svu6",
+    "atualizado_em": "2026-09-25T14:00:26.963-03:00"
+  },
+  {
     "id": "amazon:B0G3QFG9M4",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61K5hrmtDLL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CZSCDB97?tag=malica09-20",
     "atualizado_em": "2026-09-24T14:01:23.565-03:00"
-  },
-  {
-    "id": "amazon:B07YBNQKJ9",
-    "titulo": "Ovomaltine Achocolatado Flocos Crocantes Pote 400g : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/81Xa9FLwU5L._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07YBNQKJ9?tag=malica09-20",
-    "atualizado_em": "2026-09-24T13:56:17.865-03:00"
   }
 ]
