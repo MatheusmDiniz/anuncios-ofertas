@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24647481",
+    "titulo": "Bicicleta De Equilíbrio Zippy Toys Andador Infantil Bike Sem Pedal Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_890028-MLA96136074259_102025-F.jpg",
+    "preco": 77.7,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32GEWzd",
+    "atualizado_em": "2026-09-24T22:01:36.411-03:00"
+  },
+  {
     "id": "shopee:1356520947.54261653126",
     "titulo": "Garrafa De Chupeta De Silicone Anti-Cólica Mamadeira Com Canudos Acessórios Essenciais Para Bebês Recém-Nascidos aopoimy",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-823o8-mp1yr0tk4e188e",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2yXFWmw",
     "atualizado_em": "2026-09-24T08:00:36.383-03:00"
-  },
-  {
-    "id": "shopee:341167297.52156184789",
-    "titulo": "Escolha Seu Macacão Bebe Menina Roupa Inverno Soft Peluciado Com Zíper Quentinho Confortável Panda, Ursinho, Florido L09",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mko8utap0t1d2b",
-    "preco": 34.9,
-    "preco_anterior": 69.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6q0tYklCGZ",
-    "atualizado_em": "2026-09-23T21:56:41.113-03:00"
   }
 ]
