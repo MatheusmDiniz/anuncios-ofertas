@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZPQ2RRR",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
+    "preco": 134,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
+    "atualizado_em": "2026-09-25T20:09:21.537-03:00"
+  },
+  {
     "id": "amazon:B0DW4DKXT5",
     "titulo": "Carmed Fini Minhocas Gel Dental com Flúor Sabor Maçã Verde 70g",
     "imagem": "https://m.media-amazon.com/images/I/61rQKTmvM6L._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1VzRF2yQZd",
     "atualizado_em": "2026-09-24T20:11:06.534-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27044595",
-    "titulo": "Babador Em Silicone Com Pega-migalhas Rosa Gumy Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_808833-MLA100084850895_122025-F.jpg",
-    "preco": 20.88,
-    "preco_anterior": 44.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kcZvHR",
-    "atualizado_em": "2026-09-24T20:05:43.221-03:00"
   }
 ]
