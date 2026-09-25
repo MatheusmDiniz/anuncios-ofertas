@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H6QML2K8",
+    "titulo": "Tapete de Atividades Para Bebês 3x1 Piscina de Bolinhas Sensorial Preto e Branco Maxi Baby",
+    "imagem": "https://m.media-amazon.com/images/I/51c3M25SP0L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H6QML2K8?tag=malica09-20",
+    "atualizado_em": "2026-09-25T09:02:22.153-03:00"
+  },
+  {
     "id": "shopee:807185675.53157799582",
     "titulo": "Jaqueta Puffer Infantil Unissex Bobojaco Juvenil Peluciada Capuz Removível Inverno Frio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mm7o26rhqwhs12",
@@ -1628,25 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fAtUZg",
     "atualizado_em": "2026-09-24T09:07:29.065-03:00"
-  },
-  {
-    "id": "shopee:1017646777.22898838787",
-    "titulo": "Kit 5 Camisetas Regata Bebê Menino Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mnk8vy4obx1gb6",
-    "preco": 29.99,
-    "preco_anterior": 81.05,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8pm1yWWVgj",
-    "atualizado_em": "2026-09-24T09:02:21.112-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20611931",
-    "titulo": "Sunny Boneco Patrulha Canina 1342 Skye Focos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897745-MLA99453292044_112025-F.jpg",
-    "preco": 85.9,
-    "preco_anterior": 129.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2gfkcGb",
-    "atualizado_em": "2026-09-24T08:57:15.257-03:00"
   }
 ]
