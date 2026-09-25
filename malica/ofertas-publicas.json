@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66840413",
+    "titulo": "Kit Saida Maternidade Bebê Tricot Trico Menino Masculino Cor Azul Marinho Liso Tamanho Rn - Recem Nascido - 0 A 1 Mês",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812086-MLA112281121935_052026-F.jpg",
+    "preco": 119,
+    "preco_anterior": 199.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2VmdmJk",
+    "atualizado_em": "2026-09-25T11:06:02.517-03:00"
+  },
+  {
     "id": "amazon:B0B29Z4RW7",
     "titulo": "Disney Princesa Boneca Bela para crianças a partir de 3 anos",
     "imagem": "https://m.media-amazon.com/images/I/81XtwX31klL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2far6hn",
     "atualizado_em": "2026-09-24T11:06:44.704-03:00"
-  },
-  {
-    "id": "amazon:B07DHS1MD2",
-    "titulo": "Shampoogotas de Brilho, Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61OBGlobLML._AC_SL1500_.jpg",
-    "preco": 17.09,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=malica09-20",
-    "atualizado_em": "2026-09-24T11:01:36.218-03:00"
   }
 ]
