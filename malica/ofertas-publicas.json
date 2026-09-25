@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32430194",
+    "titulo": "Chocalho Mordedor Infantil Buba Leãozinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896240-MLA100113127169_122025-F.jpg",
+    "preco": 33.97,
+    "preco_anterior": 88.74,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dFcqBJ",
+    "atualizado_em": "2026-09-25T15:42:49.245-03:00"
+  },
+  {
     "id": "amazon:B00NHQF6MG",
     "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
     "imagem": "https://m.media-amazon.com/images/I/81sXyDjMOPL._AC_SL1500_.jpg",
