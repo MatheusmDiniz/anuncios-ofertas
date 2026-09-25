@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00NHQF6MG",
+    "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
+    "imagem": "https://m.media-amazon.com/images/I/81sXyDjMOPL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00NHQF6MG?tag=malica09-20",
+    "atualizado_em": "2026-09-25T15:37:41.786-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42111901",
     "titulo": "Kit Portátil Para Limpeza De Mamadeira 5 Em 1 Escova Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_601047-MLA99940510827_112025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FXNG6MJ5?tag=malica09-20",
     "atualizado_em": "2026-09-24T15:39:13.534-03:00"
-  },
-  {
-    "id": "amazon:B076DB2FMW",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61A1zIfjSfL._AC_SL1500_.jpg",
-    "preco": 53,
-    "preco_anterior": 87,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076DB2FMW?tag=malica09-20",
-    "atualizado_em": "2026-09-24T15:34:01.073-03:00"
   }
 ]
