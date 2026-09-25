@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08HJPJ69C",
+    "titulo": "Gummy Rosa 400Ml. Fliptop",
+    "imagem": "https://m.media-amazon.com/images/I/41B9Z+T2pYL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08HJPJ69C?tag=malica09-20",
+    "atualizado_em": "2026-09-25T18:01:16.363-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB16600923",
     "titulo": "Talco Pom Pom de Amido de Milho Para Bebê 200g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_759853-MLA111048261147_042026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2fvANTQ",
     "atualizado_em": "2026-09-24T18:02:42.658-03:00"
-  },
-  {
-    "id": "amazon:B0DX3J6MT7",
-    "titulo": "LEGO Super Mario Game Boy™ 72046 (421 Peças)",
-    "imagem": "https://m.media-amazon.com/images/I/810rmeI3X7L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DX3J6MT7?tag=malica09-20",
-    "atualizado_em": "2026-09-24T17:57:32.950-03:00"
   }
 ]
