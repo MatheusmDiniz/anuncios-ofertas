@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19724253",
+    "titulo": "Conjunto Passeio Garrafa 250ml + Pote Para Leite Em Po Azul Bebê Sanremo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_622682-MLA116679877710_092026-F.jpg",
+    "preco": 58.6,
+    "preco_anterior": 111,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ddypuh",
+    "atualizado_em": "2026-09-25T12:38:18.360-03:00"
+  },
+  {
     "id": "shopee:378486926.58263443418",
     "titulo": "Bota Infantil Menina Coturno Cano Curto Feminina Blogueira Juvenil Tratorada",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr7dzhf6p0cl83",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/19aCMdn",
     "atualizado_em": "2026-09-24T12:39:11.190-03:00"
-  },
-  {
-    "id": "amazon:B0H5BXQ86H",
-    "titulo": "Oferta: Brinquedos Montessori – Trem Elétrico 3D de 128 Peças para Construção e Blocos, Jogo de Blocos de Montar e Criatividade para Crianças de 3+ Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71fNEc60X2L._AC_SL1500_.jpg",
-    "preco": 114.78,
-    "preco_anterior": 180,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5BXQ86H?tag=malica09-20",
-    "atualizado_em": "2026-09-24T12:34:02.418-03:00"
   }
 ]
