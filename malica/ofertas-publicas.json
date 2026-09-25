@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CD8T9Q45",
+    "titulo": "Absorvente Cremer 30Un. Seios : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/51O7wP2IGpL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CD8T9Q45?tag=malica09-20",
+    "atualizado_em": "2026-09-25T13:45:01.558-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25997851",
     "titulo": "Buba Treme-Treme De Atividades Zoo - Panda",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629314-MLA95633395326_102025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2nzh1nh",
     "atualizado_em": "2026-09-24T13:45:56.188-03:00"
-  },
-  {
-    "id": "amazon:B0C9W3MZV2",
-    "titulo": "Sabonete Nutritivo Derma Protect JOHNSON",
-    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
-    "atualizado_em": "2026-09-24T13:40:47.851-03:00"
   }
 ]
