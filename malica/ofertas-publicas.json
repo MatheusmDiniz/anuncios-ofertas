@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49618558",
+    "titulo": "Garrafa Térmica Unicórnio Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656101-MLA84669348676_052025-F.jpg",
+    "preco": 90.5,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RwjbRP",
+    "atualizado_em": "2026-09-25T20:34:53.625-03:00"
+  },
+  {
     "id": "shopee:728451683.23991805523",
     "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2GZPrDm",
     "atualizado_em": "2026-09-24T20:36:39.668-03:00"
-  },
-  {
-    "id": "shopee:382759839.23997651015",
-    "titulo": "Body Bebe Menina Recem Nascido Gola Bordada",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly0d61dze7y737",
-    "preco": 24.95,
-    "preco_anterior": 49.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7KxEBRAxsG",
-    "atualizado_em": "2026-09-24T20:31:32.231-03:00"
   }
 ]
