@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DR3N5BV6",
+    "titulo": "Oferta: Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
+    "imagem": "https://m.media-amazon.com/images/I/710kBoOgaEL._AC_SL1500_.jpg",
+    "preco": 175,
+    "preco_anterior": 369.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DR3N5BV6?tag=malica09-20",
+    "atualizado_em": "2026-09-25T19:02:47.736-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68012260",
     "titulo": "Grades De Cama Proteção Ajust 68cm Grades Segurança 3 Grades Branco Para Metal Madeira Solteiro Casal Para Idoso Gestante Protecao Para Nao Cair Da Cama Box Bebe Protetor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_981005-MLA110457295999_042026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VO7uw8F79",
     "atualizado_em": "2026-09-24T19:04:14.791-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27672036",
-    "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
-    "preco": 24.49,
-    "preco_anterior": 47.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2chmi3v",
-    "atualizado_em": "2026-09-24T18:59:10.189-03:00"
   }
 ]
