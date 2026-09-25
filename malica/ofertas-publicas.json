@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KTRZP7",
+    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
+    "atualizado_em": "2026-09-25T14:15:48.544-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66880692",
     "titulo": "144 Adesivo Repelente Infantil Bebê Sai Dai Mosquito Dengue Pernilongo Muriçocas Proteção 48h Citronela Natural Contra Insetos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_712037-MLA108255877102_032026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D2DPCP55?tag=malica09-20",
     "atualizado_em": "2026-09-24T14:16:48.811-03:00"
-  },
-  {
-    "id": "amazon:B0CTTVW9MC",
-    "titulo": "Oferta: Set Figuras Rubble & Crew, Patrulha Canina, Sunny",
-    "imagem": "https://m.media-amazon.com/images/I/61q-4awSl0L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CTTVW9MC?tag=malica09-20",
-    "atualizado_em": "2026-09-24T14:11:39.401-03:00"
   }
 ]
