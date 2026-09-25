@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875937",
+    "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
+    "preco": 19.73,
+    "preco_anterior": 34.49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/12NvazT",
+    "atualizado_em": "2026-09-25T20:40:01.272-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB49618558",
     "titulo": "Garrafa Térmica Unicórnio Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656101-MLA84669348676_052025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYYEZvFss",
     "atualizado_em": "2026-09-24T20:41:46.083-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17775077",
-    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 13.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2GZPrDm",
-    "atualizado_em": "2026-09-24T20:36:39.668-03:00"
   }
 ]
