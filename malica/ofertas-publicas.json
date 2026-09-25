@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C6YD7JCN",
+    "titulo": "Oferta: Casa Telhado Vermelho com Luzes e Sotão Secreto",
+    "imagem": "https://m.media-amazon.com/images/I/81W80plu+GL._AC_SL1500_.jpg",
+    "preco": 514.76,
+    "preco_anterior": 769.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C6YD7JCN?tag=malica09-20",
+    "atualizado_em": "2026-09-25T19:33:34.540-03:00"
+  },
+  {
     "id": "amazon:B0G43WRH8R",
     "titulo": "Oferta: Figura de Ação DC Premiere The Flash™ 12\"",
     "imagem": "https://m.media-amazon.com/images/I/51lAjoagTkL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2Vrz9hGF93",
     "atualizado_em": "2026-09-24T19:34:58.547-03:00"
-  },
-  {
-    "id": "shopee:428189389.22999397938",
-    "titulo": "Camisa Gola Polo Infantil e Juvenil Premium Manga Curta Bebê Menino Algodão de alta Qualidade",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mrt43yh8jz0k43",
-    "preco": 43.9,
-    "preco_anterior": 68.59,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qNMk8gRFv",
-    "atualizado_em": "2026-09-24T19:29:53.365-03:00"
   }
 ]
