@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07LF7C7YL",
+    "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml - Infantil, especialmente formulado para a pele delicada das crianças, muito resistente à água, alta proteção UVA/UVB",
+    "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
+    "preco": 49.98,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=malica09-20",
+    "atualizado_em": "2026-09-25T15:58:09.415-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63962761",
     "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
