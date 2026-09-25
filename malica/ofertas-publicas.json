@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19538172",
+    "titulo": "Caixa Presente Sabonete Phebo Amarelo - 8 Sabonetes 90g Cada",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_870769-MLA99924065793_112025-F.jpg",
+    "preco": 39,
+    "preco_anterior": 75,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25r3g5o",
+    "atualizado_em": "2026-09-25T12:07:40.151-03:00"
+  },
+  {
     "id": "amazon:B07J2CR38V",
     "titulo": "Pelúcia Chase, 12",
     "imagem": "https://m.media-amazon.com/images/I/51noVFeY0hL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1d1Cdat",
     "atualizado_em": "2026-09-24T12:08:21.773-03:00"
-  },
-  {
-    "id": "amazon:B07GQ136TS",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
-    "preco": 49.99,
-    "preco_anterior": 71.67,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
-    "atualizado_em": "2026-09-24T12:03:01.075-03:00"
   }
 ]
