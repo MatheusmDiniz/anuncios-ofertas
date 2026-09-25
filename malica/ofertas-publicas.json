@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D96N45LL",
+    "titulo": "Oferta: Maxi Baby Assento Redutor Infantil Dobrável C/Escada Mcfrog (Azul)",
+    "imagem": "https://m.media-amazon.com/images/I/61+s-3z8cxL._AC_SL1500_.jpg",
+    "preco": 61,
+    "preco_anterior": 179,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D96N45LL?tag=malica09-20",
+    "atualizado_em": "2026-09-25T18:21:45.292-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72684098",
     "titulo": "Kit Mini Berço Menina Menino 5 Peças Com Saia Cor Bosque Encantado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_851167-MLA111728925368_062026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=malica09-20",
     "atualizado_em": "2026-09-24T18:23:19.284-03:00"
-  },
-  {
-    "id": "shopee:421581203.22398990698",
-    "titulo": "Kit 10 ou 5 Cuecas Box Boxer Microfibra Infantil Juvenil MEN Boy Criança Bebê Masculino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mm34akips3y803",
-    "preco": 27.95,
-    "preco_anterior": 45.08,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70KOR7b6bP",
-    "atualizado_em": "2026-09-24T18:18:05.088-03:00"
   }
 ]
