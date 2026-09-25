@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34235115",
+    "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
+    "preco": 101,
+    "preco_anterior": 180.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2oJiN3n",
+    "atualizado_em": "2026-09-25T16:44:21.464-03:00"
+  },
+  {
     "id": "amazon:B0BLD1XLM5",
     "titulo": "Macacão de dormir para bebês Cotton Sleep and Play, Pack of 2 Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81II3wjE3gL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07B9HHG39?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:45:47.194-03:00"
-  },
-  {
-    "id": "amazon:B08D9VGDVJ",
-    "titulo": "Hot Wheels Bateria Infantil Radical",
-    "imagem": "https://m.media-amazon.com/images/I/61987CLYJxL._AC_SL1500_.jpg",
-    "preco": 246.4,
-    "preco_anterior": 329.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08D9VGDVJ?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:40:41.328-03:00"
   }
 ]
