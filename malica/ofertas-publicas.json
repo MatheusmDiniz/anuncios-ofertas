@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42111901",
+    "titulo": "Kit Portátil Para Limpeza De Mamadeira 5 Em 1 Escova Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601047-MLA99940510827_112025-F.jpg",
+    "preco": 77.99,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oVc6pi",
+    "atualizado_em": "2026-09-25T15:32:34.643-03:00"
+  },
+  {
     "id": "amazon:B0DR3N5BV6+B0DR3PTGH3",
     "titulo": "Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
     "imagem": "https://m.media-amazon.com/images/I/710kBoOgaEL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076DB2FMW?tag=malica09-20",
     "atualizado_em": "2026-09-24T15:34:01.073-03:00"
-  },
-  {
-    "id": "amazon:B0CZ7LPPZH",
-    "titulo": "Cachinho Feliz Creme de Pentear Salada de Frutas 450g, Lola Cosmetics",
-    "imagem": "https://m.media-amazon.com/images/I/51-g7r13XSL._AC_SL1500_.jpg",
-    "preco": 30,
-    "preco_anterior": 69,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CZ7LPPZH?tag=malica09-20",
-    "atualizado_em": "2026-09-24T15:28:52.502-03:00"
   }
 ]
