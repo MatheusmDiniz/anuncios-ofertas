@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28487537",
+    "titulo": "Berço Sonata Cor Cinza - Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
+    "preco": 374.99,
+    "preco_anterior": 651.23,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2N9M5Ks",
+    "atualizado_em": "2026-09-25T14:51:38.471-03:00"
+  },
+  {
     "id": "amazon:B0845Y8VWJ",
     "titulo": "Mustela Shampoo Recém-Nascido 150 ml - Xampu textura Espuma, Previne e Elimina a Crosta Láctea dos Bebês - Vegano, feito com 99% de ingredientes de origem natural - Mustela Bebê e Criança",
     "imagem": "https://m.media-amazon.com/images/I/41F0QUlisCL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=malica09-20",
     "atualizado_em": "2026-09-24T14:53:00.995-03:00"
-  },
-  {
-    "id": "amazon:B07DHSGC5B",
-    "titulo": "Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61jtP7w98pL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHSGC5B?tag=malica09-20",
-    "atualizado_em": "2026-09-24T14:47:46.364-03:00"
   }
 ]
