@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BLD1XLM5",
+    "titulo": "Macacão de dormir para bebês Cotton Sleep and Play, Pack of 2 Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81II3wjE3gL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BLD1XLM5?tag=malica09-20",
+    "atualizado_em": "2026-09-25T16:39:13.746-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73076611",
     "titulo": "Kit Chocalho Mordedor Sensorial Para Bebê Coloridos 8 Peças Colorido Infantil",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_921921-MLA117328843993_092026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08D9VGDVJ?tag=malica09-20",
     "atualizado_em": "2026-09-24T16:40:41.328-03:00"
-  },
-  {
-    "id": "amazon:B0058NC0UW",
-    "titulo": "Oferta: DINOSSAURO INTERATIVO, PRIMAL HATCH, SUNNY",
-    "imagem": "https://m.media-amazon.com/images/I/71-iJxe+qrL._AC_SL1500_.jpg",
-    "preco": 449.1,
-    "preco_anterior": 719.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0058NC0UW?tag=malica09-20",
-    "atualizado_em": "2026-09-24T16:35:35.525-03:00"
   }
 ]
