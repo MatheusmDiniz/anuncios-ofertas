@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24436385",
+    "titulo": "Prato infantil em Silicone com Ventosas Buba Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_948894-MLA99625585780_122025-F.jpg",
+    "preco": 29,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GLGhqV",
+    "atualizado_em": "2026-09-25T18:26:53.703-03:00"
+  },
+  {
     "id": "amazon:B0D96N45LL",
     "titulo": "Oferta: Maxi Baby Assento Redutor Infantil Dobrável C/Escada Mcfrog (Azul)",
     "imagem": "https://m.media-amazon.com/images/I/61+s-3z8cxL._AC_SL1500_.jpg",
