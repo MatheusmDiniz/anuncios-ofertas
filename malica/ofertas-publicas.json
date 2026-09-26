@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 199,
+    "preco_anterior": 369,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2tjqGTg",
+    "atualizado_em": "2026-09-26T16:21:36.782-03:00"
+  },
+  {
     "id": "amazon:B0DV9W63Z6",
     "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1VTbtdV",
     "atualizado_em": "2026-09-25T16:23:51.215-03:00"
-  },
-  {
-    "id": "amazon:B0CPFBBHP4",
-    "titulo": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, 220v | Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos Inteligente com Visão por IA e Laser LiDAR,Ideal para P",
-    "imagem": "https://m.media-amazon.com/images/I/71ylrz9PRgL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPFBBHP4?tag=malica09-20",
-    "atualizado_em": "2026-09-25T16:18:43.450-03:00"
   }
 ]
