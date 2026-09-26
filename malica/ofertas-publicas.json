@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGYR8GBT",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
+    "preco": 189,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
+    "atualizado_em": "2026-09-26T10:28:34.441-03:00"
+  },
+  {
     "id": "shopee:445820015.58216918626",
     "titulo": "Kit Vida Macia Para Roupinhas de Bebê Lava Roupas 1L + Amaciante 1L",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-msbl64ehkikk6b",
@@ -1668,25 +1678,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0964S52NM?tag=malica09-20",
     "atualizado_em": "2026-09-25T10:30:31.065-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58264964287",
-    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
-    "preco": 47.89,
-    "preco_anterior": 95.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60RqazkyXa",
-    "atualizado_em": "2026-09-25T10:25:24.138-03:00"
-  },
-  {
-    "id": "shopee:238412076.11380435890",
-    "titulo": "Conjunto Social Para Bebe Menino Recém Nascido a 05 Meses Casamento",
-    "imagem": "https://cf.shopee.com.br/file/0dcd8c5ca566a001ad15f235bdb24705",
-    "preco": 22.9,
-    "preco_anterior": 49.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6VO7Buj4Wf",
-    "atualizado_em": "2026-09-25T10:24:05.490-03:00"
   }
 ]
