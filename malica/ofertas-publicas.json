@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53358387",
+    "titulo": "Torre De Aprendizagem R&R Decor Montessori 4x1 Cadeirão Mesinha Cor Verde Chá",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930685-MLA96106356873_102025-F.jpg",
+    "preco": 233,
+    "preco_anterior": 399,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EKgnWB",
+    "atualizado_em": "2026-09-26T09:17:01.933-03:00"
+  },
+  {
     "id": "shopee:1361476561.22493583538",
     "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fhYz6VXVy",
     "atualizado_em": "2026-09-25T09:17:38.956-03:00"
-  },
-  {
-    "id": "amazon:B0B7SJ997F",
-    "titulo": "Oferta: Fisher-Price - Kit Quando me sinto...",
-    "imagem": "https://m.media-amazon.com/images/I/61776ocR+qL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B7SJ997F?tag=malica09-20",
-    "atualizado_em": "2026-09-25T09:12:33.244-03:00"
   }
 ]
