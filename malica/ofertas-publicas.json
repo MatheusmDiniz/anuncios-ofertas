@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66595119",
+    "titulo": "Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659154-MLA107901202678_032026-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 189.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xo8gb8",
+    "atualizado_em": "2026-09-26T09:06:49.290-03:00"
+  },
+  {
     "id": "amazon:B0CXYYGSNB",
     "titulo": "Conjunto de roupas enxoval de 12 peças Conjunto de presente de enxoval de 12 peças, Gerber, Meninas",
     "imagem": "https://m.media-amazon.com/images/I/817fktnKg2L._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VVbausivQ",
     "atualizado_em": "2026-09-25T09:07:27.282-03:00"
-  },
-  {
-    "id": "amazon:B0H6QML2K8",
-    "titulo": "Tapete de Atividades Para Bebês 3x1 Piscina de Bolinhas Sensorial Preto e Branco Maxi Baby",
-    "imagem": "https://m.media-amazon.com/images/I/51c3M25SP0L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H6QML2K8?tag=malica09-20",
-    "atualizado_em": "2026-09-25T09:02:22.153-03:00"
   }
 ]
