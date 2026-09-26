@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25961240",
+    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
+    "preco": 119.6,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26CTJJv",
+    "atualizado_em": "2026-09-26T17:12:45.932-03:00"
+  },
+  {
     "id": "amazon:B08QG3H6YR",
     "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
@@ -1498,25 +1508,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2QatG1L",
     "atualizado_em": "2026-09-25T17:15:04.879-03:00"
-  },
-  {
-    "id": "amazon:B0FBNJM6G3",
-    "titulo": "Bicicleta De Equilibrio Buba, 4 Rodas",
-    "imagem": "https://m.media-amazon.com/images/I/51C8eY8DwYL._AC_SL1500_.jpg",
-    "preco": 136,
-    "preco_anterior": 239,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FBNJM6G3?tag=malica09-20",
-    "atualizado_em": "2026-09-25T17:09:56.646-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75984769",
-    "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
-    "preco": 169,
-    "preco_anterior": 329.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2U76gEk",
-    "atualizado_em": "2026-09-25T17:04:50.964-03:00"
   }
 ]
