@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875892",
+    "titulo": "Sabonete Líquido de Glicerina Granado Bebê Tradicional 500ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
+    "preco": 39.9,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2CCe49E",
+    "atualizado_em": "2026-09-26T18:19:42.372-03:00"
+  },
+  {
     "id": "amazon:B0CLVT6V3X",
     "titulo": "Berço 3 em 1 Multimóveis MP0527G Branco – Para Colchão 60x130 cm | 3 Anos de Garantia",
     "imagem": "https://m.media-amazon.com/images/I/71EvjSlcbEL._AC_SL1500_.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D96N45LL?tag=malica09-20",
     "atualizado_em": "2026-09-25T18:21:45.292-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72684098",
-    "titulo": "Kit Mini Berço Menina Menino 5 Peças Com Saia Cor Bosque Encantado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851167-MLA111728925368_062026-F.jpg",
-    "preco": 55.9,
-    "preco_anterior": 107.2,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BvMb5X",
-    "atualizado_em": "2026-09-25T18:16:39.210-03:00"
   }
 ]
