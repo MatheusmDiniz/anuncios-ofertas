@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.44506971957",
+    "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
+    "preco": 50.9,
+    "preco_anterior": 99.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9KiIZRUbfs",
+    "atualizado_em": "2026-09-26T15:04:55.846-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FVB7KV7G?tag=malica09-20",
     "atualizado_em": "2026-09-25T15:06:58.253-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62939994",
-    "titulo": "Mesa de Atividades Infantil Didática com Blocos de Montar Brinq Kids Azul-marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797318-MLA100663215085_122025-F.jpg",
-    "preco": 45.9,
-    "preco_anterior": 78.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2MtKmdr",
-    "atualizado_em": "2026-09-25T15:01:50.816-03:00"
   }
 ]
