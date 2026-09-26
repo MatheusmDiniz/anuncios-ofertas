@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56479687",
+    "titulo": "Kit Alimentar Bebê 8 Un Copo Prato Babador Silicone Bpa Free Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864038-MLA100082622453_122025-F.jpg",
+    "preco": 39.99,
+    "preco_anterior": 79.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1A8YqDc",
+    "atualizado_em": "2026-09-25T21:31:14.077-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28067859",
     "titulo": "Esterilizador De Mamadeiras Para Micro-ondas - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_929629-MLA96098710639_102025-F.jpg",
@@ -1688,15 +1698,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNM1KpXqJ",
     "atualizado_em": "2026-09-24T21:35:51.997-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28643543",
-    "titulo": "Sabonete Líquido Nutritivo Derma Protect 200ml Johnson's Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
-    "preco": 36.74,
-    "preco_anterior": 53.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vpPWWV",
-    "atualizado_em": "2026-09-24T21:30:45.857-03:00"
   }
 ]
