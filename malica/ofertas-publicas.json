@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DTVLLSD9",
+    "titulo": "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 110V : Amazon.com.br: Cozinha",
+    "imagem": "https://m.media-amazon.com/images/I/41vdvIk7YvL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DTVLLSD9?tag=malica09-20",
+    "atualizado_em": "2026-09-26T13:02:26.055-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50912250",
     "titulo": "Berço Moisés Rubi Funcional Maxi do Brasil 5 em 1",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_864911-MLA99558047620_122025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DS6HRGFF?tag=malica09-20",
     "atualizado_em": "2026-09-25T13:03:55.050-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26693140",
-    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
-    "preco": 78.99,
-    "preco_anterior": 170.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/138DV6n",
-    "atualizado_em": "2026-09-25T12:58:46.232-03:00"
   }
 ]
