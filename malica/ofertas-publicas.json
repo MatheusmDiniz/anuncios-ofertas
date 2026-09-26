@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18395240",
+    "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
+    "preco": 22.93,
+    "preco_anterior": 39.4,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2EELiLN",
+    "atualizado_em": "2026-09-26T11:14:23.195-03:00"
+  },
+  {
     "id": "amazon:B0CH3WBKN6",
     "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
     "imagem": "https://m.media-amazon.com/images/I/71YOp9GJX2L._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1wtWi5X",
     "atualizado_em": "2026-09-25T11:16:17.078-03:00"
-  },
-  {
-    "id": "amazon:B0GYQ57VPX",
-    "titulo": "Pixar Toy Story 5 Figura de Ação Alto-falante Buzz Lightyear de 7\" : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/515RPS5FgLL._AC_SL1500_.jpg",
-    "preco": 187.89,
-    "preco_anterior": 269.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GYQ57VPX?tag=malica09-20",
-    "atualizado_em": "2026-09-25T11:11:08.619-03:00"
   }
 ]
