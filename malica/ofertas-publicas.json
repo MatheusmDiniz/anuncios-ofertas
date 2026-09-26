@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21346355",
+    "titulo": "Buba, Naninha Macia Pelúcia Antialérgica - Leãozinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648527-MLA95960351171_102025-F.jpg",
+    "preco": 56.99,
+    "preco_anterior": 199.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2xfcTEV",
+    "atualizado_em": "2026-09-26T12:36:58.530-03:00"
+  },
+  {
     "id": "amazon:B06XK9H4PM",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51200xA7+nL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ddypuh",
     "atualizado_em": "2026-09-25T12:38:18.360-03:00"
-  },
-  {
-    "id": "shopee:378486926.58263443418",
-    "titulo": "Bota Infantil Menina Coturno Cano Curto Feminina Blogueira Juvenil Tratorada",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr7dzhf6p0cl83",
-    "preco": 22.89,
-    "preco_anterior": 69.36,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70KPXb2m57",
-    "atualizado_em": "2026-09-25T12:33:11.194-03:00"
   }
 ]
