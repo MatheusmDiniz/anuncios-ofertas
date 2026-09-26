@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65726839",
+    "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
+    "preco": 25.39,
+    "preco_anterior": 49.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2KEVoih",
+    "atualizado_em": "2026-09-26T19:57:01.705-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50738913",
     "titulo": "Kit Babadores Bandana Bebê Gênero Unissex Child Of Mine 3 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_753783-MLA96677488573_102025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/22MvWWY",
     "atualizado_em": "2026-09-25T19:59:07.322-03:00"
-  },
-  {
-    "id": "amazon:B09888TC4W",
-    "titulo": "Buba Mantinha Ovelhinha Azul Buba Azul",
-    "imagem": "https://m.media-amazon.com/images/I/61wmHxoZfsL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09888TC4W?tag=malica09-20",
-    "atualizado_em": "2026-09-25T19:53:59.687-03:00"
   }
 ]
