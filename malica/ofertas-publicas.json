@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1042066189.43481645729",
+    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
+    "preco": 29.48,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/LnTqu2rwI",
+    "atualizado_em": "2026-09-26T17:33:40.260-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69147411",
     "titulo": "Kit 4 Escovas Para Lavar Mamadeira Copo Canudo Garrafa Amarelo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_939702-MLA111228926685_052026-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Z7N545",
     "atualizado_em": "2026-09-25T17:35:36.063-03:00"
-  },
-  {
-    "id": "amazon:B0CSTGM172",
-    "titulo": "Oferta: Kit de Mamadeiras Anticólica Essence Smart Flow 270ml NUK – Branca",
-    "imagem": "https://m.media-amazon.com/images/I/71XAHXsR9ZL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CSTGM172?tag=malica09-20",
-    "atualizado_em": "2026-09-25T17:30:28.208-03:00"
   }
 ]
