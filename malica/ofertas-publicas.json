@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB36926498",
+    "titulo": "Trocador Portátil Linho Com Forro Impermeável E Bolsos Cor Jeans Azul Linho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_921402-MLA112502611874_062026-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 199.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1x3Fbsh",
+    "atualizado_em": "2026-09-26T20:07:17.636-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26841539",
     "titulo": "Buba Ursinho que reza anjinho da guarda para bebê e criança pelúcia azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_677594-MLU75692537470_042024-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
     "atualizado_em": "2026-09-25T20:09:21.537-03:00"
-  },
-  {
-    "id": "amazon:B0DW4DKXT5",
-    "titulo": "Carmed Fini Minhocas Gel Dental com Flúor Sabor Maçã Verde 70g",
-    "imagem": "https://m.media-amazon.com/images/I/61rQKTmvM6L._AC_SL1500_.jpg",
-    "preco": 8.91,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DW4DKXT5?tag=malica09-20",
-    "atualizado_em": "2026-09-25T20:04:15.247-03:00"
   }
 ]
