@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23491820",
+    "titulo": "Pinico Troninho Infantil Bebês Desfralde Recipiente Buba Cor Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_914714-MLA100101043423_122025-F.jpg",
+    "preco": 35.9,
+    "preco_anterior": 74.88,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2yYr9rp",
+    "atualizado_em": "2026-09-26T16:11:22.971-03:00"
+  },
+  {
     "id": "amazon:B09WTLQ53R",
     "titulo": "Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1)",
     "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Mut8W7",
     "atualizado_em": "2026-09-25T16:13:32.868-03:00"
-  },
-  {
-    "id": "amazon:B0H6R6FYWM",
-    "titulo": "SÃO OS 4 ITENS POR ESSE PREÇO TÁ",
-    "imagem": null,
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H6R6FYWM?tag=malica09-20",
-    "atualizado_em": "2026-09-25T16:08:24.633-03:00"
   }
 ]
