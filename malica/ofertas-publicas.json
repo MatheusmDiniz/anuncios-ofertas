@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3TH25S",
+    "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
+    "preco": 123.49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
+    "atualizado_em": "2026-09-25T21:00:30.931-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28368344",
     "titulo": "Rede de proteção para banheira Buba - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_896192-MLA116104875284_092026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B000GKUEVE?tag=malica09-20",
     "atualizado_em": "2026-09-24T21:02:16.290-03:00"
-  },
-  {
-    "id": "amazon:B07Y2GSDVN",
-    "titulo": "BUBA Garrafa Térmica Parede Dupla 400 Ml - Azul, Azul, Tamanho único : Amazon.com.br: Cozinha",
-    "imagem": "https://m.media-amazon.com/images/I/51Nkf0CFFyL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Y2GSDVN?tag=malica09-20",
-    "atualizado_em": "2026-09-24T20:57:09.598-03:00"
   }
 ]
