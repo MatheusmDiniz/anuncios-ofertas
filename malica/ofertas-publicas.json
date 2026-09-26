@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58523172",
+    "titulo": "Kit Brinquedo Pato Dançante e Caranguejo Fujão Infantil com Música Luz Movimento Educativo combo patoguejo Ligeiro",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_735160-MLA96132018671_102025-F.jpg",
+    "preco": 46.95,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2PHB12X",
+    "atualizado_em": "2026-09-26T19:15:58.298-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53338251",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_952640-MLA100001199935_112025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1LoeqHG",
     "atualizado_em": "2026-09-25T19:18:14.007-03:00"
-  },
-  {
-    "id": "amazon:B08ZWNDM5J",
-    "titulo": "Gel Dental Trá Lá Lá Baby - Maçã e Pera (70g)",
-    "imagem": "https://m.media-amazon.com/images/I/41b4W3npN1L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08ZWNDM5J?tag=malica09-20",
-    "atualizado_em": "2026-09-25T19:13:06.237-03:00"
   }
 ]
