@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62338828",
+    "titulo": "Aspirador Sugador Nasal Bebê Elétrico Limpeza Nariz Ouvido Coral-claro",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_986837-MLA98420920428_112025-F.jpg",
+    "preco": 44.99,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Cxw7Up",
+    "atualizado_em": "2026-09-26T18:40:10.155-03:00"
+  },
+  {
     "id": "amazon:B0H2G6W6L5",
     "titulo": "Kit 2 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 200g - Bepantol Baby",
     "imagem": "https://m.media-amazon.com/images/I/61GzAiD3PML._AC_SL1500_.jpg",
