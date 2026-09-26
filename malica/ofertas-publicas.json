@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32365182",
+    "titulo": "Chocalho Com Espelhinho Giratório E Mordedor Macio Dino Buba Cor Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_680601-MLA99609050944_122025-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 52.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RDwkqf",
+    "atualizado_em": "2026-09-26T20:17:34.397-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68086238",
     "titulo": "Boneca Bebê Reborn Menino Recém Nascido Pode Dar Banho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_825513-MLA109629080834_042026-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZPPR52L?tag=malica09-20",
     "atualizado_em": "2026-09-25T20:19:34.212-03:00"
-  },
-  {
-    "id": "amazon:B07MWT9NND",
-    "titulo": "Escorredor de Mamadeira Branco/Cinza, Clingo, Cinza : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/61BXh8wKG8L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MWT9NND?tag=malica09-20",
-    "atualizado_em": "2026-09-25T20:14:27.317-03:00"
   }
 ]
