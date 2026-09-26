@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08XWBQHG2",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/A1mO12iBNgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08XWBQHG2?tag=malica09-20",
+    "atualizado_em": "2026-09-25T21:56:50.962-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24690640",
     "titulo": "Kit 25 Sacos Para Armazenar e Congelar Leite Materno Buba 200ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_993925-MLA116309030395_082026-F.jpg",
@@ -1688,15 +1698,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32GEWzd",
     "atualizado_em": "2026-09-24T22:01:36.411-03:00"
-  },
-  {
-    "id": "shopee:1356520947.54261653126",
-    "titulo": "Garrafa De Chupeta De Silicone Anti-Cólica Mamadeira Com Canudos Acessórios Essenciais Para Bebês Recém-Nascidos aopoimy",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823o8-mp1yr0tk4e188e",
-    "preco": 58.5,
-    "preco_anterior": 100.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2gBPW1xbjp",
-    "atualizado_em": "2026-09-24T21:56:28.394-03:00"
   }
 ]
