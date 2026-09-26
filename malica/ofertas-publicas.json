@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26841539",
+    "titulo": "Buba Ursinho que reza anjinho da guarda para bebê e criança pelúcia azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677594-MLU75692537470_042024-F.jpg",
+    "preco": 108.9,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1RYEJKx",
+    "atualizado_em": "2026-09-26T20:02:10.196-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65726839",
     "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DW4DKXT5?tag=malica09-20",
     "atualizado_em": "2026-09-25T20:04:15.247-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB59097044",
-    "titulo": "Kit 148 Blocos Imã Magnéticos Construção Montar Empilhamento Cubo Infantil Brinquedo Educativo Covei Toys",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA116378687368_092026-F.jpg",
-    "preco": 97,
-    "preco_anterior": 198.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/22MvWWY",
-    "atualizado_em": "2026-09-25T19:59:07.322-03:00"
   }
 ]
