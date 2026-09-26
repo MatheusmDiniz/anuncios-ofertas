@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D292HCS7",
+    "titulo": "Aptanutri Soja 3 Fórmula Infantil 800g : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/61E+SWCXdWL._AC_SL1500_.jpg",
+    "preco": 82,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=malica09-20",
+    "atualizado_em": "2026-09-26T12:21:08.094-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25163760",
     "titulo": "Booster Cosco Kids, Clippy, até 36kg, Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_850532-MLA113041435885_062026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20viYmI99y",
     "atualizado_em": "2026-09-25T12:22:57.752-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61794290",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
-    "preco": 434.9,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2KR1i23",
-    "atualizado_em": "2026-09-25T12:17:52.527-03:00"
   }
 ]
