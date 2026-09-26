@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66203994",
+    "titulo": "Kit Cuidados E Higiene Bebê Recém Nascido 13 Peças Azul Bolsa Maternidade Termômetro Digital Escova Pente Cortador Unha Aspirador Nasal Enxoval Acessórios Presente Segurança Louis Riel Acustico",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_607135-MLA112211763079_052026-F.jpg",
+    "preco": 37.99,
+    "preco_anterior": 78,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/256nA4h",
+    "atualizado_em": "2026-09-26T19:36:31.132-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB55258304",
     "titulo": "Termômetro De Banheira Para Banho Bebê Girafinha Buba Cor Az Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_753856-MLA100075370791_122025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07J2PCFB3?tag=malica09-20",
     "atualizado_em": "2026-09-25T19:38:39.811-03:00"
-  },
-  {
-    "id": "amazon:B0C6YD7JCN",
-    "titulo": "Oferta: Casa Telhado Vermelho com Luzes e Sotão Secreto",
-    "imagem": "https://m.media-amazon.com/images/I/81W80plu+GL._AC_SL1500_.jpg",
-    "preco": 514.76,
-    "preco_anterior": 769.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C6YD7JCN?tag=malica09-20",
-    "atualizado_em": "2026-09-25T19:33:34.540-03:00"
   }
 ]
