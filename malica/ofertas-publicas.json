@@ -1648,35 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C9W32C1J?tag=malica09-20",
     "atualizado_em": "2026-09-25T10:40:24.695-03:00"
-  },
-  {
-    "id": "amazon:B07MJZ74TS",
-    "titulo": "Sabonete Líquido de Glicerina Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51Mpgohw-eL._AC_SL1500_.jpg",
-    "preco": 42,
-    "preco_anterior": 78,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MJZ74TS?tag=malica09-20",
-    "atualizado_em": "2026-09-25T10:38:03.475-03:00"
-  },
-  {
-    "id": "amazon:B07FCM4PNV",
-    "titulo": "Maral Carrinho Com Chassis Jip Jip Bombeiro Multicor : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/61vBJUmi1fL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FCM4PNV?tag=malica09-20",
-    "atualizado_em": "2026-09-25T10:36:34.711-03:00"
-  },
-  {
-    "id": "shopee:822992046.19199071899",
-    "titulo": "Kit 36 Repelente Adesivo Citronela Sai Mosquito",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lofeebvexyknae",
-    "preco": 5,
-    "preco_anterior": 10,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1Af2quv34",
-    "atualizado_em": "2026-09-25T10:35:42.955-03:00"
   }
 ]
