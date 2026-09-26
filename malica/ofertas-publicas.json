@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68086238",
+    "titulo": "Boneca Bebê Reborn Menino Recém Nascido Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825513-MLA109629080834_042026-F.jpg",
+    "preco": 73,
+    "preco_anterior": 179.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zYjVP1",
+    "atualizado_em": "2026-09-26T20:12:25.469-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36926498",
     "titulo": "Trocador Portátil Linho Com Forro Impermeável E Bolsos Cor Jeans Azul Linho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_921402-MLA112502611874_062026-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07MWT9NND?tag=malica09-20",
     "atualizado_em": "2026-09-25T20:14:27.317-03:00"
-  },
-  {
-    "id": "amazon:B07ZPQ2RRR",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
-    "preco": 134,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
-    "atualizado_em": "2026-09-25T20:09:21.537-03:00"
   }
 ]
