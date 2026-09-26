@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H8T3M1RH",
+    "titulo": "Oferta: Berço Cercado Portátil Para Bebê Co-bed Acopla a Cama 2 Alturas Desmontável Buddy Maxi Baby",
+    "imagem": "https://m.media-amazon.com/images/I/61OAZfWQbBL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H8T3M1RH?tag=malica09-20",
+    "atualizado_em": "2026-09-26T08:51:29.431-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27021167",
     "titulo": "Wakaii Tapete Musical Infantil Verde Piano Champiñón",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_778830-MLA99936189345_112025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=malica09-20",
     "atualizado_em": "2026-09-25T08:51:59.057-03:00"
-  },
-  {
-    "id": "shopee:315643622.21197619738",
-    "titulo": "Travesseiro de corpo para Gestante Gravida 1,20x60 micropercal  200 fios Promoção",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqyr5zajv86zc3",
-    "preco": 29.9,
-    "preco_anterior": 42.71,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V1kMDaReX",
-    "atualizado_em": "2026-09-25T08:46:50.919-03:00"
   }
 ]
