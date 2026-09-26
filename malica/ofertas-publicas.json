@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07F6RK8NY+B07F6RM5MR",
+    "titulo": "Shampoo Pom Pom Suave 200ml",
+    "imagem": "https://m.media-amazon.com/images/I/51yNci8pIZL._AC_SL1500_.jpg",
+    "preco": 8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07F6RK8NY?tag=malica09-20",
+    "atualizado_em": "2026-09-26T13:53:52.687-03:00"
+  },
+  {
     "id": "amazon:B084BNQ7PK",
     "titulo": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71XZ+cOcaQL._AC_SL1500_.jpg",
