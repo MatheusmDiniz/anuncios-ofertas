@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26792297",
+    "titulo": "Kit Escova Com Bucha Esponja Para Lavar Mamadeira E Bico Cor Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_898239-MLA100111333515_122025-F.jpg",
+    "preco": 9.27,
+    "preco_anterior": 23.41,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GMsiPP",
+    "atualizado_em": "2026-09-26T16:57:29.021-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29606756",
     "titulo": "Almofada De Banho Para Bebê Teu Baby Infantil Anatômica Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_939531-MLA106424914879_022026-F.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B077PLGRBY?tag=malica09-20",
     "atualizado_em": "2026-09-25T16:59:43.469-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77515553",
-    "titulo": "Cubo Sensorial Educativo Blocos Montar Interativo Cognitivo Crianças Bebês Babuu Brinquedos Educativos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_960790-MLA117880162901_092026-F.jpg",
-    "preco": 39.44,
-    "preco_anterior": 69.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RLoEMy",
-    "atualizado_em": "2026-09-25T16:54:36.887-03:00"
   }
 ]
