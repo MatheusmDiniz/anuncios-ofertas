@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62120518",
+    "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
+    "preco": 1168,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2S32iHA",
+    "atualizado_em": "2026-09-26T16:42:04.554-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62020136",
     "titulo": "Canguru Sling De Bebe Carregar Recem Nascido Cinza G - Marca DE CORAZÓN",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_701617-MLA116049031946_092026-F.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2oJiN3n",
     "atualizado_em": "2026-09-25T16:44:21.464-03:00"
-  },
-  {
-    "id": "amazon:B0BLD1XLM5",
-    "titulo": "Macacão de dormir para bebês Cotton Sleep and Play, Pack of 2 Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81II3wjE3gL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BLD1XLM5?tag=malica09-20",
-    "atualizado_em": "2026-09-25T16:39:13.746-03:00"
   }
 ]
