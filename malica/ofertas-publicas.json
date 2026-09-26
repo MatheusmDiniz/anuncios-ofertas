@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B091664YFV",
+    "titulo": "Oferta: TRICICLO AVESPA MARAL PINK",
+    "imagem": "https://m.media-amazon.com/images/I/51vhe3JElxL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B091664YFV?tag=malica09-20",
+    "atualizado_em": "2026-09-26T15:25:22.936-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72675350",
     "titulo": "Camiseta Blusa Infantil Proteção Uv50 Solar Piscina Praia Cor Preto Tamanho 6",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_734927-MLA112814588651_062026-F.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR3N5BV6?tag=malica09-20",
     "atualizado_em": "2026-09-25T15:27:26.493-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB78015488",
-    "titulo": "Pulseira Guia Infantil Seguranca Anti Perda Criança Viagens Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_959694-MLA115154246856_082026-F.jpg",
-    "preco": 24.4,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Hsd6ZK",
-    "atualizado_em": "2026-09-25T15:22:21.121-03:00"
   }
 ]
