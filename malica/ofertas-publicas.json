@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49357605",
+    "titulo": "Trocador De Fraldas Portátil Impermeavel Com Bolso Cor Savana",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978472-MLA100067070359_122025-F.jpg",
+    "preco": 24.5,
+    "preco_anterior": 49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Wg4tB2",
+    "atualizado_em": "2026-09-26T08:15:46.471-03:00"
+  },
+  {
     "id": "amazon:B08NQNXMPL",
     "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
     "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LR5Q5QByx",
     "atualizado_em": "2026-09-25T08:16:12.297-03:00"
-  },
-  {
-    "id": "amazon:B088P95YRD",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
-    "preco": 61,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B088P95YRD?tag=malica09-20",
-    "atualizado_em": "2026-09-25T08:11:07.214-03:00"
   }
 ]
