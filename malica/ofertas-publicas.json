@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42639818",
+    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
+    "preco": 438.9,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25gcb2g",
+    "atualizado_em": "2026-09-26T09:47:41.716-03:00"
+  },
+  {
     "id": "shopee:1738148702.58214605068",
     "titulo": "Bolero Infantil Plusher Festa Casual Fofo Casaquinho Estilo Luxo Pelinho Gola Casaco Blusinha Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqvvsfoi64ue7f",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fSdMpn2lS",
     "atualizado_em": "2026-09-25T09:48:28.123-03:00"
-  },
-  {
-    "id": "amazon:B0BFXKZQ2Y",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-    "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
-    "preco": 166,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
-    "atualizado_em": "2026-09-25T09:43:22.037-03:00"
   }
 ]
