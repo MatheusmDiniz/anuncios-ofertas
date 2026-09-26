@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DTLL8MLR",
+    "titulo": "Oferta: Kit 3 Creme Preventivo de Assaduras 45g Leve 3 Pague 2- Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/71qU2iIhVeL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DTLL8MLR?tag=malica09-20",
+    "atualizado_em": "2026-09-26T08:00:25.327-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36666853",
     "titulo": "Gizes Caneta Risque E Apague Crianças Banho Divertido Buba Cor 6 Cores",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_699768-MLA100082856385_122025-F.jpg",
@@ -1688,15 +1698,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gIrR21TKO",
     "atualizado_em": "2026-09-25T08:06:01.068-03:00"
-  },
-  {
-    "id": "amazon:B0BFXJ12QQ",
-    "titulo": "Huggies Fralda Supreme Care M 196 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
-    "atualizado_em": "2026-09-25T08:00:23.971-03:00"
   }
 ]
