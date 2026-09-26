@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08QG3H6YR",
+    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
+    "atualizado_em": "2026-09-26T17:02:33.500-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26792297",
     "titulo": "Kit Escova Com Bucha Esponja Para Lavar Mamadeira E Bico Cor Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_898239-MLA100111333515_122025-F.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2U76gEk",
     "atualizado_em": "2026-09-25T17:04:50.964-03:00"
-  },
-  {
-    "id": "amazon:B077PLGRBY",
-    "titulo": "Jogo Detetive com Aplicativo, Estrela",
-    "imagem": "https://m.media-amazon.com/images/I/81qJ6EU3SiL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077PLGRBY?tag=malica09-20",
-    "atualizado_em": "2026-09-25T16:59:43.469-03:00"
   }
 ]
