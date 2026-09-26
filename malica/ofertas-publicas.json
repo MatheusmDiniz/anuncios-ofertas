@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GC7TF7W",
+    "titulo": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ZBUQLjomL._AC_SL1500_.jpg",
+    "preco": 5,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=malica09-20",
+    "atualizado_em": "2026-09-25T21:20:58.650-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45976810",
     "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGVQ5GCM?tag=malica09-20",
     "atualizado_em": "2026-09-24T21:22:43.586-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17489277",
-    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bcKcRJ",
-    "atualizado_em": "2026-09-24T21:17:36.685-03:00"
   }
 ]
