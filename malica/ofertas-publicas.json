@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09LRF9GH2",
+    "titulo": "Burigotto Cadeira De Refeição Poke Polar",
+    "imagem": "https://m.media-amazon.com/images/I/41S74jw-noL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09LRF9GH2?tag=malica09-20",
+    "atualizado_em": "2026-09-26T17:43:53.915-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27488701",
     "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/29yCHDY",
     "atualizado_em": "2026-09-25T17:45:56.590-03:00"
-  },
-  {
-    "id": "amazon:B0CCF1WTB1",
-    "titulo": "Oferta: Fralda Babysec Premium Hiper XG 56 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/51nS49ppbtL._AC_SL1500_.jpg",
-    "preco": 60,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=malica09-20",
-    "atualizado_em": "2026-09-25T17:40:47.799-03:00"
   }
 ]
