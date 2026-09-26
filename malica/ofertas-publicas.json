@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29606756",
+    "titulo": "Almofada De Banho Para Bebê Teu Baby Infantil Anatômica Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_939531-MLA106424914879_022026-F.jpg",
+    "preco": 32.22,
+    "preco_anterior": 74.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2T3ozDL",
+    "atualizado_em": "2026-09-26T16:52:20.505-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53974840",
     "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2RLoEMy",
     "atualizado_em": "2026-09-25T16:54:36.887-03:00"
-  },
-  {
-    "id": "amazon:B0C5S8NW3X",
-    "titulo": "Carrinho Chicco Glee 0m+ até 22kg Fechamento Automático Prático - 8087068730000",
-    "imagem": "https://m.media-amazon.com/images/I/61G37rbYWzL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C5S8NW3X?tag=malica09-20",
-    "atualizado_em": "2026-09-25T16:49:28.421-03:00"
   }
 ]
