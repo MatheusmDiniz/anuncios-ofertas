@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MBTRWSH",
+    "titulo": "Likluc Pikluc Aparelho Para Alivio Da Dor Na Hora Da Injeção Verde Tamanho Único",
+    "imagem": "https://m.media-amazon.com/images/I/516RQFcCRdL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MBTRWSH?tag=malica09-20",
+    "atualizado_em": "2026-09-26T15:35:36.484-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76047947",
     "titulo": "40 Protetor Quina Bebê Idoso Mesa Canto Móveis Transparente",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_667075-MLA115355481231_072026-F.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00NHQF6MG?tag=malica09-20",
     "atualizado_em": "2026-09-25T15:37:41.786-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42111901",
-    "titulo": "Kit Portátil Para Limpeza De Mamadeira 5 Em 1 Escova Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601047-MLA99940510827_112025-F.jpg",
-    "preco": 77.99,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1oVc6pi",
-    "atualizado_em": "2026-09-25T15:32:34.643-03:00"
   }
 ]
