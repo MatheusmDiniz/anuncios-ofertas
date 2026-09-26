@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09TF36S57",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71gXxei8HqL._AC_SL1500_.jpg",
+    "preco": 151,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=malica09-20",
+    "atualizado_em": "2026-09-26T13:27:56.239-03:00"
+  },
+  {
     "id": "shopee:427289175.21199893362",
     "titulo": "Kit 10, 8 ou 3 Cuecas Boxer Infantil 2 a 10 anos Microfibra Premium Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mr7a5gh5yps6af",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28AtUPJ",
     "atualizado_em": "2026-09-25T13:29:35.392-03:00"
-  },
-  {
-    "id": "amazon:B0C5F1GZV8",
-    "titulo": "Cadeira Para Auto 0-36 Kg Litet Mass Preta e Cinza - BB458",
-    "imagem": "https://m.media-amazon.com/images/I/61GhloKCMdL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C5F1GZV8?tag=malica09-20",
-    "atualizado_em": "2026-09-25T13:24:26.975-03:00"
   }
 ]
