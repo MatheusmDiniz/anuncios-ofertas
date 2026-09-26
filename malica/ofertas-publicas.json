@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B06XK9H4PM",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51200xA7+nL._AC_SL1500_.jpg",
+    "preco": 16.38,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B06XK9H4PM?tag=malica09-20",
+    "atualizado_em": "2026-09-26T12:31:50.805-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72720626",
     "titulo": "Berço Portatil Moises Balanço Mosquiteiro Infantil Bebê Acoplável Na Cama Co Sleeper Dobrável Com Colchão Espessura Extra Rodinhas Com Trava Altura Ajustável Pipdip",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_642241-MLA115658811869_082026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70KPXb2m57",
     "atualizado_em": "2026-09-25T12:33:11.194-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB59328402",
-    "titulo": "Escova Limpeza Mamadeira Copos Espuma Macia Limpeza Completa Cor Azul Celeste",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_994212-MLA115173947426_082026-F.jpg",
-    "preco": 29.99,
-    "preco_anterior": 75.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13L7e22",
-    "atualizado_em": "2026-09-25T12:28:06.366-03:00"
   }
 ]
