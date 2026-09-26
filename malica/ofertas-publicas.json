@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1384480317.20399545613",
+    "titulo": "Mochila Escolar Infantil Menino Menina Dinossauro",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnued4mo8w0257",
+    "preco": 27.99,
+    "preco_anterior": 45.89,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LR8bt8ng3",
+    "atualizado_em": "2026-09-26T10:33:40.373-03:00"
+  },
+  {
     "id": "amazon:B0CGYR8GBT",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
@@ -1668,15 +1678,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1Af2quv34",
     "atualizado_em": "2026-09-25T10:35:42.955-03:00"
-  },
-  {
-    "id": "amazon:B0964S52NM",
-    "titulo": "Leite em Pó Integral Ninho 380g",
-    "imagem": "https://m.media-amazon.com/images/I/81bh9m+Fm0L._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0964S52NM?tag=malica09-20",
-    "atualizado_em": "2026-09-25T10:30:31.065-03:00"
   }
 ]
