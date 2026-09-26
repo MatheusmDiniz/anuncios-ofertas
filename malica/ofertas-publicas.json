@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BKLPZ4BH",
+    "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81uiM-l9MBL._AC_SL1500_.jpg",
+    "preco": 85,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=malica09-20",
+    "atualizado_em": "2026-09-26T11:19:27.435-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18395240",
     "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08L46TX4L?tag=malica09-20",
     "atualizado_em": "2026-09-25T11:21:24.567-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24331807",
-    "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
-    "preco": 36.19,
-    "preco_anterior": 70,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1wtWi5X",
-    "atualizado_em": "2026-09-25T11:16:17.078-03:00"
   }
 ]
