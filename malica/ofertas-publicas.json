@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B071FX83XS",
+    "titulo": "Gel Lavante Calmante Mustela, 300ml, para Pele Muito Sensível, Corpo e Cabelo de Bebês e Crianças, Sem Fragrância",
+    "imagem": "https://m.media-amazon.com/images/I/51fChei9oSL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B071FX83XS?tag=malica09-20",
+    "atualizado_em": "2026-09-26T08:31:04.430-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25863440",
     "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H2G47KGJ?tag=malica09-20",
     "atualizado_em": "2026-09-25T08:31:30.766-03:00"
-  },
-  {
-    "id": "shopee:424773647.58257712601",
-    "titulo": "Kit 5 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt4aj74z0cuc2e",
-    "preco": 44.13,
-    "preco_anterior": 119.27,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9KiK9tfx8q",
-    "atualizado_em": "2026-09-25T08:26:25.112-03:00"
   }
 ]
