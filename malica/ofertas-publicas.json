@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79494514",
+    "titulo": "Travesseiro Anti Refluxo Berço Bebê Rampa Cama Grávida Tamanho G BusinessEcom",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601556-MLA116339084852_092026-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 73,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2HbwVLa",
+    "atualizado_em": "2026-09-26T12:47:09.909-03:00"
+  },
+  {
     "id": "amazon:B0B93VG735",
     "titulo": "Maxi-Cosi, Berço Iora Air, 0 a 9kg, Beyond Graphite",
     "imagem": "https://m.media-amazon.com/images/I/51TxNwP5buL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Hma3dY",
     "atualizado_em": "2026-09-25T12:48:32.515-03:00"
-  },
-  {
-    "id": "amazon:B0BJ7ZDKR7",
-    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses",
-    "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
-    "preco": 112,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BJ7ZDKR7?tag=malica09-20",
-    "atualizado_em": "2026-09-25T12:43:24.762-03:00"
   }
 ]
