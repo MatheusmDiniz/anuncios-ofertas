@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8595200629",
+    "titulo": "365 Historias Bíblicas : Vários Autores: Amazon.com.br: Livros",
+    "imagem": "https://m.media-amazon.com/images/I/81m74G-S1fL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8595200629?tag=malica09-20",
+    "atualizado_em": "2026-09-26T11:29:38.809-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19486730",
     "titulo": "Biscoito Papapá Crocante Abóbora e Maçã Sem Glúten 36g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_960590-MLA115350004954_082026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086DR4Q6Q?tag=malica09-20",
     "atualizado_em": "2026-09-25T11:31:42.380-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22572074",
-    "titulo": "Garrafinha De Aluminio Animal Fun Macaco Bpa Free 400ml Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_886521-MLA99621612196_122025-F.jpg",
-    "preco": 44.9,
-    "preco_anterior": 78.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/16Fdt5L",
-    "atualizado_em": "2026-09-25T11:26:34.292-03:00"
   }
 ]
