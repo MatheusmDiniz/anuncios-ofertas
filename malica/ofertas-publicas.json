@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRPTPB",
+    "titulo": "Shampoo de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
+    "atualizado_em": "2026-09-26T13:12:36.918-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875743",
     "titulo": "Refil de Sabonete Líquido Glicerina Granado Bebê Tradicional 250ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_863426-MLA99932628447_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BDBHZSZT?tag=malica09-20",
     "atualizado_em": "2026-09-25T13:14:13.328-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52680667",
-    "titulo": "Andador Infantil Empurrador Atividade Musical Bebê Didático Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824627-MLA100063596379_122025-F.jpg",
-    "preco": 118.34,
-    "preco_anterior": 269.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WUFJ1e",
-    "atualizado_em": "2026-09-25T13:09:03.778-03:00"
   }
 ]
