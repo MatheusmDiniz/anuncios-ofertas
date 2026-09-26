@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25163760",
+    "titulo": "Booster Cosco Kids, Clippy, até 36kg, Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850532-MLA113041435885_062026-F.jpg",
+    "preco": 44.9,
+    "preco_anterior": 74.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2H7XiTg",
+    "atualizado_em": "2026-09-26T12:15:36.905-03:00"
+  },
+  {
     "id": "shopee:1676334505.58262581775",
     "titulo": "Kit 6 Legging estampada Infantil - Algodão - Tamanhos 1 ao 10",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-msftewomwqh24b",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2KR1i23",
     "atualizado_em": "2026-09-25T12:17:52.527-03:00"
-  },
-  {
-    "id": "shopee:1452530060.22498910656",
-    "titulo": "Almofada de Pescoço Bebê com Apoio de Cabeça para Cadeirinha bebe conforto",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h1-mekho1dx5gjm38",
-    "preco": 16.99,
-    "preco_anterior": 34.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V1kWAxr3s",
-    "atualizado_em": "2026-09-25T12:12:45.096-03:00"
   }
 ]
