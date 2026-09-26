@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56101048",
+    "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
+    "preco": 139.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1feVhfA",
+    "atualizado_em": "2026-09-26T11:44:58.068-03:00"
+  },
+  {
     "id": "amazon:B0G8YRHPDV",
     "titulo": "Oferta: Blocos de Construção Conjunto Casa na Árvore - 756 Peças, Compatível com Blocos de Construção Padrão, Um Presente para Adultos e Crianças",
     "imagem": "https://m.media-amazon.com/images/I/618YCy-uZVL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1QdwtN9",
     "atualizado_em": "2026-09-25T11:47:06.428-03:00"
-  },
-  {
-    "id": "amazon:B0B25M6HGJ",
-    "titulo": "SUNNY, Gabby",
-    "imagem": "https://m.media-amazon.com/images/I/71EVzHyO+7L._AC_SL1500_.jpg",
-    "preco": 77.59,
-    "preco_anterior": 175.94,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B25M6HGJ?tag=malica09-20",
-    "atualizado_em": "2026-09-25T11:41:58.064-03:00"
   }
 ]
