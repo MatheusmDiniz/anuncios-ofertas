@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75671286",
+    "titulo": "Toalha Bebê Banho Capuz Soft Grande Orelhinha Fralda Forro Cinza Elefantinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897026-MLA114979976775_072026-F.jpg",
+    "preco": 26.6,
+    "preco_anterior": 52.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZG52ZA",
+    "atualizado_em": "2026-09-26T10:08:10.065-03:00"
+  },
+  {
     "id": "shopee:341167297.53003585950",
     "titulo": "Pijama Infantil Bebê Menina Manga Curta com Estampas Fofas e Conforto Roupa para dormir Bebê Feminino Verão Calor L06",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-min0agqfrabl7e",
@@ -1678,35 +1688,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qjm2FLqk5",
     "atualizado_em": "2026-09-25T10:08:18.252-03:00"
-  },
-  {
-    "id": "shopee:341167297.54661500433",
-    "titulo": "Kit 6 ou 4 peças Regata Infantil de Menino Minimalista Basico Verão Masculino Bebe Casual ou 6 Peças Roupa de Calor",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mp0ttzdplt6t9f",
-    "preco": 39.9,
-    "preco_anterior": 75.28,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/40gmDdouVM",
-    "atualizado_em": "2026-09-25T10:06:35.792-03:00"
-  },
-  {
-    "id": "shopee:580787446.27945255322",
-    "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9KiK9rpUUh",
-    "atualizado_em": "2026-09-25T10:05:19.934-03:00"
-  },
-  {
-    "id": "amazon:6561263022",
-    "titulo": "Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
-    "imagem": "https://m.media-amazon.com/images/I/614Bmynt4LL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6561263022?tag=malica09-20",
-    "atualizado_em": "2026-09-25T10:03:58.573-03:00"
   }
 ]
