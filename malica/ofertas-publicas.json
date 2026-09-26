@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50912250",
+    "titulo": "Berço Moisés Rubi Funcional Maxi do Brasil 5 em 1",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864911-MLA99558047620_122025-F.jpg",
+    "preco": 287.52,
+    "preco_anterior": 599,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1scmQzP",
+    "atualizado_em": "2026-09-26T12:57:22.495-03:00"
+  },
+  {
     "id": "amazon:B09GV1QKT6",
     "titulo": "Ola Bebê Sabão Líquido para Roupas Finas e Delicadas, 3,8L : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/51pkLwiWOgL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/138DV6n",
     "atualizado_em": "2026-09-25T12:58:46.232-03:00"
-  },
-  {
-    "id": "amazon:B0FMQNX7LP",
-    "titulo": "Oferta: Kit Maleta Médica Infantil Brinquedo Faz de Conta com 14 Peças na cor Rosa 23 x 39 cm",
-    "imagem": "https://m.media-amazon.com/images/I/71rEbflSqWL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMQNX7LP?tag=malica09-20",
-    "atualizado_em": "2026-09-25T12:53:37.841-03:00"
   }
 ]
