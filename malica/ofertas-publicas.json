@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CXYYGSNB",
+    "titulo": "Conjunto de roupas enxoval de 12 peças Conjunto de presente de enxoval de 12 peças, Gerber, Meninas",
+    "imagem": "https://m.media-amazon.com/images/I/817fktnKg2L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CXYYGSNB?tag=malica09-20",
+    "atualizado_em": "2026-09-26T09:01:41.150-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27044594",
     "titulo": "Babador Em Silicone Com Pega-migalhas Verde Gumy Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_918471-MLA100118722173_122025-F.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H6QML2K8?tag=malica09-20",
     "atualizado_em": "2026-09-25T09:02:22.153-03:00"
-  },
-  {
-    "id": "shopee:807185675.53157799582",
-    "titulo": "Jaqueta Puffer Infantil Unissex Bobojaco Juvenil Peluciada Capuz Removível Inverno Frio",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mm7o26rhqwhs12",
-    "preco": 88.49,
-    "preco_anterior": 201.11,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6AlIO6DStT",
-    "atualizado_em": "2026-09-25T08:57:08.857-03:00"
   }
 ]
