@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75214967",
+    "titulo": "Kit Escova e Pente para Bebê Lilica Ripilica BB Cerdas Naturais Pente de Pontas Arredondadas Design Moderno Cuidados do Bebê Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_867433-MLA113064409082_072026-F.jpg",
+    "preco": 38.99,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gRqs6n",
+    "atualizado_em": "2026-09-26T08:36:12.216-03:00"
+  },
+  {
     "id": "amazon:B071FX83XS",
     "titulo": "Gel Lavante Calmante Mustela, 300ml, para Pele Muito Sensível, Corpo e Cabelo de Bebês e Crianças, Sem Fragrância",
     "imagem": "https://m.media-amazon.com/images/I/51fChei9oSL._AC_SL1500_.jpg",
@@ -1698,15 +1708,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W6vdfiEwl",
     "atualizado_em": "2026-09-25T08:36:37.104-03:00"
-  },
-  {
-    "id": "amazon:B0H2G47KGJ",
-    "titulo": "Kit 5 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 500g - Bepantol Baby",
-    "imagem": "https://m.media-amazon.com/images/I/71UzmwOYCLL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H2G47KGJ?tag=malica09-20",
-    "atualizado_em": "2026-09-25T08:31:30.766-03:00"
   }
 ]
