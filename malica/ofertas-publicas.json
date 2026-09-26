@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JM8CG5D",
+    "titulo": "Comfort Amaciante Concentrado Puro Cuidado 1,5L",
+    "imagem": "https://m.media-amazon.com/images/I/61Ju1heOhrL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JM8CG5D?tag=malica09-20",
+    "atualizado_em": "2026-09-26T11:50:01.602-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56101048",
     "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BLJRDJRY?tag=malica09-20",
     "atualizado_em": "2026-09-25T11:52:14.033-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29817222",
-    "titulo": "Bico de Mamadeira Philips Fluxo Médio Anti-Colic (3m+)Avent",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828184-MLA99592085850_122025-F.jpg",
-    "preco": 28.52,
-    "preco_anterior": 68.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1QdwtN9",
-    "atualizado_em": "2026-09-25T11:47:06.428-03:00"
   }
 ]
