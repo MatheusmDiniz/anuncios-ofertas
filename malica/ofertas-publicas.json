@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24690640",
+    "titulo": "Kit 25 Sacos Para Armazenar e Congelar Leite Materno Buba 200ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993925-MLA116309030395_082026-F.jpg",
+    "preco": 29.23,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Q73goV",
+    "atualizado_em": "2026-09-25T21:51:45.350-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50913809",
     "titulo": "Bercinho Grande Infantil Brinquedo Berço Gigante Boneca Bebe Reborn Atacarejo Kids",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751279-MLA116708956906_092026-F.jpg",
@@ -1688,15 +1698,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gBPW1xbjp",
     "atualizado_em": "2026-09-24T21:56:28.394-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22953629",
-    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
-    "preco": 279.9,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yKShtn",
-    "atualizado_em": "2026-09-24T21:51:21.957-03:00"
   }
 ]
