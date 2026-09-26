@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1574065889.22698734793",
+    "titulo": "Kit 3 Camiseta Gola Polo Para Menino Bebê 100% Algodão Infantil Na Promoção",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcapzc06jborc2",
+    "preco": 29,
+    "preco_anterior": 70.73,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50ZMaxSmjV",
+    "atualizado_em": "2026-09-26T10:43:51.155-03:00"
+  },
+  {
     "id": "amazon:B07QVTFKL6",
     "titulo": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617zmUT1myL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qcHdL0pzR",
     "atualizado_em": "2026-09-25T10:45:31.518-03:00"
-  },
-  {
-    "id": "amazon:B0C9W32C1J",
-    "titulo": "Loção Hidratante Corporal Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1500_.jpg",
-    "preco": 47,
-    "preco_anterior": 86,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9W32C1J?tag=malica09-20",
-    "atualizado_em": "2026-09-25T10:40:24.695-03:00"
   }
 ]
