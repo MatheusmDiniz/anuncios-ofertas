@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H2G6W6L5",
+    "titulo": "Kit 2 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 200g - Bepantol Baby",
+    "imagem": "https://m.media-amazon.com/images/I/61GzAiD3PML._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H2G6W6L5?tag=malica09-20",
+    "atualizado_em": "2026-09-26T18:35:02.586-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB16091842",
     "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B2CYXPMX?tag=malica09-20",
     "atualizado_em": "2026-09-25T18:37:10.183-03:00"
-  },
-  {
-    "id": "amazon:B07MBXDB51",
-    "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
-    "imagem": "https://m.media-amazon.com/images/I/61NJbm2a9tL._AC_SL1500_.jpg",
-    "preco": 52.14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=malica09-20",
-    "atualizado_em": "2026-09-25T18:32:00.640-03:00"
   }
 ]
