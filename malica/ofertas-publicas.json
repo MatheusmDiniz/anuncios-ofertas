@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:427289175.21199893362",
+    "titulo": "Kit 10, 8 ou 3 Cuecas Boxer Infantil 2 a 10 anos Microfibra Premium Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mr7a5gh5yps6af",
+    "preco": 29.97,
+    "preco_anterior": 59.94,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7fa75EqOxz",
+    "atualizado_em": "2026-09-26T13:22:50.488-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB49851712",
     "titulo": "Copo Térmico Parede Dupla Dino Infantil 20394 Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_869331-MLA100081729311_122025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C5F1GZV8?tag=malica09-20",
     "atualizado_em": "2026-09-25T13:24:26.975-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73604609",
-    "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944934-MLA112072218194_062026-F.jpg",
-    "preco": 34.9,
-    "preco_anterior": 59.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/15u3mgb",
-    "atualizado_em": "2026-09-25T13:19:20.802-03:00"
   }
 ]
