@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72254053",
+    "titulo": "Cercadinho Bebê Rister Baby Portátil Grande + Tapete Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_943945-MLA112759124059_062026-F.jpg",
+    "preco": 111.45,
+    "preco_anterior": 196.2,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/23CGWTn",
+    "atualizado_em": "2026-09-27T19:44:33.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22797838",
     "titulo": "Copo Infantil De Treinamento Com Alça 360° - Buba Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_622881-MLA100084818155_122025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dDis3R",
     "atualizado_em": "2026-09-26T19:46:47.096-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61974340",
-    "titulo": "Cercado Chiqueirinho Infantil Para Bebê Playland Burigotto - Cinza - Liso",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_996503-MLA97742023087_112025-F.jpg",
-    "preco": 229.99,
-    "preco_anterior": 384.71,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pjdZGe",
-    "atualizado_em": "2026-09-26T19:41:38.748-03:00"
   }
 ]
