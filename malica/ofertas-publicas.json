@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73212051",
+    "titulo": "Boneca Reborn Bebê Realista Vinil Siliconado Récem-nascida",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600577-MLA111972112470_062026-F.jpg",
+    "preco": 78.9,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28AtUPJ",
+    "atualizado_em": "2026-09-27T15:32:28.402-03:00"
+  },
+  {
     "id": "amazon:B08GZBDWF4",
     "titulo": "Sabonete Líquido de Glicerina Huggies Extra Suave 600 ml",
     "imagem": "https://m.media-amazon.com/images/I/51gUvebZzeL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07MBTRWSH?tag=malica09-20",
     "atualizado_em": "2026-09-26T15:35:36.484-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76047947",
-    "titulo": "40 Protetor Quina Bebê Idoso Mesa Canto Móveis Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_667075-MLA115355481231_072026-F.jpg",
-    "preco": 19,
-    "preco_anterior": 50,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/15ndpW8",
-    "atualizado_em": "2026-09-26T15:30:30.695-03:00"
   }
 ]
