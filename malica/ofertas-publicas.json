@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095R95SNW",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
+    "preco": 1,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
+    "atualizado_em": "2026-09-27T17:15:46.075-03:00"
+  },
+  {
     "id": "amazon:B0FMFWWD8H",
     "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
     "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9fL8y3TKzy",
     "atualizado_em": "2026-09-26T17:23:27.086-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25961240",
-    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
-    "preco": 119.6,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26CTJJv",
-    "atualizado_em": "2026-09-26T17:12:45.932-03:00"
   }
 ]
