@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DXL6PVLQ",
+    "titulo": "Kit de Mamadeiras e Bicos Super Evolution Lillo - 80ml, 150ml e 300ml",
+    "imagem": "https://m.media-amazon.com/images/I/61EminaHA-L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DXL6PVLQ?tag=malica09-20",
+    "atualizado_em": "2026-09-27T20:46:13.643-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB49782425",
     "titulo": "Colchão Solteiro D20 Bordado 78 X 188 X 12 Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_989848-MLA99453910550_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dVrhne",
     "atualizado_em": "2026-09-26T20:48:14.996-03:00"
-  },
-  {
-    "id": "amazon:B0DCWWYTS3",
-    "titulo": "Likluc Limpa Mamá lenços umedecidos para Amamentação",
-    "imagem": "https://m.media-amazon.com/images/I/61oAfY7YaFL._AC_SL1500_.jpg",
-    "preco": 24.03,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DCWWYTS3?tag=malica09-20",
-    "atualizado_em": "2026-09-26T20:43:06.667-03:00"
   }
 ]
