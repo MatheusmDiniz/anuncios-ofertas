@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8JVLYKT",
+    "titulo": "Granado Refil Shampoo Bebê, Tradicional, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/51JNcvab-nL._AC_SL1500_.jpg",
+    "preco": 11,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=malica09-20",
+    "atualizado_em": "2026-09-27T13:34:03.762-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32257502",
     "titulo": "Trocador Anatômico De Cômoda Americano 200 Fios 68x45x10 Cor Bege 2165-palha C Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_620567-MLA96422860770_102025-F.jpg",
