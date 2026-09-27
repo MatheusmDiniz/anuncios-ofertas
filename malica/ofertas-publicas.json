@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46681505",
+    "titulo": "Cercadinho Bebê Infantil Chiqueirinho Cercado Grande 180x150 Proteção - 8X TECH",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932524-MLA116048225124_092026-F.jpg",
+    "preco": 249.9,
+    "preco_anterior": 498.73,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kBnmbk",
+    "atualizado_em": "2026-09-27T11:35:29.459-03:00"
+  },
+  {
     "id": "amazon:B07X4GVF9H",
     "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G8YRHPDV?tag=malica09-20",
     "atualizado_em": "2026-09-26T11:39:50.420-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB31739631",
-    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
-    "preco": 424.86,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Y8xSvd",
-    "atualizado_em": "2026-09-26T11:34:46.067-03:00"
   }
 ]
