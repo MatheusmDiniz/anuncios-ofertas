@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77421641",
+    "titulo": "Boneca Bailarina Fada Princesa Articulada Ballet Com Asas Brilhantes Grande 30cm Colorida com Acessorios - Petite Flô",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932322-MLA114852699940_082026-F.jpg",
+    "preco": 28.99,
+    "preco_anterior": 59.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1t3qM3q",
+    "atualizado_em": "2026-09-26T21:59:58.535-03:00"
+  },
+  {
     "id": "amazon:B0FX5X7DV2",
     "titulo": "Assento Redutor Infantil Dobrável Com Escada Desfralde (Cinza)",
     "imagem": "https://m.media-amazon.com/images/I/51erH0MubIL._AC_SL1500_.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1umEENo",
     "atualizado_em": "2026-09-25T22:01:58.386-03:00"
-  },
-  {
-    "id": "amazon:B08XWBQHG2",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/A1mO12iBNgL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08XWBQHG2?tag=malica09-20",
-    "atualizado_em": "2026-09-25T21:56:50.962-03:00"
   }
 ]
