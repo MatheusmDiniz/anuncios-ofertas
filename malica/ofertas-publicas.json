@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08R91NTHY",
+    "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+    "imagem": "https://m.media-amazon.com/images/I/612gXC9waVL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=malica09-20",
+    "atualizado_em": "2026-09-27T18:01:42.120-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP6M",
     "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
     "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09TD12H2D?tag=malica09-20",
     "atualizado_em": "2026-09-26T18:04:19.529-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67011494",
-    "titulo": "Kit 20 Protetor De Tomada Contra Choque Proteçao Para Bebê",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_693381-MLA111085112251_042026-F.jpg",
-    "preco": 18.7,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2a5Njwu",
-    "atualizado_em": "2026-09-26T17:59:15.704-03:00"
   }
 ]
