@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09MVD8384",
+    "titulo": "Oferta: Kit Toalha Umedecida Hora Da Troca Turma Da Mônica 176 unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61TH-AyESKL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09MVD8384?tag=malica09-20",
+    "atualizado_em": "2026-09-27T13:13:40.292-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76225860",
     "titulo": "Livro Inteligente Educativo Interativo Com Atividades Bilíngue E Didático Com Som Para Crianças e Bebês",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_636890-MLA114187610424_082026-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/29xShs9",
     "atualizado_em": "2026-09-26T13:17:45.033-03:00"
-  },
-  {
-    "id": "amazon:B07DHRPTPB",
-    "titulo": "Shampoo de Glicerina Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
-    "atualizado_em": "2026-09-26T13:12:36.918-03:00"
   }
 ]
