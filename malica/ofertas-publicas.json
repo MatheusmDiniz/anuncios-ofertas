@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56097556",
+    "titulo": "Boné New Era Curva Ny Yankees Preto Forma Grande All Black Tamanho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_670819-MLA116269092736_092026-F.jpg",
+    "preco": 130.72,
+    "preco_anterior": 219,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fQh9Aq",
+    "atualizado_em": "2026-09-27T20:36:01.558-03:00"
+  },
+  {
     "id": "amazon:B00SO7H0BS",
     "titulo": "Oferta: Fisher-Price Zebra Blocos Surpresa",
     "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2dKmgSP",
     "atualizado_em": "2026-09-26T20:38:00.145-03:00"
-  },
-  {
-    "id": "amazon:B07F3NW29G",
-    "titulo": "WELEDA Chá Misto Da Mamãe Weleda Bege",
-    "imagem": "https://m.media-amazon.com/images/I/51-7MTTdGxL._AC_SL1500_.jpg",
-    "preco": 33.35,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07F3NW29G?tag=malica09-20",
-    "atualizado_em": "2026-09-26T20:32:52.050-03:00"
   }
 ]
