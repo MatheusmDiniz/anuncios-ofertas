@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GR5T4RF",
+    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
+    "imagem": "https://m.media-amazon.com/images/I/81XM69oIvoL._AC_SL1500_.jpg",
+    "preco": 80,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=malica09-20",
+    "atualizado_em": "2026-09-27T18:48:00.363-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28487537",
     "titulo": "Berço Sonata Cor Cinza - Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/19r2Jpj",
     "atualizado_em": "2026-09-26T18:50:24.377-03:00"
-  },
-  {
-    "id": "amazon:B09CRHZV85",
-    "titulo": "Cereal Sucrilhos® Original Kellogg",
-    "imagem": "https://m.media-amazon.com/images/I/81MD05MZl5L._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09CRHZV85?tag=malica09-20",
-    "atualizado_em": "2026-09-26T18:45:16.012-03:00"
   }
 ]
