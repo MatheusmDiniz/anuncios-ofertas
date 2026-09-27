@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17876092",
+    "titulo": "Sabonete Líquido De Glicerina Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
+    "preco": 23.99,
+    "preco_anterior": 41.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xXuLrP",
+    "atualizado_em": "2026-09-27T11:15:04.995-03:00"
+  },
+  {
     "id": "amazon:B0D3HY8H6K",
     "titulo": "Brinquedo Mini Jardim Mágico Encantado de Sereia Faber-Castell Creativity For Kids : Amazon.com.br: Jardim e Piscina",
     "imagem": "https://m.media-amazon.com/images/I/913H7bgu4IL._AC_SL1500_.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=malica09-20",
     "atualizado_em": "2026-09-26T11:19:27.435-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18395240",
-    "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
-    "preco": 22.93,
-    "preco_anterior": 39.4,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2EELiLN",
-    "atualizado_em": "2026-09-26T11:14:23.195-03:00"
   }
 ]
