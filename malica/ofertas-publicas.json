@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07YVNBQ6Z",
+    "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
+    "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
+    "preco": 166,
+    "preco_anterior": 238,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07YVNBQ6Z?tag=malica09-20",
+    "atualizado_em": "2026-09-27T12:31:55.378-03:00"
+  },
+  {
     "id": "shopee:1087906676.22597332269",
     "titulo": "Kit 5 Pares Brincos Infantil Tarraxa Baby Folheados a ouro Antialergico Sortidos Tarracha Criança Garantia Atacado Promo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrc4sqsrbwh0aa",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2xfcTEV",
     "atualizado_em": "2026-09-26T12:36:58.530-03:00"
-  },
-  {
-    "id": "amazon:B06XK9H4PM",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51200xA7+nL._AC_SL1500_.jpg",
-    "preco": 16.38,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B06XK9H4PM?tag=malica09-20",
-    "atualizado_em": "2026-09-26T12:31:50.805-03:00"
   }
 ]
