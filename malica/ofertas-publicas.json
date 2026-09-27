@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32160295",
+    "titulo": "Pote Térmico Comida Alimento Bebê 320ml Buba Rosa Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874581-MLA91968255005_092025-F.jpg",
+    "preco": 84.89,
+    "preco_anterior": 151.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2utG7vZ",
+    "atualizado_em": "2026-09-26T21:39:31.669-03:00"
+  },
+  {
     "id": "amazon:B07XPC1ZNT",
     "titulo": "LIMPA CHUPETA lenços umedecidos higienizadores, Likluc, Branco, Tamanho único",
     "imagem": "https://m.media-amazon.com/images/I/519BkXundDL._AC_SL1500_.jpg",
