@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GRJ9XVHD",
+    "titulo": "Likluc Xô Bactéria 0+ Higienizador antisséptico para bebês! | Mata 99,9% das Bactérias e Virus",
+    "imagem": "https://m.media-amazon.com/images/I/81+nmn4gH1L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GRJ9XVHD?tag=malica09-20",
+    "atualizado_em": "2026-09-27T12:42:35.622-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24364799",
     "titulo": "Pratinho Em Silicone Com Ventosas Verde Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_600922-MLA99840674123_112025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2HbwVLa",
     "atualizado_em": "2026-09-26T12:47:09.909-03:00"
-  },
-  {
-    "id": "amazon:B0B93VG735",
-    "titulo": "Maxi-Cosi, Berço Iora Air, 0 a 9kg, Beyond Graphite",
-    "imagem": "https://m.media-amazon.com/images/I/51TxNwP5buL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B93VG735?tag=malica09-20",
-    "atualizado_em": "2026-09-26T12:42:03.012-03:00"
   }
 ]
