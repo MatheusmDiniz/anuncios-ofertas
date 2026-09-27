@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28660083",
+    "titulo": "Mosquiteiro Universale Branco Bublim Incomfral Elástico Carrinho Mini Berço",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906796-MLA100096322935_122025-F.jpg",
+    "preco": 16.53,
+    "preco_anterior": 29.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MQezv8",
+    "atualizado_em": "2026-09-27T14:20:02.366-03:00"
+  },
+  {
     "id": "amazon:B0FR9VKWHF",
     "titulo": "Amaciante Vida Macia Glicerina e Camomila, 2L",
     "imagem": "https://m.media-amazon.com/images/I/71IqqJKbtCL._AC_SL1500_.jpg",
