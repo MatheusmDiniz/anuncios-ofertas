@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DTNP5GX",
+    "titulo": "Gel Higienizante 70% Classic 500Ml, GIOVANNA BABY, Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/61ilbmrFh3L._AC_SL1500_.jpg",
+    "preco": 15.29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DTNP5GX?tag=malica09-20",
+    "atualizado_em": "2026-09-27T15:48:13.721-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/111oD2o",
     "atualizado_em": "2026-09-26T15:50:56.828-03:00"
-  },
-  {
-    "id": "amazon:B0DB6CMPX4",
-    "titulo": "Oferta: Plasútil Kit 3 Potes Encaixáveis de Plástico Quadrado Patrulha Canina",
-    "imagem": "https://m.media-amazon.com/images/I/51Fak5uqu8L._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DB6CMPX4?tag=malica09-20",
-    "atualizado_em": "2026-09-26T15:45:49.424-03:00"
   }
 ]
