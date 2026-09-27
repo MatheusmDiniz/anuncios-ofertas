@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.47453028150",
+    "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l01",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
+    "preco": 19.99,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1Lg12jz3ua",
+    "atualizado_em": "2026-09-26T22:05:04.068-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77421641",
     "titulo": "Boneca Bailarina Fada Princesa Articulada Ballet Com Asas Brilhantes Grande 30cm Colorida com Acessorios - Petite Flô",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932322-MLA114852699940_082026-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DTLL8MLR?tag=malica09-20",
     "atualizado_em": "2026-09-26T08:00:25.327-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36666853",
-    "titulo": "Gizes Caneta Risque E Apague Crianças Banho Divertido Buba Cor 6 Cores",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_699768-MLA100082856385_122025-F.jpg",
-    "preco": 19.9,
-    "preco_anterior": 41.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1umEENo",
-    "atualizado_em": "2026-09-25T22:01:58.386-03:00"
   }
 ]
