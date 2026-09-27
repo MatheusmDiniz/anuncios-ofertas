@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19538172",
+    "titulo": "Caixa Presente Sabonete Phebo Amarelo - 8 Sabonetes 90g Cada",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_870769-MLA99924065793_112025-F.jpg",
+    "preco": 39,
+    "preco_anterior": 75,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25r3g5o",
+    "atualizado_em": "2026-09-27T13:49:25.316-03:00"
+  },
+  {
     "id": "amazon:B0CYP2141M",
     "titulo": "Oferta: Brinox - Frigideira 20X4Cm 0,8L Ceramic Life Suprema - Vanilla",
     "imagem": "https://m.media-amazon.com/images/I/31oO3OWJKIL._AC_SL1500_.jpg",
@@ -1508,15 +1518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07F6RK8NY?tag=malica09-20",
     "atualizado_em": "2026-09-26T13:53:52.687-03:00"
-  },
-  {
-    "id": "amazon:B084BNQ7PK",
-    "titulo": "Fralda Pampers Confort Sec Tamanho XG 116 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71XZ+cOcaQL._AC_SL1500_.jpg",
-    "preco": 151,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B084BNQ7PK?tag=malica09-20",
-    "atualizado_em": "2026-09-26T13:48:48.352-03:00"
   }
 ]
