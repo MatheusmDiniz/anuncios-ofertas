@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28487537",
+    "titulo": "Berço Sonata Cor Cinza - Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
+    "preco": 374.99,
+    "preco_anterior": 651.23,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2N9M5Ks",
+    "atualizado_em": "2026-09-27T18:42:56.080-03:00"
+  },
+  {
     "id": "amazon:B0779M3L8K",
     "titulo": "Pelúcia Marshall, Patrulha Canina, Sunny",
     "imagem": "https://m.media-amazon.com/images/I/51rOaIuCS3L._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09CRHZV85?tag=malica09-20",
     "atualizado_em": "2026-09-26T18:45:16.012-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62338828",
-    "titulo": "Aspirador Sugador Nasal Bebê Elétrico Limpeza Nariz Ouvido Coral-claro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_986837-MLA98420920428_112025-F.jpg",
-    "preco": 44.99,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Cxw7Up",
-    "atualizado_em": "2026-09-26T18:40:10.155-03:00"
   }
 ]
