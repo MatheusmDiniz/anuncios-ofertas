@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FXHM1",
+    "titulo": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/51kcPBSuPRL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=malica09-20",
+    "atualizado_em": "2026-09-27T19:59:46.880-03:00"
+  },
+  {
     "id": "amazon:B0CXY3T338",
     "titulo": "Lenço De Banho Cremer Pacote Com 100 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61RRTL7OybL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1RYEJKx",
     "atualizado_em": "2026-09-26T20:02:10.196-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65726839",
-    "titulo": "Casal Banguela e Fúria da Luz Como Treinar O Seu Dragão 3D",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629199-MLA106710594124_022026-F.jpg",
-    "preco": 25.39,
-    "preco_anterior": 49.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2KEVoih",
-    "atualizado_em": "2026-09-26T19:57:01.705-03:00"
   }
 ]
