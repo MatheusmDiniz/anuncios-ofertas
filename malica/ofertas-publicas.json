@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FR9VKWHF",
+    "titulo": "Amaciante Vida Macia Glicerina e Camomila, 2L",
+    "imagem": "https://m.media-amazon.com/images/I/71IqqJKbtCL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FR9VKWHF?tag=malica09-20",
+    "atualizado_em": "2026-09-27T14:14:54.881-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB60823917",
     "titulo": "Canguru Bolsa Carregar Bebe Passeio 12 Posições 3 Em1 Até 20kg Bolsa Suporte Bebê Azul Claro",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656769-MLA97354225431_112025-F.jpg",
