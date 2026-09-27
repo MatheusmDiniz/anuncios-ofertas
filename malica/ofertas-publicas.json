@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79182251",
+    "titulo": "Kit Chocalho para Bebê ,para bebe recem nascido de 8 Peças Mordedor Brinquedo educativo Infantil Sensorial Colorido com slicone movimento diverso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730821-MLA116010973966_092026-F.jpg",
+    "preco": 23.99,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/27FUe9j",
+    "atualizado_em": "2026-09-27T19:18:41.782-03:00"
+  },
+  {
     "id": "shopee:548029260.58257405717",
     "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Vwv8DL",
     "atualizado_em": "2026-09-26T19:21:06.273-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58523172",
-    "titulo": "Kit Brinquedo Pato Dançante e Caranguejo Fujão Infantil com Música Luz Movimento Educativo combo patoguejo Ligeiro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_735160-MLA96132018671_102025-F.jpg",
-    "preco": 46.95,
-    "preco_anterior": 78.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2PHB12X",
-    "atualizado_em": "2026-09-26T19:15:58.298-03:00"
   }
 ]
