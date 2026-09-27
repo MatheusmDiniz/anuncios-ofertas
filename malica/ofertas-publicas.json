@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GZBDWF4",
+    "titulo": "Sabonete Líquido de Glicerina Huggies Extra Suave 600 ml",
+    "imagem": "https://m.media-amazon.com/images/I/51gUvebZzeL._AC_SL1500_.jpg",
+    "preco": 33,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GZBDWF4?tag=malica09-20",
+    "atualizado_em": "2026-09-27T15:27:19.127-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65892455",
     "titulo": "Brastoy Kit 9 Brinquedos Montessori Pedagogico De Madeira Multicolorido",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_937204-MLA107485085225_022026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/15ndpW8",
     "atualizado_em": "2026-09-26T15:30:30.695-03:00"
-  },
-  {
-    "id": "amazon:B091664YFV",
-    "titulo": "Oferta: TRICICLO AVESPA MARAL PINK",
-    "imagem": "https://m.media-amazon.com/images/I/51vhe3JElxL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B091664YFV?tag=malica09-20",
-    "atualizado_em": "2026-09-26T15:25:22.936-03:00"
   }
 ]
