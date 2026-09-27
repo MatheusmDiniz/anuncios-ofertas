@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08Y1Z25MG",
+    "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
+    "preco": 72,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08Y1Z25MG?tag=malica09-20",
+    "atualizado_em": "2026-09-27T18:16:55.494-03:00"
+  },
+  {
     "id": "amazon:B0BCHWGG5P",
     "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61NLcl3XQoL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2CCe49E",
     "atualizado_em": "2026-09-26T18:19:42.372-03:00"
-  },
-  {
-    "id": "amazon:B0CLVT6V3X",
-    "titulo": "Berço 3 em 1 Multimóveis MP0527G Branco – Para Colchão 60x130 cm | 3 Anos de Garantia",
-    "imagem": "https://m.media-amazon.com/images/I/71EvjSlcbEL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CLVT6V3X?tag=malica09-20",
-    "atualizado_em": "2026-09-26T18:14:33.395-03:00"
   }
 ]
