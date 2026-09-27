@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09KNTZXKL",
+    "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml",
+    "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09KNTZXKL?tag=malica09-20",
+    "atualizado_em": "2026-09-27T17:31:04.615-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34235115",
     "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnTqu2rwI",
     "atualizado_em": "2026-09-26T17:33:40.260-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69147411",
-    "titulo": "Kit 4 Escovas Para Lavar Mamadeira Copo Canudo Garrafa Amarelo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_939702-MLA111228926685_052026-F.jpg",
-    "preco": 19,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1sNxqWL",
-    "atualizado_em": "2026-09-26T17:28:34.432-03:00"
   }
 ]
