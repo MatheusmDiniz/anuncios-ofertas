@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB54191616",
+    "titulo": "Extensor Arejador Prolongador Bico De Torneira Pia Cromado Cor Cromado Inox",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_814164-MLA100063599077_122025-F.jpg",
+    "preco": 12.9,
+    "preco_anterior": 34,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2LKXq54",
+    "atualizado_em": "2026-09-27T16:13:47.139-03:00"
+  },
+  {
     "id": "amazon:B0CKPQWL9V",
     "titulo": "Kit Triplo Mamadeira Anti-Colic Philips Avent SCY119/19 125ml + 260ml + 330ml Rosa",
     "imagem": "https://m.media-amazon.com/images/I/71umIjQd52L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
     "atualizado_em": "2026-09-26T16:16:28.323-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23491820",
-    "titulo": "Pinico Troninho Infantil Bebês Desfralde Recipiente Buba Cor Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_914714-MLA100101043423_122025-F.jpg",
-    "preco": 35.9,
-    "preco_anterior": 74.88,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2yYr9rp",
-    "atualizado_em": "2026-09-26T16:11:22.971-03:00"
   }
 ]
