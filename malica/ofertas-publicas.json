@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19724253",
+    "titulo": "Conjunto Passeio Garrafa 250ml + Pote Para Leite Em Po Azul Bebê Sanremo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_622682-MLA116679877710_092026-F.jpg",
+    "preco": 58.6,
+    "preco_anterior": 111,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ddypuh",
+    "atualizado_em": "2026-09-27T15:01:42.804-03:00"
+  },
+  {
     "id": "amazon:B0CGY6SGFY",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, Fácil de Vestir, 132 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71Mnul++jZL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9KiIZRUbfs",
     "atualizado_em": "2026-09-26T15:04:55.846-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 92.9,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1x7jQ2H",
-    "atualizado_em": "2026-09-26T14:59:50.490-03:00"
   }
 ]
