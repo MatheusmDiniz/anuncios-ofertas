@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFMYQD2M",
+    "titulo": "Kit Coletor De Leite Materno Em Silicone + Saco Para Armazenar Leite Materno Branco : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/61hdWZdUc9L._AC_SL1500_.jpg",
+    "preco": 80,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFMYQD2M?tag=malica09-20",
+    "atualizado_em": "2026-09-27T20:56:26.971-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75984769",
     "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/333M14g",
     "atualizado_em": "2026-09-26T20:58:31.325-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392643",
-    "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
-    "preco": 22.9,
-    "preco_anterior": 42.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1qLRgZM",
-    "atualizado_em": "2026-09-26T20:53:23.097-03:00"
   }
 ]
