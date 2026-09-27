@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74536231",
+    "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
+    "preco": 399.99,
+    "preco_anterior": 999.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hhY1XL",
+    "atualizado_em": "2026-09-26T21:03:40.305-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB67009348",
     "titulo": "Kit 3 Travas De Geladeira E Gavetas Para Segurança Infantil Não Abre A Porta Adesivo Ultra Resistente Fácil De Instalar Mantem A Porta Fechada",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_648860-MLA111993607015_052026-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2w1F65c",
     "atualizado_em": "2026-09-25T21:05:38.639-03:00"
-  },
-  {
-    "id": "amazon:B0GW3TH25S",
-    "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
-    "preco": 123.49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
-    "atualizado_em": "2026-09-25T21:00:30.931-03:00"
   }
 ]
