@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25861503",
+    "titulo": "Kit 30 Sacos Para Armazenar Leite Materno 250ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604895-MLA100062296225_122025-F.jpg",
+    "preco": 23.28,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32seboZ",
+    "atualizado_em": "2026-09-27T12:16:42.632-03:00"
+  },
+  {
     "id": "amazon:B0BXM3TSS9",
     "titulo": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/81rfab7At1L._AC_SL1500_.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=malica09-20",
     "atualizado_em": "2026-09-26T12:21:08.094-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25163760",
-    "titulo": "Booster Cosco Kids, Clippy, até 36kg, Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850532-MLA113041435885_062026-F.jpg",
-    "preco": 44.9,
-    "preco_anterior": 74.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2H7XiTg",
-    "atualizado_em": "2026-09-26T12:15:36.905-03:00"
   }
 ]
