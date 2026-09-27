@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24364799",
+    "titulo": "Pratinho Em Silicone Com Ventosas Verde Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600922-MLA99840674123_112025-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 64.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2P7Qp1Q",
+    "atualizado_em": "2026-09-27T12:37:03.540-03:00"
+  },
+  {
     "id": "amazon:B07YVNBQ6Z",
     "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
     "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B93VG735?tag=malica09-20",
     "atualizado_em": "2026-09-26T12:42:03.012-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21346355",
-    "titulo": "Buba, Naninha Macia Pelúcia Antialérgica - Leãozinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648527-MLA95960351171_102025-F.jpg",
-    "preco": 56.99,
-    "preco_anterior": 199.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2xfcTEV",
-    "atualizado_em": "2026-09-26T12:36:58.530-03:00"
   }
 ]
