@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY6SGFY",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, Fácil de Vestir, 132 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71Mnul++jZL._AC_SL1500_.jpg",
+    "preco": 157,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY6SGFY?tag=malica09-20",
+    "atualizado_em": "2026-09-27T14:56:35.654-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65551477",
     "titulo": "Sugador Aspirador Nasal Elétrico Nariz Ouvido Criança Bebe Cor Azul-claro",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_996139-MLA112896350367_062026-F.jpg",
