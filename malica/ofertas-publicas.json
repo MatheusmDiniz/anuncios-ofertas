@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65892455",
+    "titulo": "Brastoy Kit 9 Brinquedos Montessori Pedagogico De Madeira Multicolorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_937204-MLA107485085225_022026-F.jpg",
+    "preco": 90.74,
+    "preco_anterior": 160,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1U9w4eb",
+    "atualizado_em": "2026-09-27T15:22:13.798-03:00"
+  },
+  {
     "id": "amazon:B0CLQ5XY4P",
     "titulo": "Oferta: Carrinho de Bebê Berço Moisés Passeio Napoli Preto Galzerano",
     "imagem": "https://m.media-amazon.com/images/I/61HMmd0y17L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B091664YFV?tag=malica09-20",
     "atualizado_em": "2026-09-26T15:25:22.936-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72675350",
-    "titulo": "Camiseta Blusa Infantil Proteção Uv50 Solar Piscina Praia Cor Preto Tamanho 6",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734927-MLA112814588651_062026-F.jpg",
-    "preco": 23.39,
-    "preco_anterior": 38.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1w3MFxb",
-    "atualizado_em": "2026-09-26T15:20:16.938-03:00"
   }
 ]
