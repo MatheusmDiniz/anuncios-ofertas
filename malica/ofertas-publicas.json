@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MBTSMM8",
+    "titulo": "Neslac Comfor - Composto Lácteo, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/815GVNMYL7L._AC_SL1500_.jpg",
+    "preco": 50,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=malica09-20",
+    "atualizado_em": "2026-09-27T14:45:57.949-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24635596",
     "titulo": "Aspirador Nasal Buba Transparente Com Sucção Para Nariz Entupido Bebe",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_684048-MLA99589673884_122025-F.jpg",
