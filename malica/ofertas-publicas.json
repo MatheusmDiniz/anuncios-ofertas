@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215253",
+    "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
+    "preco": 163.93,
+    "preco_anterior": 338,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2npYksY",
+    "atualizado_em": "2026-09-27T08:56:42.908-03:00"
+  },
+  {
     "id": "shopee:1361476561.19397991697",
     "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CXYYGSNB?tag=malica09-20",
     "atualizado_em": "2026-09-26T09:01:41.150-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27044594",
-    "titulo": "Babador Em Silicone Com Pega-migalhas Verde Gumy Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_918471-MLA100118722173_122025-F.jpg",
-    "preco": 24.46,
-    "preco_anterior": 44.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KX59Gt",
-    "atualizado_em": "2026-09-26T08:56:37.055-03:00"
   }
 ]
