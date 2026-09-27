@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B9HWK12S",
+    "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata",
+    "imagem": "https://m.media-amazon.com/images/I/41haSkx3BGL._AC_SL1500_.jpg",
+    "preco": 68,
+    "preco_anterior": 93,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=malica09-20",
+    "atualizado_em": "2026-09-27T17:00:03.352-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62692070",
     "titulo": "Capa De Chuva Protetora Para Carrinho De Bebê Universal Transparente",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_986543-MLA99504323420_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
     "atualizado_em": "2026-09-26T17:02:33.500-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26792297",
-    "titulo": "Kit Escova Com Bucha Esponja Para Lavar Mamadeira E Bico Cor Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_898239-MLA100111333515_122025-F.jpg",
-    "preco": 9.27,
-    "preco_anterior": 23.41,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2GMsiPP",
-    "atualizado_em": "2026-09-26T16:57:29.021-03:00"
   }
 ]
