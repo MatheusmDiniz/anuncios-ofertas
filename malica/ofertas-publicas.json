@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHQZPZV",
+    "titulo": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g | Proteção Diária, Alivia Irritações, Hipoalergênico, Com Aloe Vera e Vitamina E",
+    "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
+    "atualizado_em": "2026-09-27T18:27:33.964-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27672036",
     "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ZqdnYS",
     "atualizado_em": "2026-09-26T18:29:57.519-03:00"
-  },
-  {
-    "id": "amazon:B07DX7N8WQ",
-    "titulo": "Lillo Caneca Antivazamento Magia - Verde…",
-    "imagem": "https://m.media-amazon.com/images/I/61JQ1GAO1ZL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": 41,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DX7N8WQ?tag=malica09-20",
-    "atualizado_em": "2026-09-26T18:24:49.426-03:00"
   }
 ]
