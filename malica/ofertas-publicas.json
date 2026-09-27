@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09JVKRS42",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61CSoJu3bxL._AC_SL1500_.jpg",
+    "preco": 25.55,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=malica09-20",
+    "atualizado_em": "2026-09-27T08:10:22.172-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27045155",
     "titulo": "Babador Impermeável Buba para Bebês com Bolso e Design de Unicórnio",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_769819-MLA99596978560_122025-F.jpg",
