@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00SO7H0BS",
+    "titulo": "Oferta: Fisher-Price Zebra Blocos Surpresa",
+    "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": 119,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=malica09-20",
+    "atualizado_em": "2026-09-27T20:30:53.453-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75637239",
     "titulo": "3 Prendedores Para Chupeta Modelo Mola Bebê Menino Menina Verde+transparente+azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_680338-MLA114913760393_072026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07F3NW29G?tag=malica09-20",
     "atualizado_em": "2026-09-26T20:32:52.050-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74606583",
-    "titulo": "Kit 3 Brinquedo Bebê Gira C/ Ventosa para Banho Sensorial Montessori Educativo MLTM ECOM",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_614318-MLA113964852903_062026-F.jpg",
-    "preco": 27,
-    "preco_anterior": 59,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2B9WCb9",
-    "atualizado_em": "2026-09-26T20:27:47.809-03:00"
   }
 ]
