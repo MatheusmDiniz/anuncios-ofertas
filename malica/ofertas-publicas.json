@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75984769",
+    "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
+    "preco": 169,
+    "preco_anterior": 329.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2U76gEk",
+    "atualizado_em": "2026-09-27T20:51:21.005-03:00"
+  },
+  {
     "id": "amazon:B0DXL6PVLQ",
     "titulo": "Kit de Mamadeiras e Bicos Super Evolution Lillo - 80ml, 150ml e 300ml",
     "imagem": "https://m.media-amazon.com/images/I/61EminaHA-L._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qLRgZM",
     "atualizado_em": "2026-09-26T20:53:23.097-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26749806",
-    "titulo": "Saco Para Armazenar Leite Materno 25 Unidades Buba 09923",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636436-MLA100069391797_122025-F.jpg",
-    "preco": 37.9,
-    "preco_anterior": 69.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1dVrhne",
-    "atualizado_em": "2026-09-26T20:48:14.996-03:00"
   }
 ]
