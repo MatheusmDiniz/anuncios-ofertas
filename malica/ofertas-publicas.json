@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN7VP6M",
+    "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
+    "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
+    "preco": 90,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=malica09-20",
+    "atualizado_em": "2026-09-27T17:56:38.580-03:00"
+  },
+  {
     "id": "amazon:B07X4GWDZY",
     "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2a5Njwu",
     "atualizado_em": "2026-09-26T17:59:15.704-03:00"
-  },
-  {
-    "id": "amazon:B0H6YGSSQY",
-    "titulo": "Carrinho de Bebê Kidino Elite Gold Bege Reclinável 3 Posições Compacto Leve com Alça até 15kg",
-    "imagem": "https://m.media-amazon.com/images/I/617JZzqWhhL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H6YGSSQY?tag=malica09-20",
-    "atualizado_em": "2026-09-26T17:54:07.714-03:00"
   }
 ]
