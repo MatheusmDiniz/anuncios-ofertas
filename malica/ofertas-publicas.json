@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D3HY8H6K",
+    "titulo": "Brinquedo Mini Jardim Mágico Encantado de Sereia Faber-Castell Creativity For Kids : Amazon.com.br: Jardim e Piscina",
+    "imagem": "https://m.media-amazon.com/images/I/913H7bgu4IL._AC_SL1500_.jpg",
+    "preco": 71,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D3HY8H6K?tag=malica09-20",
+    "atualizado_em": "2026-09-27T11:09:56.051-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53258842",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2EELiLN",
     "atualizado_em": "2026-09-26T11:14:23.195-03:00"
-  },
-  {
-    "id": "amazon:B0CH3WBKN6",
-    "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
-    "imagem": "https://m.media-amazon.com/images/I/71YOp9GJX2L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=malica09-20",
-    "atualizado_em": "2026-09-26T11:09:15.270-03:00"
   }
 ]
