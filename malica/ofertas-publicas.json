@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66366553",
+    "titulo": "Kit Cuidados E Higiene Bebê Recém Nascido 13 Peças Rosa Bolsa Maternidade Termômetro Digital Escova Pente Cortador Unha Aspirador Nasal Enxoval Acessórios Presente Segurança Louis Riel Acustico",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_918968-MLA111194140276_052026-F.jpg",
+    "preco": 33,
+    "preco_anterior": 78,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NbBDxc",
+    "atualizado_em": "2026-09-27T12:47:43.201-03:00"
+  },
+  {
     "id": "amazon:B0GRJ9XVHD",
     "titulo": "Likluc Xô Bactéria 0+ Higienizador antisséptico para bebês! | Mata 99,9% das Bactérias e Virus",
     "imagem": "https://m.media-amazon.com/images/I/81+nmn4gH1L._AC_SL1500_.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09GV1QKT6?tag=malica09-20",
     "atualizado_em": "2026-09-26T12:52:15.212-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79494514",
-    "titulo": "Travesseiro Anti Refluxo Berço Bebê Rampa Cama Grávida Tamanho G BusinessEcom",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601556-MLA116339084852_092026-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 73,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2HbwVLa",
-    "atualizado_em": "2026-09-26T12:47:09.909-03:00"
   }
 ]
