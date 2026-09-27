@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B072BXQK4X",
+    "titulo": "Shampoo e Sabonete de Laranja para Crianças | 2 em 1| Fragrância Natural com Óleo de Gergelim | 150ml",
+    "imagem": "https://m.media-amazon.com/images/I/61BsSI+c1BL._AC_SL1500_.jpg",
+    "preco": 64,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B072BXQK4X?tag=malica09-20",
+    "atualizado_em": "2026-09-27T16:19:16.406-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54191616",
     "titulo": "Extensor Arejador Prolongador Bico De Torneira Pia Cromado Cor Cromado Inox",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_814164-MLA100063599077_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2tjqGTg",
     "atualizado_em": "2026-09-26T16:21:36.782-03:00"
-  },
-  {
-    "id": "amazon:B0DV9W63Z6",
-    "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
-    "preco": 346,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
-    "atualizado_em": "2026-09-26T16:16:28.323-03:00"
   }
 ]
