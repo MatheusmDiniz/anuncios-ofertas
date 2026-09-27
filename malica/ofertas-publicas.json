@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66840413",
+    "titulo": "Kit Saida Maternidade Bebê Tricot Trico Menino Masculino Cor Azul Marinho Liso Tamanho Rn - Recem Nascido - 0 A 1 Mês",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812086-MLA112281121935_052026-F.jpg",
+    "preco": 119,
+    "preco_anterior": 199.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2VmdmJk",
+    "atualizado_em": "2026-09-27T17:05:10.873-03:00"
+  },
+  {
     "id": "amazon:B0B9HWK12S",
     "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata",
     "imagem": "https://m.media-amazon.com/images/I/41haSkx3BGL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26CTJJv",
     "atualizado_em": "2026-09-26T17:12:45.932-03:00"
-  },
-  {
-    "id": "amazon:B08QG3H6YR",
-    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
-    "preco": 41,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
-    "atualizado_em": "2026-09-26T17:02:33.500-03:00"
   }
 ]
