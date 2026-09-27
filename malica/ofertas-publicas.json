@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40159759",
+    "titulo": "Termômetro De Banho Para Bebês Girafinha Rosa 18805 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677884-MLA99591143300_122025-F.jpg",
+    "preco": 38.9,
+    "preco_anterior": 69.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1F8Fe9h",
+    "atualizado_em": "2026-09-27T17:36:14.894-03:00"
+  },
+  {
     "id": "amazon:B09KNTZXKL",
     "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml",
     "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1izSjBj",
     "atualizado_em": "2026-09-26T17:38:48.098-03:00"
-  },
-  {
-    "id": "shopee:1042066189.43481645729",
-    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
-    "preco": 29.48,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/LnTqu2rwI",
-    "atualizado_em": "2026-09-26T17:33:40.260-03:00"
   }
 ]
