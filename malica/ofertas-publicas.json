@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63962761",
+    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
+    "preco": 94.91,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SJwgA7",
+    "atualizado_em": "2026-09-27T17:46:28.332-03:00"
+  },
+  {
     "id": "amazon:B099KW58QQ",
     "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61se8cNhwjL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1bbdvUs",
     "atualizado_em": "2026-09-26T17:49:02.499-03:00"
-  },
-  {
-    "id": "amazon:B09LRF9GH2",
-    "titulo": "Burigotto Cadeira De Refeição Poke Polar",
-    "imagem": "https://m.media-amazon.com/images/I/41S74jw-noL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09LRF9GH2?tag=malica09-20",
-    "atualizado_em": "2026-09-26T17:43:53.915-03:00"
   }
 ]
