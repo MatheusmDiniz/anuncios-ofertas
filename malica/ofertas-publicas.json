@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB59328402",
+    "titulo": "Escova Limpeza Mamadeira Copos Espuma Macia Limpeza Completa Cor Azul Celeste",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_994212-MLA115173947426_082026-F.jpg",
+    "preco": 29.99,
+    "preco_anterior": 75.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/13L7e22",
+    "atualizado_em": "2026-09-27T16:24:23.947-03:00"
+  },
+  {
     "id": "amazon:B072BXQK4X",
     "titulo": "Shampoo e Sabonete de Laranja para Crianças | 2 em 1| Fragrância Natural com Óleo de Gergelim | 150ml",
     "imagem": "https://m.media-amazon.com/images/I/61BsSI+c1BL._AC_SL1500_.jpg",
