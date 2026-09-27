@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DY2RZCGH",
+    "titulo": "Mochila Infantil com Design de Animal, 25x21x12cm para 1-3 Anos, 28x23x13cm para 3-6 Anos, 4 Modelos",
+    "imagem": "https://m.media-amazon.com/images/I/5101p1mAwGL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DY2RZCGH?tag=malica09-20",
+    "atualizado_em": "2026-09-27T11:50:46.563-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46014518",
     "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
@@ -1488,15 +1498,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KJdieM",
     "atualizado_em": "2026-09-26T11:55:09.459-03:00"
-  },
-  {
-    "id": "amazon:B08JM8CG5D",
-    "titulo": "Comfort Amaciante Concentrado Puro Cuidado 1,5L",
-    "imagem": "https://m.media-amazon.com/images/I/61Ju1heOhrL._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08JM8CG5D?tag=malica09-20",
-    "atualizado_em": "2026-09-26T11:50:01.602-03:00"
   }
 ]
