@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26851070",
+    "titulo": "Banheira Infantil Burigotto Splash 10 L, Suporte e Redutor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
+    "preco": 239,
+    "preco_anterior": 510,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZobV6E",
+    "atualizado_em": "2026-09-27T21:01:34.720-03:00"
+  },
+  {
     "id": "amazon:B0DFMYQD2M",
     "titulo": "Kit Coletor De Leite Materno Em Silicone + Saco Para Armazenar Leite Materno Branco : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/61hdWZdUc9L._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2hhY1XL",
     "atualizado_em": "2026-09-26T21:03:40.305-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67009348",
-    "titulo": "Kit 3 Travas De Geladeira E Gavetas Para Segurança Infantil Não Abre A Porta Adesivo Ultra Resistente Fácil De Instalar Mantem A Porta Fechada",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648860-MLA111993607015_052026-F.jpg",
-    "preco": 19,
-    "preco_anterior": 39.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/333M14g",
-    "atualizado_em": "2026-09-26T20:58:31.325-03:00"
   }
 ]
