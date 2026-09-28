@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72684098",
+    "titulo": "Kit Mini Berço Menina Menino 5 Peças Com Saia Cor Bosque Encantado",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851167-MLA111728925368_062026-F.jpg",
+    "preco": 55.9,
+    "preco_anterior": 107.2,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BvMb5X",
+    "atualizado_em": "2026-09-28T16:19:56.114-03:00"
+  },
+  {
     "id": "amazon:B0CYLYDHS2",
     "titulo": "Shampoo Huggies Kids Nutrição e Força Enrolados 360 ml",
     "imagem": "https://m.media-amazon.com/images/I/61ndOSBPPkL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13L7e22",
     "atualizado_em": "2026-09-27T16:24:23.947-03:00"
-  },
-  {
-    "id": "amazon:B072BXQK4X",
-    "titulo": "Shampoo e Sabonete de Laranja para Crianças | 2 em 1| Fragrância Natural com Óleo de Gergelim | 150ml",
-    "imagem": "https://m.media-amazon.com/images/I/61BsSI+c1BL._AC_SL1500_.jpg",
-    "preco": 64,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B072BXQK4X?tag=malica09-20",
-    "atualizado_em": "2026-09-27T16:19:16.406-03:00"
   }
 ]
