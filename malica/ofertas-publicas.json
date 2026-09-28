@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56211837",
+    "titulo": "Kit Judy Home Com Boneca Judy Casinha Completa Rosa Infantil",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_878108-MLA99622811138_122025-F.jpg",
+    "preco": 56.8,
+    "preco_anterior": 95.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/132At7E",
+    "atualizado_em": "2026-09-28T15:17:55.099-03:00"
+  },
+  {
     "id": "amazon:B0DBX1GPQK",
     "titulo": "Dove Baby Sabonete Líquido Hidratação Glicerinada da Cabeça aos Pés 400ml Refil",
     "imagem": "https://m.media-amazon.com/images/I/716vrsYahJL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1U9w4eb",
     "atualizado_em": "2026-09-27T15:22:13.798-03:00"
-  },
-  {
-    "id": "amazon:B0CLQ5XY4P",
-    "titulo": "Oferta: Carrinho de Bebê Berço Moisés Passeio Napoli Preto Galzerano",
-    "imagem": "https://m.media-amazon.com/images/I/61HMmd0y17L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CLQ5XY4P?tag=malica09-20",
-    "atualizado_em": "2026-09-27T15:16:58.895-03:00"
   }
 ]
