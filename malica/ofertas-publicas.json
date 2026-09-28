@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0779MV154",
+    "titulo": "Oferta: Maral Carrinho Com Chassis Jip Jip Menina Multicor",
+    "imagem": "https://m.media-amazon.com/images/I/51s2zbnG23L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0779MV154?tag=malica09-20",
+    "atualizado_em": "2026-09-28T17:36:36.533-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17775077",
     "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=malica09-20",
     "atualizado_em": "2026-09-27T17:41:19.914-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40159759",
-    "titulo": "Termômetro De Banho Para Bebês Girafinha Rosa 18805 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677884-MLA99591143300_122025-F.jpg",
-    "preco": 38.9,
-    "preco_anterior": 69.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1F8Fe9h",
-    "atualizado_em": "2026-09-27T17:36:14.894-03:00"
   }
 ]
