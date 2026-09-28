@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B085CZ2F4J",
+    "titulo": "Sabonete Líquido de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/71XwqjMGZsL._AC_SL1500_.jpg",
+    "preco": 18.99,
+    "preco_anterior": 36.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B085CZ2F4J?tag=malica09-20",
+    "atualizado_em": "2026-09-28T13:09:01.020-03:00"
+  },
+  {
     "id": "shopee:1452530060.19299611725",
     "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09MVD8384?tag=malica09-20",
     "atualizado_em": "2026-09-27T13:13:40.292-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76225860",
-    "titulo": "Livro Inteligente Educativo Interativo Com Atividades Bilíngue E Didático Com Som Para Crianças e Bebês",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636890-MLA114187610424_082026-F.jpg",
-    "preco": 39.9,
-    "preco_anterior": 77.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EqoTWV",
-    "atualizado_em": "2026-09-27T13:08:36.539-03:00"
   }
 ]
