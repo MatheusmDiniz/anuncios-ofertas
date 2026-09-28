@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40690981",
+    "titulo": "Bomba Coletor Leite Materno Manual Portátil Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944282-MLU78988156008_092024-F.jpg",
+    "preco": 38.9,
+    "preco_anterior": 82.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/235P4Ry",
+    "atualizado_em": "2026-09-28T10:29:20.367-03:00"
+  },
+  {
     "id": "shopee:478457753.20597624044",
     "titulo": "Mocassim Menina Modelo Oxford Off White e Preto Lindo Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mtgq5znxfk0300",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1Lg5pMaigF",
     "atualizado_em": "2026-09-27T10:33:51.855-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB78850096",
-    "titulo": "Bomba Materno Portátil Eletria 24mm Sem BPA Não Precisa Segurar Ou Ficar Apertando Mãos Livres encaixe confortavél controle facil durante uso - MARCA CONTATY",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_615081-MLA117202543439_092026-F.jpg",
-    "preco": 46,
-    "preco_anterior": 78.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2waErMJ",
-    "atualizado_em": "2026-09-27T10:28:47.019-03:00"
   }
 ]
