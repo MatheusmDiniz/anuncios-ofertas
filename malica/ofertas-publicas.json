@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CYLYDHS2",
+    "titulo": "Shampoo Huggies Kids Nutrição e Força Enrolados 360 ml",
+    "imagem": "https://m.media-amazon.com/images/I/61ndOSBPPkL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CYLYDHS2?tag=malica09-20",
+    "atualizado_em": "2026-09-28T16:14:48.348-03:00"
+  },
+  {
     "id": "amazon:B089N7K5QD",
     "titulo": "Lillo Chupeta Funny Animais Silicone Onça -",
     "imagem": "https://m.media-amazon.com/images/I/71mpvXTRIDL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B072BXQK4X?tag=malica09-20",
     "atualizado_em": "2026-09-27T16:19:16.406-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB54191616",
-    "titulo": "Extensor Arejador Prolongador Bico De Torneira Pia Cromado Cor Cromado Inox",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_814164-MLA100063599077_122025-F.jpg",
-    "preco": 12.9,
-    "preco_anterior": 34,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2LKXq54",
-    "atualizado_em": "2026-09-27T16:13:47.139-03:00"
   }
 ]
