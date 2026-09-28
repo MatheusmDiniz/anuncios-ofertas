@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DBX1GPQK",
+    "titulo": "Dove Baby Sabonete Líquido Hidratação Glicerinada da Cabeça aos Pés 400ml Refil",
+    "imagem": "https://m.media-amazon.com/images/I/716vrsYahJL._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DBX1GPQK?tag=malica09-20",
+    "atualizado_em": "2026-09-28T15:12:46.700-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB33294420",
     "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
