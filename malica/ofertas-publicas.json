@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB33294420",
+    "titulo": "Protetor Solar Blackout | Kit, Com Ventosas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978521-MLA99845837101_112025-F.jpg",
+    "preco": 13.71,
+    "preco_anterior": 27.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Q4Wv1Y",
+    "atualizado_em": "2026-09-28T15:07:37.915-03:00"
+  },
+  {
     "id": "amazon:B000GKUEVE",
     "titulo": "Oferta: Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
     "imagem": "https://m.media-amazon.com/images/I/81GMRnT1SsL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EFuBi1",
     "atualizado_em": "2026-09-27T15:11:56.566-03:00"
-  },
-  {
-    "id": "amazon:B0FXN957HN",
-    "titulo": "Quadrados de Algodão Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
-    "preco": 26,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
-    "atualizado_em": "2026-09-27T15:06:46.493-03:00"
   }
 ]
