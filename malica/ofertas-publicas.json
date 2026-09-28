@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DVTBWQ8Q",
+    "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=malica09-20",
+    "atualizado_em": "2026-09-28T14:10:52.868-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45976810",
     "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FR9VKWHF?tag=malica09-20",
     "atualizado_em": "2026-09-27T14:14:54.881-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB60823917",
-    "titulo": "Canguru Bolsa Carregar Bebe Passeio 12 Posições 3 Em1 Até 20kg Bolsa Suporte Bebê Azul Claro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656769-MLA97354225431_112025-F.jpg",
-    "preco": 109.79,
-    "preco_anterior": 198.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13ZzxFK",
-    "atualizado_em": "2026-09-27T14:09:50.146-03:00"
   }
 ]
