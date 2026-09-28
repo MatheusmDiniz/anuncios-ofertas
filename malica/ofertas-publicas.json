@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D3SCHVS",
+    "titulo": "Sabonete Líquido Huggies Camomila para Recém-Nascidos 200ml",
+    "imagem": "https://m.media-amazon.com/images/I/61ENSnIO0qL._AC_SL1500_.jpg",
+    "preco": 12.14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D3SCHVS?tag=malica09-20",
+    "atualizado_em": "2026-09-28T18:58:27.278-03:00"
+  },
+  {
     "id": "amazon:B0CHZCH5VL",
     "titulo": "Oferta para Membros Prime: Cadeira de Descanso Bebê Musical Polar Bege 18kgs Maxi Baby",
     "imagem": "https://m.media-amazon.com/images/I/51HNh20YHgL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bcKcRJ",
     "atualizado_em": "2026-09-27T19:03:19.785-03:00"
-  },
-  {
-    "id": "amazon:B08CYD1XNH",
-    "titulo": "TOTOKINHA BOLINHA MENINO CX PARDA : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/51qKA7uWjfS._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08CYD1XNH?tag=malica09-20",
-    "atualizado_em": "2026-09-27T18:58:11.647-03:00"
   }
 ]
