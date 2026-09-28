@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45976810",
+    "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
+    "preco": 199.97,
+    "preco_anterior": 334.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/15DaxEK",
+    "atualizado_em": "2026-09-28T14:05:48.783-03:00"
+  },
+  {
     "id": "amazon:B0BJ7ZDKR7",
     "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13ZzxFK",
     "atualizado_em": "2026-09-27T14:09:50.146-03:00"
-  },
-  {
-    "id": "amazon:B07S57P35S",
-    "titulo": "Oferta: Lata Mini Personalizada Bee Deo Cologne, Ciclo, 100 Ml",
-    "imagem": "https://m.media-amazon.com/images/I/51krmfiFLoL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07S57P35S?tag=malica09-20",
-    "atualizado_em": "2026-09-27T14:04:41.839-03:00"
   }
 ]
