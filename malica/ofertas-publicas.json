@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB78015488",
+    "titulo": "Pulseira Guia Infantil Seguranca Anti Perda Criança Viagens Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_959694-MLA115154246856_082026-F.jpg",
+    "preco": 24.4,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Hsd6ZK",
+    "atualizado_em": "2026-09-27T21:16:58.809-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75491066",
     "titulo": "Agitador De Mamadeira Misturador Automático 3 Modos Elétrico Com Display Digital Bpa Free Para Bebe Aquecedor De Mamadeira Preparador De Mamadeira Quicko",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_667738-MLA114372304784_082026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2cZhD6h",
     "atualizado_em": "2026-09-26T21:19:04.673-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47899174",
-    "titulo": "Baba Eletrônica Baby Monitor Vb603 Visão Noturna Dual Audio Cor Branco Estary Shop",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789928-MLA99885017637_112025-F.jpg",
-    "preco": 224.55,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/325sAj3",
-    "atualizado_em": "2026-09-26T21:13:56.380-03:00"
   }
 ]
