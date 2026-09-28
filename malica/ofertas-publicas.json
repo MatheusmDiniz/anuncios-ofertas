@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62933980",
+    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
+    "preco": 218.41,
+    "preco_anterior": 447.82,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XQuVVJ",
+    "atualizado_em": "2026-09-28T08:56:46.931-03:00"
+  },
+  {
     "id": "amazon:B0CCF1WTB1",
     "titulo": "Fralda Babysec Premium Hiper XG 56 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61J7H48T91L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4qFxzd5Msn",
     "atualizado_em": "2026-09-27T09:01:47.660-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215253",
-    "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
-    "preco": 163.93,
-    "preco_anterior": 338,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2npYksY",
-    "atualizado_em": "2026-09-27T08:56:42.908-03:00"
   }
 ]
