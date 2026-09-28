@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8538006363",
+    "titulo": "Oferta: Eu e o Meu Papai!",
+    "imagem": "https://m.media-amazon.com/images/I/71YLDIHRyHL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8538006363?tag=malica09-20",
+    "atualizado_em": "2026-09-28T17:51:54.689-03:00"
+  },
+  {
     "id": "amazon:B0CGYR8GBT",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=malica09-20",
     "atualizado_em": "2026-09-27T17:56:38.580-03:00"
-  },
-  {
-    "id": "amazon:B07X4GWDZY",
-    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
-    "preco": 89,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
-    "atualizado_em": "2026-09-27T17:51:33.166-03:00"
   }
 ]
