@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B096KDKNNQ",
+    "titulo": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades | 192 unidades, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Sem fragrâncias, corantes e conservantes",
+    "imagem": "https://m.media-amazon.com/images/I/713euw7uVZL._AC_SL1500_.jpg",
+    "preco": 40,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=malica09-20",
+    "atualizado_em": "2026-09-28T20:20:22.161-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44349733",
     "titulo": "Kit Adesivo Repelente para Bebê e Crianças com Óleo de Citronela",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811340-MLA113247299708_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2je6En8",
     "atualizado_em": "2026-09-27T20:25:23.609-03:00"
-  },
-  {
-    "id": "shopee:391751753.58210250288",
-    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
-    "preco": 30,
-    "preco_anterior": 69.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70KSZmF9Bp",
-    "atualizado_em": "2026-09-27T20:20:15.715-03:00"
   }
 ]
