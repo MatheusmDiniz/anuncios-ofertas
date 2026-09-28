@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGYR8GBT",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
+    "preco": 141,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
+    "atualizado_em": "2026-09-28T17:46:49.152-03:00"
+  },
+  {
     "id": "amazon:B0H51HJBWD",
     "titulo": "Protetor de Assento Sanitário Descartável Kit com 50 Unidades Premim – Capa Higiênica para Vaso Sanitário – Ideal para Viagens, Trabalho e Banheiros Públicos",
     "imagem": "https://m.media-amazon.com/images/I/61oWShQzmFL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
     "atualizado_em": "2026-09-27T17:51:33.166-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63962761",
-    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
-    "preco": 94.91,
-    "preco_anterior": 219.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2SJwgA7",
-    "atualizado_em": "2026-09-27T17:46:28.332-03:00"
   }
 ]
