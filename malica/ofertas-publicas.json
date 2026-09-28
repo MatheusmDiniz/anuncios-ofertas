@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB36385683",
+    "titulo": "Kit Alimentação Bebê Silicone Introdução Alimentar Infantil Cor Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896750-MLA96505053943_102025-F.jpg",
+    "preco": 36.99,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2AFdEqb",
+    "atualizado_em": "2026-09-28T11:00:07.521-03:00"
+  },
+  {
     "id": "shopee:1339251691.23597977323",
     "titulo": "Multivitamínico para Gestante, Lactante e Pós-Parto | 60 Cápsulas 20 Nutrientes | Milk Mama",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcqmg1vlyz29ed",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ovyxhc",
     "atualizado_em": "2026-09-27T11:04:51.086-03:00"
-  },
-  {
-    "id": "amazon:B07GQ136TS",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
-    "preco": 49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
-    "atualizado_em": "2026-09-27T10:59:44.060-03:00"
   }
 ]
