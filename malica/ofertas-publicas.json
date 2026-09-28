@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50912250",
+    "titulo": "Berço Moisés Rubi Funcional Maxi do Brasil 5 em 1",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864911-MLA99558047620_122025-F.jpg",
+    "preco": 287.52,
+    "preco_anterior": 599,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1scmQzP",
+    "atualizado_em": "2026-09-28T19:44:37.820-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875892",
     "titulo": "Granado Sabonete Líquido Glicerina Bebê Tradicional 500 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
     "atualizado_em": "2026-09-27T19:49:38.592-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72254053",
-    "titulo": "Cercadinho Bebê Rister Baby Portátil Grande + Tapete Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_943945-MLA112759124059_062026-F.jpg",
-    "preco": 111.45,
-    "preco_anterior": 196.2,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/23CGWTn",
-    "atualizado_em": "2026-09-27T19:44:33.108-03:00"
   }
 ]
