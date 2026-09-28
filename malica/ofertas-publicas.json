@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJ17CR8W",
+    "titulo": "LEGO Ninjago Traje de Meca de Batalha do Zane 71827 (92 Peças)",
+    "imagem": "https://m.media-amazon.com/images/I/81Hw5KRvM0L._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": 89,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJ17CR8W?tag=malica09-20",
+    "atualizado_em": "2026-09-28T16:55:53.066-03:00"
+  },
+  {
     "id": "amazon:B079VQTRM7",
     "titulo": "Bio Oil Bio",
     "imagem": "https://m.media-amazon.com/images/I/41UeIwJ3WBL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=malica09-20",
     "atualizado_em": "2026-09-27T17:00:03.352-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62692070",
-    "titulo": "Capa De Chuva Protetora Para Carrinho De Bebê Universal Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_986543-MLA99504323420_112025-F.jpg",
-    "preco": 24.73,
-    "preco_anterior": 49.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2MjtBx6",
-    "atualizado_em": "2026-09-27T16:55:00.036-03:00"
   }
 ]
