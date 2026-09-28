@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775080",
+    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
+    "preco": 10.99,
+    "preco_anterior": 19.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2YBUR6P",
+    "atualizado_em": "2026-09-27T21:32:22.444-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23912670",
     "titulo": "Portão Segurança Pet Útil Aramado Preto 80x74-84cm Para Crianças e Cães",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_800475-MLA95714019336_102025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07XPC1ZNT?tag=malica09-20",
     "atualizado_em": "2026-09-26T21:34:24.110-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24649436",
-    "titulo": "Vittak Kit 20 Protetor de Quina Segurança Bebê Criança Mesa Canto Silicone Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_657304-MLA99606536884_122025-F.jpg",
-    "preco": 22,
-    "preco_anterior": 48.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jeFLLU",
-    "atualizado_em": "2026-09-26T21:29:20.416-03:00"
   }
 ]
