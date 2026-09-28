@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65600099",
+    "titulo": "Kit Travesseiro Bebê Anti Sufocante com Fronha e Almofada Anatômica para Plagiocefalia",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900003-MLA107242511203_022026-F.jpg",
+    "preco": 33.51,
+    "preco_anterior": 69.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1TQMNWP",
+    "atualizado_em": "2026-09-28T11:31:02.610-03:00"
+  },
+  {
     "id": "amazon:B078HS3SKS",
     "titulo": "Baby Dove Sabonete Líquido Da Cabeça Aos Pés Hidratação Enriquecida 400Ml",
     "imagem": "https://m.media-amazon.com/images/I/61-Ts5VmV9L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kBnmbk",
     "atualizado_em": "2026-09-27T11:35:29.459-03:00"
-  },
-  {
-    "id": "amazon:B07X4GVF9H",
-    "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
-    "preco": 81,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
-    "atualizado_em": "2026-09-27T11:30:22.174-03:00"
   }
 ]
