@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49357605",
+    "titulo": "Trocador De Fraldas Portátil Impermeavel Com Bolso Cor Savana",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978472-MLA100067070359_122025-F.jpg",
+    "preco": 24.5,
+    "preco_anterior": 49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Wg4tB2",
+    "atualizado_em": "2026-09-28T16:30:23.184-03:00"
+  },
+  {
     "id": "amazon:B0CB6KL4LB",
     "titulo": "Barbie Bailarina Loira, Boneca com Tutu Removível, Corpete Decorado e Visual Clássico de Ballet Para Histórias Graciosas",
     "imagem": "https://m.media-amazon.com/images/I/41cMu59jN9L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ySzQ9p",
     "atualizado_em": "2026-09-27T16:34:35.448-03:00"
-  },
-  {
-    "id": "amazon:B073ZGK2JV",
-    "titulo": "Mustela Bálsamo Peitoral Reconfortante 40 ml, Mustela Bebê, Azul, 40 ml",
-    "imagem": "https://m.media-amazon.com/images/I/41nBYv6T-mS._AC_SL1500_.jpg",
-    "preco": 74,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B073ZGK2JV?tag=malica09-20",
-    "atualizado_em": "2026-09-27T16:29:28.326-03:00"
   }
 ]
