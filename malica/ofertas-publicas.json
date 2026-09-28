@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H4RCDLPS",
+    "titulo": "Suporte de Banho Bebê Em Pé Chuveiro Banheira Ajuste 9 Níveis Tapete Antiderrapante Duck Maxi Baby",
+    "imagem": "https://m.media-amazon.com/images/I/41mSwHjOneL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H4RCDLPS?tag=malica09-20",
+    "atualizado_em": "2026-09-28T18:02:02.404-03:00"
+  },
+  {
     "id": "amazon:8538017470",
     "titulo": "Eu e minha mamãe",
     "imagem": "https://m.media-amazon.com/images/I/71zpShgR8LL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
     "atualizado_em": "2026-09-27T18:06:47.328-03:00"
-  },
-  {
-    "id": "amazon:B08R91NTHY",
-    "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-    "imagem": "https://m.media-amazon.com/images/I/612gXC9waVL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=malica09-20",
-    "atualizado_em": "2026-09-27T18:01:42.120-03:00"
   }
 ]
