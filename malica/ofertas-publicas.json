@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D51V4FYN",
+    "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71Ggiw6beZL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=malica09-20",
+    "atualizado_em": "2026-09-28T18:17:15.694-03:00"
+  },
+  {
     "id": "amazon:B0GTXD1Y46",
     "titulo": "Grade de Proteção Dobrável para Cama, Barreira de Segurança Articulada, Aço, Kit com 2 Unidades, : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51TZ5B7LloL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2chmi3v",
     "atualizado_em": "2026-09-27T18:22:02.807-03:00"
-  },
-  {
-    "id": "amazon:B08Y1Z25MG",
-    "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
-    "preco": 72,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08Y1Z25MG?tag=malica09-20",
-    "atualizado_em": "2026-09-27T18:16:55.494-03:00"
   }
 ]
