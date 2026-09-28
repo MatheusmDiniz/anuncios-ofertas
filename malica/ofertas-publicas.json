@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29817222",
+    "titulo": "Bico de Mamadeira Philips Fluxo Médio Anti-Colic (3m+)Avent",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828184-MLA99592085850_122025-F.jpg",
+    "preco": 28.52,
+    "preco_anterior": 68.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QdwtN9",
+    "atualizado_em": "2026-09-28T19:18:59.626-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75488503",
     "titulo": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial Montessori Desenvolvimento Coordenação MLTM ECOM",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_924050-MLA114590666315_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2MSMfXJ",
     "atualizado_em": "2026-09-27T19:23:49.240-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79182251",
-    "titulo": "Kit Chocalho para Bebê ,para bebe recem nascido de 8 Peças Mordedor Brinquedo educativo Infantil Sensorial Colorido com slicone movimento diverso",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730821-MLA116010973966_092026-F.jpg",
-    "preco": 23.99,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/27FUe9j",
-    "atualizado_em": "2026-09-27T19:18:41.782-03:00"
   }
 ]
