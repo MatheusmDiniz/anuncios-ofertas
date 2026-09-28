@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CQMG2Y76",
+    "titulo": "Oferta para Membros Prime: Artely Mesa Apoio Bel em MDF, Off White",
+    "imagem": "https://m.media-amazon.com/images/I/91ZWqS4G8XL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CQMG2Y76?tag=malica09-20",
+    "atualizado_em": "2026-09-28T17:26:25.823-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27044594",
     "titulo": "Babador Em Silicone Com Pega-migalhas Verde Gumy Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_918471-MLA100118722173_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09KNTZXKL?tag=malica09-20",
     "atualizado_em": "2026-09-27T17:31:04.615-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34235115",
-    "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
-    "preco": 101,
-    "preco_anterior": 180.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2oJiN3n",
-    "atualizado_em": "2026-09-27T17:25:59.470-03:00"
   }
 ]
