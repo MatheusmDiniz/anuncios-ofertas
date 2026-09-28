@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN7VP5Y",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
+    "imagem": "https://m.media-amazon.com/images/I/71EGaknfKuL._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=malica09-20",
+    "atualizado_em": "2026-09-28T20:51:29.381-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB48920952",
     "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DFMYQD2M?tag=malica09-20",
     "atualizado_em": "2026-09-27T20:56:26.971-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75984769",
-    "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
-    "preco": 169,
-    "preco_anterior": 329.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2U76gEk",
-    "atualizado_em": "2026-09-27T20:51:21.005-03:00"
   }
 ]
