@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875892",
+    "titulo": "Granado Sabonete Líquido Glicerina Bebê Tradicional 500 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
+    "preco": 39.9,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2CCe49E",
+    "atualizado_em": "2026-09-28T19:39:29.603-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26615543",
     "titulo": "Capa Colchonete Carrinho Algodão Thity Percal 200 Fios Hipoalergênico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_819895-MLA100082284531_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/23CGWTn",
     "atualizado_em": "2026-09-27T19:44:33.108-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22797838",
-    "titulo": "Copo Infantil De Treinamento Com Alça 360° - Buba Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_622881-MLA100084818155_122025-F.jpg",
-    "preco": 38.9,
-    "preco_anterior": 78.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/16r5VXq",
-    "atualizado_em": "2026-09-27T19:39:25.372-03:00"
   }
 ]
