@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45456305",
+    "titulo": "Mosquiteiro Para Ninho Redutor De Berço Avulso Universal Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_619405-MLA110859253276_052026-F.jpg",
+    "preco": 22.9,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/172yw5R",
+    "atualizado_em": "2026-09-28T14:16:01.559-03:00"
+  },
+  {
     "id": "amazon:B0DVTBWQ8Q",
     "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1MQezv8",
     "atualizado_em": "2026-09-27T14:20:02.366-03:00"
-  },
-  {
-    "id": "amazon:B0FR9VKWHF",
-    "titulo": "Amaciante Vida Macia Glicerina e Camomila, 2L",
-    "imagem": "https://m.media-amazon.com/images/I/71IqqJKbtCL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FR9VKWHF?tag=malica09-20",
-    "atualizado_em": "2026-09-27T14:14:54.881-03:00"
   }
 ]
