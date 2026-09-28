@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GSRT6RKT",
+    "titulo": "Oferta: WAP Extratora e Higienizadora 3 em 1 WAP SPOT CLEANER W4 1650W Leve Compacta Alcance de 6 Metros Com 3 Acessórios (220, Volts)",
+    "imagem": "https://m.media-amazon.com/images/I/51y2KZx6sWL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GSRT6RKT?tag=malica09-20",
+    "atualizado_em": "2026-09-28T14:52:15.551-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53365359",
     "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGY6SGFY?tag=malica09-20",
     "atualizado_em": "2026-09-27T14:56:35.654-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65551477",
-    "titulo": "Sugador Aspirador Nasal Elétrico Nariz Ouvido Criança Bebe Cor Azul-claro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_996139-MLA112896350367_062026-F.jpg",
-    "preco": 39.99,
-    "preco_anterior": 78.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ENio1q",
-    "atualizado_em": "2026-09-27T14:51:05.243-03:00"
   }
 ]
