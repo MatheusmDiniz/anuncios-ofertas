@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BB4Y6ZNL",
+    "titulo": "Cosco Kids, Cadeira de Refeição Convertty 8 em 1, Cinza",
+    "imagem": "https://m.media-amazon.com/images/I/41YFCcr6QxL._AC_SL1500_.jpg",
+    "preco": 561,
+    "preco_anterior": 899,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BB4Y6ZNL?tag=malica09-20",
+    "atualizado_em": "2026-09-28T12:07:26.919-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32430194",
     "titulo": "Chocalho Mordedor Infantil Buba Leãozinho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_896240-MLA100113127169_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=malica09-20",
     "atualizado_em": "2026-09-27T12:11:36.090-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62719788",
-    "titulo": "Labirinto Magnético Coordenação Motora Pedagógico Imã Montessori Madeira Brinquedo Infantil Educativo Colorido Criança Quebra Cabeça Kizumba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923411-MLA114906766384_082026-F.jpg",
-    "preco": 36.9,
-    "preco_anterior": 69.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2EWguwZ",
-    "atualizado_em": "2026-09-27T12:06:32.565-03:00"
   }
 ]
