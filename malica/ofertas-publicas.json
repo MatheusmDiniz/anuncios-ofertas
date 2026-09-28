@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00TQCAAQW",
+    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
+    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
+    "preco": 59,
+    "preco_anterior": 100,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
+    "atualizado_em": "2026-09-28T14:31:50.060-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42639818",
     "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6556171115?tag=malica09-20",
     "atualizado_em": "2026-09-27T14:35:45.290-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41740051",
-    "titulo": "Kit 10 Miniaturas de Animais da Fazenda em Plástico Hipoalergênico",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924468-MLA99600409038_122025-F.jpg",
-    "preco": 19,
-    "preco_anterior": 59.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2yHV4QA",
-    "atualizado_em": "2026-09-27T14:30:40.403-03:00"
   }
 ]
