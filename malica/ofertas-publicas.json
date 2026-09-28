@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB59097044",
+    "titulo": "Kit 148 Blocos Imã Magnéticos Construção Montar Empilhamento Cubo Infantil Brinquedo Educativo Covei Toys",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA116378687368_092026-F.jpg",
+    "preco": 97,
+    "preco_anterior": 198.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/22MvWWY",
+    "atualizado_em": "2026-09-28T09:37:58.176-03:00"
+  },
+  {
     "id": "shopee:1822435935.58214954463",
     "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Inverno Infantil Fashion Short Blusa Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr26imqr94w499",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8V9ElRMuZr",
     "atualizado_em": "2026-09-27T09:42:37.942-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56574273",
-    "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
-    "preco": 139.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2YDfnP3",
-    "atualizado_em": "2026-09-27T09:37:32.730-03:00"
   }
 ]
