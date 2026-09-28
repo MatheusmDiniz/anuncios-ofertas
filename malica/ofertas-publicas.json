@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07M715532",
+    "titulo": "Vida Macia Amaciante Glicerina & Camomila 1L",
+    "imagem": "https://m.media-amazon.com/images/I/61-0STTvWaL._AC_SL1500_.jpg",
+    "preco": 13.18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07M715532?tag=malica09-20",
+    "atualizado_em": "2026-09-28T12:38:15.540-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875937",
     "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GRJ9XVHD?tag=malica09-20",
     "atualizado_em": "2026-09-27T12:42:35.622-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24364799",
-    "titulo": "Pratinho Em Silicone Com Ventosas Verde Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600922-MLA99840674123_112025-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 64.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2P7Qp1Q",
-    "atualizado_em": "2026-09-27T12:37:03.540-03:00"
   }
 ]
