@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58047533",
+    "titulo": "Troninho Privadinha Assento Redutor Pinico Para Desfralde Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889606-MLA96073229271_102025-F.jpg",
+    "preco": 68,
+    "preco_anterior": 125,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KQKKbo",
+    "atualizado_em": "2026-09-28T10:08:47.505-03:00"
+  },
+  {
     "id": "shopee:384552607.22797599573",
     "titulo": "1/2/3 Pares Joelheira Bebe Engatinhar Infantil Proteção Para Joelhos Crianças Meias",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd67-lwt6jv2d2ly5fa",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnYdVIraC",
     "atualizado_em": "2026-09-27T10:13:26.170-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB70393186",
-    "titulo": "Berço para Bebes Co-Leito Galzerano Colin Lado a Lado Perola Berço Regulavel Compacta Desmontavel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_842157-MLA111347295680_052026-F.jpg",
-    "preco": 739,
-    "preco_anterior": 1499.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kPjrTV",
-    "atualizado_em": "2026-09-27T10:08:20.850-03:00"
   }
 ]
