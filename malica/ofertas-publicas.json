@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B089N7K5QD",
+    "titulo": "Lillo Chupeta Funny Animais Silicone Onça -",
+    "imagem": "https://m.media-amazon.com/images/I/71mpvXTRIDL._AC_SL1500_.jpg",
+    "preco": 9,
+    "preco_anterior": 19,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B089N7K5QD?tag=malica09-20",
+    "atualizado_em": "2026-09-28T16:09:43.381-03:00"
+  },
+  {
     "id": "amazon:B0H1T7241Z",
     "titulo": "Barbie Conjunto de Brinquedo Casa Com Escorregador",
     "imagem": "https://m.media-amazon.com/images/I/61VhNgOsi8L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2LKXq54",
     "atualizado_em": "2026-09-27T16:13:47.139-03:00"
-  },
-  {
-    "id": "amazon:B0CKPQWL9V",
-    "titulo": "Kit Triplo Mamadeira Anti-Colic Philips Avent SCY119/19 125ml + 260ml + 330ml Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/71umIjQd52L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CKPQWL9V?tag=malica09-20",
-    "atualizado_em": "2026-09-27T16:08:40.047-03:00"
   }
 ]
