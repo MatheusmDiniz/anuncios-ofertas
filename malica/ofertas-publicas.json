@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BJ7ZDKR7",
+    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
+    "preco": 112,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BJ7ZDKR7?tag=malica09-20",
+    "atualizado_em": "2026-09-28T14:00:39.223-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73900526",
     "titulo": "Colflex Whey Protein Baunilha 10 Sachês 20g De Proteína Baunilha",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07S57P35S?tag=malica09-20",
     "atualizado_em": "2026-09-27T14:04:41.839-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397455",
-    "titulo": "Pomada Bepantol Baby 120g Creme Preventivo Assaduras Hipoalergênico",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_608377-MLA105016133082_012026-F.jpg",
-    "preco": 46.99,
-    "preco_anterior": 91,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1rMc5fY",
-    "atualizado_em": "2026-09-27T13:59:37.055-03:00"
   }
 ]
