@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D6T8DDV4",
+    "titulo": "Candide, Mini Brands, Disney Store, Personagens, Acima de 3 anos - Com 5 Miniaturas",
+    "imagem": "https://m.media-amazon.com/images/I/61QkogzTGBL._AC_SL1500_.jpg",
+    "preco": 53,
+    "preco_anterior": 99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D6T8DDV4?tag=malica09-20",
+    "atualizado_em": "2026-09-28T18:07:07.288-03:00"
+  },
+  {
     "id": "amazon:B0H4RCDLPS",
     "titulo": "Suporte de Banho Bebê Em Pé Chuveiro Banheira Ajuste 9 Níveis Tapete Antiderrapante Duck Maxi Baby",
     "imagem": "https://m.media-amazon.com/images/I/41mSwHjOneL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=malica09-20",
     "atualizado_em": "2026-09-27T18:11:50.601-03:00"
-  },
-  {
-    "id": "amazon:B0B7K738RQ",
-    "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
-    "preco": 0.79,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
-    "atualizado_em": "2026-09-27T18:06:47.328-03:00"
   }
 ]
