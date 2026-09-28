@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56104304",
+    "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
+    "preco": 132.62,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/11a9Z7t",
+    "atualizado_em": "2026-09-28T20:25:31.865-03:00"
+  },
+  {
     "id": "amazon:B096KDKNNQ",
     "titulo": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades | 192 unidades, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Sem fragrâncias, corantes e conservantes",
     "imagem": "https://m.media-amazon.com/images/I/713euw7uVZL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=malica09-20",
     "atualizado_em": "2026-09-27T20:30:53.453-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75637239",
-    "titulo": "3 Prendedores Para Chupeta Modelo Mola Bebê Menino Menina Verde+transparente+azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_680338-MLA114913760393_072026-F.jpg",
-    "preco": 19,
-    "preco_anterior": 31.89,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2je6En8",
-    "atualizado_em": "2026-09-27T20:25:23.609-03:00"
   }
 ]
