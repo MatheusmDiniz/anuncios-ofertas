@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17775077",
+    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
+    "preco": 17.02,
+    "preco_anterior": 28.98,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/31kz968",
+    "atualizado_em": "2026-09-28T17:31:32.835-03:00"
+  },
+  {
     "id": "amazon:B0CQMG2Y76",
     "titulo": "Oferta para Membros Prime: Artely Mesa Apoio Bel em MDF, Off White",
     "imagem": "https://m.media-amazon.com/images/I/91ZWqS4G8XL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1F8Fe9h",
     "atualizado_em": "2026-09-27T17:36:14.894-03:00"
-  },
-  {
-    "id": "amazon:B09KNTZXKL",
-    "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml",
-    "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09KNTZXKL?tag=malica09-20",
-    "atualizado_em": "2026-09-27T17:31:04.615-03:00"
   }
 ]
