@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B078HS3SKS",
+    "titulo": "Baby Dove Sabonete Líquido Da Cabeça Aos Pés Hidratação Enriquecida 400Ml",
+    "imagem": "https://m.media-amazon.com/images/I/61-Ts5VmV9L._AC_SL1500_.jpg",
+    "preco": 17.8,
+    "preco_anterior": 31.65,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B078HS3SKS?tag=malica09-20",
+    "atualizado_em": "2026-09-28T11:25:51.464-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66880692",
     "titulo": "144 Adesivo Repelente Infantil Bebê Sai Dai Mosquito Dengue Pernilongo Muriçocas Proteção 48h Citronela Natural Contra Insetos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_712037-MLA108255877102_032026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
     "atualizado_em": "2026-09-27T11:30:22.174-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67296472",
-    "titulo": "Copo Infantil Buba Azul Claro 250ml Com Alça Removível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_647622-MLA108807743930_032026-F.jpg",
-    "preco": 35.99,
-    "preco_anterior": 134.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1RERDmn",
-    "atualizado_em": "2026-09-27T11:25:17.007-03:00"
   }
 ]
