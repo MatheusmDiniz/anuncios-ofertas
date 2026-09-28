@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CHZCH5VL",
+    "titulo": "Oferta para Membros Prime: Cadeira de Descanso Bebê Musical Polar Bege 18kgs Maxi Baby",
+    "imagem": "https://m.media-amazon.com/images/I/51HNh20YHgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CHZCH5VL?tag=malica09-20",
+    "atualizado_em": "2026-09-28T18:53:21.839-03:00"
+  },
+  {
     "id": "amazon:B093QCF4PM",
     "titulo": "Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilíngue",
     "imagem": "https://m.media-amazon.com/images/I/61DxXmGX-+L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08CYD1XNH?tag=malica09-20",
     "atualizado_em": "2026-09-27T18:58:11.647-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44526168",
-    "titulo": "Kit Talher De Treinamento Em Silicone Verde Buba 15818",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_899912-MLA99594415756_122025-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 68.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Rdb9iM",
-    "atualizado_em": "2026-09-27T18:53:07.919-03:00"
   }
 ]
