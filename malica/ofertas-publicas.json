@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GR5T4RF+B08GZNWJ17+B0BXM3TSS9",
+    "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+    "imagem": "https://m.media-amazon.com/images/I/818MarZ6OOL._AC_SL1500_.jpg",
+    "preco": 64,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=malica09-20",
+    "atualizado_em": "2026-09-28T10:39:35.109-03:00"
+  },
+  {
     "id": "shopee:1443637814.51006015979",
     "titulo": "Kit 400 Toalhas Umedecidas Chameguinho Baby Lenço Umedecido Infantil Higiene Bebê Menina Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkij2fr51lhfd4",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1yKShtn",
     "atualizado_em": "2026-09-27T10:44:28.224-03:00"
-  },
-  {
-    "id": "amazon:B0BXM2Q9SQ",
-    "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 80 unidades, Estilo Roupinha, Cintura Macia, Vermelho",
-    "imagem": "https://m.media-amazon.com/images/I/81kIqYcxj+L._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BXM2Q9SQ?tag=malica09-20",
-    "atualizado_em": "2026-09-27T10:39:21.225-03:00"
   }
 ]
