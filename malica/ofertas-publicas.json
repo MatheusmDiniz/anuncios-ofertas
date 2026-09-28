@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42639818",
+    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
+    "preco": 549.9,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25gcb2g",
+    "atualizado_em": "2026-09-28T14:26:44.049-03:00"
+  },
+  {
     "id": "amazon:B0BTTLQL75",
     "titulo": "Personal Fralda Baby Total Protect Pants M, 28 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51+Uej-jA5L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2yHV4QA",
     "atualizado_em": "2026-09-27T14:30:40.403-03:00"
-  },
-  {
-    "id": "amazon:B07RPJWTM5",
-    "titulo": "New Born Faz Xixi Divertoys Branca : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/51S+iJX3P0L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07RPJWTM5?tag=malica09-20",
-    "atualizado_em": "2026-09-27T14:25:33.241-03:00"
   }
 ]
