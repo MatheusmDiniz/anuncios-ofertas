@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GWDZY+B0DV734H3T+B0DV7BN75H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 85,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-09-28T10:49:48.406-03:00"
+  },
+  {
     "id": "shopee:1109263850.23298850030",
     "titulo": "Patinho Dançante Com Luzes Pato Dançarino Musica Criança Brinquedo",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-824im-mdy0b4724mbkc6",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bZSR5L",
     "atualizado_em": "2026-09-27T10:54:39.133-03:00"
-  },
-  {
-    "id": "amazon:B095R9CKYR",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71DAxC1Pu4L._AC_SL1500_.jpg",
-    "preco": 1,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=malica09-20",
-    "atualizado_em": "2026-09-27T10:49:31.764-03:00"
   }
 ]
