@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FMS779RQ",
+    "titulo": "LEGO Friends Barco-axolote Aventureiro 42681",
+    "imagem": "https://m.media-amazon.com/images/I/81vPIwS0mPL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FMS779RQ?tag=malica09-20",
+    "atualizado_em": "2026-09-28T13:50:24.492-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38943078",
     "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F15D4CGM?tag=malica09-20",
     "atualizado_em": "2026-09-27T13:54:29.895-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19538172",
-    "titulo": "Caixa Presente Sabonete Phebo Amarelo - 8 Sabonetes 90g Cada",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_870769-MLA99924065793_112025-F.jpg",
-    "preco": 39,
-    "preco_anterior": 75,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/25r3g5o",
-    "atualizado_em": "2026-09-27T13:49:25.316-03:00"
   }
 ]
