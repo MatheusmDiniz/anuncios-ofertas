@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CJCKRYLP",
+    "titulo": "Oferta: Huggies Fralda Proteção Dia Tam. G - 52 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/61lyQc+SppL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CJCKRYLP?tag=malica09-20",
+    "atualizado_em": "2026-09-28T20:41:14.708-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB43985227",
     "titulo": "Bolsa Térmica Para Leite Materno Porta Mamadeira Com Gelo Reutilizável Conservadora De Leite Maternidade Amamentação Lancheira Térmica Para 6 Garrafas 9oz Mancro 9841 Preta Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742518-MLA100039487855_122025-F.jpg",
@@ -1638,25 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DXL6PVLQ?tag=malica09-20",
     "atualizado_em": "2026-09-27T20:46:13.643-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB49782425",
-    "titulo": "Colchão Solteiro D20 Bordado 78 X 188 X 12 Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_989848-MLA99453910550_112025-F.jpg",
-    "preco": 259,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Z7N545",
-    "atualizado_em": "2026-09-27T20:41:09.616-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56097556",
-    "titulo": "Boné New Era Curva Ny Yankees Preto Forma Grande All Black Tamanho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_670819-MLA116269092736_092026-F.jpg",
-    "preco": 130.72,
-    "preco_anterior": 219,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fQh9Aq",
-    "atualizado_em": "2026-09-27T20:36:01.558-03:00"
   }
 ]
