@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75488503",
+    "titulo": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial Montessori Desenvolvimento Coordenação MLTM ECOM",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924050-MLA114590666315_072026-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 58,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2TA1sJS",
+    "atualizado_em": "2026-09-28T19:13:52.232-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63045395",
     "titulo": "Mesa De Blocos Mesinha Atividades Infantil Didática 100peças Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_930309-MLA100484448082_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/27FUe9j",
     "atualizado_em": "2026-09-27T19:18:41.782-03:00"
-  },
-  {
-    "id": "shopee:548029260.58257405717",
-    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
-    "preco": 42.9,
-    "preco_anterior": 70.33,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5AsoOF46Ct",
-    "atualizado_em": "2026-09-27T19:13:33.224-03:00"
   }
 ]
