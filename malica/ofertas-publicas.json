@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69561731",
+    "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
+    "preco": 59.3,
+    "preco_anterior": 99.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/21x8K1E",
+    "atualizado_em": "2026-09-28T09:07:00.896-03:00"
+  },
+  {
     "id": "amazon:B0GW3ZTXHF+B0GW4633WC+B0GW48ZKYM",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W6yphCBjY",
     "atualizado_em": "2026-09-27T09:12:00.603-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB32420202",
-    "titulo": "Buba, Chocalho Mordedor BPA Free - Coelhinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_792615-MLA100091829771_122025-F.jpg",
-    "preco": 23.69,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Eb5NrM",
-    "atualizado_em": "2026-09-27T09:06:55.958-03:00"
   }
 ]
