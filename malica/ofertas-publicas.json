@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW44JM3G",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
+    "preco": 104.4,
+    "preco_anterior": 148.7,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
+    "atualizado_em": "2026-09-28T17:16:12.039-03:00"
+  },
+  {
     "id": "amazon:B0CCPXV4XK",
     "titulo": "Candide, Karaokê Temático, Infantil, Homem-Aranha, Boombox Com Microfone",
     "imagem": "https://m.media-amazon.com/images/I/61mWuRYTFzL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FT23TCW?tag=malica09-20",
     "atualizado_em": "2026-09-27T17:20:50.769-03:00"
-  },
-  {
-    "id": "amazon:B095R95SNW",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
-    "preco": 1,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
-    "atualizado_em": "2026-09-27T17:15:46.075-03:00"
   }
 ]
