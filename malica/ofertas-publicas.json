@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73604609",
+    "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944934-MLA112072218194_062026-F.jpg",
+    "preco": 34.9,
+    "preco_anterior": 59.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/15u3mgb",
+    "atualizado_em": "2026-09-27T21:06:43.355-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26851070",
     "titulo": "Banheira Infantil Burigotto Splash 10 L, Suporte e Redutor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qxg4eg",
     "atualizado_em": "2026-09-26T21:08:48.083-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536231",
-    "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
-    "preco": 399.99,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hhY1XL",
-    "atualizado_em": "2026-09-26T21:03:40.305-03:00"
   }
 ]
