@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58964762",
+    "titulo": "Caranguejo Fujão Bebê Brinquedo Interativo Infantil Musica",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911010-MLA112462745805_052026-F.jpg",
+    "preco": 25.9,
+    "preco_anterior": 50,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1r6jovm",
+    "atualizado_em": "2026-09-28T11:10:24.790-03:00"
+  },
+  {
     "id": "shopee:346744584.18899210728",
     "titulo": "Grade de cama NORMAL E BOX - Protetor Para Cama - PEQUENA, MÉDIA E GRANDE Criancas Reforçada Lavável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mal82s176n099a",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xXuLrP",
     "atualizado_em": "2026-09-27T11:15:04.995-03:00"
-  },
-  {
-    "id": "amazon:B0D3HY8H6K",
-    "titulo": "Brinquedo Mini Jardim Mágico Encantado de Sereia Faber-Castell Creativity For Kids : Amazon.com.br: Jardim e Piscina",
-    "imagem": "https://m.media-amazon.com/images/I/913H7bgu4IL._AC_SL1500_.jpg",
-    "preco": 71,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D3HY8H6K?tag=malica09-20",
-    "atualizado_em": "2026-09-27T11:09:56.051-03:00"
   }
 ]
