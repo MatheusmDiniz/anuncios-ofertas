@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42111901",
+    "titulo": "Kit Portátil Para Limpeza De Mamadeira 5 Em 1 Escova Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601047-MLA99940510827_112025-F.jpg",
+    "preco": 77.99,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oVc6pi",
+    "atualizado_em": "2026-09-28T12:53:42.927-03:00"
+  },
+  {
     "id": "amazon:B0CHZCWLV6",
     "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
     "imagem": "https://m.media-amazon.com/images/I/41BwxdG9AnL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/14wV8j1",
     "atualizado_em": "2026-09-27T12:58:24.513-03:00"
-  },
-  {
-    "id": "amazon:B07FN1XPNW",
-    "titulo": "Lenços Huggies Higiene Superior Limpam 2x Mais 6 x 48 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71rS1wIq+bL._AC_SL1500_.jpg",
-    "preco": 48,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FN1XPNW?tag=malica09-20",
-    "atualizado_em": "2026-09-27T12:53:14.783-03:00"
   }
 ]
