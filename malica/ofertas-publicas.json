@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0845Y8VWJ",
+    "titulo": "Mustela Shampoo Recém-Nascido 150 ml - Xampu textura Espuma, Previne e Elimina a Crosta Láctea dos Bebês - Vegano, feito com 99% de ingredientes de origem natural - Mustela Bebê e Criança",
+    "imagem": "https://m.media-amazon.com/images/I/41F0QUlisCL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0845Y8VWJ?tag=malica09-20",
+    "atualizado_em": "2026-09-28T15:43:52.852-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26693140",
     "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DTNP5GX?tag=malica09-20",
     "atualizado_em": "2026-09-27T15:48:13.721-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19531106",
-    "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
-    "preco": 280.99,
-    "preco_anterior": 599.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2uiuBZ6",
-    "atualizado_em": "2026-09-27T15:43:11.028-03:00"
   }
 ]
