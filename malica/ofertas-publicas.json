@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63045395",
+    "titulo": "Mesa De Blocos Mesinha Atividades Infantil Didática 100peças Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930309-MLA100484448082_122025-F.jpg",
+    "preco": 38.9,
+    "preco_anterior": 129.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1rEBdjq",
+    "atualizado_em": "2026-09-28T19:08:43.973-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77496641",
     "titulo": "Kit 4 Travas de Segurança Para Geladeira e Gaveta Adesiva Infantil Branca PazPort",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_602931-MLA114903892846_082026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AsoOF46Ct",
     "atualizado_em": "2026-09-27T19:13:33.224-03:00"
-  },
-  {
-    "id": "shopee:1739680653.58204448907",
-    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
-    "preco": 24.9,
-    "preco_anterior": 75.45,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8fSgYfQJ7N",
-    "atualizado_em": "2026-09-27T19:08:28.198-03:00"
   }
 ]
