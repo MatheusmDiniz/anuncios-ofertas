@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0058NC0UW",
+    "titulo": "DINOSSAURO INTERATIVO, PRIMAL HATCH, SUNNY",
+    "imagem": "https://m.media-amazon.com/images/I/71-iJxe+qrL._AC_SL1500_.jpg",
+    "preco": 449.1,
+    "preco_anterior": 569,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0058NC0UW?tag=malica09-20",
+    "atualizado_em": "2026-09-28T13:29:54.735-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69331466",
     "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D8JVLYKT?tag=malica09-20",
     "atualizado_em": "2026-09-27T13:34:03.762-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB32257502",
-    "titulo": "Trocador Anatômico De Cômoda Americano 200 Fios 68x45x10 Cor Bege 2165-palha C Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620567-MLA96422860770_102025-F.jpg",
-    "preco": 58.49,
-    "preco_anterior": 130,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kZFHRN",
-    "atualizado_em": "2026-09-27T13:28:59.038-03:00"
   }
 ]
