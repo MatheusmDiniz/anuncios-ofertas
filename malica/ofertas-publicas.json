@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B004H49BCI",
+    "titulo": "Oferta: Boneca Barbie Vestido Surpresa Mattel. Look estilo barbiecore com vestido rosa estampado e sapatos fashion. Para crianças a partir dos 3 anos.",
+    "imagem": "https://m.media-amazon.com/images/I/61FpU0Mz+gL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B004H49BCI?tag=malica09-20",
+    "atualizado_em": "2026-09-28T15:23:26.337-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56211837",
     "titulo": "Kit Judy Home Com Boneca Judy Casinha Completa Rosa Infantil",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_878108-MLA99622811138_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08GZBDWF4?tag=malica09-20",
     "atualizado_em": "2026-09-27T15:27:19.127-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65892455",
-    "titulo": "Brastoy Kit 9 Brinquedos Montessori Pedagogico De Madeira Multicolorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_937204-MLA107485085225_022026-F.jpg",
-    "preco": 90.74,
-    "preco_anterior": 160,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1U9w4eb",
-    "atualizado_em": "2026-09-27T15:22:13.798-03:00"
   }
 ]
