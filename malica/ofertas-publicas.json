@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26693140",
+    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
+    "preco": 78.99,
+    "preco_anterior": 170.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/138DV6n",
+    "atualizado_em": "2026-09-28T15:38:47.904-03:00"
+  },
+  {
     "id": "amazon:B0DR3N5BV6",
     "titulo": "Oferta: Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
     "imagem": "https://m.media-amazon.com/images/I/710kBoOgaEL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uiuBZ6",
     "atualizado_em": "2026-09-27T15:43:11.028-03:00"
-  },
-  {
-    "id": "amazon:B0CYLY287R",
-    "titulo": "Shampoo Huggies Kids Brilho Mágico 360 ml",
-    "imagem": "https://m.media-amazon.com/images/I/61AfAY+8DWL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CYLY287R?tag=malica09-20",
-    "atualizado_em": "2026-09-27T15:38:01.736-03:00"
   }
 ]
