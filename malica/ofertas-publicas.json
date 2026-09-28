@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39156395",
+    "titulo": "Almofada Para Amamentação Feeding G",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_989397-MLA95666849580_102025-F.jpg",
+    "preco": 169,
+    "preco_anterior": 294.41,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZZgQRT",
+    "atualizado_em": "2026-09-28T08:36:17.527-03:00"
+  },
+  {
     "id": "amazon:B0D4NN2W72",
     "titulo": "Kit Aptanutri Premium 3 Fórmula Infantil em Pó para Crianças a partir de 1 Ano, Contém Leite – 800 g (Kit com 4 Unidades)",
     "imagem": "https://m.media-amazon.com/images/I/61kIg0LhZWL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1SZdqFJ",
     "atualizado_em": "2026-09-27T08:36:19.196-03:00"
-  },
-  {
-    "id": "amazon:B077BY84XX",
-    "titulo": "Sabonete Líquido de Glicerina Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41CGJiuDeKL._AC_SL1500_.jpg",
-    "preco": 21.59,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=malica09-20",
-    "atualizado_em": "2026-09-27T08:31:10.755-03:00"
   }
 ]
