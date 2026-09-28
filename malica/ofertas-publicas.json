@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DYG9DDLV",
+    "titulo": "Creme para Assadura João e Maria 40g",
+    "imagem": "https://m.media-amazon.com/images/I/61MsvDG0cgL._AC_SL1500_.jpg",
+    "preco": 9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DYG9DDLV?tag=malica09-20",
+    "atualizado_em": "2026-09-28T16:45:42.651-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61118769",
     "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CN78J7WM?tag=malica09-20",
     "atualizado_em": "2026-09-27T16:49:52.292-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61794290",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
-    "preco": 445,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pF34v1",
-    "atualizado_em": "2026-09-27T16:44:48.279-03:00"
   }
 ]
