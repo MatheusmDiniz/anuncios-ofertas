@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZPPR52L",
+    "titulo": "Macacão de dormir para bebês 2-pack Neutral Fleece Footed Sleep and Play Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81c23pu3BAL._AC_SL1500_.jpg",
+    "preco": 147,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZPPR52L?tag=malica09-20",
+    "atualizado_em": "2026-09-28T19:29:12.594-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77605344",
     "titulo": "Banheira Bebe Dobrável Com Termômetro Almofada Azul Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_672653-MLA114996563990_082026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2agXd9d",
     "atualizado_em": "2026-09-27T19:34:17.185-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56094914",
-    "titulo": "Boné Trucker Masculino Liso com Aba Curva Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_691796-MLA99611998710_122025-F.jpg",
-    "preco": 19,
-    "preco_anterior": 39,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1e4tTGK",
-    "atualizado_em": "2026-09-27T19:29:09.623-03:00"
   }
 ]
