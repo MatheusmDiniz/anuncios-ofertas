@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74177687",
+    "titulo": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_815286-MLA112368898246_062026-F.jpg",
+    "preco": 31,
+    "preco_anterior": 57,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2s1svu6",
+    "atualizado_em": "2026-09-28T09:27:38.824-03:00"
+  },
+  {
     "id": "amazon:B07ZQVVP87",
     "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
     "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70KQI0swJn",
     "atualizado_em": "2026-09-27T09:32:25.188-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72681875",
-    "titulo": "Toalha De Bebe Infantil Macia Com Capuz Grande Forrada Cor Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777179-MLA112817305161_062026-F.jpg",
-    "preco": 24,
-    "preco_anterior": 45,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zxKVtA",
-    "atualizado_em": "2026-09-27T09:27:20.946-03:00"
   }
 ]
