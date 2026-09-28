@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73900526",
+    "titulo": "Colflex Whey Protein Baunilha 10 Sachês 20g De Proteína Baunilha",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
+    "preco": 97.09,
+    "preco_anterior": 179.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1FTYsp8",
+    "atualizado_em": "2026-09-28T13:55:33.774-03:00"
+  },
+  {
     "id": "amazon:B0FMS779RQ",
     "titulo": "LEGO Friends Barco-axolote Aventureiro 42681",
     "imagem": "https://m.media-amazon.com/images/I/81vPIwS0mPL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1rMc5fY",
     "atualizado_em": "2026-09-27T13:59:37.055-03:00"
-  },
-  {
-    "id": "amazon:B0F15D4CGM",
-    "titulo": "Cadeirinha Infantil para Carro Fisher-Price GrowStages All Stages i-Size Isofix 40–150 cm – BB724",
-    "imagem": "https://m.media-amazon.com/images/I/51aalJqSrbL._AC_SL1500_.jpg",
-    "preco": 949,
-    "preco_anterior": 1599,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F15D4CGM?tag=malica09-20",
-    "atualizado_em": "2026-09-27T13:54:29.895-03:00"
   }
 ]
