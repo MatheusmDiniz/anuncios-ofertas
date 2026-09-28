@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35340733",
+    "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
+    "preco": 505,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2LRZ87J",
+    "atualizado_em": "2026-09-28T08:15:46.320-03:00"
+  },
+  {
     "id": "amazon:B0BFXJ12QQ",
     "titulo": "Huggies Fralda Supreme Care M 196 Un",
     "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
     "atualizado_em": "2026-09-27T08:20:59.149-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27768633",
-    "titulo": "Buba Squeeze Rosa Chiclete Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700130-MLA99600178810_122025-F.jpg",
-    "preco": 33.48,
-    "preco_anterior": 57.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2J3AUAN",
-    "atualizado_em": "2026-09-27T08:15:29.752-03:00"
   }
 ]
