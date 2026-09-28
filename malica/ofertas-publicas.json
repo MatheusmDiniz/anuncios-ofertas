@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73076611",
+    "titulo": "Kit Chocalho Mordedor Sensorial Para Bebê Coloridos 8 Peças Colorido Infantil",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_921921-MLA117328843993_092026-F.jpg",
+    "preco": 26,
+    "preco_anterior": 49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RqNrf7",
+    "atualizado_em": "2026-09-28T15:28:34.897-03:00"
+  },
+  {
     "id": "amazon:B004H49BCI",
     "titulo": "Oferta: Boneca Barbie Vestido Surpresa Mattel. Look estilo barbiecore com vestido rosa estampado e sapatos fashion. Para crianças a partir dos 3 anos.",
     "imagem": "https://m.media-amazon.com/images/I/61FpU0Mz+gL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28AtUPJ",
     "atualizado_em": "2026-09-27T15:32:28.402-03:00"
-  },
-  {
-    "id": "amazon:B08GZBDWF4",
-    "titulo": "Sabonete Líquido de Glicerina Huggies Extra Suave 600 ml",
-    "imagem": "https://m.media-amazon.com/images/I/51gUvebZzeL._AC_SL1500_.jpg",
-    "preco": 33,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08GZBDWF4?tag=malica09-20",
-    "atualizado_em": "2026-09-27T15:27:19.127-03:00"
   }
 ]
