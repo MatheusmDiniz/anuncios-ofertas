@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75537532",
+    "titulo": "Naninha Ursinho Algodão Doce Bebê Antialérgica Azul Recém-Nascido 0 a 24 Meses Textura Macia Lavável na Máquina Adequada para Secadora 30x35cm Kit com 1 Peça Presente Chá de Bebê Enxoval",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776583-MLA114307078230_082026-F.jpg",
+    "preco": 26.9,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2FNuadK",
+    "atualizado_em": "2026-09-28T18:22:24.609-03:00"
+  },
+  {
     "id": "amazon:B0D51V4FYN",
     "titulo": "MamyPoko Fralda-Calça Superproteção XG 24 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71Ggiw6beZL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
     "atualizado_em": "2026-09-27T18:27:33.964-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27672036",
-    "titulo": "Saco Esterilizador Reutilizável Para Micro-ondas 09814 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955376-MLA100091833799_122025-F.jpg",
-    "preco": 24.49,
-    "preco_anterior": 47.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2chmi3v",
-    "atualizado_em": "2026-09-27T18:22:02.807-03:00"
   }
 ]
