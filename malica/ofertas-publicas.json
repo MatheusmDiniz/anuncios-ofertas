@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875937",
+    "titulo": "Sabonete Líquido Para Recém-nascido 200ml Johnson's Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
+    "preco": 19.73,
+    "preco_anterior": 34.49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/12NvazT",
+    "atualizado_em": "2026-09-28T12:33:09.213-03:00"
+  },
+  {
     "id": "amazon:B089YLCYBZ",
     "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Transparente, 30g | Sem Fragrância, Com Lanolina",
     "imagem": "https://m.media-amazon.com/images/I/518FaPzfPCL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2P7Qp1Q",
     "atualizado_em": "2026-09-27T12:37:03.540-03:00"
-  },
-  {
-    "id": "amazon:B07YVNBQ6Z",
-    "titulo": "Mustela Creme Estrias 250ml - Hidrata e Acalma a Sensação de Coceira - Com 96% de Ingredientes de Origem Natural - Mustela Maternité",
-    "imagem": "https://m.media-amazon.com/images/I/41AmZQHF3VL._AC_SL1500_.jpg",
-    "preco": 166,
-    "preco_anterior": 238,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07YVNBQ6Z?tag=malica09-20",
-    "atualizado_em": "2026-09-27T12:31:55.378-03:00"
   }
 ]
