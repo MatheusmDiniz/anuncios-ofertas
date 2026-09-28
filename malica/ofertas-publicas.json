@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63934601",
+    "titulo": "Mini Colchão Para Berço Moises 90x40x7 Cm Espuma D18 Ursinhos Conforto E Segurança Para O Bebê",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827679-MLA103367239438_012026-F.jpg",
+    "preco": 37.89,
+    "preco_anterior": 69,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1da7QSN",
+    "atualizado_em": "2026-09-28T15:49:01.501-03:00"
+  },
+  {
     "id": "amazon:B0845Y8VWJ",
     "titulo": "Mustela Shampoo Recém-Nascido 150 ml - Xampu textura Espuma, Previne e Elimina a Crosta Láctea dos Bebês - Vegano, feito com 99% de ingredientes de origem natural - Mustela Bebê e Criança",
     "imagem": "https://m.media-amazon.com/images/I/41F0QUlisCL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2tZyR46",
     "atualizado_em": "2026-09-27T15:53:23.331-03:00"
-  },
-  {
-    "id": "amazon:B07DTNP5GX",
-    "titulo": "Gel Higienizante 70% Classic 500Ml, GIOVANNA BABY, Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/61ilbmrFh3L._AC_SL1500_.jpg",
-    "preco": 15.29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DTNP5GX?tag=malica09-20",
-    "atualizado_em": "2026-09-27T15:48:13.721-03:00"
   }
 ]
