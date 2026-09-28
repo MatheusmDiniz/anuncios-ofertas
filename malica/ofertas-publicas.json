@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25120404",
+    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
+    "preco": 92.9,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1x7jQ2H",
+    "atualizado_em": "2026-09-28T19:49:45.044-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50912250",
     "titulo": "Berço Moisés Rubi Funcional Maxi do Brasil 5 em 1",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_864911-MLA99558047620_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CXY3T338?tag=malica09-20",
     "atualizado_em": "2026-09-27T19:54:43.456-03:00"
-  },
-  {
-    "id": "amazon:B07D2FKWBT",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
-    "preco": 18.74,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
-    "atualizado_em": "2026-09-27T19:49:38.592-03:00"
   }
 ]
