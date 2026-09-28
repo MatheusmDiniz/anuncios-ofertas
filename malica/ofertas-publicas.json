@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:346744584.18899210728",
+    "titulo": "Grade de cama NORMAL E BOX - Protetor Para Cama - PEQUENA, MÉDIA E GRANDE Criancas Reforçada Lavável",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mal82s176n099a",
+    "preco": 34.79,
+    "preco_anterior": 57.03,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/60RwybKa1C",
+    "atualizado_em": "2026-09-28T11:05:13.883-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36385683",
     "titulo": "Kit Alimentação Bebê Silicone Introdução Alimentar Infantil Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_896750-MLA96505053943_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D3HY8H6K?tag=malica09-20",
     "atualizado_em": "2026-09-27T11:09:56.051-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53258842",
-    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
-    "preco": 259,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ovyxhc",
-    "atualizado_em": "2026-09-27T11:04:51.086-03:00"
   }
 ]
