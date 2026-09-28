@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19723931",
+    "titulo": "Conjunto Passeio Garrafa 250ml + Pote Para Leite Em Po Rosa Bebê Sanremo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838648-MLA100096087405_122025-F.jpg",
+    "preco": 56.88,
+    "preco_anterior": 111,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2rPxtAp",
+    "atualizado_em": "2026-09-28T20:10:10.231-03:00"
+  },
+  {
     "id": "shopee:1365993167.58209968589",
     "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=malica09-20",
     "atualizado_em": "2026-09-27T20:15:07.468-03:00"
-  },
-  {
-    "id": "shopee:1017646777.21899901744",
-    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
-    "preco": 134.98,
-    "preco_anterior": 198.5,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/905WxHP2RT",
-    "atualizado_em": "2026-09-27T20:10:02.686-03:00"
   }
 ]
