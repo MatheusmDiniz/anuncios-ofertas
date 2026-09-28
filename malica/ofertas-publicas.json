@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08K4L37HD+B09TF36S57",
+    "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
+    "preco": 151,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
+    "atualizado_em": "2026-09-28T11:46:51.545-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26981196",
     "titulo": "Volante Fom-Fom Elka para Bebê com Sons – Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932224-MLA99505981046_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DY2RZCGH?tag=malica09-20",
     "atualizado_em": "2026-09-27T11:50:46.563-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46014518",
-    "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
-    "preco": 249.9,
-    "preco_anterior": 765.96,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2jbhnwM",
-    "atualizado_em": "2026-09-27T11:45:41.901-03:00"
   }
 ]
