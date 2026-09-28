@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B079VQDMRK",
+    "titulo": "Bepantol Derma Hidratante Multirrestaurador para Pele Seca 20g | Multirrestaurador 20g, Com dexpantenol, Pele seca a extrasseca, Textura densa, Áreas ressecadas, Dermatologicamente testado",
+    "imagem": "https://m.media-amazon.com/images/I/71pzppPONVL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B079VQDMRK?tag=malica09-20",
+    "atualizado_em": "2026-09-28T15:54:07.370-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63934601",
     "titulo": "Mini Colchão Para Berço Moises 90x40x7 Cm Espuma D18 Ursinhos Conforto E Segurança Para O Bebê",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_827679-MLA103367239438_012026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D6BXNRZQ?tag=malica09-20",
     "atualizado_em": "2026-09-27T15:58:28.454-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28643543",
-    "titulo": "Sabonete Johnson's Baby Derma Protect 200 mL Sem Fragrância",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678829-MLA99934739429_112025-F.jpg",
-    "preco": 48.99,
-    "preco_anterior": 83.37,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tZyR46",
-    "atualizado_em": "2026-09-27T15:53:23.331-03:00"
   }
 ]
