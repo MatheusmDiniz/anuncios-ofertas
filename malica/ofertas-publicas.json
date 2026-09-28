@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YMQBNRK",
+    "titulo": "Cosco Kids, Berço Co-bed Pluggy, 0 a 9kg, Cinza Claro",
+    "imagem": "https://m.media-amazon.com/images/I/51NO0IWHOgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YMQBNRK?tag=malica09-20",
+    "atualizado_em": "2026-09-28T08:41:23.194-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39156395",
     "titulo": "Almofada Para Amamentação Feeding G",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_989397-MLA95666849580_102025-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
     "atualizado_em": "2026-09-27T08:41:23.927-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44895132",
-    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
-    "preco": 56,
-    "preco_anterior": 249,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1SZdqFJ",
-    "atualizado_em": "2026-09-27T08:36:19.196-03:00"
   }
 ]
