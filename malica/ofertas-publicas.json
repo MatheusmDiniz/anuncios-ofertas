@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75491066",
+    "titulo": "Agitador De Mamadeira Misturador Automático 3 Modos Elétrico Com Display Digital Bpa Free Para Bebe Aquecedor De Mamadeira Preparador De Mamadeira Quicko",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_667738-MLA114372304784_082026-F.jpg",
+    "preco": 64.26,
+    "preco_anterior": 129.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Xr9S1B",
+    "atualizado_em": "2026-09-27T21:11:51.462-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73604609",
     "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_944934-MLA112072218194_062026-F.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/325sAj3",
     "atualizado_em": "2026-09-26T21:13:56.380-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47743053",
-    "titulo": "Escova De Dente Mordedor Primeiro Dentinhos 0 A 2 Anos Buba Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_840934-MLA83573806709_042025-F.jpg",
-    "preco": 16.2,
-    "preco_anterior": 29.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1qxg4eg",
-    "atualizado_em": "2026-09-26T21:08:48.083-03:00"
   }
 ]
