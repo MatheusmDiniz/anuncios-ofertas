@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DR3N5BV6",
+    "titulo": "Oferta: Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
+    "imagem": "https://m.media-amazon.com/images/I/710kBoOgaEL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DR3N5BV6?tag=malica09-20",
+    "atualizado_em": "2026-09-28T15:33:39.808-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73076611",
     "titulo": "Kit Chocalho Mordedor Sensorial Para Bebê Coloridos 8 Peças Colorido Infantil",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_921921-MLA117328843993_092026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CYLY287R?tag=malica09-20",
     "atualizado_em": "2026-09-27T15:38:01.736-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73212051",
-    "titulo": "Boneca Reborn Bebê Realista Vinil Siliconado Récem-nascida",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600577-MLA111972112470_062026-F.jpg",
-    "preco": 78.9,
-    "preco_anterior": 219.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28AtUPJ",
-    "atualizado_em": "2026-09-27T15:32:28.402-03:00"
   }
 ]
