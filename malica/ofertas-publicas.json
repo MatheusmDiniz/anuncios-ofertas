@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1452530060.19299611725",
+    "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
+    "preco": 19.99,
+    "preco_anterior": 39.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50ZPzTir48",
+    "atualizado_em": "2026-09-28T13:03:55.193-03:00"
+  },
+  {
     "id": "amazon:B0D6C272X7",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/71zGUIKAcCL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EqoTWV",
     "atualizado_em": "2026-09-27T13:08:36.539-03:00"
-  },
-  {
-    "id": "amazon:B0CPN7TJ4F",
-    "titulo": "Oferta: Maxi Baby Carrinho de Bebê Guarda Chuva LINK Até 15kgs (Preto)",
-    "imagem": "https://m.media-amazon.com/images/I/51m2jYYIG6L._AC_SL1500_.jpg",
-    "preco": 313,
-    "preco_anterior": 469,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPN7TJ4F?tag=malica09-20",
-    "atualizado_em": "2026-09-27T13:03:29.190-03:00"
   }
 ]
