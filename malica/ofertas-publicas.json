@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09WYY6QH2",
+    "titulo": "Rola Bola Infantil 18 Peças Blocolândia Dismat",
+    "imagem": "https://m.media-amazon.com/images/I/61BrTreKBPL._AC_SL1500_.jpg",
+    "preco": 38,
+    "preco_anterior": 65,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09WYY6QH2?tag=malica09-20",
+    "atualizado_em": "2026-09-28T14:42:03.493-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20948448",
     "titulo": "Xô Febre Compressa Refrescante - Baixar Febre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_964227-MLU69443995477_052023-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=malica09-20",
     "atualizado_em": "2026-09-27T14:45:57.949-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24635596",
-    "titulo": "Aspirador Nasal Buba Transparente Com Sucção Para Nariz Entupido Bebe",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684048-MLA99589673884_122025-F.jpg",
-    "preco": 21,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2p38B2T",
-    "atualizado_em": "2026-09-27T14:40:52.629-03:00"
   }
 ]
