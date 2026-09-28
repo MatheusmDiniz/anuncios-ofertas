@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3ZTXHF+B0GW4633WC+B0GW48ZKYM",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
+    "preco": 88,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=malica09-20",
+    "atualizado_em": "2026-09-28T09:01:51.199-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62933980",
     "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Eb5NrM",
     "atualizado_em": "2026-09-27T09:06:55.958-03:00"
-  },
-  {
-    "id": "shopee:396723953.40026562019",
-    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
-    "preco": 58.89,
-    "preco_anterior": 99.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4qFxzd5Msn",
-    "atualizado_em": "2026-09-27T09:01:47.660-03:00"
   }
 ]
