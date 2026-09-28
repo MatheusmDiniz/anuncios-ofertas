@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093QCF4PM",
+    "titulo": "Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilíngue",
+    "imagem": "https://m.media-amazon.com/images/I/61DxXmGX-+L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093QCF4PM?tag=malica09-20",
+    "atualizado_em": "2026-09-28T18:48:16.733-03:00"
+  },
+  {
     "id": "amazon:B0BJL39X4P",
     "titulo": "Oferta: WAP Vaporizador de Roupas e Tecidos WAPORE FAST 1250 com Escova, Capacidade de 200ml, Vapor Quente 160°C, 1250W, 127V",
     "imagem": "https://m.media-amazon.com/images/I/71uCZqf36hL._AC_SL1500_.jpg",
@@ -1638,25 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Rdb9iM",
     "atualizado_em": "2026-09-27T18:53:07.919-03:00"
-  },
-  {
-    "id": "amazon:B07GR5T4RF",
-    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
-    "imagem": "https://m.media-amazon.com/images/I/81XM69oIvoL._AC_SL1500_.jpg",
-    "preco": 80,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=malica09-20",
-    "atualizado_em": "2026-09-27T18:48:00.363-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28487537",
-    "titulo": "Berço Sonata Cor Cinza - Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
-    "preco": 374.99,
-    "preco_anterior": 651.23,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2N9M5Ks",
-    "atualizado_em": "2026-09-27T18:42:56.080-03:00"
   }
 ]
