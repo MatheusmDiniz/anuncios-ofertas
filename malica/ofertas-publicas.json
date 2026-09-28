@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CCF1WTB1",
+    "titulo": "Fralda Babysec Premium Hiper XG 56 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61J7H48T91L._AC_SL1500_.jpg",
+    "preco": 60,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=malica09-20",
+    "atualizado_em": "2026-09-28T08:51:37.095-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65313748",
     "titulo": "Tapete Bebê Emborrachado Dobrável Proteção Dupla Face Selva",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_818382-MLA106046813850_022026-F.jpg",
@@ -1638,25 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2npYksY",
     "atualizado_em": "2026-09-27T08:56:42.908-03:00"
-  },
-  {
-    "id": "shopee:1361476561.19397991697",
-    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
-    "preco": 24.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7fa9MpU795",
-    "atualizado_em": "2026-09-27T08:51:35.943-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22323833",
-    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
-    "preco": 95.9,
-    "preco_anterior": 185.57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yoBH4h",
-    "atualizado_em": "2026-09-27T08:46:31.077-03:00"
   }
 ]
