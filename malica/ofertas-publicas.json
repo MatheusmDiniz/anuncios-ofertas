@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44349733",
+    "titulo": "Kit Adesivo Repelente para Bebê e Crianças com Óleo de Citronela",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811340-MLA113247299708_072026-F.jpg",
+    "preco": 18.9,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2iJmezz",
+    "atualizado_em": "2026-09-28T20:15:18.258-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19723931",
     "titulo": "Conjunto Passeio Garrafa 250ml + Pote Para Leite Em Po Rosa Bebê Sanremo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_838648-MLA100096087405_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70KSZmF9Bp",
     "atualizado_em": "2026-09-27T20:20:15.715-03:00"
-  },
-  {
-    "id": "amazon:B0BXMV4ZXW",
-    "titulo": "Oferta: Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
-    "imagem": "https://m.media-amazon.com/images/I/615AvAaOM8L._AC_SL1500_.jpg",
-    "preco": 698,
-    "preco_anterior": 828,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BXMV4ZXW?tag=malica09-20",
-    "atualizado_em": "2026-09-27T20:15:07.468-03:00"
   }
 ]
