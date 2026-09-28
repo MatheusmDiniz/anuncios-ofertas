@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FH35LBJ8",
+    "titulo": "Peppa Pig Bebê Evie Colo e Soneca Boneca Interativa",
+    "imagem": "https://m.media-amazon.com/images/I/611u5v9DiPL._AC_SL1500_.jpg",
+    "preco": 196.97,
+    "preco_anterior": 299.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FH35LBJ8?tag=malica09-20",
+    "atualizado_em": "2026-09-28T11:57:11.341-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21283759",
     "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
