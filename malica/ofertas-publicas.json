@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B079VQTRM7",
+    "titulo": "Bio Oil Bio",
+    "imagem": "https://m.media-amazon.com/images/I/41UeIwJ3WBL._AC_SL1500_.jpg",
+    "preco": 51,
+    "preco_anterior": 115,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B079VQTRM7?tag=malica09-20",
+    "atualizado_em": "2026-09-28T16:50:48.064-03:00"
+  },
+  {
     "id": "amazon:B0DYG9DDLV",
     "titulo": "Creme para Assadura João e Maria 40g",
     "imagem": "https://m.media-amazon.com/images/I/61MsvDG0cgL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2MjtBx6",
     "atualizado_em": "2026-09-27T16:55:00.036-03:00"
-  },
-  {
-    "id": "amazon:B0CN78J7WM",
-    "titulo": "Creme Contra Assaduras Nebacetin Baby Prevenção - Pele Macia Hidratada e Saudável, Para Peles Sensíveis e Delicadas, Creme de Assadura Bebê - 30g",
-    "imagem": "https://m.media-amazon.com/images/I/71MiosSauyL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CN78J7WM?tag=malica09-20",
-    "atualizado_em": "2026-09-27T16:49:52.292-03:00"
   }
 ]
