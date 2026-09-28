@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38943078",
+    "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
+    "preco": 225.9,
+    "preco_anterior": 399.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/12iT7nu",
+    "atualizado_em": "2026-09-28T13:45:18.848-03:00"
+  },
+  {
     "id": "amazon:B0CHZ9XXPX",
     "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 40g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
     "imagem": "https://m.media-amazon.com/images/I/51QMN1Euz1L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/25r3g5o",
     "atualizado_em": "2026-09-27T13:49:25.316-03:00"
-  },
-  {
-    "id": "amazon:B0CYP2141M",
-    "titulo": "Oferta: Brinox - Frigideira 20X4Cm 0,8L Ceramic Life Suprema - Vanilla",
-    "imagem": "https://m.media-amazon.com/images/I/31oO3OWJKIL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CYP2141M?tag=malica09-20",
-    "atualizado_em": "2026-09-27T13:44:17.218-03:00"
   }
 ]
