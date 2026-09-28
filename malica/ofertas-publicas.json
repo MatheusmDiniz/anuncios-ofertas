@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17875637",
+    "titulo": "Huggies Sabonete Líquido Baby Chá de Camomila 200mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889487-MLA116125536455_082026-F.jpg",
+    "preco": 20.39,
+    "preco_anterior": 44.04,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XLwZv2",
+    "atualizado_em": "2026-09-28T20:56:39.026-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP5Y",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
     "imagem": "https://m.media-amazon.com/images/I/71EGaknfKuL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZobV6E",
     "atualizado_em": "2026-09-27T21:01:34.720-03:00"
-  },
-  {
-    "id": "amazon:B0DFMYQD2M",
-    "titulo": "Kit Coletor De Leite Materno Em Silicone + Saco Para Armazenar Leite Materno Branco : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/61hdWZdUc9L._AC_SL1500_.jpg",
-    "preco": 80,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DFMYQD2M?tag=malica09-20",
-    "atualizado_em": "2026-09-27T20:56:26.971-03:00"
   }
 ]
