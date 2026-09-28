@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1109263850.23298850030",
+    "titulo": "Patinho Dançante Com Luzes Pato Dançarino Musica Criança Brinquedo",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824im-mdy0b4724mbkc6",
+    "preco": 36.9,
+    "preco_anterior": 80.22,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8V9Hx97sKz",
+    "atualizado_em": "2026-09-28T10:44:42.168-03:00"
+  },
+  {
     "id": "amazon:B07GR5T4RF+B08GZNWJ17+B0BXM3TSS9",
     "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
     "imagem": "https://m.media-amazon.com/images/I/818MarZ6OOL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=malica09-20",
     "atualizado_em": "2026-09-27T10:49:31.764-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22953629",
-    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
-    "preco": 279.9,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yKShtn",
-    "atualizado_em": "2026-09-27T10:44:28.224-03:00"
   }
 ]
