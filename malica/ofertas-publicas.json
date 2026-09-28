@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19486730",
+    "titulo": "Biscoito Papapá Crocante Abóbora e Maçã Sem Glúten 36g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_960590-MLA115350004954_082026-F.jpg",
+    "preco": 16.52,
+    "preco_anterior": 28,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1XjnBqA",
+    "atualizado_em": "2026-09-28T13:14:09.745-03:00"
+  },
+  {
     "id": "amazon:B085CZ2F4J",
     "titulo": "Sabonete Líquido de Glicerina Johnson",
     "imagem": "https://m.media-amazon.com/images/I/71XwqjMGZsL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/15tENT1",
     "atualizado_em": "2026-09-27T13:18:47.956-03:00"
-  },
-  {
-    "id": "amazon:B09MVD8384",
-    "titulo": "Oferta: Kit Toalha Umedecida Hora Da Troca Turma Da Mônica 176 unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61TH-AyESKL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09MVD8384?tag=malica09-20",
-    "atualizado_em": "2026-09-27T13:13:40.292-03:00"
   }
 ]
