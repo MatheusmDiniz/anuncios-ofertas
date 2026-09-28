@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79378634",
+    "titulo": "Sugador Aspirador Nasal Elétrico Infantil Recarregável 6 Velocidades com bico e filtros A2 Eletronics - Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_976864-MLA116221897636_092026-F.jpg",
+    "preco": 44.99,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1pMmJ5g",
+    "atualizado_em": "2026-09-28T12:43:27.827-03:00"
+  },
+  {
     "id": "amazon:B07M715532",
     "titulo": "Vida Macia Amaciante Glicerina & Camomila 1L",
     "imagem": "https://m.media-amazon.com/images/I/61-0STTvWaL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2NbBDxc",
     "atualizado_em": "2026-09-27T12:47:43.201-03:00"
-  },
-  {
-    "id": "amazon:B0GRJ9XVHD",
-    "titulo": "Likluc Xô Bactéria 0+ Higienizador antisséptico para bebês! | Mata 99,9% das Bactérias e Virus",
-    "imagem": "https://m.media-amazon.com/images/I/81+nmn4gH1L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GRJ9XVHD?tag=malica09-20",
-    "atualizado_em": "2026-09-27T12:42:35.622-03:00"
   }
 ]
