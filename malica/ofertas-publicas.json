@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26213267",
+    "titulo": "Minigame Laptop Barbie Educativo Bilíngue Candide Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_609516-MLA116538346022_092026-F.jpg",
+    "preco": 54.89,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WnpTxa",
+    "atualizado_em": "2026-09-28T18:32:37.021-03:00"
+  },
+  {
     "id": "amazon:B0GW9KJ4JP",
     "titulo": "Sof Fralda Babysec Aqua P E M 4X9 : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/61XYx0CODIL._AC_SL1500_.jpg",
@@ -1648,15 +1658,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32DJxoj",
     "atualizado_em": "2026-09-27T18:32:42.724-03:00"
-  },
-  {
-    "id": "amazon:B07DHQZPZV",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g | Proteção Diária, Alivia Irritações, Hipoalergênico, Com Aloe Vera e Vitamina E",
-    "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
-    "atualizado_em": "2026-09-27T18:27:33.964-03:00"
   }
 ]
