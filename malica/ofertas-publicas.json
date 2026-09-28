@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B000GKUEVE",
+    "titulo": "Oferta: Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
+    "imagem": "https://m.media-amazon.com/images/I/81GMRnT1SsL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B000GKUEVE?tag=malica09-20",
+    "atualizado_em": "2026-09-28T15:02:29.969-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46197186",
     "titulo": "Espelho Retrovisor Para Banco Traseiro - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_707170-MLA100078107905_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
     "atualizado_em": "2026-09-27T15:06:46.493-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19724253",
-    "titulo": "Conjunto Passeio Garrafa 250ml + Pote Para Leite Em Po Azul Bebê Sanremo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_622682-MLA116679877710_092026-F.jpg",
-    "preco": 58.6,
-    "preco_anterior": 111,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ddypuh",
-    "atualizado_em": "2026-09-27T15:01:42.804-03:00"
   }
 ]
