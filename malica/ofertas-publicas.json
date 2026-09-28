@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65313748",
+    "titulo": "Tapete Bebê Emborrachado Dobrável Proteção Dupla Face Selva",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818382-MLA106046813850_022026-F.jpg",
+    "preco": 57.77,
+    "preco_anterior": 149.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1VTbtdV",
+    "atualizado_em": "2026-09-28T08:46:31.016-03:00"
+  },
+  {
     "id": "amazon:B08YMQBNRK",
     "titulo": "Cosco Kids, Berço Co-bed Pluggy, 0 a 9kg, Cinza Claro",
     "imagem": "https://m.media-amazon.com/images/I/51NO0IWHOgL._AC_SL1500_.jpg",
