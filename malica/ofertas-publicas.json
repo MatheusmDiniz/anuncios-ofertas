@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BTTLQL75",
+    "titulo": "Personal Fralda Baby Total Protect Pants M, 28 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51+Uej-jA5L._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=malica09-20",
+    "atualizado_em": "2026-09-28T14:21:31.537-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45456305",
     "titulo": "Mosquiteiro Para Ninho Redutor De Berço Avulso Universal Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_619405-MLA110859253276_052026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07RPJWTM5?tag=malica09-20",
     "atualizado_em": "2026-09-27T14:25:33.241-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28660083",
-    "titulo": "Mosquiteiro Universale Branco Bublim Incomfral Elástico Carrinho Mini Berço",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906796-MLA100096322935_122025-F.jpg",
-    "preco": 16.53,
-    "preco_anterior": 29.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MQezv8",
-    "atualizado_em": "2026-09-27T14:20:02.366-03:00"
   }
 ]
