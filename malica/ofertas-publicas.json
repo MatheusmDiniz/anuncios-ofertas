@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB36412147",
+    "titulo": "Capa Transparente Trocador Americano Anatômico Mainha Baby 71x57 cm",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_829181-MLA99587349528_122025-F.jpg",
+    "preco": 16.98,
+    "preco_anterior": 35.02,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1NRhM1S",
+    "atualizado_em": "2026-09-28T08:05:33.923-03:00"
+  },
+  {
     "id": "amazon:B099KTRZP7",
     "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=malica09-20",
     "atualizado_em": "2026-09-27T08:10:22.172-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27045155",
-    "titulo": "Babador Impermeável Buba para Bebês com Bolso e Design de Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_769819-MLA99596978560_122025-F.jpg",
-    "preco": 14.19,
-    "preco_anterior": 23.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ibo9ao",
-    "atualizado_em": "2026-09-27T08:05:18.671-03:00"
   }
 ]
