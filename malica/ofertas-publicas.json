@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093G8NZ4Y",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega XG 38 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71l5ps7efSL._AC_SL1500_.jpg",
+    "preco": 34.92,
+    "preco_anterior": 50.29,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=malica09-20",
+    "atualizado_em": "2026-09-28T12:17:40.678-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50138205",
     "titulo": "Babadores Bandana Kit C/10 Rosa Estampas Animais 0-24 Meses",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_919553-MLA99556921218_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=malica09-20",
     "atualizado_em": "2026-09-27T12:21:46.746-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25861503",
-    "titulo": "Kit 30 Sacos Para Armazenar Leite Materno 250ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604895-MLA100062296225_122025-F.jpg",
-    "preco": 23.28,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32seboZ",
-    "atualizado_em": "2026-09-27T12:16:42.632-03:00"
   }
 ]
