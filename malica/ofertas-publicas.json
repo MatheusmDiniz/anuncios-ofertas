@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61118769",
+    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
+    "preco": 410,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2sQi2Ef",
+    "atualizado_em": "2026-09-28T16:40:38.391-03:00"
+  },
+  {
     "id": "amazon:B093G9PSPP",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71aOjTMuajL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1pF34v1",
     "atualizado_em": "2026-09-27T16:44:48.279-03:00"
-  },
-  {
-    "id": "amazon:B07MLMGNLB",
-    "titulo": "Neslac Composto Lácteo Supreme 800G",
-    "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
-    "preco": 73,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MLMGNLB?tag=malica09-20",
-    "atualizado_em": "2026-09-27T16:39:40.567-03:00"
   }
 ]
