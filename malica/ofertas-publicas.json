@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB64140648",
+    "titulo": "Kit 2 Travas De Geladeira Gavetas Segurança Infantil Mantem Porta Fechada Adesivo Branco Não Abre A Porta",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823023-MLA108369539617_032026-F.jpg",
+    "preco": 19,
+    "preco_anterior": 33,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25RDtRr",
+    "atualizado_em": "2026-09-28T10:19:04.753-03:00"
+  },
+  {
     "id": "shopee:341167297.46303601591",
     "titulo": "Pijama Curto Bebê Menino Confortável Roupa de Bebê para Dormir Pijama Verão Bebê Masculino do 1 ao 10 l06",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-min1em7bm3up6f",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40gr0Fvq5D",
     "atualizado_em": "2026-09-27T10:23:39.723-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44672426",
-    "titulo": "Tapete Educativo Interativo Teclado Musical - Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_700384-MLA99379664790_112025-F.jpg",
-    "preco": 71.99,
-    "preco_anterior": 129.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/23F3SAa",
-    "atualizado_em": "2026-09-27T10:18:34.101-03:00"
   }
 ]
