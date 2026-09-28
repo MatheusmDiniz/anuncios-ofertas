@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22572074",
+    "titulo": "Garrafinha De Aluminio Animal Fun Macaco Bpa Free 400ml Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_886521-MLA99621612196_122025-F.jpg",
+    "preco": 44,
+    "preco_anterior": 76.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/31GxcSG",
+    "atualizado_em": "2026-09-28T15:59:19.631-03:00"
+  },
+  {
     "id": "amazon:B079VQDMRK",
     "titulo": "Bepantol Derma Hidratante Multirrestaurador para Pele Seca 20g | Multirrestaurador 20g, Com dexpantenol, Pele seca a extrasseca, Textura densa, Áreas ressecadas, Dermatologicamente testado",
     "imagem": "https://m.media-amazon.com/images/I/71pzppPONVL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1LFQECa",
     "atualizado_em": "2026-09-27T16:03:36.419-03:00"
-  },
-  {
-    "id": "amazon:B0D6BXNRZQ",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61Uo03QkQ6L._AC_SL1500_.jpg",
-    "preco": 30.77,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D6BXNRZQ?tag=malica09-20",
-    "atualizado_em": "2026-09-27T15:58:28.454-03:00"
   }
 ]
