@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D3QQLB4P",
+    "titulo": "Cadeira Para Auto Prati Isofix, Grupos 0+, I, II e III, 0-36kg, 5 Pontos de Fixação, Isofix, 4 Posições de Reclino, Preto",
+    "imagem": "https://m.media-amazon.com/images/I/51TnYmBvDgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D3QQLB4P?tag=malica09-20",
+    "atualizado_em": "2026-09-28T09:12:07.119-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69561731",
     "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1nJ8edv",
     "atualizado_em": "2026-09-27T09:17:08.049-03:00"
-  },
-  {
-    "id": "shopee:1156409244.58208474935",
-    "titulo": "Kit 2 Blusa Infantil Forrada Jaquetas Escolar Infantil Unissex - Moletom Premium (Tam. 4 ao 16)",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mmtjdl36qcjo5c",
-    "preco": 47.88,
-    "preco_anterior": 90.34,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/W6yphCBjY",
-    "atualizado_em": "2026-09-27T09:12:00.603-03:00"
   }
 ]
