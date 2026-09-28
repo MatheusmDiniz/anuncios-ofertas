@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CB6KL4LB",
+    "titulo": "Barbie Bailarina Loira, Boneca com Tutu Removível, Corpete Decorado e Visual Clássico de Ballet Para Histórias Graciosas",
+    "imagem": "https://m.media-amazon.com/images/I/41cMu59jN9L._AC_SL1500_.jpg",
+    "preco": 43,
+    "preco_anterior": 64,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CB6KL4LB?tag=malica09-20",
+    "atualizado_em": "2026-09-28T16:25:15.615-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72684098",
     "titulo": "Kit Mini Berço Menina Menino 5 Peças Com Saia Cor Bosque Encantado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_851167-MLA111728925368_062026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B073ZGK2JV?tag=malica09-20",
     "atualizado_em": "2026-09-27T16:29:28.326-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB59328402",
-    "titulo": "Escova Limpeza Mamadeira Copos Espuma Macia Limpeza Completa Cor Azul Celeste",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_994212-MLA115173947426_082026-F.jpg",
-    "preco": 29.99,
-    "preco_anterior": 75.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13L7e22",
-    "atualizado_em": "2026-09-27T16:24:23.947-03:00"
   }
 ]
