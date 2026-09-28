@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CCPXV4XK",
+    "titulo": "Candide, Karaokê Temático, Infantil, Homem-Aranha, Boombox Com Microfone",
+    "imagem": "https://m.media-amazon.com/images/I/61mWuRYTFzL._AC_SL1500_.jpg",
+    "preco": 67,
+    "preco_anterior": 129,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CCPXV4XK?tag=malica09-20",
+    "atualizado_em": "2026-09-28T17:11:06.893-03:00"
+  },
+  {
     "id": "amazon:B07Z9SRGSK",
     "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
     "imagem": "https://m.media-amazon.com/images/I/51uaIj3cogL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
     "atualizado_em": "2026-09-27T17:15:46.075-03:00"
-  },
-  {
-    "id": "amazon:B0FMFWWD8H",
-    "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
-    "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=malica09-20",
-    "atualizado_em": "2026-09-27T17:10:41.517-03:00"
   }
 ]
