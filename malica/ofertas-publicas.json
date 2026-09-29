@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C9W3MZV2",
+    "titulo": "Sabonete Nutritivo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
+    "preco": 34.9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
+    "atualizado_em": "2026-09-28T21:58:24.501-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65552556",
     "titulo": "Sugador Aspirador Nasal Elétrico Nariz Ouvido Criança Bebe Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_727225-MLA107122249429_022026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=malica09-20",
     "atualizado_em": "2026-09-27T22:03:10.525-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB43475478",
-    "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_685947-MLA109363931978_042026-F.jpg",
-    "preco": 178.9,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1XY8eLv",
-    "atualizado_em": "2026-09-27T21:58:05.478-03:00"
   }
 ]
