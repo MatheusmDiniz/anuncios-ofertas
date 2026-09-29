@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GL1ZY3B",
+    "titulo": "Anasol Protetor Solar KIDS FPS 90-100 g",
+    "imagem": "https://m.media-amazon.com/images/I/51yPL8ljAIL._AC_SL1500_.jpg",
+    "preco": 44,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GL1ZY3B?tag=malica09-20",
+    "atualizado_em": "2026-09-29T15:33:06.479-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75927872",
     "titulo": "Aspirador Sugador Nasal Bebê Elétrico Limpeza Nariz Ouvido Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_670015-MLA115307748767_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR3N5BV6?tag=malica09-20",
     "atualizado_em": "2026-09-28T15:33:39.808-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73076611",
-    "titulo": "Kit Chocalho Mordedor Sensorial Para Bebê Coloridos 8 Peças Colorido Infantil",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_921921-MLA117328843993_092026-F.jpg",
-    "preco": 26,
-    "preco_anterior": 49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RqNrf7",
-    "atualizado_em": "2026-09-28T15:28:34.897-03:00"
   }
 ]
