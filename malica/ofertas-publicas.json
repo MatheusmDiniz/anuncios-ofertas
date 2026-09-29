@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47549605",
+    "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 399.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zvgDVv",
+    "atualizado_em": "2026-09-29T11:41:10.060-03:00"
+  },
+  {
     "id": "amazon:B0DL6FFBD3",
     "titulo": "Hot Wheels City Pista de Brinquedo Loja de doces 3 anos",
     "imagem": "https://m.media-amazon.com/images/I/71neJl+PGbL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2CfRhYg",
     "atualizado_em": "2026-09-28T11:41:44.342-03:00"
-  },
-  {
-    "id": "amazon:B0964S52NM",
-    "titulo": "Leite em Pó Integral Ninho 380g",
-    "imagem": "https://m.media-amazon.com/images/I/81bh9m+Fm0L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0964S52NM?tag=malica09-20",
-    "atualizado_em": "2026-09-28T11:36:34.832-03:00"
   }
 ]
