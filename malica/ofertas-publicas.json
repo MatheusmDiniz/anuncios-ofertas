@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555479191",
+    "titulo": "Oferta: Diário do Bebê - Meninos",
+    "imagem": "https://m.media-amazon.com/images/I/71e4hq+IoBL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555479191?tag=malica09-20",
+    "atualizado_em": "2026-09-29T14:21:08.786-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB57083030",
     "titulo": "Triciclo Infantil Rosa Maral 2 em 1 Passeio e Pedal com Buzina",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_631641-MLA115957780725_082026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BTTLQL75?tag=malica09-20",
     "atualizado_em": "2026-09-28T14:21:31.537-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45456305",
-    "titulo": "Mosquiteiro Para Ninho Redutor De Berço Avulso Universal Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_619405-MLA110859253276_052026-F.jpg",
-    "preco": 22.9,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/172yw5R",
-    "atualizado_em": "2026-09-28T14:16:01.559-03:00"
   }
 ]
