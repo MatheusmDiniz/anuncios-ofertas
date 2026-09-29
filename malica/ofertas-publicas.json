@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07M59DPCJ",
+    "titulo": "Oferta: Pais & Filhos Jogo da Forca Educativo para Alfabetização Infantil | Jogo de Tabuleiro de Palavras | Estimula Vocabulário, Raciocínio Lógico e Concentração | 2 a 4 Jogadores | +7 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/61r+IwFYwdL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": 39,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07M59DPCJ?tag=malica09-20",
+    "atualizado_em": "2026-09-29T18:54:26.499-03:00"
+  },
+  {
     "id": "amazon:B08JM8CG5D",
     "titulo": "Comfort Amaciante Concentrado Puro Cuidado 1,5L",
     "imagem": "https://m.media-amazon.com/images/I/61Ju1heOhrL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D3SCHVS?tag=malica09-20",
     "atualizado_em": "2026-09-28T18:58:27.278-03:00"
-  },
-  {
-    "id": "amazon:B0CHZCH5VL",
-    "titulo": "Oferta para Membros Prime: Cadeira de Descanso Bebê Musical Polar Bege 18kgs Maxi Baby",
-    "imagem": "https://m.media-amazon.com/images/I/51HNh20YHgL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CHZCH5VL?tag=malica09-20",
-    "atualizado_em": "2026-09-28T18:53:21.839-03:00"
   }
 ]
