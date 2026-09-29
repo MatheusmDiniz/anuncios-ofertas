@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CBL2H3M",
+    "titulo": "Oferta: Estrela, Jogo Tapa Certo | Para 5 Anos ou Mais, Inclui Mãozinhas, Cartas Redondas, Tema de Animais, Jogo em Família",
+    "imagem": "https://m.media-amazon.com/images/I/619Vr4UzwqL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CBL2H3M?tag=malica09-20",
+    "atualizado_em": "2026-09-29T14:31:23.750-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19491178",
     "titulo": "Assento de Carro Infantil Elevação Booster Fit Up 15 à 36kgs Preto Maxi Baby - 21423",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_886802-MLA99508601024_112025-F.jpg",
