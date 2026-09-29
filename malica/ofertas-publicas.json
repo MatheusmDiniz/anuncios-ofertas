@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52340694",
+    "titulo": "Sling Wrap Baby Canguru Confortável Cor Cinza Tamanho Único",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_740694-MLA99585533562_122025-F.jpg",
+    "preco": 39.84,
+    "preco_anterior": 69.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2w3pJZE",
+    "atualizado_em": "2026-09-29T20:17:32.614-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=malica09-20",
     "atualizado_em": "2026-09-28T20:20:22.161-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44349733",
-    "titulo": "Kit Adesivo Repelente para Bebê e Crianças com Óleo de Citronela",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811340-MLA113247299708_072026-F.jpg",
-    "preco": 18.9,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2iJmezz",
-    "atualizado_em": "2026-09-28T20:15:18.258-03:00"
   }
 ]
