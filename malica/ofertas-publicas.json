@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJQYH2G4",
+    "titulo": "Oferta: Carrinho de Bebê Chicco One4Ever Lounge Compacto até 22kg com Fechamento Automático e Encosto Ajustável – 4087109910000",
+    "imagem": "https://m.media-amazon.com/images/I/51Zxi0pGVkL._AC_SL1500_.jpg",
+    "preco": 1899,
+    "preco_anterior": 3199,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJQYH2G4?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:04:36.009-03:00"
+  },
+  {
     "id": "amazon:B0CQ454DXM",
     "titulo": "AUSTRALIAN GOLD PROTETOR CORPORAL GEL CREME KIDS FPS 70 120g",
     "imagem": "https://m.media-amazon.com/images/I/515dXk81FHL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1rEBdjq",
     "atualizado_em": "2026-09-28T19:08:43.973-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77496641",
-    "titulo": "Kit 4 Travas de Segurança Para Geladeira e Gaveta Adesiva Infantil Branca PazPort",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602931-MLA114903892846_082026-F.jpg",
-    "preco": 19.99,
-    "preco_anterior": 74.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/23k5h1q",
-    "atualizado_em": "2026-09-28T19:03:35.314-03:00"
   }
 ]
