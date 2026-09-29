@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24765774",
+    "titulo": "Triângulo De Atividades Educativo Para Bebê - Buba Cor Colorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_887780-MLA95497851780_102025-F.jpg",
+    "preco": 106.17,
+    "preco_anterior": 177.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1qsS8kL",
+    "atualizado_em": "2026-09-29T13:34:47.472-03:00"
+  },
+  {
     "id": "amazon:B08KHPB47B",
     "titulo": "Buba Kit Talher Flexivel E Termossensivel Azul Buba Azul : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/419Yq5k+jZL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Z3MgU9",
     "atualizado_em": "2026-09-28T13:35:02.682-03:00"
-  },
-  {
-    "id": "amazon:B0058NC0UW",
-    "titulo": "DINOSSAURO INTERATIVO, PRIMAL HATCH, SUNNY",
-    "imagem": "https://m.media-amazon.com/images/I/71-iJxe+qrL._AC_SL1500_.jpg",
-    "preco": 449.1,
-    "preco_anterior": 569,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0058NC0UW?tag=malica09-20",
-    "atualizado_em": "2026-09-28T13:29:54.735-03:00"
   }
 ]
