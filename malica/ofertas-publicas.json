@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392608",
+    "titulo": "Fralda Descartável Turma da Mônica Baby M 50 Unidades 12 h",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
+    "preco": 54.84,
+    "preco_anterior": 133.16,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gMyi7Z",
+    "atualizado_em": "2026-09-29T11:30:31.670-03:00"
+  },
+  {
     "id": "amazon:B0CGY62F23",
     "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61lSWTBB1NL._AC_SL1500_.jpg",
