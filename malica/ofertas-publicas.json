@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GYGXVQ3W",
+    "titulo": "Colgate Natural Extracts Creme Dental Clareador, 4x90g",
+    "imagem": "https://m.media-amazon.com/images/I/71qhwcTMXZL._AC_SL1500_.jpg",
+    "preco": 6.75,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GYGXVQ3W?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:30:53.994-03:00"
+  },
+  {
     "id": "amazon:B0781CTJF6",
     "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
     "imagem": "https://m.media-amazon.com/images/I/51XpbplLvaL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1AhhgWR",
     "atualizado_em": "2026-09-28T19:34:20.911-03:00"
-  },
-  {
-    "id": "amazon:B07ZPPR52L",
-    "titulo": "Macacão de dormir para bebês 2-pack Neutral Fleece Footed Sleep and Play Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81c23pu3BAL._AC_SL1500_.jpg",
-    "preco": 147,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZPPR52L?tag=malica09-20",
-    "atualizado_em": "2026-09-28T19:29:12.594-03:00"
   }
 ]
