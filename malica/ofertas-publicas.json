@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DMWLYDB8",
+    "titulo": "Disney Princesa Castelo Empilhável Rapunzel, Mini Playset com Boneca e Acessórios, Cenários Inspirados em Enrolados",
+    "imagem": "https://m.media-amazon.com/images/I/81aE+phvx2L._AC_SL1500_.jpg",
+    "preco": 135,
+    "preco_anterior": 269,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DMWLYDB8?tag=malica09-20",
+    "atualizado_em": "2026-09-29T16:04:36.211-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19538172",
     "titulo": "Caixa Presente Sabonete Phebo Amarelo - 8 Sabonetes 90g Cada",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_870769-MLA99924065793_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H1T7241Z?tag=malica09-20",
     "atualizado_em": "2026-09-28T16:04:39.333-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22572074",
-    "titulo": "Garrafinha De Aluminio Animal Fun Macaco Bpa Free 400ml Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_886521-MLA99621612196_122025-F.jpg",
-    "preco": 44,
-    "preco_anterior": 76.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/31GxcSG",
-    "atualizado_em": "2026-09-28T15:59:19.631-03:00"
   }
 ]
