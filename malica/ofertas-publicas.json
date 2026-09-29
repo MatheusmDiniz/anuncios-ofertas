@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67464018",
+    "titulo": "Organizador De Carro Encosto Banco Porta Trecos E Tablet",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_770880-MLA109048003996_032026-F.jpg",
+    "preco": 22.99,
+    "preco_anterior": 49.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Mx3TKu",
+    "atualizado_em": "2026-09-29T17:32:24.201-03:00"
+  },
+  {
     "id": "amazon:B07M7Q36ZS",
     "titulo": "Absorvente Para Seios Amamente® 30 UN",
     "imagem": "https://m.media-amazon.com/images/I/716xonuId3L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0779MV154?tag=malica09-20",
     "atualizado_em": "2026-09-28T17:36:36.533-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17775077",
-    "titulo": "Huggies Lenços Umedecidos Recém-Nascido Sem Fragrância 48Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983481-MLA110462323827_042026-F.jpg",
-    "preco": 17.02,
-    "preco_anterior": 28.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/31kz968",
-    "atualizado_em": "2026-09-28T17:31:32.835-03:00"
   }
 ]
