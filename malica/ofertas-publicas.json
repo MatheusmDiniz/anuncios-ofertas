@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1777221519.58210846395",
+    "titulo": "JARDINEIRA SAFARI LONGA E BODY LONGO",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mod5ze8w07474f",
+    "preco": 35.67,
+    "preco_anterior": 51.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7faCYTcpWZ",
+    "atualizado_em": "2026-09-29T20:38:00.768-03:00"
+  },
+  {
     "id": "amazon:B07FLP87QP",
     "titulo": "Granado Lenço Umedecido Bebê, Erva Doce, 50 Unidades | Lenços macios, flexíveis e resistentes. : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/511dfauTXoL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CJCKRYLP?tag=malica09-20",
     "atualizado_em": "2026-09-28T20:41:14.708-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB43985227",
-    "titulo": "Bolsa Térmica Para Leite Materno Porta Mamadeira Com Gelo Reutilizável Conservadora De Leite Maternidade Amamentação Lancheira Térmica Para 6 Garrafas 9oz Mancro 9841 Preta Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742518-MLA100039487855_122025-F.jpg",
-    "preco": 78,
-    "preco_anterior": 200,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13LkGJi",
-    "atualizado_em": "2026-09-28T20:35:44.059-03:00"
   }
 ]
