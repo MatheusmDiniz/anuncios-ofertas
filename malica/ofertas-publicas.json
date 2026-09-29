@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CQTLJRR7",
+    "titulo": "Play-Doh, Massinha de Modelar Infantil, Kitchen Creations, Macarrão Mágico - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 3 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/71IYqmemn1L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CQTLJRR7?tag=malica09-20",
+    "atualizado_em": "2026-09-29T18:28:33.639-03:00"
+  },
+  {
     "id": "amazon:B0C9FVPXFC",
     "titulo": "GA.MA ITALY Secador de Cabelo Gama Eleganza Plus Ceramic Ion 2100W 127V",
     "imagem": "https://m.media-amazon.com/images/I/61ldoe7m-2L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WnpTxa",
     "atualizado_em": "2026-09-28T18:32:37.021-03:00"
-  },
-  {
-    "id": "amazon:B0GW9KJ4JP",
-    "titulo": "Sof Fralda Babysec Aqua P E M 4X9 : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/61XYx0CODIL._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW9KJ4JP?tag=malica09-20",
-    "atualizado_em": "2026-09-28T18:27:28.543-03:00"
   }
 ]
