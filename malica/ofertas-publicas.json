@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07J2JZYW3",
+    "titulo": "Oferta: Pelúcia Zuma, 12",
+    "imagem": "https://m.media-amazon.com/images/I/61MR8FzptfL._AC_SL1500_.jpg",
+    "preco": 78.99,
+    "preco_anterior": 129.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07J2JZYW3?tag=malica09-20",
+    "atualizado_em": "2026-09-29T11:56:26.512-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39456030",
     "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FH35LBJ8?tag=malica09-20",
     "atualizado_em": "2026-09-28T11:57:11.341-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21283759",
-    "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
-    "preco": 209.85,
-    "preco_anterior": 392.53,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2heMSHE",
-    "atualizado_em": "2026-09-28T11:52:02.965-03:00"
   }
 ]
