@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47912495",
+    "titulo": "Hastes Flexíveis Buba Bebê Ponta Proteção Cotonete 60 Unid",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744521-MLA83727475941_042025-F.jpg",
+    "preco": 12.9,
+    "preco_anterior": 59.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Z6BVH8",
+    "atualizado_em": "2026-09-29T09:07:35.163-03:00"
+  },
+  {
     "id": "amazon:B07GMCX7P4",
     "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61d4XyvDRzL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D3QQLB4P?tag=malica09-20",
     "atualizado_em": "2026-09-28T09:12:07.119-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69561731",
-    "titulo": "Mesa de Atividades Didática Kendy para Bebês, Crianças e Meninos com Som",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742754-MLA111479720960_052026-F.jpg",
-    "preco": 59.3,
-    "preco_anterior": 99.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/21x8K1E",
-    "atualizado_em": "2026-09-28T09:07:00.896-03:00"
   }
 ]
