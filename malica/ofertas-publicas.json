@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25997831",
+    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
+    "preco": 73.91,
+    "preco_anterior": 144.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2X546Yw",
+    "atualizado_em": "2026-09-29T12:33:06.101-03:00"
+  },
+  {
     "id": "amazon:B08YK3CVLY",
     "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
     "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/12NvazT",
     "atualizado_em": "2026-09-28T12:33:09.213-03:00"
-  },
-  {
-    "id": "amazon:B089YLCYBZ",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Transparente, 30g | Sem Fragrância, Com Lanolina",
-    "imagem": "https://m.media-amazon.com/images/I/518FaPzfPCL._AC_SL1500_.jpg",
-    "preco": 12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B089YLCYBZ?tag=malica09-20",
-    "atualizado_em": "2026-09-28T12:27:59.739-03:00"
   }
 ]
