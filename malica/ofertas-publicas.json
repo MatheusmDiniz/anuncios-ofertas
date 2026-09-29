@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CQTNGCF9",
+    "titulo": "Play-Doh, Massinha de Modelar Infantil, Smoothies Coloridos - Conjunto de Brinquedo com Liquidificador de Brinquedo, Acessórios e 5 Potes - A partir de 3 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/71HyVqL3MRL._AC_SL1500_.jpg",
+    "preco": 43,
+    "preco_anterior": 59,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CQTNGCF9?tag=malica09-20",
+    "atualizado_em": "2026-09-29T18:08:09.900-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72143098",
     "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GTXD1Y46?tag=malica09-20",
     "atualizado_em": "2026-09-28T18:12:11.588-03:00"
-  },
-  {
-    "id": "amazon:B0D6T8DDV4",
-    "titulo": "Candide, Mini Brands, Disney Store, Personagens, Acima de 3 anos - Com 5 Miniaturas",
-    "imagem": "https://m.media-amazon.com/images/I/61QkogzTGBL._AC_SL1500_.jpg",
-    "preco": 53,
-    "preco_anterior": 99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D6T8DDV4?tag=malica09-20",
-    "atualizado_em": "2026-09-28T18:07:07.288-03:00"
   }
 ]
