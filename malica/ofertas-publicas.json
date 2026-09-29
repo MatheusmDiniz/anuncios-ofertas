@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07HCK1656",
+    "titulo": "Roupa Íntima Plenitud Femme para Incontinência P/M-16 un",
+    "imagem": "https://m.media-amazon.com/images/I/71YTtM3zFXL._AC_SL1500_.jpg",
+    "preco": 56.33,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07HCK1656?tag=malica09-20",
+    "atualizado_em": "2026-09-29T08:42:03.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17335680",
     "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 36 Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_729959-MLA99437189922_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1VTbtdV",
     "atualizado_em": "2026-09-28T08:46:31.016-03:00"
-  },
-  {
-    "id": "amazon:B08YMQBNRK",
-    "titulo": "Cosco Kids, Berço Co-bed Pluggy, 0 a 9kg, Cinza Claro",
-    "imagem": "https://m.media-amazon.com/images/I/51NO0IWHOgL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08YMQBNRK?tag=malica09-20",
-    "atualizado_em": "2026-09-28T08:41:23.194-03:00"
   }
 ]
