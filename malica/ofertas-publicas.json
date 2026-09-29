@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24722636",
+    "titulo": "Copo De Treinamento Buba 360 Antivazamento Com Alça Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793777-MLA99840187657_112025-F.jpg",
+    "preco": 38.79,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2wxKJfX",
+    "atualizado_em": "2026-09-29T17:01:47.766-03:00"
+  },
+  {
     "id": "amazon:B07FS8P22T",
     "titulo": "Kit Primeiros Passos - Lillo, Rosa, Vários volumes",
     "imagem": "https://m.media-amazon.com/images/I/612BgPq7pPL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=malica09-20",
     "atualizado_em": "2026-09-28T17:06:02.186-03:00"
-  },
-  {
-    "id": "amazon:B0C6BZ9QTR",
-    "titulo": "Forminha de Picolé Buba Divertidas Livres de BPA Infantil Sortido",
-    "imagem": "https://m.media-amazon.com/images/I/51HKl1L-ATL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C6BZ9QTR?tag=malica09-20",
-    "atualizado_em": "2026-09-28T17:00:56.709-03:00"
   }
 ]
