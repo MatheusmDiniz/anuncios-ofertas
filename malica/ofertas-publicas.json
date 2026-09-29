@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MG8N2EI",
+    "titulo": "Calças Pacote com 4 calças neutras Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81+NHgg5BFL._AC_SL1500_.jpg",
+    "preco": 132,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MG8N2EI?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:46:37.341-03:00"
+  },
+  {
     "id": "amazon:B07ZPQ2RRR",
     "titulo": "Macacão de dormir para bebês Pacote com 2 pares neutros de algodão com pés para dormir e brincar Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1x7jQ2H",
     "atualizado_em": "2026-09-28T19:49:45.044-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50912250",
-    "titulo": "Berço Moisés Rubi Funcional Maxi do Brasil 5 em 1",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864911-MLA99558047620_122025-F.jpg",
-    "preco": 287.52,
-    "preco_anterior": 599,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1scmQzP",
-    "atualizado_em": "2026-09-28T19:44:37.820-03:00"
   }
 ]
