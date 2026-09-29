@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68086238",
+    "titulo": "Boneca Bebê Reborn Menino Recém Nascido Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825513-MLA109629080834_042026-F.jpg",
+    "preco": 73,
+    "preco_anterior": 179.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zYjVP1",
+    "atualizado_em": "2026-09-29T08:26:43.166-03:00"
+  },
+  {
     "id": "amazon:B08HK41RHJ",
     "titulo": "Kit Vida Macia (Lava Roupas e Amaciante - Glicerina e Camomila) 2 x 1L : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/61OYJq2IHHL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D4NN2W72?tag=malica09-20",
     "atualizado_em": "2026-09-28T08:31:08.471-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38093904",
-    "titulo": "Canguru de Bebê Bolsa Carregador Para Passeio Infantil Menina Menino Aiebao Cor Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_865649-MLA99479740264_112025-F.jpg",
-    "preco": 81.9,
-    "preco_anterior": 169.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2UhkUaR",
-    "atualizado_em": "2026-09-28T08:26:02.353-03:00"
   }
 ]
