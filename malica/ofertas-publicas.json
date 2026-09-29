@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23491820",
+    "titulo": "Pinico Troninho Infantil Bebês Desfralde Recipiente Buba Cor Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_914714-MLA100101043423_122025-F.jpg",
+    "preco": 35.9,
+    "preco_anterior": 74.88,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2yYr9rp",
+    "atualizado_em": "2026-09-28T21:27:29.114-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB58864456",
     "titulo": "Termômetro Medir Temperatura Banho Peixinho Buba Cor Urso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_636418-MLA99840871163_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2YBUR6P",
     "atualizado_em": "2026-09-27T21:32:22.444-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23912670",
-    "titulo": "Portão Segurança Pet Útil Aramado Preto 80x74-84cm Para Crianças e Cães",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800475-MLA95714019336_102025-F.jpg",
-    "preco": 78.03,
-    "preco_anterior": 141.68,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24NGPFo",
-    "atualizado_em": "2026-09-27T21:27:15.239-03:00"
   }
 ]
