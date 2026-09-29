@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37725265",
+    "titulo": "Tapete Bebê Musical Piano Happy azul Wakaii",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_664407-MLA96136283421_102025-F.jpg",
+    "preco": 67.99,
+    "preco_anterior": 129.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ii9Cm9",
+    "atualizado_em": "2026-09-29T09:17:46.491-03:00"
+  },
+  {
     "id": "amazon:B07CTH8RTW",
     "titulo": "Mustela Água De Limpeza Sem Enxágue 300Ml - Água Micelar Infantil Rosto E Corpo Vegana Fórmula Biodegradável Com 98% De Ingredientes De Origem Natural",
     "imagem": "https://m.media-amazon.com/images/I/51IhFYS686L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
     "atualizado_em": "2026-09-28T09:22:25.045-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73969392",
-    "titulo": "Extensor Alargador Com Botão Para Calças Aumenta Cós Calça Cor Jeans Azul Médio Kinneken",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800110-MLA117289087727_092026-F.jpg",
-    "preco": 23.18,
-    "preco_anterior": 39.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fLhoNr",
-    "atualizado_em": "2026-09-28T09:17:19.579-03:00"
   }
 ]
