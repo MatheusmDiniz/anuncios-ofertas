@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3XSY4W",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XG, 86 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71MTFZFdO9L._AC_SL1500_.jpg",
+    "preco": 91,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=malica09-20",
+    "atualizado_em": "2026-09-29T17:47:43.950-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26841539",
     "titulo": "Buba Ursinho que reza anjinho da guarda para bebê e criança pelúcia azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_677594-MLU75692537470_042024-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/8538006363?tag=malica09-20",
     "atualizado_em": "2026-09-28T17:51:54.689-03:00"
-  },
-  {
-    "id": "amazon:B0CGYR8GBT",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
-    "preco": 141,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
-    "atualizado_em": "2026-09-28T17:46:49.152-03:00"
   }
 ]
