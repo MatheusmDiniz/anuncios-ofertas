@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08R9XTH39",
+    "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
+    "imagem": "https://m.media-amazon.com/images/I/71bM2gkihVL._AC_SL1500_.jpg",
+    "preco": 24,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08R9XTH39?tag=malica09-20",
+    "atualizado_em": "2026-09-29T12:06:39.083-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB57478062",
     "titulo": "Kit Colher Termossensível Buba Muda Cor Comida Quente Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_994938-MLA100107887395_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BB4Y6ZNL?tag=malica09-20",
     "atualizado_em": "2026-09-28T12:07:26.919-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB32430194",
-    "titulo": "Chocalho Mordedor Infantil Buba Leãozinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896240-MLA100113127169_122025-F.jpg",
-    "preco": 23.23,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1JGbkcr",
-    "atualizado_em": "2026-09-28T12:02:21.197-03:00"
   }
 ]
