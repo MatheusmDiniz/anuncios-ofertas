@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62020136",
+    "titulo": "Canguru Sling De Bebe Carregar Recem Nascido Cinza G - Marca DE CORAZÓN",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_701617-MLA116049031946_092026-F.jpg",
+    "preco": 57.9,
+    "preco_anterior": 100,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/33iFhVy",
+    "atualizado_em": "2026-09-29T09:27:59.565-03:00"
+  },
+  {
     "id": "shopee:1361476561.22493583538",
     "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/80CzlRSqTB",
     "atualizado_em": "2026-09-28T09:32:48.984-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74177687",
-    "titulo": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_815286-MLA112368898246_062026-F.jpg",
-    "preco": 31,
-    "preco_anterior": 57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2s1svu6",
-    "atualizado_em": "2026-09-28T09:27:38.824-03:00"
   }
 ]
