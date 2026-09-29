@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8536823100",
+    "titulo": "Oferta: Disney - 365 histórias para dormir - Ouro - Kit: DISNEY - 365 HISTORIAS PARA DORMIR - OURO - KIT",
+    "imagem": "https://m.media-amazon.com/images/I/81SLwnK2F5L._AC_SL1500_.jpg",
+    "preco": 96.49,
+    "preco_anterior": 207,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8536823100?tag=malica09-20",
+    "atualizado_em": "2026-09-29T11:10:04.488-03:00"
+  },
+  {
     "id": "shopee:1253552940.50514700398",
     "titulo": "Kit 4 Peças 2 Conjunto Infantil Menino Verão Confortável 2 Camisas 2 Shorts Sortido Roupa Infantil Bebê 1 ao 12",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mr0omth7lmh23d",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1r6jovm",
     "atualizado_em": "2026-09-28T11:10:24.790-03:00"
-  },
-  {
-    "id": "shopee:346744584.18899210728",
-    "titulo": "Grade de cama NORMAL E BOX - Protetor Para Cama - PEQUENA, MÉDIA E GRANDE Criancas Reforçada Lavável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mal82s176n099a",
-    "preco": 34.79,
-    "preco_anterior": 57.03,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60RwybKa1C",
-    "atualizado_em": "2026-09-28T11:05:13.883-03:00"
   }
 ]
