@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CPYDJLH2",
+    "titulo": "Oferta: L",
+    "imagem": "https://m.media-amazon.com/images/I/61g91pR25kL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CPYDJLH2?tag=malica09-20",
+    "atualizado_em": "2026-09-29T20:58:25.360-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72681875",
     "titulo": "Toalha De Bebe Infantil Macia Com Capuz Grande Forrada Cor Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777179-MLA112817305161_062026-F.jpg",
