@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHS1MD2",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61OBGlobLML._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": 34,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=malica09-20",
+    "atualizado_em": "2026-09-29T12:58:35.843-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28203800",
     "titulo": "Trocador Portátil Bege de Algodão Impermeável Batistela Baby Dobrável Lavável Unissex",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_908952-MLA113098695541_062026-F.jpg",
