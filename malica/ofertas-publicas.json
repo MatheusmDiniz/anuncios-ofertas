@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8537612499",
+    "titulo": "Oferta: Amiguinhos - Um Livro de Banho: Amiguinhos do Zoo",
+    "imagem": "https://m.media-amazon.com/images/I/61KNp0o-upL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8537612499?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:51:41.721-03:00"
+  },
+  {
     "id": "amazon:B01MG8N2EI",
     "titulo": "Calças Pacote com 4 calças neutras Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81+NHgg5BFL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DMW9LHGX?tag=malica09-20",
     "atualizado_em": "2026-09-28T19:54:49.255-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 92.9,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1x7jQ2H",
-    "atualizado_em": "2026-09-28T19:49:45.044-03:00"
   }
 ]
