@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07M7Q36ZS",
+    "titulo": "Absorvente Para Seios Amamente® 30 UN",
+    "imagem": "https://m.media-amazon.com/images/I/716xonuId3L._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07M7Q36ZS?tag=malica09-20",
+    "atualizado_em": "2026-09-29T17:27:16.098-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61794290",
     "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
