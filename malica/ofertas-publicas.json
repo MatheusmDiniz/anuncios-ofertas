@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35340738",
+    "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
+    "preco": 199.9,
+    "preco_anterior": 353.73,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WBKSRz",
+    "atualizado_em": "2026-09-28T21:17:10.213-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42724138",
     "titulo": "Bomba Tira Leite Materno Elétrica Portátil + Mamadeira Extratora Amamentação Sem BPA Coletor Sugador Bombinha Peito 3 Modos 9 Níveis de Sucção Recarregável Silenciosa Display Digital Davely",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_830447-MLA116753714742_092026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Mut8W7",
     "atualizado_em": "2026-09-27T21:22:06.873-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB78015488",
-    "titulo": "Pulseira Guia Infantil Seguranca Anti Perda Criança Viagens Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_959694-MLA115154246856_082026-F.jpg",
-    "preco": 24.4,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Hsd6ZK",
-    "atualizado_em": "2026-09-27T21:16:58.809-03:00"
   }
 ]
