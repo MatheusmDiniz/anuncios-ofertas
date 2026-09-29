@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1361476561.22493583538",
+    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
+    "preco": 36.9,
+    "preco_anterior": 87.86,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9V1qjq5FKm",
+    "atualizado_em": "2026-09-29T09:22:51.849-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB37725265",
     "titulo": "Tapete Bebê Musical Piano Happy azul Wakaii",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_664407-MLA96136283421_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2s1svu6",
     "atualizado_em": "2026-09-28T09:27:38.824-03:00"
-  },
-  {
-    "id": "amazon:B07ZQVVP87",
-    "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
-    "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
-    "preco": 68,
-    "preco_anterior": 90,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
-    "atualizado_em": "2026-09-28T09:22:25.045-03:00"
   }
 ]
