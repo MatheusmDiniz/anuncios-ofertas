@@ -1628,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H4RCDLPS?tag=malica09-20",
     "atualizado_em": "2026-09-28T18:02:02.404-03:00"
-  },
-  {
-    "id": "amazon:8538017470",
-    "titulo": "Eu e minha mamãe",
-    "imagem": "https://m.media-amazon.com/images/I/71zpShgR8LL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/8538017470?tag=malica09-20",
-    "atualizado_em": "2026-09-28T17:56:58.587-03:00"
   }
 ]
