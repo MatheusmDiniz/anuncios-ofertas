@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39456030",
+    "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
+    "preco": 190.39,
+    "preco_anterior": 327,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hPdwGi",
+    "atualizado_em": "2026-09-29T11:51:21.434-03:00"
+  },
+  {
     "id": "amazon:B01N7W4YLV",
     "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
     "imagem": "https://m.media-amazon.com/images/I/51bPkgUfURL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2heMSHE",
     "atualizado_em": "2026-09-28T11:52:02.965-03:00"
-  },
-  {
-    "id": "amazon:B08K4L37HD+B09TF36S57",
-    "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
-    "preco": 151,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
-    "atualizado_em": "2026-09-28T11:46:51.545-03:00"
   }
 ]
