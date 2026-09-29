@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CCF48PKT",
+    "titulo": "Fralda Babysec Premium Hiper XXG 52 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61lR2F37Z+L._AC_SL1500_.jpg",
+    "preco": 71,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CCF48PKT?tag=malica09-20",
+    "atualizado_em": "2026-09-29T16:46:26.916-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32257502",
     "titulo": "Trocador Anatômico De Cômoda Americano 200 Fios 68x45x10 Cor Bege 2165-palha C Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_620567-MLA96422860770_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B079VQTRM7?tag=malica09-20",
     "atualizado_em": "2026-09-28T16:50:48.064-03:00"
-  },
-  {
-    "id": "amazon:B0DYG9DDLV",
-    "titulo": "Creme para Assadura João e Maria 40g",
-    "imagem": "https://m.media-amazon.com/images/I/61MsvDG0cgL._AC_SL1500_.jpg",
-    "preco": 9,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DYG9DDLV?tag=malica09-20",
-    "atualizado_em": "2026-09-28T16:45:42.651-03:00"
   }
 ]
