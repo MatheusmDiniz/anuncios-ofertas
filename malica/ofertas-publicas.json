@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09JZSPQCM",
+    "titulo": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
+    "imagem": "https://m.media-amazon.com/images/I/61Rfe+hKrfL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09JZSPQCM?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:20:44.897-03:00"
+  },
+  {
     "id": "amazon:B09TF36S57",
     "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71gXxei8HqL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2h8hBYD",
     "atualizado_em": "2026-09-28T19:24:07.460-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29817222",
-    "titulo": "Bico de Mamadeira Philips Fluxo Médio Anti-Colic (3m+)Avent",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828184-MLA99592085850_122025-F.jpg",
-    "preco": 28.52,
-    "preco_anterior": 68.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1QdwtN9",
-    "atualizado_em": "2026-09-28T19:18:59.626-03:00"
   }
 ]
