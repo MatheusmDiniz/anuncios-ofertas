@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09954B54J",
+    "titulo": "NIVEA SUN Protetor Solar Spray Protect & Toque Seco FPS 30 200ml - Com rápida absorção e resistente à água, esse protetor solar oferece alta proteção ao sol, de fácil aplicação",
+    "imagem": "https://m.media-amazon.com/images/I/61JDxf+54IL._AC_SL1500_.jpg",
+    "preco": 37.9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09954B54J?tag=malica09-20",
+    "atualizado_em": "2026-09-29T15:53:58.588-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35964156",
     "titulo": "Vittak Kit 10 Protetor Quina Mesa Móveis Cantoneira Em forma de L PVC Bebê Cor Transparente",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_664464-MLA99701004510_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B079VQDMRK?tag=malica09-20",
     "atualizado_em": "2026-09-28T15:54:07.370-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63934601",
-    "titulo": "Mini Colchão Para Berço Moises 90x40x7 Cm Espuma D18 Ursinhos Conforto E Segurança Para O Bebê",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827679-MLA103367239438_012026-F.jpg",
-    "preco": 37.89,
-    "preco_anterior": 69,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1da7QSN",
-    "atualizado_em": "2026-09-28T15:49:01.501-03:00"
   }
 ]
