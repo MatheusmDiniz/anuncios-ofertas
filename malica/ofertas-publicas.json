@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0848FMW1W+B08K4JSQ2M+B08K4L452V+B08K4MXDVX",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 124 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/610zsSAMtpL._AC_SL1500_.jpg",
+    "preco": 161,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0848FMW1W?tag=malica09-20",
+    "atualizado_em": "2026-09-29T10:29:22.567-03:00"
+  },
+  {
     "id": "shopee:1328472746.58200651904",
     "titulo": "Tapete de Atividades Térmico Infantil Emborrachado Educativo Bebê Crianças Tatame Dobrável Estampas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh3h9ri6ul1cf5",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYebo4x8q",
     "atualizado_em": "2026-09-28T10:34:28.852-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40690981",
-    "titulo": "Bomba Coletor Leite Materno Manual Portátil Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944282-MLU78988156008_092024-F.jpg",
-    "preco": 38.9,
-    "preco_anterior": 82.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/235P4Ry",
-    "atualizado_em": "2026-09-28T10:29:20.367-03:00"
   }
 ]
