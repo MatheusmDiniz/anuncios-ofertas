@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18392643",
+    "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
+    "preco": 22.9,
+    "preco_anterior": 42.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1qLRgZM",
+    "atualizado_em": "2026-09-29T19:56:50.188-03:00"
+  },
+  {
     "id": "amazon:8537612499",
     "titulo": "Oferta: Amiguinhos - Um Livro de Banho: Amiguinhos do Zoo",
     "imagem": "https://m.media-amazon.com/images/I/61KNp0o-upL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8V9GMMQwSI",
     "atualizado_em": "2026-09-28T19:59:54.643-03:00"
-  },
-  {
-    "id": "amazon:B0DMW9LHGX",
-    "titulo": "Oferta: Hot Wheels Supertrailer de dragão",
-    "imagem": "https://m.media-amazon.com/images/I/61qZAJLEWWL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DMW9LHGX?tag=malica09-20",
-    "atualizado_em": "2026-09-28T19:54:49.255-03:00"
   }
 ]
