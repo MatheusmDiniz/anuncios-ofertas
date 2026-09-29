@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32420202",
+    "titulo": "Buba, Chocalho Mordedor BPA Free - Coelhinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_792615-MLA100091829771_122025-F.jpg",
+    "preco": 25.99,
+    "preco_anterior": 59.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28Emueu",
+    "atualizado_em": "2026-09-29T16:20:23.794-03:00"
+  },
+  {
     "id": "amazon:B07C67H82M",
     "titulo": "Oferta: Escova Dental Multilaser Elétrica Infantil Health Pro, Multilaser, HC081, Multicor, Tamanho Único",
     "imagem": "https://m.media-amazon.com/images/I/41V+5ALDFLL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CB6KL4LB?tag=malica09-20",
     "atualizado_em": "2026-09-28T16:25:15.615-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72684098",
-    "titulo": "Kit Mini Berço Menina Menino 5 Peças Com Saia Cor Bosque Encantado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851167-MLA111728925368_062026-F.jpg",
-    "preco": 55.9,
-    "preco_anterior": 107.2,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BvMb5X",
-    "atualizado_em": "2026-09-28T16:19:56.114-03:00"
   }
 ]
