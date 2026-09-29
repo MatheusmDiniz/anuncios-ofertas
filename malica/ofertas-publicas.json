@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26414752",
+    "titulo": "Cadeira De Alimentação Portátil Bebê Honey Maxi Baby Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_750553-MLA95713106934_102025-F.jpg",
+    "preco": 289.99,
+    "preco_anterior": 537.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ytCpoP",
+    "atualizado_em": "2026-09-29T16:09:44.419-03:00"
+  },
+  {
     "id": "amazon:B0DMWLYDB8",
     "titulo": "Disney Princesa Castelo Empilhável Rapunzel, Mini Playset com Boneca e Acessórios, Cenários Inspirados em Enrolados",
     "imagem": "https://m.media-amazon.com/images/I/81aE+phvx2L._AC_SL1500_.jpg",
@@ -1628,25 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CYLYDHS2?tag=malica09-20",
     "atualizado_em": "2026-09-28T16:14:48.348-03:00"
-  },
-  {
-    "id": "amazon:B089N7K5QD",
-    "titulo": "Lillo Chupeta Funny Animais Silicone Onça -",
-    "imagem": "https://m.media-amazon.com/images/I/71mpvXTRIDL._AC_SL1500_.jpg",
-    "preco": 9,
-    "preco_anterior": 19,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B089N7K5QD?tag=malica09-20",
-    "atualizado_em": "2026-09-28T16:09:43.381-03:00"
-  },
-  {
-    "id": "amazon:B0H1T7241Z",
-    "titulo": "Barbie Conjunto de Brinquedo Casa Com Escorregador",
-    "imagem": "https://m.media-amazon.com/images/I/61VhNgOsi8L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H1T7241Z?tag=malica09-20",
-    "atualizado_em": "2026-09-28T16:04:39.333-03:00"
   }
 ]
