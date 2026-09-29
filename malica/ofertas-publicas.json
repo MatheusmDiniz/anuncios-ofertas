@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23480808",
+    "titulo": "Laptop Infantil Educativo Spider Man Candide",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
+    "preco": 55,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZSvfs3",
+    "atualizado_em": "2026-09-29T12:43:19.019-03:00"
+  },
+  {
     "id": "amazon:B07M73V2LJ",
     "titulo": "NAN Fórmula Infantil Nan Comfor 2 800G",
     "imagem": "https://m.media-amazon.com/images/I/81VsYfIcsQL._AC_SL1500_.jpg",
