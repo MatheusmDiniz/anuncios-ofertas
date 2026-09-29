@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42724138",
+    "titulo": "Bomba Tira Leite Materno Elétrica Portátil + Mamadeira Extratora Amamentação Sem BPA Coletor Sugador Bombinha Peito 3 Modos 9 Níveis de Sucção Recarregável Silenciosa Display Digital Davely",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_830447-MLA116753714742_092026-F.jpg",
+    "preco": 46.9,
+    "preco_anterior": 84.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1bRE6Vv",
+    "atualizado_em": "2026-09-28T21:12:01.288-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62120518",
     "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Hsd6ZK",
     "atualizado_em": "2026-09-27T21:16:58.809-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75491066",
-    "titulo": "Agitador De Mamadeira Misturador Automático 3 Modos Elétrico Com Display Digital Bpa Free Para Bebe Aquecedor De Mamadeira Preparador De Mamadeira Quicko",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_667738-MLA114372304784_082026-F.jpg",
-    "preco": 64.26,
-    "preco_anterior": 129.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Xr9S1B",
-    "atualizado_em": "2026-09-27T21:11:51.462-03:00"
   }
 ]
