@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CQ454DXM",
+    "titulo": "AUSTRALIAN GOLD PROTETOR CORPORAL GEL CREME KIDS FPS 70 120g",
+    "imagem": "https://m.media-amazon.com/images/I/515dXk81FHL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CQ454DXM?tag=malica09-20",
+    "atualizado_em": "2026-09-29T18:59:30.648-03:00"
+  },
+  {
     "id": "amazon:B07M59DPCJ",
     "titulo": "Oferta: Pais & Filhos Jogo da Forca Educativo para Alfabetização Infantil | Jogo de Tabuleiro de Palavras | Estimula Vocabulário, Raciocínio Lógico e Concentração | 2 a 4 Jogadores | +7 Anos",
     "imagem": "https://m.media-amazon.com/images/I/61r+IwFYwdL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/23k5h1q",
     "atualizado_em": "2026-09-28T19:03:35.314-03:00"
-  },
-  {
-    "id": "amazon:B07D3SCHVS",
-    "titulo": "Sabonete Líquido Huggies Camomila para Recém-Nascidos 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61ENSnIO0qL._AC_SL1500_.jpg",
-    "preco": 12.14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D3SCHVS?tag=malica09-20",
-    "atualizado_em": "2026-09-28T18:58:27.278-03:00"
   }
 ]
