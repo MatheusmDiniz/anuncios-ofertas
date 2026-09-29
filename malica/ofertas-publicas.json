@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D1DSFV8C",
+    "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
+    "imagem": "https://m.media-amazon.com/images/I/61akH2rcdHL._AC_SL1500_.jpg",
+    "preco": 26.4,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=malica09-20",
+    "atualizado_em": "2026-09-29T13:39:52.487-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24765774",
     "titulo": "Triângulo De Atividades Educativo Para Bebê - Buba Cor Colorido",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_887780-MLA95497851780_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=malica09-20",
     "atualizado_em": "2026-09-28T13:40:08.540-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27718452",
-    "titulo": "Apoio Suporte Cabeça Proteção Infantil 0+m Acolchoado Buba C Grafite",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_843015-MLA95941587219_102025-F.jpg",
-    "preco": 68.74,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Z3MgU9",
-    "atualizado_em": "2026-09-28T13:35:02.682-03:00"
   }
 ]
