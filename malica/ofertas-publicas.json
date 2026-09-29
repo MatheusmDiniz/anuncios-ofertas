@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09TF36S57",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71gXxei8HqL._AC_SL1500_.jpg",
+    "preco": 142,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:15:13.872-03:00"
+  },
+  {
     "id": "amazon:B079VTJLMZ",
     "titulo": "NIVEA Creme Hidratante Lata 56g, Hidratação Profunda 24h, Corporal, Uso Diário, Multibenefícios, Todas as Peles",
     "imagem": "https://m.media-amazon.com/images/I/617+4smiitL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1QdwtN9",
     "atualizado_em": "2026-09-28T19:18:59.626-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75488503",
-    "titulo": "Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê Conforto com Chocalho de Pendurar Sensorial Montessori Desenvolvimento Coordenação MLTM ECOM",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924050-MLA114590666315_072026-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 58,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2TA1sJS",
-    "atualizado_em": "2026-09-28T19:13:52.232-03:00"
   }
 ]
