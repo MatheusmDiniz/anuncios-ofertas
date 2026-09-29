@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07WXHPSR5",
+    "titulo": "Boneca Baby Babilina Soninho 34cm, Bambola, original : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/41Cx6wNg5LL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07WXHPSR5?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:35:59.674-03:00"
+  },
+  {
     "id": "amazon:B0GYGXVQ3W",
     "titulo": "Colgate Natural Extracts Creme Dental Clareador, 4x90g",
     "imagem": "https://m.media-amazon.com/images/I/71qhwcTMXZL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2CCe49E",
     "atualizado_em": "2026-09-28T19:39:29.603-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26615543",
-    "titulo": "Capa Colchonete Carrinho Algodão Thity Percal 200 Fios Hipoalergênico",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819895-MLA100082284531_122025-F.jpg",
-    "preco": 26,
-    "preco_anterior": 52,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1AhhgWR",
-    "atualizado_em": "2026-09-28T19:34:20.911-03:00"
   }
 ]
