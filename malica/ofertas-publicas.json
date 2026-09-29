@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G44S7RN1",
+    "titulo": "Patinete Infantil Dobrável 3 Rodas Led Luppy Maxi Toys",
+    "imagem": "https://m.media-amazon.com/images/I/41IPrlt0j3L._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G44S7RN1?tag=malica09-20",
+    "atualizado_em": "2026-09-29T15:12:40.221-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53258842",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
