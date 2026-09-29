@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62120518",
+    "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
+    "preco": 1168,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2S32iHA",
+    "atualizado_em": "2026-09-28T21:06:53.030-03:00"
+  },
+  {
     "id": "amazon:B0789TG4TQ",
     "titulo": "Shampoo Johnson",
     "imagem": "https://m.media-amazon.com/images/I/612IRMp15hL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Xr9S1B",
     "atualizado_em": "2026-09-27T21:11:51.462-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73604609",
-    "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_944934-MLA112072218194_062026-F.jpg",
-    "preco": 34.9,
-    "preco_anterior": 59.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/15u3mgb",
-    "atualizado_em": "2026-09-27T21:06:43.355-03:00"
   }
 ]
