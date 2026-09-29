@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16600923",
+    "titulo": "Talco Pom Pom de Amido de Milho Para Bebê 200g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759853-MLA111048261147_042026-F.jpg",
+    "preco": 25.75,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/21zxWJE",
+    "atualizado_em": "2026-09-29T13:55:12.694-03:00"
+  },
+  {
     "id": "amazon:B0FLZSKSXB",
     "titulo": "Gato Panda - Lixeira Anti Odor Classic 10 Litros – Design Compacto e Higiênico, Fácil de Limpar, Ideal para Quartos de Bebê, Cozinhas",
     "imagem": "https://m.media-amazon.com/images/I/61vsw0mdtdL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1FTYsp8",
     "atualizado_em": "2026-09-28T13:55:33.774-03:00"
-  },
-  {
-    "id": "amazon:B0FMS779RQ",
-    "titulo": "LEGO Friends Barco-axolote Aventureiro 42681",
-    "imagem": "https://m.media-amazon.com/images/I/81vPIwS0mPL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMS779RQ?tag=malica09-20",
-    "atualizado_em": "2026-09-28T13:50:24.492-03:00"
   }
 ]
