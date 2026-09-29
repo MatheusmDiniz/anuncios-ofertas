@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3ZTXHF+B0GW48ZKYM",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
+    "preco": 96,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=malica09-20",
+    "atualizado_em": "2026-09-29T10:39:33.334-03:00"
+  },
+  {
     "id": "shopee:1284908088.23099568593",
     "titulo": "Moletom Canguru Masculino Estampado Ny Urso Infantil Feminino 100% Algodão Premium Reforçado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mr1nhrou169x9e",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=malica09-20",
     "atualizado_em": "2026-09-28T10:39:35.109-03:00"
-  },
-  {
-    "id": "shopee:1443637814.51006015979",
-    "titulo": "Kit 400 Toalhas Umedecidas Chameguinho Baby Lenço Umedecido Infantil Higiene Bebê Menina Menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkij2fr51lhfd4",
-    "preco": 23.9,
-    "preco_anterior": 49.79,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYebo4x8q",
-    "atualizado_em": "2026-09-28T10:34:28.852-03:00"
   }
 ]
