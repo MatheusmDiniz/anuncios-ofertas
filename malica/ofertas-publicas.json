@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CSDXLHGY",
+    "titulo": "Buba Care, Colônia Baby Fresh, 100 Ml",
+    "imagem": "https://m.media-amazon.com/images/I/31pgimJUZjL._AC_SL1500_.jpg",
+    "preco": 32,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CSDXLHGY?tag=malica09-20",
+    "atualizado_em": "2026-09-29T14:00:16.154-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB16600923",
     "titulo": "Talco Pom Pom de Amido de Milho Para Bebê 200g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_759853-MLA111048261147_042026-F.jpg",
