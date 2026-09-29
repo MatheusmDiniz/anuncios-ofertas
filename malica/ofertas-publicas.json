@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28579921",
+    "titulo": "Cadeira de Descanso Bebê Musical Polar Cinza 18kg Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729247-MLA96101820207_102025-F.jpg",
+    "preco": 209.85,
+    "preco_anterior": 366.04,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19n1jmt",
+    "atualizado_em": "2026-09-29T18:13:18.578-03:00"
+  },
+  {
     "id": "amazon:B0CQTNGCF9",
     "titulo": "Play-Doh, Massinha de Modelar Infantil, Smoothies Coloridos - Conjunto de Brinquedo com Liquidificador de Brinquedo, Acessórios e 5 Potes - A partir de 3 Anos",
     "imagem": "https://m.media-amazon.com/images/I/71HyVqL3MRL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D51V4FYN?tag=malica09-20",
     "atualizado_em": "2026-09-28T18:17:15.694-03:00"
-  },
-  {
-    "id": "amazon:B0GTXD1Y46",
-    "titulo": "Grade de Proteção Dobrável para Cama, Barreira de Segurança Articulada, Aço, Kit com 2 Unidades, : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/51TZ5B7LloL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GTXD1Y46?tag=malica09-20",
-    "atualizado_em": "2026-09-28T18:12:11.588-03:00"
   }
 ]
