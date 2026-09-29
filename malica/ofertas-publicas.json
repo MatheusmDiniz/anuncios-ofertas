@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27051169",
+    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
+    "preco": 96.01,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WN2eJH",
+    "atualizado_em": "2026-09-29T09:48:30.596-03:00"
+  },
+  {
     "id": "shopee:1231941451.23198395917",
     "titulo": "Chinelos Infantil Desenho Personalizado Leve Macio Promoçao Xinela Infantil Feminina.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mleyg64sg3yd58",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fwZO4EPKw",
     "atualizado_em": "2026-09-28T09:53:21.279-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68877254",
-    "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
-    "preco": 358,
-    "preco_anterior": 788.7,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jUsuSp",
-    "atualizado_em": "2026-09-28T09:48:14.707-03:00"
   }
 ]
