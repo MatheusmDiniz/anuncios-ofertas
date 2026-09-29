@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24331807",
+    "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
+    "preco": 36,
+    "preco_anterior": 70,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/17j6Grs",
+    "atualizado_em": "2026-09-29T20:22:41.838-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB52340694",
     "titulo": "Sling Wrap Baby Canguru Confortável Cor Cinza Tamanho Único",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_740694-MLA99585533562_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11a9Z7t",
     "atualizado_em": "2026-09-28T20:25:31.865-03:00"
-  },
-  {
-    "id": "amazon:B096KDKNNQ",
-    "titulo": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades | 192 unidades, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Sem fragrâncias, corantes e conservantes",
-    "imagem": "https://m.media-amazon.com/images/I/713euw7uVZL._AC_SL1500_.jpg",
-    "preco": 40,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B096KDKNNQ?tag=malica09-20",
-    "atualizado_em": "2026-09-28T20:20:22.161-03:00"
   }
 ]
