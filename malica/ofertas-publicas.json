@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRS6RN",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51ZGkcF+raL._AC_SL1500_.jpg",
+    "preco": 30.77,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRS6RN?tag=malica09-20",
+    "atualizado_em": "2026-09-29T08:00:56.314-03:00"
+  },
+  {
     "id": "amazon:B0C9W3MZV2",
     "titulo": "Sabonete Nutritivo Johnson",
     "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1NRhM1S",
     "atualizado_em": "2026-09-28T08:05:33.923-03:00"
-  },
-  {
-    "id": "amazon:B099KTRZP7",
-    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
-    "atualizado_em": "2026-09-28T08:00:15.851-03:00"
   }
 ]
