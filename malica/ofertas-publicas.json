@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077C3NM6L",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61l9hhdb3rL._AC_SL1500_.jpg",
+    "preco": 12.82,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077C3NM6L?tag=malica09-20",
+    "atualizado_em": "2026-09-29T14:10:30.369-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28318987",
     "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=malica09-20",
     "atualizado_em": "2026-09-28T14:10:52.868-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45976810",
-    "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
-    "preco": 199.97,
-    "preco_anterior": 334.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/15DaxEK",
-    "atualizado_em": "2026-09-28T14:05:48.783-03:00"
   }
 ]
