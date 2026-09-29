@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65079780",
+    "titulo": "Aquecedor E Esterilizador Mamadeira Bpa Free Para Bebe Quicko Aquecedor De Mamadeira Aquecedor De Mamadeira Usb Preparador De Mamadeira Com Kit Para Limpeza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_875082-MLA114650318643_072026-F.jpg",
+    "preco": 164.9,
+    "preco_anterior": 299.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2rrXFR3",
+    "atualizado_em": "2026-09-29T20:01:59.181-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18392643",
     "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5fp4zA2CBl",
     "atualizado_em": "2026-09-28T20:05:01.033-03:00"
-  },
-  {
-    "id": "shopee:341167297.20698276094",
-    "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
-    "preco": 29.9,
-    "preco_anterior": 69.53,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8V9GMMQwSI",
-    "atualizado_em": "2026-09-28T19:59:54.643-03:00"
   }
 ]
