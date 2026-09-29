@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09BBDVPB1",
+    "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
+    "preco": 7.25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
+    "atualizado_em": "2026-09-29T15:22:54.257-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18395240",
     "titulo": "Escova de Dente Infantil Colgate Tandy 2 unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_645740-MLA99422653592_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B004H49BCI?tag=malica09-20",
     "atualizado_em": "2026-09-28T15:23:26.337-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56211837",
-    "titulo": "Kit Judy Home Com Boneca Judy Casinha Completa Rosa Infantil",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_878108-MLA99622811138_122025-F.jpg",
-    "preco": 56.8,
-    "preco_anterior": 95.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/132At7E",
-    "atualizado_em": "2026-09-28T15:17:55.099-03:00"
   }
 ]
