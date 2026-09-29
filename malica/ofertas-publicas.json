@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75671286",
+    "titulo": "Toalha Bebê Banho Capuz Soft Grande Orelhinha Fralda Forro Cinza Elefantinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897026-MLA114979976775_072026-F.jpg",
+    "preco": 26.6,
+    "preco_anterior": 52.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZG52ZA",
+    "atualizado_em": "2026-09-29T12:11:47.937-03:00"
+  },
+  {
     "id": "amazon:B08R9XTH39",
     "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
     "imagem": "https://m.media-amazon.com/images/I/71bM2gkihVL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1FrzNep",
     "atualizado_em": "2026-09-28T12:12:35.870-03:00"
-  },
-  {
-    "id": "amazon:B0BB4Y6ZNL",
-    "titulo": "Cosco Kids, Cadeira de Refeição Convertty 8 em 1, Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/41YFCcr6QxL._AC_SL1500_.jpg",
-    "preco": 561,
-    "preco_anterior": 899,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BB4Y6ZNL?tag=malica09-20",
-    "atualizado_em": "2026-09-28T12:07:26.919-03:00"
   }
 ]
