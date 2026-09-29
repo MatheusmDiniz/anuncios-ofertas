@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRHZDR",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
+    "preco": 43,
+    "preco_anterior": 62,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=malica09-20",
+    "atualizado_em": "2026-09-29T17:06:53.089-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24722636",
     "titulo": "Copo De Treinamento Buba 360 Antivazamento Com Alça Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793777-MLA99840187657_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CCPXV4XK?tag=malica09-20",
     "atualizado_em": "2026-09-28T17:11:06.893-03:00"
-  },
-  {
-    "id": "amazon:B07Z9SRGSK",
-    "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "imagem": "https://m.media-amazon.com/images/I/51uaIj3cogL._AC_SL1500_.jpg",
-    "preco": 44,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=malica09-20",
-    "atualizado_em": "2026-09-28T17:06:02.186-03:00"
   }
 ]
