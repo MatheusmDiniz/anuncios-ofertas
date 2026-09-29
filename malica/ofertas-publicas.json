@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09S77G7N6",
+    "titulo": "Lenço Umedecido Babysec Pacote Economico 192 folhas",
+    "imagem": "https://m.media-amazon.com/images/I/61A6xlN2EHL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09S77G7N6?tag=malica09-20",
+    "atualizado_em": "2026-09-29T18:38:46.199-03:00"
+  },
+  {
     "id": "amazon:B0C8PT9NBZ",
     "titulo": "Huggies Lenços Umedecidos Higiene Diária Rendem 2x Mais 88 Un",
     "imagem": "https://m.media-amazon.com/images/I/711QFeI0pHL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BJL39X4P?tag=malica09-20",
     "atualizado_em": "2026-09-28T18:42:46.859-03:00"
-  },
-  {
-    "id": "amazon:B08L46TX4L",
-    "titulo": "Mustela Stelatopia Gel Lavante 500 ml - Sabonete Líquido Sem Fragrância para Peles Secas e Extremamente Ressecadas - Lava Sem Ressecar a Pele - Seguro para Bebês, Crianças e Adultos - Stelatopia",
-    "imagem": "https://m.media-amazon.com/images/I/41rG3POKp6L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08L46TX4L?tag=malica09-20",
-    "atualizado_em": "2026-09-28T18:37:41.445-03:00"
   }
 ]
