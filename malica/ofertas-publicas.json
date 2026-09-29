@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26454526",
+    "titulo": "Fisher Price Puxe A Tartaruga Y8652 - Mattel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_832645-MLA99959799305_112025-F.jpg",
+    "preco": 55.84,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2b9dkbC",
+    "atualizado_em": "2026-09-29T13:03:43.537-03:00"
+  },
+  {
     "id": "amazon:B07DHS1MD2",
     "titulo": "Shampoo Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61OBGlobLML._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50ZPzTir48",
     "atualizado_em": "2026-09-28T13:03:55.193-03:00"
-  },
-  {
-    "id": "amazon:B0D6C272X7",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/71zGUIKAcCL._AC_SL1500_.jpg",
-    "preco": 9.32,
-    "preco_anterior": 18.79,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D6C272X7?tag=malica09-20",
-    "atualizado_em": "2026-09-28T12:58:49.295-03:00"
   }
 ]
