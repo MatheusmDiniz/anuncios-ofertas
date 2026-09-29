@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08QG3H6YR",
+    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
+    "preco": 31,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
+    "atualizado_em": "2026-09-29T08:11:16.970-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26337544",
     "titulo": "Porta Chupeta Buba com Alça – Rosa bebê chá de bebê",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_977535-MLA100072983755_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2LRZ87J",
     "atualizado_em": "2026-09-28T08:15:46.320-03:00"
-  },
-  {
-    "id": "amazon:B0BFXJ12QQ",
-    "titulo": "Huggies Fralda Supreme Care M 196 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
-    "atualizado_em": "2026-09-28T08:10:38.321-03:00"
   }
 ]
