@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GKYKZBF",
+    "titulo": "Candide, Laptop Infantil, Barbie, Brinquedo Educativo - Bilíngue : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/61IrteUbAHL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GKYKZBF?tag=malica09-20",
+    "atualizado_em": "2026-09-29T17:17:03.435-03:00"
+  },
+  {
     "id": "amazon:B009KBH0FI",
     "titulo": "Óleo Hidratante de Amêndoas para Bebê Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41-JhIE-jhL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KX59Gt",
     "atualizado_em": "2026-09-28T17:21:19.871-03:00"
-  },
-  {
-    "id": "amazon:B0GW44JM3G",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
-    "preco": 104.4,
-    "preco_anterior": 148.7,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
-    "atualizado_em": "2026-09-28T17:16:12.039-03:00"
   }
 ]
