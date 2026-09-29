@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65552556",
+    "titulo": "Sugador Aspirador Nasal Elétrico Nariz Ouvido Criança Bebe Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_727225-MLA107122249429_022026-F.jpg",
+    "preco": 39.99,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gSQLo2",
+    "atualizado_em": "2026-09-28T21:53:18.433-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62939994",
     "titulo": "Mesa de Atividades Infantil Didática com Blocos de Montar Brinq Kids Azul-marinho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797318-MLA100663215085_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1XY8eLv",
     "atualizado_em": "2026-09-27T21:58:05.478-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75537566",
-    "titulo": "Naninha Para Bebê Macia Antialérgica Ursinho Cabeça Poá Rosa Claro Menina E Menino Algodão Poliéster 30cm Lenço 35x35cm A Partir De 3 Meses Estimula Sentidos Presente Enxoval Quarto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_708782-MLA114257543110_082026-F.jpg",
-    "preco": 21.9,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1uZ47WU",
-    "atualizado_em": "2026-09-27T21:52:57.118-03:00"
   }
 ]
