@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZPQ2RRR",
+    "titulo": "Macacão de dormir para bebês Pacote com 2 pares neutros de algodão com pés para dormir e brincar Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
+    "preco": 135,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:41:05.479-03:00"
+  },
+  {
     "id": "amazon:B07WXHPSR5",
     "titulo": "Boneca Baby Babilina Soninho 34cm, Bambola, original : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/41Cx6wNg5LL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1scmQzP",
     "atualizado_em": "2026-09-28T19:44:37.820-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875892",
-    "titulo": "Granado Sabonete Líquido Glicerina Bebê Tradicional 500 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798374-MLA108959754970_032026-F.jpg",
-    "preco": 39.9,
-    "preco_anterior": 78.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CCe49E",
-    "atualizado_em": "2026-09-28T19:39:29.603-03:00"
   }
 ]
