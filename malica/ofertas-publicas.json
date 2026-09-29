@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35964156",
+    "titulo": "Vittak Kit 10 Protetor Quina Mesa Móveis Cantoneira Em forma de L PVC Bebê Cor Transparente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_664464-MLA99701004510_122025-F.jpg",
+    "preco": 21.9,
+    "preco_anterior": 36.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kJZbsQ",
+    "atualizado_em": "2026-09-29T15:48:27.848-03:00"
+  },
+  {
     "id": "amazon:B00DX0FJXW",
     "titulo": "Tira Manchas Líquido Vanish Oxi Action Pink refil 500ml para Roupas Coloridas. Sem Cloro, Remove Manchas sem Danificar o Tecido, Preserva as Cores e Deixa as Roupas com Aparência de Novas",
     "imagem": "https://m.media-amazon.com/images/I/81GieV5vpeL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1da7QSN",
     "atualizado_em": "2026-09-28T15:49:01.501-03:00"
-  },
-  {
-    "id": "amazon:B0845Y8VWJ",
-    "titulo": "Mustela Shampoo Recém-Nascido 150 ml - Xampu textura Espuma, Previne e Elimina a Crosta Láctea dos Bebês - Vegano, feito com 99% de ingredientes de origem natural - Mustela Bebê e Criança",
-    "imagem": "https://m.media-amazon.com/images/I/41F0QUlisCL._AC_SL1500_.jpg",
-    "preco": 52,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0845Y8VWJ?tag=malica09-20",
-    "atualizado_em": "2026-09-28T15:43:52.852-03:00"
   }
 ]
