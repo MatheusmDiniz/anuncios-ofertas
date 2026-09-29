@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32257502",
+    "titulo": "Trocador Anatômico De Cômoda Americano 200 Fios 68x45x10 Cor Bege 2165-palha C Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620567-MLA96422860770_102025-F.jpg",
+    "preco": 58.49,
+    "preco_anterior": 130,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kZFHRN",
+    "atualizado_em": "2026-09-29T16:40:54.704-03:00"
+  },
+  {
     "id": "amazon:B0DJ3M8JDJ",
     "titulo": "Oferta para Membros Prime: Replay Kids Troninho Penico Infantil Musical Sapinho Verde",
     "imagem": "https://m.media-amazon.com/images/I/613jJNjIokL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DYG9DDLV?tag=malica09-20",
     "atualizado_em": "2026-09-28T16:45:42.651-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61118769",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
-    "preco": 410,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2sQi2Ef",
-    "atualizado_em": "2026-09-28T16:40:38.391-03:00"
   }
 ]
