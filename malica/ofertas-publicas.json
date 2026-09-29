@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YK3CVLY",
+    "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+    "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
+    "preco": 109,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
+    "atualizado_em": "2026-09-29T12:27:56.989-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27488701",
     "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
