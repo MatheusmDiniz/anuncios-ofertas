@@ -1638,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B089YLCYBZ?tag=malica09-20",
     "atualizado_em": "2026-09-28T12:27:59.739-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27637270",
-    "titulo": "Buba, Almofada De Atividades Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791180-MLA99934022017_112025-F.jpg",
-    "preco": 99.99,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1XkHp2v",
-    "atualizado_em": "2026-09-28T12:22:53.890-03:00"
   }
 ]
