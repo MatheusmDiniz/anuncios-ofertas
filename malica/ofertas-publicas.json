@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0781CTJF6",
+    "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
+    "imagem": "https://m.media-amazon.com/images/I/51XpbplLvaL._AC_SL1500_.jpg",
+    "preco": 8.55,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0781CTJF6?tag=malica09-20",
+    "atualizado_em": "2026-09-29T19:25:48.827-03:00"
+  },
+  {
     "id": "amazon:B09JZSPQCM",
     "titulo": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
     "imagem": "https://m.media-amazon.com/images/I/61Rfe+hKrfL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZPPR52L?tag=malica09-20",
     "atualizado_em": "2026-09-28T19:29:12.594-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77605344",
-    "titulo": "Banheira Bebe Dobrável Com Termômetro Almofada Azul Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672653-MLA114996563990_082026-F.jpg",
-    "preco": 149.5,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2h8hBYD",
-    "atualizado_em": "2026-09-28T19:24:07.460-03:00"
   }
 ]
