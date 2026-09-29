@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25542860",
+    "titulo": "Sala De Jantar Sylvanian Families Dining Room Set",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_701101-MLA99589750440_122025-F.jpg",
+    "preco": 159.08,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qanfLg",
+    "atualizado_em": "2026-09-28T21:37:52.091-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74606583",
     "titulo": "Kit 3 Brinquedo Bebê Gira C/ Ventosa para Banho Sensorial Montessori Educativo MLTM ECOM",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_614318-MLA113964852903_062026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/29yCHDY",
     "atualizado_em": "2026-09-27T21:42:40.065-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76482730",
-    "titulo": "Wrap Sling Canguru Bebê Carregador Carrier Enxoval Passeio - BusinessEcom",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_848872-MLA114382238738_082026-F.jpg",
-    "preco": 39.9,
-    "preco_anterior": 75,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bcBeKh",
-    "atualizado_em": "2026-09-27T21:37:30.550-03:00"
   }
 ]
