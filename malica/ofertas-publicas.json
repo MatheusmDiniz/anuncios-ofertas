@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C8PT9NBZ",
+    "titulo": "Huggies Lenços Umedecidos Higiene Diária Rendem 2x Mais 88 Un",
+    "imagem": "https://m.media-amazon.com/images/I/711QFeI0pHL._AC_SL1500_.jpg",
+    "preco": 9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C8PT9NBZ?tag=malica09-20",
+    "atualizado_em": "2026-09-29T18:33:39.489-03:00"
+  },
+  {
     "id": "amazon:B0CQTLJRR7",
     "titulo": "Play-Doh, Massinha de Modelar Infantil, Kitchen Creations, Macarrão Mágico - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 3 Anos",
     "imagem": "https://m.media-amazon.com/images/I/71IYqmemn1L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08L46TX4L?tag=malica09-20",
     "atualizado_em": "2026-09-28T18:37:41.445-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26213267",
-    "titulo": "Minigame Laptop Barbie Educativo Bilíngue Candide Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_609516-MLA116538346022_092026-F.jpg",
-    "preco": 54.89,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WnpTxa",
-    "atualizado_em": "2026-09-28T18:32:37.021-03:00"
   }
 ]
