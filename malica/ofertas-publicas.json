@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44895132",
+    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
+    "preco": 56,
+    "preco_anterior": 249,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1SZdqFJ",
+    "atualizado_em": "2026-09-29T14:36:32.696-03:00"
+  },
+  {
     "id": "amazon:B07CBL2H3M",
     "titulo": "Oferta: Estrela, Jogo Tapa Certo | Para 5 Anos ou Mais, Inclui Mãozinhas, Cartas Redondas, Tema de Animais, Jogo em Família",
     "imagem": "https://m.media-amazon.com/images/I/619Vr4UzwqL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Dax1bi",
     "atualizado_em": "2026-09-28T14:36:58.034-03:00"
-  },
-  {
-    "id": "amazon:B00TQCAAQW",
-    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
-    "preco": 59,
-    "preco_anterior": 100,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
-    "atualizado_em": "2026-09-28T14:31:50.060-03:00"
   }
 ]
