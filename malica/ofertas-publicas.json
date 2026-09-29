@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JM8CG5D",
+    "titulo": "Comfort Amaciante Concentrado Puro Cuidado 1,5L",
+    "imagem": "https://m.media-amazon.com/images/I/61Ju1heOhrL._AC_SL1500_.jpg",
+    "preco": 24.69,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JM8CG5D?tag=malica09-20",
+    "atualizado_em": "2026-09-29T18:48:56.681-03:00"
+  },
+  {
     "id": "amazon:B08K4L37HD",
     "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CHZCH5VL?tag=malica09-20",
     "atualizado_em": "2026-09-28T18:53:21.839-03:00"
-  },
-  {
-    "id": "amazon:B093QCF4PM",
-    "titulo": "Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilíngue",
-    "imagem": "https://m.media-amazon.com/images/I/61DxXmGX-+L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093QCF4PM?tag=malica09-20",
-    "atualizado_em": "2026-09-28T18:48:16.733-03:00"
   }
 ]
