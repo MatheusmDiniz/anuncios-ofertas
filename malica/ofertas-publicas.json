@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KPQQWF+B099KTRZP7+B099KV2733+B099KW58QQ+B099KWB62Y",
+    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
+    "atualizado_em": "2026-09-29T15:02:27.968-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28368344",
     "titulo": "Rede de proteção para banheira Buba - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_896192-MLA116104875284_092026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B000GKUEVE?tag=malica09-20",
     "atualizado_em": "2026-09-28T15:02:29.969-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46197186",
-    "titulo": "Espelho Retrovisor Para Banco Traseiro - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707170-MLA100078107905_122025-F.jpg",
-    "preco": 46.32,
-    "preco_anterior": 97.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2YRPV3y",
-    "atualizado_em": "2026-09-28T14:57:24.155-03:00"
   }
 ]
