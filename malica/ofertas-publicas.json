@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74606583",
+    "titulo": "Kit 3 Brinquedo Bebê Gira C/ Ventosa para Banho Sensorial Montessori Educativo MLTM ECOM",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_614318-MLA113964852903_062026-F.jpg",
+    "preco": 27,
+    "preco_anterior": 59,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2B9WCb9",
+    "atualizado_em": "2026-09-28T21:32:43.071-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23491820",
     "titulo": "Pinico Troninho Infantil Bebês Desfralde Recipiente Buba Cor Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_914714-MLA100101043423_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bcBeKh",
     "atualizado_em": "2026-09-27T21:37:30.550-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17775080",
-    "titulo": "Huggies Lenços Umedecidos Higiene Superior Limpam 2x Mais 48 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969938-MLA110462868389_042026-F.jpg",
-    "preco": 10.99,
-    "preco_anterior": 19.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2YBUR6P",
-    "atualizado_em": "2026-09-27T21:32:22.444-03:00"
   }
 ]
