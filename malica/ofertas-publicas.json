@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50738913",
+    "titulo": "Kit Babadores Bandana Bebê Gênero Unissex Child Of Mine 3 Unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753783-MLA96677488573_102025-F.jpg",
+    "preco": 64.9,
+    "preco_anterior": 129.48,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XAAp71",
+    "atualizado_em": "2026-09-29T09:38:12.580-03:00"
+  },
+  {
     "id": "shopee:728451683.23991805523",
     "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGjAWvDT4",
     "atualizado_em": "2026-09-28T09:43:04.656-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB59097044",
-    "titulo": "Kit 148 Blocos Imã Magnéticos Construção Montar Empilhamento Cubo Infantil Brinquedo Educativo Covei Toys",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA116378687368_092026-F.jpg",
-    "preco": 97,
-    "preco_anterior": 198.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/22MvWWY",
-    "atualizado_em": "2026-09-28T09:37:58.176-03:00"
   }
 ]
