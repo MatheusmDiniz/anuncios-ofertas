@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1231941451.23198395917",
+    "titulo": "Chinelos Infantil Desenho Personalizado Leve Macio Promoçao Xinela Infantil Feminina.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mleyg64sg3yd58",
+    "preco": 12.99,
+    "preco_anterior": 25.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5AsrZz1SDd",
+    "atualizado_em": "2026-09-29T09:43:18.138-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50738913",
     "titulo": "Kit Babadores Bandana Bebê Gênero Unissex Child Of Mine 3 Unidades",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_753783-MLA96677488573_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1jUsuSp",
     "atualizado_em": "2026-09-28T09:48:14.707-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58214519187",
-    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7VGjAWvDT4",
-    "atualizado_em": "2026-09-28T09:43:04.656-03:00"
   }
 ]
