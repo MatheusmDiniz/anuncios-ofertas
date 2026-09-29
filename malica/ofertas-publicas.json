@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09WTLQ53R",
+    "titulo": "Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1) : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
+    "preco": 60,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09WTLQ53R?tag=malica09-20",
+    "atualizado_em": "2026-09-29T08:31:47.243-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68086238",
     "titulo": "Boneca Bebê Reborn Menino Recém Nascido Pode Dar Banho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_825513-MLA109629080834_042026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZZgQRT",
     "atualizado_em": "2026-09-28T08:36:17.527-03:00"
-  },
-  {
-    "id": "amazon:B0D4NN2W72",
-    "titulo": "Kit Aptanutri Premium 3 Fórmula Infantil em Pó para Crianças a partir de 1 Ano, Contém Leite – 800 g (Kit com 4 Unidades)",
-    "imagem": "https://m.media-amazon.com/images/I/61kIg0LhZWL._AC_SL1500_.jpg",
-    "preco": 211,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D4NN2W72?tag=malica09-20",
-    "atualizado_em": "2026-09-28T08:31:08.471-03:00"
   }
 ]
