@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07C67H82M",
+    "titulo": "Oferta: Escova Dental Multilaser Elétrica Infantil Health Pro, Multilaser, HC081, Multicor, Tamanho Único",
+    "imagem": "https://m.media-amazon.com/images/I/41V+5ALDFLL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07C67H82M?tag=malica09-20",
+    "atualizado_em": "2026-09-29T16:15:15.120-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26414752",
     "titulo": "Cadeira De Alimentação Portátil Bebê Honey Maxi Baby Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_750553-MLA95713106934_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2BvMb5X",
     "atualizado_em": "2026-09-28T16:19:56.114-03:00"
-  },
-  {
-    "id": "amazon:B0CYLYDHS2",
-    "titulo": "Shampoo Huggies Kids Nutrição e Força Enrolados 360 ml",
-    "imagem": "https://m.media-amazon.com/images/I/61ndOSBPPkL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CYLYDHS2?tag=malica09-20",
-    "atualizado_em": "2026-09-28T16:14:48.348-03:00"
   }
 ]
