@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FS8P22T",
+    "titulo": "Kit Primeiros Passos - Lillo, Rosa, Vários volumes",
+    "imagem": "https://m.media-amazon.com/images/I/612BgPq7pPL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FS8P22T?tag=malica09-20",
+    "atualizado_em": "2026-09-29T16:56:39.184-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26792297",
     "titulo": "Kit Escova Com Bucha Esponja Para Lavar Mamadeira E Bico Cor Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_898239-MLA100111333515_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C6BZ9QTR?tag=malica09-20",
     "atualizado_em": "2026-09-28T17:00:56.709-03:00"
-  },
-  {
-    "id": "amazon:B0DJ17CR8W",
-    "titulo": "LEGO Ninjago Traje de Meca de Batalha do Zane 71827 (92 Peças)",
-    "imagem": "https://m.media-amazon.com/images/I/81Hw5KRvM0L._AC_SL1500_.jpg",
-    "preco": 52,
-    "preco_anterior": 89,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ17CR8W?tag=malica09-20",
-    "atualizado_em": "2026-09-28T16:55:53.066-03:00"
   }
 ]
