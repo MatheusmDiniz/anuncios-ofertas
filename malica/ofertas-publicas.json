@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25687130",
+    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
+    "preco": 93.9,
+    "preco_anterior": 169.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26WmrW9",
+    "atualizado_em": "2026-09-28T21:43:00.551-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25542860",
     "titulo": "Sala De Jantar Sylvanian Families Dining Room Set",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_701101-MLA99589750440_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uPLxUV",
     "atualizado_em": "2026-09-27T21:47:48.709-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50689223",
-    "titulo": "Colchão Carrinho Bebê Acolchoado Colchonete Moises Algodão Cor Vermelho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_736539-MLA85419587243_052025-F.jpg",
-    "preco": 24.47,
-    "preco_anterior": 69.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/29yCHDY",
-    "atualizado_em": "2026-09-27T21:42:40.065-03:00"
   }
 ]
