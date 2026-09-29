@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75927872",
+    "titulo": "Aspirador Sugador Nasal Bebê Elétrico Limpeza Nariz Ouvido Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_670015-MLA115307748767_072026-F.jpg",
+    "preco": 37.99,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1czvY8J",
+    "atualizado_em": "2026-09-29T15:28:02.205-03:00"
+  },
+  {
     "id": "amazon:B09BBDVPB1",
     "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
