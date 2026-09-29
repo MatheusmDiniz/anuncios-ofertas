@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67009348",
+    "titulo": "Kit 3 Travas De Geladeira E Gavetas Para Segurança Infantil Não Abre A Porta Adesivo Ultra Resistente Fácil De Instalar Mantem A Porta Fechada",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648860-MLA111993607015_052026-F.jpg",
+    "preco": 19,
+    "preco_anterior": 39.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/333M14g",
+    "atualizado_em": "2026-09-29T10:19:11.783-03:00"
+  },
+  {
     "id": "shopee:287082132.27580831879",
     "titulo": "Colchão Para Berço Desmontável Chiqueirinho Cercadinho Capa Removível 90x60x07cm Macio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg841a0agnb4ed",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q13y4NM3H",
     "atualizado_em": "2026-09-28T10:24:10.845-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB64140648",
-    "titulo": "Kit 2 Travas De Geladeira Gavetas Segurança Infantil Mantem Porta Fechada Adesivo Branco Não Abre A Porta",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823023-MLA108369539617_032026-F.jpg",
-    "preco": 19,
-    "preco_anterior": 33,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/25RDtRr",
-    "atualizado_em": "2026-09-28T10:19:04.753-03:00"
   }
 ]
