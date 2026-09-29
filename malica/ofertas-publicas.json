@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB41898480",
+    "titulo": "Retrovisor Bebê Espelho Para Banco Traseiro Carro Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_736189-MLA99991510869_112025-F.jpg",
+    "preco": 62,
+    "preco_anterior": 119.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/16wvoKp",
+    "atualizado_em": "2026-09-29T17:52:53.132-03:00"
+  },
+  {
     "id": "amazon:B0GW3XSY4W",
     "titulo": "Fralda Pampers Confort Sec Tamanho XG, 86 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71MTFZFdO9L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/8538017470?tag=malica09-20",
     "atualizado_em": "2026-09-28T17:56:58.587-03:00"
-  },
-  {
-    "id": "amazon:8538006363",
-    "titulo": "Oferta: Eu e o Meu Papai!",
-    "imagem": "https://m.media-amazon.com/images/I/71YLDIHRyHL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/8538006363?tag=malica09-20",
-    "atualizado_em": "2026-09-28T17:51:54.689-03:00"
   }
 ]
