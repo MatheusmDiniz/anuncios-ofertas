@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397455",
+    "titulo": "Pomada Bepantol Baby 120g Creme Preventivo Assaduras Hipoalergênico",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_608377-MLA105016133082_012026-F.jpg",
+    "preco": 52.63,
+    "preco_anterior": 91,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kYry3h",
+    "atualizado_em": "2026-09-29T16:30:37.386-03:00"
+  },
+  {
     "id": "amazon:B095R9CKYR",
     "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
     "imagem": "https://m.media-amazon.com/images/I/71DAxC1Pu4L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=malica09-20",
     "atualizado_em": "2026-09-28T16:35:28.789-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB49357605",
-    "titulo": "Trocador De Fraldas Portátil Impermeavel Com Bolso Cor Savana",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978472-MLA100067070359_122025-F.jpg",
-    "preco": 24.5,
-    "preco_anterior": 49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Wg4tB2",
-    "atualizado_em": "2026-09-28T16:30:23.184-03:00"
   }
 ]
