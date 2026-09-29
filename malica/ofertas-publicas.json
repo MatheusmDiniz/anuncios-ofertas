@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72681875",
+    "titulo": "Toalha De Bebe Infantil Macia Com Capuz Grande Forrada Cor Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777179-MLA112817305161_062026-F.jpg",
+    "preco": 24,
+    "preco_anterior": 45,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zxKVtA",
+    "atualizado_em": "2026-09-29T20:53:20.629-03:00"
+  },
+  {
     "id": "amazon:B0FVB7KV7G+B0G16WYL96",
     "titulo": "Buba, Kit 3 Mamadeiras Easy Flow Nuvem Azul 120/270/330ml",
     "imagem": "https://m.media-amazon.com/images/I/51Ea7liXrjL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XLwZv2",
     "atualizado_em": "2026-09-28T20:56:39.026-03:00"
-  },
-  {
-    "id": "amazon:B07FN7VP5Y",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
-    "imagem": "https://m.media-amazon.com/images/I/71EGaknfKuL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=malica09-20",
-    "atualizado_em": "2026-09-28T20:51:29.381-03:00"
   }
 ]
