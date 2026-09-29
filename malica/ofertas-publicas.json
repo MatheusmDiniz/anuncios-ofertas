@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27045155",
+    "titulo": "Babador Impermeável Buba para Bebês com Bolso e Design de Unicórnio",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_769819-MLA99596978560_122025-F.jpg",
+    "preco": 14.19,
+    "preco_anterior": 23.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ibo9ao",
+    "atualizado_em": "2026-09-29T15:38:15.241-03:00"
+  },
+  {
     "id": "amazon:B08GL1ZY3B",
     "titulo": "Anasol Protetor Solar KIDS FPS 90-100 g",
     "imagem": "https://m.media-amazon.com/images/I/51yPL8ljAIL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/138DV6n",
     "atualizado_em": "2026-09-28T15:38:47.904-03:00"
-  },
-  {
-    "id": "amazon:B0DR3N5BV6",
-    "titulo": "Oferta: Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
-    "imagem": "https://m.media-amazon.com/images/I/710kBoOgaEL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DR3N5BV6?tag=malica09-20",
-    "atualizado_em": "2026-09-28T15:33:39.808-03:00"
   }
 ]
