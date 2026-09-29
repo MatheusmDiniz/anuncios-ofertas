@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28203800",
+    "titulo": "Trocador Portátil Bege de Algodão Impermeável Batistela Baby Dobrável Lavável Unissex",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908952-MLA113098695541_062026-F.jpg",
+    "preco": 107,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ms1HNX",
+    "atualizado_em": "2026-09-29T12:53:30.124-03:00"
+  },
+  {
     "id": "amazon:B076X7VHWN",
     "titulo": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
     "imagem": "https://m.media-amazon.com/images/I/61Tgw23t8-L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1oVc6pi",
     "atualizado_em": "2026-09-28T12:53:42.927-03:00"
-  },
-  {
-    "id": "amazon:B0CHZCWLV6",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
-    "imagem": "https://m.media-amazon.com/images/I/41BwxdG9AnL._AC_SL1500_.jpg",
-    "preco": 34.99,
-    "preco_anterior": 77.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=malica09-20",
-    "atualizado_em": "2026-09-28T12:48:33.735-03:00"
   }
 ]
