@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077C2D43T",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61ZNprORA+L._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077C2D43T?tag=malica09-20",
+    "atualizado_em": "2026-09-29T12:17:18.963-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75671286",
     "titulo": "Toalha Bebê Banho Capuz Soft Grande Orelhinha Fralda Forro Cinza Elefantinho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_897026-MLA114979976775_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=malica09-20",
     "atualizado_em": "2026-09-28T12:17:40.678-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50138205",
-    "titulo": "Babadores Bandana Kit C/10 Rosa Estampas Animais 0-24 Meses",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_919553-MLA99556921218_122025-F.jpg",
-    "preco": 34,
-    "preco_anterior": 79.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1FrzNep",
-    "atualizado_em": "2026-09-28T12:12:35.870-03:00"
   }
 ]
