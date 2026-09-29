@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FLP87QP",
+    "titulo": "Granado Lenço Umedecido Bebê, Erva Doce, 50 Unidades | Lenços macios, flexíveis e resistentes. : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/511dfauTXoL._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FLP87QP?tag=malica09-20",
+    "atualizado_em": "2026-09-29T20:32:55.066-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47579529",
     "titulo": "Ninho Redutor De Berço Com Mosquiteiro Com Laço E Zíper Cor Rosa Bebê",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_676911-MLA104907483056_012026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13LkGJi",
     "atualizado_em": "2026-09-28T20:35:44.059-03:00"
-  },
-  {
-    "id": "amazon:B0DTLL8MLR",
-    "titulo": "Oferta: Kit 3 Creme Preventivo de Assaduras 45g Leve 3 Pague 2- Baruel Baby",
-    "imagem": "https://m.media-amazon.com/images/I/71qU2iIhVeL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DTLL8MLR?tag=malica09-20",
-    "atualizado_em": "2026-09-28T20:30:36.300-03:00"
   }
 ]
