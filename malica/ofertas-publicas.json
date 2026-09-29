@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076X7VHWN",
+    "titulo": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
+    "imagem": "https://m.media-amazon.com/images/I/61Tgw23t8-L._AC_SL1500_.jpg",
+    "preco": 55,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=malica09-20",
+    "atualizado_em": "2026-09-29T12:48:22.487-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23480808",
     "titulo": "Laptop Infantil Educativo Spider Man Candide",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=malica09-20",
     "atualizado_em": "2026-09-28T12:48:33.735-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79378634",
-    "titulo": "Sugador Aspirador Nasal Elétrico Infantil Recarregável 6 Velocidades com bico e filtros A2 Eletronics - Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_976864-MLA116221897636_092026-F.jpg",
-    "preco": 44.99,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pMmJ5g",
-    "atualizado_em": "2026-09-28T12:43:27.827-03:00"
   }
 ]
