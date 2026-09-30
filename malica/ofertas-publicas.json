@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25863440",
+    "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
+    "preco": 82.66,
+    "preco_anterior": 147.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kf8ris",
+    "atualizado_em": "2026-09-30T09:07:45.703-03:00"
+  },
+  {
     "id": "amazon:B0975WWR2C",
     "titulo": "Oferta: Babá Eletrônica, TakTark Câmera para Bebês com Tela de 3.2\", Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Canção de Ninar",
     "imagem": "https://m.media-amazon.com/images/I/61h2x-zBZIL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07CTH8RTW?tag=malica09-20",
     "atualizado_em": "2026-09-29T09:12:39.139-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47912495",
-    "titulo": "Hastes Flexíveis Buba Bebê Ponta Proteção Cotonete 60 Unid",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744521-MLA83727475941_042025-F.jpg",
-    "preco": 12.9,
-    "preco_anterior": 59.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Z6BVH8",
-    "atualizado_em": "2026-09-29T09:07:35.163-03:00"
   }
 ]
