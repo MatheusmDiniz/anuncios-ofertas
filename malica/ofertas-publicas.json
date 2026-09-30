@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:596442927.19299244394",
+    "titulo": "Calça Jeans Infantil Jogger Menino com Elástico na Cintura",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mt8gvlvp7jls3b",
+    "preco": 25.99,
+    "preco_anterior": 44.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/gQTopMEmZ",
+    "atualizado_em": "2026-09-30T11:56:27.298-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB60823917",
     "titulo": "Canguru Bolsa Carregar Bebe Passeio 12 Posições 3 Em1 Até 20kg Bolsa Suporte Bebê Azul Claro",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656769-MLA97354225431_112025-F.jpg",
@@ -1618,25 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2iNosuF",
     "atualizado_em": "2026-09-29T12:01:35.225-03:00"
-  },
-  {
-    "id": "amazon:B07J2JZYW3",
-    "titulo": "Oferta: Pelúcia Zuma, 12",
-    "imagem": "https://m.media-amazon.com/images/I/61MR8FzptfL._AC_SL1500_.jpg",
-    "preco": 78.99,
-    "preco_anterior": 129.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07J2JZYW3?tag=malica09-20",
-    "atualizado_em": "2026-09-29T11:56:26.512-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39456030",
-    "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
-    "preco": 190.39,
-    "preco_anterior": 327,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hPdwGi",
-    "atualizado_em": "2026-09-29T11:51:21.434-03:00"
   }
 ]
