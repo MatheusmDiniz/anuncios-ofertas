@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JQNSTJY",
+    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+    "imagem": "https://m.media-amazon.com/images/I/61A+Lzk0U2L._AC_SL1500_.jpg",
+    "preco": 12,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=malica09-20",
+    "atualizado_em": "2026-09-29T21:09:00.023-03:00"
+  },
+  {
     "id": "amazon:B0GTRKK1R2",
     "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
     "imagem": "https://m.media-amazon.com/images/I/611Nr1731tL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1bRE6Vv",
     "atualizado_em": "2026-09-28T21:12:01.288-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62120518",
-    "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
-    "preco": 1168,
-    "preco_anterior": 1999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2S32iHA",
-    "atualizado_em": "2026-09-28T21:06:53.030-03:00"
   }
 ]
