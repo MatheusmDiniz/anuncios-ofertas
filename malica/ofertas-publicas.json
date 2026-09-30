@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00NHQF6MG",
+    "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
+    "imagem": "https://m.media-amazon.com/images/I/81sXyDjMOPL._AC_SL1500_.jpg",
+    "preco": 388,
+    "preco_anterior": 599,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00NHQF6MG?tag=malica09-20",
+    "atualizado_em": "2026-09-30T17:04:17.762-03:00"
+  },
+  {
     "id": "amazon:B0B2VFX4V1",
     "titulo": "Melatonina Vitasay Sabor Laranja com 150 Comprimidos",
     "imagem": "https://m.media-amazon.com/images/I/51KWXbbgNuL._AC_SL1500_.jpg",
