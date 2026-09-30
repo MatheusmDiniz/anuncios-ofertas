@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69621632",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789253-MLA111638452273_052026-F.jpg",
+    "preco": 155.9,
+    "preco_anterior": 272,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NgV8NW",
+    "atualizado_em": "2026-09-30T10:29:55.616-03:00"
+  },
+  {
     "id": "shopee:354846842.19923816957",
     "titulo": "Trocador Plastificado de Nenem Com Amarras  - Oferta - Bebe - Atenas",
     "imagem": "https://cf.shopee.com.br/file/fef4d293b801cafb5137cc4a7e79dc0c",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3Vkdb01RrX",
     "atualizado_em": "2026-09-29T10:34:28.067-03:00"
-  },
-  {
-    "id": "amazon:B0848FMW1W+B08K4JSQ2M+B08K4L452V+B08K4MXDVX",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 124 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/610zsSAMtpL._AC_SL1500_.jpg",
-    "preco": 161,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0848FMW1W?tag=malica09-20",
-    "atualizado_em": "2026-09-29T10:29:22.567-03:00"
   }
 ]
