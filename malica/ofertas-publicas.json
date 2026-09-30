@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JXP4NFR",
+    "titulo": "Buba Garrafinha De Aluminio Animal Fun Macaco Colorido",
+    "imagem": "https://m.media-amazon.com/images/I/51I9KBS9ALL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JXP4NFR?tag=malica09-20",
+    "atualizado_em": "2026-09-30T17:39:53.489-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46014518",
     "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1RYEJKx",
     "atualizado_em": "2026-09-29T17:42:37.473-03:00"
-  },
-  {
-    "id": "amazon:B07B9HHG39",
-    "titulo": "Patrulha Canina Mini Maleta da Aventura Sunny Brinquedos, Multicor : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/616vxlnbMCL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": 49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07B9HHG39?tag=malica09-20",
-    "atualizado_em": "2026-09-29T17:37:28.625-03:00"
   }
 ]
