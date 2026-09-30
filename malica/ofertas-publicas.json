@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39371094",
+    "titulo": "Bicicleta De Equilíbrio Buba Com Som Azul +12m",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631463-MLA99878882007_112025-F.jpg",
+    "preco": 165,
+    "preco_anterior": 284.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Vwv8DL",
+    "atualizado_em": "2026-09-30T14:46:13.985-03:00"
+  },
+  {
     "id": "amazon:B098BX31JL",
     "titulo": "Baby Dove Sabonete Líquido De Glicerina Hidratação Relaxante Hora De Dormir Frasco 400 Ml",
     "imagem": "https://m.media-amazon.com/images/I/61g5SCJ2r0L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1jnumUJ",
     "atualizado_em": "2026-09-29T14:47:11.057-03:00"
-  },
-  {
-    "id": "amazon:B0C9L6KXQB",
-    "titulo": "Philips Avent Mamadeira Pétala 3.0 11oz/330ml com bico de fluxo rápido (Fluxo 4), SCY906/01",
-    "imagem": "https://m.media-amazon.com/images/I/51LHkP+2nKL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9L6KXQB?tag=malica09-20",
-    "atualizado_em": "2026-09-29T14:42:02.430-03:00"
   }
 ]
