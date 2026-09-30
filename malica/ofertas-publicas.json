@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093GBK61S",
+    "titulo": "Oferta: Pomada Pom Pom Anti Assaduras 90G",
+    "imagem": "https://m.media-amazon.com/images/I/61Z-EvS7jzL._AC_SL1500_.jpg",
+    "preco": 22.54,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093GBK61S?tag=malica09-20",
+    "atualizado_em": "2026-09-30T09:23:01.210-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35768977",
     "titulo": "Garrafa Térmica Infantil Inox 400ml Parede Dupla Canudo Buba Cor Rosa-chiclete",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_862956-MLA100076182417_122025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/33iFhVy",
     "atualizado_em": "2026-09-29T09:27:59.565-03:00"
-  },
-  {
-    "id": "shopee:1361476561.22493583538",
-    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
-    "preco": 36.9,
-    "preco_anterior": 87.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V1qjq5FKm",
-    "atualizado_em": "2026-09-29T09:22:51.849-03:00"
   }
 ]
