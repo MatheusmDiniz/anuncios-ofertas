@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B2VFX4V1",
+    "titulo": "Melatonina Vitasay Sabor Laranja com 150 Comprimidos",
+    "imagem": "https://m.media-amazon.com/images/I/51KWXbbgNuL._AC_SL1500_.jpg",
+    "preco": 53.67,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B2VFX4V1?tag=malica09-20",
+    "atualizado_em": "2026-09-30T16:59:12.809-03:00"
+  },
+  {
     "id": "amazon:B0D49X477W",
     "titulo": "Carrinho de Bebê Safety 1st, Bytes, Grey Denin",
     "imagem": "https://m.media-amazon.com/images/I/51zqUefznML._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2wxKJfX",
     "atualizado_em": "2026-09-29T17:01:47.766-03:00"
-  },
-  {
-    "id": "amazon:B07FS8P22T",
-    "titulo": "Kit Primeiros Passos - Lillo, Rosa, Vários volumes",
-    "imagem": "https://m.media-amazon.com/images/I/612BgPq7pPL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FS8P22T?tag=malica09-20",
-    "atualizado_em": "2026-09-29T16:56:39.184-03:00"
   }
 ]
