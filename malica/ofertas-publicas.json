@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GTRKK1R2",
+    "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
+    "imagem": "https://m.media-amazon.com/images/I/611Nr1731tL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=malica09-20",
+    "atualizado_em": "2026-09-29T21:03:29.452-03:00"
+  },
+  {
     "id": "amazon:B0CPYDJLH2",
     "titulo": "Oferta: L",
     "imagem": "https://m.media-amazon.com/images/I/61g91pR25kL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2S32iHA",
     "atualizado_em": "2026-09-28T21:06:53.030-03:00"
-  },
-  {
-    "id": "amazon:B0789TG4TQ",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/612IRMp15hL._AC_SL1500_.jpg",
-    "preco": 12.82,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0789TG4TQ?tag=malica09-20",
-    "atualizado_em": "2026-09-28T21:01:44.340-03:00"
   }
 ]
