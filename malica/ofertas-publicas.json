@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63962761",
+    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
+    "preco": 94.91,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SJwgA7",
+    "atualizado_em": "2026-09-30T13:54:37.315-03:00"
+  },
+  {
     "id": "amazon:B08Q8LDKVN",
     "titulo": "Oferta: Fun Divirta-se - Disney Pelúcia Dama - 35cm - A partir de 24 meses",
     "imagem": "https://m.media-amazon.com/images/I/61sgjBpDaxL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/21zxWJE",
     "atualizado_em": "2026-09-29T13:55:12.694-03:00"
-  },
-  {
-    "id": "amazon:B0FLZSKSXB",
-    "titulo": "Gato Panda - Lixeira Anti Odor Classic 10 Litros – Design Compacto e Higiênico, Fácil de Limpar, Ideal para Quartos de Bebê, Cozinhas",
-    "imagem": "https://m.media-amazon.com/images/I/61vsw0mdtdL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FLZSKSXB?tag=malica09-20",
-    "atualizado_em": "2026-09-29T13:50:04.467-03:00"
   }
 ]
