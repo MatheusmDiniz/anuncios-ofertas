@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GT28LLHL",
+    "titulo": "Fralda Turma da Monica Baby Giga M 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61DPPHplikL._AC_SL1500_.jpg",
+    "preco": 65,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=malica09-20",
+    "atualizado_em": "2026-09-30T15:32:15.482-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56097556",
     "titulo": "Boné New Era Curva Ny Yankees Preto Forma Grande All Black Tamanho Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_670819-MLA116269092736_092026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08GL1ZY3B?tag=malica09-20",
     "atualizado_em": "2026-09-29T15:33:06.479-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75927872",
-    "titulo": "Aspirador Sugador Nasal Bebê Elétrico Limpeza Nariz Ouvido Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_670015-MLA115307748767_072026-F.jpg",
-    "preco": 37.99,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1czvY8J",
-    "atualizado_em": "2026-09-29T15:28:02.205-03:00"
   }
 ]
