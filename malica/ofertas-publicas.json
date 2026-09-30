@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077BY8HQV",
+    "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
+    "imagem": "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=malica09-20",
+    "atualizado_em": "2026-09-30T12:27:03.354-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66427747",
     "titulo": "Kit com 10 Potinhos de Vidro 40ml com Rolha de Madeira para Lembrancinhas e Decoração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_734780-MLA108809337961_032026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
     "atualizado_em": "2026-09-29T12:27:56.989-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27488701",
-    "titulo": "Carrinho Boneca Infantil Brinquemix Com Cesto Lilás 60cm 4 Rodas Plástico",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_661526-MLA96126655071_102025-F.jpg",
-    "preco": 26.33,
-    "preco_anterior": 69,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1izSjBj",
-    "atualizado_em": "2026-09-29T12:22:27.277-03:00"
   }
 ]
