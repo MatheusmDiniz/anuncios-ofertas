@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77311383",
+    "titulo": "Mochila Maternidade NTESX Impermeável Grande Capacidade, Bolsa de Maternidade com Trocador 16 Bolsos e Compartimento Térmico para Mamadeira, Bolsa Bebê para Viagem, Passeio e Uso Diário Azul-Marinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611530-MLA116251507724_092026-F.jpg",
+    "preco": 109.7,
+    "preco_anterior": 251.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1LFQECa",
+    "atualizado_em": "2026-09-30T10:19:42.978-03:00"
+  },
+  {
     "id": "shopee:399621856.23992794977",
     "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5Asra3UV1Q",
     "atualizado_em": "2026-09-29T10:24:17.536-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67009348",
-    "titulo": "Kit 3 Travas De Geladeira E Gavetas Para Segurança Infantil Não Abre A Porta Adesivo Ultra Resistente Fácil De Instalar Mantem A Porta Fechada",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648860-MLA111993607015_052026-F.jpg",
-    "preco": 19,
-    "preco_anterior": 39.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/333M14g",
-    "atualizado_em": "2026-09-29T10:19:11.783-03:00"
   }
 ]
