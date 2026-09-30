@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53974840",
+    "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
+    "preco": 484,
+    "preco_anterior": 999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1pGxkyW",
+    "atualizado_em": "2026-09-30T08:26:31.789-03:00"
+  },
+  {
     "id": "amazon:B0FKHFY1WG",
     "titulo": "Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
     "imagem": "https://m.media-amazon.com/images/I/61wB2ObIr3L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2zYjVP1",
     "atualizado_em": "2026-09-29T08:26:43.166-03:00"
-  },
-  {
-    "id": "amazon:B08HK41RHJ",
-    "titulo": "Kit Vida Macia (Lava Roupas e Amaciante - Glicerina e Camomila) 2 x 1L : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/61OYJq2IHHL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08HK41RHJ?tag=malica09-20",
-    "atualizado_em": "2026-09-29T08:21:30.840-03:00"
   }
 ]
