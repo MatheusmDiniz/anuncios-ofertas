@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FMB5J6L9",
+    "titulo": "Kit 4 Pares Meias Bebê com Chocalho Pelúcia 3D Algodão Menino Menina Conforto Respirável 0 a 24 Meses Uso Diário (BR, Idade, 0 Meses, 12 Meses, Menina)",
+    "imagem": "https://m.media-amazon.com/images/I/61xprup2QHL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FMB5J6L9?tag=malica09-20",
+    "atualizado_em": "2026-09-30T11:20:43.890-03:00"
+  },
+  {
     "id": "shopee:818186604.23298225682",
     "titulo": "Capa De Chuva Infantil Criança Desenho Capuz Impermeável Menino Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6jy2sbftws037",
@@ -1618,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
     "atualizado_em": "2026-09-29T11:25:24.124-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47899174",
-    "titulo": "Baba Eletrônica Baby Monitor Vb603 Visão Noturna Dual Audio Cor Branco Estary Shop",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789928-MLA99885017637_112025-F.jpg",
-    "preco": 224.55,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/325sAj3",
-    "atualizado_em": "2026-09-29T11:20:19.085-03:00"
   }
 ]
