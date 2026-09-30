@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25707178",
+    "titulo": "Almofada Atividade Para Bebe Divertida Mordedor - Buba Cor Colorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791352-MLA99444394234_112025-F.jpg",
+    "preco": 119.99,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2trGmuj",
+    "atualizado_em": "2026-09-30T09:59:10.688-03:00"
+  },
+  {
     "id": "amazon:B0FMFWWD8H",
     "titulo": "Oferta: Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
     "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BUBcqS0WX",
     "atualizado_em": "2026-09-29T10:03:47.928-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36790015",
-    "titulo": "Tapete De Atividades Ginásio C/ Piano Musical Castela Brasil Cor Verde / Fazenda",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950677-MLU77741665700_072024-F.jpg",
-    "preco": 49.97,
-    "preco_anterior": 117.03,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nHT8H7",
-    "atualizado_em": "2026-09-29T09:58:42.975-03:00"
   }
 ]
