@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B098BX31JL",
+    "titulo": "Baby Dove Sabonete Líquido De Glicerina Hidratação Relaxante Hora De Dormir Frasco 400 Ml",
+    "imagem": "https://m.media-amazon.com/images/I/61g5SCJ2r0L._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B098BX31JL?tag=malica09-20",
+    "atualizado_em": "2026-09-30T14:41:04.426-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46681505",
     "titulo": "Cercadinho Bebê Infantil Chiqueirinho Cercado Grande 180x150 Proteção - 8X TECH",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932524-MLA116048225124_092026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C9L6KXQB?tag=malica09-20",
     "atualizado_em": "2026-09-29T14:42:02.430-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44895132",
-    "titulo": "LEGO Minecraft - A Batalha da Lava no Nether - 99 Peças - 21266",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_892160-MLA82678384373_022025-F.jpg",
-    "preco": 56,
-    "preco_anterior": 249,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1SZdqFJ",
-    "atualizado_em": "2026-09-29T14:36:32.696-03:00"
   }
 ]
