@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18406873",
+    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 58.58,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gwMEDh",
+    "atualizado_em": "2026-09-29T21:29:54.672-03:00"
+  },
+  {
     "id": "amazon:B09KNTZXKL",
     "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2B9WCb9",
     "atualizado_em": "2026-09-28T21:32:43.071-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23491820",
-    "titulo": "Pinico Troninho Infantil Bebês Desfralde Recipiente Buba Cor Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_914714-MLA100101043423_122025-F.jpg",
-    "preco": 35.9,
-    "preco_anterior": 74.88,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2yYr9rp",
-    "atualizado_em": "2026-09-28T21:27:29.114-03:00"
   }
 ]
