@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B5VXCMNM",
+    "titulo": "Chupeta MAM Supreme 0 a 6 Meses - Embalagem DUPLA - Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/51CykPdF2lL._AC_SL1500_.jpg",
+    "preco": 47,
+    "preco_anterior": 77,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B5VXCMNM?tag=malica09-20",
+    "atualizado_em": "2026-09-30T17:09:22.909-03:00"
+  },
+  {
     "id": "amazon:B00NHQF6MG",
     "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
     "imagem": "https://m.media-amazon.com/images/I/81sXyDjMOPL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B009KBH0FI?tag=malica09-20",
     "atualizado_em": "2026-09-29T17:11:58.423-03:00"
-  },
-  {
-    "id": "amazon:B07DHRHZDR",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
-    "preco": 43,
-    "preco_anterior": 62,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=malica09-20",
-    "atualizado_em": "2026-09-29T17:06:53.089-03:00"
   }
 ]
