@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26851070",
+    "titulo": "Banheira Infantil Burigotto Splash 10 L, Suporte e Redutor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
+    "preco": 239,
+    "preco_anterior": 510,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZobV6E",
+    "atualizado_em": "2026-09-30T10:09:27.350-03:00"
+  },
+  {
     "id": "shopee:1361476561.19397991697",
     "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gBWbRj1f6",
     "atualizado_em": "2026-09-29T10:14:02.668-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24690640",
-    "titulo": "Kit 25 Sacos Para Armazenar e Congelar Leite Materno Buba 200ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993925-MLA116309030395_082026-F.jpg",
-    "preco": 29.23,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Q73goV",
-    "atualizado_em": "2026-09-29T10:08:56.882-03:00"
   }
 ]
