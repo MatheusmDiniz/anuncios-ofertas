@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H+B07X4GWDZY+B0DV7BN75H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 86,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-09-30T10:50:15.437-03:00"
+  },
+  {
     "id": "shopee:1123144676.18897796293",
     "titulo": "Almofada de Viagem H Para Carro Com Travesseiro Cinto De Segurança para Criança",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke8zmgbkoht1e",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qcPbx2mc1",
     "atualizado_em": "2026-09-29T10:54:48.302-03:00"
-  },
-  {
-    "id": "amazon:B0HBR5KJWX",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61iddhUCYvL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": 26,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HBR5KJWX?tag=malica09-20",
-    "atualizado_em": "2026-09-29T10:49:43.202-03:00"
   }
 ]
