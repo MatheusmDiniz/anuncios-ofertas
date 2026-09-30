@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXM4ZSBD",
+    "titulo": "Fralda Pants Huggies Supreme Care Tamanho XXG, Estilo Roupinha, 58 Unidades, Vermelho",
+    "imagem": "https://m.media-amazon.com/images/I/817zDtkBwEL._AC_SL1500_.jpg",
+    "preco": 73,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=malica09-20",
+    "atualizado_em": "2026-09-30T18:10:47.964-03:00"
+  },
+  {
     "id": "amazon:B0CY2X8BVC",
     "titulo": "Kit Mamadeiras Anti-Colic Macaco Philips Avent 260ml, 330ml e Bico Extra T4 6m+",
     "imagem": "https://m.media-amazon.com/images/I/51+lIzLoNQL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/19n1jmt",
     "atualizado_em": "2026-09-29T18:13:18.578-03:00"
-  },
-  {
-    "id": "amazon:B0CQTNGCF9",
-    "titulo": "Play-Doh, Massinha de Modelar Infantil, Smoothies Coloridos - Conjunto de Brinquedo com Liquidificador de Brinquedo, Acessórios e 5 Potes - A partir de 3 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71HyVqL3MRL._AC_SL1500_.jpg",
-    "preco": 43,
-    "preco_anterior": 59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CQTNGCF9?tag=malica09-20",
-    "atualizado_em": "2026-09-29T18:08:09.900-03:00"
   }
 ]
