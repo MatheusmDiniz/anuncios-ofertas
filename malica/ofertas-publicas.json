@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GHP4NL1J",
+    "titulo": "Oferta: Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+    "imagem": "https://m.media-amazon.com/images/I/41OcWO275YL._AC_SL1500_.jpg",
+    "preco": 52.56,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=malica09-20",
+    "atualizado_em": "2026-09-30T15:53:07.559-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22424717",
     "titulo": "Playset Casa Da Gabby Dollhouse 3063 Sunny Brinquedos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835645-MLA99448675126_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09954B54J?tag=malica09-20",
     "atualizado_em": "2026-09-29T15:53:58.588-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35964156",
-    "titulo": "Vittak Kit 10 Protetor Quina Mesa Móveis Cantoneira Em forma de L PVC Bebê Cor Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_664464-MLA99701004510_122025-F.jpg",
-    "preco": 21.9,
-    "preco_anterior": 36.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kJZbsQ",
-    "atualizado_em": "2026-09-29T15:48:27.848-03:00"
   }
 ]
