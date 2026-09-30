@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1123144676.18897796293",
+    "titulo": "Almofada de Viagem H Para Carro Com Travesseiro Cinto De Segurança para Criança",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke8zmgbkoht1e",
+    "preco": 69.99,
+    "preco_anterior": 166.64,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAHZ8EePnn",
+    "atualizado_em": "2026-09-30T10:45:10.302-03:00"
+  },
+  {
     "id": "amazon:B07RRXQJYN",
     "titulo": "Giro Mágico Infantil Viva Brincar 8 Peças Dismat",
     "imagem": "https://m.media-amazon.com/images/I/61fmDp62htL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0HBR5KJWX?tag=malica09-20",
     "atualizado_em": "2026-09-29T10:49:43.202-03:00"
-  },
-  {
-    "id": "shopee:378105312.20997656316",
-    "titulo": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
-    "preco": 14.99,
-    "preco_anterior": 31.89,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2BFG0YbFkg",
-    "atualizado_em": "2026-09-29T10:44:38.071-03:00"
   }
 ]
