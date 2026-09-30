@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:387937307.21899385767",
+    "titulo": "Kit 4 Compressa Em Gel Buba Para aliviar a febre Compressa refrescante buba",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0boilqsi6vx87",
+    "preco": 21.89,
+    "preco_anterior": 39.09,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1gIzPh6oPI",
+    "atualizado_em": "2026-09-30T11:46:12.786-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17489277",
     "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=malica09-20",
     "atualizado_em": "2026-09-29T11:46:13.631-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47549605",
-    "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
-    "preco": 229.9,
-    "preco_anterior": 399.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zvgDVv",
-    "atualizado_em": "2026-09-29T11:41:10.060-03:00"
   }
 ]
