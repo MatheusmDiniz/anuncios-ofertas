@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35768977",
+    "titulo": "Garrafa Térmica Infantil Inox 400ml Parede Dupla Canudo Buba Cor Rosa-chiclete",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_862956-MLA100076182417_122025-F.jpg",
+    "preco": 92.06,
+    "preco_anterior": 291.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2uJrAqA",
+    "atualizado_em": "2026-09-30T09:17:56.649-03:00"
+  },
+  {
     "id": "amazon:853808724X",
     "titulo": "Oferta: Fisher-Price - O som dos animais",
     "imagem": "https://m.media-amazon.com/images/I/61bmfM3uhTL._AC_SL1500_.jpg",
