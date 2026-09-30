@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3ZTXHF",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61ZkcLzSaTL._AC_SL1500_.jpg",
+    "preco": 96.4,
+    "preco_anterior": 148.6,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW3ZTXHF?tag=malica09-20",
+    "atualizado_em": "2026-09-30T16:23:38.533-03:00"
+  },
+  {
     "id": "amazon:B07Z55NZ7G",
     "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
     "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=malica09-20",
     "atualizado_em": "2026-09-29T16:25:28.739-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB32420202",
-    "titulo": "Buba, Chocalho Mordedor BPA Free - Coelhinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_792615-MLA100091829771_122025-F.jpg",
-    "preco": 25.99,
-    "preco_anterior": 59.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28Emueu",
-    "atualizado_em": "2026-09-29T16:20:23.794-03:00"
   }
 ]
