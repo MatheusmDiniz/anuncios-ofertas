@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB54357048",
+    "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - BEGE",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_903019-MLA100032407355_122025-F.jpg",
+    "preco": 325.41,
+    "preco_anterior": 549.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2araXd8",
+    "atualizado_em": "2026-09-30T15:58:14.897-03:00"
+  },
+  {
     "id": "amazon:B0GHP4NL1J",
     "titulo": "Oferta: Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
     "imagem": "https://m.media-amazon.com/images/I/41OcWO275YL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/25r3g5o",
     "atualizado_em": "2026-09-29T15:59:06.336-03:00"
-  },
-  {
-    "id": "amazon:B09954B54J",
-    "titulo": "NIVEA SUN Protetor Solar Spray Protect & Toque Seco FPS 30 200ml - Com rápida absorção e resistente à água, esse protetor solar oferece alta proteção ao sol, de fácil aplicação",
-    "imagem": "https://m.media-amazon.com/images/I/61JDxf+54IL._AC_SL1500_.jpg",
-    "preco": 37.9,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09954B54J?tag=malica09-20",
-    "atualizado_em": "2026-09-29T15:53:58.588-03:00"
   }
 ]
