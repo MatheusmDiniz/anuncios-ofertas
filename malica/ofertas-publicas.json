@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08Y1Z25MG",
+    "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
+    "preco": 72,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08Y1Z25MG?tag=malica09-20",
+    "atualizado_em": "2026-09-30T16:03:18.477-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54357048",
     "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - BEGE",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_903019-MLA100032407355_122025-F.jpg",
