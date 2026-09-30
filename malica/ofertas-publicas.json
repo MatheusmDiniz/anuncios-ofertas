@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27405813",
+    "titulo": "Mesinha Didática Infantil Com 2 Cadeiras",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640135-MLA99465372484_112025-F.jpg",
+    "preco": 275.8,
+    "preco_anterior": 538.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cwX5ju",
+    "atualizado_em": "2026-09-30T20:55:30.660-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53758596",
     "titulo": "Haste Suporte Varal Para Mosqueteiro Berços Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706549-MLA100086849109_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CPYDJLH2?tag=malica09-20",
     "atualizado_em": "2026-09-29T20:58:25.360-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72681875",
-    "titulo": "Toalha De Bebe Infantil Macia Com Capuz Grande Forrada Cor Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777179-MLA112817305161_062026-F.jpg",
-    "preco": 24,
-    "preco_anterior": 45,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zxKVtA",
-    "atualizado_em": "2026-09-29T20:53:20.629-03:00"
   }
 ]
