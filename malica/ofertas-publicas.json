@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215253",
+    "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
+    "preco": 163.93,
+    "preco_anterior": 338,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2npYksY",
+    "atualizado_em": "2026-09-30T09:38:20.859-03:00"
+  },
+  {
     "id": "amazon:B0FM9BK7B5",
     "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby (Bege)",
     "imagem": "https://m.media-amazon.com/images/I/61yNCqhliOL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AsrZz1SDd",
     "atualizado_em": "2026-09-29T09:43:18.138-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50738913",
-    "titulo": "Kit Babadores Bandana Bebê Gênero Unissex Child Of Mine 3 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753783-MLA96677488573_102025-F.jpg",
-    "preco": 64.9,
-    "preco_anterior": 129.48,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2XAAp71",
-    "atualizado_em": "2026-09-29T09:38:12.580-03:00"
   }
 ]
