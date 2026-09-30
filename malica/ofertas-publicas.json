@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56097556",
+    "titulo": "Boné New Era Curva Ny Yankees Preto Forma Grande All Black Tamanho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_670819-MLA116269092736_092026-F.jpg",
+    "preco": 135,
+    "preco_anterior": 238.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2MVXcXh",
+    "atualizado_em": "2026-09-30T15:27:10.978-03:00"
+  },
+  {
     "id": "amazon:B0DV9W63Z6",
     "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
     "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1czvY8J",
     "atualizado_em": "2026-09-29T15:28:02.205-03:00"
-  },
-  {
-    "id": "amazon:B09BBDVPB1",
-    "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
-    "preco": 7.25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
-    "atualizado_em": "2026-09-29T15:22:54.257-03:00"
   }
 ]
