@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77171248",
+    "titulo": "Penico Dobrável LEDTECH com Tampa Para Bebês de 1 a 3 Anos, Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962384-MLA114689625204_082026-F.jpg",
+    "preco": 28.5,
+    "preco_anterior": 49,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Jx1k2y",
+    "atualizado_em": "2026-09-30T09:48:33.142-03:00"
+  },
+  {
     "id": "amazon:B0BKLM298N",
     "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
     "imagem": "https://m.media-amazon.com/images/I/810rIzQ5ptL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7Advxhaxer",
     "atualizado_em": "2026-09-29T09:53:35.657-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27051169",
-    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
-    "preco": 96.01,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WN2eJH",
-    "atualizado_em": "2026-09-29T09:48:30.596-03:00"
   }
 ]
