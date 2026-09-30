@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39426115",
+    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
+    "preco": 103.08,
+    "preco_anterior": 187.65,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BQauvR",
+    "atualizado_em": "2026-09-30T14:25:43.883-03:00"
+  },
+  {
     "id": "amazon:B0D2DPCP55",
     "titulo": "Elka Bluey, Brinquedo, boneco de ação, 2+ Anos",
     "imagem": "https://m.media-amazon.com/images/I/619Z3Zol2IL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2QatG1L",
     "atualizado_em": "2026-09-29T14:26:17.853-03:00"
-  },
-  {
-    "id": "amazon:6555479191",
-    "titulo": "Oferta: Diário do Bebê - Meninos",
-    "imagem": "https://m.media-amazon.com/images/I/71e4hq+IoBL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6555479191?tag=malica09-20",
-    "atualizado_em": "2026-09-29T14:21:08.786-03:00"
   }
 ]
