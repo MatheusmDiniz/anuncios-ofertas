@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56677151",
+    "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
+    "preco": 129.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fqRnEh",
+    "atualizado_em": "2026-09-30T19:22:41.260-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24070645",
     "titulo": "Carrinho De Bebê Zap Compacto Dobrável - Burigotto, Metal Cobre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_938116-MLA111193887117_052026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0781CTJF6?tag=malica09-20",
     "atualizado_em": "2026-09-29T19:25:48.827-03:00"
-  },
-  {
-    "id": "amazon:B09JZSPQCM",
-    "titulo": "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
-    "imagem": "https://m.media-amazon.com/images/I/61Rfe+hKrfL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09JZSPQCM?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:20:44.897-03:00"
   }
 ]
