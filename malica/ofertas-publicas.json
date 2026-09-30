@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09CRHZV85",
+    "titulo": "Cereal Sucrilhos® Original Kellogg",
+    "imagem": "https://m.media-amazon.com/images/I/81MD05MZl5L._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09CRHZV85?tag=malica09-20",
+    "atualizado_em": "2026-09-30T17:19:31.972-03:00"
+  },
+  {
     "id": "amazon:B0B2BGPKLW",
     "titulo": "Disney Princesa Boneca Moana para crianças a partir de 3 anos",
     "imagem": "https://m.media-amazon.com/images/I/91ZKt9kUvmL._AC_SL1500_.jpg",
