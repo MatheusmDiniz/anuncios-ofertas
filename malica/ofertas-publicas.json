@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8JVBSD7",
+    "titulo": "Granado Kit Viagem Do Bebê, 60ml, 4 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81oF0ggfvNL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8JVBSD7?tag=malica09-20",
+    "atualizado_em": "2026-09-30T20:29:58.377-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44017218",
     "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Space",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_827223-MLA96140311143_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FLP87QP?tag=malica09-20",
     "atualizado_em": "2026-09-29T20:32:55.066-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47579529",
-    "titulo": "Ninho Redutor De Berço Com Mosquiteiro Com Laço E Zíper Cor Rosa Bebê",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_676911-MLA104907483056_012026-F.jpg",
-    "preco": 44.45,
-    "preco_anterior": 78.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/16y44Xe",
-    "atualizado_em": "2026-09-29T20:27:50.274-03:00"
   }
 ]
