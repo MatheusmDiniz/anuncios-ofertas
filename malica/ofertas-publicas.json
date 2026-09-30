@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27044593",
+    "titulo": "Babador De Silicone Gumy Com Pega Migalhas Azul Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807671-MLA100108484153_122025-F.jpg",
+    "preco": 23.97,
+    "preco_anterior": 49.97,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2MAanX2",
+    "atualizado_em": "2026-09-29T21:55:31.693-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19735636",
     "titulo": "Água de Colônia Relaxante Natura Mamãe e Bebê 100ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_917174-MLA99439267488_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
     "atualizado_em": "2026-09-28T21:58:24.501-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65552556",
-    "titulo": "Sugador Aspirador Nasal Elétrico Nariz Ouvido Criança Bebe Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_727225-MLA107122249429_022026-F.jpg",
-    "preco": 39.99,
-    "preco_anterior": 78.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2gSQLo2",
-    "atualizado_em": "2026-09-28T21:53:18.433-03:00"
   }
 ]
