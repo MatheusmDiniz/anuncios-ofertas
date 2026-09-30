@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C6X3DT56",
+    "titulo": "Oferta: TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
+    "imagem": "https://m.media-amazon.com/images/I/61AuLDm53JL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=malica09-20",
+    "atualizado_em": "2026-09-30T08:42:14.120-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20787112",
     "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_733772-MLA111515571640_062026-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1LoeqHG",
     "atualizado_em": "2026-09-29T08:47:12.019-03:00"
-  },
-  {
-    "id": "amazon:B07HCK1656",
-    "titulo": "Roupa Íntima Plenitud Femme para Incontinência P/M-16 un",
-    "imagem": "https://m.media-amazon.com/images/I/71YTtM3zFXL._AC_SL1500_.jpg",
-    "preco": 56.33,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07HCK1656?tag=malica09-20",
-    "atualizado_em": "2026-09-29T08:42:03.108-03:00"
   }
 ]
