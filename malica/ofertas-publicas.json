@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GQ136TS",
+    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
+    "atualizado_em": "2026-09-30T11:10:34.285-03:00"
+  },
+  {
     "id": "shopee:604069672.16610445000",
     "titulo": "Kit 5 Toalhas Umedecidas Turminha da Bagunça 120 Folhas com Tampa Lenço Umedecido",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mlnprwiwlxc774",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/gQSDrAcR4",
     "atualizado_em": "2026-09-29T11:15:09.748-03:00"
-  },
-  {
-    "id": "amazon:8536823100",
-    "titulo": "Oferta: Disney - 365 histórias para dormir - Ouro - Kit: DISNEY - 365 HISTORIAS PARA DORMIR - OURO - KIT",
-    "imagem": "https://m.media-amazon.com/images/I/81SLwnK2F5L._AC_SL1500_.jpg",
-    "preco": 96.49,
-    "preco_anterior": 207,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/8536823100?tag=malica09-20",
-    "atualizado_em": "2026-09-29T11:10:04.488-03:00"
   }
 ]
