@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B096YLZNHV",
+    "titulo": "Burigotto Kit Banho Branco",
+    "imagem": "https://m.media-amazon.com/images/I/61u6+HmvidS._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=malica09-20",
+    "atualizado_em": "2026-09-30T08:32:00.953-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53974840",
     "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
@@ -1618,25 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/12WFMEB",
     "atualizado_em": "2026-09-29T08:36:57.459-03:00"
-  },
-  {
-    "id": "amazon:B09WTLQ53R",
-    "titulo": "Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1) : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
-    "preco": 60,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09WTLQ53R?tag=malica09-20",
-    "atualizado_em": "2026-09-29T08:31:47.243-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68086238",
-    "titulo": "Boneca Bebê Reborn Menino Recém Nascido Pode Dar Banho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825513-MLA109629080834_042026-F.jpg",
-    "preco": 73,
-    "preco_anterior": 179.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zYjVP1",
-    "atualizado_em": "2026-09-29T08:26:43.166-03:00"
   }
 ]
