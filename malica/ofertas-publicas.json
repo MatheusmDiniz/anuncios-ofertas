@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45072765",
+    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
+    "preco": 198,
+    "preco_anterior": 350,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2fjdqnA",
+    "atualizado_em": "2026-09-30T12:42:23.238-03:00"
+  },
+  {
     "id": "amazon:B07DHRPTPB",
     "titulo": "Shampoo de Glicerina Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ZSvfs3",
     "atualizado_em": "2026-09-29T12:43:19.019-03:00"
-  },
-  {
-    "id": "amazon:B07M73V2LJ",
-    "titulo": "NAN Fórmula Infantil Nan Comfor 2 800G",
-    "imagem": "https://m.media-amazon.com/images/I/81VsYfIcsQL._AC_SL1500_.jpg",
-    "preco": 70,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07M73V2LJ?tag=malica09-20",
-    "atualizado_em": "2026-09-29T12:38:11.373-03:00"
   }
 ]
