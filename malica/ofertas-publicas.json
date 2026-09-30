@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHQZPZV",
+    "titulo": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g | Proteção Diária, Alivia Irritações, Hipoalergênico, Com Aloe Vera e Vitamina E",
+    "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
+    "atualizado_em": "2026-09-30T15:42:54.623-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22323833",
     "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00DX0FJXW?tag=malica09-20",
     "atualizado_em": "2026-09-29T15:43:20.320-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27045155",
-    "titulo": "Babador Impermeável Buba para Bebês com Bolso e Design de Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_769819-MLA99596978560_122025-F.jpg",
-    "preco": 14.19,
-    "preco_anterior": 23.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ibo9ao",
-    "atualizado_em": "2026-09-29T15:38:15.241-03:00"
   }
 ]
