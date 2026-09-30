@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRPTPB",
+    "titulo": "Shampoo de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
+    "preco": 18.52,
+    "preco_anterior": 34.89,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
+    "atualizado_em": "2026-09-30T12:37:16.325-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24853515",
     "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07M73V2LJ?tag=malica09-20",
     "atualizado_em": "2026-09-29T12:38:11.373-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25997831",
-    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
-    "preco": 73.91,
-    "preco_anterior": 144.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2X546Yw",
-    "atualizado_em": "2026-09-29T12:33:06.101-03:00"
   }
 ]
