@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:818186604.23298225682",
+    "titulo": "Capa De Chuva Infantil Criança Desenho Capuz Impermeável Menino Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6jy2sbftws037",
+    "preco": 27.99,
+    "preco_anterior": 39.99,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAHZ8E9TmQ",
+    "atualizado_em": "2026-09-30T11:15:39.462-03:00"
+  },
+  {
     "id": "amazon:B07GQ136TS",
     "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/325sAj3",
     "atualizado_em": "2026-09-29T11:20:19.085-03:00"
-  },
-  {
-    "id": "shopee:604069672.17512767444",
-    "titulo": "Kit 5 Pomadas Preventivas para Assaduras 45g Turminha da Bagunça Pomada Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mlp21ce1lnnq1c",
-    "preco": 27.92,
-    "preco_anterior": 45.03,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/gQSDrAcR4",
-    "atualizado_em": "2026-09-29T11:15:09.748-03:00"
   }
 ]
