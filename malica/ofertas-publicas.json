@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75505071",
+    "titulo": "Suporte de Banho Infantil Ajustável Bebê em Pé Base Antiderrapante SekBem Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810962-MLA116130884751_082026-F.jpg",
+    "preco": 189.9,
+    "preco_anterior": 349.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2cbnhvc",
+    "atualizado_em": "2026-09-30T08:47:21.777-03:00"
+  },
+  {
     "id": "amazon:B0C6X3DT56",
     "titulo": "Oferta: TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
     "imagem": "https://m.media-amazon.com/images/I/61AuLDm53JL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=malica09-20",
     "atualizado_em": "2026-09-29T08:52:15.931-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46877009",
-    "titulo": "Mosquiteiro Portátil Capa Tela Universal Para Carrinho Bebe cor Única",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928124-MLA111823408961_052026-F.jpg",
-    "preco": 16.9,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1LoeqHG",
-    "atualizado_em": "2026-09-29T08:47:12.019-03:00"
   }
 ]
