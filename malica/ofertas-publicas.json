@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34813250",
+    "titulo": "Brinquedo Pelúcia Infantil Ursinho Reza Bege 18056 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_935033-MLA95689805484_102025-F.jpg",
+    "preco": 106,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Zu9TfE",
+    "atualizado_em": "2026-09-30T19:27:49.035-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56677151",
     "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GYGXVQ3W?tag=malica09-20",
     "atualizado_em": "2026-09-29T19:30:53.994-03:00"
-  },
-  {
-    "id": "amazon:B0781CTJF6",
-    "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
-    "imagem": "https://m.media-amazon.com/images/I/51XpbplLvaL._AC_SL1500_.jpg",
-    "preco": 8.55,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0781CTJF6?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:25:48.827-03:00"
   }
 ]
