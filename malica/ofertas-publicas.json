@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:853808724X",
+    "titulo": "Oferta: Fisher-Price - O som dos animais",
+    "imagem": "https://m.media-amazon.com/images/I/61bmfM3uhTL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/853808724X?tag=malica09-20",
+    "atualizado_em": "2026-09-30T09:12:49.360-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25863440",
     "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ii9Cm9",
     "atualizado_em": "2026-09-29T09:17:46.491-03:00"
-  },
-  {
-    "id": "amazon:B07CTH8RTW",
-    "titulo": "Mustela Água De Limpeza Sem Enxágue 300Ml - Água Micelar Infantil Rosto E Corpo Vegana Fórmula Biodegradável Com 98% De Ingredientes De Origem Natural",
-    "imagem": "https://m.media-amazon.com/images/I/51IhFYS686L._AC_SL1500_.jpg",
-    "preco": 67,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07CTH8RTW?tag=malica09-20",
-    "atualizado_em": "2026-09-29T09:12:39.139-03:00"
   }
 ]
