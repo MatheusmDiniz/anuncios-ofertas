@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61922175",
+    "titulo": "Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_740155-MLA97653162409_112025-F.jpg",
+    "preco": 74,
+    "preco_anterior": 149.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19aCMdn",
+    "atualizado_em": "2026-09-30T15:06:42.325-03:00"
+  },
+  {
     "id": "amazon:B08LK15F8N",
     "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51EXy5ZJQSL._AC_SL1500_.jpg",
