@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20787112",
+    "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_733772-MLA111515571640_062026-F.jpg",
+    "preco": 115,
+    "preco_anterior": 279,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QJboPA",
+    "atualizado_em": "2026-09-30T08:37:09.727-03:00"
+  },
+  {
     "id": "amazon:B096YLZNHV",
     "titulo": "Burigotto Kit Banho Branco",
     "imagem": "https://m.media-amazon.com/images/I/61u6+HmvidS._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07HCK1656?tag=malica09-20",
     "atualizado_em": "2026-09-29T08:42:03.108-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17335680",
-    "titulo": "Huggies Fralda Pants Roupinha Proteção Acolchoada M - 36 Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729959-MLA99437189922_112025-F.jpg",
-    "preco": 68.85,
-    "preco_anterior": 131.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12WFMEB",
-    "atualizado_em": "2026-09-29T08:36:57.459-03:00"
   }
 ]
