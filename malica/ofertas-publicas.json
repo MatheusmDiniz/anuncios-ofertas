@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BLSTVJVD",
+    "titulo": "Sallve Hidratante Facial 40G - Beta-Glucan Phytoesqualano",
+    "imagem": "https://m.media-amazon.com/images/I/418ytvoSP5L._AC_SL1500_.jpg",
+    "preco": 43.64,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BLSTVJVD?tag=malica09-20",
+    "atualizado_em": "2026-09-30T11:30:52.751-03:00"
+  },
+  {
     "id": "shopee:1384480317.20399545613",
     "titulo": "Mochila Escolar Infantil Menino Menina Dinossauro",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnued4mo8w0257",
@@ -1618,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DL6FFBD3?tag=malica09-20",
     "atualizado_em": "2026-09-29T11:36:01.953-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392608",
-    "titulo": "Fralda Descartável Turma da Mônica Baby M 50 Unidades 12 h",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738296-MLA110297780960_052026-F.jpg",
-    "preco": 54.84,
-    "preco_anterior": 133.16,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2gMyi7Z",
-    "atualizado_em": "2026-09-29T11:30:31.670-03:00"
   }
 ]
