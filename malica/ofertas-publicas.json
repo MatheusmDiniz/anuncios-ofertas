@@ -1628,15 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHRS6RN?tag=malica09-20",
     "atualizado_em": "2026-09-29T08:00:56.314-03:00"
-  },
-  {
-    "id": "amazon:B0C9W3MZV2",
-    "titulo": "Sabonete Nutritivo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
-    "preco": 34.9,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
-    "atualizado_em": "2026-09-28T21:58:24.501-03:00"
   }
 ]
