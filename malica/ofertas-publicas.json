@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56574273",
+    "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
+    "preco": 139.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2YDfnP3",
+    "atualizado_em": "2026-09-30T19:43:10.842-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75984769",
     "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01MG8N2EI?tag=malica09-20",
     "atualizado_em": "2026-09-29T19:46:37.341-03:00"
-  },
-  {
-    "id": "amazon:B07ZPQ2RRR",
-    "titulo": "Macacão de dormir para bebês Pacote com 2 pares neutros de algodão com pés para dormir e brincar Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81aDUfBRidL._AC_SL1500_.jpg",
-    "preco": 135,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:41:05.479-03:00"
   }
 ]
