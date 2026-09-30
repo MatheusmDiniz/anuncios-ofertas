@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24853515",
+    "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
+    "preco": 154.23,
+    "preco_anterior": 349,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KckCEm",
+    "atualizado_em": "2026-09-30T12:32:11.525-03:00"
+  },
+  {
     "id": "amazon:B077BY8HQV",
     "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
     "imagem": "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2X546Yw",
     "atualizado_em": "2026-09-29T12:33:06.101-03:00"
-  },
-  {
-    "id": "amazon:B08YK3CVLY",
-    "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
-    "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
-    "preco": 109,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
-    "atualizado_em": "2026-09-29T12:27:56.989-03:00"
   }
 ]
