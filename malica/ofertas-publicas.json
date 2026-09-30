@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CHZCB5SK",
+    "titulo": "MamyPoko Fralda-Calça Dia&Noite M 68 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71DZY0d60oL._AC_SL1500_.jpg",
+    "preco": 85.4,
+    "preco_anterior": 107.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=malica09-20",
+    "atualizado_em": "2026-09-30T12:16:51.590-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B077C2D43T?tag=malica09-20",
     "atualizado_em": "2026-09-29T12:17:18.963-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75671286",
-    "titulo": "Toalha Bebê Banho Capuz Soft Grande Orelhinha Fralda Forro Cinza Elefantinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897026-MLA114979976775_072026-F.jpg",
-    "preco": 26.6,
-    "preco_anterior": 52.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZG52ZA",
-    "atualizado_em": "2026-09-29T12:11:47.937-03:00"
   }
 ]
