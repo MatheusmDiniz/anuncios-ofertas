@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53358387",
+    "titulo": "Torre De Aprendizagem R&R Decor Montessori 4x1 Cadeirão Mesinha Cor Verde Chá",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930685-MLA96106356873_102025-F.jpg",
+    "preco": 233,
+    "preco_anterior": 399,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EKgnWB",
+    "atualizado_em": "2026-09-30T16:44:02.332-03:00"
+  },
+  {
     "id": "amazon:B0BQRQVF2C",
     "titulo": "Cacheador Phico Cachos de 25mm. Revestimento em cerâmica, PEC15 Intense Curves Bivolt",
     "imagem": "https://m.media-amazon.com/images/I/31XqA7dpDHL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CCF48PKT?tag=malica09-20",
     "atualizado_em": "2026-09-29T16:46:26.916-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB32257502",
-    "titulo": "Trocador Anatômico De Cômoda Americano 200 Fios 68x45x10 Cor Bege 2165-palha C Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_620567-MLA96422860770_102025-F.jpg",
-    "preco": 58.49,
-    "preco_anterior": 130,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kZFHRN",
-    "atualizado_em": "2026-09-29T16:40:54.704-03:00"
   }
 ]
