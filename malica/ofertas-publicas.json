@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555395141",
+    "titulo": "Edição Especial - Clássicos Inesquecíveis: Grandes Histórias : Enterprises, Inc. Disney, Enterprises, Inc. Disney: Amazon.com.br: Livros",
+    "imagem": "https://m.media-amazon.com/images/I/81FJMDV2OFL._AC_SL1500_.jpg",
+    "preco": 57.69,
+    "preco_anterior": 125,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555395141?tag=malica09-20",
+    "atualizado_em": "2026-09-30T12:47:28.354-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45072765",
     "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=malica09-20",
     "atualizado_em": "2026-09-29T12:48:22.487-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23480808",
-    "titulo": "Laptop Infantil Educativo Spider Man Candide",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_715063-MLA108928458188_032026-F.jpg",
-    "preco": 55,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZSvfs3",
-    "atualizado_em": "2026-09-29T12:43:19.019-03:00"
   }
 ]
