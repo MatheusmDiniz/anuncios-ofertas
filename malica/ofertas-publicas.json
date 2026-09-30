@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H7CCCJ3R",
+    "titulo": "Playground Infantil Parque Completo Balanço Casinha Escorregador Escada Adventure Maxi Toys (Cinza)",
+    "imagem": "https://m.media-amazon.com/images/I/51kRgVN+kaL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H7CCCJ3R?tag=malica09-20",
+    "atualizado_em": "2026-09-30T19:53:48.018-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB52987632",
     "titulo": "Triciclo Moto Trail de Passeio Infantil Empurrador Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_747891-MLA91972440029_092025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qLRgZM",
     "atualizado_em": "2026-09-29T19:56:50.188-03:00"
-  },
-  {
-    "id": "amazon:8537612499",
-    "titulo": "Oferta: Amiguinhos - Um Livro de Banho: Amiguinhos do Zoo",
-    "imagem": "https://m.media-amazon.com/images/I/61KNp0o-upL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/8537612499?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:51:41.721-03:00"
   }
 ]
