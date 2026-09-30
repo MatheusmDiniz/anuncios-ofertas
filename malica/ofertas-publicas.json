@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39335649",
+    "titulo": "Berço Portátil Infantil Cercado 0-15kg Grafite Lazy Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905446-MLA96107568817_102025-F.jpg",
+    "preco": 414,
+    "preco_anterior": 699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Bwnmeq",
+    "atualizado_em": "2026-09-29T21:40:06.980-03:00"
+  },
+  {
     "id": "amazon:B0CLHGKHV8",
     "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml",
     "imagem": "https://m.media-amazon.com/images/I/51swgAmRFHL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26WmrW9",
     "atualizado_em": "2026-09-28T21:43:00.551-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25542860",
-    "titulo": "Sala De Jantar Sylvanian Families Dining Room Set",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_701101-MLA99589750440_122025-F.jpg",
-    "preco": 159.08,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qanfLg",
-    "atualizado_em": "2026-09-28T21:37:52.091-03:00"
   }
 ]
