@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07C3JY2V3",
+    "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Xg 30 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51Sshn4w3IL._AC_SL1500_.jpg",
+    "preco": 32,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07C3JY2V3?tag=malica09-20",
+    "atualizado_em": "2026-09-30T17:29:40.663-03:00"
+  },
+  {
     "id": "amazon:B0FNGD2NG4",
     "titulo": "Maral Triciclo Moto Trail Infantil 2 em 1 – Passeio com Empurrador e Pedal Laranja, Estável e Divertido para Crianças",
     "imagem": "https://m.media-amazon.com/images/I/61PCU6JkBsL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Mx3TKu",
     "atualizado_em": "2026-09-29T17:32:24.201-03:00"
-  },
-  {
-    "id": "amazon:B07M7Q36ZS",
-    "titulo": "Absorvente Para Seios Amamente® 30 UN",
-    "imagem": "https://m.media-amazon.com/images/I/716xonuId3L._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07M7Q36ZS?tag=malica09-20",
-    "atualizado_em": "2026-09-29T17:27:16.098-03:00"
   }
 ]
