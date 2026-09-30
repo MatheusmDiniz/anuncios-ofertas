@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093MB83GG",
+    "titulo": "Condicionador Infantil Suave 210ml – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/716c6ddxHAL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093MB83GG?tag=malica09-20",
+    "atualizado_em": "2026-09-30T16:13:31.450-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB16091842",
     "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07C67H82M?tag=malica09-20",
     "atualizado_em": "2026-09-29T16:15:15.120-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26414752",
-    "titulo": "Cadeira De Alimentação Portátil Bebê Honey Maxi Baby Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_750553-MLA95713106934_102025-F.jpg",
-    "preco": 289.99,
-    "preco_anterior": 537.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ytCpoP",
-    "atualizado_em": "2026-09-29T16:09:44.419-03:00"
   }
 ]
