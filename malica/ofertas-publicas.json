@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CFYSFBPP",
+    "titulo": "SUNNY, Patrulha Canina, Carro Patrulheiro do Filme com Carrinho : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/51+Wo-mIcpL._AC_SL1500_.jpg",
+    "preco": 146.88,
+    "preco_anterior": 299.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CFYSFBPP?tag=malica09-20",
+    "atualizado_em": "2026-09-30T12:58:05.134-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB52680667",
     "titulo": "Andador Infantil Empurrador Atividade Musical Bebê Didático Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_824627-MLA100063596379_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=malica09-20",
     "atualizado_em": "2026-09-29T12:58:35.843-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28203800",
-    "titulo": "Trocador Portátil Bege de Algodão Impermeável Batistela Baby Dobrável Lavável Unissex",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908952-MLA113098695541_062026-F.jpg",
-    "preco": 107,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ms1HNX",
-    "atualizado_em": "2026-09-29T12:53:30.124-03:00"
   }
 ]
