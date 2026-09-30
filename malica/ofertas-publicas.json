@@ -1628,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1izSjBj",
     "atualizado_em": "2026-09-29T12:22:27.277-03:00"
-  },
-  {
-    "id": "amazon:B077C2D43T",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61ZNprORA+L._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077C2D43T?tag=malica09-20",
-    "atualizado_em": "2026-09-29T12:17:18.963-03:00"
   }
 ]
