@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 36.1,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-09-30T17:45:00.853-03:00"
+  },
+  {
     "id": "amazon:B08JXP4NFR",
     "titulo": "Buba Garrafinha De Aluminio Animal Fun Macaco Colorido",
     "imagem": "https://m.media-amazon.com/images/I/51I9KBS9ALL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=malica09-20",
     "atualizado_em": "2026-09-29T17:47:43.950-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26841539",
-    "titulo": "Buba Ursinho que reza anjinho da guarda para bebê e criança pelúcia azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677594-MLU75692537470_042024-F.jpg",
-    "preco": 108.9,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1RYEJKx",
-    "atualizado_em": "2026-09-29T17:42:37.473-03:00"
   }
 ]
