@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65892455",
+    "titulo": "Brastoy Kit 9 Brinquedos Montessori Pedagogico De Madeira Multicolorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_937204-MLA107485085225_022026-F.jpg",
+    "preco": 102,
+    "preco_anterior": 180,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1AwFXGy",
+    "atualizado_em": "2026-09-30T19:07:19.092-03:00"
+  },
+  {
     "id": "shopee:1042066189.43481645729",
     "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B079VTJLMZ?tag=malica09-20",
     "atualizado_em": "2026-09-29T19:10:07.837-03:00"
-  },
-  {
-    "id": "amazon:B0DJQYH2G4",
-    "titulo": "Oferta: Carrinho de Bebê Chicco One4Ever Lounge Compacto até 22kg com Fechamento Automático e Encosto Ajustável – 4087109910000",
-    "imagem": "https://m.media-amazon.com/images/I/51Zxi0pGVkL._AC_SL1500_.jpg",
-    "preco": 1899,
-    "preco_anterior": 3199,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJQYH2G4?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:04:36.009-03:00"
   }
 ]
