@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74675165",
+    "titulo": "Bomba De Tirar Leite Materno Portátil Elétricas Antuvi Vestível Mãos Livres De Cabeça Dupla 17-24mm Flanges 180 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911878-MLA114024882597_072026-F.jpg",
+    "preco": 178,
+    "preco_anterior": 438.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dKmgSP",
+    "atualizado_em": "2026-09-30T08:16:19.698-03:00"
+  },
+  {
     "id": "amazon:B0FSSP643R",
     "titulo": "Oferta: Kit 3 Cueiros Bebê 100% Algodão 80x50cm – Macio, Confortável, Estampado – Ideal Para Recém-Nascido, Enxoval e Presente Infantil",
     "imagem": "https://m.media-amazon.com/images/I/61ITF6bGvML._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xo8gb8",
     "atualizado_em": "2026-09-29T08:16:25.319-03:00"
-  },
-  {
-    "id": "amazon:B08QG3H6YR",
-    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
-    "preco": 31,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
-    "atualizado_em": "2026-09-29T08:11:16.970-03:00"
   }
 ]
