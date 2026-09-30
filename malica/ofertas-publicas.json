@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0779M3L8K",
+    "titulo": "Pelúcia Marshall, Patrulha Canina, Sunny",
+    "imagem": "https://m.media-amazon.com/images/I/51rOaIuCS3L._AC_SL1500_.jpg",
+    "preco": 64.99,
+    "preco_anterior": 129.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0779M3L8K?tag=malica09-20",
+    "atualizado_em": "2026-09-30T18:15:53.290-03:00"
+  },
+  {
     "id": "amazon:B0BXM4ZSBD",
     "titulo": "Fralda Pants Huggies Supreme Care Tamanho XXG, Estilo Roupinha, 58 Unidades, Vermelho",
     "imagem": "https://m.media-amazon.com/images/I/817zDtkBwEL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099NCTCX8?tag=malica09-20",
     "atualizado_em": "2026-09-29T18:18:23.712-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28579921",
-    "titulo": "Cadeira de Descanso Bebê Musical Polar Cinza 18kg Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729247-MLA96101820207_102025-F.jpg",
-    "preco": 209.85,
-    "preco_anterior": 366.04,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19n1jmt",
-    "atualizado_em": "2026-09-29T18:13:18.578-03:00"
   }
 ]
