@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52680667",
+    "titulo": "Andador Infantil Empurrador Atividade Musical Bebê Didático Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824627-MLA100063596379_122025-F.jpg",
+    "preco": 118.34,
+    "preco_anterior": 269.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WUFJ1e",
+    "atualizado_em": "2026-09-30T12:52:36.465-03:00"
+  },
+  {
     "id": "amazon:6555395141",
     "titulo": "Edição Especial - Clássicos Inesquecíveis: Grandes Histórias : Enterprises, Inc. Disney, Enterprises, Inc. Disney: Amazon.com.br: Livros",
     "imagem": "https://m.media-amazon.com/images/I/81FJMDV2OFL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ms1HNX",
     "atualizado_em": "2026-09-29T12:53:30.124-03:00"
-  },
-  {
-    "id": "amazon:B076X7VHWN",
-    "titulo": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
-    "imagem": "https://m.media-amazon.com/images/I/61Tgw23t8-L._AC_SL1500_.jpg",
-    "preco": 55,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=malica09-20",
-    "atualizado_em": "2026-09-29T12:48:22.487-03:00"
   }
 ]
