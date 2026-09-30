@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1739680653.58204448907",
+    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
+    "preco": 24.9,
+    "preco_anterior": 75.45,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/113KDIonW0",
+    "atualizado_em": "2026-09-30T18:57:05.642-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24762578",
     "titulo": "Assento Redutor Infantil Com Escada Para Vaso Sanitário",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932110-MLA104013585861_012026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CQ454DXM?tag=malica09-20",
     "atualizado_em": "2026-09-29T18:59:30.648-03:00"
-  },
-  {
-    "id": "amazon:B07M59DPCJ",
-    "titulo": "Oferta: Pais & Filhos Jogo da Forca Educativo para Alfabetização Infantil | Jogo de Tabuleiro de Palavras | Estimula Vocabulário, Raciocínio Lógico e Concentração | 2 a 4 Jogadores | +7 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/61r+IwFYwdL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": 39,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07M59DPCJ?tag=malica09-20",
-    "atualizado_em": "2026-09-29T18:54:26.499-03:00"
   }
 ]
