@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076YFJVT6",
+    "titulo": "Oferta: WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com Mangueira de 1,5 Metros, Filtro Lavável, 140mbar 1400W 220V",
+    "imagem": "https://m.media-amazon.com/images/I/81O+IX7pYIL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076YFJVT6?tag=malica09-20",
+    "atualizado_em": "2026-09-30T19:59:19.281-03:00"
+  },
+  {
     "id": "amazon:B0H7CCCJ3R",
     "titulo": "Playground Infantil Parque Completo Balanço Casinha Escorregador Escada Adventure Maxi Toys (Cinza)",
     "imagem": "https://m.media-amazon.com/images/I/51kRgVN+kaL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2rrXFR3",
     "atualizado_em": "2026-09-29T20:01:59.181-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18392643",
-    "titulo": "Fralda Descartável Turma da Mônica Baby Recém-Nascido RN Pacote 36 Unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776721-MLA112696702376_062026-F.jpg",
-    "preco": 22.9,
-    "preco_anterior": 42.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1qLRgZM",
-    "atualizado_em": "2026-09-29T19:56:50.188-03:00"
   }
 ]
