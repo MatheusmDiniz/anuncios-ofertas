@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39613924",
+    "titulo": "Cadeira Premium De Descanso Ninar Elétrica Baby Style Bliss",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_643807-MLA113399451742_072026-F.jpg",
+    "preco": 555.2,
+    "preco_anterior": 931.45,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1N9EdEY",
+    "atualizado_em": "2026-09-30T18:31:08.813-03:00"
+  },
+  {
     "id": "amazon:B0DNTL32F6",
     "titulo": "Oferta: Maxi Baby Mesa Atividades Infantil Didática Musical Eduka",
     "imagem": "https://m.media-amazon.com/images/I/61hIPqAn-rL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C8PT9NBZ?tag=malica09-20",
     "atualizado_em": "2026-09-29T18:33:39.489-03:00"
-  },
-  {
-    "id": "amazon:B0CQTLJRR7",
-    "titulo": "Play-Doh, Massinha de Modelar Infantil, Kitchen Creations, Macarrão Mágico - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 3 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71IYqmemn1L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CQTLJRR7?tag=malica09-20",
-    "atualizado_em": "2026-09-29T18:28:33.639-03:00"
   }
 ]
