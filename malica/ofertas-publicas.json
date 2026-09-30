@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24762578",
+    "titulo": "Assento Redutor Infantil Com Escada Para Vaso Sanitário",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932110-MLA104013585861_012026-F.jpg",
+    "preco": 126.5,
+    "preco_anterior": 225.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EkNNnZ",
+    "atualizado_em": "2026-09-30T18:52:00.210-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76204604",
     "titulo": "Suporte De Banho Bebê Em Pé Ajustável Antiderrapante Coluna Ajustável e Seguro Suporte Para Chuveiro Infantil Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629796-MLA115448219481_082026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07M59DPCJ?tag=malica09-20",
     "atualizado_em": "2026-09-29T18:54:26.499-03:00"
-  },
-  {
-    "id": "amazon:B08JM8CG5D",
-    "titulo": "Comfort Amaciante Concentrado Puro Cuidado 1,5L",
-    "imagem": "https://m.media-amazon.com/images/I/61Ju1heOhrL._AC_SL1500_.jpg",
-    "preco": 24.69,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08JM8CG5D?tag=malica09-20",
-    "atualizado_em": "2026-09-29T18:48:56.681-03:00"
   }
 ]
