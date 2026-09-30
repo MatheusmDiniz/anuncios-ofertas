@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07QKN5NF1",
+    "titulo": "MONDIAL Liquidificador Turbo Power, Preto, 550W, 110V - L-99 FB | 3 Velocidades",
+    "imagem": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07QKN5NF1?tag=malica09-20",
+    "atualizado_em": "2026-09-30T18:36:40.179-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39613924",
     "titulo": "Cadeira Premium De Descanso Ninar Elétrica Baby Style Bliss",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_643807-MLA113399451742_072026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09S77G7N6?tag=malica09-20",
     "atualizado_em": "2026-09-29T18:38:46.199-03:00"
-  },
-  {
-    "id": "amazon:B0C8PT9NBZ",
-    "titulo": "Huggies Lenços Umedecidos Higiene Diária Rendem 2x Mais 88 Un",
-    "imagem": "https://m.media-amazon.com/images/I/711QFeI0pHL._AC_SL1500_.jpg",
-    "preco": 9,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C8PT9NBZ?tag=malica09-20",
-    "atualizado_em": "2026-09-29T18:33:39.489-03:00"
   }
 ]
