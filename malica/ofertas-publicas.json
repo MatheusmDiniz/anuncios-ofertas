@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16091842",
+    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZqdnYS",
+    "atualizado_em": "2026-09-30T16:08:26.882-03:00"
+  },
+  {
     "id": "amazon:B08Y1Z25MG",
     "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g",
     "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ytCpoP",
     "atualizado_em": "2026-09-29T16:09:44.419-03:00"
-  },
-  {
-    "id": "amazon:B0DMWLYDB8",
-    "titulo": "Disney Princesa Castelo Empilhável Rapunzel, Mini Playset com Boneca e Acessórios, Cenários Inspirados em Enrolados",
-    "imagem": "https://m.media-amazon.com/images/I/81aE+phvx2L._AC_SL1500_.jpg",
-    "preco": 135,
-    "preco_anterior": 269,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DMWLYDB8?tag=malica09-20",
-    "atualizado_em": "2026-09-29T16:04:36.211-03:00"
   }
 ]
