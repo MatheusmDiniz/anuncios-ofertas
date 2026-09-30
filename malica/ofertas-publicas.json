@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6561263022",
+    "titulo": "Oferta: Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+    "imagem": "https://m.media-amazon.com/images/I/614Bmynt4LL._AC_SL1500_.jpg",
+    "preco": 21,
+    "preco_anterior": 49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6561263022?tag=malica09-20",
+    "atualizado_em": "2026-09-30T20:35:03.270-03:00"
+  },
+  {
     "id": "amazon:B0D8JVBSD7",
     "titulo": "Granado Kit Viagem Do Bebê, 60ml, 4 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/81oF0ggfvNL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7faCYTcpWZ",
     "atualizado_em": "2026-09-29T20:38:00.768-03:00"
-  },
-  {
-    "id": "amazon:B07FLP87QP",
-    "titulo": "Granado Lenço Umedecido Bebê, Erva Doce, 50 Unidades | Lenços macios, flexíveis e resistentes. : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/511dfauTXoL._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FLP87QP?tag=malica09-20",
-    "atualizado_em": "2026-09-29T20:32:55.066-03:00"
   }
 ]
