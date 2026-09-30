@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FMFWWD8H",
+    "titulo": "Oferta: Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
+    "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=malica09-20",
+    "atualizado_em": "2026-09-30T09:54:03.414-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77171248",
     "titulo": "Penico Dobrável LEDTECH com Tampa Para Bebês de 1 a 3 Anos, Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962384-MLA114689625204_082026-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2nHT8H7",
     "atualizado_em": "2026-09-29T09:58:42.975-03:00"
-  },
-  {
-    "id": "shopee:816564186.17882461983",
-    "titulo": "Trocador Plastificado Impermeável Anatômico Americano de Cômoda Para Troca de Fraldas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-maab9aclh7smf5",
-    "preco": 52.37,
-    "preco_anterior": 104.74,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7Advxhaxer",
-    "atualizado_em": "2026-09-29T09:53:35.657-03:00"
   }
 ]
