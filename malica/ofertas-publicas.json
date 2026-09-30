@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DYHDXX8",
+    "titulo": "OMO Lavagem Perfeita - Sabão Líquido 5L",
+    "imagem": "https://m.media-amazon.com/images/I/71bXBFl912L._AC_SL1500_.jpg",
+    "preco": 51.82,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DYHDXX8?tag=malica09-20",
+    "atualizado_em": "2026-09-30T13:39:17.611-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42381859",
     "titulo": "Mesa Infantil Didática 8 Funções Som Maral Crianças 1+ Anos Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_969588-MLA95935766549_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=malica09-20",
     "atualizado_em": "2026-09-29T13:39:52.487-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24765774",
-    "titulo": "Triângulo De Atividades Educativo Para Bebê - Buba Cor Colorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_887780-MLA95497851780_102025-F.jpg",
-    "preco": 106.17,
-    "preco_anterior": 177.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1qsS8kL",
-    "atualizado_em": "2026-09-29T13:34:47.472-03:00"
   }
 ]
