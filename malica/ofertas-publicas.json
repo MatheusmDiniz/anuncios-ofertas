@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24070645",
+    "titulo": "Carrinho De Bebê Zap Compacto Dobrável - Burigotto, Metal Cobre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_938116-MLA111193887117_052026-F.jpg",
+    "preco": 599,
+    "preco_anterior": 1183.61,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NC8bth",
+    "atualizado_em": "2026-09-30T19:17:34.285-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45267328",
     "titulo": "Andador Empurrador Infantil Musical Educativo Azul Yuupi",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_756140-MLA96197553408_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09JZSPQCM?tag=malica09-20",
     "atualizado_em": "2026-09-29T19:20:44.897-03:00"
-  },
-  {
-    "id": "amazon:B09TF36S57",
-    "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71gXxei8HqL._AC_SL1500_.jpg",
-    "preco": 142,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:15:13.872-03:00"
   }
 ]
