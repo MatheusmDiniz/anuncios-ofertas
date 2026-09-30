@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BKLM298N",
+    "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+    "imagem": "https://m.media-amazon.com/images/I/810rIzQ5ptL._AC_SL1500_.jpg",
+    "preco": 79,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=malica09-20",
+    "atualizado_em": "2026-09-30T09:43:25.746-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215253",
     "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1WN2eJH",
     "atualizado_em": "2026-09-29T09:48:30.596-03:00"
-  },
-  {
-    "id": "shopee:1231941451.23198395917",
-    "titulo": "Chinelos Infantil Desenho Personalizado Leve Macio Promoçao Xinela Infantil Feminina.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mleyg64sg3yd58",
-    "preco": 12.99,
-    "preco_anterior": 25.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5AsrZz1SDd",
-    "atualizado_em": "2026-09-29T09:43:18.138-03:00"
   }
 ]
