@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22323833",
+    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
+    "preco": 99,
+    "preco_anterior": 185.57,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yoBH4h",
+    "atualizado_em": "2026-09-30T15:37:24.131-03:00"
+  },
+  {
     "id": "amazon:B0GT28LLHL",
     "titulo": "Fralda Turma da Monica Baby Giga M 80 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61DPPHplikL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ibo9ao",
     "atualizado_em": "2026-09-29T15:38:15.241-03:00"
-  },
-  {
-    "id": "amazon:B08GL1ZY3B",
-    "titulo": "Anasol Protetor Solar KIDS FPS 90-100 g",
-    "imagem": "https://m.media-amazon.com/images/I/51yPL8ljAIL._AC_SL1500_.jpg",
-    "preco": 44,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08GL1ZY3B?tag=malica09-20",
-    "atualizado_em": "2026-09-29T15:33:06.479-03:00"
   }
 ]
