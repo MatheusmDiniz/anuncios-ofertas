@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24512546",
+    "titulo": "Fio Amigurumi Círculo 254m 100% Algodão 2194 - Turquesa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_794109-MLA99593003898_122025-F.jpg",
+    "preco": 20.36,
+    "preco_anterior": 35.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hBKerc",
+    "atualizado_em": "2026-09-29T21:19:40.830-03:00"
+  },
+  {
     "id": "amazon:B0GRJ9XVHD",
     "titulo": "Likluc Xô Bactéria 0+ Higienizador antisséptico para bebês! | Mata 99,9% das Bactérias e Virus",
     "imagem": "https://m.media-amazon.com/images/I/81+nmn4gH1L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/25uVAhx",
     "atualizado_em": "2026-09-28T21:22:20.755-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35340738",
-    "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
-    "preco": 199.9,
-    "preco_anterior": 353.73,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WBKSRz",
-    "atualizado_em": "2026-09-28T21:17:10.213-03:00"
   }
 ]
