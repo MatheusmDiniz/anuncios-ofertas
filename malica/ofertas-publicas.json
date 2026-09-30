@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45267328",
+    "titulo": "Andador Empurrador Infantil Musical Educativo Azul Yuupi",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_756140-MLA96197553408_102025-F.jpg",
+    "preco": 93.44,
+    "preco_anterior": 169.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/12B8oxF",
+    "atualizado_em": "2026-09-30T19:12:26.848-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65892455",
     "titulo": "Brastoy Kit 9 Brinquedos Montessori Pedagogico De Madeira Multicolorido",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_937204-MLA107485085225_022026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=malica09-20",
     "atualizado_em": "2026-09-29T19:15:13.872-03:00"
-  },
-  {
-    "id": "amazon:B079VTJLMZ",
-    "titulo": "NIVEA Creme Hidratante Lata 56g, Hidratação Profunda 24h, Corporal, Uso Diário, Multibenefícios, Todas as Peles",
-    "imagem": "https://m.media-amazon.com/images/I/617+4smiitL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B079VTJLMZ?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:10:07.837-03:00"
   }
 ]
