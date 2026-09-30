@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17489277",
+    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bcKcRJ",
+    "atualizado_em": "2026-09-30T11:41:07.626-03:00"
+  },
+  {
     "id": "shopee:1738148702.58214605068",
     "titulo": "Bolero Infantil Plusher Festa Casual Fofo Casaquinho Estilo Luxo Pelinho Gola Casaco Blusinha Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqvvsfoi64ue7f",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2zvgDVv",
     "atualizado_em": "2026-09-29T11:41:10.060-03:00"
-  },
-  {
-    "id": "amazon:B0DL6FFBD3",
-    "titulo": "Hot Wheels City Pista de Brinquedo Loja de doces 3 anos",
-    "imagem": "https://m.media-amazon.com/images/I/71neJl+PGbL._AC_SL1500_.jpg",
-    "preco": 93.9,
-    "preco_anterior": 169.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DL6FFBD3?tag=malica09-20",
-    "atualizado_em": "2026-09-29T11:36:01.953-03:00"
   }
 ]
