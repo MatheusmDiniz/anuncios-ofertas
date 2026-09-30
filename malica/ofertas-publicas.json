@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FQHX6T1B",
+    "titulo": "Apple iPhone 17 Pro (256 GB) - Prateado",
+    "imagem": "https://m.media-amazon.com/images/I/41eUrMz2PlL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FQHX6T1B?tag=malica09-20",
+    "atualizado_em": "2026-09-30T17:55:08.965-03:00"
+  },
+  {
     "id": "amazon:B0CPTB83ZW",
     "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
     "imagem": "https://m.media-amazon.com/images/I/612MPCMzhxL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09SVRB79R?tag=malica09-20",
     "atualizado_em": "2026-09-29T17:57:57.860-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41898480",
-    "titulo": "Retrovisor Bebê Espelho Para Banco Traseiro Carro Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_736189-MLA99991510869_112025-F.jpg",
-    "preco": 62,
-    "preco_anterior": 119.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/16wvoKp",
-    "atualizado_em": "2026-09-29T17:52:53.132-03:00"
   }
 ]
