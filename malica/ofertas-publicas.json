@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXKZQ2Y",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+    "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
+    "preco": 166,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
+    "atualizado_em": "2026-09-30T11:00:25.168-03:00"
+  },
+  {
     "id": "shopee:436773535.22898347074",
     "titulo": "Kit 4 Peças Pijama Brilha no Escuro Sortido Infantil Menino Inverno Roupa Infantil Masculina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjebx0vxa1oi7c",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fhfMqAzHm",
     "atualizado_em": "2026-09-29T11:04:58.457-03:00"
-  },
-  {
-    "id": "amazon:B07X4GWDZY+B0DV734H3T",
-    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
-    "preco": 84,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
-    "atualizado_em": "2026-09-29T10:59:53.542-03:00"
   }
 ]
