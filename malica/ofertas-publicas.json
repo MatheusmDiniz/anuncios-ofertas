@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CLHGKHV8",
+    "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml",
+    "imagem": "https://m.media-amazon.com/images/I/51swgAmRFHL._AC_SL1500_.jpg",
+    "preco": 18.99,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=malica09-20",
+    "atualizado_em": "2026-09-29T21:34:59.442-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18406873",
     "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2qanfLg",
     "atualizado_em": "2026-09-28T21:37:52.091-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74606583",
-    "titulo": "Kit 3 Brinquedo Bebê Gira C/ Ventosa para Banho Sensorial Montessori Educativo MLTM ECOM",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_614318-MLA113964852903_062026-F.jpg",
-    "preco": 27,
-    "preco_anterior": 59,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2B9WCb9",
-    "atualizado_em": "2026-09-28T21:32:43.071-03:00"
   }
 ]
