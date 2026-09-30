@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07RRXQJYN",
+    "titulo": "Giro Mágico Infantil Viva Brincar 8 Peças Dismat",
+    "imagem": "https://m.media-amazon.com/images/I/61fmDp62htL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07RRXQJYN?tag=malica09-20",
+    "atualizado_em": "2026-09-30T10:40:05.093-03:00"
+  },
+  {
     "id": "shopee:432628853.58208814983",
     "titulo": "Capa de Chuva Infantil Adulto Com Capuz Botão Material Impermeável Colorida e Galaxy Transparente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mn0lrmed11qa1f",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BFG0YbFkg",
     "atualizado_em": "2026-09-29T10:44:38.071-03:00"
-  },
-  {
-    "id": "amazon:B0GW3ZTXHF+B0GW48ZKYM",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
-    "preco": 96,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=malica09-20",
-    "atualizado_em": "2026-09-29T10:39:33.334-03:00"
   }
 ]
