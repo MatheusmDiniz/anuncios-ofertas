@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BCHWGG5P",
+    "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61NLcl3XQoL._AC_SL1500_.jpg",
+    "preco": 52.24,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=malica09-20",
+    "atualizado_em": "2026-09-30T20:45:14.604-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24198840",
     "titulo": "Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Cor Avelã LuckBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_662503-MLA96116062255_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FVB7KV7G?tag=malica09-20",
     "atualizado_em": "2026-09-29T20:48:13.038-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45865993",
-    "titulo": "Mosquiteiro Universal Portátil Avulso Tela Carrinho Bebe Conforto Capa Tule Dobrável Berço Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_894119-MLA116052623800_092026-F.jpg",
-    "preco": 21.18,
-    "preco_anterior": 37.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1rBnF86",
-    "atualizado_em": "2026-09-29T20:43:09.401-03:00"
   }
 ]
