@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72720626",
+    "titulo": "Berço Portatil Moises Balanço Mosquiteiro Infantil Bebê Acoplável Na Cama Co Sleeper Dobrável Com Colchão Espessura Extra Rodinhas Com Trava Altura Ajustável Pipdip",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642241-MLA115658811869_082026-F.jpg",
+    "preco": 599.9,
+    "preco_anterior": 1299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/16AzQhD",
+    "atualizado_em": "2026-09-30T09:28:08.371-03:00"
+  },
+  {
     "id": "amazon:B093GBK61S",
     "titulo": "Oferta: Pomada Pom Pom Anti Assaduras 90G",
     "imagem": "https://m.media-amazon.com/images/I/61Z-EvS7jzL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7AdvxYejXO",
     "atualizado_em": "2026-09-29T09:33:05.252-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62020136",
-    "titulo": "Canguru Sling De Bebe Carregar Recem Nascido Cinza G - Marca DE CORAZÓN",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_701617-MLA116049031946_092026-F.jpg",
-    "preco": 57.9,
-    "preco_anterior": 100,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/33iFhVy",
-    "atualizado_em": "2026-09-29T09:27:59.565-03:00"
   }
 ]
