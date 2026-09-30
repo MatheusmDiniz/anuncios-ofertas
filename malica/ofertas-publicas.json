@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DNTL32F6",
+    "titulo": "Oferta: Maxi Baby Mesa Atividades Infantil Didática Musical Eduka",
+    "imagem": "https://m.media-amazon.com/images/I/61hIPqAn-rL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DNTL32F6?tag=malica09-20",
+    "atualizado_em": "2026-09-30T18:26:01.845-03:00"
+  },
+  {
     "id": "amazon:B08G8SYDY1",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81yDahe4h6L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CQTLJRR7?tag=malica09-20",
     "atualizado_em": "2026-09-29T18:28:33.639-03:00"
-  },
-  {
-    "id": "amazon:B0C9FVPXFC",
-    "titulo": "GA.MA ITALY Secador de Cabelo Gama Eleganza Plus Ceramic Ion 2100W 127V",
-    "imagem": "https://m.media-amazon.com/images/I/61ldoe7m-2L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9FVPXFC?tag=malica09-20",
-    "atualizado_em": "2026-09-29T18:23:29.173-03:00"
   }
 ]
