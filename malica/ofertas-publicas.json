@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75214967",
+    "titulo": "Kit Escova e Pente para Bebê Lilica Ripilica BB Cerdas Naturais Pente de Pontas Arredondadas Design Moderno Cuidados do Bebê Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_867433-MLA113064409082_072026-F.jpg",
+    "preco": 38.99,
+    "preco_anterior": 78.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2gRqs6n",
+    "atualizado_em": "2026-09-30T14:15:29.592-03:00"
+  },
+  {
     "id": "amazon:B0B9959CWN",
     "titulo": "Lenços Umedecidos Pampers Cuidado de bebê, 576 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61+OonwT8PL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1AqXW7d",
     "atualizado_em": "2026-09-29T14:15:39.146-03:00"
-  },
-  {
-    "id": "amazon:B077C3NM6L",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61l9hhdb3rL._AC_SL1500_.jpg",
-    "preco": 12.82,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077C3NM6L?tag=malica09-20",
-    "atualizado_em": "2026-09-29T14:10:30.369-03:00"
   }
 ]
