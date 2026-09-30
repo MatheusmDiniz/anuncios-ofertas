@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1384480317.20399545613",
+    "titulo": "Mochila Escolar Infantil Menino Menina Dinossauro",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mnued4mo8w0257",
+    "preco": 27.99,
+    "preco_anterior": 45.89,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qcRCww43N",
+    "atualizado_em": "2026-09-30T11:25:49.119-03:00"
+  },
+  {
     "id": "amazon:B0FMB5J6L9",
     "titulo": "Kit 4 Pares Meias Bebê com Chocalho Pelúcia 3D Algodão Menino Menina Conforto Respirável 0 a 24 Meses Uso Diário (BR, Idade, 0 Meses, 12 Meses, Menina)",
     "imagem": "https://m.media-amazon.com/images/I/61xprup2QHL._AC_SL1500_.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2gMyi7Z",
     "atualizado_em": "2026-09-29T11:30:31.670-03:00"
-  },
-  {
-    "id": "amazon:B0CGY62F23",
-    "titulo": "Lenços Umedecidos Pampers Cuidado de Bebê 192 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61lSWTBB1NL._AC_SL1500_.jpg",
-    "preco": 30.39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGY62F23?tag=malica09-20",
-    "atualizado_em": "2026-09-29T11:25:24.124-03:00"
   }
 ]
