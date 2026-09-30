@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B088P9S98P",
+    "titulo": "MamyPoko Lenços Umedecidos Toque Suave 200 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71+9tzmgRyL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B088P9S98P?tag=malica09-20",
+    "atualizado_em": "2026-09-30T13:08:42.980-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22191149",
     "titulo": "Edredom Casal Queen Coberdrom Sherpa Cor Rose LuckBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_978012-MLA96133498115_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6L4oyECFxs",
     "atualizado_em": "2026-09-29T13:08:48.553-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26454526",
-    "titulo": "Fisher Price Puxe A Tartaruga Y8652 - Mattel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_832645-MLA99959799305_112025-F.jpg",
-    "preco": 55.84,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2b9dkbC",
-    "atualizado_em": "2026-09-29T13:03:43.537-03:00"
   }
 ]
