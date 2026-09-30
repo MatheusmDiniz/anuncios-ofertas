@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D4F4VS9M",
+    "titulo": "Oferta: CHUPETA MAM ORIGINAL TRIO - EMBALAGEM BLISTER TRIPLA",
+    "imagem": "https://m.media-amazon.com/images/I/51aMok8t0jL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=malica09-20",
+    "atualizado_em": "2026-09-30T15:11:47.740-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61922175",
     "titulo": "Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_740155-MLA97653162409_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G44S7RN1?tag=malica09-20",
     "atualizado_em": "2026-09-29T15:12:40.221-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53258842",
-    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
-    "preco": 259,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ovyxhc",
-    "atualizado_em": "2026-09-29T15:07:36.135-03:00"
   }
 ]
