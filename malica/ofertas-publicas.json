@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73405574",
+    "titulo": "Cadeira de Refeição Maxi Baby Mug Milk",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_875184-MLA113144231431_062026-F.jpg",
+    "preco": 222,
+    "preco_anterior": 639.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Yjf3cn",
+    "atualizado_em": "2026-09-30T20:04:27.054-03:00"
+  },
+  {
     "id": "amazon:B076YFJVT6",
     "titulo": "Oferta: WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com Mangueira de 1,5 Metros, Filtro Lavável, 140mbar 1400W 220V",
     "imagem": "https://m.media-amazon.com/images/I/81O+IX7pYIL._AC_SL1500_.jpg",
