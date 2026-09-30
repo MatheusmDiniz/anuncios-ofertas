@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FKWBT",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
+    "atualizado_em": "2026-09-30T16:28:43.209-03:00"
+  },
+  {
     "id": "amazon:B0GW3ZTXHF",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61ZkcLzSaTL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kYry3h",
     "atualizado_em": "2026-09-29T16:30:37.386-03:00"
-  },
-  {
-    "id": "amazon:B095R9CKYR",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71DAxC1Pu4L._AC_SL1500_.jpg",
-    "preco": 33.9,
-    "preco_anterior": 43.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=malica09-20",
-    "atualizado_em": "2026-09-29T16:25:28.739-03:00"
   }
 ]
