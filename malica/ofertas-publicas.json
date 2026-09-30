@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74536231",
+    "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
+    "preco": 399.99,
+    "preco_anterior": 999.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hhY1XL",
+    "atualizado_em": "2026-09-30T14:56:27.504-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP6M",
     "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
     "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fCe9HA",
     "atualizado_em": "2026-09-29T14:57:23.030-03:00"
-  },
-  {
-    "id": "amazon:6561263146",
-    "titulo": "Bluey Maletinha Divertida",
-    "imagem": "https://m.media-amazon.com/images/I/81xNc8-iONL._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": 49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6561263146?tag=malica09-20",
-    "atualizado_em": "2026-09-29T14:52:14.997-03:00"
   }
 ]
