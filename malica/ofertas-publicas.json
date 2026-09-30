@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75984769",
+    "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
+    "preco": 174.5,
+    "preco_anterior": 329.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2U76gEk",
+    "atualizado_em": "2026-09-30T19:38:02.779-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68012260",
     "titulo": "Grades De Cama Proteção Ajust 68cm Grades Segurança 3 Grades Branco Para Metal Madeira Solteiro Casal Para Idoso Gestante Protecao Para Nao Cair Da Cama Box Bebe Protetor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_981005-MLA110457295999_042026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZPQ2RRR?tag=malica09-20",
     "atualizado_em": "2026-09-29T19:41:05.479-03:00"
-  },
-  {
-    "id": "amazon:B07WXHPSR5",
-    "titulo": "Boneca Baby Babilina Soninho 34cm, Bambola, original : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/41Cx6wNg5LL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07WXHPSR5?tag=malica09-20",
-    "atualizado_em": "2026-09-29T19:35:59.674-03:00"
   }
 ]
