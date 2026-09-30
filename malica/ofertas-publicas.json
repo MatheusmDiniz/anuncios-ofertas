@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BDBHZSZT",
+    "titulo": "Fórmula Infantil: Aptamil Profutura Gold 1 800g - 0-6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/716SKFzV-CL._AC_SL1500_.jpg",
+    "preco": 119,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BDBHZSZT?tag=malica09-20",
+    "atualizado_em": "2026-09-30T08:52:26.358-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75505071",
     "titulo": "Suporte de Banho Infantil Ajustável Bebê em Pé Base Antiderrapante SekBem Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_810962-MLA116130884751_082026-F.jpg",
@@ -1618,15 +1628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/32opZnB",
     "atualizado_em": "2026-09-29T08:57:23.952-03:00"
-  },
-  {
-    "id": "amazon:B0CPT8CMSM",
-    "titulo": "Pampers Sabonete Líquido Glicerina 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=malica09-20",
-    "atualizado_em": "2026-09-29T08:52:15.931-03:00"
   }
 ]
