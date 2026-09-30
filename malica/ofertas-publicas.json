@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42162531",
+    "titulo": "Bicicleta de Equilíbrio Infantil Rosa 4 Rodas Sem Pedal Bebê MSP Kids, Primeira Bike para Criança a Partir de 1 Ano, Assento Ergonômico, Guidão Ajustável até 140°, Pneus em EVA e Aço Carbono",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877618-MLA116755920479_082026-F.jpg",
+    "preco": 76.43,
+    "preco_anterior": 157.47,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32DJxoj",
+    "atualizado_em": "2026-09-30T20:09:34.844-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73405574",
     "titulo": "Cadeira de Refeição Maxi Baby Mug Milk",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_875184-MLA113144231431_062026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/113IcDbbaE",
     "atualizado_em": "2026-09-29T20:12:23.576-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38654615",
-    "titulo": "Tapete Infantil De Atividades Piano Musical Com Luz E Som",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_920445-MLU77974913915_072024-F.jpg",
-    "preco": 69.9,
-    "preco_anterior": 129.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ynA43L",
-    "atualizado_em": "2026-09-29T20:07:16.390-03:00"
   }
 ]
