@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0HF77VHM2",
+    "titulo": "Brinquedo Montessori de Madeira Sensorial Infantil (13 em 1) | Inclui piano, labirinto, relógio, formas e engrenagens para estimular coordenação motora e aprendizagem infantil.",
+    "imagem": "https://m.media-amazon.com/images/I/810S2v5LNdL._AC_SL1500_.jpg",
+    "preco": 127.39,
+    "preco_anterior": 149.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0HF77VHM2?tag=malica09-20",
+    "atualizado_em": "2026-09-30T13:29:05.041-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75833623",
     "titulo": "Banheira Bebe Dobrável Com Termômetro Verde Almofada Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_711553-MLA113938711326_072026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08KHPB47B?tag=malica09-20",
     "atualizado_em": "2026-09-29T13:29:39.720-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39454640",
-    "titulo": "Assento Redutor Infantil Dobrável C/ Escada Mcfrog Maxi Baby - Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980471-MLA95405495148_102025-F.jpg",
-    "preco": 64.9,
-    "preco_anterior": 162.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2W1qkFU",
-    "atualizado_em": "2026-09-29T13:24:09.914-03:00"
   }
 ]
