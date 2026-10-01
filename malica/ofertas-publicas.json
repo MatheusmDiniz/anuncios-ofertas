@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077PZ6L7C",
+    "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Apoiador Zebra para crianças a partir de 6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/5147+BkXypL._AC_SL1500_.jpg",
+    "preco": 199,
+    "preco_anterior": 329.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077PZ6L7C?tag=malica09-20",
+    "atualizado_em": "2026-10-01T15:23:40.726-03:00"
+  },
+  {
     "id": "amazon:B09LRF9GH2",
     "titulo": "Burigotto Cadeira De Refeição Poke Polar",
     "imagem": "https://m.media-amazon.com/images/I/41S74jw-noL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2MVXcXh",
     "atualizado_em": "2026-09-30T15:27:10.978-03:00"
-  },
-  {
-    "id": "amazon:B0DV9W63Z6",
-    "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
-    "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
-    "preco": 346,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
-    "atualizado_em": "2026-09-30T15:22:02.636-03:00"
   }
 ]
