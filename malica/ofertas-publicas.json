@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44958164",
+    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Cinza Cor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_627665-MLA113620705920_072026-F.jpg",
+    "preco": 176.92,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/23isFaS",
+    "atualizado_em": "2026-10-01T09:18:01.204-03:00"
+  },
+  {
     "id": "shopee:1233552581.23492959831",
     "titulo": "Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Quente Feminino Jaqueta Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81zum-mkjug1b6qviadf",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093GBK61S?tag=malica09-20",
     "atualizado_em": "2026-09-30T09:23:01.210-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35768977",
-    "titulo": "Garrafa Térmica Infantil Inox 400ml Parede Dupla Canudo Buba Cor Rosa-chiclete",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_862956-MLA100076182417_122025-F.jpg",
-    "preco": 92.06,
-    "preco_anterior": 291.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2uJrAqA",
-    "atualizado_em": "2026-09-30T09:17:56.649-03:00"
   }
 ]
