@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38139642",
+    "titulo": "Burigotto Berço Portátil Sonata Beige, Cor Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651744-MLU78008533742_082024-F.jpg",
+    "preco": 445,
+    "preco_anterior": 939,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Dpj5pa",
+    "atualizado_em": "2026-09-30T21:31:10.755-03:00"
+  },
+  {
     "id": "amazon:B0BY3GQK3L",
     "titulo": "Oferta: Tena Pants Discreet Calcinha Descartável Preta G/EG 16 unidades",
     "imagem": "https://m.media-amazon.com/images/I/61XuQfHFyPL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=malica09-20",
     "atualizado_em": "2026-09-29T21:34:59.442-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18406873",
-    "titulo": "Baby Dove Sabonete Liquido de Glicerina Hidratação Glicerinada 400 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772321-MLA106128848906_022026-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 58.58,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2gwMEDh",
-    "atualizado_em": "2026-09-29T21:29:54.672-03:00"
   }
 ]
