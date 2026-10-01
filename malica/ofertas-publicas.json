@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25961240",
+    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
+    "preco": 119.6,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26CTJJv",
+    "atualizado_em": "2026-10-01T08:57:35.103-03:00"
+  },
+  {
     "id": "shopee:341167297.44506971957",
     "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0975WWR2C?tag=malica09-20",
     "atualizado_em": "2026-09-30T09:02:38.191-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28487537",
-    "titulo": "Berço Sonata Cor Cinza - Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
-    "preco": 369,
-    "preco_anterior": 651.23,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2N9M5Ks",
-    "atualizado_em": "2026-09-30T08:57:33.597-03:00"
   }
 ]
