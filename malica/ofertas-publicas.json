@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08T1KT63Y",
+    "titulo": "Play-Doh, Massinha de Modelar Infantil, Brincando de Dentista - Conjunto de Brinquedo com 9 Acessórios e 6 Potes - A partir de 3 Anos : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/71wbmTBVlzL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08T1KT63Y?tag=malica09-20",
+    "atualizado_em": "2026-10-01T20:37:20.464-03:00"
+  },
+  {
     "id": "amazon:B00CTH0A1Q",
     "titulo": "Oferta: Kit de Cartas UNO Clássico Mattel com 108 7 Anos ou Mai, Multicolorido",
     "imagem": "https://m.media-amazon.com/images/I/71yJ6Tu7+zL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/111oD2o",
     "atualizado_em": "2026-09-30T20:40:10.651-03:00"
-  },
-  {
-    "id": "amazon:6561263022",
-    "titulo": "Oferta: Bluey Pequena Biblioteca da Bluey - Box com 4 livrinhos",
-    "imagem": "https://m.media-amazon.com/images/I/614Bmynt4LL._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": 49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6561263022?tag=malica09-20",
-    "atualizado_em": "2026-09-30T20:35:03.270-03:00"
   }
 ]
