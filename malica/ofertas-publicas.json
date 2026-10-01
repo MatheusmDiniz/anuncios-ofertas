@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.44506971957",
+    "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
+    "preco": 50.9,
+    "preco_anterior": 99.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6fhiYluUPS",
+    "atualizado_em": "2026-10-01T08:52:27.462-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56241384",
     "titulo": "Boné New Era Los Angeles Azul Aba Curva Adultos Ajuste Tamanho Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_600722-MLA99392812284_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2N9M5Ks",
     "atualizado_em": "2026-09-30T08:57:33.597-03:00"
-  },
-  {
-    "id": "amazon:B0BDBHZSZT",
-    "titulo": "Fórmula Infantil: Aptamil Profutura Gold 1 800g - 0-6 meses",
-    "imagem": "https://m.media-amazon.com/images/I/716SKFzV-CL._AC_SL1500_.jpg",
-    "preco": 119,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BDBHZSZT?tag=malica09-20",
-    "atualizado_em": "2026-09-30T08:52:26.358-03:00"
   }
 ]
