@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CWPB7QSJ",
+    "titulo": "Philips Avent Kit de Mamadeira Pétala 3.0, 125ml Bico Fluxo Lento (fluxo 2), 260ml Bico Fluxo Médio (fluxo 2), 2 Un Branca- SCD838/26",
+    "imagem": "https://m.media-amazon.com/images/I/51mp44eu2xL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CWPB7QSJ?tag=malica09-20",
+    "atualizado_em": "2026-10-01T15:08:00.040-03:00"
+  },
+  {
     "id": "amazon:B0CPTD7WH3",
     "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes | Tamanhos Sortidos para organizar gavetas, bancadas e armários",
     "imagem": "https://m.media-amazon.com/images/I/61bHVemzx2L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=malica09-20",
     "atualizado_em": "2026-09-30T15:11:47.740-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61922175",
-    "titulo": "Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_740155-MLA97653162409_112025-F.jpg",
-    "preco": 74,
-    "preco_anterior": 149.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19aCMdn",
-    "atualizado_em": "2026-09-30T15:06:42.325-03:00"
   }
 ]
