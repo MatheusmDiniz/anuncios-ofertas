@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00CTH0A1Q",
+    "titulo": "Oferta: Kit de Cartas UNO Clássico Mattel com 108 7 Anos ou Mai, Multicolorido",
+    "imagem": "https://m.media-amazon.com/images/I/71yJ6Tu7+zL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00CTH0A1Q?tag=malica09-20",
+    "atualizado_em": "2026-10-01T20:32:13.886-03:00"
+  },
+  {
     "id": "shopee:1017646777.21899901744",
     "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6561263022?tag=malica09-20",
     "atualizado_em": "2026-09-30T20:35:03.270-03:00"
-  },
-  {
-    "id": "amazon:B0D8JVBSD7",
-    "titulo": "Granado Kit Viagem Do Bebê, 60ml, 4 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/81oF0ggfvNL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D8JVBSD7?tag=malica09-20",
-    "atualizado_em": "2026-09-30T20:29:58.377-03:00"
   }
 ]
