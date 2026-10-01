@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB70393186",
+    "titulo": "Berço para Bebes Co-Leito Galzerano Colin Lado a Lado Perola Berço Regulavel Compacta Desmontavel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_842157-MLA111347295680_052026-F.jpg",
+    "preco": 739,
+    "preco_anterior": 1499.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kPjrTV",
+    "atualizado_em": "2026-10-01T16:19:59.214-03:00"
+  },
+  {
     "id": "amazon:B0FXN957HN",
     "titulo": "Quadrados de Algodão Johnson",
     "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW3ZTXHF?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:23:38.533-03:00"
-  },
-  {
-    "id": "amazon:B07Z55NZ7G",
-    "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
-    "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
-    "atualizado_em": "2026-09-30T16:18:35.092-03:00"
   }
 ]
