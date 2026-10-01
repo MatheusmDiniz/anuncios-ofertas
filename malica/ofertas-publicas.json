@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58575202",
+    "titulo": "Banheira Dobrável Yuupi YPB188 com Suporte, Termômetro e Almofada 40L Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891160-MLA99450372686_112025-F.jpg",
+    "preco": 359,
+    "preco_anterior": 729.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29c3xk2",
+    "atualizado_em": "2026-10-01T13:46:05.718-03:00"
+  },
+  {
     "id": "amazon:B07F1Z7ZM2",
     "titulo": "Condicionador Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51P0ONPQUCL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08Q8LDKVN?tag=malica09-20",
     "atualizado_em": "2026-09-30T13:49:29.370-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50913809",
-    "titulo": "Bercinho Grande Infantil Brinquedo Berço Gigante Boneca Bebe Reborn Atacarejo Kids",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751279-MLA116708956906_092026-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 219.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KrnLyQ",
-    "atualizado_em": "2026-09-30T13:44:25.627-03:00"
   }
 ]
