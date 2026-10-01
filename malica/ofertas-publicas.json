@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69331466",
+    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "preco": 849.99,
+    "preco_anterior": 1699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bC1ui2",
+    "atualizado_em": "2026-10-01T20:01:01.252-03:00"
+  },
+  {
     "id": "amazon:B0FBSLDV6Y",
     "titulo": "KIT FRAN LOVE KIT GLOSS LABIAL E LÁPIS LABIAL BY FRANCINY EHLKE",
     "imagem": "https://m.media-amazon.com/images/I/51XcARdxbML._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Yjf3cn",
     "atualizado_em": "2026-09-30T20:04:27.054-03:00"
-  },
-  {
-    "id": "amazon:B076YFJVT6",
-    "titulo": "Oferta: WAP Aspirador de Pó e Água GTW 10, Compacto, 10 Litros, com Mangueira de 1,5 Metros, Filtro Lavável, 140mbar 1400W 220V",
-    "imagem": "https://m.media-amazon.com/images/I/81O+IX7pYIL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076YFJVT6?tag=malica09-20",
-    "atualizado_em": "2026-09-30T19:59:19.281-03:00"
   }
 ]
