@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JQNDGKS",
+    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
+    "imagem": "https://m.media-amazon.com/images/I/51IU5hzbANL._AC_SL1500_.jpg",
+    "preco": 7.99,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JQNDGKS?tag=malica09-20",
+    "atualizado_em": "2026-10-01T14:06:24.314-03:00"
+  },
+  {
     "id": "amazon:B072MTS8VQ",
     "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B9959CWN?tag=malica09-20",
     "atualizado_em": "2026-09-30T14:10:20.344-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB31739631",
-    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
-    "preco": 424.86,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Y8xSvd",
-    "atualizado_em": "2026-09-30T14:04:50.278-03:00"
   }
 ]
