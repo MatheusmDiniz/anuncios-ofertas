@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46396110",
+    "titulo": "Fisher-price - Pelúcia Irmã Do Cachorrinho - Mattel Jfd30 Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_764219-MLA99460668914_112025-F.jpg",
+    "preco": 175,
+    "preco_anterior": 369.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26HPpba",
+    "atualizado_em": "2026-10-01T09:28:12.916-03:00"
+  },
+  {
     "id": "shopee:425326129.23598392567",
     "titulo": "Kit 2 Pares De Meia Calça Para Bebês Infantil Para Inverno Quentinhas Algodão Preto e Branco",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra24-mb8fvoftz13l8f",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FM9BK7B5?tag=malica09-20",
     "atualizado_em": "2026-09-30T09:33:13.293-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72720626",
-    "titulo": "Berço Portatil Moises Balanço Mosquiteiro Infantil Bebê Acoplável Na Cama Co Sleeper Dobrável Com Colchão Espessura Extra Rodinhas Com Trava Altura Ajustável Pipdip",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642241-MLA115658811869_082026-F.jpg",
-    "preco": 599.9,
-    "preco_anterior": 1299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/16AzQhD",
-    "atualizado_em": "2026-09-30T09:28:08.371-03:00"
   }
 ]
