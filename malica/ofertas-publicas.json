@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49362883",
+    "titulo": "Brinquedo para Bebês Cachorrinho Aprende Comigo Fisher-Price",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_712626-MLA99888968283_112025-F.jpg",
+    "preco": 279.18,
+    "preco_anterior": 819.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Nvjvg2",
+    "atualizado_em": "2026-10-01T20:11:20.631-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xxW9Co",
     "atualizado_em": "2026-09-30T20:14:42.264-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42162531",
-    "titulo": "Bicicleta de Equilíbrio Infantil Rosa 4 Rodas Sem Pedal Bebê MSP Kids, Primeira Bike para Criança a Partir de 1 Ano, Assento Ergonômico, Guidão Ajustável até 140°, Pneus em EVA e Aço Carbono",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877618-MLA116755920479_082026-F.jpg",
-    "preco": 76.43,
-    "preco_anterior": 157.47,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32DJxoj",
-    "atualizado_em": "2026-09-30T20:09:34.844-03:00"
   }
 ]
