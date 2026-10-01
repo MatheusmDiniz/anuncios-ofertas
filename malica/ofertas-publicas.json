@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58145183",
+    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730625-MLA116852295949_082026-F.jpg",
+    "preco": 729.8,
+    "preco_anterior": 2398,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dggwXF",
+    "atualizado_em": "2026-10-01T20:57:52.951-03:00"
+  },
+  {
     "id": "shopee:575397523.51106656675",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=malica09-20",
     "atualizado_em": "2026-09-30T21:00:34.991-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27405813",
-    "titulo": "Mesinha Didática Infantil Com 2 Cadeiras",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640135-MLA99465372484_112025-F.jpg",
-    "preco": 275.8,
-    "preco_anterior": 538.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cwX5ju",
-    "atualizado_em": "2026-09-30T20:55:30.660-03:00"
   }
 ]
