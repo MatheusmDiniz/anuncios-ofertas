@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49851712",
+    "titulo": "Copo Térmico Parede Dupla Dino Infantil 20394 Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869331-MLA100081729311_122025-F.jpg",
+    "preco": 88.99,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29xShs9",
+    "atualizado_em": "2026-10-01T09:59:14.200-03:00"
+  },
+  {
     "id": "shopee:1480118625.49501660876",
     "titulo": "Cercadinho Bebê Grande Chiqueirinho Infantil Cercado Portátil Dobrável de Seguro e Protegido",
     "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mih92xfdasjn20",
@@ -1628,25 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6AlOlvCtIt",
     "atualizado_em": "2026-09-30T10:04:16.719-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25707178",
-    "titulo": "Almofada Atividade Para Bebe Divertida Mordedor - Buba Cor Colorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791352-MLA99444394234_112025-F.jpg",
-    "preco": 119.99,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2trGmuj",
-    "atualizado_em": "2026-09-30T09:59:10.688-03:00"
-  },
-  {
-    "id": "amazon:B0FMFWWD8H",
-    "titulo": "Oferta: Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
-    "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=malica09-20",
-    "atualizado_em": "2026-09-30T09:54:03.414-03:00"
   }
 ]
