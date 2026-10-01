@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F7LC7WYH",
+    "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
+    "imagem": "https://m.media-amazon.com/images/I/81bPF5ngzHL._AC_SL1500_.jpg",
+    "preco": 28.79,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F7LC7WYH?tag=malica09-20",
+    "atualizado_em": "2026-10-01T16:09:43.854-03:00"
+  },
+  {
     "id": "amazon:B09K2Y66Q3",
     "titulo": "Suplemento Infantil Ascenda Sem Sabor 800G",
     "imagem": "https://m.media-amazon.com/images/I/51DchdAdFqL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093MB83GG?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:13:31.450-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16091842",
-    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 250,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZqdnYS",
-    "atualizado_em": "2026-09-30T16:08:26.882-03:00"
   }
 ]
