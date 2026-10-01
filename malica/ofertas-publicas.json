@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08FVVH9BC",
+    "titulo": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
+    "imagem": "https://m.media-amazon.com/images/I/716S5cnZi7L._AC_SL1500_.jpg",
+    "preco": 66.91,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=malica09-20",
+    "atualizado_em": "2026-09-30T21:00:34.991-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27405813",
     "titulo": "Mesinha Didática Infantil Com 2 Cadeiras",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_640135-MLA99465372484_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=malica09-20",
     "atualizado_em": "2026-09-29T21:03:29.452-03:00"
-  },
-  {
-    "id": "amazon:B0CPYDJLH2",
-    "titulo": "Oferta: L",
-    "imagem": "https://m.media-amazon.com/images/I/61g91pR25kL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPYDJLH2?tag=malica09-20",
-    "atualizado_em": "2026-09-29T20:58:25.360-03:00"
   }
 ]
