@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FXN957HN",
+    "titulo": "Quadrados de Algodão Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
+    "preco": 27.89,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
+    "atualizado_em": "2026-10-01T16:14:48.888-03:00"
+  },
+  {
     "id": "amazon:B0F7LC7WYH",
     "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
     "imagem": "https://m.media-amazon.com/images/I/81bPF5ngzHL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:18:35.092-03:00"
-  },
-  {
-    "id": "amazon:B093MB83GG",
-    "titulo": "Condicionador Infantil Suave 210ml – Baruel Baby",
-    "imagem": "https://m.media-amazon.com/images/I/716c6ddxHAL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093MB83GG?tag=malica09-20",
-    "atualizado_em": "2026-09-30T16:13:31.450-03:00"
   }
 ]
