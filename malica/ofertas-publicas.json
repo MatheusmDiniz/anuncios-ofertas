@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJ19R8H7",
+    "titulo": "LEGO Minecraft A Batalha de Lava no Nether 21266 (99 Peças)",
+    "imagem": "https://m.media-amazon.com/images/I/81Fx8Quy1SL._AC_SL1500_.jpg",
+    "preco": 56,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJ19R8H7?tag=malica09-20",
+    "atualizado_em": "2026-10-01T18:54:18.352-03:00"
+  },
+  {
     "id": "shopee:927473129.23993617336",
     "titulo": "Carteira Infantil Meninos e Meninas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4tbon5nxlmadb",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/113KDIonW0",
     "atualizado_em": "2026-09-30T18:57:05.642-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24762578",
-    "titulo": "Assento Redutor Infantil Com Escada Para Vaso Sanitário",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932110-MLA104013585861_012026-F.jpg",
-    "preco": 126.5,
-    "preco_anterior": 225.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EkNNnZ",
-    "atualizado_em": "2026-09-30T18:52:00.210-03:00"
   }
 ]
