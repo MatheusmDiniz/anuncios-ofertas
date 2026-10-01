@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67071722",
+    "titulo": "Bicicleta De Equilibrio Infantil Sem Pedal Verde 21270 Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_927876-MLA111293501262_052026-F.jpg",
+    "preco": 231,
+    "preco_anterior": 390.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1n8d434",
+    "atualizado_em": "2026-10-01T20:47:35.872-03:00"
+  },
+  {
     "id": "amazon:B0BDT2JD8T",
     "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2wW1Bpt",
     "atualizado_em": "2026-09-30T20:50:21.959-03:00"
-  },
-  {
-    "id": "amazon:B0BCHWGG5P",
-    "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61NLcl3XQoL._AC_SL1500_.jpg",
-    "preco": 52.24,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=malica09-20",
-    "atualizado_em": "2026-09-30T20:45:14.604-03:00"
   }
 ]
