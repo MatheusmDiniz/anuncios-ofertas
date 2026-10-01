@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45995800",
+    "titulo": "Carrinho De Bebê Passeio Guarda Chuva Styll Baby Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761526-MLA100714060243_122025-F.jpg",
+    "preco": 195.65,
+    "preco_anterior": 405,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Apnwjg",
+    "atualizado_em": "2026-10-01T08:26:57.188-03:00"
+  },
+  {
     "id": "amazon:B099KV2733",
     "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61wE7KZt2vL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=malica09-20",
     "atualizado_em": "2026-09-30T08:32:00.953-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53974840",
-    "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
-    "preco": 484,
-    "preco_anterior": 999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pGxkyW",
-    "atualizado_em": "2026-09-30T08:26:31.789-03:00"
   }
 ]
