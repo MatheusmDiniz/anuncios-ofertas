@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B25M6HGJ",
+    "titulo": "SUNNY, Gabby",
+    "imagem": "https://m.media-amazon.com/images/I/71EVzHyO+7L._AC_SL1500_.jpg",
+    "preco": 77.59,
+    "preco_anterior": 175.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B25M6HGJ?tag=malica09-20",
+    "atualizado_em": "2026-10-01T12:29:23.825-03:00"
+  },
+  {
     "id": "amazon:B0G8YRHPDV",
     "titulo": "Oferta: Blocos de Construção Conjunto Casa na Árvore - 756 Peças, Compatível com Blocos de Construção Padrão, Um Presente para Adultos e Crianças",
     "imagem": "https://m.media-amazon.com/images/I/618YCy-uZVL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KckCEm",
     "atualizado_em": "2026-09-30T12:32:11.525-03:00"
-  },
-  {
-    "id": "amazon:B077BY8HQV",
-    "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
-    "imagem": "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=malica09-20",
-    "atualizado_em": "2026-09-30T12:27:03.354-03:00"
   }
 ]
