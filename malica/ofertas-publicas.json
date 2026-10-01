@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CZPLVXS5",
+    "titulo": "Mili Toalhas Umedecidas Love & Care Premium, Uso Bebê, Aloe Vera e Calêndula, Pack com 10 Pacotes (48 Unidades cada)",
+    "imagem": "https://m.media-amazon.com/images/I/71toJU0iNyL._AC_SL1500_.jpg",
+    "preco": 59.85,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CZPLVXS5?tag=malica09-20",
+    "atualizado_em": "2026-10-01T13:51:09.816-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB58575202",
     "titulo": "Banheira Dobrável Yuupi YPB188 com Suporte, Termômetro e Almofada 40L Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_891160-MLA99450372686_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2SJwgA7",
     "atualizado_em": "2026-09-30T13:54:37.315-03:00"
-  },
-  {
-    "id": "amazon:B08Q8LDKVN",
-    "titulo": "Oferta: Fun Divirta-se - Disney Pelúcia Dama - 35cm - A partir de 24 meses",
-    "imagem": "https://m.media-amazon.com/images/I/61sgjBpDaxL._AC_SL1500_.jpg",
-    "preco": 139.6,
-    "preco_anterior": 229.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08Q8LDKVN?tag=malica09-20",
-    "atualizado_em": "2026-09-30T13:49:29.370-03:00"
   }
 ]
