@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29298117",
+    "titulo": "Bicicleta De Equilibrio Infantil 4 Rodas Vermelho - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851787-MLU77882833591_072024-F.jpg",
+    "preco": 181.59,
+    "preco_anterior": 370.6,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24mjs9N",
+    "atualizado_em": "2026-10-01T09:07:48.173-03:00"
+  },
+  {
     "id": "shopee:675280062.10989909498",
     "titulo": "Pijama macacão Kigurumi Cosplay Dinossauro Tubarão Vaquinha Unicórnio Cosplay",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-ms1mjm5oga9wd0",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/853808724X?tag=malica09-20",
     "atualizado_em": "2026-09-30T09:12:49.360-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25863440",
-    "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
-    "preco": 82.66,
-    "preco_anterior": 147.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kf8ris",
-    "atualizado_em": "2026-09-30T09:07:45.703-03:00"
   }
 ]
