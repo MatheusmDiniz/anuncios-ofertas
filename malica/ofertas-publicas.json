@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72984485",
+    "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
+    "preco": 79.69,
+    "preco_anterior": 189.86,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kb8E9B",
+    "atualizado_em": "2026-10-01T11:37:24.954-03:00"
+  },
+  {
     "id": "amazon:B095R95SNW",
     "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
     "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bcKcRJ",
     "atualizado_em": "2026-09-30T11:41:07.626-03:00"
-  },
-  {
-    "id": "shopee:1738148702.58214605068",
-    "titulo": "Bolero Infantil Plusher Festa Casual Fofo Casaquinho Estilo Luxo Pelinho Gola Casaco Blusinha Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mqvvsfoi64ue7f",
-    "preco": 35.96,
-    "preco_anterior": 89.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9zy8vxrRNh",
-    "atualizado_em": "2026-09-30T11:35:57.699-03:00"
   }
 ]
