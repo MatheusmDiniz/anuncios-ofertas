@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07C3T48W5",
+    "titulo": "Fralda Babysec Ultrasec Galinha Pintadinha, XG, 20 unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61uIa1-jSIL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07C3T48W5?tag=malica09-20",
+    "atualizado_em": "2026-09-30T21:20:59.194-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68380549",
     "titulo": "Mini Brands Encha A Geladeira Viralizado Blogueiras",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_838005-MLA109813076410_042026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09KNTZXKL?tag=malica09-20",
     "atualizado_em": "2026-09-29T21:24:44.731-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24512546",
-    "titulo": "Fio Amigurumi Círculo 254m 100% Algodão 2194 - Turquesa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_794109-MLA99593003898_122025-F.jpg",
-    "preco": 20.36,
-    "preco_anterior": 35.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hBKerc",
-    "atualizado_em": "2026-09-29T21:19:40.830-03:00"
   }
 ]
