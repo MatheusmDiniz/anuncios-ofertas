@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68380549",
+    "titulo": "Mini Brands Encha A Geladeira Viralizado Blogueiras",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838005-MLA109813076410_042026-F.jpg",
+    "preco": 189.9,
+    "preco_anterior": 597.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2TcxThH",
+    "atualizado_em": "2026-09-30T21:15:54.633-03:00"
+  },
+  {
     "id": "amazon:B0FJT7KHZ8",
     "titulo": "Ricosol Protetor Solar Kids FPS99 100g",
     "imagem": "https://m.media-amazon.com/images/I/71mqyAQccOL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2hBKerc",
     "atualizado_em": "2026-09-29T21:19:40.830-03:00"
-  },
-  {
-    "id": "amazon:B0GRJ9XVHD",
-    "titulo": "Likluc Xô Bactéria 0+ Higienizador antisséptico para bebês! | Mata 99,9% das Bactérias e Virus",
-    "imagem": "https://m.media-amazon.com/images/I/81+nmn4gH1L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GRJ9XVHD?tag=malica09-20",
-    "atualizado_em": "2026-09-29T21:14:32.632-03:00"
   }
 ]
