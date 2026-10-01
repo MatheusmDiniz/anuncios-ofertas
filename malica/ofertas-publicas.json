@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:891530574.22198663099",
+    "titulo": "Kit 3 calça infantil juvenil forrada confortavél básica 4 ao 16.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-maxg6e69jvdbb3",
+    "preco": 49.99,
+    "preco_anterior": 99.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BUFSKodN6",
+    "atualizado_em": "2026-10-01T18:59:23.849-03:00"
+  },
+  {
     "id": "amazon:B0DJ19R8H7",
     "titulo": "LEGO Minecraft A Batalha de Lava no Nether 21266 (99 Peças)",
     "imagem": "https://m.media-amazon.com/images/I/81Fx8Quy1SL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5LCJNGyu6T",
     "atualizado_em": "2026-09-30T19:02:11.219-03:00"
-  },
-  {
-    "id": "shopee:1739680653.58204448907",
-    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
-    "preco": 24.9,
-    "preco_anterior": 75.45,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/113KDIonW0",
-    "atualizado_em": "2026-09-30T18:57:05.642-03:00"
   }
 ]
