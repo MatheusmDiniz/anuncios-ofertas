@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CD8T9Q45",
+    "titulo": "Absorvente Cremer 30Un. Seios : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/51O7wP2IGpL._AC_SL1500_.jpg",
+    "preco": 21.8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CD8T9Q45?tag=malica09-20",
+    "atualizado_em": "2026-10-01T13:20:26.904-03:00"
+  },
+  {
     "id": "amazon:B0BJ7ZTCH6",
     "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses",
     "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Rti5yd",
     "atualizado_em": "2026-09-30T13:24:01.077-03:00"
-  },
-  {
-    "id": "amazon:B0B61SXGH3",
-    "titulo": "Kit Pista Hot Wheels Super Corpo de Bombeiros Mattel : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/811tR2ki7hL._AC_SL1500_.jpg",
-    "preco": 172.61,
-    "preco_anterior": 200.02,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B61SXGH3?tag=malica09-20",
-    "atualizado_em": "2026-09-30T13:18:53.845-03:00"
   }
 ]
