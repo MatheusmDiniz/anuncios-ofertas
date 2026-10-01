@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B089PF67DR",
+    "titulo": "Ricca Hastes Flexíveis Baby Ricca 60un",
+    "imagem": "https://m.media-amazon.com/images/I/51ZI6tKmkrL._AC_SL1500_.jpg",
+    "preco": 7.69,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B089PF67DR?tag=malica09-20",
+    "atualizado_em": "2026-10-01T11:22:00.639-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23912670",
     "titulo": "Portão Segurança Pet Útil Aramado Preto 80x74-84cm Para Crianças e Cães",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_800475-MLA95714019336_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qcRCww43N",
     "atualizado_em": "2026-09-30T11:25:49.119-03:00"
-  },
-  {
-    "id": "amazon:B0FMB5J6L9",
-    "titulo": "Kit 4 Pares Meias Bebê com Chocalho Pelúcia 3D Algodão Menino Menina Conforto Respirável 0 a 24 Meses Uso Diário (BR, Idade, 0 Meses, 12 Meses, Menina)",
-    "imagem": "https://m.media-amazon.com/images/I/61xprup2QHL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMB5J6L9?tag=malica09-20",
-    "atualizado_em": "2026-09-30T11:20:43.890-03:00"
   }
 ]
