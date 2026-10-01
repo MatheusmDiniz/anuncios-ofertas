@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B3S9QWQY",
+    "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
+    "atualizado_em": "2026-10-01T14:57:51.156-03:00"
+  },
+  {
     "id": "amazon:B0FRBBQF36",
     "titulo": "Umidificador Ultrassônico Easy Air 1.8L Branco Multi Saúde - HC290 : Amazon.com.br: Casa",
     "imagem": "https://m.media-amazon.com/images/I/41QgGU-LO2L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
     "atualizado_em": "2026-09-30T15:01:33.253-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536231",
-    "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
-    "preco": 399.99,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hhY1XL",
-    "atualizado_em": "2026-09-30T14:56:27.504-03:00"
   }
 ]
