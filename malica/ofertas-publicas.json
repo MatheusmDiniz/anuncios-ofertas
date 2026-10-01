@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75314421",
+    "titulo": "Cadeira de Alimentação PipDip 3 em 1 Portátil, Dobrável e com Bandeja Removível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_702569-MLA114811829828_082026-F.jpg",
+    "preco": 239,
+    "preco_anterior": 499.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1AdCC9z",
+    "atualizado_em": "2026-10-01T16:40:33.677-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72701612",
     "titulo": "Bicicleta de Equilíbrio Infantil para Bebê de 1 Ano com 4 Rodas e Aço Carbono",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_880351-MLA115359579520_082026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EKgnWB",
     "atualizado_em": "2026-09-30T16:44:02.332-03:00"
-  },
-  {
-    "id": "amazon:B0BQRQVF2C",
-    "titulo": "Cacheador Phico Cachos de 25mm. Revestimento em cerâmica, PEC15 Intense Curves Bivolt",
-    "imagem": "https://m.media-amazon.com/images/I/31XqA7dpDHL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BQRQVF2C?tag=malica09-20",
-    "atualizado_em": "2026-09-30T16:38:55.062-03:00"
   }
 ]
