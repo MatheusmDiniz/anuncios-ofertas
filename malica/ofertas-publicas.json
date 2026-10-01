@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BY3GQK3L",
+    "titulo": "Oferta: Tena Pants Discreet Calcinha Descartável Preta G/EG 16 unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61XuQfHFyPL._AC_SL1500_.jpg",
+    "preco": 65.52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BY3GQK3L?tag=malica09-20",
+    "atualizado_em": "2026-09-30T21:26:03.435-03:00"
+  },
+  {
     "id": "amazon:B07C3T48W5",
     "titulo": "Fralda Babysec Ultrasec Galinha Pintadinha, XG, 20 unidades",
     "imagem": "https://m.media-amazon.com/images/I/61uIa1-jSIL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2gwMEDh",
     "atualizado_em": "2026-09-29T21:29:54.672-03:00"
-  },
-  {
-    "id": "amazon:B09KNTZXKL",
-    "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09KNTZXKL?tag=malica09-20",
-    "atualizado_em": "2026-09-29T21:24:44.731-03:00"
   }
 ]
