@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08MKNH3B4",
+    "titulo": "Mustela Gel Lavante Suave 750ml - Sabonete Líquido Corpo e Cabelo Infantil - 93% de Ingredientes de Origem Natural - Seguro Desde o Nascimento",
+    "imagem": "https://m.media-amazon.com/images/I/61O8D9HGg+L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08MKNH3B4?tag=malica09-20",
+    "atualizado_em": "2026-10-01T10:50:51.320-03:00"
+  },
+  {
     "id": "shopee:1634594516.23399516396",
     "titulo": "Enfeite de Carro Passarinho Bate Asas no Vento para Retrovisor Moto Bike e Capacete",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mq2zew1gjegz4d",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zy8vw5JJq",
     "atualizado_em": "2026-09-30T10:55:21.356-03:00"
-  },
-  {
-    "id": "amazon:B07X4GVF9H+B07X4GWDZY+B0DV7BN75H",
-    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
-    "preco": 86,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
-    "atualizado_em": "2026-09-30T10:50:15.437-03:00"
   }
 ]
