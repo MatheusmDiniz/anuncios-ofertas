@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:675280062.10989909498",
+    "titulo": "Pijama macacão Kigurumi Cosplay Dinossauro Tubarão Vaquinha Unicórnio Cosplay",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-ms1mjm5oga9wd0",
+    "preco": 79.9,
+    "preco_anterior": 150.75,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7faFkdcoaP",
+    "atualizado_em": "2026-10-01T09:02:40.621-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25961240",
     "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kf8ris",
     "atualizado_em": "2026-09-30T09:07:45.703-03:00"
-  },
-  {
-    "id": "amazon:B0975WWR2C",
-    "titulo": "Oferta: Babá Eletrônica, TakTark Câmera para Bebês com Tela de 3.2\", Visão Noturna Infravermelha, Áudio Bidirecional, Detecção de Som VOX, Monitoramento Temperatura, Canção de Ninar",
-    "imagem": "https://m.media-amazon.com/images/I/61h2x-zBZIL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0975WWR2C?tag=malica09-20",
-    "atualizado_em": "2026-09-30T09:02:38.191-03:00"
   }
 ]
