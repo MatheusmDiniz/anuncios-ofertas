@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67677338",
+    "titulo": "3 Em 1 Carrinho Bebé ,dobrável,versátil E Prático! Reversíve Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652266-MLA116730535923_082026-F.jpg",
+    "preco": 729.6,
+    "preco_anterior": 1499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19bFswm",
+    "atualizado_em": "2026-10-01T19:14:43.319-03:00"
+  },
+  {
     "id": "amazon:B0GRK2V7C1",
     "titulo": "Blocos Sensoriais para Bebê 12 Cubos Educativos Macios de Empilhar 6M+ | Estimula tato, coordenação motora e aprendizado desde os 6 meses",
     "imagem": "https://m.media-amazon.com/images/I/81KAAZaGSyL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2NC8bth",
     "atualizado_em": "2026-09-30T19:17:34.285-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45267328",
-    "titulo": "Andador Empurrador Infantil Musical Educativo Azul Yuupi",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_756140-MLA96197553408_102025-F.jpg",
-    "preco": 93.44,
-    "preco_anterior": 169.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12B8oxF",
-    "atualizado_em": "2026-09-30T19:12:26.848-03:00"
   }
 ]
