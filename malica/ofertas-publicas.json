@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB59716108",
+    "titulo": "Berço Portátil Moises Co-bed Balanço Mosquiteiro Cesto Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_882486-MLA99579748730_122025-F.jpg",
+    "preco": 466.9,
+    "preco_anterior": 999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1eSjGuA",
+    "atualizado_em": "2026-10-01T09:38:32.370-03:00"
+  },
+  {
     "id": "shopee:1735703075.58210539222",
     "titulo": "Moletom infantil menina estilo suéter puro algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mo5j06xy76rk61",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=malica09-20",
     "atualizado_em": "2026-09-30T09:43:25.746-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215253",
-    "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
-    "preco": 163.93,
-    "preco_anterior": 338,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2npYksY",
-    "atualizado_em": "2026-09-30T09:38:20.859-03:00"
   }
 ]
