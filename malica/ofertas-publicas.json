@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61758376",
+    "titulo": "Andador Infantil 2 Em 1 Musical Interativo Rosa - Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644658-MLA97392217459_112025-F.jpg",
+    "preco": 129,
+    "preco_anterior": 219.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1pegqJk",
+    "atualizado_em": "2026-10-01T19:45:38.267-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53365359",
     "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2AwxFkW",
     "atualizado_em": "2026-09-30T19:48:18.792-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56574273",
-    "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
-    "preco": 139.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2YDfnP3",
-    "atualizado_em": "2026-09-30T19:43:10.842-03:00"
   }
 ]
