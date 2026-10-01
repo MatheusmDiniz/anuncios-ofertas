@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095D5PSPG",
+    "titulo": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61pYc6NhTXL._AC_SL1500_.jpg",
+    "preco": 85.49,
+    "preco_anterior": 118.1,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095D5PSPG?tag=malica09-20",
+    "atualizado_em": "2026-10-01T13:10:15.837-03:00"
+  },
+  {
     "id": "amazon:B07FNM9QRF",
     "titulo": "Fralda Pants Huggies Supreme Care, Tamanho M, 36 unidades, Estilo Roupinha, para 5,5 a 9,5 kg",
     "imagem": "https://m.media-amazon.com/images/I/71H11HwAU3L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B0MC9FvrT",
     "atualizado_em": "2026-09-30T13:13:48.769-03:00"
-  },
-  {
-    "id": "amazon:B088P9S98P",
-    "titulo": "MamyPoko Lenços Umedecidos Toque Suave 200 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71+9tzmgRyL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B088P9S98P?tag=malica09-20",
-    "atualizado_em": "2026-09-30T13:08:42.980-03:00"
   }
 ]
