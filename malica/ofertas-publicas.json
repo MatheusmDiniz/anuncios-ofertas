@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DQ8ZMB42",
+    "titulo": "Oferta: Play-Doh, Massinha de Modelar Infantil, Barbie Hearts and Hair - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 5 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/71Rc5f5X9AL._AC_SL1500_.jpg",
+    "preco": 59,
+    "preco_anterior": 79.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DQ8ZMB42?tag=malica09-20",
+    "atualizado_em": "2026-10-01T15:28:45.532-03:00"
+  },
+  {
     "id": "amazon:B077PZ6L7C",
     "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Apoiador Zebra para crianças a partir de 6 meses",
     "imagem": "https://m.media-amazon.com/images/I/5147+BkXypL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=malica09-20",
     "atualizado_em": "2026-09-30T15:32:15.482-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56097556",
-    "titulo": "Boné New Era Curva Ny Yankees Preto Forma Grande All Black Tamanho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_670819-MLA116269092736_092026-F.jpg",
-    "preco": 135,
-    "preco_anterior": 238.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2MVXcXh",
-    "atualizado_em": "2026-09-30T15:27:10.978-03:00"
   }
 ]
