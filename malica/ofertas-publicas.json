@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B072MTS8VQ",
+    "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SL1500_.jpg",
+    "preco": 75,
+    "preco_anterior": 105,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=malica09-20",
+    "atualizado_em": "2026-10-01T14:01:17.955-03:00"
+  },
+  {
     "id": "amazon:B08K4MXDVX",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61KzqcJwjDL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Y8xSvd",
     "atualizado_em": "2026-09-30T14:04:50.278-03:00"
-  },
-  {
-    "id": "amazon:B07MQG6SWC",
-    "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
-    "imagem": "https://m.media-amazon.com/images/I/61m5QAg1xHL._AC_SL1500_.jpg",
-    "preco": 40,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=malica09-20",
-    "atualizado_em": "2026-09-30T13:59:41.752-03:00"
   }
 ]
