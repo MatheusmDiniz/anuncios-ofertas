@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KV2733",
+    "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61wE7KZt2vL._AC_SL1500_.jpg",
+    "preco": 35.32,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KV2733?tag=malica09-20",
+    "atualizado_em": "2026-10-01T08:21:49.449-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1pGxkyW",
     "atualizado_em": "2026-09-30T08:26:31.789-03:00"
-  },
-  {
-    "id": "amazon:B0FKHFY1WG",
-    "titulo": "Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
-    "imagem": "https://m.media-amazon.com/images/I/61wB2ObIr3L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FKHFY1WG?tag=malica09-20",
-    "atualizado_em": "2026-09-30T08:21:24.232-03:00"
   }
 ]
