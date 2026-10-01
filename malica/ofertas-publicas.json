@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FM9R6HCT",
+    "titulo": "Oferta: Bicicleta Andador Equilíbrio Sem Pedal 4 Roda Zippy Toys (Bege)",
+    "imagem": "https://m.media-amazon.com/images/I/51KMLLuARHL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FM9R6HCT?tag=malica09-20",
+    "atualizado_em": "2026-10-01T14:42:34.960-03:00"
+  },
+  {
     "id": "amazon:B08C6DVPVC",
     "titulo": "Oferta: Frozen - Patins 3 Rodas Ajustável 29/32 com acessórios de segurança",
     "imagem": "https://m.media-amazon.com/images/I/614CbG3C5jL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Vwv8DL",
     "atualizado_em": "2026-09-30T14:46:13.985-03:00"
-  },
-  {
-    "id": "amazon:B098BX31JL",
-    "titulo": "Baby Dove Sabonete Líquido De Glicerina Hidratação Relaxante Hora De Dormir Frasco 400 Ml",
-    "imagem": "https://m.media-amazon.com/images/I/61g5SCJ2r0L._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B098BX31JL?tag=malica09-20",
-    "atualizado_em": "2026-09-30T14:41:04.426-03:00"
   }
 ]
