@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DW56YWBS",
+    "titulo": "Kit Infantil Dentalclean Stitch Gel 50g com Flúor + Escova Macia + Fio 20m + Estojo",
+    "imagem": "https://m.media-amazon.com/images/I/71yxgZm3V2L._AC_SL1500_.jpg",
+    "preco": 25.63,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DW56YWBS?tag=malica09-20",
+    "atualizado_em": "2026-10-01T17:37:10.460-03:00"
+  },
+  {
     "id": "shopee:1700242901.58264520528",
     "titulo": "Kit 6 Peças Roupa De Bebê Body Menino Animado Estampado Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrwueepou8sn74",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08JXP4NFR?tag=malica09-20",
     "atualizado_em": "2026-09-30T17:39:53.489-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46014518",
-    "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
-    "preco": 249.9,
-    "preco_anterior": 765.96,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2jbhnwM",
-    "atualizado_em": "2026-09-30T17:34:48.604-03:00"
   }
 ]
