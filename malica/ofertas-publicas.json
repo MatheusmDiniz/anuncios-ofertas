@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42639818",
+    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
+    "preco": 458.42,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25gcb2g",
+    "atualizado_em": "2026-10-01T19:25:02.722-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23781948",
     "titulo": "Buba Garrafinha Aventuras Sereia 400ml Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_681067-MLA100109701831_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Zu9TfE",
     "atualizado_em": "2026-09-30T19:27:49.035-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56677151",
-    "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
-    "preco": 129.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fqRnEh",
-    "atualizado_em": "2026-09-30T19:22:41.260-03:00"
   }
 ]
