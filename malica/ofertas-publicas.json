@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08K4MXDVX",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61KzqcJwjDL._AC_SL1500_.jpg",
+    "preco": 161.4,
+    "preco_anterior": 182.48,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=malica09-20",
+    "atualizado_em": "2026-10-01T13:56:13.627-03:00"
+  },
+  {
     "id": "amazon:B0CZPLVXS5",
     "titulo": "Mili Toalhas Umedecidas Love & Care Premium, Uso Bebê, Aloe Vera e Calêndula, Pack com 10 Pacotes (48 Unidades cada)",
     "imagem": "https://m.media-amazon.com/images/I/71toJU0iNyL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=malica09-20",
     "atualizado_em": "2026-09-30T13:59:41.752-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63962761",
-    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
-    "preco": 94.91,
-    "preco_anterior": 219.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2SJwgA7",
-    "atualizado_em": "2026-09-30T13:54:37.315-03:00"
   }
 ]
