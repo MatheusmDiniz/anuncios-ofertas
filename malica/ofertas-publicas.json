@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB55102171",
+    "titulo": "Bolsa Canguru Seguro Ergonômico Assento Bebê Premium Aiebao Cor Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684590-MLA113300708050_072026-F.jpg",
+    "preco": 182.9,
+    "preco_anterior": 339.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1axaWvy",
+    "atualizado_em": "2026-10-01T16:50:53.356-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB59097044",
     "titulo": "Kit 148 Blocos Imã Magnéticos Construção Montar Empilhamento Cubo Infantil Brinquedo Educativo Covei Toys",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA116378687368_092026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D49X477W?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:54:08.714-03:00"
-  },
-  {
-    "id": "amazon:B07QCVJHN5",
-    "titulo": "MONDIAL Panela De Arroz Bianca Rice 5, Branco, 400W, 110V - NPE-05-5X : Amazon.com.br: Cozinha",
-    "imagem": "https://m.media-amazon.com/images/I/71ZgR21uUzL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07QCVJHN5?tag=malica09-20",
-    "atualizado_em": "2026-09-30T16:49:04.156-03:00"
   }
 ]
