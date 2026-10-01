@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42137247",
+    "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 187.47,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1617bfR",
+    "atualizado_em": "2026-10-01T19:35:19.816-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21283759",
     "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2U76gEk",
     "atualizado_em": "2026-09-30T19:38:02.779-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68012260",
-    "titulo": "Grades De Cama Proteção Ajust 68cm Grades Segurança 3 Grades Branco Para Metal Madeira Solteiro Casal Para Idoso Gestante Protecao Para Nao Cair Da Cama Box Bebe Protetor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_981005-MLA110457295999_042026-F.jpg",
-    "preco": 135.67,
-    "preco_anterior": 399,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2aM15yp",
-    "atualizado_em": "2026-09-30T19:32:55.880-03:00"
   }
 ]
