@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08T6JZC6D",
+    "titulo": "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
+    "imagem": "https://m.media-amazon.com/images/I/61Odo+CzWwL._AC_SL1500_.jpg",
+    "preco": 25.55,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08T6JZC6D?tag=malica09-20",
+    "atualizado_em": "2026-10-01T11:01:32.993-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21847238",
     "titulo": "Triciclo Infantil Dobravel Vermelho E Preto Clingo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_933519-MLA99954632043_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6L4qZCjnyR",
     "atualizado_em": "2026-09-30T11:05:30.700-03:00"
-  },
-  {
-    "id": "amazon:B0BFXKZQ2Y",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
-    "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
-    "preco": 166,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
-    "atualizado_em": "2026-09-30T11:00:25.168-03:00"
   }
 ]
