@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G8YRHPDV",
+    "titulo": "Oferta: Blocos de Construção Conjunto Casa na Árvore - 756 Peças, Compatível com Blocos de Construção Padrão, Um Presente para Adultos e Crianças",
+    "imagem": "https://m.media-amazon.com/images/I/618YCy-uZVL._AC_SL1500_.jpg",
+    "preco": 94.94,
+    "preco_anterior": 147,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G8YRHPDV?tag=malica09-20",
+    "atualizado_em": "2026-10-01T12:23:52.286-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54502866",
     "titulo": "Gabby's Dollhouse - Tiara de Orelha Musical - O filme - 4813",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_646166-MLA113735260094_072026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=malica09-20",
     "atualizado_em": "2026-09-30T12:27:03.354-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB66427747",
-    "titulo": "Kit com 10 Potinhos de Vidro 40ml com Rolha de Madeira para Lembrancinhas e Decoração",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734780-MLA108809337961_032026-F.jpg",
-    "preco": 29.9,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2U1cbRs",
-    "atualizado_em": "2026-09-30T12:22:00.020-03:00"
   }
 ]
