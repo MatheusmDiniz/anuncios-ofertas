@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21962722",
+    "titulo": "Fazendinha Poliplac Completa 40 Peças Celeiro Alça Brinquedo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962211-MLA95686760146_102025-F.jpg",
+    "preco": 319.9,
+    "preco_anterior": 697.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2aVSxhz",
+    "atualizado_em": "2026-10-01T17:06:22.023-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72254053",
     "titulo": "Cercadinho Bebê Rister Baby Portátil Grande + Tapete Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_943945-MLA112759124059_062026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B5VXCMNM?tag=malica09-20",
     "atualizado_em": "2026-09-30T17:09:22.909-03:00"
-  },
-  {
-    "id": "amazon:B00NHQF6MG",
-    "titulo": "LEGO Classic Caixa Grande De Peças Criativas",
-    "imagem": "https://m.media-amazon.com/images/I/81sXyDjMOPL._AC_SL1500_.jpg",
-    "preco": 388,
-    "preco_anterior": 599,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00NHQF6MG?tag=malica09-20",
-    "atualizado_em": "2026-09-30T17:04:17.762-03:00"
   }
 ]
