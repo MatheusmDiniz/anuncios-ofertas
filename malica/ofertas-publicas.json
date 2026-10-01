@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:548029260.58257405717",
+    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
+    "preco": 39.99,
+    "preco_anterior": 70.16,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/40gxNreArm",
+    "atualizado_em": "2026-10-01T16:25:06.428-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70393186",
     "titulo": "Berço para Bebes Co-Leito Galzerano Colin Lado a Lado Perola Berço Regulavel Compacta Desmontavel",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_842157-MLA111347295680_052026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:28:43.209-03:00"
-  },
-  {
-    "id": "amazon:B0GW3ZTXHF",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61ZkcLzSaTL._AC_SL1500_.jpg",
-    "preco": 96.4,
-    "preco_anterior": 148.6,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW3ZTXHF?tag=malica09-20",
-    "atualizado_em": "2026-09-30T16:23:38.533-03:00"
   }
 ]
