@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21847238",
+    "titulo": "Triciclo Infantil Dobravel Vermelho E Preto Clingo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933519-MLA99954632043_112025-F.jpg",
+    "preco": 132.28,
+    "preco_anterior": 229.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2v9b1hJ",
+    "atualizado_em": "2026-10-01T10:56:00.923-03:00"
+  },
+  {
     "id": "amazon:B08MKNH3B4",
     "titulo": "Mustela Gel Lavante Suave 750ml - Sabonete Líquido Corpo e Cabelo Infantil - 93% de Ingredientes de Origem Natural - Seguro Desde o Nascimento",
     "imagem": "https://m.media-amazon.com/images/I/61O8D9HGg+L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
     "atualizado_em": "2026-09-30T11:00:25.168-03:00"
-  },
-  {
-    "id": "shopee:436773535.22898347074",
-    "titulo": "Kit 4 Peças Pijama Brilha no Escuro Sortido Infantil Menino Inverno Roupa Infantil Masculina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjebx0vxa1oi7c",
-    "preco": 39.99,
-    "preco_anterior": 70.16,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9zy8vw5JJq",
-    "atualizado_em": "2026-09-30T10:55:21.356-03:00"
   }
 ]
