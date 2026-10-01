@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B088P95YRD",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
+    "preco": 61,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B088P95YRD?tag=malica09-20",
+    "atualizado_em": "2026-10-01T11:52:44.273-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19936060",
     "titulo": "Garrafa Térmica Infantil Rosa Inox Parede Dupla C/ Canudo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_844181-MLA99572310364_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/gQTopMEmZ",
     "atualizado_em": "2026-09-30T11:56:27.298-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB60823917",
-    "titulo": "Canguru Bolsa Carregar Bebe Passeio 12 Posições 3 Em1 Até 20kg Bolsa Suporte Bebê Azul Claro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656769-MLA97354225431_112025-F.jpg",
-    "preco": 109.79,
-    "preco_anterior": 198.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13ZzxFK",
-    "atualizado_em": "2026-09-30T11:51:21.065-03:00"
   }
 ]
