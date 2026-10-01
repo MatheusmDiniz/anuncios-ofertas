@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:396723953.40026562019",
+    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
+    "preco": 62.9,
+    "preco_anterior": 99.84,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4fweB5bdVq",
+    "atualizado_em": "2026-10-01T08:42:13.917-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75479548",
     "titulo": "Suporte Banho Bebê Em Pé Ajustável Antiderrapante Torre De Banho Infantil Seguro Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_655656-MLA116856101810_092026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=malica09-20",
     "atualizado_em": "2026-09-30T08:42:14.120-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20787112",
-    "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_733772-MLA111515571640_062026-F.jpg",
-    "preco": 115,
-    "preco_anterior": 279,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1QJboPA",
-    "atualizado_em": "2026-09-30T08:37:09.727-03:00"
   }
 ]
