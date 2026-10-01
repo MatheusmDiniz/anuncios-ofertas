@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZHGT9ZT",
+    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
+    "imagem": "https://m.media-amazon.com/images/I/61bL8uVCTxL._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=malica09-20",
+    "atualizado_em": "2026-10-01T12:02:57.656-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB58047533",
     "titulo": "Troninho Privadinha Assento Redutor Pinico Para Desfralde Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_889606-MLA96073229271_102025-F.jpg",
