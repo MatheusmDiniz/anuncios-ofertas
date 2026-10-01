@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBSLDV6Y",
+    "titulo": "KIT FRAN LOVE KIT GLOSS LABIAL E LÁPIS LABIAL BY FRANCINY EHLKE",
+    "imagem": "https://m.media-amazon.com/images/I/51XcARdxbML._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBSLDV6Y?tag=malica09-20",
+    "atualizado_em": "2026-10-01T19:55:51.823-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70151841",
     "titulo": "Cadeira De Alimentação Bebê Portátil Daily 4 Em 1 + Rodinhas Daily Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_834877-MLA112190165739_052026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076YFJVT6?tag=malica09-20",
     "atualizado_em": "2026-09-30T19:59:19.281-03:00"
-  },
-  {
-    "id": "amazon:B0H7CCCJ3R",
-    "titulo": "Playground Infantil Parque Completo Balanço Casinha Escorregador Escada Adventure Maxi Toys (Cinza)",
-    "imagem": "https://m.media-amazon.com/images/I/51kRgVN+kaL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H7CCCJ3R?tag=malica09-20",
-    "atualizado_em": "2026-09-30T19:53:48.018-03:00"
   }
 ]
