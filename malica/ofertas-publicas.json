@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26647118",
+    "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
+    "preco": 519,
+    "preco_anterior": 1299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2TVytQt",
+    "atualizado_em": "2026-10-01T12:08:07.933-03:00"
+  },
+  {
     "id": "amazon:B07ZHGT9ZT",
     "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
     "imagem": "https://m.media-amazon.com/images/I/61bL8uVCTxL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uiuBZ6",
     "atualizado_em": "2026-09-30T12:11:47.788-03:00"
-  },
-  {
-    "id": "amazon:B0BKLNG66P+B0BKLPZ4BH",
-    "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81uiM-l9MBL._AC_SL1500_.jpg",
-    "preco": 85,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=malica09-20",
-    "atualizado_em": "2026-09-30T12:06:38.861-03:00"
   }
 ]
