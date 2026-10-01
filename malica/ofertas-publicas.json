@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BJ7ZTCH6",
+    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 1 1,5 kg - 0-6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
+    "preco": 117.9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
+    "atualizado_em": "2026-10-01T13:15:21.618-03:00"
+  },
+  {
     "id": "amazon:B095D5PSPG",
     "titulo": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61pYc6NhTXL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B61SXGH3?tag=malica09-20",
     "atualizado_em": "2026-09-30T13:18:53.845-03:00"
-  },
-  {
-    "id": "shopee:341167297.53003585950",
-    "titulo": "Pijama Infantil Bebê Menina Manga Curta com Estampas Fofas e Conforto Roupa para dormir Bebê Feminino Verão Calor L06",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-min0agqfrabl7e",
-    "preco": 19.99,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4B0MC9FvrT",
-    "atualizado_em": "2026-09-30T13:13:48.769-03:00"
   }
 ]
