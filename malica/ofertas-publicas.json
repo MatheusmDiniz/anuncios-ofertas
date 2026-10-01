@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:575397523.51106656675",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fpBMvXpUC",
+    "atualizado_em": "2026-10-01T20:52:42.182-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB67071722",
     "titulo": "Bicicleta De Equilibrio Infantil Sem Pedal Verde 21270 Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_927876-MLA111293501262_052026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1cwX5ju",
     "atualizado_em": "2026-09-30T20:55:30.660-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53758596",
-    "titulo": "Haste Suporte Varal Para Mosqueteiro Berços Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706549-MLA100086849109_122025-F.jpg",
-    "preco": 22.94,
-    "preco_anterior": 39.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2wW1Bpt",
-    "atualizado_em": "2026-09-30T20:50:21.959-03:00"
   }
 ]
