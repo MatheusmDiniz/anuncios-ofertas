@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07J2NS4PK",
+    "titulo": "Oferta: Pelúcia Rocky, 12\", Patrulha Canina, Sunny",
+    "imagem": "https://m.media-amazon.com/images/I/51qo76uBIEL._AC_SL1500_.jpg",
+    "preco": 70,
+    "preco_anterior": 129.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07J2NS4PK?tag=malica09-20",
+    "atualizado_em": "2026-10-01T15:38:59.718-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35340733",
     "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
     "atualizado_em": "2026-09-30T15:42:54.623-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22323833",
-    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 185.57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yoBH4h",
-    "atualizado_em": "2026-09-30T15:37:24.131-03:00"
   }
 ]
