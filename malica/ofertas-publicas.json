@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27719270",
+    "titulo": "Pote Térmico Buba Infantil Bebê Fun Animal Com Talher Cor Macaco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_862553-MLA99986949615_112025-F.jpg",
+    "preco": 89.9,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1JLqXdN",
+    "atualizado_em": "2026-10-01T12:44:48.680-03:00"
+  },
+  {
     "id": "amazon:B0979VS2JH",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6555395141?tag=malica09-20",
     "atualizado_em": "2026-09-30T12:47:28.354-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45072765",
-    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
-    "preco": 198,
-    "preco_anterior": 350,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2fjdqnA",
-    "atualizado_em": "2026-09-30T12:42:23.238-03:00"
   }
 ]
