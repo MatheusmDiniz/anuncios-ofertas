@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27637270",
+    "titulo": "Buba, Almofada De Atividades Multicor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791180-MLA99934022017_112025-F.jpg",
+    "preco": 97.71,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2QMyjVU",
+    "atualizado_em": "2026-10-01T16:56:03.073-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB55102171",
     "titulo": "Bolsa Canguru Seguro Ergonômico Assento Bebê Premium Aiebao Cor Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_684590-MLA113300708050_072026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B2VFX4V1?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:59:12.809-03:00"
-  },
-  {
-    "id": "amazon:B0D49X477W",
-    "titulo": "Carrinho de Bebê Safety 1st, Bytes, Grey Denin",
-    "imagem": "https://m.media-amazon.com/images/I/51zqUefznML._AC_SL1500_.jpg",
-    "preco": 536,
-    "preco_anterior": 900,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D49X477W?tag=malica09-20",
-    "atualizado_em": "2026-09-30T16:54:08.714-03:00"
   }
 ]
