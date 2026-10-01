@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F44VHRCH",
+    "titulo": "NIVEA Hidratante Labial Sorbet de Melancia Ed. Limitada Moana Disney® Princesa 4,8g, Hidratação Intensa 24h, Cor Suave, Brilho Delicado, Manteiga de Karité",
+    "imagem": "https://m.media-amazon.com/images/I/71QqTzzO03L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F44VHRCH?tag=malica09-20",
+    "atualizado_em": "2026-10-01T10:40:11.920-03:00"
+  },
+  {
     "id": "shopee:1126224431.23497604775",
     "titulo": "Relógio Digital Infantil À Prova D'água Com Display Luminoso Multifuncional Esportivo Para Meninos E Meninas Presentes",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqigqf0p2ltt27",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAHZ8EePnn",
     "atualizado_em": "2026-09-30T10:45:10.302-03:00"
-  },
-  {
-    "id": "amazon:B07RRXQJYN",
-    "titulo": "Giro Mágico Infantil Viva Brincar 8 Peças Dismat",
-    "imagem": "https://m.media-amazon.com/images/I/61fmDp62htL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07RRXQJYN?tag=malica09-20",
-    "atualizado_em": "2026-09-30T10:40:05.093-03:00"
   }
 ]
