@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB78751642",
+    "titulo": "Travesseiro bebe almofada Pelúcia EPS-8047 com Palma Automática Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_945948-MLA115554172982_082026-F.jpg",
+    "preco": 129.9,
+    "preco_anterior": 357.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MxnZVZ",
+    "atualizado_em": "2026-09-30T21:46:39.470-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB30165309",
     "titulo": "Conjunto Piscina Glam Com Boneca Barbie Com Maiô Rosa Multicolor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706830-MLA99544928706_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2aKhDPz",
     "atualizado_em": "2026-09-29T21:50:23.348-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26108871",
-    "titulo": "Buba, Porta Chupeta Incolor Com Alça Transparente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753647-MLA100075944787_122025-F.jpg",
-    "preco": 15.3,
-    "preco_anterior": 28.81,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2cZhD6h",
-    "atualizado_em": "2026-09-29T21:45:15.010-03:00"
   }
 ]
