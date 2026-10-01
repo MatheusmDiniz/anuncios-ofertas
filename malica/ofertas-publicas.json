@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:562534658.21499882313",
+    "titulo": "Macacão Maiô Infantil Feminino Praia Piscina Natação Macaquinho Uv",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-memdmaotefpd26",
+    "preco": 47.54,
+    "preco_anterior": 69.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fpC0O06nA",
+    "atualizado_em": "2026-10-01T18:28:38.168-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20948448",
     "titulo": "Xô Febre Compressa Refrescante - Baixar Febre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_964227-MLU69443995477_052023-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1N9EdEY",
     "atualizado_em": "2026-09-30T18:31:08.813-03:00"
-  },
-  {
-    "id": "amazon:B0DNTL32F6",
-    "titulo": "Oferta: Maxi Baby Mesa Atividades Infantil Didática Musical Eduka",
-    "imagem": "https://m.media-amazon.com/images/I/61hIPqAn-rL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DNTL32F6?tag=malica09-20",
-    "atualizado_em": "2026-09-30T18:26:01.845-03:00"
   }
 ]
