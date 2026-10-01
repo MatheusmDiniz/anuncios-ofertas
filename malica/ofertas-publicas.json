@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB30165309",
+    "titulo": "Conjunto Piscina Glam Com Boneca Barbie Com Maiô Rosa Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706830-MLA99544928706_122025-F.jpg",
+    "preco": 166.88,
+    "preco_anterior": 378.68,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2i17GsX",
+    "atualizado_em": "2026-09-30T21:41:26.187-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76312234",
     "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2cZhD6h",
     "atualizado_em": "2026-09-29T21:45:15.010-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39335649",
-    "titulo": "Berço Portátil Infantil Cercado 0-15kg Grafite Lazy Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905446-MLA96107568817_102025-F.jpg",
-    "preco": 414,
-    "preco_anterior": 699.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Bwnmeq",
-    "atualizado_em": "2026-09-29T21:40:06.980-03:00"
   }
 ]
