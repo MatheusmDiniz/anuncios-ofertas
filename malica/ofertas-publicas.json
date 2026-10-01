@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FXMBWGGM",
+    "titulo": "Oferta: Dreame D20 Ultra Aspirador robô e Mopa, Sucção 13.000Pa, esvaziamento automático, limpeza automática da mopa, elevação da mopa, detecção ultrassônica de tapetes, fácil manutenção, 127v",
+    "imagem": "https://m.media-amazon.com/images/I/61putSKYjhL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FXMBWGGM?tag=malica09-20",
+    "atualizado_em": "2026-10-01T17:57:46.920-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19567262",
     "titulo": "Mustela Hydra creme hidratante bebê com palha orgânica",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_991361-MLU73129968988_122023-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GZWSFGFX?tag=malica09-20",
     "atualizado_em": "2026-09-30T18:00:12.501-03:00"
-  },
-  {
-    "id": "amazon:B0FQHX6T1B",
-    "titulo": "Apple iPhone 17 Pro (256 GB) - Prateado",
-    "imagem": "https://m.media-amazon.com/images/I/41eUrMz2PlL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FQHX6T1B?tag=malica09-20",
-    "atualizado_em": "2026-09-30T17:55:08.965-03:00"
   }
 ]
