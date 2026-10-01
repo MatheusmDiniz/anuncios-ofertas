@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G43VVHFQ",
+    "titulo": "Oferta: Figura de Ação DC Premiere Superman™ 12\", Multicolor, Plástico, Mattel | Brinquedo de super-herói, terno clássico vermelho e azul com capa de tecido, design detalhado",
+    "imagem": "https://m.media-amazon.com/images/I/51Cj84PLf6L._AC_SL1500_.jpg",
+    "preco": 89.99,
+    "preco_anterior": 119.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G43VVHFQ?tag=malica09-20",
+    "atualizado_em": "2026-10-01T13:00:05.834-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70094874",
     "titulo": "Carrinho Boneca Berço Plus Estampa Bolas Dm Toys Dmt6501",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_965627-MLA112010174279_052026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bG9cei",
     "atualizado_em": "2026-09-30T13:03:12.611-03:00"
-  },
-  {
-    "id": "amazon:B0CFYSFBPP",
-    "titulo": "SUNNY, Patrulha Canina, Carro Patrulheiro do Filme com Carrinho : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/51+Wo-mIcpL._AC_SL1500_.jpg",
-    "preco": 146.88,
-    "preco_anterior": 299.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CFYSFBPP?tag=malica09-20",
-    "atualizado_em": "2026-09-30T12:58:05.134-03:00"
   }
 ]
