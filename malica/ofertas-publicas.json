@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23912670",
+    "titulo": "Portão Segurança Pet Útil Aramado Preto 80x74-84cm Para Crianças e Cães",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800475-MLA95714019336_102025-F.jpg",
+    "preco": 78.03,
+    "preco_anterior": 141.68,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24NGPFo",
+    "atualizado_em": "2026-10-01T11:16:56.904-03:00"
+  },
+  {
     "id": "amazon:B0CGYR8GBT+B0GW44JM3G",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FMB5J6L9?tag=malica09-20",
     "atualizado_em": "2026-09-30T11:20:43.890-03:00"
-  },
-  {
-    "id": "shopee:818186604.23298225682",
-    "titulo": "Capa De Chuva Infantil Criança Desenho Capuz Impermeável Menino Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6jy2sbftws037",
-    "preco": 27.99,
-    "preco_anterior": 39.99,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AAHZ8E9TmQ",
-    "atualizado_em": "2026-09-30T11:15:39.462-03:00"
   }
 ]
