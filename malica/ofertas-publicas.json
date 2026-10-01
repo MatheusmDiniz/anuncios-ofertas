@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGYR8GBT+B0GW44JM3G",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
+    "preco": 106,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
+    "atualizado_em": "2026-10-01T11:11:47.715-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62933980",
     "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAHZ8E9TmQ",
     "atualizado_em": "2026-09-30T11:15:39.462-03:00"
-  },
-  {
-    "id": "amazon:B07GQ136TS",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
-    "preco": 49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
-    "atualizado_em": "2026-09-30T11:10:34.285-03:00"
   }
 ]
