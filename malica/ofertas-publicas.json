@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BDT2JD8T",
+    "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
+    "preco": 28.4,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=malica09-20",
+    "atualizado_em": "2026-10-01T20:42:24.918-03:00"
+  },
+  {
     "id": "amazon:B08T1KT63Y",
     "titulo": "Play-Doh, Massinha de Modelar Infantil, Brincando de Dentista - Conjunto de Brinquedo com 9 Acessórios e 6 Potes - A partir de 3 Anos : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/71wbmTBVlzL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=malica09-20",
     "atualizado_em": "2026-09-30T20:45:14.604-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24198840",
-    "titulo": "Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Cor Avelã LuckBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662503-MLA96116062255_102025-F.jpg",
-    "preco": 112,
-    "preco_anterior": 189,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/111oD2o",
-    "atualizado_em": "2026-09-30T20:40:10.651-03:00"
   }
 ]
