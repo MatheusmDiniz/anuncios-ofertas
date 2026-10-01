@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB70151841",
+    "titulo": "Cadeira De Alimentação Bebê Portátil Daily 4 Em 1 + Rodinhas Daily Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_834877-MLA112190165739_052026-F.jpg",
+    "preco": 243,
+    "preco_anterior": 449.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1U1bmEN",
+    "atualizado_em": "2026-10-01T19:50:46.989-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61758376",
     "titulo": "Andador Infantil 2 Em 1 Musical Interativo Rosa - Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644658-MLA97392217459_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H7CCCJ3R?tag=malica09-20",
     "atualizado_em": "2026-09-30T19:53:48.018-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52987632",
-    "titulo": "Triciclo Moto Trail de Passeio Infantil Empurrador Vermelho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_747891-MLA91972440029_092025-F.jpg",
-    "preco": 415,
-    "preco_anterior": 999,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2AwxFkW",
-    "atualizado_em": "2026-09-30T19:48:18.792-03:00"
   }
 ]
