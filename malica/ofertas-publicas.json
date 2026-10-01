@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40555738",
+    "titulo": "Edredom Sherpa Coberdrom E Cobertor Casal Queen Grosso Cores Cor Tabaco Desenho do tecido Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659060-MLA95708214440_102025-F.jpg",
+    "preco": 106,
+    "preco_anterior": 186,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WYgsVY",
+    "atualizado_em": "2026-09-30T21:56:55.639-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27712983",
     "titulo": "Apoio Suporte Cabeça Proteção Infantil 0+m Acolchoado Buba Cor Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_955082-MLA95494518840_102025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=malica09-20",
     "atualizado_em": "2026-09-30T08:00:54.721-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27044593",
-    "titulo": "Babador De Silicone Gumy Com Pega Migalhas Azul Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807671-MLA100108484153_122025-F.jpg",
-    "preco": 23.97,
-    "preco_anterior": 49.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2MAanX2",
-    "atualizado_em": "2026-09-29T21:55:31.693-03:00"
   }
 ]
