@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB59097044",
+    "titulo": "Kit 148 Blocos Imã Magnéticos Construção Montar Empilhamento Cubo Infantil Brinquedo Educativo Covei Toys",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857049-MLA116378687368_092026-F.jpg",
+    "preco": 97,
+    "preco_anterior": 198.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/22MvWWY",
+    "atualizado_em": "2026-10-01T16:45:42.998-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75314421",
     "titulo": "Cadeira de Alimentação PipDip 3 em 1 Portátil, Dobrável e com Bandeja Removível",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_702569-MLA114811829828_082026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07QCVJHN5?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:49:04.156-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53358387",
-    "titulo": "Torre De Aprendizagem R&R Decor Montessori 4x1 Cadeirão Mesinha Cor Verde Chá",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930685-MLA96106356873_102025-F.jpg",
-    "preco": 233,
-    "preco_anterior": 399,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EKgnWB",
-    "atualizado_em": "2026-09-30T16:44:02.332-03:00"
   }
 ]
