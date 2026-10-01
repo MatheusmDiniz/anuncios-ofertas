@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72701612",
+    "titulo": "Bicicleta de Equilíbrio Infantil para Bebê de 1 Ano com 4 Rodas e Aço Carbono",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_880351-MLA115359579520_082026-F.jpg",
+    "preco": 76.53,
+    "preco_anterior": 139.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29yaJ77",
+    "atualizado_em": "2026-10-01T16:35:22.964-03:00"
+  },
+  {
     "id": "shopee:1146454576.58215376863",
     "titulo": "Conjunto Body Bebe Menina com Calca Tiara e Sapatinho do Tema Ovelhinha",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-mrbx59ga6j2d42",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BQRQVF2C?tag=malica09-20",
     "atualizado_em": "2026-09-30T16:38:55.062-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28111656",
-    "titulo": "Canguru Bebê Ergonômico Carregador Azul Passeio Aiebao",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640395-MLA99454853172_112025-F.jpg",
-    "preco": 81.9,
-    "preco_anterior": 169.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2wiaYkn",
-    "atualizado_em": "2026-09-30T16:33:50.765-03:00"
   }
 ]
