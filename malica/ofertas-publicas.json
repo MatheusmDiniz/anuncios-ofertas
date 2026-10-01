@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CVYQZTY",
+    "titulo": "Babysec Toalhas Umedecidas Ultrafresh Galinha Pintadinha Azul 46 Unidades De 19 1X13 7 Cm",
+    "imagem": "https://m.media-amazon.com/images/I/51bY4OWqGuL._AC_SL1500_.jpg",
+    "preco": 8.73,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CVYQZTY?tag=malica09-20",
+    "atualizado_em": "2026-10-01T15:49:07.907-03:00"
+  },
+  {
     "id": "amazon:B07NPYFPYZ",
     "titulo": "Granado Refil Sabonete Bebê, Camomila, 250ml : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51QJNQL14wL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GHP4NL1J?tag=malica09-20",
     "atualizado_em": "2026-09-30T15:53:07.559-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22424717",
-    "titulo": "Playset Casa Da Gabby Dollhouse 3063 Sunny Brinquedos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835645-MLA99448675126_112025-F.jpg",
-    "preco": 559.34,
-    "preco_anterior": 959.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1o453Hy",
-    "atualizado_em": "2026-09-30T15:48:02.749-03:00"
   }
 ]
