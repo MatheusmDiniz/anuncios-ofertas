@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07NPYFPYZ",
+    "titulo": "Granado Refil Sabonete Bebê, Camomila, 250ml : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51QJNQL14wL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07NPYFPYZ?tag=malica09-20",
+    "atualizado_em": "2026-10-01T15:44:01.643-03:00"
+  },
+  {
     "id": "amazon:B07J2NS4PK",
     "titulo": "Oferta: Pelúcia Rocky, 12\", Patrulha Canina, Sunny",
     "imagem": "https://m.media-amazon.com/images/I/51qo76uBIEL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1o453Hy",
     "atualizado_em": "2026-09-30T15:48:02.749-03:00"
-  },
-  {
-    "id": "amazon:B07DHQZPZV",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g | Proteção Diária, Alivia Irritações, Hipoalergênico, Com Aloe Vera e Vitamina E",
-    "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
-    "atualizado_em": "2026-09-30T15:42:54.623-03:00"
   }
 ]
