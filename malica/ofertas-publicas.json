@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1017646777.21899901744",
+    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
+    "preco": 126.98,
+    "preco_anterior": 198.41,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6q18l4tr4V",
+    "atualizado_em": "2026-10-01T20:26:43.145-03:00"
+  },
+  {
     "id": "amazon:B0FH35LBJ8",
     "titulo": "Oferta: Peppa Pig Bebê Evie Colo e Soneca Boneca Interativa",
     "imagem": "https://m.media-amazon.com/images/I/611u5v9DiPL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D8JVBSD7?tag=malica09-20",
     "atualizado_em": "2026-09-30T20:29:58.377-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44017218",
-    "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Space",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827223-MLA96140311143_102025-F.jpg",
-    "preco": 115,
-    "preco_anterior": 197.79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1oV2wqY",
-    "atualizado_em": "2026-09-30T20:24:54.541-03:00"
   }
 ]
