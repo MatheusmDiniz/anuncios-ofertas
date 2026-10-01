@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21283759",
+    "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
+    "preco": 209.85,
+    "preco_anterior": 392.53,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2heMSHE",
+    "atualizado_em": "2026-10-01T19:30:11.590-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42639818",
     "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2aM15yp",
     "atualizado_em": "2026-09-30T19:32:55.880-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34813250",
-    "titulo": "Brinquedo Pelúcia Infantil Ursinho Reza Bege 18056 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_935033-MLA95689805484_102025-F.jpg",
-    "preco": 106,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Zu9TfE",
-    "atualizado_em": "2026-09-30T19:27:49.035-03:00"
   }
 ]
