@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1452762497.22094723670",
+    "titulo": "Toalha Banho Bebê Capuz Roupão Infantil Recém Nascido Criança Bichinho Bordado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mmc0d7vaa32f2d",
+    "preco": 19.99,
+    "preco_anterior": 39.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAHbMdnqn0",
+    "atualizado_em": "2026-10-01T18:08:03.609-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22621537",
     "titulo": "Kit Creator 31134 Ônibus Espacial 144 Peças Lego",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_902000-MLA99475406048_112025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXM4ZSBD?tag=malica09-20",
     "atualizado_em": "2026-09-30T18:10:47.964-03:00"
-  },
-  {
-    "id": "amazon:B0CY2X8BVC",
-    "titulo": "Kit Mamadeiras Anti-Colic Macaco Philips Avent 260ml, 330ml e Bico Extra T4 6m+",
-    "imagem": "https://m.media-amazon.com/images/I/51+lIzLoNQL._AC_SL1500_.jpg",
-    "preco": 81,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CY2X8BVC?tag=malica09-20",
-    "atualizado_em": "2026-09-30T18:05:43.032-03:00"
   }
 ]
