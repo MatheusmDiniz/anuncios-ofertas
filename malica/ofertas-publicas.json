@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:424773647.58207708258",
+    "titulo": "Kit 4 Short Bermuda Infantil Juvenil Tactel Menino Praia Com Bolso Elastano Premium 2 a 16 Anos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-mt4bdbzoonb9a1",
+    "preco": 40.8,
+    "preco_anterior": 99.51,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LRGahjZ91",
+    "atualizado_em": "2026-10-01T09:43:40.413-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB59716108",
     "titulo": "Berço Portátil Moises Co-bed Balanço Mosquiteiro Cesto Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_882486-MLA99579748730_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Jx1k2y",
     "atualizado_em": "2026-09-30T09:48:33.142-03:00"
-  },
-  {
-    "id": "amazon:B0BKLM298N",
-    "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
-    "imagem": "https://m.media-amazon.com/images/I/810rIzQ5ptL._AC_SL1500_.jpg",
-    "preco": 79,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=malica09-20",
-    "atualizado_em": "2026-09-30T09:43:25.746-03:00"
   }
 ]
