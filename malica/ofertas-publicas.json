@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095R95SNW",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
+    "preco": 38,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
+    "atualizado_em": "2026-10-01T11:32:15.767-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28131603",
     "titulo": "Canguru de Bebê Aiebao Ergonômico Cinza 4 Posições Com Bolsos Ajustável",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837333-MLA100025550965_122025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zy8vxrRNh",
     "atualizado_em": "2026-09-30T11:35:57.699-03:00"
-  },
-  {
-    "id": "amazon:B0BLSTVJVD",
-    "titulo": "Sallve Hidratante Facial 40G - Beta-Glucan Phytoesqualano",
-    "imagem": "https://m.media-amazon.com/images/I/418ytvoSP5L._AC_SL1500_.jpg",
-    "preco": 43.64,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BLSTVJVD?tag=malica09-20",
-    "atualizado_em": "2026-09-30T11:30:52.751-03:00"
   }
 ]
