@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H2VKB99H",
+    "titulo": "Oferta: Blocos Magnéticos para Construção, Brinquedo Educativo Adequado para Crianças de 3 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/71Z+WnMklYL._AC_SL1500_.jpg",
+    "preco": 98.65,
+    "preco_anterior": 136.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H2VKB99H?tag=malica09-20",
+    "atualizado_em": "2026-10-01T12:13:38.258-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26647118",
     "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CHZCB5SK?tag=malica09-20",
     "atualizado_em": "2026-09-30T12:16:51.590-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19531106",
-    "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
-    "preco": 280.99,
-    "preco_anterior": 599.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2uiuBZ6",
-    "atualizado_em": "2026-09-30T12:11:47.788-03:00"
   }
 ]
