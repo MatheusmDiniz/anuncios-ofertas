@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Y94W69D",
+    "titulo": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista Gigante com lançador, rampas e ataque do T-Rex motorizado. para crianças a partir de 4 anos.",
+    "imagem": "https://m.media-amazon.com/images/I/81q94ZM9zjL._AC_SL1500_.jpg",
+    "preco": 899,
+    "preco_anterior": 1359,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=malica09-20",
+    "atualizado_em": "2026-10-01T14:27:15.487-03:00"
+  },
+  {
     "id": "amazon:B0DHLFGNMM",
     "titulo": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
     "imagem": "https://m.media-amazon.com/images/I/81oplZow5nL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GQB93FT?tag=malica09-20",
     "atualizado_em": "2026-09-30T14:30:50.340-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39426115",
-    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
-    "preco": 103.08,
-    "preco_anterior": 187.65,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BQauvR",
-    "atualizado_em": "2026-09-30T14:25:43.883-03:00"
   }
 ]
