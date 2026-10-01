@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1822435935.58214954463",
+    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Inverno Infantil Fashion Short Blusa Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr26imqr94w499",
+    "preco": 47.89,
+    "preco_anterior": 95.78,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7Adz9gsaOX",
+    "atualizado_em": "2026-10-01T17:21:41.370-03:00"
+  },
+  {
     "id": "shopee:391751753.58210250288",
     "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FNGD2NG4?tag=malica09-20",
     "atualizado_em": "2026-09-30T17:24:37.023-03:00"
-  },
-  {
-    "id": "amazon:B09CRHZV85",
-    "titulo": "Cereal Sucrilhos® Original Kellogg",
-    "imagem": "https://m.media-amazon.com/images/I/81MD05MZl5L._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09CRHZV85?tag=malica09-20",
-    "atualizado_em": "2026-09-30T17:19:31.972-03:00"
   }
 ]
