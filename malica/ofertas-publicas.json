@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DQ936257",
+    "titulo": "Oferta: Play-Doh, Massinha de Modelar Infantil, Barbie Fashionista Ruffles - Conjunto de Brinquedo com Acessórios, Boneca e 2 Potes - A partir de 5 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/71wf+XAUE6L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DQ936257?tag=malica09-20",
+    "atualizado_em": "2026-10-01T08:11:36.370-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26817599",
     "titulo": "Berço Sonata Beige Recém Nascido Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_729070-MLA99376150398_112025-F.jpg",
@@ -1628,25 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2dKmgSP",
     "atualizado_em": "2026-09-30T08:16:19.698-03:00"
-  },
-  {
-    "id": "amazon:B0FSSP643R",
-    "titulo": "Oferta: Kit 3 Cueiros Bebê 100% Algodão 80x50cm – Macio, Confortável, Estampado – Ideal Para Recém-Nascido, Enxoval e Presente Infantil",
-    "imagem": "https://m.media-amazon.com/images/I/61ITF6bGvML._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FSSP643R?tag=malica09-20",
-    "atualizado_em": "2026-09-30T08:11:12.685-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56101048",
-    "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
-    "preco": 139.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1feVhfA",
-    "atualizado_em": "2026-09-30T08:06:08.473-03:00"
   }
 ]
