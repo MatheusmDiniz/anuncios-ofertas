@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GRK2V7C1",
+    "titulo": "Blocos Sensoriais para Bebê 12 Cubos Educativos Macios de Empilhar 6M+ | Estimula tato, coordenação motora e aprendizado desde os 6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/81KAAZaGSyL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GRK2V7C1?tag=malica09-20",
+    "atualizado_em": "2026-10-01T19:09:34.143-03:00"
+  },
+  {
     "id": "amazon:B0GKJBFTBS",
     "titulo": "Quadriciclo Carrinho de passeio infantil Gatinha Star Empurrador Pedal e Buzina",
     "imagem": "https://m.media-amazon.com/images/I/51mIEP7R3JL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/12B8oxF",
     "atualizado_em": "2026-09-30T19:12:26.848-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65892455",
-    "titulo": "Brastoy Kit 9 Brinquedos Montessori Pedagogico De Madeira Multicolorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_937204-MLA107485085225_022026-F.jpg",
-    "preco": 102,
-    "preco_anterior": 180,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1AwFXGy",
-    "atualizado_em": "2026-09-30T19:07:19.092-03:00"
   }
 ]
