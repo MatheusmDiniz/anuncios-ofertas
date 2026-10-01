@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1233552581.23492959831",
+    "titulo": "Casaco Teddy Infantil Menina Capuz Touca com Ziper Ted Tedy Forrado Quente Feminino Jaqueta Infantil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zum-mkjug1b6qviadf",
+    "preco": 18.8,
+    "preco_anterior": 69.63,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9fLK8JzrNG",
+    "atualizado_em": "2026-10-01T09:12:53.278-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29298117",
     "titulo": "Bicicleta De Equilibrio Infantil 4 Rodas Vermelho - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_851787-MLU77882833591_072024-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uJrAqA",
     "atualizado_em": "2026-09-30T09:17:56.649-03:00"
-  },
-  {
-    "id": "amazon:853808724X",
-    "titulo": "Oferta: Fisher-Price - O som dos animais",
-    "imagem": "https://m.media-amazon.com/images/I/61bmfM3uhTL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/853808724X?tag=malica09-20",
-    "atualizado_em": "2026-09-30T09:12:49.360-03:00"
   }
 ]
