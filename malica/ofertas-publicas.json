@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19936060",
+    "titulo": "Garrafa Térmica Infantil Rosa Inox Parede Dupla C/ Canudo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_844181-MLA99572310364_122025-F.jpg",
+    "preco": 95.99,
+    "preco_anterior": 159.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1iybKi6",
+    "atualizado_em": "2026-10-01T11:47:39.071-03:00"
+  },
+  {
     "id": "amazon:B07GR5T4RF+B0BXM3TSS9+B0BXM4ZSBD",
     "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
     "imagem": "https://m.media-amazon.com/images/I/81XM69oIvoL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13ZzxFK",
     "atualizado_em": "2026-09-30T11:51:21.065-03:00"
-  },
-  {
-    "id": "shopee:387937307.21899385767",
-    "titulo": "Kit 4 Compressa Em Gel Buba Para aliviar a febre Compressa refrescante buba",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0boilqsi6vx87",
-    "preco": 21.89,
-    "preco_anterior": 39.09,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gIzPh6oPI",
-    "atualizado_em": "2026-09-30T11:46:12.786-03:00"
   }
 ]
