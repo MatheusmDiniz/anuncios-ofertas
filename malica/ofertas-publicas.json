@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56241384",
+    "titulo": "Boné New Era Los Angeles Azul Aba Curva Adultos Ajuste Tamanho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600722-MLA99392812284_112025-F.jpg",
+    "preco": 133,
+    "preco_anterior": 229.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1RwJBeG",
+    "atualizado_em": "2026-10-01T08:47:21.910-03:00"
+  },
+  {
     "id": "shopee:396723953.40026562019",
     "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
@@ -1628,25 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BDBHZSZT?tag=malica09-20",
     "atualizado_em": "2026-09-30T08:52:26.358-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75505071",
-    "titulo": "Suporte de Banho Infantil Ajustável Bebê em Pé Base Antiderrapante SekBem Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810962-MLA116130884751_082026-F.jpg",
-    "preco": 189.9,
-    "preco_anterior": 349.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2cbnhvc",
-    "atualizado_em": "2026-09-30T08:47:21.777-03:00"
-  },
-  {
-    "id": "amazon:B0C6X3DT56",
-    "titulo": "Oferta: TakTark Babá Eletrônica Câmera, 4.3\" Monitor de Bebe, Sem Wi-Fi, 2 Way Audio, Visão Nocturna, Zoom Digital, Economia de energia VOX, Temperatura ambiente, Ideal para Pais Novos",
-    "imagem": "https://m.media-amazon.com/images/I/61AuLDm53JL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C6X3DT56?tag=malica09-20",
-    "atualizado_em": "2026-09-30T08:42:14.120-03:00"
   }
 ]
