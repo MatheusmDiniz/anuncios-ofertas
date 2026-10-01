@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MBTRWSH",
+    "titulo": "Likluc Pikluc Aparelho Para Alivio Da Dor Na Hora Da Injeção Verde Tamanho Único",
+    "imagem": "https://m.media-amazon.com/images/I/516RQFcCRdL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MBTRWSH?tag=malica09-20",
+    "atualizado_em": "2026-10-01T13:30:37.726-03:00"
+  },
+  {
     "id": "amazon:B0DB8XBBFR",
     "titulo": "Travel System Maxi-Cosi, Eva³, Select Grey",
     "imagem": "https://m.media-amazon.com/images/I/51UkZy8xMxL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fSAN9r",
     "atualizado_em": "2026-09-30T13:34:13.111-03:00"
-  },
-  {
-    "id": "amazon:B0HF77VHM2",
-    "titulo": "Brinquedo Montessori de Madeira Sensorial Infantil (13 em 1) | Inclui piano, labirinto, relógio, formas e engrenagens para estimular coordenação motora e aprendizagem infantil.",
-    "imagem": "https://m.media-amazon.com/images/I/810S2v5LNdL._AC_SL1500_.jpg",
-    "preco": 127.39,
-    "preco_anterior": 149.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HF77VHM2?tag=malica09-20",
-    "atualizado_em": "2026-09-30T13:29:05.041-03:00"
   }
 ]
