@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FK1P8K4N",
+    "titulo": "Barbie, Boneca Barbie Bubble Sparkle Mermaid, Cria Bolhas De Verdade, Com Acessórios, para Crianças A Partir De 3 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/714FVSjL67L._AC_SL1500_.jpg",
+    "preco": 149,
+    "preco_anterior": 249,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FK1P8K4N?tag=malica09-20",
+    "atualizado_em": "2026-10-01T15:13:06.241-03:00"
+  },
+  {
     "id": "amazon:B0CWPB7QSJ",
     "titulo": "Philips Avent Kit de Mamadeira Pétala 3.0, 125ml Bico Fluxo Lento (fluxo 2), 260ml Bico Fluxo Médio (fluxo 2), 2 Un Branca- SCD838/26",
     "imagem": "https://m.media-amazon.com/images/I/51mp44eu2xL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Tf2GWZ",
     "atualizado_em": "2026-09-30T15:16:56.133-03:00"
-  },
-  {
-    "id": "amazon:B0D4F4VS9M",
-    "titulo": "Oferta: CHUPETA MAM ORIGINAL TRIO - EMBALAGEM BLISTER TRIPLA",
-    "imagem": "https://m.media-amazon.com/images/I/51aMok8t0jL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=malica09-20",
-    "atualizado_em": "2026-09-30T15:11:47.740-03:00"
   }
 ]
