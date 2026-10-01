@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1573981574.58204417297",
+    "titulo": "Aspirador Nasal Infantil 9 Níveis Sucção Ajustável Com Música Recarregável Silicone Alimentício Seguro Silencioso 5V/1A",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82629-mk568mmb3o5c7c",
+    "preco": 49.98,
+    "preco_anterior": 113.59,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/gQW3CjXgK",
+    "atualizado_em": "2026-10-01T18:38:55.368-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45780583",
     "titulo": "Cercadinho Para Bebê Chiqueirinho Infantil Portátil Unissex Cor Azul Desenho Do Tecido Balão",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_810826-MLA91562773532_092025-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/8538069551?tag=malica09-20",
     "atualizado_em": "2026-09-30T18:41:45.258-03:00"
-  },
-  {
-    "id": "amazon:B07QKN5NF1",
-    "titulo": "MONDIAL Liquidificador Turbo Power, Preto, 550W, 110V - L-99 FB | 3 Velocidades",
-    "imagem": "https://m.media-amazon.com/images/I/71KFAoTV+hL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07QKN5NF1?tag=malica09-20",
-    "atualizado_em": "2026-09-30T18:36:40.179-03:00"
   }
 ]
