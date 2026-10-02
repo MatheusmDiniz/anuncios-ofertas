@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01N7W4YLV",
+    "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
+    "imagem": "https://m.media-amazon.com/images/I/51bPkgUfURL._AC_SL1500_.jpg",
+    "preco": 51,
+    "preco_anterior": 79,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=malica09-20",
+    "atualizado_em": "2026-10-02T14:40:52.937-03:00"
+  },
+  {
     "id": "amazon:B07MBTSMM8",
     "titulo": "Neslac Comfor - Composto Lácteo, 800g",
     "imagem": "https://m.media-amazon.com/images/I/815GVNMYL7L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FM9R6HCT?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:42:34.960-03:00"
-  },
-  {
-    "id": "amazon:B08C6DVPVC",
-    "titulo": "Oferta: Frozen - Patins 3 Rodas Ajustável 29/32 com acessórios de segurança",
-    "imagem": "https://m.media-amazon.com/images/I/614CbG3C5jL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08C6DVPVC?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:37:29.663-03:00"
   }
 ]
