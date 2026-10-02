@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1583426145.22494274076",
+    "titulo": "Conjunto Pijama Brilha no Escuro Personagens Menino Infantil Mickey Homem Aranha Malha Levinha",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mcrvs9be51s0a1",
+    "preco": 32.9,
+    "preco_anterior": 70,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5Asx2gAHLI",
+    "atualizado_em": "2026-10-02T18:32:15.337-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32365182",
     "titulo": "Chocalho Com Espelhinho Giratório E Mordedor Macio Dino Buba Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_680601-MLA99609050944_122025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WvJ5Ms",
     "atualizado_em": "2026-10-01T18:33:49.239-03:00"
-  },
-  {
-    "id": "shopee:562534658.21499882313",
-    "titulo": "Macacão Maiô Infantil Feminino Praia Piscina Natação Macaquinho Uv",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-memdmaotefpd26",
-    "preco": 47.54,
-    "preco_anterior": 69.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5fpC0O06nA",
-    "atualizado_em": "2026-10-01T18:28:38.168-03:00"
   }
 ]
