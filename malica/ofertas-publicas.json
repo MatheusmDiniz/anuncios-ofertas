@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FJ2XRSTP",
+    "titulo": "Marvel Capitão América figura de 20 cm",
+    "imagem": "https://m.media-amazon.com/images/I/51kDFubIAEL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FJ2XRSTP?tag=malica09-20",
+    "atualizado_em": "2026-10-02T20:17:03.266-03:00"
+  },
+  {
     "id": "shopee:523113851.58266912827",
     "titulo": "Body Bebê Presidente Brasil Mesversário Temático Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msboazyb7wnb46",
@@ -1618,35 +1628,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FH35LBJ8?tag=malica09-20",
     "atualizado_em": "2026-10-01T20:21:34.323-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26678497",
-    "titulo": "Ursinho De Brinquedo Para Criança Menina Que Reza - Buba Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666002-MLA99510053086_112025-F.jpg",
-    "preco": 107,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EYcHFA",
-    "atualizado_em": "2026-10-01T20:16:29.792-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB49362883",
-    "titulo": "Brinquedo para Bebês Cachorrinho Aprende Comigo Fisher-Price",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_712626-MLA99888968283_112025-F.jpg",
-    "preco": 279.18,
-    "preco_anterior": 819.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Nvjvg2",
-    "atualizado_em": "2026-10-01T20:11:20.631-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 109.9,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1BPZ4Jh",
-    "atualizado_em": "2026-10-01T20:06:10.422-03:00"
   }
 ]
