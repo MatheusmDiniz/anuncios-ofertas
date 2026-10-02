@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73129562",
+    "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
+    "preco": 322,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Nhu2dc",
+    "atualizado_em": "2026-10-01T21:23:31.618-03:00"
+  },
+  {
     "id": "amazon:B0CCZYS6KP",
     "titulo": "KIT COLETOR DE LEITE MATERNO LILLO MAMY",
     "imagem": "https://m.media-amazon.com/images/I/61ABsd5-DsL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BY3GQK3L?tag=malica09-20",
     "atualizado_em": "2026-09-30T21:26:03.435-03:00"
-  },
-  {
-    "id": "amazon:B07C3T48W5",
-    "titulo": "Fralda Babysec Ultrasec Galinha Pintadinha, XG, 20 unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61uIa1-jSIL._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07C3T48W5?tag=malica09-20",
-    "atualizado_em": "2026-09-30T21:20:59.194-03:00"
   }
 ]
