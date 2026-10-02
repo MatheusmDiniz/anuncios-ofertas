@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25687130",
+    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
+    "preco": 93.9,
+    "preco_anterior": 169.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26WmrW9",
+    "atualizado_em": "2026-10-02T08:57:19.547-03:00"
+  },
+  {
     "id": "amazon:B0FRZVDCDH",
     "titulo": "Banheira Bebê Dobrável Cinza com Termômetro Digital, Portátil e Compacta para Viagem e Apartamento",
     "imagem": "https://m.media-amazon.com/images/I/51-tet2Jl+L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26CTJJv",
     "atualizado_em": "2026-10-01T08:57:35.103-03:00"
-  },
-  {
-    "id": "shopee:341167297.44506971957",
-    "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
-    "preco": 50.9,
-    "preco_anterior": 99.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6fhiYluUPS",
-    "atualizado_em": "2026-10-01T08:52:27.462-03:00"
   }
 ]
