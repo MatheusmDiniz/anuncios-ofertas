@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47899174",
+    "titulo": "Baba Eletrônica Baby Monitor Vb603 Visão Noturna Dual Audio Cor Branco Estary Shop",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789928-MLA99885017637_112025-F.jpg",
+    "preco": 224.55,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/325sAj3",
+    "atualizado_em": "2026-10-02T12:01:33.161-03:00"
+  },
+  {
     "id": "amazon:B0DD7V56G1",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
     "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=malica09-20",
     "atualizado_em": "2026-10-01T12:02:57.656-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58047533",
-    "titulo": "Troninho Privadinha Assento Redutor Pinico Para Desfralde Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889606-MLA96073229271_102025-F.jpg",
-    "preco": 68.75,
-    "preco_anterior": 125,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ki3AE4",
-    "atualizado_em": "2026-10-01T11:57:53.783-03:00"
   }
 ]
