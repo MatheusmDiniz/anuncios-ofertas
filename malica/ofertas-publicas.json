@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GVLRKHVJ",
+    "titulo": "Fórmula Infantil Aptanutri Profutura Gold 800g - Com prebióticos, HMO, DHA e ARA. : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/61k22Cc3EEL._AC_SL1500_.jpg",
+    "preco": 107,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GVLRKHVJ?tag=malica09-20",
+    "atualizado_em": "2026-10-02T08:41:31.390-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35340738",
     "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fweB5bdVq",
     "atualizado_em": "2026-10-01T08:42:13.917-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75479548",
-    "titulo": "Suporte Banho Bebê Em Pé Ajustável Antiderrapante Torre De Banho Infantil Seguro Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655656-MLA116856101810_092026-F.jpg",
-    "preco": 185.16,
-    "preco_anterior": 349.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qcsDxW",
-    "atualizado_em": "2026-10-01T08:37:08.704-03:00"
   }
 ]
