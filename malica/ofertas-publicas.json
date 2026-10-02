@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BGM6P1SF",
+    "titulo": "Personal Fralda Baby Premium Pants M, 48 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/513V4AsINwL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=malica09-20",
+    "atualizado_em": "2026-10-02T15:42:02.944-03:00"
+  },
+  {
     "id": "amazon:B0DPNCNQK1",
     "titulo": "Casa Km Vida Macia Amaciante Glicerina & Algodão 1L",
     "imagem": "https://m.media-amazon.com/images/I/71J9I3fg8BL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07NPYFPYZ?tag=malica09-20",
     "atualizado_em": "2026-10-01T15:44:01.643-03:00"
-  },
-  {
-    "id": "amazon:B07J2NS4PK",
-    "titulo": "Oferta: Pelúcia Rocky, 12\", Patrulha Canina, Sunny",
-    "imagem": "https://m.media-amazon.com/images/I/51qo76uBIEL._AC_SL1500_.jpg",
-    "preco": 70,
-    "preco_anterior": 129.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07J2NS4PK?tag=malica09-20",
-    "atualizado_em": "2026-10-01T15:38:59.718-03:00"
   }
 ]
