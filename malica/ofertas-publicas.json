@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BPPHDB3J",
+    "titulo": "Bebê Reborn Boneca Menina 100% silicone pode dar banho criança presente Original Princesa 55CM : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/61tPSSQOTKS._AC_SL1500_.jpg",
+    "preco": 161,
+    "preco_anterior": 189,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BPPHDB3J?tag=malica09-20",
+    "atualizado_em": "2026-10-02T14:45:57.327-03:00"
+  },
+  {
     "id": "amazon:B01N7W4YLV",
     "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Novo Telefone Feliz para crianças a partir de 1 ano",
     "imagem": "https://m.media-amazon.com/images/I/51bPkgUfURL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6555072229?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:47:41.783-03:00"
-  },
-  {
-    "id": "amazon:B0FM9R6HCT",
-    "titulo": "Oferta: Bicicleta Andador Equilíbrio Sem Pedal 4 Roda Zippy Toys (Bege)",
-    "imagem": "https://m.media-amazon.com/images/I/51KMLLuARHL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FM9R6HCT?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:42:34.960-03:00"
   }
 ]
