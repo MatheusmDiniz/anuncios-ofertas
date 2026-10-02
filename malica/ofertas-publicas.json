@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6561262131",
+    "titulo": "Oferta para Membros Prime: Coleção Primeira Biblioteca Volume 01 - Box com 10 Livrinhos",
+    "imagem": "https://m.media-amazon.com/images/I/61DC0rJDDpL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6561262131?tag=malica09-20",
+    "atualizado_em": "2026-10-02T19:38:54.464-03:00"
+  },
+  {
     "id": "shopee:1365993167.58209968589",
     "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2W2q7qJ",
     "atualizado_em": "2026-10-01T19:40:29.206-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42137247",
-    "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 187.47,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1617bfR",
-    "atualizado_em": "2026-10-01T19:35:19.816-03:00"
   }
 ]
