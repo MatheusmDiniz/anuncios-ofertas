@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46390714",
+    "titulo": "Tapete De Atividades Com Piano Magic Unicórnio 18841 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_632762-MLA91932440969_092025-F.jpg",
+    "preco": 179,
+    "preco_anterior": 306.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KzFaWC",
+    "atualizado_em": "2026-10-02T17:25:09.749-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB57083030",
     "titulo": "Triciclo Infantil Rosa Maral 2 em 1 Passeio e Pedal com Buzina",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_631641-MLA115957780725_082026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1vmrMaQ",
     "atualizado_em": "2026-10-01T17:26:51.997-03:00"
-  },
-  {
-    "id": "shopee:1822435935.58214954463",
-    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Inverno Infantil Fashion Short Blusa Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr26imqr94w499",
-    "preco": 47.89,
-    "preco_anterior": 95.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7Adz9gsaOX",
-    "atualizado_em": "2026-10-01T17:21:41.370-03:00"
   }
 ]
