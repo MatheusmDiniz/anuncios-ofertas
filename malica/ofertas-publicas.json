@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJ17HW5V",
+    "titulo": "Oferta: LEGO Friends Caminhão de Sorvete de Heartlake City 42644",
+    "imagem": "https://m.media-amazon.com/images/I/81mx0VlX1AL._AC_SL1500_.jpg",
+    "preco": 123,
+    "preco_anterior": 179,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJ17HW5V?tag=malica09-20",
+    "atualizado_em": "2026-10-02T17:14:51.362-03:00"
+  },
+  {
     "id": "amazon:B0FQJVMFGB",
     "titulo": "Cadeira Descanso Bebê Musical Polar Skyline Bege Maxi Baby : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51PzRD0Vx2L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60S1lXWYoE",
     "atualizado_em": "2026-10-01T17:16:32.636-03:00"
-  },
-  {
-    "id": "amazon:B0C3JGG83X",
-    "titulo": "Granado Sabonete Líquido Bebê, Calêndula, 500ml : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/51E7vdKFEmL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C3JGG83X?tag=malica09-20",
-    "atualizado_em": "2026-10-01T17:11:25.841-03:00"
   }
 ]
