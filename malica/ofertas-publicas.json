@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24765774",
+    "titulo": "Triângulo De Atividades Educativo Para Bebê - Buba Cor Colorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_887780-MLA95497851780_102025-F.jpg",
+    "preco": 95.1,
+    "preco_anterior": 177.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1qsS8kL",
+    "atualizado_em": "2026-10-02T15:06:24.848-03:00"
+  },
+  {
     "id": "amazon:B0F4G5NL2K",
     "titulo": "Lenços Umedecidos Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CWPB7QSJ?tag=malica09-20",
     "atualizado_em": "2026-10-01T15:08:00.040-03:00"
-  },
-  {
-    "id": "amazon:B0CPTD7WH3",
-    "titulo": "Acrimet Organizador Modular de Gavetas Transparente, Kit com 10 Potes | Tamanhos Sortidos para organizar gavetas, bancadas e armários",
-    "imagem": "https://m.media-amazon.com/images/I/61bHVemzx2L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=malica09-20",
-    "atualizado_em": "2026-10-01T15:02:56.185-03:00"
   }
 ]
