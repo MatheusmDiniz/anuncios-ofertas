@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FFC3YTN",
+    "titulo": "Granado Talco Infantil Bebê, 100g : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/41DrYTgAgoL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=malica09-20",
+    "atualizado_em": "2026-10-02T09:58:50.004-03:00"
+  },
+  {
     "id": "shopee:1700242901.58214519187",
     "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/29xShs9",
     "atualizado_em": "2026-10-01T09:59:14.200-03:00"
-  },
-  {
-    "id": "shopee:1480118625.49501660876",
-    "titulo": "Cercadinho Bebê Grande Chiqueirinho Infantil Cercado Portátil Dobrável de Seguro e Protegido",
-    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mih92xfdasjn20",
-    "preco": 193.89,
-    "preco_anterior": 605.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4VdDytiRwG",
-    "atualizado_em": "2026-10-01T09:54:02.704-03:00"
   }
 ]
