@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CLQ5XY4P",
+    "titulo": "Carrinho de Bebê Berço Moisés Passeio Napoli Preto Galzerano",
+    "imagem": "https://m.media-amazon.com/images/I/61HMmd0y17L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CLQ5XY4P?tag=malica09-20",
+    "atualizado_em": "2026-10-02T08:21:02.898-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62120518",
     "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
