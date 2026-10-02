@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1700242901.58214519187",
+    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
+    "preco": 47.89,
+    "preco_anterior": 108.84,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qcSnsmQG5",
+    "atualizado_em": "2026-10-02T09:53:43.787-03:00"
+  },
+  {
     "id": "amazon:B0CGY6SGFY+B0CGYR8GBT+B0GW44JM3G",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4VdDytiRwG",
     "atualizado_em": "2026-10-01T09:54:02.704-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46053660",
-    "titulo": "LEGO Speed - Oracle Red Bull Racing RB20 F1 - 251 Peças - 77243",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_658714-MLA100005501511_122025-F.jpg",
-    "preco": 149.9,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2NTCqF3",
-    "atualizado_em": "2026-10-01T09:48:53.814-03:00"
   }
 ]
