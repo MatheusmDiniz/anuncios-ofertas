@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FQJVMFGB",
+    "titulo": "Cadeira Descanso Bebê Musical Polar Skyline Bege Maxi Baby : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51PzRD0Vx2L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FQJVMFGB?tag=malica09-20",
+    "atualizado_em": "2026-10-02T17:09:46.248-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19924449",
     "titulo": "Mustela Gel Lavante Calmante para Pele Muito Sensível 300mL",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_720160-MLA99845836617_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C3JGG83X?tag=malica09-20",
     "atualizado_em": "2026-10-01T17:11:25.841-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21962722",
-    "titulo": "Fazendinha Poliplac Completa 40 Peças Celeiro Alça Brinquedo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962211-MLA95686760146_102025-F.jpg",
-    "preco": 319.9,
-    "preco_anterior": 697.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2aVSxhz",
-    "atualizado_em": "2026-10-01T17:06:22.023-03:00"
   }
 ]
