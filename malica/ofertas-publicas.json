@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8BV8JDG",
+    "titulo": "Zippy Toys, Mesa de Pebolim de Madeira 40,5 cm : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/61WsqxIVQdL._AC_SL1500_.jpg",
+    "preco": 74,
+    "preco_anterior": 137,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8BV8JDG?tag=malica09-20",
+    "atualizado_em": "2026-10-02T15:26:48.781-03:00"
+  },
+  {
     "id": "amazon:B0DK4975DJ",
     "titulo": "NIVEA Kit Loção Hidratante Milk Pele Seca a Extrasseca 400ml (2 unidades)",
     "imagem": "https://m.media-amazon.com/images/I/71Exl60wVRL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DQ8ZMB42?tag=malica09-20",
     "atualizado_em": "2026-10-01T15:28:45.532-03:00"
-  },
-  {
-    "id": "amazon:B077PZ6L7C",
-    "titulo": "Oferta: Fisher-Price Brinquedo para Bebês Apoiador Zebra para crianças a partir de 6 meses",
-    "imagem": "https://m.media-amazon.com/images/I/5147+BkXypL._AC_SL1500_.jpg",
-    "preco": 199,
-    "preco_anterior": 329.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077PZ6L7C?tag=malica09-20",
-    "atualizado_em": "2026-10-01T15:23:40.726-03:00"
   }
 ]
