@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67134266",
+    "titulo": "Barbie Conjunto de Brinquedo Conjunto de Jogo Pizzaria",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636730-MLA108638769090_032026-F.jpg",
+    "preco": 147.9,
+    "preco_anterior": 269.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2nzh1nh",
+    "atualizado_em": "2026-10-01T21:38:54.721-03:00"
+  },
+  {
     "id": "amazon:B092VCF3V8",
     "titulo": "Oferta: Roupa Íntima Bigfral Moviment Feminina G/XG 7 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61wxYkBwRxL._AC_SL1500_.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2i17GsX",
     "atualizado_em": "2026-09-30T21:41:26.187-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76312234",
-    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
-    "preco": 155.1,
-    "preco_anterior": 319.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jXU5Dp",
-    "atualizado_em": "2026-09-30T21:36:18.135-03:00"
   }
 ]
