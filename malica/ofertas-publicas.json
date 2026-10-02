@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1330109547.23194485154",
+    "titulo": "Kit Robe + Camisola + Rosquinha de Amamentação | Gestante Maternidade bebê",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfezp5s5r7k5ac",
+    "preco": 69.99,
+    "preco_anterior": 99.99,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qcVDzxVi5",
+    "atualizado_em": "2026-10-02T20:40:12.310-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=malica09-20",
     "atualizado_em": "2026-10-01T20:42:24.918-03:00"
-  },
-  {
-    "id": "amazon:B08T1KT63Y",
-    "titulo": "Play-Doh, Massinha de Modelar Infantil, Brincando de Dentista - Conjunto de Brinquedo com 9 Acessórios e 6 Potes - A partir de 3 Anos : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/71wbmTBVlzL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08T1KT63Y?tag=malica09-20",
-    "atualizado_em": "2026-10-01T20:37:20.464-03:00"
   }
 ]
