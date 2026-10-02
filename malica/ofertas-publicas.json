@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1207318462.18098113310",
+    "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
+    "preco": 40.55,
+    "preco_anterior": 69.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5VVlAcYSpD",
+    "atualizado_em": "2026-10-02T16:23:27.057-03:00"
+  },
+  {
     "id": "shopee:1700242901.58264964287",
     "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40gxNreArm",
     "atualizado_em": "2026-10-01T16:25:06.428-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB70393186",
-    "titulo": "Berço para Bebes Co-Leito Galzerano Colin Lado a Lado Perola Berço Regulavel Compacta Desmontavel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_842157-MLA111347295680_052026-F.jpg",
-    "preco": 739,
-    "preco_anterior": 1499.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kPjrTV",
-    "atualizado_em": "2026-10-01T16:19:59.214-03:00"
   }
 ]
