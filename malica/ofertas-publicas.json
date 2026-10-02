@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08QG3H6YR",
+    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
+    "atualizado_em": "2026-10-02T13:13:28.240-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72860329",
     "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
     "atualizado_em": "2026-10-01T13:15:21.618-03:00"
-  },
-  {
-    "id": "amazon:B095D5PSPG",
-    "titulo": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61pYc6NhTXL._AC_SL1500_.jpg",
-    "preco": 85.49,
-    "preco_anterior": 118.1,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095D5PSPG?tag=malica09-20",
-    "atualizado_em": "2026-10-01T13:10:15.837-03:00"
   }
 ]
