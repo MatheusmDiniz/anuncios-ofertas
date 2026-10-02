@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXGY9B7+B0BFXJ12QQ+B0BFXJHXDP+B0BFXKZQ2Y+B0DD7V56G1",
+    "titulo": "Huggies Fralda Supreme Care M 196 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
+    "preco": 161,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
+    "atualizado_em": "2026-10-02T18:47:29.416-03:00"
+  },
+  {
     "id": "shopee:1253552940.50514700398",
     "titulo": "Kit 4 Peças 2 Conjunto Infantil Menino Verão Confortável 2 Camisas 2 Shorts Sortido Roupa Infantil Bebê 1 ao 12",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mr0omth7lmh23d",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYk2H3nlq",
     "atualizado_em": "2026-10-01T18:49:12.641-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38943078",
-    "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
-    "preco": 225.9,
-    "preco_anterior": 399.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12iT7nu",
-    "atualizado_em": "2026-10-01T18:44:05.054-03:00"
   }
 ]
