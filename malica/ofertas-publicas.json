@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27051169",
+    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
+    "preco": 96.01,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WN2eJH",
+    "atualizado_em": "2026-10-02T11:51:16.200-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP6M+B07FNMB4QN",
     "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
     "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
