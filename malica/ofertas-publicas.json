@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72143098",
+    "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
+    "preco": 406.43,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Jw4v7e",
+    "atualizado_em": "2026-10-02T18:11:52.764-03:00"
+  },
+  {
     "id": "shopee:434188453.23994339315",
     "titulo": "Kit Conjunto de Saída de Maternidade Jardineira  Romper Casaquinho  Manta Luxo 3 Pecas Enxoval Tricô",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mqqbovv7az9c8e",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/15DaxEK",
     "atualizado_em": "2026-10-01T18:13:12.690-03:00"
-  },
-  {
-    "id": "shopee:1452762497.22094723670",
-    "titulo": "Toalha Banho Bebê Capuz Roupão Infantil Recém Nascido Criança Bichinho Bordado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mmc0d7vaa32f2d",
-    "preco": 19.99,
-    "preco_anterior": 39.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AAHbMdnqn0",
-    "atualizado_em": "2026-10-01T18:08:03.609-03:00"
   }
 ]
