@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21006188",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
+    "preco": 196.47,
+    "preco_anterior": 346.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/27sfskB",
+    "atualizado_em": "2026-10-01T21:59:27.999-03:00"
+  },
+  {
     "id": "shopee:341167297.47453028150",
     "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l01",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
@@ -1628,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07J68SZ66?tag=malica09-20",
     "atualizado_em": "2026-10-01T08:01:00.517-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40555738",
-    "titulo": "Edredom Sherpa Coberdrom E Cobertor Casal Queen Grosso Cores Cor Tabaco Desenho do tecido Lisa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659060-MLA95708214440_102025-F.jpg",
-    "preco": 106,
-    "preco_anterior": 186,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WYgsVY",
-    "atualizado_em": "2026-09-30T21:56:55.639-03:00"
   }
 ]
