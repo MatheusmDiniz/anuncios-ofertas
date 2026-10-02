@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:761647073.58250442234",
+    "titulo": "Kit 24 Massinha de Modelar + 25 Moldes Cortador Festa Aniversário Kit Lembracinha",
+    "imagem": "https://cf.shopee.com.br/file/br-11134224-81z1k-mgo1nc280a9w87",
+    "preco": 14.99,
+    "preco_anterior": 23.06,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7pthYJQIEp",
+    "atualizado_em": "2026-10-02T10:54:57.922-03:00"
+  },
+  {
     "id": "amazon:B0DFRQZL6S",
     "titulo": "Oferta: Fun Divirta-se - Barbie - Caixa Registradora Unique - A partir de 3 anos",
     "imagem": "https://m.media-amazon.com/images/I/61rZyHBSH9L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2v9b1hJ",
     "atualizado_em": "2026-10-01T10:56:00.923-03:00"
-  },
-  {
-    "id": "amazon:B08MKNH3B4",
-    "titulo": "Mustela Gel Lavante Suave 750ml - Sabonete Líquido Corpo e Cabelo Infantil - 93% de Ingredientes de Origem Natural - Seguro Desde o Nascimento",
-    "imagem": "https://m.media-amazon.com/images/I/61O8D9HGg+L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08MKNH3B4?tag=malica09-20",
-    "atualizado_em": "2026-10-01T10:50:51.320-03:00"
   }
 ]
