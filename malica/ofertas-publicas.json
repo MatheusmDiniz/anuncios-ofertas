@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65346166",
+    "titulo": "Caminhão De Resgate Do Marshall Com Bonecos -patrulha Canina",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_622610-MLA106731530271_022026-F.jpg",
+    "preco": 126,
+    "preco_anterior": 249.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2pWETuA",
+    "atualizado_em": "2026-10-02T12:58:10.996-03:00"
+  },
+  {
     "id": "amazon:B0C21TY79Q",
     "titulo": "Safety 1st, Banheira Smile com Suporte, Pink",
     "imagem": "https://m.media-amazon.com/images/I/41NlPvNxFnL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0G43VVHFQ?tag=malica09-20",
     "atualizado_em": "2026-10-01T13:00:05.834-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB70094874",
-    "titulo": "Carrinho Boneca Berço Plus Estampa Bolas Dm Toys Dmt6501",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_965627-MLA112010174279_052026-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 190,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1NVpFNA",
-    "atualizado_em": "2026-10-01T12:55:01.918-03:00"
   }
 ]
