@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CVYNQB78",
+    "titulo": "Maxi Baby Lixeira Antiodor Descarte de Fraldas Lixo Mágico, Branco",
+    "imagem": "https://m.media-amazon.com/images/I/31aN8UI2CZL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CVYNQB78?tag=malica09-20",
+    "atualizado_em": "2026-10-02T15:52:38.547-03:00"
+  },
+  {
     "id": "amazon:B07Y2LFFLZ",
     "titulo": "Macacão de dormir para bebês Pacote com 2 pares de algodão neutro para bebês Sleep and Play Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/91q1etzCm+L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/8587898183?tag=malica09-20",
     "atualizado_em": "2026-10-01T15:54:13.518-03:00"
-  },
-  {
-    "id": "amazon:B07CVYQZTY",
-    "titulo": "Babysec Toalhas Umedecidas Ultrafresh Galinha Pintadinha Azul 46 Unidades De 19 1X13 7 Cm",
-    "imagem": "https://m.media-amazon.com/images/I/51bY4OWqGuL._AC_SL1500_.jpg",
-    "preco": 8.73,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07CVYQZTY?tag=malica09-20",
-    "atualizado_em": "2026-10-01T15:49:07.907-03:00"
   }
 ]
