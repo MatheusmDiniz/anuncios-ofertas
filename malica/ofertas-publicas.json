@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H1T7241Z",
+    "titulo": "Oferta: Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
+    "imagem": "https://m.media-amazon.com/images/I/61VhNgOsi8L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H1T7241Z?tag=malica09-20",
+    "atualizado_em": "2026-10-02T14:25:34.069-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24219839",
     "titulo": "Totokinha Cardoso Azul – Triciclo Infantil Sport 3 em 1 Super Divertido Seguro e Resistente",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_914232-MLA99981969587_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:27:15.487-03:00"
-  },
-  {
-    "id": "amazon:B0DHLFGNMM",
-    "titulo": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
-    "imagem": "https://m.media-amazon.com/images/I/81oplZow5nL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DHLFGNMM?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:22:10.269-03:00"
   }
 ]
