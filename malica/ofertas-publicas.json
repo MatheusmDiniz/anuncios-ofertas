@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65079780",
+    "titulo": "Aquecedor E Esterilizador Mamadeira Bpa Free Para Bebe Quicko Aquecedor De Mamadeira Aquecedor De Mamadeira Usb Preparador De Mamadeira Com Kit Para Limpeza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_875082-MLA114650318643_072026-F.jpg",
+    "preco": 164.9,
+    "preco_anterior": 299.08,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2rrXFR3",
+    "atualizado_em": "2026-10-02T20:28:31.853-03:00"
+  },
+  {
     "id": "amazon:B0FJ2XRSTP",
     "titulo": "Marvel Capitão América figura de 20 cm",
     "imagem": "https://m.media-amazon.com/images/I/51kDFubIAEL._AC_SL1500_.jpg",
@@ -1608,25 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00CTH0A1Q?tag=malica09-20",
     "atualizado_em": "2026-10-01T20:32:13.886-03:00"
-  },
-  {
-    "id": "shopee:1017646777.21899901744",
-    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
-    "preco": 126.98,
-    "preco_anterior": 198.41,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6q18l4tr4V",
-    "atualizado_em": "2026-10-01T20:26:43.145-03:00"
-  },
-  {
-    "id": "amazon:B0FH35LBJ8",
-    "titulo": "Oferta: Peppa Pig Bebê Evie Colo e Soneca Boneca Interativa",
-    "imagem": "https://m.media-amazon.com/images/I/611u5v9DiPL._AC_SL1500_.jpg",
-    "preco": 196.97,
-    "preco_anterior": 299.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FH35LBJ8?tag=malica09-20",
-    "atualizado_em": "2026-10-01T20:21:34.323-03:00"
   }
 ]
