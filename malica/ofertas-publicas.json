@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73063371",
+    "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
+    "preco": 77.26,
+    "preco_anterior": 159.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/22dPMY1",
+    "atualizado_em": "2026-10-02T13:59:58.202-03:00"
+  },
+  {
     "id": "amazon:B093QCF4PM",
     "titulo": "Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilíngue : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/61DxXmGX-+L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:01:17.955-03:00"
-  },
-  {
-    "id": "amazon:B08K4MXDVX",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61KzqcJwjDL._AC_SL1500_.jpg",
-    "preco": 161.4,
-    "preco_anterior": 182.48,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=malica09-20",
-    "atualizado_em": "2026-10-01T13:56:13.627-03:00"
   }
 ]
