@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FV4M4TYW",
+    "titulo": "Tapete de Água Inflável Interativo para Bebê, Estimulação Sensorial, Design Oceânico 3D, Material Seguro, Desenvolvimento Motor, para 3 Meses ou Mais",
+    "imagem": "https://m.media-amazon.com/images/I/61wk07iHhvL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FV4M4TYW?tag=malica09-20",
+    "atualizado_em": "2026-10-02T09:02:24.706-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25687130",
     "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7faFkdcoaP",
     "atualizado_em": "2026-10-01T09:02:40.621-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25961240",
-    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
-    "preco": 119.6,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26CTJJv",
-    "atualizado_em": "2026-10-01T08:57:35.103-03:00"
   }
 ]
