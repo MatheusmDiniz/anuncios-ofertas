@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZQVVP87",
+    "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
+    "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
+    "preco": 67,
+    "preco_anterior": 90,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
+    "atualizado_em": "2026-10-02T13:33:55.689-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22501041",
     "titulo": "Balde Primeiros Blocos Fisher-price - Mattel Ffc84 Multicolor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_709652-MLA99593588108_122025-F.jpg",
