@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09T75PLY5",
+    "titulo": "Oferta: Fisher-Price Aprender e Brincar Brinquedo para Bebês Laptop De Aprendizagem para crianças a partir de 6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/81h2flO21RL._AC_SL1500_.jpg",
+    "preco": 127,
+    "preco_anterior": 213,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09T75PLY5?tag=malica09-20",
+    "atualizado_em": "2026-10-02T13:23:42.608-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75004805",
     "titulo": "Carrinho De Passeio Infantil Quadriciclo Andador Meninas Rosa Empurrador Baby Quad Com Buzina e Cinto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_709859-MLA114292500929_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DB8XBBFR?tag=malica09-20",
     "atualizado_em": "2026-10-01T13:25:32.074-03:00"
-  },
-  {
-    "id": "amazon:B0CD8T9Q45",
-    "titulo": "Absorvente Cremer 30Un. Seios : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/51O7wP2IGpL._AC_SL1500_.jpg",
-    "preco": 21.8,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CD8T9Q45?tag=malica09-20",
-    "atualizado_em": "2026-10-01T13:20:26.904-03:00"
   }
 ]
