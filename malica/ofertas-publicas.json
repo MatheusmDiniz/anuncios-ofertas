@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DQVFYHRQ",
+    "titulo": "Oferta: Trocador Porta Fraldas Papi Baby Portátil 66Cm X 37Cm 01 Un",
+    "imagem": "https://m.media-amazon.com/images/I/41jpv+JqZxL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DQVFYHRQ?tag=malica09-20",
+    "atualizado_em": "2026-10-02T12:17:22.135-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB51288092",
     "titulo": "Berço Moises Portátil Infantil Co-leito Colin Compacto Cor Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_866957-MLA111574045298_062026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1UbFe5Z",
     "atualizado_em": "2026-10-01T12:18:48.233-03:00"
-  },
-  {
-    "id": "amazon:B0H2VKB99H",
-    "titulo": "Oferta: Blocos Magnéticos para Construção, Brinquedo Educativo Adequado para Crianças de 3 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71Z+WnMklYL._AC_SL1500_.jpg",
-    "preco": 98.65,
-    "preco_anterior": 136.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H2VKB99H?tag=malica09-20",
-    "atualizado_em": "2026-10-01T12:13:38.258-03:00"
   }
 ]
