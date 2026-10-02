@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C9W32C1J",
+    "titulo": "Loção Hidratante Corporal Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1500_.jpg",
+    "preco": 47,
+    "preco_anterior": 86,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C9W32C1J?tag=malica09-20",
+    "atualizado_em": "2026-10-02T12:37:45.790-03:00"
+  },
+  {
     "id": "shopee:897514363.46213066064",
     "titulo": "BRASTOY Kit de Blocos Magnéticos Transparentes Coloridos para Crianças 38 Peças Pequenas Embalagem de Lata  Presente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mt6dkf0tkuf8b3",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
     "atualizado_em": "2026-10-01T12:39:39.361-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74126951",
-    "titulo": "Carrinho De Passeio Wheels Quadriciclo Infantil Andador Empurrador Maral Baby Quad Laranja",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_779510-MLA113069903672_072026-F.jpg",
-    "preco": 322,
-    "preco_anterior": 598.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nVNQXo",
-    "atualizado_em": "2026-10-01T12:34:33.813-03:00"
   }
 ]
