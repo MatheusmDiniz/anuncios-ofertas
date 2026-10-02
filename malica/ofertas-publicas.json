@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KTC5VJ",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
+    "preco": 23,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
+    "atualizado_em": "2026-10-02T09:22:56.192-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77306489",
     "titulo": "Banheira De Gelo Dobrável Spa Portátil Alta Qualidade Grande Azul Liso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_696893-MLA114774184576_082026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7Adz9jZhul",
     "atualizado_em": "2026-10-01T09:23:05.827-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44958164",
-    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Cinza Cor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_627665-MLA113620705920_072026-F.jpg",
-    "preco": 176.92,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/23isFaS",
-    "atualizado_em": "2026-10-01T09:18:01.204-03:00"
   }
 ]
