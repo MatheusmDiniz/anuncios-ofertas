@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08NQNXMPL",
+    "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
+    "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=malica09-20",
+    "atualizado_em": "2026-10-02T09:12:40.881-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23224263",
     "titulo": "Mochila Bolsa Lequeen Dândi Smart Multifuncional Moderna Cor Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751497-MLA113869905450_072026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9fLK8JzrNG",
     "atualizado_em": "2026-10-01T09:12:53.278-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29298117",
-    "titulo": "Bicicleta De Equilibrio Infantil 4 Rodas Vermelho - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851787-MLU77882833591_072024-F.jpg",
-    "preco": 181.59,
-    "preco_anterior": 370.6,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24mjs9N",
-    "atualizado_em": "2026-10-01T09:07:48.173-03:00"
   }
 ]
