@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C21TY79Q",
+    "titulo": "Safety 1st, Banheira Smile com Suporte, Pink",
+    "imagem": "https://m.media-amazon.com/images/I/41NlPvNxFnL._AC_SL1500_.jpg",
+    "preco": 459,
+    "preco_anterior": 799,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C21TY79Q?tag=malica09-20",
+    "atualizado_em": "2026-10-02T12:53:02.381-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47549605",
     "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1NVpFNA",
     "atualizado_em": "2026-10-01T12:55:01.918-03:00"
-  },
-  {
-    "id": "amazon:B0FY7D8G3G",
-    "titulo": "Oferta: Peppa Pig - Conjunto Casa da Família da Peppa",
-    "imagem": "https://m.media-amazon.com/images/I/51LNAK7GI5L._AC_SL1500_.jpg",
-    "preco": 333.99,
-    "preco_anterior": 499,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FY7D8G3G?tag=malica09-20",
-    "atualizado_em": "2026-10-01T12:49:53.085-03:00"
   }
 ]
