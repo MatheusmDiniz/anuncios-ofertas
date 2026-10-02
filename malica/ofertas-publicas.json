@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F6VX3TL7",
+    "titulo": "Zippy Toys Carro Elétrico M380 com Controle Remoto 6V, Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/51ajgkajzmL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F6VX3TL7?tag=malica09-20",
+    "atualizado_em": "2026-10-02T19:08:13.716-03:00"
+  },
+  {
     "id": "amazon:B0G4C6M9M8",
     "titulo": "Cadeira Gamer RGB Python Fly com Iluminação Decorativa, Encosto Reclinável, Design Ergonômico para Escritório e Jogos (Rosa)",
     "imagem": "https://m.media-amazon.com/images/I/71s3QNEb+bL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GRK2V7C1?tag=malica09-20",
     "atualizado_em": "2026-10-01T19:09:34.143-03:00"
-  },
-  {
-    "id": "amazon:B0GKJBFTBS",
-    "titulo": "Quadriciclo Carrinho de passeio infantil Gatinha Star Empurrador Pedal e Buzina",
-    "imagem": "https://m.media-amazon.com/images/I/51mIEP7R3JL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GKJBFTBS?tag=malica09-20",
-    "atualizado_em": "2026-10-01T19:04:28.584-03:00"
   }
 ]
