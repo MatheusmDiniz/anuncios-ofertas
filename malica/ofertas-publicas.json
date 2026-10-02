@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0080GYTC6",
+    "titulo": "Colônia Refrescante Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61+qxeULTcL._AC_SL1500_.jpg",
+    "preco": 30.58,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0080GYTC6?tag=malica09-20",
+    "atualizado_em": "2026-10-02T17:35:44.513-03:00"
+  },
+  {
     "id": "amazon:B0B5YHFHGX",
     "titulo": "MAM Baby Kit com 2 Chupetas Supreme Com Bico Extrafino de Silicone SkinSoft para Crianças 6+ Meses Com Caixa Esterilizadora, Rosa",
     "imagem": "https://m.media-amazon.com/images/I/511DkHSkDWL._AC_SL1500_.jpg",
