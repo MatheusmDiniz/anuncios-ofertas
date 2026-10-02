@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1481897291.58215220404",
+    "titulo": "Conjunto de bebê Infantil Verão Menino Body e Short 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ay-mr8sjhr2ez9g02",
+    "preco": 32.9,
+    "preco_anterior": 49.85,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5VVlAcyvmN",
+    "atualizado_em": "2026-10-02T16:38:50.467-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39456030",
     "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1AdCC9z",
     "atualizado_em": "2026-10-01T16:40:33.677-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72701612",
-    "titulo": "Bicicleta de Equilíbrio Infantil para Bebê de 1 Ano com 4 Rodas e Aço Carbono",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_880351-MLA115359579520_082026-F.jpg",
-    "preco": 76.53,
-    "preco_anterior": 139.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/29yaJ77",
-    "atualizado_em": "2026-10-01T16:35:22.964-03:00"
   }
 ]
