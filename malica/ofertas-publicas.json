@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F5X826MH",
+    "titulo": "Oferta: Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Cinza Lápis",
+    "imagem": "https://m.media-amazon.com/images/I/61Pul4QsBGL._AC_SL1500_.jpg",
+    "preco": 241,
+    "preco_anterior": 599,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F5X826MH?tag=malica09-20",
+    "atualizado_em": "2026-10-02T11:10:15.130-03:00"
+  },
+  {
     "id": "shopee:1203275050.23398654174",
     "titulo": "Calça Jeans Infantil  Wide Leg Cargo Black Juvenil 6 ao 14  ALTO PADRÃO LINHA PREMIUM",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjhur5wacvep7d",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
     "atualizado_em": "2026-10-01T11:11:47.715-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62933980",
-    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
-    "preco": 218.41,
-    "preco_anterior": 447.82,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2XQuVVJ",
-    "atualizado_em": "2026-10-01T11:06:42.937-03:00"
   }
 ]
