@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72901008",
+    "titulo": "Banheira com Suporte Dobrável para Bebê Mini Assento Válvula de Esvaziamento 45 Litros Lisa Plástico Rígido Até 30kg PipDip",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847840-MLA116500118433_082026-F.jpg",
+    "preco": 332,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2EmEcUo",
+    "atualizado_em": "2026-10-02T16:13:15.405-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66515304",
     "titulo": "Bicicleta De Equilíbrio Infantil S/ Pedal 4 Roda Joy Benibee Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_696764-MLA109132592442_042026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
     "atualizado_em": "2026-10-01T16:14:48.888-03:00"
-  },
-  {
-    "id": "amazon:B0F7LC7WYH",
-    "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
-    "imagem": "https://m.media-amazon.com/images/I/81bPF5ngzHL._AC_SL1500_.jpg",
-    "preco": 28.79,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F7LC7WYH?tag=malica09-20",
-    "atualizado_em": "2026-10-01T16:09:43.854-03:00"
   }
 ]
