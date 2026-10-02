@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B079NSYCMM",
+    "titulo": "Bicicleta Arco Iris Infantil Aro 12 Branco e Rosa com Cestinha, Track Bikes : Amazon.com.br: Esporte",
+    "imagem": "https://m.media-amazon.com/images/I/81YEHM2pBEL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B079NSYCMM?tag=malica09-20",
+    "atualizado_em": "2026-10-02T14:15:19.720-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61271206",
     "titulo": "Lego 77256 Máquina Do Tempo De Volta Para O Futuro 357 Pcs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_874647-MLA95977700870_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:17:05.134-03:00"
-  },
-  {
-    "id": "amazon:B078YC6B9Q",
-    "titulo": "Higienizador de Mãos Infantil Sem Álcool - Limpador Mãos Natural Vegano, Produto de Cuidado Bebê Vegano, Limpeza Criança Espuma Natural Hipoalergênico, Mata Bactérias - 200ml |Mãos Limpinhas - Bioclub",
-    "imagem": "https://m.media-amazon.com/images/I/51u7P+8P5KL._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B078YC6B9Q?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:11:56.358-03:00"
   }
 ]
