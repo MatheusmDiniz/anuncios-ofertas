@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B092VCF3V8",
+    "titulo": "Oferta: Roupa Íntima Bigfral Moviment Feminina G/XG 7 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61wxYkBwRxL._AC_SL1500_.jpg",
+    "preco": 23.45,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B092VCF3V8?tag=malica09-20",
+    "atualizado_em": "2026-10-01T21:33:44.838-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39593892",
     "titulo": "Baby Style Cadeira de balanço para bebês descanso automatico Rosa Liso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_783110-MLA95676692076_102025-F.jpg",
