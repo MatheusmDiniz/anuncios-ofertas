@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093QCF4PM",
+    "titulo": "Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilíngue : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/61DxXmGX-+L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093QCF4PM?tag=malica09-20",
+    "atualizado_em": "2026-10-02T13:54:48.658-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25997831",
     "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=malica09-20",
     "atualizado_em": "2026-10-01T13:56:13.627-03:00"
-  },
-  {
-    "id": "amazon:B0CZPLVXS5",
-    "titulo": "Mili Toalhas Umedecidas Love & Care Premium, Uso Bebê, Aloe Vera e Calêndula, Pack com 10 Pacotes (48 Unidades cada)",
-    "imagem": "https://m.media-amazon.com/images/I/71toJU0iNyL._AC_SL1500_.jpg",
-    "preco": 59.85,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CZPLVXS5?tag=malica09-20",
-    "atualizado_em": "2026-10-01T13:51:09.816-03:00"
   }
 ]
