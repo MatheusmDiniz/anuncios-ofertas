@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B089M5VWXP",
+    "titulo": "Lillo Chupeta Funny Animais Silicone Anatômico Cachorro Tamanho 2, Lillo, Bege, Tam 2",
+    "imagem": "https://m.media-amazon.com/images/I/71G7nDb-SOL._AC_SL1500_.jpg",
+    "preco": 9,
+    "preco_anterior": 19,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B089M5VWXP?tag=malica09-20",
+    "atualizado_em": "2026-10-02T18:57:39.687-03:00"
+  },
+  {
     "id": "shopee:499950777.14263042301",
     "titulo": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mtpeump4aosj02",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BUFSKodN6",
     "atualizado_em": "2026-10-01T18:59:23.849-03:00"
-  },
-  {
-    "id": "amazon:B0DJ19R8H7",
-    "titulo": "LEGO Minecraft A Batalha de Lava no Nether 21266 (99 Peças)",
-    "imagem": "https://m.media-amazon.com/images/I/81Fx8Quy1SL._AC_SL1500_.jpg",
-    "preco": 56,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ19R8H7?tag=malica09-20",
-    "atualizado_em": "2026-10-01T18:54:18.352-03:00"
   }
 ]
