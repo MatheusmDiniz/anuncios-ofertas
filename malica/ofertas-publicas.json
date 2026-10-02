@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66515304",
+    "titulo": "Bicicleta De Equilíbrio Infantil S/ Pedal 4 Roda Joy Benibee Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_696764-MLA109132592442_042026-F.jpg",
+    "preco": 159,
+    "preco_anterior": 289,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2A9fsGm",
+    "atualizado_em": "2026-10-02T16:08:03.337-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53258842",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F7LC7WYH?tag=malica09-20",
     "atualizado_em": "2026-10-01T16:09:43.854-03:00"
-  },
-  {
-    "id": "amazon:B09K2Y66Q3",
-    "titulo": "Suplemento Infantil Ascenda Sem Sabor 800G",
-    "imagem": "https://m.media-amazon.com/images/I/51DchdAdFqL._AC_SL1500_.jpg",
-    "preco": 84,
-    "preco_anterior": 124,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=malica09-20",
-    "atualizado_em": "2026-10-01T16:04:23.050-03:00"
   }
 ]
