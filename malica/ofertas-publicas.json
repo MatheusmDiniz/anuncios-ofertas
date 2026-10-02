@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08DVWJHJS",
+    "titulo": "Fisher-Price - Kit Coleção Como é Bom",
+    "imagem": "https://m.media-amazon.com/images/I/61RL7Vv4ToL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08DVWJHJS?tag=malica09-20",
+    "atualizado_em": "2026-10-02T12:27:34.370-03:00"
+  },
+  {
     "id": "shopee:1360752092.22398663565",
     "titulo": "Bomba Amamentacao tira-leite elétrica Sem dor Alta potencia de sucção integrada Silenciosa Portátil",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratk-mb4eca4ny91t2e",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B25M6HGJ?tag=malica09-20",
     "atualizado_em": "2026-10-01T12:29:23.825-03:00"
-  },
-  {
-    "id": "amazon:B0G8YRHPDV",
-    "titulo": "Oferta: Blocos de Construção Conjunto Casa na Árvore - 756 Peças, Compatível com Blocos de Construção Padrão, Um Presente para Adultos e Crianças",
-    "imagem": "https://m.media-amazon.com/images/I/618YCy-uZVL._AC_SL1500_.jpg",
-    "preco": 94.94,
-    "preco_anterior": 147,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G8YRHPDV?tag=malica09-20",
-    "atualizado_em": "2026-10-01T12:23:52.286-03:00"
   }
 ]
