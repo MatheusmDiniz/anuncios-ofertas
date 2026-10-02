@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555478667",
+    "titulo": "Coleção Minhas Primeiras 101 Palavras - Box com 3 Livrinhos",
+    "imagem": "https://m.media-amazon.com/images/I/816JVGS0+xL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555478667?tag=malica09-20",
+    "atualizado_em": "2026-10-02T16:59:34.035-03:00"
+  },
+  {
     "id": "amazon:B0DMWGLN9C",
     "titulo": "Oferta: Andador Amigo Macaco Aprenda Comigo Brinquedo Bebê Fisher-Price Mattel. Atividades educativas com apoio para andar. Ideal a partir dos 9 meses.",
     "imagem": "https://m.media-amazon.com/images/I/71X8zgU9ylL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/23CGWTn",
     "atualizado_em": "2026-10-01T17:01:12.890-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27637270",
-    "titulo": "Buba, Almofada De Atividades Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791180-MLA99934022017_112025-F.jpg",
-    "preco": 97.71,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2QMyjVU",
-    "atualizado_em": "2026-10-01T16:56:03.073-03:00"
   }
 ]
