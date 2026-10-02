@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28579921",
+    "titulo": "Cadeira de Descanso Bebê Musical Polar Cinza 18kg Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729247-MLA96101820207_102025-F.jpg",
+    "preco": 209.85,
+    "preco_anterior": 366.04,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19n1jmt",
+    "atualizado_em": "2026-10-02T19:28:43.071-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62469792",
     "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_920911-MLA98813793822_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2heMSHE",
     "atualizado_em": "2026-10-01T19:30:11.590-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42639818",
-    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
-    "preco": 458.42,
-    "preco_anterior": 1999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/25gcb2g",
-    "atualizado_em": "2026-10-01T19:25:02.722-03:00"
   }
 ]
