@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:897514363.46213066064",
+    "titulo": "BRASTOY Kit de Blocos Magnéticos Transparentes Coloridos para Crianças 38 Peças Pequenas Embalagem de Lata  Presente",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mt6dkf0tkuf8b3",
+    "preco": 65.99,
+    "preco_anterior": 299.95,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9pemAABBei",
+    "atualizado_em": "2026-10-02T12:32:40.264-03:00"
+  },
+  {
     "id": "amazon:B08DVWJHJS",
     "titulo": "Fisher-Price - Kit Coleção Como é Bom",
     "imagem": "https://m.media-amazon.com/images/I/61RL7Vv4ToL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2nVNQXo",
     "atualizado_em": "2026-10-01T12:34:33.813-03:00"
-  },
-  {
-    "id": "amazon:B0B25M6HGJ",
-    "titulo": "SUNNY, Gabby",
-    "imagem": "https://m.media-amazon.com/images/I/71EVzHyO+7L._AC_SL1500_.jpg",
-    "preco": 77.59,
-    "preco_anterior": 175.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B25M6HGJ?tag=malica09-20",
-    "atualizado_em": "2026-10-01T12:29:23.825-03:00"
   }
 ]
