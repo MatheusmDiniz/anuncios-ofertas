@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39593892",
+    "titulo": "Baby Style Cadeira de balanço para bebês descanso automatico Rosa Liso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_783110-MLA95676692076_102025-F.jpg",
+    "preco": 371,
+    "preco_anterior": 831.3,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EC2FC9",
+    "atualizado_em": "2026-10-01T21:28:39.845-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73129562",
     "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Dpj5pa",
     "atualizado_em": "2026-09-30T21:31:10.755-03:00"
-  },
-  {
-    "id": "amazon:B0BY3GQK3L",
-    "titulo": "Oferta: Tena Pants Discreet Calcinha Descartável Preta G/EG 16 unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61XuQfHFyPL._AC_SL1500_.jpg",
-    "preco": 65.52,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BY3GQK3L?tag=malica09-20",
-    "atualizado_em": "2026-09-30T21:26:03.435-03:00"
   }
 ]
