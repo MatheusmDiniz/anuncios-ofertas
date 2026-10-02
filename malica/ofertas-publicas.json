@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20969462",
+    "titulo": "Fisher-Price Zebra Blocos Surpresa CGN63 4 Peças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
+    "preco": 81,
+    "preco_anterior": 159.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32opZnB",
+    "atualizado_em": "2026-10-02T11:40:57.984-03:00"
+  },
+  {
     "id": "shopee:762363442.16389928134",
     "titulo": "Capa de Bebe Conforto Bebê + Capota Solar + Jogo Protetor de Cinto Serve em Todas as Marcas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mrzuzflakhl2a6",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=malica09-20",
     "atualizado_em": "2026-10-01T11:42:29.514-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72984485",
-    "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
-    "preco": 79.69,
-    "preco_anterior": 189.86,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kb8E9B",
-    "atualizado_em": "2026-10-01T11:37:24.954-03:00"
   }
 ]
