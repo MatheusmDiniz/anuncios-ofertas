@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1361476561.22493583538",
+    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
+    "preco": 36.99,
+    "preco_anterior": 88.07,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8pmD8kmF0p",
+    "atualizado_em": "2026-10-02T17:45:58.707-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23738902",
     "titulo": "Banheira Plástica Para Bebê Premium com Trocador Galzerano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_913670-MLA95670010754_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR3PTGH3?tag=malica09-20",
     "atualizado_em": "2026-10-01T17:47:27.948-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61118769",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
-    "preco": 449.9,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2sQi2Ef",
-    "atualizado_em": "2026-10-01T17:42:21.903-03:00"
   }
 ]
