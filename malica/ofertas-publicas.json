@@ -1638,15 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:52:44.966-03:00"
-  },
-  {
-    "id": "amazon:6555072229",
-    "titulo": "Oferta: Meu Primeiro Atlas de Animais",
-    "imagem": "https://m.media-amazon.com/images/I/61UgxeCBuLL._AC_SL1500_.jpg",
-    "preco": 45,
-    "preco_anterior": 99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6555072229?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:47:41.783-03:00"
   }
 ]
