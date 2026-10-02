@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28203800",
+    "titulo": "Trocador Portátil Bege de Algodão Impermeável Batistela Baby Dobrável Lavável Unissex",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908952-MLA113098695541_062026-F.jpg",
+    "preco": 107,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ms1HNX",
+    "atualizado_em": "2026-10-02T14:30:42.849-03:00"
+  },
+  {
     "id": "amazon:B0H1T7241Z",
     "titulo": "Oferta: Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
     "imagem": "https://m.media-amazon.com/images/I/61VhNgOsi8L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Q96Lnn",
     "atualizado_em": "2026-10-01T14:32:25.741-03:00"
-  },
-  {
-    "id": "amazon:B07Y94W69D",
-    "titulo": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista Gigante com lançador, rampas e ataque do T-Rex motorizado. para crianças a partir de 4 anos.",
-    "imagem": "https://m.media-amazon.com/images/I/81q94ZM9zjL._AC_SL1500_.jpg",
-    "preco": 899,
-    "preco_anterior": 1359,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:27:15.487-03:00"
   }
 ]
