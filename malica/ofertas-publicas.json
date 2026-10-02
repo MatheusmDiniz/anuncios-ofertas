@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19924449",
+    "titulo": "Mustela Gel Lavante Calmante para Pele Muito Sensível 300mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720160-MLA99845836617_112025-F.jpg",
+    "preco": 115,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oxnSdK",
+    "atualizado_em": "2026-10-02T17:04:41.987-03:00"
+  },
+  {
     "id": "amazon:6555478667",
     "titulo": "Coleção Minhas Primeiras 101 Palavras - Box com 3 Livrinhos",
     "imagem": "https://m.media-amazon.com/images/I/816JVGS0+xL._AC_SL1500_.jpg",
