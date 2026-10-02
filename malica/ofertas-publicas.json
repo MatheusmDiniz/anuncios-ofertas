@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08Q5V1PB8",
+    "titulo": "Oferta: Hot Wheels - Barraca Infantil com 50 Bolinhas, Fun Divirta-se, Azul",
+    "imagem": "https://m.media-amazon.com/images/I/61kjtCprQRL._AC_SL1500_.jpg",
+    "preco": 189.9,
+    "preco_anterior": 239.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08Q5V1PB8?tag=malica09-20",
+    "atualizado_em": "2026-10-02T10:39:39.647-03:00"
+  },
+  {
     "id": "shopee:534737666.19799672554",
     "titulo": "Kit 4 Calças Moletom Infantil Peluciada com Punho Elástico 60% Algodão Tamanhos 02 ao 18 Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-msddp3542m134f",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F44VHRCH?tag=malica09-20",
     "atualizado_em": "2026-10-01T10:40:11.920-03:00"
-  },
-  {
-    "id": "shopee:1126224431.23497604775",
-    "titulo": "Relógio Digital Infantil À Prova D'água Com Display Luminoso Multifuncional Esportivo Para Meninos E Meninas Presentes",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqigqf0p2ltt27",
-    "preco": 16.79,
-    "preco_anterior": 49.38,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/BUEozWnHQ",
-    "atualizado_em": "2026-10-01T10:35:08.047-03:00"
   }
 ]
