@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DPNCNQK1",
+    "titulo": "Casa Km Vida Macia Amaciante Glicerina & Algodão 1L",
+    "imagem": "https://m.media-amazon.com/images/I/71J9I3fg8BL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": 34,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DPNCNQK1?tag=malica09-20",
+    "atualizado_em": "2026-10-02T15:36:58.735-03:00"
+  },
+  {
     "id": "amazon:B09JVKRS42",
     "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61CSoJu3bxL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07J2NS4PK?tag=malica09-20",
     "atualizado_em": "2026-10-01T15:38:59.718-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35340733",
-    "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
-    "preco": 505,
-    "preco_anterior": 899,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2LRZ87J",
-    "atualizado_em": "2026-10-01T15:33:54.821-03:00"
   }
 ]
