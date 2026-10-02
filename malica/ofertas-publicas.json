@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Y2LFFLZ",
+    "titulo": "Macacão de dormir para bebês Pacote com 2 pares de algodão neutro para bebês Sleep and Play Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/91q1etzCm+L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Y2LFFLZ?tag=malica09-20",
+    "atualizado_em": "2026-10-02T15:47:33.275-03:00"
+  },
+  {
     "id": "amazon:B0BGM6P1SF",
     "titulo": "Personal Fralda Baby Premium Pants M, 48 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/513V4AsINwL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07CVYQZTY?tag=malica09-20",
     "atualizado_em": "2026-10-01T15:49:07.907-03:00"
-  },
-  {
-    "id": "amazon:B07NPYFPYZ",
-    "titulo": "Granado Refil Sabonete Bebê, Camomila, 250ml : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/51QJNQL14wL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07NPYFPYZ?tag=malica09-20",
-    "atualizado_em": "2026-10-01T15:44:01.643-03:00"
   }
 ]
