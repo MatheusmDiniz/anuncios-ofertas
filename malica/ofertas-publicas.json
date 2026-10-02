@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40554787",
+    "titulo": "Bicicleta de Equilíbrio Infantil Yuupi Verde 4 Rodas TPU, Conforto e Segurança",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_682100-MLA99508962234_112025-F.jpg",
+    "preco": 192.31,
+    "preco_anterior": 337.38,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/311P3iM",
+    "atualizado_em": "2026-10-02T08:26:10.655-03:00"
+  },
+  {
     "id": "amazon:B0CLQ5XY4P",
     "titulo": "Carrinho de Bebê Berço Moisés Passeio Napoli Preto Galzerano",
     "imagem": "https://m.media-amazon.com/images/I/61HMmd0y17L._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Apnwjg",
     "atualizado_em": "2026-10-01T08:26:57.188-03:00"
-  },
-  {
-    "id": "amazon:B099KV2733",
-    "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61wE7KZt2vL._AC_SL1500_.jpg",
-    "preco": 35.32,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KV2733?tag=malica09-20",
-    "atualizado_em": "2026-10-01T08:21:49.449-03:00"
   }
 ]
