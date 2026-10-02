@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GKXGS45",
+    "titulo": "Oferta: Candide, Laptop Infantil, Homem-Aranha, Brinquedo Educativo - Bilíngue",
+    "imagem": "https://m.media-amazon.com/images/I/61mMbktfL-L._AC_SL1500_.jpg",
+    "preco": 52.25,
+    "preco_anterior": 99.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GKXGS45?tag=malica09-20",
+    "atualizado_em": "2026-10-02T11:00:03.814-03:00"
+  },
+  {
     "id": "shopee:761647073.58250442234",
     "titulo": "Kit 24 Massinha de Modelar + 25 Moldes Cortador Festa Aniversário Kit Lembracinha",
     "imagem": "https://cf.shopee.com.br/file/br-11134224-81z1k-mgo1nc280a9w87",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08T6JZC6D?tag=malica09-20",
     "atualizado_em": "2026-10-01T11:01:32.993-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21847238",
-    "titulo": "Triciclo Infantil Dobravel Vermelho E Preto Clingo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933519-MLA99954632043_112025-F.jpg",
-    "preco": 132.28,
-    "preco_anterior": 229.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2v9b1hJ",
-    "atualizado_em": "2026-10-01T10:56:00.923-03:00"
   }
 ]
