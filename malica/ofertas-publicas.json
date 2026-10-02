@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F4G5NL2K",
+    "titulo": "Lenços Umedecidos Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
+    "atualizado_em": "2026-10-02T15:01:16.149-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42346236",
     "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CPTD7WH3?tag=malica09-20",
     "atualizado_em": "2026-10-01T15:02:56.185-03:00"
-  },
-  {
-    "id": "amazon:B0B3S9QWQY",
-    "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
-    "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:57:51.156-03:00"
   }
 ]
