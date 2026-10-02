@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26693140",
+    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
+    "preco": 78.99,
+    "preco_anterior": 170.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/138DV6n",
+    "atualizado_em": "2026-10-02T18:16:59.717-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72143098",
     "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V1uZQGmoS",
     "atualizado_em": "2026-10-01T18:18:20.054-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45976810",
-    "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
-    "preco": 199.97,
-    "preco_anterior": 334.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/15DaxEK",
-    "atualizado_em": "2026-10-01T18:13:12.690-03:00"
   }
 ]
