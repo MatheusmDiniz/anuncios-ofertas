@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8589987388",
+    "titulo": "Oferta: Cocô, Xixi e Pum!: Adeus, fralda! - Livro infantil de auxílio no desfralde: Adeus, fralda!",
+    "imagem": "https://m.media-amazon.com/images/I/61i8NGzRAfL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8589987388?tag=malica09-20",
+    "atualizado_em": "2026-10-02T08:10:48.799-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65896917",
     "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DQ936257?tag=malica09-20",
     "atualizado_em": "2026-10-01T08:11:36.370-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26817599",
-    "titulo": "Berço Sonata Beige Recém Nascido Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729070-MLA99376150398_112025-F.jpg",
-    "preco": 391,
-    "preco_anterior": 662.74,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2gyM6a5",
-    "atualizado_em": "2026-10-01T08:06:07.135-03:00"
   }
 ]
