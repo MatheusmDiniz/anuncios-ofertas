@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B000GKUEVE",
+    "titulo": "Oferta: Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
+    "imagem": "https://m.media-amazon.com/images/I/81GMRnT1SsL._AC_SL1500_.jpg",
+    "preco": 54,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B000GKUEVE?tag=malica09-20",
+    "atualizado_em": "2026-10-02T18:37:19.011-03:00"
+  },
+  {
     "id": "shopee:1583426145.22494274076",
     "titulo": "Conjunto Pijama Brilha no Escuro Personagens Menino Infantil Mickey Homem Aranha Malha Levinha",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyf-mcrvs9be51s0a1",
@@ -1638,15 +1648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/gQW3CjXgK",
     "atualizado_em": "2026-10-01T18:38:55.368-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45780583",
-    "titulo": "Cercadinho Para Bebê Chiqueirinho Infantil Portátil Unissex Cor Azul Desenho Do Tecido Balão",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810826-MLA91562773532_092025-F.jpg",
-    "preco": 110,
-    "preco_anterior": 220,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WvJ5Ms",
-    "atualizado_em": "2026-10-01T18:33:49.239-03:00"
   }
 ]
