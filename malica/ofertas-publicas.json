@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09JVKRS42",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61CSoJu3bxL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=malica09-20",
+    "atualizado_em": "2026-10-02T15:31:54.884-03:00"
+  },
+  {
     "id": "amazon:B0D8BV8JDG",
     "titulo": "Zippy Toys, Mesa de Pebolim de Madeira 40,5 cm : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/61WsqxIVQdL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2LRZ87J",
     "atualizado_em": "2026-10-01T15:33:54.821-03:00"
-  },
-  {
-    "id": "amazon:B0DQ8ZMB42",
-    "titulo": "Oferta: Play-Doh, Massinha de Modelar Infantil, Barbie Hearts and Hair - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 5 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71Rc5f5X9AL._AC_SL1500_.jpg",
-    "preco": 59,
-    "preco_anterior": 79.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DQ8ZMB42?tag=malica09-20",
-    "atualizado_em": "2026-10-01T15:28:45.532-03:00"
   }
 ]
