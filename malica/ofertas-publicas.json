@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1684753071.23294748806",
+    "titulo": "Blusa Amamentação Premium Camiseta T-shirt Blusinha Full",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-midhydhy914y16",
+    "preco": 27.5,
+    "preco_anterior": 50,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80D7kdKvNs",
+    "atualizado_em": "2026-10-02T11:15:21.759-03:00"
+  },
+  {
     "id": "amazon:B0F5X826MH",
     "titulo": "Oferta: Berço Portátil Cosco Kids, Cozzy, 2 Alturas, 0 a 18 kg, Cinza Lápis",
     "imagem": "https://m.media-amazon.com/images/I/61Pul4QsBGL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/24NGPFo",
     "atualizado_em": "2026-10-01T11:16:56.904-03:00"
-  },
-  {
-    "id": "amazon:B0CGYR8GBT+B0GW44JM3G",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
-    "preco": 106,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
-    "atualizado_em": "2026-10-01T11:11:47.715-03:00"
   }
 ]
