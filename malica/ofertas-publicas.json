@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42346236",
+    "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
+    "preco": 158.51,
+    "preco_anterior": 289.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dXJChh",
+    "atualizado_em": "2026-10-02T14:56:11.681-03:00"
+  },
+  {
     "id": "amazon:B08Z899HWG",
     "titulo": "DM Toys Brinquedo Interativo Musical Mexe Danca Luz e Som Dancing Cachorro",
     "imagem": "https://m.media-amazon.com/images/I/51XhC8NrEpL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:57:51.156-03:00"
-  },
-  {
-    "id": "amazon:B0FRBBQF36",
-    "titulo": "Umidificador Ultrassônico Easy Air 1.8L Branco Multi Saúde - HC290 : Amazon.com.br: Casa",
-    "imagem": "https://m.media-amazon.com/images/I/41QgGU-LO2L._AC_SL1500_.jpg",
-    "preco": 80,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FRBBQF36?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:52:44.966-03:00"
   }
 ]
