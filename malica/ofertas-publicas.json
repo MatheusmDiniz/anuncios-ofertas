@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:989001237.23397999673",
+    "titulo": "Kit 6 Peças de Roupas Infantil Menina 3 Conjuntos Verão Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mge3pll6ed4w91",
+    "preco": 47.99,
+    "preco_anterior": 82.74,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qcVE0NuRf",
+    "atualizado_em": "2026-10-02T20:45:18.536-03:00"
+  },
+  {
     "id": "shopee:1330109547.23194485154",
     "titulo": "Kit Robe + Camisola + Rosquinha de Amamentação | Gestante Maternidade bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfezp5s5r7k5ac",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1n8d434",
     "atualizado_em": "2026-10-01T20:47:35.872-03:00"
-  },
-  {
-    "id": "amazon:B0BDT2JD8T",
-    "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
-    "preco": 28.4,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BDT2JD8T?tag=malica09-20",
-    "atualizado_em": "2026-10-01T20:42:24.918-03:00"
   }
 ]
