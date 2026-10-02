@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555000376",
+    "titulo": "Oferta: O monstro das cores",
+    "imagem": "https://m.media-amazon.com/images/I/71KLnFnkVxS._AC_SL1500_.jpg",
+    "preco": 63.73,
+    "preco_anterior": 169.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555000376?tag=malica09-20",
+    "atualizado_em": "2026-10-02T10:09:00.873-03:00"
+  },
+  {
     "id": "shopee:264196168.44809598956",
     "titulo": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/17ifGww",
     "atualizado_em": "2026-10-01T10:09:30.700-03:00"
-  },
-  {
-    "id": "amazon:B07D2FBX4Z",
-    "titulo": "Cremer Fralda Luxo Com Bainha Pc Com 5 Unidades (Embalagem Pode Variar)",
-    "imagem": "https://m.media-amazon.com/images/I/61Tl1ahGeEL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FBX4Z?tag=malica09-20",
-    "atualizado_em": "2026-10-01T10:04:19.828-03:00"
   }
 ]
