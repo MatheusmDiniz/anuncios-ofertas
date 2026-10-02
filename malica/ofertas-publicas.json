@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:499950777.14263042301",
+    "titulo": "Tenis Infantil Feminino Menina Escolar Pronta Entrega",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mtpeump4aosj02",
+    "preco": 64.9,
+    "preco_anterior": 95.44,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9KiW0LpkZS",
+    "atualizado_em": "2026-10-02T18:52:35.262-03:00"
+  },
+  {
     "id": "amazon:B0BFXGY9B7+B0BFXJ12QQ+B0BFXJHXDP+B0BFXKZQ2Y+B0DD7V56G1",
     "titulo": "Huggies Fralda Supreme Care M 196 Un",
     "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DJ19R8H7?tag=malica09-20",
     "atualizado_em": "2026-10-01T18:54:18.352-03:00"
-  },
-  {
-    "id": "shopee:927473129.23993617336",
-    "titulo": "Carteira Infantil Meninos e Meninas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4tbon5nxlmadb",
-    "preco": 12.9,
-    "preco_anterior": 24.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYk2H3nlq",
-    "atualizado_em": "2026-10-01T18:49:12.641-03:00"
   }
 ]
