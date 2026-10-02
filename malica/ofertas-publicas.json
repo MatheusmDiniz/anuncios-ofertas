@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61271206",
+    "titulo": "Lego 77256 Máquina Do Tempo De Volta Para O Futuro 357 Pcs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874647-MLA95977700870_102025-F.jpg",
+    "preco": 300.14,
+    "preco_anterior": 692.91,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qTZmjN",
+    "atualizado_em": "2026-10-02T14:10:14.859-03:00"
+  },
+  {
     "id": "amazon:B0B8P3WX13",
     "titulo": "Mucambo Extratora De Leite Manual Form Mom - Multikids Baby",
     "imagem": "https://m.media-amazon.com/images/I/51rbrq3bwHL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B078YC6B9Q?tag=malica09-20",
     "atualizado_em": "2026-10-01T14:11:56.358-03:00"
-  },
-  {
-    "id": "amazon:B08JQNDGKS",
-    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 180ml",
-    "imagem": "https://m.media-amazon.com/images/I/51IU5hzbANL._AC_SL1500_.jpg",
-    "preco": 7.99,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08JQNDGKS?tag=malica09-20",
-    "atualizado_em": "2026-10-01T14:06:24.314-03:00"
   }
 ]
