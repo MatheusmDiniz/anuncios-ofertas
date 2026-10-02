@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40908664",
+    "titulo": "Copo De Treinamento Buba Com Alça E Bico Em Silicone Verde Verde-claro Liso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847837-MLA100093951807_122025-F.jpg",
+    "preco": 46.41,
+    "preco_anterior": 78.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1w1GzPb",
+    "atualizado_em": "2026-10-02T09:28:07.471-03:00"
+  },
+  {
     "id": "amazon:B099KTC5VJ",
     "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26HPpba",
     "atualizado_em": "2026-10-01T09:28:12.916-03:00"
-  },
-  {
-    "id": "shopee:425326129.23598392567",
-    "titulo": "Kit 2 Pares De Meia Calça Para Bebês Infantil Para Inverno Quentinhas Algodão Preto e Branco",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7ra24-mb8fvoftz13l8f",
-    "preco": 20.99,
-    "preco_anterior": 39.6,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7Adz9jZhul",
-    "atualizado_em": "2026-10-01T09:23:05.827-03:00"
   }
 ]
