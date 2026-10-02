@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BZ129NTZ",
+    "titulo": "Oferta: Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
+    "imagem": "https://m.media-amazon.com/images/I/516qpWn6k2L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BZ129NTZ?tag=malica09-20",
+    "atualizado_em": "2026-10-02T08:31:15.940-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40554787",
     "titulo": "Bicicleta de Equilíbrio Infantil Yuupi Verde 4 Rodas TPU, Conforto e Segurança",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_682100-MLA99508962234_112025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FFTL4KYF?tag=malica09-20",
     "atualizado_em": "2026-10-01T08:32:01.080-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45995800",
-    "titulo": "Carrinho De Bebê Passeio Guarda Chuva Styll Baby Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761526-MLA100714060243_122025-F.jpg",
-    "preco": 195.65,
-    "preco_anterior": 405,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Apnwjg",
-    "atualizado_em": "2026-10-01T08:26:57.188-03:00"
   }
 ]
