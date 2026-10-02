@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61794290",
+    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
+    "preco": 445,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1pF34v1",
+    "atualizado_em": "2026-10-02T19:13:21.648-03:00"
+  },
+  {
     "id": "amazon:B0F6VX3TL7",
     "titulo": "Zippy Toys Carro Elétrico M380 com Controle Remoto 6V, Rosa",
     "imagem": "https://m.media-amazon.com/images/I/51ajgkajzmL._AC_SL1500_.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/19bFswm",
     "atualizado_em": "2026-10-01T19:14:43.319-03:00"
-  },
-  {
-    "id": "amazon:B0GRK2V7C1",
-    "titulo": "Blocos Sensoriais para Bebê 12 Cubos Educativos Macios de Empilhar 6M+ | Estimula tato, coordenação motora e aprendizado desde os 6 meses",
-    "imagem": "https://m.media-amazon.com/images/I/81KAAZaGSyL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GRK2V7C1?tag=malica09-20",
-    "atualizado_em": "2026-10-01T19:09:34.143-03:00"
   }
 ]
