@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB48920952",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
+    "preco": 188.11,
+    "preco_anterior": 346.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1aiY5ux",
+    "atualizado_em": "2026-10-01T21:13:17.862-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56104304",
     "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
@@ -1628,15 +1638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2TcxThH",
     "atualizado_em": "2026-09-30T21:15:54.633-03:00"
-  },
-  {
-    "id": "amazon:B0FJT7KHZ8",
-    "titulo": "Ricosol Protetor Solar Kids FPS99 100g",
-    "imagem": "https://m.media-amazon.com/images/I/71mqyAQccOL._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FJT7KHZ8?tag=malica09-20",
-    "atualizado_em": "2026-09-30T21:10:46.749-03:00"
   }
 ]
