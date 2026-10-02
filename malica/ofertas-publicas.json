@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08Z899HWG",
+    "titulo": "DM Toys Brinquedo Interativo Musical Mexe Danca Luz e Som Dancing Cachorro",
+    "imagem": "https://m.media-amazon.com/images/I/51XhC8NrEpL._AC_SL1500_.jpg",
+    "preco": 38,
+    "preco_anterior": 66,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08Z899HWG?tag=malica09-20",
+    "atualizado_em": "2026-10-02T14:51:03.865-03:00"
+  },
+  {
     "id": "amazon:B0BPPHDB3J",
     "titulo": "Bebê Reborn Boneca Menina 100% silicone pode dar banho criança presente Original Princesa 55CM : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/61tPSSQOTKS._AC_SL1500_.jpg",
