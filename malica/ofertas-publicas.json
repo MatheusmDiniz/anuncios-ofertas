@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25997831",
+    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
+    "preco": 73.13,
+    "preco_anterior": 144.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2X546Yw",
+    "atualizado_em": "2026-10-02T13:49:18.802-03:00"
+  },
+  {
     "id": "amazon:B07M73VVLV",
     "titulo": "Fórmula Infantil Aptamil Pepti Danone Nutricia 800g",
     "imagem": "https://m.media-amazon.com/images/I/71NlmnTPujL._AC_SL1500_.jpg",
