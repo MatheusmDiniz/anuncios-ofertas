@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62469792",
+    "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_920911-MLA98813793822_112025-F.jpg",
+    "preco": 319.9,
+    "preco_anterior": 616.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SS1khn",
+    "atualizado_em": "2026-10-02T19:23:36.152-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25997851",
     "titulo": "Buba Treme-Treme De Atividades Zoo - Panda",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629314-MLA95633395326_102025-F.jpg",
@@ -1638,15 +1648,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/25gcb2g",
     "atualizado_em": "2026-10-01T19:25:02.722-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23781948",
-    "titulo": "Buba Garrafinha Aventuras Sereia 400ml Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_681067-MLA100109701831_122025-F.jpg",
-    "preco": 24.9,
-    "preco_anterior": 49.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2F1GGXZ",
-    "atualizado_em": "2026-10-01T19:19:52.291-03:00"
   }
 ]
