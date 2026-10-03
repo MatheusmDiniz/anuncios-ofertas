@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1304396058.23994733158",
+    "titulo": "Kit C/3 Babador Bandana de Bebê 100% Algodão 23cm x 18cm - Sortidas ANJIN.B",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yt-miacax2t9pu0eb",
+    "preco": 17.9,
+    "preco_anterior": 29.34,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2qV40o0zVY",
+    "atualizado_em": "2026-10-03T20:59:22.039-03:00"
+  },
+  {
     "id": "amazon:B08YMQ9Z5K",
     "titulo": "Cosco Kids, Berço Co-bed Pluggy, 0 a 9kg, Cinza Escuro",
     "imagem": "https://m.media-amazon.com/images/I/51NsDk2w21L._AC_SL1500_.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FV4M4TYW?tag=malica09-20",
     "atualizado_em": "2026-10-02T09:02:24.706-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25687130",
-    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
-    "preco": 93.9,
-    "preco_anterior": 169.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26WmrW9",
-    "atualizado_em": "2026-10-02T08:57:19.547-03:00"
   }
 ]
