@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09DQ6CMG2",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71C6P-MXsbL._AC_SL1500_.jpg",
+    "preco": 196,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=malica09-20",
+    "atualizado_em": "2026-10-03T13:42:33.366-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73080957",
     "titulo": "Barbie Conjunto de Brinquedo Casa Glam com Boneca",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_885047-MLA111916874806_062026-F.jpg",
