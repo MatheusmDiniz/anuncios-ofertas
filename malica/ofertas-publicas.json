@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CKGH17PF",
+    "titulo": "La Roche-Posay Cicaplast B5 Baby, Creme Multirreparador Calmante, 40ml : Amazon.com.br: Beleza",
+    "imagem": "https://m.media-amazon.com/images/I/51x2OmgGvoL._AC_SL1500_.jpg",
+    "preco": 66.67,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CKGH17PF?tag=malica09-20",
+    "atualizado_em": "2026-10-03T08:51:10.194-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24532569",
     "titulo": "Carrinho de Passeio Infantil JIP JIP Maral para Meninos, Verde com Haste",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_885366-MLA111077852916_052026-F.jpg",
