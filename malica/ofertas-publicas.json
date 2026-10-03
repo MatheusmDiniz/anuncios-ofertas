@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B001EQBJ40",
+    "titulo": "Granado Shampoo Bebê, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/51GHZqe035L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B001EQBJ40?tag=malica09-20",
+    "atualizado_em": "2026-10-03T10:53:45.319-03:00"
+  },
+  {
     "id": "shopee:1304580988.22399175661",
     "titulo": "Blusa Blusinha Canelada Infantil Meninas Strass Blog Luxo 4 ao 12  - PB",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mqq3z4oa641s32",
