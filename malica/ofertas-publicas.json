@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:396723953.48056685219",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2LYlagr2iY",
+    "atualizado_em": "2026-10-02T21:41:15.779-03:00"
+  },
+  {
     "id": "shopee:319034520.21271819518",
     "titulo": "Calça jeans wide leg  com desenho estilo pantalona infantil juvenil 10 aos 16",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qlugmqwf95cb",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26Lk5XZ",
     "atualizado_em": "2026-10-01T21:44:02.230-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67134266",
-    "titulo": "Barbie Conjunto de Brinquedo Conjunto de Jogo Pizzaria",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636730-MLA108638769090_032026-F.jpg",
-    "preco": 147.9,
-    "preco_anterior": 269.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nzh1nh",
-    "atualizado_em": "2026-10-01T21:38:54.721-03:00"
   }
 ]
