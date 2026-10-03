@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F71279B5",
+    "titulo": "Oferta: Sunny, Gabby",
+    "imagem": "https://m.media-amazon.com/images/I/61gipkkPtGL._AC_SL1500_.jpg",
+    "preco": 578.8,
+    "preco_anterior": 663.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F71279B5?tag=malica09-20",
+    "atualizado_em": "2026-10-03T13:52:45.503-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
