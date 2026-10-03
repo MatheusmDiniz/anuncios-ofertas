@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73080957",
+    "titulo": "Barbie Conjunto de Brinquedo Casa Glam com Boneca",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_885047-MLA111916874806_062026-F.jpg",
+    "preco": 209.9,
+    "preco_anterior": 399.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RTq97M",
+    "atualizado_em": "2026-10-03T13:37:29.669-03:00"
+  },
+  {
     "id": "amazon:B0DR3N5BV6",
     "titulo": "Irmã do Cachorrinho Aprende Comigo Brinquedo Bebê Fisher-Price Mattel. Ensina com luzes, músicas e frases educativas. Ideal a partir dos 6 meses.",
     "imagem": "https://m.media-amazon.com/images/I/710kBoOgaEL._AC_SL1500_.jpg",
