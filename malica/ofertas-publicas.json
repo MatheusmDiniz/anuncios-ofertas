@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:378105312.20997656316",
+    "titulo": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
+    "preco": 14.99,
+    "preco_anterior": 31.89,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6AlUO7qF5K",
+    "atualizado_em": "2026-10-02T21:25:59.832-03:00"
+  },
+  {
     "id": "shopee:1045085918.58205879273",
     "titulo": "Kit 2 Protetor Solar Carro Buba Ventosa Protege Sol",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260z-ml6fhqm0035t0a",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EC2FC9",
     "atualizado_em": "2026-10-01T21:28:39.845-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73129562",
-    "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
-    "preco": 322,
-    "preco_anterior": 699.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Nhu2dc",
-    "atualizado_em": "2026-10-01T21:23:31.618-03:00"
   }
 ]
