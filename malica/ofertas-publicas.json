@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8S9X2DR",
+    "titulo": "Granado Sabonete Glicerinado Bebê, Tradicional, 90g, 12 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71XG-pGBrIL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8S9X2DR?tag=malica09-20",
+    "atualizado_em": "2026-10-03T08:30:45.462-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73900526",
     "titulo": "Colflex Whey Protein Baunilha 10 Sachês 20g De Proteína Baunilha",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
