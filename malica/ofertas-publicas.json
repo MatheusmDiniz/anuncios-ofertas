@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1241453684.58256027225",
+    "titulo": "CONJUNTO INFANTIL MENINA FRANZIDO SOLTINHO E CALÇA COM TECIDO ROSA DE POÁ DE CORAÇÃO FASHION",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnn3h9dr20w7b",
+    "preco": 39.9,
+    "preco_anterior": 249.37,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3B7rzcgYWF",
+    "atualizado_em": "2026-10-03T20:03:14.134-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26234856",
     "titulo": "Totokinha Cardoso Toys Carrinho Andador Triciclo Menino Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_705389-MLA118512524509_092026-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/18sA7ah",
     "atualizado_em": "2026-10-02T08:05:42.232-03:00"
-  },
-  {
-    "id": "amazon:B0C2Z63CMP",
-    "titulo": "Oferta: TakTark Babá Eletrônica, 5\" 720P HD Bebê Câmera com Tela, Sem Wifi, Panorâmica Inclinação, Áudio Bidirecional, Night Vision, Zoom Digital, Detecção De Som Vox, Ideal Para Novos Pais",
-    "imagem": "https://m.media-amazon.com/images/I/612CGjAtCxL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2Z63CMP?tag=malica09-20",
-    "atualizado_em": "2026-10-02T08:00:34.104-03:00"
   }
 ]
