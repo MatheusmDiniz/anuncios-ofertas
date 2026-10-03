@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F9MSZW9D",
+    "titulo": "Kit Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61RjPmc4DmL._AC_SL1500_.jpg",
+    "preco": 30,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F9MSZW9D?tag=malica09-20",
+    "atualizado_em": "2026-10-03T10:43:34.353-03:00"
+  },
+  {
     "id": "shopee:499237034.23494940307",
     "titulo": "Macacão Macaquinho Jardineira Jeans Infantil Feminino 2 a 4 Anos Confortável e Estiloso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mscqje7wjcw422",
