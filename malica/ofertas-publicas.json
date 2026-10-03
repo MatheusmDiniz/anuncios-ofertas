@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GHZS3B4S",
+    "titulo": "Oferta: Livro Educativo Interativo de Palavras para Bebê Azul - Maxi Baby",
+    "imagem": "https://m.media-amazon.com/images/I/61+bVS32ihL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GHZS3B4S?tag=malica09-20",
+    "atualizado_em": "2026-10-03T15:41:21.379-03:00"
+  },
+  {
     "id": "amazon:B0DVTBWQ8Q",
     "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
