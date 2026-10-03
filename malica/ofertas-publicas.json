@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C4Z5HYLW",
+    "titulo": "Buba, Massageador De Gengiva Banana Cerdas Curtas",
+    "imagem": "https://m.media-amazon.com/images/I/51DIF160lnL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C4Z5HYLW?tag=malica09-20",
+    "atualizado_em": "2026-10-03T15:46:26.083-03:00"
+  },
+  {
     "id": "amazon:B0GHZS3B4S",
     "titulo": "Oferta: Livro Educativo Interativo de Palavras para Bebê Azul - Maxi Baby",
     "imagem": "https://m.media-amazon.com/images/I/61+bVS32ihL._AC_SL1500_.jpg",
