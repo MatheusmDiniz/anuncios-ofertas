@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DYPJRPGG",
+    "titulo": "Oferta: Disney Pelúcia Boo Big Feet 30cm",
+    "imagem": "https://m.media-amazon.com/images/I/61b+WuDWyxL._AC_SL1500_.jpg",
+    "preco": 213.9,
+    "preco_anterior": 349,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DYPJRPGG?tag=malica09-20",
+    "atualizado_em": "2026-10-03T15:20:36.961-03:00"
+  },
+  {
     "id": "shopee:382759839.23997651015",
     "titulo": "Body Bebe Menina Recem Nascido Gola Bordada",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly0d61dze7y737",
