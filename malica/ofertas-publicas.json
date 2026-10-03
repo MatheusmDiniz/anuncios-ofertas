@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26234856",
+    "titulo": "Totokinha Cardoso Toys Carrinho Andador Triciclo Menino Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705389-MLA118512524509_092026-F.jpg",
+    "preco": 119.99,
+    "preco_anterior": 219.89,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1x5k8s9",
+    "atualizado_em": "2026-10-03T19:58:08.343-03:00"
+  },
+  {
     "id": "amazon:B07GG1R78H",
     "titulo": "Gerber Bodies de manga curta para bebês meninas, pacote com 8, nuvens, 0-3 Meses",
     "imagem": "https://m.media-amazon.com/images/I/71B5Aj1A96L._AC_SL1500_.jpg",
