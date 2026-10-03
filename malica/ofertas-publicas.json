@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8537642843",
+    "titulo": "Amigos de Feltro: Olá, Mercado! : Really Decent Books, Ribeiro, Ana Cristina de Mattos, Sido, Barbi: Amazon.com.br: Livros",
+    "imagem": "https://m.media-amazon.com/images/I/61VcDgl7q6L._AC_SL1500_.jpg",
+    "preco": 42,
+    "preco_anterior": 89,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8537642843?tag=malica09-20",
+    "atualizado_em": "2026-10-03T11:19:41.168-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25863440",
     "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
