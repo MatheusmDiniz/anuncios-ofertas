@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095R9CKYR",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71DAxC1Pu4L._AC_SL1500_.jpg",
+    "preco": 35.26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=malica09-20",
+    "atualizado_em": "2026-10-03T08:40:59.000-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76312233",
     "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_873811-MLA115148469576_082026-F.jpg",
