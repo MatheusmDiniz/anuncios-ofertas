@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1548840920.23994217755",
+    "titulo": "Blusa de frio Moletom com capuz infanto juvenil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mpms3wgeld6qd3",
+    "preco": 58.74,
+    "preco_anterior": 89,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6q1Cm8qUxM",
+    "atualizado_em": "2026-10-03T20:38:57.862-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68012260",
     "titulo": "Grades De Cama Proteção Ajust 68cm Grades Segurança 3 Grades Branco Para Metal Madeira Solteiro Casal Para Idoso Gestante Protecao Para Nao Cair Da Cama Box Bebe Protetor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_981005-MLA110457295999_042026-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GVLRKHVJ?tag=malica09-20",
     "atualizado_em": "2026-10-02T08:41:31.390-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35340738",
-    "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
-    "preco": 199.9,
-    "preco_anterior": 353.73,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WBKSRz",
-    "atualizado_em": "2026-10-02T08:36:25.343-03:00"
   }
 ]
