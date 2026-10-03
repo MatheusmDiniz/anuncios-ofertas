@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0913GHM1X",
+    "titulo": "Toyster - Hora do Banho - Fundo do Mar - BDA",
+    "imagem": "https://m.media-amazon.com/images/I/71CriacEiYL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0913GHM1X?tag=malica09-20",
+    "atualizado_em": "2026-10-03T14:28:52.364-03:00"
+  },
+  {
     "id": "amazon:B0C6KZCY6Z",
     "titulo": "Cadeirinha Único Evo i-Size com Isofix e Top Tether 40–150cm Preto Chicco – 6087030950000",
     "imagem": "https://m.media-amazon.com/images/I/61vCqNAY53L._AC_SL1500_.jpg",
