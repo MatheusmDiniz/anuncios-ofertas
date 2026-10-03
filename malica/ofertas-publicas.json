@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:504372049.58263057596",
+    "titulo": "Calça Flare Infantil Juvenil Menina Feminina Confortável Tamanho 2 ao 16",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mptq0ni9llabfe",
+    "preco": 26.9,
+    "preco_anterior": 59.78,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8Kpy9EtOTS",
+    "atualizado_em": "2026-10-02T21:46:22.646-03:00"
+  },
+  {
     "id": "shopee:396723953.48056685219",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1gCbuXb",
     "atualizado_em": "2026-10-01T21:49:10.927-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39454111",
-    "titulo": "Andador Empurrador Didático Infantil Educativo Musical Bebê Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818783-MLA99502212670_112025-F.jpg",
-    "preco": 95.7,
-    "preco_anterior": 170.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26Lk5XZ",
-    "atualizado_em": "2026-10-01T21:44:02.230-03:00"
   }
 ]
