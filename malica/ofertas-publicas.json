@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YMQ9Z5K",
+    "titulo": "Cosco Kids, Berço Co-bed Pluggy, 0 a 9kg, Cinza Escuro",
+    "imagem": "https://m.media-amazon.com/images/I/51NsDk2w21L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YMQ9Z5K?tag=malica09-20",
+    "atualizado_em": "2026-10-03T20:54:15.487-03:00"
+  },
+  {
     "id": "shopee:378486926.58263443418",
     "titulo": "Bota Infantil Menina Coturno Cano Curto Feminina Blogueira Juvenil Tratorada",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mr7dzhf6p0cl83",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26WmrW9",
     "atualizado_em": "2026-10-02T08:57:19.547-03:00"
-  },
-  {
-    "id": "amazon:B0FRZVDCDH",
-    "titulo": "Banheira Bebê Dobrável Cinza com Termômetro Digital, Portátil e Compacta para Viagem e Apartamento",
-    "imagem": "https://m.media-amazon.com/images/I/51-tet2Jl+L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FRZVDCDH?tag=malica09-20",
-    "atualizado_em": "2026-10-02T08:52:11.816-03:00"
   }
 ]
