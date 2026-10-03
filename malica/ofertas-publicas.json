@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40049318",
+    "titulo": "Tapete De Atividades Dupla Face Happy Friends 18089 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928076-MLA96079743717_102025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 233.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1HNUrRh",
+    "atualizado_em": "2026-10-03T08:56:18.600-03:00"
+  },
+  {
     "id": "amazon:B0CKGH17PF",
     "titulo": "La Roche-Posay Cicaplast B5 Baby, Creme Multirreparador Calmante, 40ml : Amazon.com.br: Beleza",
     "imagem": "https://m.media-amazon.com/images/I/51x2OmgGvoL._AC_SL1500_.jpg",
