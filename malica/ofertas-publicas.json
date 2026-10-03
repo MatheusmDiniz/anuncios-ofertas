@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75984769",
+    "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
+    "preco": 174.5,
+    "preco_anterior": 329.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2U76gEk",
+    "atualizado_em": "2026-10-03T20:44:05.613-03:00"
+  },
+  {
     "id": "shopee:1548840920.23994217755",
     "titulo": "Blusa de frio Moletom com capuz infanto juvenil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mpms3wgeld6qd3",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KMYQuC",
     "atualizado_em": "2026-10-02T08:46:39.787-03:00"
-  },
-  {
-    "id": "amazon:B0GVLRKHVJ",
-    "titulo": "Fórmula Infantil Aptanutri Profutura Gold 800g - Com prebióticos, HMO, DHA e ARA. : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/61k22Cc3EEL._AC_SL1500_.jpg",
-    "preco": 107,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GVLRKHVJ?tag=malica09-20",
-    "atualizado_em": "2026-10-02T08:41:31.390-03:00"
   }
 ]
