@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28487537",
+    "titulo": "Berço Sonata Cor Cinza - Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
+    "preco": 367.9,
+    "preco_anterior": 651.23,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2N9M5Ks",
+    "atualizado_em": "2026-10-03T11:24:48.392-03:00"
+  },
+  {
     "id": "amazon:8537642843",
     "titulo": "Amigos de Feltro: Olá, Mercado! : Really Decent Books, Ribeiro, Ana Cristina de Mattos, Sido, Barbi: Amazon.com.br: Livros",
     "imagem": "https://m.media-amazon.com/images/I/61VcDgl7q6L._AC_SL1500_.jpg",
