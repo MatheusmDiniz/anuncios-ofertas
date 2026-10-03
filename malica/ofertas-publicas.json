@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73900526",
+    "titulo": "Colflex Whey Protein Baunilha 10 Sachês 20g De Proteína Baunilha",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
+    "preco": 100,
+    "preco_anterior": 178,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1rQmiNA",
+    "atualizado_em": "2026-10-03T08:25:40.307-03:00"
+  },
+  {
     "id": "amazon:B0HBRPYMQN",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61DVlVQZn-L._AC_SL1500_.jpg",
