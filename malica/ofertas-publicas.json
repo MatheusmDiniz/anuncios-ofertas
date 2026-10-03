@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:499950777.22198012044",
+    "titulo": "Tenis Infantil Menino Masculino Sapato Infantil Menino Tenis Infantil Masculino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-msy1v6auq5frc1",
+    "preco": 59.9,
+    "preco_anterior": 99.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1LgEdFZ6up",
+    "atualizado_em": "2026-10-02T21:31:04.902-03:00"
+  },
+  {
     "id": "shopee:378105312.20997656316",
     "titulo": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B092VCF3V8?tag=malica09-20",
     "atualizado_em": "2026-10-01T21:33:44.838-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39593892",
-    "titulo": "Baby Style Cadeira de balanço para bebês descanso automatico Rosa Liso",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_783110-MLA95676692076_102025-F.jpg",
-    "preco": 371,
-    "preco_anterior": 831.3,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EC2FC9",
-    "atualizado_em": "2026-10-01T21:28:39.845-03:00"
   }
 ]
