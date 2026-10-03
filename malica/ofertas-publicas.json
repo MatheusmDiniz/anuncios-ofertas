@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1624354211.58259642577",
+    "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
+    "preco": 18.5,
+    "preco_anterior": 45.12,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50ZWzvn1k7",
+    "atualizado_em": "2026-10-02T21:15:48.897-03:00"
+  },
+  {
     "id": "shopee:1156409244.58208474935",
     "titulo": "Kit 2 Blusa Infantil Forrada Jaquetas Escolar Infantil Unissex - Moletom Premium (Tam. 4 ao 16)",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mmtjdl36qcjo5c",
@@ -1608,15 +1618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CCZYS6KP?tag=malica09-20",
     "atualizado_em": "2026-10-01T21:18:22.353-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB48920952",
-    "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
-    "preco": 188.11,
-    "preco_anterior": 346.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1aiY5ux",
-    "atualizado_em": "2026-10-01T21:13:17.862-03:00"
   }
 ]
