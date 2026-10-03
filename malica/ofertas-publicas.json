@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63962761",
+    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SJwgA7",
+    "atualizado_em": "2026-10-03T17:08:22.191-03:00"
+  },
+  {
     "id": "amazon:B0DPLCX6PL",
     "titulo": "Sallve Protetor Solar Bastão Antimachas FPS 90 com Cor 3-15g",
     "imagem": "https://m.media-amazon.com/images/I/41yN4XuNUtL._AC_SL1500_.jpg",
