@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:319034520.21271819518",
+    "titulo": "Calça jeans wide leg  com desenho estilo pantalona infantil juvenil 10 aos 16",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qlugmqwf95cb",
+    "preco": 49.99,
+    "preco_anterior": 83.32,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8AWXwvu1oP",
+    "atualizado_em": "2026-10-02T21:36:10.441-03:00"
+  },
+  {
     "id": "shopee:499950777.22198012044",
     "titulo": "Tenis Infantil Menino Masculino Sapato Infantil Menino Tenis Infantil Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-msy1v6auq5frc1",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2nzh1nh",
     "atualizado_em": "2026-10-01T21:38:54.721-03:00"
-  },
-  {
-    "id": "amazon:B092VCF3V8",
-    "titulo": "Oferta: Roupa Íntima Bigfral Moviment Feminina G/XG 7 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61wxYkBwRxL._AC_SL1500_.jpg",
-    "preco": 23.45,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B092VCF3V8?tag=malica09-20",
-    "atualizado_em": "2026-10-01T21:33:44.838-03:00"
   }
 ]
