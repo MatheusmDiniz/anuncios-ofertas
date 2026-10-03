@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.19598019373",
+    "titulo": "Kit Básico 10 Peças Roupa Bebê Menino - 5 Camisetas Básicas + 5 Bermudas - 5 Conjuntos Lisos Bebê Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moyaaziysoarc3",
+    "preco": 93.89,
+    "preco_anterior": 149.03,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4fwfmNaqTY",
+    "atualizado_em": "2026-10-03T20:13:25.860-03:00"
+  },
+  {
     "id": "shopee:533413030.23897094852",
     "titulo": "Macacão Curto Babado Minimalista Bebê Menina - Até 12 Meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mt2jrpfxr5z922",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2S32iHA",
     "atualizado_em": "2026-10-02T08:15:56.552-03:00"
-  },
-  {
-    "id": "amazon:8589987388",
-    "titulo": "Oferta: Cocô, Xixi e Pum!: Adeus, fralda! - Livro infantil de auxílio no desfralde: Adeus, fralda!",
-    "imagem": "https://m.media-amazon.com/images/I/61i8NGzRAfL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/8589987388?tag=malica09-20",
-    "atualizado_em": "2026-10-02T08:10:48.799-03:00"
   }
 ]
