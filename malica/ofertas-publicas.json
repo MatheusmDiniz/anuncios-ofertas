@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0HBRPYMQN",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61DVlVQZn-L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=malica09-20",
+    "atualizado_em": "2026-10-03T08:20:32.706-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56101048",
     "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
