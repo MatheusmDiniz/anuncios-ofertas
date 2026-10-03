@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68012260",
+    "titulo": "Grades De Cama Proteção Ajust 68cm Grades Segurança 3 Grades Branco Para Metal Madeira Solteiro Casal Para Idoso Gestante Protecao Para Nao Cair Da Cama Box Bebe Protetor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_981005-MLA110457295999_042026-F.jpg",
+    "preco": 139.05,
+    "preco_anterior": 259,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZcwE5G",
+    "atualizado_em": "2026-10-03T20:33:53.214-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53225985",
     "titulo": "Berço Americano Tutto New Freijó - Matic",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_655242-MLA95246448845_102025-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1WBKSRz",
     "atualizado_em": "2026-10-02T08:36:25.343-03:00"
-  },
-  {
-    "id": "amazon:B0BZ129NTZ",
-    "titulo": "Oferta: Samsung Lava e Seca WD11M com Digital Inverter WD11M4473PX Inox Look 11/7kg - 127V",
-    "imagem": "https://m.media-amazon.com/images/I/516qpWn6k2L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BZ129NTZ?tag=malica09-20",
-    "atualizado_em": "2026-10-02T08:31:15.940-03:00"
   }
 ]
