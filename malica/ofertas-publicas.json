@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CYTHS7N3",
+    "titulo": "Loção Hidratante Corporal CeraVe com Ácido Hialurônico e 3 Ceramidas Essenciais, 340ml : Amazon.com.br: Beleza",
+    "imagem": "https://m.media-amazon.com/images/I/41tgKRWO90L._AC_SL1500_.jpg",
+    "preco": 66.57,
+    "preco_anterior": 109.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CYTHS7N3?tag=malica09-20",
+    "atualizado_em": "2026-10-03T13:01:44.317-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29087253",
     "titulo": "Canguru Ergonômico Aiebao 3 em 1 Verde 12 Posições Tecido Premium",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_948546-MLA112251969120_062026-F.jpg",
