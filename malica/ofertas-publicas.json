@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29087253",
+    "titulo": "Canguru Ergonômico Aiebao 3 em 1 Verde 12 Posições Tecido Premium",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_948546-MLA112251969120_062026-F.jpg",
+    "preco": 120,
+    "preco_anterior": 249.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1H7nibT",
+    "atualizado_em": "2026-10-03T12:56:38.973-03:00"
+  },
+  {
     "id": "amazon:B07S57P35S",
     "titulo": "Lata Mini Personalizada Bee Deo Cologne, Ciclo, 100 Ml",
     "imagem": "https://m.media-amazon.com/images/I/51krmfiFLoL._AC_SL1500_.jpg",
