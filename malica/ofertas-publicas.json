@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22323833",
+    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
+    "preco": 99,
+    "preco_anterior": 185.57,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yoBH4h",
+    "atualizado_em": "2026-10-03T18:20:53.013-03:00"
+  },
+  {
     "id": "amazon:B093RCP1K4",
     "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
     "imagem": "https://m.media-amazon.com/images/I/61RtvUJd1kL._AC_SL1500_.jpg",
