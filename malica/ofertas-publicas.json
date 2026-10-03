@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DYG9DDLV",
+    "titulo": "Creme para Assadura João e Maria 40g",
+    "imagem": "https://m.media-amazon.com/images/I/61MsvDG0cgL._AC_SL1500_.jpg",
+    "preco": 9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DYG9DDLV?tag=malica09-20",
+    "atualizado_em": "2026-10-02T21:05:38.554-03:00"
+  },
+  {
     "id": "shopee:1573559015.43327284969",
     "titulo": "Mini Potes para Congelar Papinha c/ Tampa Hermética Porta Leita em pó Frutas para Bebe adultos Kit c/2/4/8/16",
     "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mic3d2r0aaknfd",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11a9Z7t",
     "atualizado_em": "2026-10-01T21:08:09.254-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68877254",
-    "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
-    "preco": 358,
-    "preco_anterior": 788.7,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jUsuSp",
-    "atualizado_em": "2026-10-01T21:03:01.004-03:00"
   }
 ]
