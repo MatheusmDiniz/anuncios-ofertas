@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXJ12QQ",
+    "titulo": "Huggies Fralda Supreme Care M 196 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
+    "preco": 161.4,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
+    "atualizado_em": "2026-10-03T09:01:23.410-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40049318",
     "titulo": "Tapete De Atividades Dupla Face Happy Friends 18089 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928076-MLA96079743717_102025-F.jpg",
