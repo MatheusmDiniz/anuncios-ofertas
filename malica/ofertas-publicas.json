@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1156409244.58208474935",
+    "titulo": "Kit 2 Blusa Infantil Forrada Jaquetas Escolar Infantil Unissex - Moletom Premium (Tam. 4 ao 16)",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mmtjdl36qcjo5c",
+    "preco": 37.79,
+    "preco_anterior": 89.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7faIApCXtj",
+    "atualizado_em": "2026-10-02T21:10:43.692-03:00"
+  },
+  {
     "id": "amazon:B0DYG9DDLV",
     "titulo": "Creme para Assadura João e Maria 40g",
     "imagem": "https://m.media-amazon.com/images/I/61MsvDG0cgL._AC_SL1500_.jpg",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1aiY5ux",
     "atualizado_em": "2026-10-01T21:13:17.862-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56104304",
-    "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
-    "preco": 132.62,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11a9Z7t",
-    "atualizado_em": "2026-10-01T21:08:09.254-03:00"
   }
 ]
