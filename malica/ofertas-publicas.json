@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6526109268",
+    "titulo": "Sentimentômetro",
+    "imagem": "https://m.media-amazon.com/images/I/71xqEj2EW8L._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": 64,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6526109268?tag=malica09-20",
+    "atualizado_em": "2026-10-04T12:44:44.723-03:00"
+  },
+  {
     "id": "amazon:B0D2DPCP55",
     "titulo": "Elka Bluey, Brinquedo, boneco de ação, 2+ Anos",
     "imagem": "https://m.media-amazon.com/images/I/619Z3Zol2IL._AC_SL1500_.jpg",
