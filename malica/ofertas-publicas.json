@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BKLM298N",
+    "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
+    "imagem": "https://m.media-amazon.com/images/I/810rIzQ5ptL._AC_SL1500_.jpg",
+    "preco": 78,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BKLM298N?tag=malica09-20",
+    "atualizado_em": "2026-10-04T09:38:22.695-03:00"
+  },
+  {
     "id": "shopee:1171546418.22294468216",
     "titulo": "Mini Potes Para Congelar Papinha Com Tampa Vasilha De Plástico Livre De BPA Beber Adultos",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9uenmahtza75",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYlagr2iY",
     "atualizado_em": "2026-10-02T21:41:15.779-03:00"
-  },
-  {
-    "id": "shopee:319034520.21271819518",
-    "titulo": "Calça jeans wide leg  com desenho estilo pantalona infantil juvenil 10 aos 16",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qlugmqwf95cb",
-    "preco": 49.99,
-    "preco_anterior": 83.32,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AWXwvu1oP",
-    "atualizado_em": "2026-10-02T21:36:10.441-03:00"
   }
 ]
