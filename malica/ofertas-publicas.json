@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXM1CSC2",
+    "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho G, 70 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+    "imagem": "https://m.media-amazon.com/images/I/81TPU8xgDyL._AC_SL1500_.jpg",
+    "preco": 94,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=malica09-20",
+    "atualizado_em": "2026-10-04T11:06:40.728-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
