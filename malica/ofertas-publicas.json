@@ -2148,35 +2148,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KzFaWC",
     "atualizado_em": "2026-10-02T17:25:09.749-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB57083030",
-    "titulo": "Triciclo Infantil Rosa Maral 2 em 1 Passeio e Pedal com Buzina",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631641-MLA115957780725_082026-F.jpg",
-    "preco": 309.9,
-    "preco_anterior": 546.77,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11FQymK",
-    "atualizado_em": "2026-10-02T17:20:00.704-03:00"
-  },
-  {
-    "id": "amazon:B0DJ17HW5V",
-    "titulo": "Oferta: LEGO Friends Caminhão de Sorvete de Heartlake City 42644",
-    "imagem": "https://m.media-amazon.com/images/I/81mx0VlX1AL._AC_SL1500_.jpg",
-    "preco": 123,
-    "preco_anterior": 179,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ17HW5V?tag=malica09-20",
-    "atualizado_em": "2026-10-02T17:14:51.362-03:00"
-  },
-  {
-    "id": "amazon:B0FQJVMFGB",
-    "titulo": "Cadeira Descanso Bebê Musical Polar Skyline Bege Maxi Baby : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/51PzRD0Vx2L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FQJVMFGB?tag=malica09-20",
-    "atualizado_em": "2026-10-02T17:09:46.248-03:00"
   }
 ]
