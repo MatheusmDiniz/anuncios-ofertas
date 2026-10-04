@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1010974641.22092500141",
+    "titulo": "Creme Multifuncional Infantil Salon Line #Todecachinho Baby 300Ml",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moprzgdr2qytcf",
+    "preco": 11.89,
+    "preco_anterior": 17.49,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1VzgQP9K9h",
+    "atualizado_em": "2026-10-03T21:24:50.777-03:00"
+  },
+  {
     "id": "amazon:B0BLJ4FDT4",
     "titulo": "LEGO Creator Ônibus Espacial 3em1: Nave Espacial 31134 | Brinquedos de Construção para Meninos e Meninas, Anos 6+, 144 Peças, Brinquedo Espacial, Presente para Crianças",
     "imagem": "https://m.media-amazon.com/images/I/71lhVag75AL._AC_SL1500_.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1w1GzPb",
     "atualizado_em": "2026-10-02T09:28:07.471-03:00"
-  },
-  {
-    "id": "amazon:B099KTC5VJ",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
-    "preco": 23,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
-    "atualizado_em": "2026-10-02T09:22:56.192-03:00"
   }
 ]
