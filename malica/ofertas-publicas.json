@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D98VDMS1",
+    "titulo": "Nathor Bicicleta Infantil Balance Bike Love : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/712LjkU1YjL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D98VDMS1?tag=malica09-20",
+    "atualizado_em": "2026-10-04T20:30:46.422-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB67677338",
     "titulo": "3 Em 1 Carrinho Bebé ,dobrável,versátil E Prático! Reversíve Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_652266-MLA116730535923_082026-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1GeSHG1",
     "atualizado_em": "2026-10-03T08:35:53.575-03:00"
-  },
-  {
-    "id": "amazon:B0D8S9X2DR",
-    "titulo": "Granado Sabonete Glicerinado Bebê, Tradicional, 90g, 12 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71XG-pGBrIL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D8S9X2DR?tag=malica09-20",
-    "atualizado_em": "2026-10-03T08:30:45.462-03:00"
   }
 ]
