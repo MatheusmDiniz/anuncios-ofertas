@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45780583",
+    "titulo": "Cercadinho Para Bebê Chiqueirinho Infantil Portátil Unissex Cor Azul Desenho Do Tecido Balão",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810826-MLA91562773532_092025-F.jpg",
+    "preco": 110,
+    "preco_anterior": 220,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WvJ5Ms",
+    "atualizado_em": "2026-10-04T20:56:25.387-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22621537",
     "titulo": "Kit Creator 31134 Ônibus Espacial 144 Peças Lego",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_902000-MLA99475406048_112025-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
     "atualizado_em": "2026-10-03T09:01:23.410-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40049318",
-    "titulo": "Tapete De Atividades Dupla Face Happy Friends 18089 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928076-MLA96079743717_102025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 233.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HNUrRh",
-    "atualizado_em": "2026-10-03T08:56:18.600-03:00"
   }
 ]
