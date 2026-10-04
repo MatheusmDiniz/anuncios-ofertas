@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22953629",
+    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
+    "preco": 258.16,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yKShtn",
+    "atualizado_em": "2026-10-04T11:01:37.151-03:00"
+  },
+  {
     "id": "amazon:B0C9L6KXQB",
     "titulo": "Philips Avent Mamadeira Pétala 3.0 11oz/330ml com bico de fluxo rápido (Fluxo 4), SCY906/01",
     "imagem": "https://m.media-amazon.com/images/I/51LHkP+2nKL._AC_SL1500_.jpg",
