@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24198840",
+    "titulo": "Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Cor Avelã LuckBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662503-MLA96116062255_102025-F.jpg",
+    "preco": 112,
+    "preco_anterior": 189,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/111oD2o",
+    "atualizado_em": "2026-10-03T21:55:33.344-03:00"
+  },
+  {
     "id": "shopee:1284908088.23099568593",
     "titulo": "Moletom Canguru Masculino Estampado Ny Urso Infantil Feminino 100% Algodão Premium Reforçado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mr1nhrou169x9e",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FFC3YTN?tag=malica09-20",
     "atualizado_em": "2026-10-02T09:58:50.004-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58214519187",
-    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
-    "preco": 47.89,
-    "preco_anterior": 108.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qcSnsmQG5",
-    "atualizado_em": "2026-10-02T09:53:43.787-03:00"
   }
 ]
