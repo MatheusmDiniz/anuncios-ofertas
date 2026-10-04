@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67677338",
+    "titulo": "3 Em 1 Carrinho Bebé ,dobrável,versátil E Prático! Reversíve Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652266-MLA116730535923_082026-F.jpg",
+    "preco": 734.51,
+    "preco_anterior": 1499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19bFswm",
+    "atualizado_em": "2026-10-04T20:25:42.336-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69331466",
     "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D8S9X2DR?tag=malica09-20",
     "atualizado_em": "2026-10-03T08:30:45.462-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73900526",
-    "titulo": "Colflex Whey Protein Baunilha 10 Sachês 20g De Proteína Baunilha",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
-    "preco": 100,
-    "preco_anterior": 178,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1rQmiNA",
-    "atualizado_em": "2026-10-03T08:25:40.307-03:00"
   }
 ]
