@@ -2678,35 +2678,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C21TY79Q?tag=malica09-20",
     "atualizado_em": "2026-10-02T12:53:02.381-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47549605",
-    "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
-    "preco": 229.9,
-    "preco_anterior": 399.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zvgDVv",
-    "atualizado_em": "2026-10-02T12:47:58.345-03:00"
-  },
-  {
-    "id": "amazon:B0C9W3MZV2",
-    "titulo": "Sabonete Nutritivo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
-    "preco": 34,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
-    "atualizado_em": "2026-10-02T12:42:51.286-03:00"
-  },
-  {
-    "id": "amazon:B0C9W32C1J",
-    "titulo": "Loção Hidratante Corporal Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1500_.jpg",
-    "preco": 47,
-    "preco_anterior": 86,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9W32C1J?tag=malica09-20",
-    "atualizado_em": "2026-10-02T12:37:45.790-03:00"
   }
 ]
