@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRHZDR",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
+    "preco": 43,
+    "preco_anterior": 62,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=malica09-20",
+    "atualizado_em": "2026-10-04T14:52:40.488-03:00"
+  },
+  {
     "id": "shopee:325954291.55863571735",
     "titulo": "Macacão Vestido Canelado Conjunto Laço Fofo Body Tapa Fralda Conforto",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mqf909kghn9da0",
