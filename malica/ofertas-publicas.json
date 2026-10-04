@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB30165309",
+    "titulo": "Conjunto Piscina Glam Com Boneca Barbie Com Maiô Rosa Multicolor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706830-MLA99544928706_122025-F.jpg",
+    "preco": 166.88,
+    "preco_anterior": 378.68,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2i17GsX",
+    "atualizado_em": "2026-10-04T09:17:55.225-03:00"
+  },
+  {
     "id": "shopee:432628853.58208814983",
     "titulo": "Capa de Chuva Infantil Adulto Com Capuz Botão Material Impermeável Colorida e Galaxy Transparente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mn0lrmed11qa1f",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BUHF3VtZx",
     "atualizado_em": "2026-10-02T21:20:53.871-03:00"
-  },
-  {
-    "id": "shopee:1624354211.58259642577",
-    "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
-    "preco": 18.5,
-    "preco_anterior": 45.12,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50ZWzvn1k7",
-    "atualizado_em": "2026-10-02T21:15:48.897-03:00"
   }
 ]
