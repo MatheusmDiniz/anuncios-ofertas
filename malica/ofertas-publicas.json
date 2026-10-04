@@ -2558,35 +2558,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093QCF4PM?tag=malica09-20",
     "atualizado_em": "2026-10-02T13:54:48.658-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25997831",
-    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
-    "preco": 73.13,
-    "preco_anterior": 144.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2X546Yw",
-    "atualizado_em": "2026-10-02T13:49:18.802-03:00"
-  },
-  {
-    "id": "amazon:B07M73VVLV",
-    "titulo": "Fórmula Infantil Aptamil Pepti Danone Nutricia 800g",
-    "imagem": "https://m.media-amazon.com/images/I/71NlmnTPujL._AC_SL1500_.jpg",
-    "preco": 300,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07M73VVLV?tag=malica09-20",
-    "atualizado_em": "2026-10-02T13:44:10.682-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38625704",
-    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
-    "preco": 193.72,
-    "preco_anterior": 329.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ofsJJZ",
-    "atualizado_em": "2026-10-02T13:39:05.145-03:00"
   }
 ]
