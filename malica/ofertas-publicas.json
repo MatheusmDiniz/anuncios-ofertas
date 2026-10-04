@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KPR97P",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61lR2jbdarL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KPR97P?tag=malica09-20",
+    "atualizado_em": "2026-10-04T11:16:53.321-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29298117",
     "titulo": "Bicicleta De Equilibrio Infantil 4 Rodas Vermelho - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_851787-MLU77882833591_072024-F.jpg",
