@@ -2468,35 +2468,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B01N7W4YLV?tag=malica09-20",
     "atualizado_em": "2026-10-02T14:40:52.937-03:00"
-  },
-  {
-    "id": "amazon:B07MBTSMM8",
-    "titulo": "Neslac Comfor - Composto Lácteo, 800g",
-    "imagem": "https://m.media-amazon.com/images/I/815GVNMYL7L._AC_SL1500_.jpg",
-    "preco": 64,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=malica09-20",
-    "atualizado_em": "2026-10-02T14:35:46.694-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28203800",
-    "titulo": "Trocador Portátil Bege de Algodão Impermeável Batistela Baby Dobrável Lavável Unissex",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908952-MLA113098695541_062026-F.jpg",
-    "preco": 107,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ms1HNX",
-    "atualizado_em": "2026-10-02T14:30:42.849-03:00"
-  },
-  {
-    "id": "amazon:B0H1T7241Z",
-    "titulo": "Oferta: Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
-    "imagem": "https://m.media-amazon.com/images/I/61VhNgOsi8L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H1T7241Z?tag=malica09-20",
-    "atualizado_em": "2026-10-02T14:25:34.069-03:00"
   }
 ]
