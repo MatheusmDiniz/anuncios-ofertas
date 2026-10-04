@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JXP4NFR",
+    "titulo": "Buba Garrafinha De Aluminio Animal Fun Macaco Colorido",
+    "imagem": "https://m.media-amazon.com/images/I/51I9KBS9ALL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JXP4NFR?tag=malica09-20",
+    "atualizado_em": "2026-10-04T11:58:03.858-03:00"
+  },
+  {
     "id": "shopee:1384111782.23093553774",
     "titulo": "Patinete infantil 3 rodas com led luzes dobrável ajustável menino menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mpnps4fzbfuoca",
