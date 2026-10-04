@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53365359",
+    "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
+    "preco": 222,
+    "preco_anterior": 619,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2W2q7qJ",
+    "atualizado_em": "2026-10-04T20:40:59.940-03:00"
+  },
+  {
     "id": "amazon:6598316502",
     "titulo": "Oferta: Pró-Games - Bíblia em Quadrinhos",
     "imagem": "https://m.media-amazon.com/images/I/61ti-t1kHNL._AC_SL1500_.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2UiMkzX",
     "atualizado_em": "2026-10-03T08:46:06.914-03:00"
-  },
-  {
-    "id": "amazon:B095R9CKYR",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71DAxC1Pu4L._AC_SL1500_.jpg",
-    "preco": 35.26,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095R9CKYR?tag=malica09-20",
-    "atualizado_em": "2026-10-03T08:40:59.000-03:00"
   }
 ]
