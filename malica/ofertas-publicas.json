@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21458216",
+    "titulo": "Ursinho Que Reza Rosa Urso De Pelucia Hipoalergênico Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823797-MLA96103244877_102025-F.jpg",
+    "preco": 99,
+    "preco_anterior": 185.57,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1YPSy87",
+    "atualizado_em": "2026-10-04T15:18:08.052-03:00"
+  },
+  {
     "id": "amazon:B08Y1Z25MG",
     "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
