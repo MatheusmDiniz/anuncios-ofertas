@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21847238",
+    "titulo": "Triciclo Infantil Dobravel Vermelho E Preto Clingo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933519-MLA99954632043_112025-F.jpg",
+    "preco": 132.28,
+    "preco_anterior": 229.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2v9b1hJ",
+    "atualizado_em": "2026-10-04T12:13:48.907-03:00"
+  },
+  {
     "id": "amazon:B08287SRQ9",
     "titulo": "Pais E Filhos Pais & Filhos Mordedor Meu Controle Multi-Colored Tamanho Único",
     "imagem": "https://m.media-amazon.com/images/I/51rKJPLGn+L._AC_SL1500_.jpg",
