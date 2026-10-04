@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27405813",
+    "titulo": "Mesinha Didática Infantil Com 2 Cadeiras",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640135-MLA99465372484_112025-F.jpg",
+    "preco": 275.8,
+    "preco_anterior": 538.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cwX5ju",
+    "atualizado_em": "2026-10-03T21:45:19.770-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38139642",
     "titulo": "Burigotto Berço Portátil Sonata Beige, Cor Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_651744-MLU78008533742_082024-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
     "atualizado_em": "2026-10-02T09:48:36.798-03:00"
-  },
-  {
-    "id": "shopee:341167297.20698276094",
-    "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
-    "preco": 29.89,
-    "preco_anterior": 69.51,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9AP3XMkyKr",
-    "atualizado_em": "2026-10-02T09:43:31.741-03:00"
   }
 ]
