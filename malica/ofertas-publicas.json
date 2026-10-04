@@ -2298,35 +2298,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2A9fsGm",
     "atualizado_em": "2026-10-02T16:08:03.337-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53258842",
-    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
-    "preco": 257,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ovyxhc",
-    "atualizado_em": "2026-10-02T16:02:54.709-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26761691",
-    "titulo": "Atentu Cercadinho para bebê chiqueirinho criança cor cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_803480-MLA95708522314_102025-F.jpg",
-    "preco": 129.9,
-    "preco_anterior": 219.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1UzZBpp",
-    "atualizado_em": "2026-10-02T15:57:47.018-03:00"
-  },
-  {
-    "id": "amazon:B0CVYNQB78",
-    "titulo": "Maxi Baby Lixeira Antiodor Descarte de Fraldas Lixo Mágico, Branco",
-    "imagem": "https://m.media-amazon.com/images/I/31aN8UI2CZL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CVYNQB78?tag=malica09-20",
-    "atualizado_em": "2026-10-02T15:52:38.547-03:00"
   }
 ]
