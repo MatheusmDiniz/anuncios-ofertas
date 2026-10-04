@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61758376",
+    "titulo": "Andador Infantil 2 Em 1 Musical Interativo Rosa - Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644658-MLA97392217459_112025-F.jpg",
+    "preco": 129,
+    "preco_anterior": 219.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1pegqJk",
+    "atualizado_em": "2026-10-04T20:15:24.473-03:00"
+  },
+  {
     "id": "shopee:1073409580.20299601130",
     "titulo": "Bota Texana Infantil Menina Country Cano Longo com Ziper Lateral",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9z8qvawice182",
@@ -3018,15 +3028,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1feVhfA",
     "atualizado_em": "2026-10-03T08:15:27.906-03:00"
-  },
-  {
-    "id": "amazon:B07D2FXHM1",
-    "titulo": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/51kcPBSuPRL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=malica09-20",
-    "atualizado_em": "2026-10-03T08:10:20.840-03:00"
   }
 ]
