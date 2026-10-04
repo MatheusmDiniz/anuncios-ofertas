@@ -1918,35 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2SS1khn",
     "atualizado_em": "2026-10-02T19:23:36.152-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25997851",
-    "titulo": "Buba Treme-Treme De Atividades Zoo - Panda",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629314-MLA95633395326_102025-F.jpg",
-    "preco": 85.99,
-    "preco_anterior": 144.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HF8Zid",
-    "atualizado_em": "2026-10-02T19:18:29.091-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61794290",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
-    "preco": 445,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pF34v1",
-    "atualizado_em": "2026-10-02T19:13:21.648-03:00"
-  },
-  {
-    "id": "amazon:B0F6VX3TL7",
-    "titulo": "Zippy Toys Carro Elétrico M380 com Controle Remoto 6V, Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/51ajgkajzmL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F6VX3TL7?tag=malica09-20",
-    "atualizado_em": "2026-10-02T19:08:13.716-03:00"
   }
 ]
