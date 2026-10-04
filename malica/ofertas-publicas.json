@@ -2798,25 +2798,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1WN2eJH",
     "atualizado_em": "2026-10-02T11:51:16.200-03:00"
-  },
-  {
-    "id": "amazon:B07FN7VP6M+B07FNMB4QN",
-    "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
-    "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
-    "preco": 71,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=malica09-20",
-    "atualizado_em": "2026-10-02T11:46:03.719-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20969462",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa CGN63 4 Peças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
-    "preco": 81,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32opZnB",
-    "atualizado_em": "2026-10-02T11:40:57.984-03:00"
   }
 ]
