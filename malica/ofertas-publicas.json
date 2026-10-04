@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22621537",
+    "titulo": "Kit Creator 31134 Ônibus Espacial 144 Peças Lego",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_902000-MLA99475406048_112025-F.jpg",
+    "preco": 90.92,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Umn2Kf",
+    "atualizado_em": "2026-10-04T20:51:16.089-03:00"
+  },
+  {
     "id": "shopee:391751753.58210250288",
     "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1HNUrRh",
     "atualizado_em": "2026-10-03T08:56:18.600-03:00"
-  },
-  {
-    "id": "amazon:B0CKGH17PF",
-    "titulo": "La Roche-Posay Cicaplast B5 Baby, Creme Multirreparador Calmante, 40ml : Amazon.com.br: Beleza",
-    "imagem": "https://m.media-amazon.com/images/I/51x2OmgGvoL._AC_SL1500_.jpg",
-    "preco": 66.67,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CKGH17PF?tag=malica09-20",
-    "atualizado_em": "2026-10-03T08:51:10.194-03:00"
   }
 ]
