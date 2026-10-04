@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07VRYJWPC",
+    "titulo": "Repelente Elétrico Líquido SBP 45 Noites Cheiro Suave com 2 unidades de 32.9ml",
+    "imagem": "https://m.media-amazon.com/images/I/71OFi08UO7L._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07VRYJWPC?tag=malica09-20",
+    "atualizado_em": "2026-10-04T11:37:44.044-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB43475478",
     "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_685947-MLA109363931978_042026-F.jpg",
