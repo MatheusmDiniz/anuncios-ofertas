@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1412723396.22298125742",
+    "titulo": "Cavalinho Upa Upa Pula Pula Com Musical Direto Da Fabrica Oferta",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfgn-m438plnz9fyz30",
+    "preco": 42.99,
+    "preco_anterior": 99.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/60S5mdFGX3",
+    "atualizado_em": "2026-10-03T21:04:27.757-03:00"
+  },
+  {
     "id": "shopee:1304396058.23994733158",
     "titulo": "Kit C/3 Babador Bandana de Bebê 100% Algodão 23cm x 18cm - Sortidas ANJIN.B",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yt-miacax2t9pu0eb",
@@ -3008,15 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2GLwj9b",
     "atualizado_em": "2026-10-02T09:07:34.884-03:00"
-  },
-  {
-    "id": "amazon:B0FV4M4TYW",
-    "titulo": "Tapete de Água Inflável Interativo para Bebê, Estimulação Sensorial, Design Oceânico 3D, Material Seguro, Desenvolvimento Motor, para 3 Meses ou Mais",
-    "imagem": "https://m.media-amazon.com/images/I/61wk07iHhvL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FV4M4TYW?tag=malica09-20",
-    "atualizado_em": "2026-10-02T09:02:24.706-03:00"
   }
 ]
