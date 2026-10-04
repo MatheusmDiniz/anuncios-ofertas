@@ -2618,35 +2618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09T75PLY5?tag=malica09-20",
     "atualizado_em": "2026-10-02T13:23:42.608-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75004805",
-    "titulo": "Carrinho De Passeio Infantil Quadriciclo Andador Meninas Rosa Empurrador Baby Quad Com Buzina e Cinto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_709859-MLA114292500929_072026-F.jpg",
-    "preco": 356.9,
-    "preco_anterior": 598.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MxafFT",
-    "atualizado_em": "2026-10-02T13:18:37.312-03:00"
-  },
-  {
-    "id": "amazon:B08QG3H6YR",
-    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
-    "preco": 41,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
-    "atualizado_em": "2026-10-02T13:13:28.240-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72860329",
-    "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
-    "preco": 389.9,
-    "preco_anterior": 799.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zqDmPY",
-    "atualizado_em": "2026-10-02T13:08:24.085-03:00"
   }
 ]
