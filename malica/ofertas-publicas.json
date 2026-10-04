@@ -2498,35 +2498,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H1T7241Z?tag=malica09-20",
     "atualizado_em": "2026-10-02T14:25:34.069-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24219839",
-    "titulo": "Totokinha Cardoso Azul – Triciclo Infantil Sport 3 em 1 Super Divertido Seguro e Resistente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_914232-MLA99981969587_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 227.59,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kjy5hb",
-    "atualizado_em": "2026-10-02T14:20:28.193-03:00"
-  },
-  {
-    "id": "amazon:B079NSYCMM",
-    "titulo": "Bicicleta Arco Iris Infantil Aro 12 Branco e Rosa com Cestinha, Track Bikes : Amazon.com.br: Esporte",
-    "imagem": "https://m.media-amazon.com/images/I/81YEHM2pBEL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B079NSYCMM?tag=malica09-20",
-    "atualizado_em": "2026-10-02T14:15:19.720-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61271206",
-    "titulo": "Lego 77256 Máquina Do Tempo De Volta Para O Futuro 357 Pcs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874647-MLA95977700870_102025-F.jpg",
-    "preco": 300.14,
-    "preco_anterior": 692.91,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qTZmjN",
-    "atualizado_em": "2026-10-02T14:10:14.859-03:00"
   }
 ]
