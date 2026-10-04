@@ -2358,35 +2358,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DPNCNQK1?tag=malica09-20",
     "atualizado_em": "2026-10-02T15:36:58.735-03:00"
-  },
-  {
-    "id": "amazon:B09JVKRS42",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61CSoJu3bxL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=malica09-20",
-    "atualizado_em": "2026-10-02T15:31:54.884-03:00"
-  },
-  {
-    "id": "amazon:B0D8BV8JDG",
-    "titulo": "Zippy Toys, Mesa de Pebolim de Madeira 40,5 cm : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/61WsqxIVQdL._AC_SL1500_.jpg",
-    "preco": 74,
-    "preco_anterior": 137,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D8BV8JDG?tag=malica09-20",
-    "atualizado_em": "2026-10-02T15:26:48.781-03:00"
-  },
-  {
-    "id": "amazon:B0DK4975DJ",
-    "titulo": "NIVEA Kit Loção Hidratante Milk Pele Seca a Extrasseca 400ml (2 unidades)",
-    "imagem": "https://m.media-amazon.com/images/I/71Exl60wVRL._AC_SL1500_.jpg",
-    "preco": 9.95,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DK4975DJ?tag=malica09-20",
-    "atualizado_em": "2026-10-02T15:21:44.435-03:00"
   }
 ]
