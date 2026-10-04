@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07M59DPCJ",
+    "titulo": "Oferta: Pais, Filhos Jogo da Forca, Verde, Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/61r+IwFYwdL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": 39,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07M59DPCJ?tag=malica09-20",
+    "atualizado_em": "2026-10-04T14:22:04.707-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53778622",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_924822-MLA99991266225_112025-F.jpg",
