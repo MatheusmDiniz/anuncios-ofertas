@@ -2178,35 +2178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FQJVMFGB?tag=malica09-20",
     "atualizado_em": "2026-10-02T17:09:46.248-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19924449",
-    "titulo": "Mustela Gel Lavante Calmante para Pele Muito Sensível 300mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720160-MLA99845836617_112025-F.jpg",
-    "preco": 115,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1oxnSdK",
-    "atualizado_em": "2026-10-02T17:04:41.987-03:00"
-  },
-  {
-    "id": "amazon:6555478667",
-    "titulo": "Coleção Minhas Primeiras 101 Palavras - Box com 3 Livrinhos",
-    "imagem": "https://m.media-amazon.com/images/I/816JVGS0+xL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6555478667?tag=malica09-20",
-    "atualizado_em": "2026-10-02T16:59:34.035-03:00"
-  },
-  {
-    "id": "amazon:B0DMWGLN9C",
-    "titulo": "Oferta: Andador Amigo Macaco Aprenda Comigo Brinquedo Bebê Fisher-Price Mattel. Atividades educativas com apoio para andar. Ideal a partir dos 9 meses.",
-    "imagem": "https://m.media-amazon.com/images/I/71X8zgU9ylL._AC_SL1500_.jpg",
-    "preco": 199,
-    "preco_anterior": 349.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DMWGLN9C?tag=malica09-20",
-    "atualizado_em": "2026-10-02T16:54:04.564-03:00"
   }
 ]
