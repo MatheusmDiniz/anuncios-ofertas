@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GWDZY",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 90,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-10-04T09:59:12.386-03:00"
+  },
+  {
     "id": "shopee:1343438067.22894658086",
     "titulo": "Mochila-Protetor de Cabeça Bebê - Almofada de Amortecimento, Protege Cabeça e Costas",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fl-mglogd0rttzj2f",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BJS1M3L4?tag=malica09-20",
     "atualizado_em": "2026-10-03T08:00:10.236-03:00"
-  },
-  {
-    "id": "shopee:391739739.9830388367",
-    "titulo": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
-    "preco": 27.55,
-    "preco_anterior": 70.64,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20vvV9C9TO",
-    "atualizado_em": "2026-10-02T21:56:32.412-03:00"
   }
 ]
