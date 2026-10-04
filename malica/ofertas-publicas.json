@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GRJ9XVHD",
+    "titulo": "Likluc Xô Bactéria 0+ Higienizador antisséptico para bebês! | Mata 99,9% das Bactérias e Virus",
+    "imagem": "https://m.media-amazon.com/images/I/81+nmn4gH1L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GRJ9XVHD?tag=malica09-20",
+    "atualizado_em": "2026-10-04T09:49:01.661-03:00"
+  },
+  {
     "id": "shopee:1692649392.23794965742",
     "titulo": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mma3xkky1vk584",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3g49UCfL7V",
     "atualizado_em": "2026-10-02T21:51:28.416-03:00"
-  },
-  {
-    "id": "shopee:504372049.58263057596",
-    "titulo": "Calça Flare Infantil Juvenil Menina Feminina Confortável Tamanho 2 ao 16",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mptq0ni9llabfe",
-    "preco": 26.9,
-    "preco_anterior": 59.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8Kpy9EtOTS",
-    "atualizado_em": "2026-10-02T21:46:22.646-03:00"
   }
 ]
