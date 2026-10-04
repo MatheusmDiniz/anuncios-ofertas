@@ -2418,25 +2418,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qsS8kL",
     "atualizado_em": "2026-10-02T15:06:24.848-03:00"
-  },
-  {
-    "id": "amazon:B0F4G5NL2K",
-    "titulo": "Lenços Umedecidos Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
-    "atualizado_em": "2026-10-02T15:01:16.149-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42346236",
-    "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
-    "preco": 158.51,
-    "preco_anterior": 289.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2dXJChh",
-    "atualizado_em": "2026-10-02T14:56:11.681-03:00"
   }
 ]
