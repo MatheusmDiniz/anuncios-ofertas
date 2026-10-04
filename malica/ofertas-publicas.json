@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07SSFG5YY",
+    "titulo": "Removedor Manchas Roupa Bebê e Criança - Pré-Lavagem Remove Leite, Gordura, Papinha, Suco de Frutas - Tira Manchas Vegano, Biodegradável, Sem Cloro, Fragrância Suave | Xô Manchinhas - BioClub",
+    "imagem": "https://m.media-amazon.com/images/I/51HJF16PaGL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07SSFG5YY?tag=malica09-20",
+    "atualizado_em": "2026-10-04T08:31:48.761-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39156395",
     "titulo": "Almofada Para Amamentação Feeding G",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_989397-MLA95666849580_102025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7faFkbqgNg",
     "atualizado_em": "2026-10-02T20:35:07.834-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65079780",
-    "titulo": "Aquecedor E Esterilizador Mamadeira Bpa Free Para Bebe Quicko Aquecedor De Mamadeira Aquecedor De Mamadeira Usb Preparador De Mamadeira Com Kit Para Limpeza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_875082-MLA114650318643_072026-F.jpg",
-    "preco": 164.9,
-    "preco_anterior": 299.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2rrXFR3",
-    "atualizado_em": "2026-10-02T20:28:31.853-03:00"
   }
 ]
