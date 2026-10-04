@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1284908088.23099568593",
+    "titulo": "Moletom Canguru Masculino Estampado Ny Urso Infantil Feminino 100% Algodão Premium Reforçado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mr1nhrou169x9e",
+    "preco": 42.35,
+    "preco_anterior": 79.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7VGtZMnxbY",
+    "atualizado_em": "2026-10-03T21:50:25.706-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27405813",
     "titulo": "Mesinha Didática Infantil Com 2 Cadeiras",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_640135-MLA99465372484_112025-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qcSnsmQG5",
     "atualizado_em": "2026-10-02T09:53:43.787-03:00"
-  },
-  {
-    "id": "amazon:B0CGY6SGFY+B0CGYR8GBT+B0GW44JM3G",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
-    "preco": 106,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
-    "atualizado_em": "2026-10-02T09:48:36.798-03:00"
   }
 ]
