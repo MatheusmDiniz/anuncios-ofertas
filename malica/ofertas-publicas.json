@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21283759",
+    "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
+    "preco": 209.85,
+    "preco_anterior": 392.53,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2heMSHE",
+    "atualizado_em": "2026-10-04T20:05:11.035-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42137247",
     "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-F.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1gigjVd",
     "atualizado_em": "2026-10-03T08:05:17.322-03:00"
-  },
-  {
-    "id": "amazon:B0BJS1M3L4",
-    "titulo": "Oferta: Lenços umedecidos toalhas umedecidas premium kit 6 Pacotes com 140 unid. Super Baby Green Proteção do Bebê Na Caixa",
-    "imagem": "https://m.media-amazon.com/images/I/61dY0SXDjdL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BJS1M3L4?tag=malica09-20",
-    "atualizado_em": "2026-10-03T08:00:10.236-03:00"
   }
 ]
