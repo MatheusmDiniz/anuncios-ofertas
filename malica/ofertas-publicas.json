@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38139642",
+    "titulo": "Burigotto Berço Portátil Sonata Beige, Cor Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651744-MLU78008533742_082024-F.jpg",
+    "preco": 445,
+    "preco_anterior": 939,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Dpj5pa",
+    "atualizado_em": "2026-10-03T21:40:11.861-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56677151",
     "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9AP3XMkyKr",
     "atualizado_em": "2026-10-02T09:43:31.741-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25542860",
-    "titulo": "Sala De Jantar Sylvanian Families Dining Room Set",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_701101-MLA99589750440_122025-F.jpg",
-    "preco": 159.08,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qanfLg",
-    "atualizado_em": "2026-10-02T09:38:23.880-03:00"
   }
 ]
