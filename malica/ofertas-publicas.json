@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1692649392.23794965742",
+    "titulo": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mma3xkky1vk584",
+    "preco": 24.89,
+    "preco_anterior": 62.23,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7faKXwNyLy",
+    "atualizado_em": "2026-10-04T09:43:29.724-03:00"
+  },
+  {
     "id": "amazon:B0BKLM298N",
     "titulo": "Huggies Fralda Pants Premium Natural Care XXG - 52 Un",
     "imagem": "https://m.media-amazon.com/images/I/810rIzQ5ptL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8Kpy9EtOTS",
     "atualizado_em": "2026-10-02T21:46:22.646-03:00"
-  },
-  {
-    "id": "shopee:396723953.48056685219",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYlagr2iY",
-    "atualizado_em": "2026-10-02T21:41:15.779-03:00"
   }
 ]
