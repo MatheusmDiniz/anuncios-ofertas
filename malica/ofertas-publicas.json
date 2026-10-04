@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69331466",
+    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "preco": 849.99,
+    "preco_anterior": 1699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bC1ui2",
+    "atualizado_em": "2026-10-04T20:20:33.787-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61758376",
     "titulo": "Andador Infantil 2 Em 1 Musical Interativo Rosa - Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644658-MLA97392217459_112025-F.jpg",
@@ -3008,25 +3018,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1rQmiNA",
     "atualizado_em": "2026-10-03T08:25:40.307-03:00"
-  },
-  {
-    "id": "amazon:B0HBRPYMQN",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61DVlVQZn-L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=malica09-20",
-    "atualizado_em": "2026-10-03T08:20:32.706-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56101048",
-    "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
-    "preco": 139.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1feVhfA",
-    "atualizado_em": "2026-10-03T08:15:27.906-03:00"
   }
 ]
