@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CDCMT8FY",
+    "titulo": "Lacta Bis Laka - Chocolate Branco Kit 3 Unidades 100,8g",
+    "imagem": "https://m.media-amazon.com/images/I/61psCaekrPL._AC_SL1500_.jpg",
+    "preco": 14.49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CDCMT8FY?tag=malica09-20",
+    "atualizado_em": "2026-10-03T21:29:56.501-03:00"
+  },
+  {
     "id": "shopee:1010974641.22092500141",
     "titulo": "Creme Multifuncional Infantil Salon Line #Todecachinho Baby 300Ml",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moprzgdr2qytcf",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
     "atualizado_em": "2026-10-02T09:33:13.545-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40908664",
-    "titulo": "Copo De Treinamento Buba Com Alça E Bico Em Silicone Verde Verde-claro Liso",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847837-MLA100093951807_122025-F.jpg",
-    "preco": 46.41,
-    "preco_anterior": 78.77,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1w1GzPb",
-    "atualizado_em": "2026-10-02T09:28:07.471-03:00"
   }
 ]
