@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52878131",
+    "titulo": "Berço Cosco Kids, Cozzy, Azul Pastel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978994-MLA99441337116_112025-F.jpg",
+    "preco": 281.91,
+    "preco_anterior": 599,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1bf8evX",
+    "atualizado_em": "2026-10-04T08:36:57.856-03:00"
+  },
+  {
     "id": "amazon:B07SSFG5YY",
     "titulo": "Removedor Manchas Roupa Bebê e Criança - Pré-Lavagem Remove Leite, Gordura, Papinha, Suco de Frutas - Tira Manchas Vegano, Biodegradável, Sem Cloro, Fragrância Suave | Xô Manchinhas - BioClub",
     "imagem": "https://m.media-amazon.com/images/I/51HJF16PaGL._AC_SL1500_.jpg",
