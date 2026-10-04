@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08Y1Z25MG",
+    "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
+    "preco": 75,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08Y1Z25MG?tag=malica09-20",
+    "atualizado_em": "2026-10-04T15:13:00.599-03:00"
+  },
+  {
     "id": "shopee:790794583.58213955100",
     "titulo": "Kit 3 Macacões Bebê Infantil 100% Algodão para Menino Macacão com Zíper Vira Pé",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqv5045w91j4a7",
