@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07B9HHG39",
+    "titulo": "Oferta: Patrulha Canina Mini Maleta da Aventura Sunny Brinquedos, Multicor",
+    "imagem": "https://m.media-amazon.com/images/I/616vxlnbMCL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": 49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07B9HHG39?tag=malica09-20",
+    "atualizado_em": "2026-10-04T14:32:16.922-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26647118",
     "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
