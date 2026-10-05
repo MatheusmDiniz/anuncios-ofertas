@@ -2278,35 +2278,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DTN9W36?tag=malica09-20",
     "atualizado_em": "2026-10-03T16:22:21.507-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36753709",
-    "titulo": "Mini berço multifuncional com mosqueteiro e trocador Moveis Bela cor branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_638444-MLA116165964812_092026-F.jpg",
-    "preco": 224.87,
-    "preco_anterior": 499.72,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2HxkCJm",
-    "atualizado_em": "2026-10-03T16:17:16.249-03:00"
-  },
-  {
-    "id": "amazon:B07Z9T391J",
-    "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71fs1EaxnLL._AC_SL1500_.jpg",
-    "preco": 1,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z9T391J?tag=malica09-20",
-    "atualizado_em": "2026-10-03T16:12:08.573-03:00"
-  },
-  {
-    "id": "shopee:238412076.11380435890",
-    "titulo": "Conjunto Social Para Bebe Menino Recém Nascido a 05 Meses Casamento",
-    "imagem": "https://cf.shopee.com.br/file/0dcd8c5ca566a001ad15f235bdb24705",
-    "preco": 22.9,
-    "preco_anterior": 49.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6AlRxqwOQZ",
-    "atualizado_em": "2026-10-03T16:07:04.295-03:00"
   }
 ]
