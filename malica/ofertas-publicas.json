@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35340738",
+    "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
+    "preco": 199,
+    "preco_anterior": 347.16,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/11s6NB4",
+    "atualizado_em": "2026-10-05T11:09:59.139-03:00"
+  },
+  {
     "id": "amazon:B0848FMW1W",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 124 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/610zsSAMtpL._AC_SL1500_.jpg",
