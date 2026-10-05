@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YP163DD",
+    "titulo": "Oferta para Membros Prime: Bicicleta De Equilibrio Buba, 4 Rodas",
+    "imagem": "https://m.media-amazon.com/images/I/51YQ6uX9w5L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YP163DD?tag=malica09-20",
+    "atualizado_em": "2026-10-05T18:21:44.316-03:00"
+  },
+  {
     "id": "amazon:B07G8QLGSR",
     "titulo": "Oferta para Membros Prime: Esterilizador De Microondas para Mamadeiras Bicos e Chupetas Philips Avent Azul/Branco",
     "imagem": "https://m.media-amazon.com/images/I/51UOsl4f9jL._AC_SL1500_.jpg",
