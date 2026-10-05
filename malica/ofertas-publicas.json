@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25997831",
+    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
+    "preco": 82,
+    "preco_anterior": 144.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2X546Yw",
+    "atualizado_em": "2026-10-05T20:09:35.702-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61794290",
     "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GG4VT6S?tag=malica09-20",
     "atualizado_em": "2026-10-04T08:11:20.585-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69043941",
-    "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631551-MLA111151110751_052026-F.jpg",
-    "preco": 174.8,
-    "preco_anterior": 369.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1oGLGQN",
-    "atualizado_em": "2026-10-04T08:06:15.864-03:00"
   }
 ]
