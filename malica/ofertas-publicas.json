@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B086BVM3QD",
+    "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/711DZcFWQWL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B086BVM3QD?tag=malica09-20",
+    "atualizado_em": "2026-10-05T08:00:31.911-03:00"
+  },
+  {
     "id": "shopee:651243506.22198231331",
     "titulo": "Kit 4 Peças Body De Bebe Infantil Bordado Manga Longa Menina Tecido Suedine 100% Algodão Enxoval de Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhf8vhoh8mbo2e",
@@ -1848,25 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B7rzcgYWF",
     "atualizado_em": "2026-10-03T20:03:14.134-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26234856",
-    "titulo": "Totokinha Cardoso Toys Carrinho Andador Triciclo Menino Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705389-MLA118512524509_092026-F.jpg",
-    "preco": 119.99,
-    "preco_anterior": 219.89,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1x5k8s9",
-    "atualizado_em": "2026-10-03T19:58:08.343-03:00"
-  },
-  {
-    "id": "amazon:B07GG1R78H",
-    "titulo": "Gerber Bodies de manga curta para bebês meninas, pacote com 8, nuvens, 0-3 Meses",
-    "imagem": "https://m.media-amazon.com/images/I/71B5Aj1A96L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GG1R78H?tag=malica09-20",
-    "atualizado_em": "2026-10-03T19:53:00.202-03:00"
   }
 ]
