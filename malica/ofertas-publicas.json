@@ -2248,35 +2248,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kBnmbk",
     "atualizado_em": "2026-10-03T16:37:44.866-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38303632",
-    "titulo": "Mochila Maternidade The Land Cor Cinza com Bege - 38cm",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807133-MLA99502984234_112025-F.jpg",
-    "preco": 156,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1JSFNvc",
-    "atualizado_em": "2026-10-03T16:32:37.415-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52680667",
-    "titulo": "Andador Infantil Empurrador Atividade Musical Bebê Didático Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824627-MLA100063596379_122025-F.jpg",
-    "preco": 118.34,
-    "preco_anterior": 269.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WUFJ1e",
-    "atualizado_em": "2026-10-03T16:27:29.656-03:00"
-  },
-  {
-    "id": "amazon:B07DTN9W36",
-    "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
-    "imagem": "https://m.media-amazon.com/images/I/71jvqKocIgL._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DTN9W36?tag=malica09-20",
-    "atualizado_em": "2026-10-03T16:22:21.507-03:00"
   }
 ]
