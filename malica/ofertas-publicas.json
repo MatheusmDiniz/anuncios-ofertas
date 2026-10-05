@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42639818",
+    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
+    "preco": 433.31,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1hFvrLD",
+    "atualizado_em": "2026-10-05T14:51:55.015-03:00"
+  },
+  {
     "id": "amazon:B0GFGBVRLK",
     "titulo": "Bombom NESTLÉ Especialidades Caixa 220g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/817gxNY4nlL._AC_SL1500_.jpg",
