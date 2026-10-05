@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB48920952",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
+    "preco": 188.11,
+    "preco_anterior": 346.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1aiY5ux",
+    "atualizado_em": "2026-10-05T08:26:09.128-03:00"
+  },
+  {
     "id": "amazon:B0979VS2JH",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SL1500_.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xxW9Co",
     "atualizado_em": "2026-10-03T20:28:45.210-03:00"
-  },
-  {
-    "id": "shopee:1739680653.58204448907",
-    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
-    "preco": 24.9,
-    "preco_anterior": 75.45,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70KYxNtDjU",
-    "atualizado_em": "2026-10-03T20:23:38.084-03:00"
   }
 ]
