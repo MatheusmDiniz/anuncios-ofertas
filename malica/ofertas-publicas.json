@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DPNCJFNY",
+    "titulo": "Amaciante Vida Macia Glicerina e Camomila, 5L",
+    "imagem": "https://m.media-amazon.com/images/I/71AoCo-QD4L._AC_SL1500_.jpg",
+    "preco": 68,
+    "preco_anterior": 92,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DPNCJFNY?tag=malica09-20",
+    "atualizado_em": "2026-10-05T20:50:23.763-03:00"
+  },
+  {
     "id": "amazon:B089PF67DR",
     "titulo": "Ricca Hastes Flexíveis Baby Ricca 60un : Amazon.com.br: Beleza",
     "imagem": "https://m.media-amazon.com/images/I/51ZI6tKmkrL._AC_SL1500_.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50ZZMy4wTS",
     "atualizado_em": "2026-10-04T08:52:17.544-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34813250",
-    "titulo": "Brinquedo Pelúcia Infantil Ursinho Reza Bege 18056 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_935033-MLA95689805484_102025-F.jpg",
-    "preco": 106,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Zu9TfE",
-    "atualizado_em": "2026-10-04T08:47:10.407-03:00"
   }
 ]
