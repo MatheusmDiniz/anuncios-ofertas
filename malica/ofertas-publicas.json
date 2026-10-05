@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW48ZKYM",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=malica09-20",
+    "atualizado_em": "2026-10-05T08:41:26.037-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65896917",
     "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2U76gEk",
     "atualizado_em": "2026-10-03T20:44:05.613-03:00"
-  },
-  {
-    "id": "shopee:1548840920.23994217755",
-    "titulo": "Blusa de frio Moletom com capuz infanto juvenil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mpms3wgeld6qd3",
-    "preco": 58.74,
-    "preco_anterior": 89,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6q1Cm8qUxM",
-    "atualizado_em": "2026-10-03T20:38:57.862-03:00"
   }
 ]
