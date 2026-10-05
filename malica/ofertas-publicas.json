@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B9CLH2W2",
+    "titulo": "Cosco Kids, Cadeirinha Evolutty 360 X, 0 a 36kg, com Giro 360º e Isofix, Preto",
+    "imagem": "https://m.media-amazon.com/images/I/518K3dlPnvL._AC_SL1500_.jpg",
+    "preco": 750,
+    "preco_anterior": 999,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B9CLH2W2?tag=malica09-20",
+    "atualizado_em": "2026-10-05T13:29:09.091-03:00"
+  },
+  {
     "id": "amazon:B0FPSX9VDZ",
     "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XXG - 144 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/81dNhBzabLL._AC_SL1500_.jpg",
