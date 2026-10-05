@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DV9W63Z6",
+    "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
+    "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
+    "preco": 86.5,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
+    "atualizado_em": "2026-10-04T21:48:15.192-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB58145183",
     "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_730625-MLA116852295949_082026-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
     "atualizado_em": "2026-10-03T09:52:18.835-03:00"
-  },
-  {
-    "id": "shopee:1561446781.58251261027",
-    "titulo": "KIT VÁLVULA SPRAY 18/410 | COLÔNIA MAMAE E BEBE DE 100ML | COLÔNIA ÁGUAS  | REFIL ESSENCIAL | COLÔNIA BUBA | FIORUCCI",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-msj5htlschl31f",
-    "preco": 15,
-    "preco_anterior": 39.47,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50ZWzpcJwn",
-    "atualizado_em": "2026-10-03T09:47:14.038-03:00"
   }
 ]
