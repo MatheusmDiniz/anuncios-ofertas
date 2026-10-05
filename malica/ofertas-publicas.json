@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B088P95YRD",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
+    "preco": 61,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B088P95YRD?tag=malica09-20",
+    "atualizado_em": "2026-10-05T12:16:59.284-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25542860",
     "titulo": "Sala De Jantar Sylvanian Families Dining Room Set",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_701101-MLA99589750440_122025-F.jpg",
