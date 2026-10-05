@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28131603",
+    "titulo": "Canguru de Bebê Aiebao Ergonômico Cinza 4 Posições Com Bolsos Ajustável",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837333-MLA100025550965_122025-F.jpg",
+    "preco": 79,
+    "preco_anterior": 169.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1jVQ4c9",
+    "atualizado_em": "2026-10-05T08:05:43.467-03:00"
+  },
+  {
     "id": "amazon:B086BVM3QD",
     "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/711DZcFWQWL._AC_SL1500_.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gJ4nSta4U",
     "atualizado_em": "2026-10-03T20:08:20.510-03:00"
-  },
-  {
-    "id": "shopee:1241453684.58256027225",
-    "titulo": "CONJUNTO INFANTIL MENINA FRANZIDO SOLTINHO E CALÇA COM TECIDO ROSA DE POÁ DE CORAÇÃO FASHION",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnn3h9dr20w7b",
-    "preco": 39.9,
-    "preco_anterior": 249.37,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3B7rzcgYWF",
-    "atualizado_em": "2026-10-03T20:03:14.134-03:00"
   }
 ]
