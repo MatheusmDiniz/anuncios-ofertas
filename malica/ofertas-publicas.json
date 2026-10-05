@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GFGBVRLK",
+    "titulo": "Bombom NESTLÉ Especialidades Caixa 220g : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/817gxNY4nlL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GFGBVRLK?tag=malica09-20",
+    "atualizado_em": "2026-10-05T14:46:45.050-03:00"
+  },
+  {
     "id": "amazon:B0BBJM19ZB",
     "titulo": "Oferta para Membros Prime: Buba Garrafinha Aventuras Princesa 400 Ml Rosa",
     "imagem": "https://m.media-amazon.com/images/I/61+O3VA6yhL._AC_SL1500_.jpg",
