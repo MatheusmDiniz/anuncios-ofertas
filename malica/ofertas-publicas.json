@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FL35Z",
+    "titulo": "Oferta para Membros Prime: Cremer Toalha Luxo Branca Com 3 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51GxH1EgH6L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FL35Z?tag=malica09-20",
+    "atualizado_em": "2026-10-05T13:55:02.852-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38086273",
     "titulo": "Refil Sabonete líquido Glicerina Camomila Johnson's Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_888653-MLA99447587542_112025-F.jpg",
