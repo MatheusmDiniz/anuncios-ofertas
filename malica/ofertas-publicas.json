@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FH7FZR1F",
+    "titulo": "Oferta para Membros Prime: Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 30 ml",
+    "imagem": "https://m.media-amazon.com/images/I/41BZ7m8LGoL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FH7FZR1F?tag=malica09-20",
+    "atualizado_em": "2026-10-05T09:42:31.194-03:00"
+  },
+  {
     "id": "shopee:1076565213.22595172854",
     "titulo": "KIT6/12/24PCSMini brinquedo colorido de mola maluca barato de plástico para meninos e meninas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr6n0viwu39je0",
@@ -1848,15 +1858,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1cwX5ju",
     "atualizado_em": "2026-10-03T21:45:19.770-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38139642",
-    "titulo": "Burigotto Berço Portátil Sonata Beige, Cor Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651744-MLU78008533742_082024-F.jpg",
-    "preco": 445,
-    "preco_anterior": 939,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Dpj5pa",
-    "atualizado_em": "2026-10-03T21:40:11.861-03:00"
   }
 ]
