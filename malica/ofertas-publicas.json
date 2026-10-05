@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FH7C4YCS",
+    "titulo": "Oferta para Membros Prime: Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 120 ml",
+    "imagem": "https://m.media-amazon.com/images/I/61VAbwR6a2L._AC_SL1500_.jpg",
+    "preco": 34,
+    "preco_anterior": 87,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FH7C4YCS?tag=malica09-20",
+    "atualizado_em": "2026-10-05T16:59:27.519-03:00"
+  },
+  {
     "id": "amazon:B08YMXTLX2",
     "titulo": "Oferta para Membros Prime: Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto",
     "imagem": "https://m.media-amazon.com/images/I/51nOrXgzqFL._AC_SL1500_.jpg",
