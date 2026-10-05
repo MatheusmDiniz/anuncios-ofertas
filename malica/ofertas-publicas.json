@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099BJ48WJ",
+    "titulo": "Oferta para Membros Prime: Piracanjuba Leite Em Pó Integral Instantâneo 1Kg",
+    "imagem": "https://m.media-amazon.com/images/I/51CcF644B+L._AC_SL1500_.jpg",
+    "preco": 36,
+    "preco_anterior": 64,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099BJ48WJ?tag=malica09-20",
+    "atualizado_em": "2026-10-05T14:25:56.787-03:00"
+  },
+  {
     "id": "amazon:B0DMTGP55X",
     "titulo": "Oferta para Membros Prime: Travel System Safety 1st Spark Plus Trio com Isofix, 0 a 22 kg, Grey Frost",
     "imagem": "https://m.media-amazon.com/images/I/61ttu2O4m8L._AC_SL1500_.jpg",
