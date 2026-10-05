@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CNQ8YDSK",
+    "titulo": "Oferta para Membros Prime: Pampers Loção Hidratante Girassol 400ml | Textura Fluida",
+    "imagem": "https://m.media-amazon.com/images/I/61ZoiFttVSL._AC_SL1500_.jpg",
+    "preco": 30,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CNQ8YDSK?tag=malica09-20",
+    "atualizado_em": "2026-10-05T14:57:00.310-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42639818",
     "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
