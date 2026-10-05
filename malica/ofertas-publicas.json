@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CTD3QXV6",
+    "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
+    "imagem": "https://m.media-amazon.com/images/I/71SiuUhmYML._AC_SL1500_.jpg",
+    "preco": 9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=malica09-20",
+    "atualizado_em": "2026-10-05T16:34:05.056-03:00"
+  },
+  {
     "id": "amazon:B0CXJLK24Y",
     "titulo": "Oferta para Membros Prime: Nescau Bebida Láctea 180ml caixa com 27 unidades",
     "imagem": "https://m.media-amazon.com/images/I/61gtHqTqSkL._AC_SL1500_.jpg",
