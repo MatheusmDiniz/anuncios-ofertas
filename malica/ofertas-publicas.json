@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07J68SZ66",
+    "titulo": "Oferta para Membros Prime: Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71t1HubAW5L._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07J68SZ66?tag=malica09-20",
+    "atualizado_em": "2026-10-05T14:31:01.286-03:00"
+  },
+  {
     "id": "amazon:B099BJ48WJ",
     "titulo": "Oferta para Membros Prime: Piracanjuba Leite Em Pó Integral Instantâneo 1Kg",
     "imagem": "https://m.media-amazon.com/images/I/51CcF644B+L._AC_SL1500_.jpg",
