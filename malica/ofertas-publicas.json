@@ -2508,35 +2508,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C6KZCY6Z?tag=malica09-20",
     "atualizado_em": "2026-10-03T14:23:48.095-03:00"
-  },
-  {
-    "id": "amazon:B095D5QVZW",
-    "titulo": "Sabonete Infantil Líquido Sono Tranquilo 400ml – Baruel Baby",
-    "imagem": "https://m.media-amazon.com/images/I/71nusP7+BVL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095D5QVZW?tag=malica09-20",
-    "atualizado_em": "2026-10-03T14:18:44.430-03:00"
-  },
-  {
-    "id": "amazon:B0F35GPLGV",
-    "titulo": "Pringles Pack Promo Salgadinho de Batata Frita 3 Sabores - Original, Creme e Cebola e Churrasco",
-    "imagem": "https://m.media-amazon.com/images/I/712GQBGRaHL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F35GPLGV?tag=malica09-20",
-    "atualizado_em": "2026-10-03T14:13:13.409-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63854956",
-    "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703485-MLA103647296121_012026-F.jpg",
-    "preco": 137.79,
-    "preco_anterior": 259.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/23Yzgaa",
-    "atualizado_em": "2026-10-03T14:08:08.938-03:00"
   }
 ]
