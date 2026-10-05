@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Y94W69D",
+    "titulo": "Oferta: Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista Gigante com lançador, rampas e ataque do T-Rex motorizado. para crianças a partir de 4 anos.",
+    "imagem": "https://m.media-amazon.com/images/I/81q94ZM9zjL._AC_SL1500_.jpg",
+    "preco": 899.99,
+    "preco_anterior": 1359,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=malica09-20",
+    "atualizado_em": "2026-10-05T20:40:11.936-03:00"
+  },
+  {
     "id": "amazon:B0C5NQFRGB",
     "titulo": "Burigotto Carrinho de Bebê Zap Metal, Cobre",
     "imagem": "https://m.media-amazon.com/images/I/71yjfE5U1XL._AC_SL1500_.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GQB93FT?tag=malica09-20",
     "atualizado_em": "2026-10-04T08:42:02.328-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52878131",
-    "titulo": "Berço Cosco Kids, Cozzy, Azul Pastel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978994-MLA99441337116_112025-F.jpg",
-    "preco": 281.91,
-    "preco_anterior": 599,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1bf8evX",
-    "atualizado_em": "2026-10-04T08:36:57.856-03:00"
   }
 ]
