@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CPT8CMSM",
+    "titulo": "Pampers Sabonete Líquido Glicerina 200ml",
+    "imagem": "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=malica09-20",
+    "atualizado_em": "2026-10-05T12:27:10.835-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20969462",
     "titulo": "Fisher-Price Zebra Blocos Surpresa CGN63 4 Peças",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
