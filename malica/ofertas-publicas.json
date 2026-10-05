@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3YY6FY",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61Twnnnkq4L._AC_SL1500_.jpg",
+    "preco": 97.98,
+    "preco_anterior": 118.54,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=malica09-20",
+    "atualizado_em": "2026-10-05T15:42:48.572-03:00"
+  },
+  {
     "id": "amazon:B0GW3XSY4W",
     "titulo": "Fralda Pampers Confort Sec Tamanho XG, 86 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71MTFZFdO9L._AC_SL1500_.jpg",
