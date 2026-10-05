@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44875746",
+    "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
+    "preco": 440.69,
+    "preco_anterior": 745.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1UoGHuf",
+    "atualizado_em": "2026-10-05T08:15:55.873-03:00"
+  },
+  {
     "id": "amazon:B0DK3M6161",
     "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Superproteção M 34 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71K4ZODPSoL._AC_SL1500_.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qUzziicER",
     "atualizado_em": "2026-10-03T20:18:31.699-03:00"
-  },
-  {
-    "id": "shopee:341167297.19598019373",
-    "titulo": "Kit Básico 10 Peças Roupa Bebê Menino - 5 Camisetas Básicas + 5 Bermudas - 5 Conjuntos Lisos Bebê Menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moyaaziysoarc3",
-    "preco": 93.89,
-    "preco_anterior": 149.03,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fwfmNaqTY",
-    "atualizado_em": "2026-10-03T20:13:25.860-03:00"
   }
 ]
