@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C3FSF7KF",
+    "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51p6dMmnxrL._AC_SL1500_.jpg",
+    "preco": 27.5,
+    "preco_anterior": 46.38,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=malica09-20",
+    "atualizado_em": "2026-10-05T11:36:04.076-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45286830",
     "titulo": "Andador Empurrador Infantil Musical Educativo Rosa Yuupi YPHE0811",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_771489-MLA100039533847_122025-F.jpg",
