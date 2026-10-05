@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53501937",
+    "titulo": "Bicicleta sem pedais Msp Kids Bicileta para bebe 12 meses - azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_756845-MLA113676011462_072026-F.jpg",
+    "preco": 139.9,
+    "preco_anterior": 239.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25ZYhfD",
+    "atualizado_em": "2026-10-04T21:01:34.930-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45780583",
     "titulo": "Cercadinho Para Bebê Chiqueirinho Infantil Portátil Unissex Cor Azul Desenho Do Tecido Balão",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_810826-MLA91562773532_092025-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50ZUZhaMps",
     "atualizado_em": "2026-10-03T09:06:28.133-03:00"
-  },
-  {
-    "id": "amazon:B0BFXJ12QQ",
-    "titulo": "Huggies Fralda Supreme Care M 196 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
-    "preco": 161.4,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
-    "atualizado_em": "2026-10-03T09:01:23.410-03:00"
   }
 ]
