@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CNQ9C8TC",
+    "titulo": "Oferta para Membros Prime: Pampers Sabonete Liquido Refil Glicerina 350ml",
+    "imagem": "https://m.media-amazon.com/images/I/71jkq4uh1hL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CNQ9C8TC?tag=malica09-20",
+    "atualizado_em": "2026-10-05T18:31:56.307-03:00"
+  },
+  {
     "id": "amazon:B0DSC8C4XH",
     "titulo": "Fralda Huggies Premium Dermacare XG - 38 Un",
     "imagem": "https://m.media-amazon.com/images/I/719yVPNSxpL._AC_SL1500_.jpg",
