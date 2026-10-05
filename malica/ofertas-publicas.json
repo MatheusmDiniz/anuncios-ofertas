@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN7T2LK",
+    "titulo": "Oferta para Membros Prime: Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
+    "imagem": "https://m.media-amazon.com/images/I/61qM9b1b77L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=malica09-20",
+    "atualizado_em": "2026-10-05T09:11:58.756-03:00"
+  },
+  {
     "id": "shopee:575397523.51106656675",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60S5mfRaXo",
     "atualizado_em": "2026-10-03T21:14:39.775-03:00"
-  },
-  {
-    "id": "shopee:1748073699.58215350658",
-    "titulo": "Chupeta Mordedor Rosa Alimentadora Bebê de Silicone Porta Fruta Legume Iogurte Higiênica",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mram9sccyscl89",
-    "preco": 11.49,
-    "preco_anterior": 16.41,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7ptjy1uHMb",
-    "atualizado_em": "2026-10-03T21:09:33.979-03:00"
   }
 ]
