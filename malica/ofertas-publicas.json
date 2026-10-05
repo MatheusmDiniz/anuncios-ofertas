@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08T1TGVJZ",
+    "titulo": "Nerf, Lançador de Dardos, Elite 2.0, Commander RD-6 - Tambor Giratório : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/61nDGm5ll5L._AC_SL1500_.jpg",
+    "preco": 71,
+    "preco_anterior": 179,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08T1TGVJZ?tag=malica09-20",
+    "atualizado_em": "2026-10-05T19:23:15.132-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73063371",
     "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
