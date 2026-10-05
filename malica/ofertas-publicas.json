@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:291174073.21297732100",
+    "titulo": "Kit 8pçs Talheres de Silicone p/ Bebê c/ Ventosa, Colher, Garfo, Canudo e Babador Infantil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdyw-lyy3asttten617",
+    "preco": 35.99,
+    "preco_anterior": 99.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8V9T8Gf3WK",
+    "atualizado_em": "2026-10-05T09:47:36.836-03:00"
+  },
+  {
     "id": "amazon:B0FH7FZR1F",
     "titulo": "Oferta para Membros Prime: Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 30 ml",
     "imagem": "https://m.media-amazon.com/images/I/41BZ7m8LGoL._AC_SL1500_.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VGtZMnxbY",
     "atualizado_em": "2026-10-03T21:50:25.706-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27405813",
-    "titulo": "Mesinha Didática Infantil Com 2 Cadeiras",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640135-MLA99465372484_112025-F.jpg",
-    "preco": 275.8,
-    "preco_anterior": 538.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cwX5ju",
-    "atualizado_em": "2026-10-03T21:45:19.770-03:00"
   }
 ]
