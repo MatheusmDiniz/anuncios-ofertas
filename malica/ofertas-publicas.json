@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MQG6SWC",
+    "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
+    "imagem": "https://m.media-amazon.com/images/I/61m5QAg1xHL._AC_SL1500_.jpg",
+    "preco": 36,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=malica09-20",
+    "atualizado_em": "2026-10-05T10:54:35.538-03:00"
+  },
+  {
     "id": "shopee:1438389030.58265336892",
     "titulo": "Copo Garrafa Térmico Portátil 420ml/600ml Com Canudo Chupeta Alça e Tampa Para Escola Trabalho",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-msadupzne51h7b",
