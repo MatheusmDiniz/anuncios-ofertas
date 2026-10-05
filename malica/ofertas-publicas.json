@@ -2688,35 +2688,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07S57P35S?tag=malica09-20",
     "atualizado_em": "2026-10-03T12:51:31.327-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34235115",
-    "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
-    "preco": 95.95,
-    "preco_anterior": 180.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2oJiN3n",
-    "atualizado_em": "2026-10-03T12:46:27.828-03:00"
-  },
-  {
-    "id": "amazon:B0GW9KJ4JP",
-    "titulo": "Sof Fralda Babysec Aqua P E M 4X9",
-    "imagem": "https://m.media-amazon.com/images/I/61XYx0CODIL._AC_SL1500_.jpg",
-    "preco": 20,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW9KJ4JP?tag=malica09-20",
-    "atualizado_em": "2026-10-03T12:41:20.194-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77171248",
-    "titulo": "Penico Dobrável LEDTECH com Tampa Para Bebês de 1 a 3 Anos, Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962384-MLA114689625204_082026-F.jpg",
-    "preco": 28.5,
-    "preco_anterior": 49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Jx1k2y",
-    "atualizado_em": "2026-10-03T12:36:16.967-03:00"
   }
 ]
