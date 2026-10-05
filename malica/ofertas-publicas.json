@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0979VS2JH",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
+    "atualizado_em": "2026-10-05T08:21:01.159-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44875746",
     "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70KYxNtDjU",
     "atualizado_em": "2026-10-03T20:23:38.084-03:00"
-  },
-  {
-    "id": "shopee:1042066189.43481645729",
-    "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
-    "preco": 29.48,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qUzziicER",
-    "atualizado_em": "2026-10-03T20:18:31.699-03:00"
   }
 ]
