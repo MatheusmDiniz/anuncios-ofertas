@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49362883",
+    "titulo": "Brinquedo para Bebês Cachorrinho Aprende Comigo Fisher-Price",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_712626-MLA99888968283_112025-F.jpg",
+    "preco": 279.18,
+    "preco_anterior": 819.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Nvjvg2",
+    "atualizado_em": "2026-10-04T21:17:19.274-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BY3GR9HR?tag=malica09-20",
     "atualizado_em": "2026-10-03T09:21:42.709-03:00"
-  },
-  {
-    "id": "shopee:1462768289.22898318592",
-    "titulo": "Moda Infantil Chimpa  Conjunto com blusa e calça infantil menino e menina unisex",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfocvcbsw3ydbc",
-    "preco": 36.86,
-    "preco_anterior": 99.62,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4VdDyn2joH",
-    "atualizado_em": "2026-10-03T09:16:37.730-03:00"
   }
 ]
