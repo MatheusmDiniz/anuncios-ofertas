@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09BBDVPB1",
+    "titulo": "Oferta para Membros Prime: MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
+    "preco": 23,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
+    "atualizado_em": "2026-10-05T11:56:34.142-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25687130",
     "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
