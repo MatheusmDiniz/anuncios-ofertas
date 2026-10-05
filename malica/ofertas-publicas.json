@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56104304",
+    "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
+    "preco": 132.62,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/11a9Z7t",
+    "atualizado_em": "2026-10-04T21:22:34.642-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB49362883",
     "titulo": "Brinquedo para Bebês Cachorrinho Aprende Comigo Fisher-Price",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_712626-MLA99888968283_112025-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30oTOEKp33",
     "atualizado_em": "2026-10-03T09:26:47.901-03:00"
-  },
-  {
-    "id": "amazon:B0BY3GR9HR",
-    "titulo": "Tena Pants Discreet Calcinha Descartável Preta P/M 16 unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61sabf2rn0L._AC_SL1500_.jpg",
-    "preco": 65.54,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BY3GR9HR?tag=malica09-20",
-    "atualizado_em": "2026-10-03T09:21:42.709-03:00"
   }
 ]
