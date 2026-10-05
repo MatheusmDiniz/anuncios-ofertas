@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56574273",
+    "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
+    "preco": 139.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2YDfnP3",
+    "atualizado_em": "2026-10-05T08:56:45.246-03:00"
+  },
+  {
     "id": "amazon:B099KTRZP7",
     "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qV40o0zVY",
     "atualizado_em": "2026-10-03T20:59:22.039-03:00"
-  },
-  {
-    "id": "amazon:B08YMQ9Z5K",
-    "titulo": "Cosco Kids, Berço Co-bed Pluggy, 0 a 9kg, Cinza Escuro",
-    "imagem": "https://m.media-amazon.com/images/I/51NsDk2w21L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08YMQ9Z5K?tag=malica09-20",
-    "atualizado_em": "2026-10-03T20:54:15.487-03:00"
   }
 ]
