@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73836645",
+    "titulo": "Colchonete Carrinho Moisés De Bebê Com Capa Removível Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800197-MLA112204099322_062026-F.jpg",
+    "preco": 30.26,
+    "preco_anterior": 50.44,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19XoozV",
+    "atualizado_em": "2026-10-05T13:08:51.632-03:00"
+  },
+  {
     "id": "amazon:B07X5KWJK9",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61E4OFmEC+L._AC_SL1500_.jpg",
