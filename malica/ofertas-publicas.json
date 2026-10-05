@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26678497",
+    "titulo": "Ursinho De Brinquedo Para Criança Menina Que Reza - Buba Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666002-MLA99510053086_112025-F.jpg",
+    "preco": 107,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EYcHFA",
+    "atualizado_em": "2026-10-04T21:32:52.676-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68877254",
     "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
@@ -3008,15 +3018,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40h0a4hPju",
     "atualizado_em": "2026-10-03T09:37:04.154-03:00"
-  },
-  {
-    "id": "amazon:B07FSVQZYX",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho M 40 unidades – Nova fralda Supreme Care aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caíd",
-    "imagem": "https://m.media-amazon.com/images/I/71m-sNFETuL._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=malica09-20",
-    "atualizado_em": "2026-10-03T09:31:53.104-03:00"
   }
 ]
