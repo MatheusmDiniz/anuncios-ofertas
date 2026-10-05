@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08N8PWLM6",
+    "titulo": "Exposis Bebe, Repelente Baby com Icaridina, Gel 117g : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/51cRqKkaCiL._AC_SL1500_.jpg",
+    "preco": 41.05,
+    "preco_anterior": 73.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=malica09-20",
+    "atualizado_em": "2026-10-05T20:24:53.887-03:00"
+  },
+  {
     "id": "amazon:B07NPY7VDL",
     "titulo": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
     "imagem": "https://m.media-amazon.com/images/I/51J0y1mq1gL._AC_SL1500_.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZZgQRT",
     "atualizado_em": "2026-10-04T08:26:44.237-03:00"
-  },
-  {
-    "id": "amazon:B093GBK61S",
-    "titulo": "Pomada Pom Pom Anti Assaduras 90G",
-    "imagem": "https://m.media-amazon.com/images/I/61Z-EvS7jzL._AC_SL1500_.jpg",
-    "preco": 22.54,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093GBK61S?tag=malica09-20",
-    "atualizado_em": "2026-10-04T08:21:32.605-03:00"
   }
 ]
