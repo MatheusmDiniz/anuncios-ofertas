@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20969462",
+    "titulo": "Fisher-Price Zebra Blocos Surpresa CGN63 4 Peças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
+    "preco": 83.9,
+    "preco_anterior": 159.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32opZnB",
+    "atualizado_em": "2026-10-05T12:22:07.441-03:00"
+  },
+  {
     "id": "amazon:B088P95YRD",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
