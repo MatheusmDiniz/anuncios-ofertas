@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3TH25S",
+    "titulo": "Oferta para Membros Prime: Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
+    "atualizado_em": "2026-10-05T08:31:13.610-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB48920952",
     "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZcwE5G",
     "atualizado_em": "2026-10-03T20:33:53.214-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53225985",
-    "titulo": "Berço Americano Tutto New Freijó - Matic",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655242-MLA95246448845_102025-F.jpg",
-    "preco": 1067,
-    "preco_anterior": 1799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xxW9Co",
-    "atualizado_em": "2026-10-03T20:28:45.210-03:00"
   }
 ]
