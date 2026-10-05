@@ -2888,35 +2888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B004H49BCI?tag=malica09-20",
     "atualizado_em": "2026-10-03T11:09:29.715-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20787112",
-    "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_733772-MLA111515571640_062026-F.jpg",
-    "preco": 117.18,
-    "preco_anterior": 279,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1QJboPA",
-    "atualizado_em": "2026-10-03T11:03:58.058-03:00"
-  },
-  {
-    "id": "shopee:378105312.54507799907",
-    "titulo": "Porta Leite em Pó 3 Compartimentos Dosador Portátil",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mmbwyvoby39fa1",
-    "preco": 12.99,
-    "preco_anterior": 30.21,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AAHd9MvRQC",
-    "atualizado_em": "2026-10-03T10:58:50.502-03:00"
-  },
-  {
-    "id": "amazon:B001EQBJ40",
-    "titulo": "Granado Shampoo Bebê, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/51GHZqe035L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B001EQBJ40?tag=malica09-20",
-    "atualizado_em": "2026-10-03T10:53:45.319-03:00"
   }
 ]
