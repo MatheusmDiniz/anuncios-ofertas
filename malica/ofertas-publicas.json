@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C5NQFRGB",
+    "titulo": "Burigotto Carrinho de Bebê Zap Metal, Cobre",
+    "imagem": "https://m.media-amazon.com/images/I/71yjfE5U1XL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=malica09-20",
+    "atualizado_em": "2026-10-05T20:35:06.348-03:00"
+  },
+  {
     "id": "amazon:B0DTV5NFZM",
     "titulo": "Aviao De Resgate Marshall, Patrulha Canina, Sunny : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/6105Y41T3CL._AC_SL1500_.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1bf8evX",
     "atualizado_em": "2026-10-04T08:36:57.856-03:00"
-  },
-  {
-    "id": "amazon:B07SSFG5YY",
-    "titulo": "Removedor Manchas Roupa Bebê e Criança - Pré-Lavagem Remove Leite, Gordura, Papinha, Suco de Frutas - Tira Manchas Vegano, Biodegradável, Sem Cloro, Fragrância Suave | Xô Manchinhas - BioClub",
-    "imagem": "https://m.media-amazon.com/images/I/51HJF16PaGL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07SSFG5YY?tag=malica09-20",
-    "atualizado_em": "2026-10-04T08:31:48.761-03:00"
   }
 ]
