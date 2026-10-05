@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095R95SNW",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
+    "atualizado_em": "2026-10-05T09:01:49.179-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56574273",
     "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60S5mdFGX3",
     "atualizado_em": "2026-10-03T21:04:27.757-03:00"
-  },
-  {
-    "id": "shopee:1304396058.23994733158",
-    "titulo": "Kit C/3 Babador Bandana de Bebê 100% Algodão 23cm x 18cm - Sortidas ANJIN.B",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yt-miacax2t9pu0eb",
-    "preco": 17.9,
-    "preco_anterior": 29.34,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qV40o0zVY",
-    "atualizado_em": "2026-10-03T20:59:22.039-03:00"
   }
 ]
