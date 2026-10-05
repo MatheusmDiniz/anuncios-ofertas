@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BKFSZT8G",
+    "titulo": "Maxi-Cosi, Travel System Anna³ Trio, Essential Black",
+    "imagem": "https://m.media-amazon.com/images/I/510jFtGaQgL._AC_SL1500_.jpg",
+    "preco": 1899,
+    "preco_anterior": 3999,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BKFSZT8G?tag=malica09-20",
+    "atualizado_em": "2026-10-05T17:50:18.054-03:00"
+  },
+  {
     "id": "amazon:B0B7K83GYL",
     "titulo": "Oferta para Membros Prime: Personal Fralda Soft & Protect Hiper XXG, 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51fsnQZuvPL._AC_SL1500_.jpg",
