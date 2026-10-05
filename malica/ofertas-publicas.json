@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07BTPCPP9",
+    "titulo": "Oferta para Membros Prime: Bio Oil Bio",
+    "imagem": "https://m.media-amazon.com/images/I/51DToy1832L._AC_SL1500_.jpg",
+    "preco": 52.75,
+    "preco_anterior": 115.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07BTPCPP9?tag=malica09-20",
+    "atualizado_em": "2026-10-05T16:13:45.770-03:00"
+  },
+  {
     "id": "amazon:B0GWNJ3GKY",
     "titulo": "Oferta por tempo limitado para Membros Prime: Percarbonato de Sódio em Pó Tira Manchas sem Cloro 1 kg 100% Puro para Roupas Brancas e Coloridas Com Tecnologia OxiLock",
     "imagem": "https://m.media-amazon.com/images/I/61Pg8p53fmL._AC_SL1500_.jpg",
