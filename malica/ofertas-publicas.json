@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRS6RN",
+    "titulo": "Oferta para Membros Prime: Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51ZGkcF+raL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRS6RN?tag=malica09-20",
+    "atualizado_em": "2026-10-05T10:03:16.783-03:00"
+  },
+  {
     "id": "shopee:1598306900.48965507092",
     "titulo": "Mini Mochila Infantil Feminina com Glitter Alça Rosa para Meninas 2 a 6 Anos Laço Bolso Frontal + Chaveiro Pompom",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mriry7i7xwxydc",
