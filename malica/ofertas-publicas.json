@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHSCLPR",
+    "titulo": "Shampoo de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41r01KSc5DL._AC_SL1500_.jpg",
+    "preco": 33.24,
+    "preco_anterior": 62.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHSCLPR?tag=malica09-20",
+    "atualizado_em": "2026-10-05T16:23:54.805-03:00"
+  },
+  {
     "id": "amazon:B07D2FT1G6",
     "titulo": "Oferta para Membros Prime: OFF! Kids Loção Repelente de Insetos e Mosquitos, 200ml",
     "imagem": "https://m.media-amazon.com/images/I/51pgneajSjL._AC_SL1500_.jpg",
