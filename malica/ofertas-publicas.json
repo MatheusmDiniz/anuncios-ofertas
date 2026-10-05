@@ -2098,35 +2098,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07LHC55HY?tag=malica09-20",
     "atualizado_em": "2026-10-03T17:55:13.814-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB31739631",
-    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
-    "preco": 424.86,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Y8xSvd",
-    "atualizado_em": "2026-10-03T17:50:07.729-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27914031",
-    "titulo": "Brinquedo De Banho Bebê Chuveirinho Banheira Coala Buba Cor Água",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_903132-MLU72487501411_102023-F.jpg",
-    "preco": 109.99,
-    "preco_anterior": 194.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Tf2GWZ",
-    "atualizado_em": "2026-10-03T17:44:59.511-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16091842",
-    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 250,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZqdnYS",
-    "atualizado_em": "2026-10-03T17:39:51.033-03:00"
   }
 ]
