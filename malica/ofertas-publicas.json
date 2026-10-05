@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DK3M6161",
+    "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Superproteção M 34 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71K4ZODPSoL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DK3M6161?tag=malica09-20",
+    "atualizado_em": "2026-10-05T08:10:48.142-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28131603",
     "titulo": "Canguru de Bebê Aiebao Ergonômico Cinza 4 Posições Com Bolsos Ajustável",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837333-MLA100025550965_122025-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fwfmNaqTY",
     "atualizado_em": "2026-10-03T20:13:25.860-03:00"
-  },
-  {
-    "id": "shopee:533413030.23897094852",
-    "titulo": "Macacão Curto Babado Minimalista Bebê Menina - Até 12 Meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mt2jrpfxr5z922",
-    "preco": 34.1,
-    "preco_anterior": 50.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gJ4nSta4U",
-    "atualizado_em": "2026-10-03T20:08:20.510-03:00"
   }
 ]
