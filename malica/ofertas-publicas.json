@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H+B0DV7BN75H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
+    "preco": 75,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
+    "atualizado_em": "2026-10-05T11:46:17.908-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62120518",
     "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
