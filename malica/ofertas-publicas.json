@@ -2798,35 +2798,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/16AzQhD",
     "atualizado_em": "2026-10-03T11:55:27.101-03:00"
-  },
-  {
-    "id": "amazon:B0DJ19581W",
-    "titulo": "Oferta: LEGO Creator Gato Brincalhão 31163 (407 Peças)",
-    "imagem": "https://m.media-amazon.com/images/I/81oMZvb4tRL._AC_SL1500_.jpg",
-    "preco": 159,
-    "preco_anterior": 229,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ19581W?tag=malica09-20",
-    "atualizado_em": "2026-10-03T11:50:18.880-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75505071",
-    "titulo": "Suporte de Banho Infantil Ajustável Bebê em Pé Base Antiderrapante SekBem Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810962-MLA116130884751_082026-F.jpg",
-    "preco": 189.9,
-    "preco_anterior": 349.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2cbnhvc",
-    "atualizado_em": "2026-10-03T11:45:13.942-03:00"
-  },
-  {
-    "id": "amazon:8581021948",
-    "titulo": "Conhecendo os sons da fazenda: vaquinha",
-    "imagem": "https://m.media-amazon.com/images/I/81ql3o4gvsL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/8581021948?tag=malica09-20",
-    "atualizado_em": "2026-10-03T11:40:06.039-03:00"
   }
 ]
