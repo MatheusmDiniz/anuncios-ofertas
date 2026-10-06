@@ -2808,35 +2808,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1LgHAFA29t",
     "atualizado_em": "2026-10-04T11:52:58.559-03:00"
-  },
-  {
-    "id": "amazon:B0GMJVXT2K",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61TqADalesL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GMJVXT2K?tag=malica09-20",
-    "atualizado_em": "2026-10-04T11:47:54.279-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB59716108",
-    "titulo": "Berço Portátil Moises Co-bed Até 9 kg C/ Balanço Mosquiteiro e Cesto Luna Azul - KaBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774254-MLA116987202460_102026-F.jpg",
-    "preco": 445.4,
-    "preco_anterior": 999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1eSjGuA",
-    "atualizado_em": "2026-10-04T11:42:51.285-03:00"
-  },
-  {
-    "id": "amazon:B07VRYJWPC",
-    "titulo": "Repelente Elétrico Líquido SBP 45 Noites Cheiro Suave com 2 unidades de 32.9ml",
-    "imagem": "https://m.media-amazon.com/images/I/71OFi08UO7L._AC_SL1500_.jpg",
-    "preco": 15,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07VRYJWPC?tag=malica09-20",
-    "atualizado_em": "2026-10-04T11:37:44.044-03:00"
   }
 ]
