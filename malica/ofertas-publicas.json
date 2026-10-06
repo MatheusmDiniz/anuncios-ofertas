@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22621352",
+    "titulo": "Andador Safari II Infantil Primeiros Passos Tutti Baby Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_954395-MLA96107574707_102025-F.jpg",
+    "preco": 212,
+    "preco_anterior": 356.07,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2oYYvum",
+    "atualizado_em": "2026-10-06T08:56:47.179-03:00"
+  },
+  {
     "id": "amazon:B08G8SYDY1",
     "titulo": "Oferta para Membros Prime: Body Pacote com 8 bodies de manga curta Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81yDahe4h6L._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/25ZYhfD",
     "atualizado_em": "2026-10-04T21:01:34.930-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45780583",
-    "titulo": "Cercadinho Para Bebê Chiqueirinho Infantil Portátil Unissex Cor Azul Desenho Do Tecido Balão",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_810826-MLA91562773532_092025-F.jpg",
-    "preco": 110,
-    "preco_anterior": 220,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WvJ5Ms",
-    "atualizado_em": "2026-10-04T20:56:25.387-03:00"
   }
 ]
