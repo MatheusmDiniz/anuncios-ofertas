@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77311383",
+    "titulo": "Mochila Maternidade NTESX com Trocador, Térmica e Impermeável Azul-Marinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611530-MLA116251507724_092026-F.jpg",
+    "preco": 114.97,
+    "preco_anterior": 251.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1LFQECa",
+    "atualizado_em": "2026-10-06T20:40:50.533-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=malica09-20",
     "atualizado_em": "2026-10-05T08:41:26.037-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65896917",
-    "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
-    "preco": 641.18,
-    "preco_anterior": 1199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/18sA7ah",
-    "atualizado_em": "2026-10-05T08:36:21.023-03:00"
   }
 ]
