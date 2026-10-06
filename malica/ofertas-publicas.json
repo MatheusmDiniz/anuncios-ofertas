@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37702563",
+    "titulo": "Carrinho Ts Kansas + Base Black/preto Premium Baby Chassi Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_643678-MLA99504365432_112025-F.jpg",
+    "preco": 1495.94,
+    "preco_anterior": 2680.88,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bUBouT",
+    "atualizado_em": "2026-10-05T21:00:40.273-03:00"
+  },
+  {
     "id": "amazon:B0GW3ZTXHF",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61ZkcLzSaTL._AC_SL1500_.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LRLNug5LO",
     "atualizado_em": "2026-10-04T09:02:31.447-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76312234",
-    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
-    "preco": 155.1,
-    "preco_anterior": 319.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jXU5Dp",
-    "atualizado_em": "2026-10-04T08:57:26.143-03:00"
   }
 ]
