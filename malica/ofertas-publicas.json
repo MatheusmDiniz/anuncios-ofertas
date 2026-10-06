@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DWYJMD7Q",
+    "titulo": "Oferta para Membros Prime: Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61tjpixeXyL._AC_SL1500_.jpg",
+    "preco": 153,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=malica09-20",
+    "atualizado_em": "2026-10-06T09:42:46.348-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB47549605",
     "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dggwXF",
     "atualizado_em": "2026-10-04T21:43:09.648-03:00"
-  },
-  {
-    "id": "shopee:1822435935.58214954463",
-    "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Inverno Infantil Fashion Short Blusa Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mr26imqr94w499",
-    "preco": 47.89,
-    "preco_anterior": 95.78,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/113Qbcoy4e",
-    "atualizado_em": "2026-10-04T21:38:00.827-03:00"
   }
 ]
