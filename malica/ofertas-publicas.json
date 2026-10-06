@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01M5JGOFT",
+    "titulo": "Body Pacote com 6 bodies sem mangas Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81V8zg8arJL._AC_SL1500_.jpg",
+    "preco": 132,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01M5JGOFT?tag=malica09-20",
+    "atualizado_em": "2026-10-06T19:39:16.055-03:00"
+  },
+  {
     "id": "amazon:B08G8TFQHM",
     "titulo": "Oferta para Membros Prime: Body Pacote com 8 bodies de manga curta Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81yDahe4h6L._AC_SL1500_.jpg",
