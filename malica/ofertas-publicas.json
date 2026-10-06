@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CN78J7WM",
+    "titulo": "Oferta para Membros Prime: Creme Contra Assaduras Nebacetin Baby Prevenção - Pele Macia Hidratada e Saudável, Para Peles Sensíveis e Delicadas, Creme de Assadura Bebê - 30g",
+    "imagem": "https://m.media-amazon.com/images/I/71MiosSauyL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CN78J7WM?tag=malica09-20",
+    "atualizado_em": "2026-10-06T09:32:31.595-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53974840",
     "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EYcHFA",
     "atualizado_em": "2026-10-04T21:32:52.676-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68877254",
-    "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
-    "preco": 358,
-    "preco_anterior": 788.7,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jUsuSp",
-    "atualizado_em": "2026-10-04T21:27:43.532-03:00"
   }
 ]
