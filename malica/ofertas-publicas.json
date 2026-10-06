@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24765774",
+    "titulo": "Triângulo De Atividades Educativo Para Bebê - Buba Cor Colorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_887780-MLA95497851780_102025-F.jpg",
+    "preco": 95.07,
+    "preco_anterior": 177.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1qsS8kL",
+    "atualizado_em": "2026-10-05T21:16:12.743-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26504827",
     "titulo": "Totokinha Totoka Sport Carrinho Andador Brinquedo Educativo Formas Geométricas Passeio Cardoso Toys",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_891342-MLA111243159677_052026-F.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2i17GsX",
     "atualizado_em": "2026-10-04T09:17:55.225-03:00"
-  },
-  {
-    "id": "shopee:432628853.58208814983",
-    "titulo": "Capa de Chuva Infantil Adulto Com Capuz Botão Material Impermeável Colorida e Galaxy Transparente",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mn0lrmed11qa1f",
-    "preco": 13.8,
-    "preco_anterior": 30,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1AtPpVMGL",
-    "atualizado_em": "2026-10-04T09:12:46.909-03:00"
   }
 ]
