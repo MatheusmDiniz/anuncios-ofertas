@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B086JCX68G",
+    "titulo": "Oferta para Membros Prime: Buba Kit Cuidados Baby Cinza Tamanho Único | Escova, Pente, Tesoura, Cortador de Unhas",
+    "imagem": "https://m.media-amazon.com/images/I/51meK9jodmL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=malica09-20",
+    "atualizado_em": "2026-10-06T09:01:51.053-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22621352",
     "titulo": "Andador Safari II Infantil Primeiros Passos Tutti Baby Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_954395-MLA96107574707_102025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1U1bmEN",
     "atualizado_em": "2026-10-04T21:06:43.909-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53501937",
-    "titulo": "Bicicleta sem pedais Msp Kids Bicileta para bebe 12 meses - azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_756845-MLA113676011462_072026-F.jpg",
-    "preco": 139.9,
-    "preco_anterior": 239.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/25ZYhfD",
-    "atualizado_em": "2026-10-04T21:01:34.930-03:00"
   }
 ]
