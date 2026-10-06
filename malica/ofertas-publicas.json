@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08G8SYDY1",
+    "titulo": "Oferta para Membros Prime: Body Pacote com 8 bodies de manga curta Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81yDahe4h6L._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08G8SYDY1?tag=malica09-20",
+    "atualizado_em": "2026-10-06T08:51:38.151-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73129562",
     "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WvJ5Ms",
     "atualizado_em": "2026-10-04T20:56:25.387-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22621537",
-    "titulo": "Kit Creator 31134 Ônibus Espacial 144 Peças Lego",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_902000-MLA99475406048_112025-F.jpg",
-    "preco": 90.92,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Umn2Kf",
-    "atualizado_em": "2026-10-04T20:51:16.089-03:00"
   }
 ]
