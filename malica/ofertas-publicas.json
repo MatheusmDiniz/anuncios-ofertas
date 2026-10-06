@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19160770",
+    "titulo": "Shampoo Para Bebê Johnson's Baby De Glicerina 400ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
+    "preco": 18.08,
+    "preco_anterior": 34.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1X4ihef",
+    "atualizado_em": "2026-10-06T14:56:21.378-03:00"
+  },
+  {
     "id": "amazon:B08K4JSQ2M+B08K4MXDVX",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61KzqcJwjDL._AC_SL1500_.jpg",
