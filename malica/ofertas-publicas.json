@@ -2718,35 +2718,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D2DPCP55?tag=malica09-20",
     "atualizado_em": "2026-10-04T12:39:40.068-03:00"
-  },
-  {
-    "id": "amazon:B07D5JZ4B8",
-    "titulo": "Hastes Flexíveis Clingo - Branco",
-    "imagem": "https://m.media-amazon.com/images/I/61bqdEfIHpL._AC_SL1500_.jpg",
-    "preco": 8,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D5JZ4B8?tag=malica09-20",
-    "atualizado_em": "2026-10-04T12:34:35.110-03:00"
-  },
-  {
-    "id": "amazon:B0D9MWJKQ7",
-    "titulo": "Tapete Infantil de Atividades Sensorial para Bebê Interativo com 5 Móbiles e Piano Musical com Som e Luzes (Azul)",
-    "imagem": "https://m.media-amazon.com/images/I/718SBV4Vt7L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D9MWJKQ7?tag=malica09-20",
-    "atualizado_em": "2026-10-04T12:29:30.444-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72984485",
-    "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
-    "preco": 88.99,
-    "preco_anterior": 189.86,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kb8E9B",
-    "atualizado_em": "2026-10-04T12:24:25.879-03:00"
   }
 ]
