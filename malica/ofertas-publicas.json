@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DW4DKXT5",
+    "titulo": "Carmed Fini Minhocas Gel Dental com Flúor Sabor Maçã Verde 70g",
+    "imagem": "https://m.media-amazon.com/images/I/61rQKTmvM6L._AC_SL1500_.jpg",
+    "preco": 4.5,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DW4DKXT5?tag=malica09-20",
+    "atualizado_em": "2026-10-06T08:00:28.426-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28318987",
     "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
@@ -1868,25 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2heMSHE",
     "atualizado_em": "2026-10-04T20:05:11.035-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42137247",
-    "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-F.jpg",
-    "preco": 91.9,
-    "preco_anterior": 187.47,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1617bfR",
-    "atualizado_em": "2026-10-04T20:00:02.812-03:00"
-  },
-  {
-    "id": "shopee:1146454576.58215376863",
-    "titulo": "Conjunto Body Bebe Menina com Calca Tiara e Sapatinho do Tema Ovelhinha",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259y-mrbx59ga6j2d42",
-    "preco": 38.83,
-    "preco_anterior": 55.47,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9zyFKAGhoJ",
-    "atualizado_em": "2026-10-04T19:54:54.396-03:00"
   }
 ]
