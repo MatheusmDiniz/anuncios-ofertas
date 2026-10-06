@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73900526",
+    "titulo": "Colflex Whey Protein Baunilha 10 Sachês 20g De Proteína Baunilha",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
+    "preco": 100,
+    "preco_anterior": 178,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1rQmiNA",
+    "atualizado_em": "2026-10-06T12:43:03.181-03:00"
+  },
+  {
     "id": "amazon:B09BDZZV23",
     "titulo": "Oferta para Membros Prime: Safety 1st, Cadeirinha Multifix, 0 a 36kg, com Isofix, Black Urban",
     "imagem": "https://m.media-amazon.com/images/I/51V-pldzLxL._AC_SL1500_.jpg",
