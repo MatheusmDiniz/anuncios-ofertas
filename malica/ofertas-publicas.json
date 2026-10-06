@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KXW911",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71gXkKF1aPL._AC_SL1500_.jpg",
+    "preco": 0.68,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KXW911?tag=malica09-20",
+    "atualizado_em": "2026-10-06T09:12:04.859-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74126951",
     "titulo": "Carrinho De Passeio Wheels Quadriciclo Infantil Andador Empurrador Maral Baby Quad Laranja",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_779510-MLA113069903672_072026-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Nvjvg2",
     "atualizado_em": "2026-10-04T21:17:19.274-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 109.9,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1BPZ4Jh",
-    "atualizado_em": "2026-10-04T21:11:52.162-03:00"
   }
 ]
