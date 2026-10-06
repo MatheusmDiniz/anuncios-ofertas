@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B1GZMBR1",
+    "titulo": "Oferta para Membros Prime: Fralda Babysec Galinha Pintadinha Ultrasec, Tamanho XXG, 48 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71RFSrWVCPL._AC_SL1500_.jpg",
+    "preco": 0.86,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B1GZMBR1?tag=malica09-20",
+    "atualizado_em": "2026-10-06T10:03:16.768-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76574499",
     "titulo": "Kit 12 Trava Gaveta Magnética Armário Segurança Crianças Branco Brilho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_696153-MLA116183392105_082026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086BVM3QD?tag=malica09-20",
     "atualizado_em": "2026-10-05T08:00:31.911-03:00"
-  },
-  {
-    "id": "shopee:651243506.22198231331",
-    "titulo": "Kit 4 Peças Body De Bebe Infantil Bordado Manga Longa Menina Tecido Suedine 100% Algodão Enxoval de Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhf8vhoh8mbo2e",
-    "preco": 59,
-    "preco_anterior": 140.48,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AKb4wXMWMc",
-    "atualizado_em": "2026-10-04T21:58:25.011-03:00"
   }
 ]
