@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B071G3D55N",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/71dvjfhCDjL._AC_SL1500_.jpg",
+    "preco": 171.96,
+    "preco_anterior": 228.19,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B071G3D55N?tag=malica09-20",
+    "atualizado_em": "2026-10-06T12:58:21.647-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24651314",
     "titulo": "Aquecedor De Mamadeiras - SCF355/07 Philips Avent",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_625420-MLA99993551211_112025-F.jpg",
