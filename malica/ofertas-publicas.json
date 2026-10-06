@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CBCRP3BS",
+    "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
+    "imagem": "https://m.media-amazon.com/images/I/71y1o6ee9IL._AC_SL1500_.jpg",
+    "preco": 23.65,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CBCRP3BS?tag=malica09-20",
+    "atualizado_em": "2026-10-06T16:18:51.153-03:00"
+  },
+  {
     "id": "amazon:B0DCS72VX5",
     "titulo": "Oferta para Membros Prime: Extrator de Leite Manual Essential Philips Avent | Com Recipiente de 125 ml | Almofada de Silicone | Portátil, Leve e Ergonômico | Sem BPA",
     "imagem": "https://m.media-amazon.com/images/I/61eeN8cHNWL._AC_SL1500_.jpg",
