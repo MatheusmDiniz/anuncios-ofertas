@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07QK7SBV9",
+    "titulo": "Oferta para Membros Prime: OMO Roupas Finas E Delicadas - Sabão Líquido Coco 900Ml",
+    "imagem": "https://m.media-amazon.com/images/I/61qUjLKdy4L._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07QK7SBV9?tag=malica09-20",
+    "atualizado_em": "2026-10-06T13:28:56.247-03:00"
+  },
+  {
     "id": "shopee:1619784139.22599201663",
     "titulo": "Abafador Ruído Auricular Infantil Confortável Bebê Protetor De Ruidos",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqx3b42528eccc",
