@@ -2918,35 +2918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C9L6KXQB?tag=malica09-20",
     "atualizado_em": "2026-10-04T10:56:29.814-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45995800",
-    "titulo": "Carrinho De Bebê Passeio Guarda Chuva Styll Baby Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761526-MLA100714060243_122025-F.jpg",
-    "preco": 195.65,
-    "preco_anterior": 405,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Apnwjg",
-    "atualizado_em": "2026-10-04T10:51:00.529-03:00"
-  },
-  {
-    "id": "shopee:1335318004.58216221065",
-    "titulo": "kit Mamadeira Infantil Pimpolho Anticólica livre BPA – Silicone Macio - 150ml/260ml/330ml",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820mi-mo4j34hbfpxh83",
-    "preco": 29.97,
-    "preco_anterior": 47.57,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qNbywNwru",
-    "atualizado_em": "2026-10-04T10:45:51.590-03:00"
-  },
-  {
-    "id": "amazon:B07XP8K162",
-    "titulo": "CeraVe Creme Hidratante Corporal, para Pele Seca a Extra Seca, com 3 Ceramidas Essenciais e Ácido Hialurônico, Hidratação Profunda e Duradoura, Tecnologia MVE, Sem Perfume, 453g : Amazon.com.br: Belez",
-    "imagem": "https://m.media-amazon.com/images/I/51Sfs7Wu+TL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07XP8K162?tag=malica09-20",
-    "atualizado_em": "2026-10-04T10:40:45.657-03:00"
   }
 ]
