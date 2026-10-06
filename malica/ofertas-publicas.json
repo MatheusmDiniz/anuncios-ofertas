@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MREC7R4",
+    "titulo": "Oferta para Membros Prime: Body Pacote com 8 bodies de manga curta Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/710JStX6GcL._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MREC7R4?tag=malica09-20",
+    "atualizado_em": "2026-10-06T20:20:22.391-03:00"
+  },
+  {
     "id": "amazon:B06W9LJ223",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/A1HyrjxTj6L._AC_SL1500_.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
     "atualizado_em": "2026-10-05T08:21:01.159-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44875746",
-    "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
-    "preco": 440.69,
-    "preco_anterior": 745.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1UoGHuf",
-    "atualizado_em": "2026-10-05T08:15:55.873-03:00"
   }
 ]
