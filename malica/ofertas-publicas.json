@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B071G3DL2G",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81PeikaS-RL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B071G3DL2G?tag=malica09-20",
+    "atualizado_em": "2026-10-06T11:04:38.930-03:00"
+  },
+  {
     "id": "shopee:646220829.16705478852",
     "titulo": "Kit 4 Rosquinhas de Amamentação em Algodão com Enchimento Antialérgico Protetor de Seios",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mr7jfdiv0kqt27",
