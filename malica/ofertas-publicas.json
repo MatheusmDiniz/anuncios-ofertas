@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FXN957HN",
+    "titulo": "Quadrados de Algodão Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
+    "atualizado_em": "2026-10-06T08:31:13.391-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23224263",
     "titulo": "Mochila Bolsa Lequeen Dândi Smart Multifuncional Moderna Cor Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751497-MLA113869905450_072026-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6598316502?tag=malica09-20",
     "atualizado_em": "2026-10-04T20:35:51.443-03:00"
-  },
-  {
-    "id": "amazon:B0D98VDMS1",
-    "titulo": "Nathor Bicicleta Infantil Balance Bike Love : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/712LjkU1YjL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D98VDMS1?tag=malica09-20",
-    "atualizado_em": "2026-10-04T20:30:46.422-03:00"
   }
 ]
