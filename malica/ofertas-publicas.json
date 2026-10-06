@@ -2688,35 +2688,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XQuVVJ",
     "atualizado_em": "2026-10-04T12:54:58.603-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75479548",
-    "titulo": "Suporte Banho Bebê Em Pé Ajustável Antiderrapante Torre De Banho Infantil Seguro Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655656-MLA116856101810_092026-F.jpg",
-    "preco": 185.16,
-    "preco_anterior": 349.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qcsDxW",
-    "atualizado_em": "2026-10-04T12:49:52.049-03:00"
-  },
-  {
-    "id": "amazon:6526109268",
-    "titulo": "Sentimentômetro",
-    "imagem": "https://m.media-amazon.com/images/I/71xqEj2EW8L._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": 64,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6526109268?tag=malica09-20",
-    "atualizado_em": "2026-10-04T12:44:44.723-03:00"
-  },
-  {
-    "id": "amazon:B0D2DPCP55",
-    "titulo": "Elka Bluey, Brinquedo, boneco de ação, 2+ Anos",
-    "imagem": "https://m.media-amazon.com/images/I/619Z3Zol2IL._AC_SL1500_.jpg",
-    "preco": 56,
-    "preco_anterior": 104,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D2DPCP55?tag=malica09-20",
-    "atualizado_em": "2026-10-04T12:39:40.068-03:00"
   }
 ]
