@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MFFW1IG",
+    "titulo": "Oferta para Membros Prime: Calças Pacote com 4 calças neutras Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81vzreyuq+L._AC_SL1500_.jpg",
+    "preco": 94,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MFFW1IG?tag=malica09-20",
+    "atualizado_em": "2026-10-06T19:29:06.947-03:00"
+  },
+  {
     "id": "amazon:B07MJ24H93",
     "titulo": "Fórmula Infantil: Aptamil Premium 1 800g - 0-6 meses",
     "imagem": "https://m.media-amazon.com/images/I/61IeVj3q8cL._AC_SL1500_.jpg",
