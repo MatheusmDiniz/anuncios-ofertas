@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08XWCCJYZ",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/91S4ZvP8hiL._AC_SL1500_.jpg",
+    "preco": 83.02,
+    "preco_anterior": 135.98,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08XWCCJYZ?tag=malica09-20",
+    "atualizado_em": "2026-10-06T18:01:45.312-03:00"
+  },
+  {
     "id": "amazon:B09SVT8LM9",
     "titulo": "Play-Doh, Massinha de Modelar Infantil, Brincando de Dentista - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 3 Anos : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/71v0IMRCGpL._AC_SL1500_.jpg",
