@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47549605",
+    "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 399.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zvgDVv",
+    "atualizado_em": "2026-10-06T09:37:41.231-03:00"
+  },
+  {
     "id": "amazon:B0CN78J7WM",
     "titulo": "Oferta para Membros Prime: Creme Contra Assaduras Nebacetin Baby Prevenção - Pele Macia Hidratada e Saudável, Para Peles Sensíveis e Delicadas, Creme de Assadura Bebê - 30g",
     "imagem": "https://m.media-amazon.com/images/I/71MiosSauyL._AC_SL1500_.jpg",
