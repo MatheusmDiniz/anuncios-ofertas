@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B073WMLVPR",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/91JZnlDzvSL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B073WMLVPR?tag=malica09-20",
+    "atualizado_em": "2026-10-06T10:13:31.339-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72860329",
     "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
