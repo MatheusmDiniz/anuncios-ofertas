@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72720626",
+    "titulo": "Berço Portátil PipDip Co-Sleeper, Com Balanço e Colchão Extra Grosso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642241-MLA115658811869_082026-F.jpg",
+    "preco": 575.9,
+    "preco_anterior": 1299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/16AzQhD",
+    "atualizado_em": "2026-10-06T13:54:58.007-03:00"
+  },
+  {
     "id": "amazon:B0CHZCH5VL",
     "titulo": "Oferta para Membros Prime: Cadeira de Descanso Bebê Musical Polar Bege 18kgs Maxi Baby",
     "imagem": "https://m.media-amazon.com/images/I/51HNh20YHgL._AC_SL1500_.jpg",
