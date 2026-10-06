@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74126951",
+    "titulo": "Carrinho De Passeio Wheels Quadriciclo Infantil Andador Empurrador Maral Baby Quad Laranja",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_779510-MLA113069903672_072026-F.jpg",
+    "preco": 349.9,
+    "preco_anterior": 598.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2nVNQXo",
+    "atualizado_em": "2026-10-06T09:07:00.549-03:00"
+  },
+  {
     "id": "amazon:B086JCX68G",
     "titulo": "Oferta para Membros Prime: Buba Kit Cuidados Baby Cinza Tamanho Único | Escova, Pente, Tesoura, Cortador de Unhas",
     "imagem": "https://m.media-amazon.com/images/I/51meK9jodmL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1BPZ4Jh",
     "atualizado_em": "2026-10-04T21:11:52.162-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB70151841",
-    "titulo": "Cadeira De Alimentação Bebê Portátil Daily 4 Em 1 + Rodinhas Daily Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_834877-MLA112190165739_052026-F.jpg",
-    "preco": 243,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1U1bmEN",
-    "atualizado_em": "2026-10-04T21:06:43.909-03:00"
   }
 ]
