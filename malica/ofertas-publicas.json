@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09GSQMJ5T",
+    "titulo": "VOCÊ MERECE SE CUIDAR!  SEUS CABELOS AGRADECEM!",
+    "imagem": "https://m.media-amazon.com/images/I/51Jjvh-r-vL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09GSQMJ5T?tag=malica09-20",
+    "atualizado_em": "2026-10-05T21:36:44.110-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19924449",
     "titulo": "Mustela Gel Lavante Calmante para Pele Muito Sensível 300mL",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_720160-MLA99845836617_112025-F.jpg",
