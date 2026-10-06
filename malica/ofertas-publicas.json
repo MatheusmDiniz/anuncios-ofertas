@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19924449",
+    "titulo": "Mustela Gel Lavante Calmante para Pele Muito Sensível 300mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720160-MLA99845836617_112025-F.jpg",
+    "preco": 115,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oxnSdK",
+    "atualizado_em": "2026-10-05T21:31:38.744-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38625704",
     "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
@@ -3018,15 +3028,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B7vBfEZGR",
     "atualizado_em": "2026-10-04T09:33:15.680-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42162531",
-    "titulo": "Bicicleta de Equilíbrio Infantil Rosa 4 Rodas Sem Pedal Bebê MSP Kids, Primeira Bike para Criança a Partir de 1 Ano, Assento Ergonômico, Guidão Ajustável até 140°, Pneus em EVA e Aço Carbono",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877618-MLA116755920479_082026-F.jpg",
-    "preco": 76.43,
-    "preco_anterior": 157.47,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32DJxoj",
-    "atualizado_em": "2026-10-04T09:28:10.104-03:00"
   }
 ]
