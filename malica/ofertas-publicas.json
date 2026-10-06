@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H5FHZ29G",
+    "titulo": "Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81xPft61SiL._AC_SL1500_.jpg",
+    "preco": 130,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H5FHZ29G?tag=malica09-20",
+    "atualizado_em": "2026-10-06T20:05:06.970-03:00"
+  },
+  {
     "id": "amazon:B0GV4ZJL87",
     "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
     "imagem": "https://m.media-amazon.com/images/I/71sSMlaRWzL._AC_SL1500_.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1jVQ4c9",
     "atualizado_em": "2026-10-05T08:05:43.467-03:00"
-  },
-  {
-    "id": "amazon:B086BVM3QD",
-    "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/711DZcFWQWL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B086BVM3QD?tag=malica09-20",
-    "atualizado_em": "2026-10-05T08:00:31.911-03:00"
   }
 ]
