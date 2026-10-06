@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B06W9LJ223",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/A1HyrjxTj6L._AC_SL1500_.jpg",
+    "preco": 113,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B06W9LJ223?tag=malica09-20",
+    "atualizado_em": "2026-10-06T20:15:18.144-03:00"
+  },
+  {
     "id": "amazon:B0GHPNMM7L",
     "titulo": "Principia, Kit Anti Oleosidade com um um gel de limpeza com mix de tensoativos + PCA sódio + glicerina, um sérum de niacinamida + zinco pca e um protetor solar fluido antioleosidade com mix de filtros",
     "imagem": "https://m.media-amazon.com/images/I/51FcAToj7NL._AC_SL1500_.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1UoGHuf",
     "atualizado_em": "2026-10-05T08:15:55.873-03:00"
-  },
-  {
-    "id": "amazon:B0DK3M6161",
-    "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Superproteção M 34 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71K4ZODPSoL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DK3M6161?tag=malica09-20",
-    "atualizado_em": "2026-10-05T08:10:48.142-03:00"
   }
 ]
