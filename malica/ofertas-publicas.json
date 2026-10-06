@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09BDZZV23",
+    "titulo": "Oferta para Membros Prime: Safety 1st, Cadeirinha Multifix, 0 a 36kg, com Isofix, Black Urban",
+    "imagem": "https://m.media-amazon.com/images/I/51V-pldzLxL._AC_SL1500_.jpg",
+    "preco": 833,
+    "preco_anterior": 1449,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09BDZZV23?tag=malica09-20",
+    "atualizado_em": "2026-10-06T12:37:55.542-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56101048",
     "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
