@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53974840",
+    "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
+    "preco": 439.56,
+    "preco_anterior": 999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1pGxkyW",
+    "atualizado_em": "2026-10-06T09:27:26.309-03:00"
+  },
+  {
     "id": "amazon:B086X31ZLG",
     "titulo": "Oferta para Membros Prime: Cicatricure Maternity Creme Antiestrias 250ml - Gestantes e Pós-Gestação",
     "imagem": "https://m.media-amazon.com/images/I/71CcSQidgPL._AC_SL1500_.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1jUsuSp",
     "atualizado_em": "2026-10-04T21:27:43.532-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56104304",
-    "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
-    "preco": 132.62,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11a9Z7t",
-    "atualizado_em": "2026-10-04T21:22:34.642-03:00"
   }
 ]
