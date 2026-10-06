@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73129562",
+    "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
+    "preco": 322,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Nhu2dc",
+    "atualizado_em": "2026-10-06T08:46:35.540-03:00"
+  },
+  {
     "id": "amazon:B07ZQMBFMX",
     "titulo": "Sabão Liquido Brilhante 5L : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/71Ze0qNh55L._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Umn2Kf",
     "atualizado_em": "2026-10-04T20:51:16.089-03:00"
-  },
-  {
-    "id": "shopee:391751753.58210250288",
-    "titulo": "Kit 3 Body Bebê Menina Alcinha 100% Algodão Roupa de Bebê Conjunto Borys Bebê Borie Regatinha Blusa bebê 1 a 12 meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mnxi6on8mtq96f",
-    "preco": 30,
-    "preco_anterior": 69.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qNbyp9Nq7",
-    "atualizado_em": "2026-10-04T20:46:05.524-03:00"
   }
 ]
