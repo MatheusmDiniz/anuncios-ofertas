@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07NSPNCCS",
+    "titulo": "Oferta para Membros Prime: Macacão de dormir para bebês Pijama e brincadeira com pés de lã para bebês, pacote com 2 Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/91r-ilG1-pL._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07NSPNCCS?tag=malica09-20",
+    "atualizado_em": "2026-10-06T20:30:32.758-03:00"
+  },
+  {
     "id": "amazon:B0744PN2MS",
     "titulo": "Cobertor com mangas 3-pack Neutral Cotton Sleeper Gown Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/71m3toyKNfL._AC_SL1500_.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
     "atualizado_em": "2026-10-05T08:31:13.610-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB48920952",
-    "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
-    "preco": 188.11,
-    "preco_anterior": 346.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1aiY5ux",
-    "atualizado_em": "2026-10-05T08:26:09.128-03:00"
   }
 ]
