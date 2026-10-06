@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0964WBFFG",
+    "titulo": "Oferta para Membros Prime: Ninho, Leite Po Integral, Pacote 750g",
+    "imagem": "https://m.media-amazon.com/images/I/51ru-EEtLVL._AC_SL1500_.jpg",
+    "preco": 35,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0964WBFFG?tag=malica09-20",
+    "atualizado_em": "2026-10-06T16:34:09.205-03:00"
+  },
+  {
     "id": "amazon:B08QG3H6YR",
     "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
