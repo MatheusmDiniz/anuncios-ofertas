@@ -2398,35 +2398,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8Kq1o0kzWY",
     "atualizado_em": "2026-10-04T15:23:12.116-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21458216",
-    "titulo": "Ursinho Que Reza Rosa Urso De Pelucia Hipoalergênico Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823797-MLA96103244877_102025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 185.57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1YPSy87",
-    "atualizado_em": "2026-10-04T15:18:08.052-03:00"
-  },
-  {
-    "id": "amazon:B08Y1Z25MG",
-    "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
-    "preco": 75,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08Y1Z25MG?tag=malica09-20",
-    "atualizado_em": "2026-10-04T15:13:00.599-03:00"
-  },
-  {
-    "id": "shopee:790794583.58213955100",
-    "titulo": "Kit 3 Macacões Bebê Infantil 100% Algodão para Menino Macacão com Zíper Vira Pé",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqv5045w91j4a7",
-    "preco": 66.89,
-    "preco_anterior": 109.66,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70KcyPZD7m",
-    "atualizado_em": "2026-10-04T15:07:57.243-03:00"
   }
 ]
