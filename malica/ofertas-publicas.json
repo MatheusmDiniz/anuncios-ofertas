@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GT26DW1Y",
+    "titulo": "Fralda Turma da Monica Baby Giga XG 60 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71tkwIq7mZL._AC_SL1500_.jpg",
+    "preco": 0.88,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GT26DW1Y?tag=malica09-20",
+    "atualizado_em": "2026-10-06T08:10:44.876-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19559660",
     "titulo": "Patrulha Canina - Veículos Básicos - Rocky - Sunny - 2722",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_640618-MLA99564227278_122025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1pegqJk",
     "atualizado_em": "2026-10-04T20:15:24.473-03:00"
-  },
-  {
-    "id": "shopee:1073409580.20299601130",
-    "titulo": "Bota Texana Infantil Menina Country Cano Longo com Ziper Lateral",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9z8qvawice182",
-    "preco": 79.99,
-    "preco_anterior": 150.92,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qcYNxzdLT",
-    "atualizado_em": "2026-10-04T20:10:15.595-03:00"
   }
 ]
