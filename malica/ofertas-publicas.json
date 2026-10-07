@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZQVVP87",
+    "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
+    "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
+    "preco": 67,
+    "preco_anterior": 90,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
+    "atualizado_em": "2026-10-07T09:43:56.958-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44897509",
     "titulo": "Grade de Proteção Infantil Masc Metais Tela Aço Carbono Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_668375-MLA100108532235_122025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/gQZQlxJyq",
     "atualizado_em": "2026-10-05T21:47:01.327-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67071722",
-    "titulo": "Bicicleta De Equilibrio Infantil Sem Pedal Verde 21270 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_927876-MLA111293501262_052026-F.jpg",
-    "preco": 231,
-    "preco_anterior": 390.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1n8d434",
-    "atualizado_em": "2026-10-05T21:41:53.186-03:00"
   }
 ]
