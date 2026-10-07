@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B082L13YPQ",
+    "titulo": "Oferta para Membros Prime: Lenços Umedecidos Pampers Aroma de Aloe Vera 192 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61ZtoLSExdL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B082L13YPQ?tag=malica09-20",
+    "atualizado_em": "2026-10-07T08:41:57.915-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66427747",
     "titulo": "Kit com 10 Potinhos de Vidro 40ml com Rolha de Madeira para Lembrancinhas e Decoração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_734780-MLA108809337961_032026-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B089PF67DR?tag=malica09-20",
     "atualizado_em": "2026-10-05T20:45:17.852-03:00"
-  },
-  {
-    "id": "amazon:B07Y94W69D",
-    "titulo": "Oferta: Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista Gigante com lançador, rampas e ataque do T-Rex motorizado. para crianças a partir de 4 anos.",
-    "imagem": "https://m.media-amazon.com/images/I/81q94ZM9zjL._AC_SL1500_.jpg",
-    "preco": 899.99,
-    "preco_anterior": 1359,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Y94W69D?tag=malica09-20",
-    "atualizado_em": "2026-10-05T20:40:11.936-03:00"
   }
 ]
