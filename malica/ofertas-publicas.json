@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DR9PH47L",
+    "titulo": "Fralda Huggies Premium Dermacare RN - 34 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71yosOKC7mL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DR9PH47L?tag=malica09-20",
+    "atualizado_em": "2026-10-07T08:31:41.813-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75833623",
     "titulo": "Banheira Bebe Dobrável Com Termômetro Verde Almofada Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_711553-MLA113938711326_072026-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C5NQFRGB?tag=malica09-20",
     "atualizado_em": "2026-10-05T20:35:06.348-03:00"
-  },
-  {
-    "id": "amazon:B0DTV5NFZM",
-    "titulo": "Aviao De Resgate Marshall, Patrulha Canina, Sunny : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/6105Y41T3CL._AC_SL1500_.jpg",
-    "preco": 137.2,
-    "preco_anterior": 229.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DTV5NFZM?tag=malica09-20",
-    "atualizado_em": "2026-10-05T20:30:00.331-03:00"
   }
 ]
