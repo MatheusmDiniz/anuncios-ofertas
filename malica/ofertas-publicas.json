@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38303632",
+    "titulo": "Mochila Maternidade The Land Cor Cinza com Bege - 38cm",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807133-MLA99502984234_112025-F.jpg",
+    "preco": 156,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1JSFNvc",
+    "atualizado_em": "2026-10-07T14:37:33.714-03:00"
+  },
+  {
     "id": "amazon:B0CP6BZHK3",
     "titulo": "Oferta para Membros Prime: Apple iPhone 15 (256 GB) — Azul",
     "imagem": "https://m.media-amazon.com/images/I/41+jLq6yJKL._AC_SL1500_.jpg",
