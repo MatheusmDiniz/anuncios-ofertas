@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18581975",
+    "titulo": "LEGO Classic - Caixa Média de Peças Criativas - 484 Peças - 10696",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687392-MLA100031125891_122025-F.jpg",
+    "preco": 199.99,
+    "preco_anterior": 349.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2aHiwgX",
+    "atualizado_em": "2026-10-07T14:58:08.930-03:00"
+  },
+  {
     "id": "amazon:B07MLMGNLB",
     "titulo": "Oferta para Membros Prime: Neslac Composto Lácteo Supreme 800G",
     "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
