@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BGM5LZ5D",
+    "titulo": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51PYy46YwPL._AC_SL1500_.jpg",
+    "preco": 73.81,
+    "preco_anterior": 116.07,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BGM5LZ5D?tag=malica09-20",
+    "atualizado_em": "2026-10-07T08:52:13.212-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65182414",
     "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_819484-MLA113805637467_062026-F.jpg",
