@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74675165",
+    "titulo": "Bomba De Tirar Leite Materno Portátil Elétricas Antuvi Vestível Mãos Livres De Cabeça Dupla 17-24mm Flanges 180 ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911878-MLA114024882597_072026-F.jpg",
+    "preco": 178,
+    "preco_anterior": 438.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dKmgSP",
+    "atualizado_em": "2026-10-07T08:16:22.877-03:00"
+  },
+  {
     "id": "amazon:B0GW48RBS7",
     "titulo": "Oferta para Membros Prime: Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71+tkckV3RL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=malica09-20",
     "atualizado_em": "2026-10-05T20:19:47.991-03:00"
-  },
-  {
-    "id": "amazon:B07X83FF8M",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 78 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61XQcYdEJiL._AC_SL1500_.jpg",
-    "preco": 93.89,
-    "preco_anterior": 151.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X83FF8M?tag=malica09-20",
-    "atualizado_em": "2026-10-05T20:14:41.774-03:00"
   }
 ]
