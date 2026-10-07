@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75833623",
+    "titulo": "Banheira Bebe Dobrável Com Termômetro Verde Almofada Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711553-MLA113938711326_072026-F.jpg",
+    "preco": 149.9,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Rti5yd",
+    "atualizado_em": "2026-10-07T08:26:36.493-03:00"
+  },
+  {
     "id": "amazon:B0FPSPP7N5",
     "titulo": "Oferta para Membros Prime: Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/61zvjBzkh3L._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DTV5NFZM?tag=malica09-20",
     "atualizado_em": "2026-10-05T20:30:00.331-03:00"
-  },
-  {
-    "id": "amazon:B08N8PWLM6",
-    "titulo": "Exposis Bebe, Repelente Baby com Icaridina, Gel 117g : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/51cRqKkaCiL._AC_SL1500_.jpg",
-    "preco": 41.05,
-    "preco_anterior": 73.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08N8PWLM6?tag=malica09-20",
-    "atualizado_em": "2026-10-05T20:24:53.887-03:00"
   }
 ]
