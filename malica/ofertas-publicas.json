@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JXN4GM6",
+    "titulo": "Pote Termico C/Colher - Gumy Verde, Buba, Verde : Amazon.com.br: Cozinha",
+    "imagem": "https://m.media-amazon.com/images/I/41D0T4KyttS._AC_SL1500_.jpg",
+    "preco": 75.78,
+    "preco_anterior": 138,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JXN4GM6?tag=malica09-20",
+    "atualizado_em": "2026-10-07T11:57:25.247-03:00"
+  },
+  {
     "id": "shopee:967746038.23694425476",
     "titulo": "Kit 4 Rosquinhas de Amamentação Protetor 100% Algodão Macio",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
