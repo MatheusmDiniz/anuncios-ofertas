@@ -2448,35 +2448,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FH7JFL16?tag=malica09-20",
     "atualizado_em": "2026-10-05T15:07:10.089-03:00"
-  },
-  {
-    "id": "amazon:B09WTLQ53R",
-    "titulo": "Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1)",
-    "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
-    "preco": 57,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09WTLQ53R?tag=malica09-20",
-    "atualizado_em": "2026-10-05T15:02:05.555-03:00"
-  },
-  {
-    "id": "amazon:B0CNQ8YDSK",
-    "titulo": "Oferta para Membros Prime: Pampers Loção Hidratante Girassol 400ml | Textura Fluida",
-    "imagem": "https://m.media-amazon.com/images/I/61ZoiFttVSL._AC_SL1500_.jpg",
-    "preco": 30,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CNQ8YDSK?tag=malica09-20",
-    "atualizado_em": "2026-10-05T14:57:00.310-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42639818",
-    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
-    "preco": 433.31,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1hFvrLD",
-    "atualizado_em": "2026-10-05T14:51:55.015-03:00"
   }
 ]
