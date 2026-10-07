@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DMFL21QM",
+    "titulo": "Algodão Quadrado Amamente® Baby 50 UN",
+    "imagem": "https://m.media-amazon.com/images/I/719pQ7tkRBL._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DMFL21QM?tag=malica09-20",
+    "atualizado_em": "2026-10-07T13:50:53.498-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38429999",
     "titulo": "Kit 36 Adesivos Ronzan Repelente Infantil Óleo Citronela Multicolor Mosquitos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_671005-MLA100098031451_122025-F.jpg",
