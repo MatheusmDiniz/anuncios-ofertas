@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65182414",
+    "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819484-MLA113805637467_062026-F.jpg",
+    "preco": 167.9,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1UwvWiP",
+    "atualizado_em": "2026-10-07T08:47:07.299-03:00"
+  },
+  {
     "id": "amazon:B082L13YPQ",
     "titulo": "Oferta para Membros Prime: Lenços Umedecidos Pampers Aroma de Aloe Vera 192 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61ZtoLSExdL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DPNCJFNY?tag=malica09-20",
     "atualizado_em": "2026-10-05T20:50:23.763-03:00"
-  },
-  {
-    "id": "amazon:B089PF67DR",
-    "titulo": "Ricca Hastes Flexíveis Baby Ricca 60un : Amazon.com.br: Beleza",
-    "imagem": "https://m.media-amazon.com/images/I/51ZI6tKmkrL._AC_SL1500_.jpg",
-    "preco": 7,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B089PF67DR?tag=malica09-20",
-    "atualizado_em": "2026-10-05T20:45:17.852-03:00"
   }
 ]
