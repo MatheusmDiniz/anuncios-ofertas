@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09CRHZV85",
+    "titulo": "Cereal Sucrilhos® Original Kellogg",
+    "imagem": "https://m.media-amazon.com/images/I/81MD05MZl5L._AC_SL1500_.jpg",
+    "preco": 24,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09CRHZV85?tag=malica09-20",
+    "atualizado_em": "2026-10-07T17:02:27.676-03:00"
+  },
+  {
     "id": "amazon:B072BXQK4X",
     "titulo": "Oferta para Membros Prime: Shampoo e Sabonete de Laranja para Crianças | 2 em 1| Fragrância Natural com Óleo de Gergelim | 150ml",
     "imagem": "https://m.media-amazon.com/images/I/61BsSI+c1BL._AC_SL1500_.jpg",
