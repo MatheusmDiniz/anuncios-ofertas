@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CBL2H3M",
+    "titulo": "Estrela, Jogo Tapa Certo | Para 5 Anos ou Mais, Inclui Mãozinhas, Cartas Redondas, Tema de Animais, Jogo em Família",
+    "imagem": "https://m.media-amazon.com/images/I/619Vr4UzwqL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CBL2H3M?tag=malica09-20",
+    "atualizado_em": "2026-10-07T17:17:47.054-03:00"
+  },
+  {
     "id": "amazon:B0G44S7RN1",
     "titulo": "Patinete Infantil Dobrável 3 Rodas Led Luppy Maxi Toys (Rosa) : Amazon.com.br: Esporte",
     "imagem": "https://m.media-amazon.com/images/I/41IPrlt0j3L._AC_SL1500_.jpg",
