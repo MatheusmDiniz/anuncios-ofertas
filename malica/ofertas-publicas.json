@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09LRFMY7Q",
+    "titulo": "Oferta para Membros Prime: Buba Kit Cuidados Multicolorido",
+    "imagem": "https://m.media-amazon.com/images/I/513CzCVbT1L._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": 47,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=malica09-20",
+    "atualizado_em": "2026-10-07T16:41:38.802-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27914031",
     "titulo": "Brinquedo De Banho Bebê Chuveirinho Banheira Coala Buba Cor Água",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_903132-MLU72487501411_102023-F.jpg",
