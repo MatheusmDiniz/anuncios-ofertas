@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MLMGNLB",
+    "titulo": "Oferta para Membros Prime: Neslac Composto Lácteo Supreme 800G",
+    "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
+    "preco": 68,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MLMGNLB?tag=malica09-20",
+    "atualizado_em": "2026-10-07T14:52:57.598-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72984485",
     "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
