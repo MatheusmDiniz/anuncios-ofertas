@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26234856",
+    "titulo": "Totokinha Cardoso Toys Carrinho Andador Triciclo Menino Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705389-MLA118512524509_092026-F.jpg",
+    "preco": 119.99,
+    "preco_anterior": 219.89,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1x5k8s9",
+    "atualizado_em": "2026-10-07T09:17:52.441-03:00"
+  },
+  {
     "id": "amazon:B0FS98FS9T",
     "titulo": "Toalha de Banho Bebê Papi Soft com Capuz Bordada 90x75 cm, Margaridas, Rosa",
     "imagem": "https://m.media-amazon.com/images/I/51G9GA5m2oL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=malica09-20",
     "atualizado_em": "2026-10-05T21:21:18.856-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24765774",
-    "titulo": "Triângulo De Atividades Educativo Para Bebê - Buba Cor Colorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_887780-MLA95497851780_102025-F.jpg",
-    "preco": 95.07,
-    "preco_anterior": 177.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1qsS8kL",
-    "atualizado_em": "2026-10-05T21:16:12.743-03:00"
   }
 ]
