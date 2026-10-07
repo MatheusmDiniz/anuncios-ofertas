@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44897509",
+    "titulo": "Grade de Proteção Infantil Masc Metais Tela Aço Carbono Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668375-MLA100108532235_122025-F.jpg",
+    "preco": 41.35,
+    "preco_anterior": 79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1o4zvPp",
+    "atualizado_em": "2026-10-07T09:38:52.520-03:00"
+  },
+  {
     "id": "amazon:B08JXND5C7",
     "titulo": "Buba Pote Termico C/Colher - Gumy Rosa Buba Rosa : Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/41TOR1cRICL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1n8d434",
     "atualizado_em": "2026-10-05T21:41:53.186-03:00"
-  },
-  {
-    "id": "amazon:B09GSQMJ5T",
-    "titulo": "VOCÊ MERECE SE CUIDAR!  SEUS CABELOS AGRADECEM!",
-    "imagem": "https://m.media-amazon.com/images/I/51Jjvh-r-vL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09GSQMJ5T?tag=malica09-20",
-    "atualizado_em": "2026-10-05T21:36:44.110-03:00"
   }
 ]
