@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YK3CVLY",
+    "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+    "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
+    "preco": 93.51,
+    "preco_anterior": 136.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
+    "atualizado_em": "2026-10-07T20:13:11.451-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74536231",
     "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1tvYgbZ",
     "atualizado_em": "2026-10-06T08:15:53.679-03:00"
-  },
-  {
-    "id": "amazon:B0GT26DW1Y",
-    "titulo": "Fralda Turma da Monica Baby Giga XG 60 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71tkwIq7mZL._AC_SL1500_.jpg",
-    "preco": 0.88,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GT26DW1Y?tag=malica09-20",
-    "atualizado_em": "2026-10-06T08:10:44.876-03:00"
   }
 ]
