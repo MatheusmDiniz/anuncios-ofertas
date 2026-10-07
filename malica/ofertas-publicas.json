@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09MZXLW51+B0C3FK76V3+B0C3FSF7KF",
+    "titulo": "Oferta para Membros Prime: Personal Fralda Baby Premium Protection P, 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51p6dMmnxrL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=malica09-20",
+    "atualizado_em": "2026-10-07T15:03:12.740-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18581975",
     "titulo": "LEGO Classic - Caixa Média de Peças Criativas - 484 Peças - 10696",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_687392-MLA100031125891_122025-F.jpg",
