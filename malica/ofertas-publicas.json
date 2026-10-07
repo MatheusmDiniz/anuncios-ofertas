@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXJ12QQ",
+    "titulo": "Oferta para Membros Prime: Huggies Fralda Supreme Care M 196 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
+    "preco": 135.91,
+    "preco_anterior": 229.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
+    "atualizado_em": "2026-10-07T20:02:27.290-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39426115",
     "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2f97fzY",
     "atualizado_em": "2026-10-06T08:05:37.315-03:00"
-  },
-  {
-    "id": "amazon:B0DW4DKXT5",
-    "titulo": "Carmed Fini Minhocas Gel Dental com Flúor Sabor Maçã Verde 70g",
-    "imagem": "https://m.media-amazon.com/images/I/61rQKTmvM6L._AC_SL1500_.jpg",
-    "preco": 4.5,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DW4DKXT5?tag=malica09-20",
-    "atualizado_em": "2026-10-06T08:00:28.426-03:00"
   }
 ]
