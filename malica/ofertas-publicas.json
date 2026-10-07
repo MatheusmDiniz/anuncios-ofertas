@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09XSY7WYZ",
+    "titulo": "Aparelho de Jantar e Chá 20 peças Donna Colb",
+    "imagem": "https://m.media-amazon.com/images/I/61oh7BFSgiL._AC_SL1500_.jpg",
+    "preco": 176,
+    "preco_anterior": 299,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09XSY7WYZ?tag=malica09-20",
+    "atualizado_em": "2026-10-07T17:53:30.325-03:00"
+  },
+  {
     "id": "amazon:B08K4JSQ2M",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 96 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61ClanZn8jL._AC_SL1500_.jpg",
