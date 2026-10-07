@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26675721",
+    "titulo": "Atentu Cercadinho Para Bebê Cor Azul Infantil Chiqueirinho Criança",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749756-MLA95697851054_102025-F.jpg",
+    "preco": 129.9,
+    "preco_anterior": 219.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EASQR2",
+    "atualizado_em": "2026-10-07T20:49:11.202-03:00"
+  },
+  {
     "id": "amazon:B0CQPLSGMW",
     "titulo": "Oferta para Membros Prime: Hastes Flexíveis HastyBaby - A Partir de 0+ Meses - Maciez e Conforto para Higienização do Bebê - Caixa com 50 Unidades - Lolly",
     "imagem": "https://m.media-amazon.com/images/I/71Tq5tHd3iL._AC_SL1500_.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08G8SYDY1?tag=malica09-20",
     "atualizado_em": "2026-10-06T08:51:38.151-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73129562",
-    "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
-    "preco": 322,
-    "preco_anterior": 699.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Nhu2dc",
-    "atualizado_em": "2026-10-06T08:46:35.540-03:00"
   }
 ]
