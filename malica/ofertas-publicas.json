@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRL34V",
+    "titulo": "Oferta para Membros Prime: Loção Hidratante Corporal Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41JShnIUmZL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRL34V?tag=malica09-20",
+    "atualizado_em": "2026-10-07T12:38:12.283-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40861843",
     "titulo": "Tapete De Atividades Baby Com Play Piano Baleia Azul - Interativo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742602-MLA96134695877_102025-F.jpg",
