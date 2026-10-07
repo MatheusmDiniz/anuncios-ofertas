@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DR9P38P8",
+    "titulo": "Fralda Huggies Premium Dermacare P - 36 Un",
+    "imagem": "https://m.media-amazon.com/images/I/612uJGipXDL._AC_SL1500_.jpg",
+    "preco": 46.66,
+    "preco_anterior": 76.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DR9P38P8?tag=malica09-20",
+    "atualizado_em": "2026-10-07T09:02:27.487-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46014518",
     "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11b2CJd",
     "atualizado_em": "2026-10-05T21:05:51.516-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB37702563",
-    "titulo": "Carrinho Ts Kansas + Base Black/preto Premium Baby Chassi Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_643678-MLA99504365432_112025-F.jpg",
-    "preco": 1495.94,
-    "preco_anterior": 2680.88,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bUBouT",
-    "atualizado_em": "2026-10-05T21:00:40.273-03:00"
   }
 ]
