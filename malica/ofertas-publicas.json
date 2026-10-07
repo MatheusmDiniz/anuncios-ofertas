@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076YXYPGX",
+    "titulo": "Oferta para Membros Prime: Granado Sabonete Cremoso Dermocalmante, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/411Xt-hYRGL._AC_SL1500_.jpg",
+    "preco": 28.71,
+    "preco_anterior": 36.59,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076YXYPGX?tag=malica09-20",
+    "atualizado_em": "2026-10-07T09:54:12.321-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB31739631",
     "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2tjqGTg",
     "atualizado_em": "2026-10-05T21:57:19.540-03:00"
-  },
-  {
-    "id": "shopee:1145578475.23993936364",
-    "titulo": "Conjunto Bebê Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Estampa Exclusiva",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mtk8gvyl04jl14",
-    "preco": 42.99,
-    "preco_anterior": 70.48,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4LJsZkcHJk",
-    "atualizado_em": "2026-10-05T21:52:09.538-03:00"
   }
 ]
