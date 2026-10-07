@@ -2738,35 +2738,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FFTMN54M?tag=malica09-20",
     "atualizado_em": "2026-10-05T12:37:47.579-03:00"
-  },
-  {
-    "id": "amazon:B077BY8HQV",
-    "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
-    "imagem": "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1500_.jpg",
-    "preco": 43,
-    "preco_anterior": 81,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=malica09-20",
-    "atualizado_em": "2026-10-05T12:32:16.114-03:00"
-  },
-  {
-    "id": "amazon:B0CPT8CMSM",
-    "titulo": "Pampers Sabonete Líquido Glicerina 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=malica09-20",
-    "atualizado_em": "2026-10-05T12:27:10.835-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20969462",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa CGN63 4 Peças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
-    "preco": 83.9,
-    "preco_anterior": 159.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32opZnB",
-    "atualizado_em": "2026-10-05T12:22:07.441-03:00"
   }
 ]
