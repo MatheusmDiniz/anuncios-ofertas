@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08R9XTH39",
+    "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
+    "imagem": "https://m.media-amazon.com/images/I/71bM2gkihVL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08R9XTH39?tag=malica09-20",
+    "atualizado_em": "2026-10-07T16:26:12.173-03:00"
+  },
+  {
     "id": "amazon:B07DHR9LSK",
     "titulo": "Shampoo Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
