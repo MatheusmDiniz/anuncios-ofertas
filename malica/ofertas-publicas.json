@@ -2208,35 +2208,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
     "atualizado_em": "2026-10-05T17:09:35.606-03:00"
-  },
-  {
-    "id": "amazon:B09XJL4B9H",
-    "titulo": "Oferta para Membros Prime: Electrolux, Pote Hermetico, 12 unidades, A23122901, cinza | BPA Free, Porta Mantimentos",
-    "imagem": "https://m.media-amazon.com/images/I/51uccv-jBiL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=malica09-20",
-    "atualizado_em": "2026-10-05T17:04:31.308-03:00"
-  },
-  {
-    "id": "amazon:B0FH7C4YCS",
-    "titulo": "Oferta para Membros Prime: Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 120 ml",
-    "imagem": "https://m.media-amazon.com/images/I/61VAbwR6a2L._AC_SL1500_.jpg",
-    "preco": 34,
-    "preco_anterior": 87,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FH7C4YCS?tag=malica09-20",
-    "atualizado_em": "2026-10-05T16:59:27.519-03:00"
-  },
-  {
-    "id": "amazon:B08YMXTLX2",
-    "titulo": "Oferta para Membros Prime: Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto",
-    "imagem": "https://m.media-amazon.com/images/I/51nOrXgzqFL._AC_SL1500_.jpg",
-    "preco": 530,
-    "preco_anterior": 829,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08YMXTLX2?tag=malica09-20",
-    "atualizado_em": "2026-10-05T16:54:21.598-03:00"
   }
 ]
