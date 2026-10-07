@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F4G5NL2K",
+    "titulo": "Oferta para Membros Prime: Lenços Umedecidos Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
+    "preco": 45,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
+    "atualizado_em": "2026-10-07T14:42:41.968-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38303632",
     "titulo": "Mochila Maternidade The Land Cor Cinza com Bege - 38cm",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_807133-MLA99502984234_112025-F.jpg",
