@@ -2038,35 +2038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CVYRV24P?tag=malica09-20",
     "atualizado_em": "2026-10-05T18:37:01.649-03:00"
-  },
-  {
-    "id": "amazon:B0CNQ9C8TC",
-    "titulo": "Oferta para Membros Prime: Pampers Sabonete Liquido Refil Glicerina 350ml",
-    "imagem": "https://m.media-amazon.com/images/I/71jkq4uh1hL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CNQ9C8TC?tag=malica09-20",
-    "atualizado_em": "2026-10-05T18:31:56.307-03:00"
-  },
-  {
-    "id": "amazon:B0DSC8C4XH",
-    "titulo": "Fralda Huggies Premium Dermacare XG - 38 Un",
-    "imagem": "https://m.media-amazon.com/images/I/719yVPNSxpL._AC_SL1500_.jpg",
-    "preco": 71,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DSC8C4XH?tag=malica09-20",
-    "atualizado_em": "2026-10-05T18:26:50.313-03:00"
-  },
-  {
-    "id": "amazon:B08YP163DD",
-    "titulo": "Oferta para Membros Prime: Bicicleta De Equilibrio Buba, 4 Rodas",
-    "imagem": "https://m.media-amazon.com/images/I/51YQ6uX9w5L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08YP163DD?tag=malica09-20",
-    "atualizado_em": "2026-10-05T18:21:44.316-03:00"
   }
 ]
