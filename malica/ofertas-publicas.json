@@ -2008,35 +2008,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BVXB6SHF?tag=malica09-20",
     "atualizado_em": "2026-10-05T18:52:24.763-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28099524",
-    "titulo": "Burigotto Cadeira De Refeição Prima Pappa Zero 3 Black",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968356-MLA99885949177_112025-F.jpg",
-    "preco": 626.57,
-    "preco_anterior": 1106,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zBYSRp",
-    "atualizado_em": "2026-10-05T18:47:20.866-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21006188",
-    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
-    "preco": 196.47,
-    "preco_anterior": 346.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/27sfskB",
-    "atualizado_em": "2026-10-05T18:42:11.352-03:00"
-  },
-  {
-    "id": "amazon:B0CVYRV24P",
-    "titulo": "Oferta para Membros Prime: WAP Umidificador de Ar Air Flow U2 2,3L, Difusor de Aromas, Bivolt",
-    "imagem": "https://m.media-amazon.com/images/I/61RN-7FMxZL._AC_SL1500_.jpg",
-    "preco": 98,
-    "preco_anterior": 169,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CVYRV24P?tag=malica09-20",
-    "atualizado_em": "2026-10-05T18:37:01.649-03:00"
   }
 ]
