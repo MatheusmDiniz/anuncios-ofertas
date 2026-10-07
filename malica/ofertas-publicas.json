@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MDUHO8I",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81YqxL3TLeL._AC_SL1500_.jpg",
+    "preco": 145.49,
+    "preco_anterior": 219,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MDUHO8I?tag=malica09-20",
+    "atualizado_em": "2026-10-06T21:11:27.714-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26382771",
     "titulo": "Cozinha Infantil De Brinquedo Completa Sai Água + Acessórios Cor Roxo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_679641-MLA99933602093_112025-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=malica09-20",
     "atualizado_em": "2026-10-05T09:11:58.756-03:00"
-  },
-  {
-    "id": "shopee:575397523.51106656675",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fwiyM6D9M",
-    "atualizado_em": "2026-10-05T09:06:53.829-03:00"
   }
 ]
