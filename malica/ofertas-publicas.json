@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPSHCSQF",
+    "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XG - 144 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/813VUlveBgL._AC_SL1500_.jpg",
+    "preco": 179,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=malica09-20",
+    "atualizado_em": "2026-10-07T08:00:32.601-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77171248",
     "titulo": "Penico Dobrável LEDTECH com Tampa Para Bebês de 1 a 3 Anos, Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962384-MLA114689625204_082026-F.jpg",
@@ -1868,25 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1pF34v1",
     "atualizado_em": "2026-10-05T20:04:26.674-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB54918924",
-    "titulo": "Canguru Ergonômico Aiebao Com Capuz Ajustável Cinza até 25kg Bebês",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656382-MLA111865066337_052026-F.jpg",
-    "preco": 178.1,
-    "preco_anterior": 339.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RUEtqV",
-    "atualizado_em": "2026-10-05T19:59:15.365-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27051169",
-    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
-    "preco": 96.01,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WN2eJH",
-    "atualizado_em": "2026-10-05T19:54:03.114-03:00"
   }
 ]
