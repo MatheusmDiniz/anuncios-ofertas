@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61118769",
+    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
+    "preco": 436,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GN8iMF",
+    "atualizado_em": "2026-10-07T20:18:22.843-03:00"
+  },
+  {
     "id": "amazon:B08YK3CVLY",
     "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
     "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
     "atualizado_em": "2026-10-06T08:20:59.000-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77434183",
-    "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611112-MLA114862303670_082026-F.jpg",
-    "preco": 34.9,
-    "preco_anterior": 74.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1tvYgbZ",
-    "atualizado_em": "2026-10-06T08:15:53.679-03:00"
   }
 ]
