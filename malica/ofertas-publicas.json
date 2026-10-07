@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHR9LSK",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
+    "atualizado_em": "2026-10-07T16:21:05.013-03:00"
+  },
+  {
     "id": "amazon:B0CD8T9Q45",
     "titulo": "Absorvente Cremer 30Un. Seios : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/51O7wP2IGpL._AC_SL1500_.jpg",
