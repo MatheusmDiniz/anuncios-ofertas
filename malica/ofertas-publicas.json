@@ -1948,35 +1948,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08T1TGVJZ?tag=malica09-20",
     "atualizado_em": "2026-10-05T19:23:15.132-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73063371",
-    "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
-    "preco": 77.26,
-    "preco_anterior": 159.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/22dPMY1",
-    "atualizado_em": "2026-10-05T19:18:10.433-03:00"
-  },
-  {
-    "id": "amazon:B07Z9SRGSK",
-    "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "imagem": "https://m.media-amazon.com/images/I/51uaIj3cogL._AC_SL1500_.jpg",
-    "preco": 51,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=malica09-20",
-    "atualizado_em": "2026-10-05T19:12:59.319-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47899174",
-    "titulo": "Baba Eletrônica Baby Monitor Vb603 Visão Noturna Dual Audio Cor Branco Estary Shop",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789928-MLA99885017637_112025-F.jpg",
-    "preco": 224.55,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/325sAj3",
-    "atualizado_em": "2026-10-05T19:07:53.098-03:00"
   }
 ]
