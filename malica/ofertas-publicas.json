@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Y2GSDVN",
+    "titulo": "Oferta para Membros Prime: BUBA Garrafa Térmica Parede Dupla 400 Ml - Azul, Azul, Tamanho único",
+    "imagem": "https://m.media-amazon.com/images/I/51Nkf0CFFyL._AC_SL1500_.jpg",
+    "preco": 63,
+    "preco_anterior": 98,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Y2GSDVN?tag=malica09-20",
+    "atualizado_em": "2026-10-07T18:29:37.082-03:00"
+  },
+  {
     "id": "amazon:B0CNQ6X388",
     "titulo": "Oferta para Membros Prime: Pampers Shampoo Glicerina 400ml",
     "imagem": "https://m.media-amazon.com/images/I/619RLZXxlGL._AC_SL1500_.jpg",
