@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66518269",
+    "titulo": "Bicicleta De Equilíbrio Infantil S/ Pedal 4 Roda Joy Benibee Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714646-MLA109132239610_042026-F.jpg",
+    "preco": 150.25,
+    "preco_anterior": 256.16,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2z8vY8z",
+    "atualizado_em": "2026-10-07T10:09:42.172-03:00"
+  },
+  {
     "id": "amazon:B0B6ZD2QR9",
     "titulo": "Onesies Brand Pacote com 3 macaquinho para bebês meninas, Raposa, 6-9 Meses",
     "imagem": "https://m.media-amazon.com/images/I/81fvhrdX67L._AC_SL1500_.jpg",
