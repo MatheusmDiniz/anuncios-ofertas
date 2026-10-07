@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JXND5C7",
+    "titulo": "Buba Pote Termico C/Colher - Gumy Rosa Buba Rosa : Amazon.com.br: Cozinha",
+    "imagem": "https://m.media-amazon.com/images/I/41TOR1cRICL._AC_SL1500_.jpg",
+    "preco": 76.89,
+    "preco_anterior": 151.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JXND5C7?tag=malica09-20",
+    "atualizado_em": "2026-10-07T09:33:42.649-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26693140",
     "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09GSQMJ5T?tag=malica09-20",
     "atualizado_em": "2026-10-05T21:36:44.110-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19924449",
-    "titulo": "Mustela Gel Lavante Calmante para Pele Muito Sensível 300mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720160-MLA99845836617_112025-F.jpg",
-    "preco": 115,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1oxnSdK",
-    "atualizado_em": "2026-10-05T21:31:38.744-03:00"
   }
 ]
