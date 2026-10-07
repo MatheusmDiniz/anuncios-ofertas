@@ -2478,35 +2478,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1hFvrLD",
     "atualizado_em": "2026-10-05T14:51:55.015-03:00"
-  },
-  {
-    "id": "amazon:B0GFGBVRLK",
-    "titulo": "Bombom NESTLÉ Especialidades Caixa 220g : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/817gxNY4nlL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GFGBVRLK?tag=malica09-20",
-    "atualizado_em": "2026-10-05T14:46:45.050-03:00"
-  },
-  {
-    "id": "amazon:B0BBJM19ZB",
-    "titulo": "Oferta para Membros Prime: Buba Garrafinha Aventuras Princesa 400 Ml Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/61+O3VA6yhL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": 37,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BBJM19ZB?tag=malica09-20",
-    "atualizado_em": "2026-10-05T14:41:39.747-03:00"
-  },
-  {
-    "id": "amazon:B09HW92VTZ",
-    "titulo": "Oferta para Membros Prime: Eudora Siàge Hair-Plastia Máscara Capilar 250g",
-    "imagem": "https://m.media-amazon.com/images/I/61WDdVwpX9L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09HW92VTZ?tag=malica09-20",
-    "atualizado_em": "2026-10-05T14:36:07.135-03:00"
   }
 ]
