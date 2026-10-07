@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19567262",
+    "titulo": "Mustela Hydra creme hidratante bebê com palha orgânica",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991361-MLU73129968988_122023-F.jpg",
+    "preco": 135.89,
+    "preco_anterior": 229,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2MSMfXJ",
+    "atualizado_em": "2026-10-07T20:59:27.092-03:00"
+  },
+  {
     "id": "amazon:B0CHZJPGZB",
     "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Dia&Noite XXG 44 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71YY3FhxonL._AC_SL1500_.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=malica09-20",
     "atualizado_em": "2026-10-06T09:01:51.053-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22621352",
-    "titulo": "Andador Safari II Infantil Primeiros Passos Tutti Baby Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_954395-MLA96107574707_102025-F.jpg",
-    "preco": 212,
-    "preco_anterior": 356.07,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2oYYvum",
-    "atualizado_em": "2026-10-06T08:56:47.179-03:00"
   }
 ]
