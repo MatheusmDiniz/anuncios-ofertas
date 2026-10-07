@@ -1,5 +1,25 @@
 [
   {
+    "id": "mercadolivre:product:MLB76204604",
+    "titulo": "Suporte De Banho Bebê Em Pé Ajustável Antiderrapante Coluna Ajustável e Seguro Suporte Para Chuveiro Infantil Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629796-MLA115448219481_082026-F.jpg",
+    "preco": 191.02,
+    "preco_anterior": 419,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1bbdvUs",
+    "atualizado_em": "2026-10-07T20:28:40.808-03:00"
+  },
+  {
+    "id": "amazon:B089Z8DV9N",
+    "titulo": "Oferta para Membros Prime: Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - St",
+    "imagem": "https://m.media-amazon.com/images/I/51r9fYEzrGL._AC_SL1500_.jpg",
+    "preco": 109.71,
+    "preco_anterior": 134.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=malica09-20",
+    "atualizado_em": "2026-10-07T20:23:28.856-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61118769",
     "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
@@ -3018,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
     "atualizado_em": "2026-10-06T08:31:13.391-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23224263",
-    "titulo": "Mochila Bolsa Lequeen Dândi Smart Multifuncional Moderna Cor Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751497-MLA113869905450_072026-F.jpg",
-    "preco": 194,
-    "preco_anterior": 499.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2GLwj9b",
-    "atualizado_em": "2026-10-06T08:26:08.253-03:00"
   }
 ]
