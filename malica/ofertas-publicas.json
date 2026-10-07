@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBNJM6G3",
+    "titulo": "Bicicleta De Equilibrio Buba, Bege, 4 Rodas : Amazon.com.br: Esporte",
+    "imagem": "https://m.media-amazon.com/images/I/51C8eY8DwYL._AC_SL1500_.jpg",
+    "preco": 139,
+    "preco_anterior": 181,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBNJM6G3?tag=malica09-20",
+    "atualizado_em": "2026-10-07T18:34:43.226-03:00"
+  },
+  {
     "id": "amazon:B07Y2GSDVN",
     "titulo": "Oferta para Membros Prime: BUBA Garrafa Térmica Parede Dupla 400 Ml - Azul, Azul, Tamanho único",
     "imagem": "https://m.media-amazon.com/images/I/51Nkf0CFFyL._AC_SL1500_.jpg",
