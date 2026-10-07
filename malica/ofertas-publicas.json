@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW48RBS7",
+    "titulo": "Oferta para Membros Prime: Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71+tkckV3RL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
+    "atualizado_em": "2026-10-07T08:11:12.930-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24208936",
     "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X83FF8M?tag=malica09-20",
     "atualizado_em": "2026-10-05T20:14:41.774-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25997831",
-    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
-    "preco": 82,
-    "preco_anterior": 144.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2X546Yw",
-    "atualizado_em": "2026-10-05T20:09:35.702-03:00"
   }
 ]
