@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B073ZGK2JV",
+    "titulo": "Oferta para Membros Prime: Mustela Bálsamo Peitoral Reconfortante 40 ml, Mustela Bebê, Azul, 40 ml",
+    "imagem": "https://m.media-amazon.com/images/I/41nBYv6T-mS._AC_SL1500_.jpg",
+    "preco": 63,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B073ZGK2JV?tag=malica09-20",
+    "atualizado_em": "2026-10-07T16:46:45.050-03:00"
+  },
+  {
     "id": "amazon:B09LRFMY7Q",
     "titulo": "Oferta para Membros Prime: Buba Kit Cuidados Multicolorido",
     "imagem": "https://m.media-amazon.com/images/I/513CzCVbT1L._AC_SL1500_.jpg",
