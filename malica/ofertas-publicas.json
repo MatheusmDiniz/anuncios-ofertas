@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY6WDHC",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
+    "preco": 140.91,
+    "preco_anterior": 229.49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
+    "atualizado_em": "2026-10-07T19:41:53.037-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62933980",
     "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
