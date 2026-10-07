@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 33.99,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-10-07T08:05:41.902-03:00"
+  },
+  {
     "id": "amazon:B0FPSHCSQF",
     "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XG - 144 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/813VUlveBgL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2X546Yw",
     "atualizado_em": "2026-10-05T20:09:35.702-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61794290",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
-    "preco": 445,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pF34v1",
-    "atualizado_em": "2026-10-05T20:04:26.674-03:00"
   }
 ]
