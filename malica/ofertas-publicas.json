@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBC2GVT1",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care G - 66 Un",
+    "imagem": "https://m.media-amazon.com/images/I/717VS0CG+lL._AC_SL1500_.jpg",
+    "preco": 88,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=malica09-20",
+    "atualizado_em": "2026-10-07T15:50:25.721-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26213266",
     "titulo": "Laptop Infantil Candide Da Patrulha Canina - Bilingue",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798115-MLA99700923264_122025-F.jpg",
