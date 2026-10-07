@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26693140",
+    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
+    "preco": 76,
+    "preco_anterior": 170.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/138DV6n",
+    "atualizado_em": "2026-10-07T09:28:37.887-03:00"
+  },
+  {
     "id": "amazon:B08DJSPFFX",
     "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Cuidado Real M 68 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71T6XFv+kfL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1oxnSdK",
     "atualizado_em": "2026-10-05T21:31:38.744-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38625704",
-    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
-    "preco": 193.72,
-    "preco_anterior": 329.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ofsJJZ",
-    "atualizado_em": "2026-10-05T21:26:29.278-03:00"
   }
 ]
