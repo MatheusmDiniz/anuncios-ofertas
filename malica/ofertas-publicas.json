@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46014518",
+    "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 765.96,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2jbhnwM",
+    "atualizado_em": "2026-10-07T08:57:22.703-03:00"
+  },
+  {
     "id": "amazon:B0BGM5LZ5D",
     "titulo": "Personal Fralda Baby Premium Pants XG, 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51PYy46YwPL._AC_SL1500_.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bUBouT",
     "atualizado_em": "2026-10-05T21:00:40.273-03:00"
-  },
-  {
-    "id": "amazon:B0GW3ZTXHF",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61ZkcLzSaTL._AC_SL1500_.jpg",
-    "preco": 1.2,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW3ZTXHF?tag=malica09-20",
-    "atualizado_em": "2026-10-05T20:55:30.008-03:00"
   }
 ]
