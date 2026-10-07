@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D4F4VS9M",
+    "titulo": "CHUPETA MAM ORIGINAL TRIO - EMBALAGEM BLISTER TRIPLA",
+    "imagem": "https://m.media-amazon.com/images/I/51aMok8t0jL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D4F4VS9M?tag=malica09-20",
+    "atualizado_em": "2026-10-06T21:01:14.470-03:00"
+  },
+  {
     "id": "amazon:B07D2FYZQ4",
     "titulo": "Granado Refil Sabonete Glicerina Bebê, Lavanda, 250ml : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51CsYaTXawL._AC_SL1500_.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
     "atualizado_em": "2026-10-05T09:01:49.179-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56574273",
-    "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
-    "preco": 139.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2YDfnP3",
-    "atualizado_em": "2026-10-05T08:56:45.246-03:00"
   }
 ]
