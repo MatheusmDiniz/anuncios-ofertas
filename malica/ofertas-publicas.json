@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FS98FS9T",
+    "titulo": "Toalha de Banho Bebê Papi Soft com Capuz Bordada 90x75 cm, Margaridas, Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/51G9GA5m2oL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FS98FS9T?tag=malica09-20",
+    "atualizado_em": "2026-10-07T09:12:43.525-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32365182",
     "titulo": "Chocalho Com Espelhinho Giratório E Mordedor Macio Dino Buba Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_680601-MLA99609050944_122025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qsS8kL",
     "atualizado_em": "2026-10-05T21:16:12.743-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26504827",
-    "titulo": "Totokinha Totoka Sport Carrinho Andador Brinquedo Educativo Formas Geométricas Passeio Cardoso Toys",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891342-MLA111243159677_052026-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BB6vdp",
-    "atualizado_em": "2026-10-05T21:11:02.488-03:00"
   }
 ]
