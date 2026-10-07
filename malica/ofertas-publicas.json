@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16091842",
+    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZqdnYS",
+    "atualizado_em": "2026-10-06T21:26:45.301-03:00"
+  },
+  {
     "id": "amazon:B0F4KXTCFT",
     "titulo": "Oferta para Membros Prime: Creme Preventivo de Assaduras Desitin Creamy, Kit com 3 Unidades 113g | Proteção Diária, Hipoalergênico",
     "imagem": "https://m.media-amazon.com/images/I/71k9xm1E0gL._AC_SL1500_.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fhowsvEpd",
     "atualizado_em": "2026-10-05T09:27:14.634-03:00"
-  },
-  {
-    "id": "amazon:B0D4NN2W72",
-    "titulo": "Oferta para Membros Prime: Kit Aptanutri Premium 3 Fórmula Infantil em Pó para Crianças a partir de 1 Ano, Contém Leite – 800 g (Kit com 4 Unidades)",
-    "imagem": "https://m.media-amazon.com/images/I/61kIg0LhZWL._AC_SL1500_.jpg",
-    "preco": 211,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D4NN2W72?tag=malica09-20",
-    "atualizado_em": "2026-10-05T09:22:09.827-03:00"
   }
 ]
