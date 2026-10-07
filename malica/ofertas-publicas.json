@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72143098",
+    "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
+    "preco": 406.43,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Jw4v7e",
+    "atualizado_em": "2026-10-07T13:14:08.819-03:00"
+  },
+  {
     "id": "amazon:B084HK1PZS",
     "titulo": "Oferta para Membros Prime: Macacão de dormir para bebês Fleece Footed Sleep and Play, Pack of 2 Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/811E8r3spAL._AC_SL1500_.jpg",
