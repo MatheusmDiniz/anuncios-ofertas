@@ -2708,35 +2708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BZBPXLBG?tag=malica09-20",
     "atualizado_em": "2026-10-05T12:53:04.250-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39613924",
-    "titulo": "Cadeira Premium De Descanso Ninar Elétrica Baby Style Bliss",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_643807-MLA113399451742_072026-F.jpg",
-    "preco": 449.9,
-    "preco_anterior": 765.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/14koTaC",
-    "atualizado_em": "2026-10-05T12:48:00.570-03:00"
-  },
-  {
-    "id": "amazon:B0FPSHCSQF+B0FPSPP7N5",
-    "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada M - 216 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/61zvjBzkh3L._AC_SL1500_.jpg",
-    "preco": 179,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=malica09-20",
-    "atualizado_em": "2026-10-05T12:42:52.596-03:00"
-  },
-  {
-    "id": "amazon:B0FFTMN54M",
-    "titulo": "Berço Portátil Safety 1st, Falcon, 0 a 20kg, Grey Night",
-    "imagem": "https://m.media-amazon.com/images/I/61y+ak7+HoL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FFTMN54M?tag=malica09-20",
-    "atualizado_em": "2026-10-05T12:37:47.579-03:00"
   }
 ]
