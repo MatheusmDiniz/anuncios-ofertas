@@ -2728,35 +2728,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09BDZZV23?tag=malica09-20",
     "atualizado_em": "2026-10-06T12:37:55.542-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56101048",
-    "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
-    "preco": 139.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1feVhfA",
-    "atualizado_em": "2026-10-06T12:32:50.121-03:00"
-  },
-  {
-    "id": "amazon:B0GT26DW1Y+B0GT28LLHL+B0GT28PSSN+B0GT2CBBBR",
-    "titulo": "Fralda Turma da Monica Baby Giga M 80 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61DPPHplikL._AC_SL1500_.jpg",
-    "preco": 52,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GT28LLHL?tag=malica09-20",
-    "atualizado_em": "2026-10-06T12:27:37.097-03:00"
-  },
-  {
-    "id": "shopee:1625661042.47261463441",
-    "titulo": "Boneca Reborn Girafinha 48cm Kit Completo com Roupinhas e Acessórios",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mowusqnz7xfq8e",
-    "preco": 99.9,
-    "preco_anterior": 199.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7VGvwQIbMl",
-    "atualizado_em": "2026-10-06T12:22:31.644-03:00"
   }
 ]
