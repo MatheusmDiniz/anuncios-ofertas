@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B083X7MVK8",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/91C8Z9G9j9L._AC_SL1500_.jpg",
+    "preco": 132,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B083X7MVK8?tag=malica09-20",
+    "atualizado_em": "2026-10-08T19:49:46.386-03:00"
+  },
+  {
     "id": "amazon:B071G3DL2H",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/91XsX8mhbML._AC_SL1500_.jpg",
