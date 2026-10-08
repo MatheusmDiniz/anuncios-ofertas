@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00WJNJ4EO",
+    "titulo": "Oferta para Membros Prime: Copo Easy Sip c/Bico de Silicone 260ml Philips Avent - SCF553/03",
+    "imagem": "https://m.media-amazon.com/images/I/51ECiywsgnL._AC_SL1500_.jpg",
+    "preco": 48,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00WJNJ4EO?tag=malica09-20",
+    "atualizado_em": "2026-10-07T21:04:32.531-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19567262",
     "titulo": "Mustela Hydra creme hidratante bebê com palha orgânica",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_991361-MLU73129968988_122023-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2nVNQXo",
     "atualizado_em": "2026-10-06T09:07:00.549-03:00"
-  },
-  {
-    "id": "amazon:B086JCX68G",
-    "titulo": "Oferta para Membros Prime: Buba Kit Cuidados Baby Cinza Tamanho Único | Escova, Pente, Tesoura, Cortador de Unhas",
-    "imagem": "https://m.media-amazon.com/images/I/51meK9jodmL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B086JCX68G?tag=malica09-20",
-    "atualizado_em": "2026-10-06T09:01:51.053-03:00"
   }
 ]
