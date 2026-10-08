@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FKWBT",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
+    "atualizado_em": "2026-10-08T13:34:41.327-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB79165484",
     "titulo": "Casinha de Boneca 2 e 3 Andares com Cômodos Grande Móveis Piscina Escorregador Boneca Articulada Maxi Toys - Daisy",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_853118-MLA117471473907_092026-F.jpg",
