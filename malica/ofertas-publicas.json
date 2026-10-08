@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27637270",
+    "titulo": "Buba, Almofada De Atividades Multicor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791180-MLA99934022017_112025-F.jpg",
+    "preco": 94.9,
+    "preco_anterior": 159,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1RseyLW",
+    "atualizado_em": "2026-10-07T21:40:34.993-03:00"
+  },
+  {
     "id": "amazon:B07G9RQHY7",
     "titulo": "Mili Fralda Ultra Seca Jumbinho M 1X22",
     "imagem": "https://m.media-amazon.com/images/I/71A0f1G1dtL._AC_SL1500_.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=malica09-20",
     "atualizado_em": "2026-10-06T09:42:46.348-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47549605",
-    "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
-    "preco": 229.9,
-    "preco_anterior": 399.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zvgDVv",
-    "atualizado_em": "2026-10-06T09:37:41.231-03:00"
   }
 ]
