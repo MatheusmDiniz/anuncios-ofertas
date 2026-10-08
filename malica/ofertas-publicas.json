@@ -2348,35 +2348,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09V28GZC7?tag=malica09-20",
     "atualizado_em": "2026-10-06T15:53:20.373-03:00"
-  },
-  {
-    "id": "amazon:B09B8VGCR8",
-    "titulo": "Oferta para Membros Prime: Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
-    "imagem": "https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=malica09-20",
-    "atualizado_em": "2026-10-06T15:47:47.396-03:00"
-  },
-  {
-    "id": "amazon:B00WJNIZTY",
-    "titulo": "Copo De Transição Philips Avent 200ml 6m+ Azul com Alças",
-    "imagem": "https://m.media-amazon.com/images/I/510eUr2Fz4L._AC_SL1500_.jpg",
-    "preco": 33,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00WJNIZTY?tag=malica09-20",
-    "atualizado_em": "2026-10-06T15:42:41.106-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24219839",
-    "titulo": "Totokinha Cardoso Azul – Triciclo Infantil Sport 3 em 1 Super Divertido Seguro e Resistente",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_914232-MLA99981969587_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 227.59,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kjy5hb",
-    "atualizado_em": "2026-10-06T15:37:36.430-03:00"
   }
 ]
