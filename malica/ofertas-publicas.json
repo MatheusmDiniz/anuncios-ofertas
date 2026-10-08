@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00NHQFA1I",
+    "titulo": "LEGO Classic - Caixa Média de Peças Criativas",
+    "imagem": "https://m.media-amazon.com/images/I/8160QjpuoOL._AC_SL1500_.jpg",
+    "preco": 173,
+    "preco_anterior": 349,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00NHQFA1I?tag=malica09-20",
+    "atualizado_em": "2026-10-08T15:07:08.334-03:00"
+  },
+  {
     "id": "amazon:B0D96N45LL",
     "titulo": "Maxi Baby Assento Redutor Infantil Dobrável C/Escada Mcfrog (Azul) : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/61+s-3z8cxL._AC_SL1500_.jpg",
