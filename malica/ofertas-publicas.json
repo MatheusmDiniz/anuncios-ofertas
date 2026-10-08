@@ -2898,35 +2898,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6AlZwY5OT0",
     "atualizado_em": "2026-10-06T11:09:45.147-03:00"
-  },
-  {
-    "id": "amazon:B071G3DL2G",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81PeikaS-RL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B071G3DL2G?tag=malica09-20",
-    "atualizado_em": "2026-10-06T11:04:38.930-03:00"
-  },
-  {
-    "id": "shopee:646220829.16705478852",
-    "titulo": "Kit 4 Rosquinhas de Amamentação em Algodão com Enchimento Antialérgico Protetor de Seios",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mr7jfdiv0kqt27",
-    "preco": 19.9,
-    "preco_anterior": 39.02,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/gQdOQzrgm",
-    "atualizado_em": "2026-10-06T10:59:33.038-03:00"
-  },
-  {
-    "id": "amazon:B08FVVH9BC",
-    "titulo": "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
-    "imagem": "https://m.media-amazon.com/images/I/716S5cnZi7L._AC_SL1500_.jpg",
-    "preco": 18.99,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08FVVH9BC?tag=malica09-20",
-    "atualizado_em": "2026-10-06T10:54:26.987-03:00"
   }
 ]
