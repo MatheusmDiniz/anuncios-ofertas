@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26647118",
+    "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
+    "preco": 519,
+    "preco_anterior": 1299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2TVytQt",
+    "atualizado_em": "2026-10-07T21:30:17.851-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38943078",
     "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CN78J7WM?tag=malica09-20",
     "atualizado_em": "2026-10-06T09:32:31.595-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53974840",
-    "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
-    "preco": 439.56,
-    "preco_anterior": 999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pGxkyW",
-    "atualizado_em": "2026-10-06T09:27:26.309-03:00"
   }
 ]
