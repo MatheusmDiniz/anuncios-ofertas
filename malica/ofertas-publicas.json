@@ -2118,25 +2118,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DMWLYDB8?tag=malica09-20",
     "atualizado_em": "2026-10-06T17:51:34.221-03:00"
-  },
-  {
-    "id": "amazon:B07S1Y9N8Y",
-    "titulo": "Deo Colonia Lata Cici Mel 100Ml, Ciclo",
-    "imagem": "https://m.media-amazon.com/images/I/61UXBOxdInS._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07S1Y9N8Y?tag=malica09-20",
-    "atualizado_em": "2026-10-06T17:46:02.141-03:00"
-  },
-  {
-    "id": "amazon:B07SSGJ8XW",
-    "titulo": "Wrap Sling Cinza Mescla",
-    "imagem": "https://m.media-amazon.com/images/I/61sP0R2iiTL._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": 54,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07SSGJ8XW?tag=malica09-20",
-    "atualizado_em": "2026-10-06T17:40:55.726-03:00"
   }
 ]
