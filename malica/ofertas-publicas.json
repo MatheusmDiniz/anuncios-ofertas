@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27051169",
+    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
+    "preco": 96.01,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WN2eJH",
+    "atualizado_em": "2026-10-08T20:15:10.693-03:00"
+  },
+  {
     "id": "amazon:B01MREFY41",
     "titulo": "Calças Pacote com 4 calças neutras Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81Y59-KeUOL._AC_SL1500_.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2dKmgSP",
     "atualizado_em": "2026-10-07T08:16:22.877-03:00"
-  },
-  {
-    "id": "amazon:B0GW48RBS7",
-    "titulo": "Oferta para Membros Prime: Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71+tkckV3RL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
-    "atualizado_em": "2026-10-07T08:11:12.930-03:00"
   }
 ]
