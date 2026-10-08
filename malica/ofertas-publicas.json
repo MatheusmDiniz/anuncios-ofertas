@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB51288092",
+    "titulo": "Berço Moises Portátil Infantil Co-leito Colin Compacto Cor Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866957-MLA111574045298_062026-F.jpg",
+    "preco": 621,
+    "preco_anterior": 1147.58,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2JCR16w",
+    "atualizado_em": "2026-10-08T17:11:09.693-03:00"
+  },
+  {
     "id": "amazon:B07LHC55HY",
     "titulo": "Oferta: Pais & Filhos - Caiu Perdeu, 54 Pçs, idade mínima recomendada - 6 anos",
     "imagem": "https://m.media-amazon.com/images/I/81QAJDzi7DL._AC_SL1500_.jpg",
