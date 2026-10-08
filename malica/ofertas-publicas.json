@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53778622",
+    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924822-MLA99991266225_112025-F.jpg",
+    "preco": 246.41,
+    "preco_anterior": 449.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qygtod",
+    "atualizado_em": "2026-10-08T08:05:15.797-03:00"
+  },
+  {
     "id": "amazon:B0DV9W63Z6",
     "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
@@ -1858,15 +1868,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GHPNMM7L?tag=malica09-20",
     "atualizado_em": "2026-10-06T20:10:12.205-03:00"
-  },
-  {
-    "id": "amazon:B0H5FHZ29G",
-    "titulo": "Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81xPft61SiL._AC_SL1500_.jpg",
-    "preco": 130,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5FHZ29G?tag=malica09-20",
-    "atualizado_em": "2026-10-06T20:05:06.970-03:00"
   }
 ]
