@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D5JZ4B8",
+    "titulo": "Oferta para Membros Prime: Hastes Flexíveis Clingo - Branco",
+    "imagem": "https://m.media-amazon.com/images/I/61bqdEfIHpL._AC_SL1500_.jpg",
+    "preco": 7,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D5JZ4B8?tag=malica09-20",
+    "atualizado_em": "2026-10-08T12:53:49.936-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70151841",
     "titulo": "Cadeira De Alimentação Bebê Portátil Daily 4 Em 1 + Rodinhas Daily Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_834877-MLA112190165739_052026-F.jpg",
