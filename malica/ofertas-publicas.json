@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:548029260.58257405717",
+    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
+    "preco": 42.99,
+    "preco_anterior": 69.34,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2qVBA3Mb4W",
+    "atualizado_em": "2026-10-08T08:30:47.664-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68877254",
     "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
@@ -1858,15 +1868,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uiuBZ6",
     "atualizado_em": "2026-10-06T20:35:42.142-03:00"
-  },
-  {
-    "id": "amazon:B07NSPNCCS",
-    "titulo": "Oferta para Membros Prime: Macacão de dormir para bebês Pijama e brincadeira com pés de lã para bebês, pacote com 2 Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/91r-ilG1-pL._AC_SL1500_.jpg",
-    "preco": 81,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07NSPNCCS?tag=malica09-20",
-    "atualizado_em": "2026-10-06T20:30:32.758-03:00"
   }
 ]
