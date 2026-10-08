@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:575397523.51106656675",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BUPz9WkUG",
+    "atualizado_em": "2026-10-08T20:45:57.213-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38139642",
     "titulo": "Burigotto Berço Portátil Sonata Beige, Cor Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_651744-MLU78008533742_082024-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1UwvWiP",
     "atualizado_em": "2026-10-07T08:47:07.299-03:00"
-  },
-  {
-    "id": "amazon:B082L13YPQ",
-    "titulo": "Oferta para Membros Prime: Lenços Umedecidos Pampers Aroma de Aloe Vera 192 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61ZtoLSExdL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B082L13YPQ?tag=malica09-20",
-    "atualizado_em": "2026-10-07T08:41:57.915-03:00"
   }
 ]
