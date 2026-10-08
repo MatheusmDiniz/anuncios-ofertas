@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53225985",
+    "titulo": "Berço Americano Tutto New Freijó - Matic",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655242-MLA95246448845_102025-F.jpg",
+    "preco": 1067,
+    "preco_anterior": 1799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xxW9Co",
+    "atualizado_em": "2026-10-08T12:07:31.979-03:00"
+  },
+  {
     "id": "amazon:B095R95SNW",
     "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
     "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
