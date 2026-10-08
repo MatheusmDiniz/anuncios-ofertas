@@ -2668,35 +2668,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H7T41C9L?tag=malica09-20",
     "atualizado_em": "2026-10-06T13:08:35.826-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25863440",
-    "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
-    "preco": 81.01,
-    "preco_anterior": 147.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kf8ris",
-    "atualizado_em": "2026-10-06T13:03:30.879-03:00"
-  },
-  {
-    "id": "amazon:B071G3D55N",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/71dvjfhCDjL._AC_SL1500_.jpg",
-    "preco": 171.96,
-    "preco_anterior": 228.19,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B071G3D55N?tag=malica09-20",
-    "atualizado_em": "2026-10-06T12:58:21.647-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24651314",
-    "titulo": "Aquecedor De Mamadeiras - SCF355/07 Philips Avent",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_625420-MLA99993551211_112025-F.jpg",
-    "preco": 318,
-    "preco_anterior": 578.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1SDk2i8",
-    "atualizado_em": "2026-10-06T12:53:16.963-03:00"
   }
 ]
