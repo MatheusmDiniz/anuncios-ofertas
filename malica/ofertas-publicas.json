@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01N52E9EL",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81aBMF5MtyL._AC_SL1500_.jpg",
+    "preco": 115,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01N52E9EL?tag=malica09-20",
+    "atualizado_em": "2026-10-08T20:04:58.496-03:00"
+  },
+  {
     "id": "amazon:B07ZPQBNS6",
     "titulo": "Macacão de dormir para bebês Cotton Sleep and Play, Pack of 2 Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81akbZpB4SL._AC_SL1500_.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2q4b5HH",
     "atualizado_em": "2026-10-07T08:05:41.902-03:00"
-  },
-  {
-    "id": "amazon:B0FPSHCSQF",
-    "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XG - 144 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/813VUlveBgL._AC_SL1500_.jpg",
-    "preco": 179,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=malica09-20",
-    "atualizado_em": "2026-10-07T08:00:32.601-03:00"
   }
 ]
