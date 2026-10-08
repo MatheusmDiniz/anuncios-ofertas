@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44875746",
+    "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
+    "preco": 440.69,
+    "preco_anterior": 745.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1UoGHuf",
+    "atualizado_em": "2026-10-08T13:50:06.388-03:00"
+  },
+  {
     "id": "amazon:B07GC7TF7W",
     "titulo": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71ZBUQLjomL._AC_SL1500_.jpg",
