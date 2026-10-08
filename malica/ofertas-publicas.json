@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68877254",
+    "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
+    "preco": 429,
+    "preco_anterior": 1299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ythmav",
+    "atualizado_em": "2026-10-08T08:25:41.585-03:00"
+  },
+  {
     "id": "shopee:341167297.20698276094",
     "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l04",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
@@ -1858,15 +1868,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07NSPNCCS?tag=malica09-20",
     "atualizado_em": "2026-10-06T20:30:32.758-03:00"
-  },
-  {
-    "id": "amazon:B0744PN2MS",
-    "titulo": "Cobertor com mangas 3-pack Neutral Cotton Sleeper Gown Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/71m3toyKNfL._AC_SL1500_.jpg",
-    "preco": 98,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0744PN2MS?tag=malica09-20",
-    "atualizado_em": "2026-10-06T20:25:27.871-03:00"
   }
 ]
