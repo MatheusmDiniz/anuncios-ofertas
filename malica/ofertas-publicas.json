@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BQQDXJH4",
+    "titulo": "Lavador Nasal Seringa 2 unidades, Buba",
+    "imagem": "https://m.media-amazon.com/images/I/71bpv7nYBTL._AC_SL1500_.jpg",
+    "preco": 12,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BQQDXJH4?tag=malica09-20",
+    "atualizado_em": "2026-10-08T16:08:59.450-03:00"
+  },
+  {
     "id": "amazon:B0BZBPXLBG",
     "titulo": "Hidratante Mustela Stelatopia+ Relipidante Antiprurido, 300ml, para Peles Secas e Atópicas, Sem Fragrância, Uso Familiar",
     "imagem": "https://m.media-amazon.com/images/I/41-bgYFF0nL._AC_SL1500_.jpg",
