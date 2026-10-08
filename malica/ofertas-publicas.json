@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1123144676.18897796293",
+    "titulo": "Almofada de Viagem H Para Carro Com Travesseiro Cinto De Segurança para Criança",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mke8zmgbkoht1e",
+    "preco": 79.98,
+    "preco_anterior": 166.63,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8pmOJ7GXve",
+    "atualizado_em": "2026-10-08T09:59:25.110-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53365359",
     "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
@@ -1788,15 +1798,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=malica09-20",
     "atualizado_em": "2026-10-07T08:00:32.601-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77171248",
-    "titulo": "Penico Dobrável LEDTECH com Tampa Para Bebês de 1 a 3 Anos, Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962384-MLA114689625204_082026-F.jpg",
-    "preco": 28.5,
-    "preco_anterior": 49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Jx1k2y",
-    "atualizado_em": "2026-10-06T21:57:24.295-03:00"
   }
 ]
