@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB78751642",
+    "titulo": "Travesseiro bebe almofada Pelúcia EPS-8047 com Palma Automática Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_945948-MLA115554172982_082026-F.jpg",
+    "preco": 129.9,
+    "preco_anterior": 357.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MxnZVZ",
+    "atualizado_em": "2026-10-07T21:56:01.915-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63962761",
     "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kHZEgb",
     "atualizado_em": "2026-10-06T09:58:10.522-03:00"
-  },
-  {
-    "id": "amazon:B0C2VYDJ3Q",
-    "titulo": "Oferta para Membros Prime: Granado Protetor Solar Bebê, FPS70, 120ml",
-    "imagem": "https://m.media-amazon.com/images/I/61wa-8xpfQL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2VYDJ3Q?tag=malica09-20",
-    "atualizado_em": "2026-10-06T09:53:01.414-03:00"
   }
 ]
