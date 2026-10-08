@@ -2378,35 +2378,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kjy5hb",
     "atualizado_em": "2026-10-06T15:37:36.430-03:00"
-  },
-  {
-    "id": "amazon:B0C3FK76V3",
-    "titulo": "Oferta para Membros Prime: Personal",
-    "imagem": "https://m.media-amazon.com/images/I/51JIVPIT3+L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=malica09-20",
-    "atualizado_em": "2026-10-06T15:32:27.595-03:00"
-  },
-  {
-    "id": "amazon:B07DHRPTPB",
-    "titulo": "Shampoo de Glicerina Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
-    "preco": 17.18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
-    "atualizado_em": "2026-10-06T15:27:24.630-03:00"
-  },
-  {
-    "id": "amazon:B0CGF75XZB",
-    "titulo": "Oferta para Membros Prime: Buba Cubo Atividades 7 Em 1",
-    "imagem": "https://m.media-amazon.com/images/I/61AWjXlKorL._AC_SL1500_.jpg",
-    "preco": 91,
-    "preco_anterior": 172,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGF75XZB?tag=malica09-20",
-    "atualizado_em": "2026-10-06T15:22:20.245-03:00"
   }
 ]
