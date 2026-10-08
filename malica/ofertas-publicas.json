@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38943078",
+    "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
+    "preco": 225.9,
+    "preco_anterior": 399.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/12iT7nu",
+    "atualizado_em": "2026-10-07T21:25:08.403-03:00"
+  },
+  {
     "id": "amazon:B0BXMCSK8J",
     "titulo": "Cadeira para Auto 0-36 Kg Isofix Litet All Stages Fix 2.0 Preta - BB450",
     "imagem": "https://m.media-amazon.com/images/I/51nR0uwTfHL._AC_SL1500_.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1pGxkyW",
     "atualizado_em": "2026-10-06T09:27:26.309-03:00"
-  },
-  {
-    "id": "amazon:B086X31ZLG",
-    "titulo": "Oferta para Membros Prime: Cicatricure Maternity Creme Antiestrias 250ml - Gestantes e Pós-Gestação",
-    "imagem": "https://m.media-amazon.com/images/I/71CcSQidgPL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B086X31ZLG?tag=malica09-20",
-    "atualizado_em": "2026-10-06T09:22:17.096-03:00"
   }
 ]
