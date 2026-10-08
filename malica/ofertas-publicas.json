@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61794290",
+    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
+    "preco": 445,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1pF34v1",
+    "atualizado_em": "2026-10-08T20:30:33.842-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73063371",
     "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR9PH47L?tag=malica09-20",
     "atualizado_em": "2026-10-07T08:31:41.813-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75833623",
-    "titulo": "Banheira Bebe Dobrável Com Termômetro Verde Almofada Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711553-MLA113938711326_072026-F.jpg",
-    "preco": 149.9,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Rti5yd",
-    "atualizado_em": "2026-10-07T08:26:36.493-03:00"
   }
 ]
