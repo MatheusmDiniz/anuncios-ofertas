@@ -2488,35 +2488,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FLWCS8DR?tag=malica09-20",
     "atualizado_em": "2026-10-06T14:40:57.361-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23937416",
-    "titulo": "Garrafa Térmica Parede Dupla Rosa 400ml - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_671325-MLA96079324071_102025-F.jpg",
-    "preco": 76.62,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/17KTNXN",
-    "atualizado_em": "2026-10-06T14:35:52.321-03:00"
-  },
-  {
-    "id": "amazon:B093G7WGYR",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo G 24 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71OEL6LKk-L._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093G7WGYR?tag=malica09-20",
-    "atualizado_em": "2026-10-06T14:30:42.689-03:00"
-  },
-  {
-    "id": "amazon:B0DGWF8T72",
-    "titulo": "Salon Line, Creme Multifuncional 3 em 1, Hidra Cachinho Kids, Vegano - Para Cabelos Cacheados e Crespos, 1Kg",
-    "imagem": "https://m.media-amazon.com/images/I/61J-STP8ZnL._AC_SL1500_.jpg",
-    "preco": 24,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DGWF8T72?tag=malica09-20",
-    "atualizado_em": "2026-10-06T14:25:37.454-03:00"
   }
 ]
