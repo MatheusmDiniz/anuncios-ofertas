@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08377D9YS",
+    "titulo": "Oferta para Membros Prime: Climatizador de Ar Frio, 60W, 4,5L, Midea Branco 127V, AKAF1, 7L",
+    "imagem": "https://m.media-amazon.com/images/I/61SrntjhhlL._AC_SL1500_.jpg",
+    "preco": 458,
+    "preco_anterior": 669,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08377D9YS?tag=malica09-20",
+    "atualizado_em": "2026-10-08T15:32:52.763-03:00"
+  },
+  {
     "id": "amazon:B0B9959CWN",
     "titulo": "Lenços Umedecidos Pampers Cuidado de bebê, 576 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61+OonwT8PL._AC_SL1500_.jpg",
