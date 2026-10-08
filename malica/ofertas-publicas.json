@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB76312234",
+    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
+    "preco": 155.1,
+    "preco_anterior": 319.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1jXU5Dp",
+    "atualizado_em": "2026-10-07T21:45:42.994-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27637270",
     "titulo": "Buba, Almofada De Atividades Multicor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_791180-MLA99934022017_112025-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/311P3iM",
     "atualizado_em": "2026-10-06T09:47:56.042-03:00"
-  },
-  {
-    "id": "amazon:B0DWYJMD7Q",
-    "titulo": "Oferta para Membros Prime: Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61tjpixeXyL._AC_SL1500_.jpg",
-    "preco": 153,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=malica09-20",
-    "atualizado_em": "2026-10-06T09:42:46.348-03:00"
   }
 ]
