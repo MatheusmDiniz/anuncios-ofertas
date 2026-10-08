@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:429438031.23498723011",
+    "titulo": "Kit Touca e Luvas Personalizado Maternidade Recém-Nascido Super Macia Malha Algodão RN",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxukwz027t25d",
+    "preco": 19.95,
+    "preco_anterior": 39.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/LnqBUHyF3",
+    "atualizado_em": "2026-10-08T09:49:11.393-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69331466",
     "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
@@ -1788,15 +1798,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fSAN9r",
     "atualizado_em": "2026-10-06T21:52:17.034-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19936060",
-    "titulo": "Garrafa Térmica Infantil Rosa Inox Parede Dupla C/ Canudo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_844181-MLA99572310364_122025-F.jpg",
-    "preco": 78.49,
-    "preco_anterior": 188.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RvCAjS",
-    "atualizado_em": "2026-10-06T21:47:10.321-03:00"
   }
 ]
