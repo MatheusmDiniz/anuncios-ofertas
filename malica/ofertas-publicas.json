@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B088P9S98P",
+    "titulo": "MamyPoko Lenços Umedecidos Toque Suave 200 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71+9tzmgRyL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B088P9S98P?tag=malica09-20",
+    "atualizado_em": "2026-10-08T16:19:35.630-03:00"
+  },
+  {
     "id": "amazon:B0GTN3CDWG",
     "titulo": "Mustela Kit Minis Travel Size - Gel Lavante + Hydra Bebê + Água de Limpeza + Creme Vitaminado Preventivo de Assaduras 54g - Nova Embalagem - Edição Limitada - Mustela Bebê e Criança",
     "imagem": "https://m.media-amazon.com/images/I/61gIjZ-ohlL._AC_SL1500_.jpg",
