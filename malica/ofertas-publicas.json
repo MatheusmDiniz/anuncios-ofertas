@@ -2058,35 +2058,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CQTNGCF9?tag=malica09-20",
     "atualizado_em": "2026-10-06T18:22:31.782-03:00"
-  },
-  {
-    "id": "amazon:B077BY84XX",
-    "titulo": "Sabonete Líquido de Glicerina Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41CGJiuDeKL._AC_SL1500_.jpg",
-    "preco": 23,
-    "preco_anterior": 40,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=malica09-20",
-    "atualizado_em": "2026-10-06T18:17:27.448-03:00"
-  },
-  {
-    "id": "amazon:B0C6R7MPBB",
-    "titulo": "Personal Papel Higiênico Vip Folha Tripla, 24 Rolos De 20M",
-    "imagem": "https://m.media-amazon.com/images/I/71tHptaeXyL._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C6R7MPBB?tag=malica09-20",
-    "atualizado_em": "2026-10-06T18:12:22.936-03:00"
-  },
-  {
-    "id": "amazon:B076CW881T",
-    "titulo": "G-Tech Bomba Tira-Leite Manual : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/61Xt+ETj3YL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076CW881T?tag=malica09-20",
-    "atualizado_em": "2026-10-06T18:07:17.133-03:00"
   }
 ]
