@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215253",
+    "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
+    "preco": 189.9,
+    "preco_anterior": 338,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2T4QNUn",
+    "atualizado_em": "2026-10-07T21:14:52.466-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB37709215",
     "titulo": "Berço Cama Com Colchão Infantil Probel E Grade De Proteção Removível Branco Amadeirado Para Quarto De Bebê Menino Ou Menina Life",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_654719-MLA111154676854_052026-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/29cUZrm",
     "atualizado_em": "2026-10-06T09:17:13.253-03:00"
-  },
-  {
-    "id": "amazon:B099KXW911",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71gXkKF1aPL._AC_SL1500_.jpg",
-    "preco": 0.68,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KXW911?tag=malica09-20",
-    "atualizado_em": "2026-10-06T09:12:04.859-03:00"
   }
 ]
