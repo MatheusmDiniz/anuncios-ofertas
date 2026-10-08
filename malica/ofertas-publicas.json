@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095R95SNW",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
+    "atualizado_em": "2026-10-08T12:02:23.086-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29139733",
     "titulo": "Lancheira Bento Box Buba Zoo Unicornio 17310 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_635788-MLA99939869989_112025-F.jpg",
