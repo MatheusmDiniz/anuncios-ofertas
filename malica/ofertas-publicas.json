@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73836645",
+    "titulo": "Colchonete Carrinho Moisés De Bebê Com Capa Removível Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800197-MLA112204099322_062026-F.jpg",
+    "preco": 30.26,
+    "preco_anterior": 50.44,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19XoozV",
+    "atualizado_em": "2026-10-08T14:31:02.630-03:00"
+  },
+  {
     "id": "amazon:B0C8PT9NBZ",
     "titulo": "Huggies Lenços Umedecidos Higiene Diária Rendem 2x Mais 88 Un",
     "imagem": "https://m.media-amazon.com/images/I/711QFeI0pHL._AC_SL1500_.jpg",
