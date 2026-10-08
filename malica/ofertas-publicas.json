@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38086273",
+    "titulo": "Sabonete Líquido Glicerina Camomila JOHNSON’S Baby, 180mL",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888653-MLA99447587542_112025-F.jpg",
+    "preco": 24.29,
+    "preco_anterior": 44.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2aiWxYC",
+    "atualizado_em": "2026-10-08T18:02:21.278-03:00"
+  },
+  {
     "id": "amazon:B07GQ136TS",
     "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
