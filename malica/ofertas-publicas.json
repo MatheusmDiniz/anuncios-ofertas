@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22953629",
+    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
+    "preco": 258.16,
+    "preco_anterior": 499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yKShtn",
+    "atualizado_em": "2026-10-08T12:27:59.114-03:00"
+  },
+  {
     "id": "amazon:B07X4GWDZY",
     "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
