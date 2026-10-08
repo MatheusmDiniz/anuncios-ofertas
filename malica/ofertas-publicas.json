@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Y2KTV5T",
+    "titulo": "Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/71u9NZBemIL._AC_SL1500_.jpg",
+    "preco": 93,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Y2KTV5T?tag=malica09-20",
+    "atualizado_em": "2026-10-08T20:20:15.500-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27051169",
     "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPSPP7N5?tag=malica09-20",
     "atualizado_em": "2026-10-07T08:21:27.302-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74675165",
-    "titulo": "Bomba De Tirar Leite Materno Portátil Elétricas Antuvi Vestível Mãos Livres De Cabeça Dupla 17-24mm Flanges 180 ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911878-MLA114024882597_072026-F.jpg",
-    "preco": 178,
-    "preco_anterior": 438.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2dKmgSP",
-    "atualizado_em": "2026-10-07T08:16:22.877-03:00"
   }
 ]
