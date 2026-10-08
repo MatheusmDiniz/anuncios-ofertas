@@ -2438,35 +2438,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1QJboPA",
     "atualizado_em": "2026-10-06T15:06:35.785-03:00"
-  },
-  {
-    "id": "amazon:B072QGQVQP",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81LUs2m-4QL._AC_SL1500_.jpg",
-    "preco": 150.91,
-    "preco_anterior": 210.98,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B072QGQVQP?tag=malica09-20",
-    "atualizado_em": "2026-10-06T15:01:26.870-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19160770",
-    "titulo": "Shampoo Para Bebê Johnson's Baby De Glicerina 400ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
-    "preco": 18.08,
-    "preco_anterior": 34.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1X4ihef",
-    "atualizado_em": "2026-10-06T14:56:21.378-03:00"
-  },
-  {
-    "id": "amazon:B08K4JSQ2M+B08K4MXDVX",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 112 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61KzqcJwjDL._AC_SL1500_.jpg",
-    "preco": 140,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K4MXDVX?tag=malica09-20",
-    "atualizado_em": "2026-10-06T14:51:10.511-03:00"
   }
 ]
