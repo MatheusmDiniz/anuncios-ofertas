@@ -2608,35 +2608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D292HCS7?tag=malica09-20",
     "atualizado_em": "2026-10-06T13:39:34.422-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79474022",
-    "titulo": "Casa De Boneca Castelo Princesa Luxo 503 Peças 4 Andares 27 Cômodos Com Luzes LED 6 Bonecas Móveis Completa Brinquedo Presente Menina",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915515-MLA116863176270_092026-F.jpg",
-    "preco": 219.89,
-    "preco_anterior": 389.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2pAknth",
-    "atualizado_em": "2026-10-06T13:34:03.604-03:00"
-  },
-  {
-    "id": "amazon:B07QK7SBV9",
-    "titulo": "Oferta para Membros Prime: OMO Roupas Finas E Delicadas - Sabão Líquido Coco 900Ml",
-    "imagem": "https://m.media-amazon.com/images/I/61qUjLKdy4L._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07QK7SBV9?tag=malica09-20",
-    "atualizado_em": "2026-10-06T13:28:56.247-03:00"
-  },
-  {
-    "id": "shopee:1619784139.22599201663",
-    "titulo": "Abafador Ruído Auricular Infantil Confortável Bebê Protetor De Ruidos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820m1-mqx3b42528eccc",
-    "preco": 37.99,
-    "preco_anterior": 80.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20w1GPDk0f",
-    "atualizado_em": "2026-10-06T13:23:50.820-03:00"
   }
 ]
