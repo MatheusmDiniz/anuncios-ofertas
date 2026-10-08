@@ -2228,35 +2228,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GHZDQ7F3?tag=malica09-20",
     "atualizado_em": "2026-10-06T16:54:36.799-03:00"
-  },
-  {
-    "id": "amazon:B0DFD25P8S",
-    "titulo": "Mustela Shampoo Cachos Desembaraçados 200ml - Para Cabelos Ondulados, Cacheados e Texturizados - Limpa Suavemente, Nutre e Desembaraça",
-    "imagem": "https://m.media-amazon.com/images/I/71qEYm2z2oL._AC_SL1500_.jpg",
-    "preco": 57,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DFD25P8S?tag=malica09-20",
-    "atualizado_em": "2026-10-06T16:49:32.054-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17489277",
-    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bcKcRJ",
-    "atualizado_em": "2026-10-06T16:44:28.831-03:00"
-  },
-  {
-    "id": "amazon:B07FN7VP5Y",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
-    "imagem": "https://m.media-amazon.com/images/I/71EGaknfKuL._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=malica09-20",
-    "atualizado_em": "2026-10-06T16:39:15.513-03:00"
   }
 ]
