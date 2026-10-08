@@ -2988,35 +2988,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
     "atualizado_em": "2026-10-06T10:23:45.034-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28579921",
-    "titulo": "Cadeira de Descanso Bebê Musical Polar Cinza 18kg Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729247-MLA96101820207_102025-F.jpg",
-    "preco": 209.85,
-    "preco_anterior": 366.04,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19n1jmt",
-    "atualizado_em": "2026-10-06T10:18:40.346-03:00"
-  },
-  {
-    "id": "amazon:B073WMLVPR",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/91JZnlDzvSL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B073WMLVPR?tag=malica09-20",
-    "atualizado_em": "2026-10-06T10:13:31.339-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72860329",
-    "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
-    "preco": 389.9,
-    "preco_anterior": 799.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zqDmPY",
-    "atualizado_em": "2026-10-06T10:08:26.178-03:00"
   }
 ]
