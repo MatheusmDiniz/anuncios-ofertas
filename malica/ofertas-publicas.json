@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69331466",
+    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "preco": 799.99,
+    "preco_anterior": 1699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bC1ui2",
+    "atualizado_em": "2026-10-08T09:44:06.083-03:00"
+  },
+  {
     "id": "shopee:396723953.40026562019",
     "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
@@ -1788,15 +1798,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2RvCAjS",
     "atualizado_em": "2026-10-06T21:47:10.321-03:00"
-  },
-  {
-    "id": "shopee:1365993167.58209968589",
-    "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
-    "preco": 19.9,
-    "preco_anterior": 29.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5LCPla3fnA",
-    "atualizado_em": "2026-10-06T21:42:02.473-03:00"
   }
 ]
