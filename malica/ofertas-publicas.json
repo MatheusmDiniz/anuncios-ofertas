@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37709215",
+    "titulo": "Berço Cama Com Colchão Infantil Probel E Grade De Proteção Removível Branco Amadeirado Para Quarto De Bebê Menino Ou Menina Life",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_654719-MLA111154676854_052026-F.jpg",
+    "preco": 386.93,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2prT1Tt",
+    "atualizado_em": "2026-10-07T21:09:42.648-03:00"
+  },
+  {
     "id": "amazon:B00WJNJ4EO",
     "titulo": "Oferta para Membros Prime: Copo Easy Sip c/Bico de Silicone 260ml Philips Avent - SCF553/03",
     "imagem": "https://m.media-amazon.com/images/I/51ECiywsgnL._AC_SL1500_.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KXW911?tag=malica09-20",
     "atualizado_em": "2026-10-06T09:12:04.859-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74126951",
-    "titulo": "Carrinho De Passeio Wheels Quadriciclo Infantil Andador Empurrador Maral Baby Quad Laranja",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_779510-MLA113069903672_072026-F.jpg",
-    "preco": 349.9,
-    "preco_anterior": 598.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nVNQXo",
-    "atualizado_em": "2026-10-06T09:07:00.549-03:00"
   }
 ]
