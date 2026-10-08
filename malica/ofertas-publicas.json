@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B01MREFY41",
+    "titulo": "Calças Pacote com 4 calças neutras Simple Joys by Carter",
+    "imagem": "https://m.media-amazon.com/images/I/81Y59-KeUOL._AC_SL1500_.jpg",
+    "preco": 115,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B01MREFY41?tag=malica09-20",
+    "atualizado_em": "2026-10-08T20:10:03.436-03:00"
+  },
+  {
     "id": "amazon:B01N52E9EL",
     "titulo": "Simple Joys by Carter",
     "imagem": "https://m.media-amazon.com/images/I/81aBMF5MtyL._AC_SL1500_.jpg",
