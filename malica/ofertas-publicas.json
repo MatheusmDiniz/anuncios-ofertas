@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXMCSK8J",
+    "titulo": "Cadeira para Auto 0-36 Kg Isofix Litet All Stages Fix 2.0 Preta - BB450",
+    "imagem": "https://m.media-amazon.com/images/I/51nR0uwTfHL._AC_SL1500_.jpg",
+    "preco": 698,
+    "preco_anterior": 828,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXMCSK8J?tag=malica09-20",
+    "atualizado_em": "2026-10-07T21:19:58.572-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215253",
     "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086X31ZLG?tag=malica09-20",
     "atualizado_em": "2026-10-06T09:22:17.096-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62449119",
-    "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651922-MLA98738646630_112025-F.jpg",
-    "preco": 319.9,
-    "preco_anterior": 616.42,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/29cUZrm",
-    "atualizado_em": "2026-10-06T09:17:13.253-03:00"
   }
 ]
