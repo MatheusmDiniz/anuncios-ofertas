@@ -2518,35 +2518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DGWF8T72?tag=malica09-20",
     "atualizado_em": "2026-10-06T14:25:37.454-03:00"
-  },
-  {
-    "id": "amazon:B08T85RHB1",
-    "titulo": "Oferta para Membros Prime: Lenços Umedecidos Pampers Higiene Completa192 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61wlTNk7NFL._AC_SL1500_.jpg",
-    "preco": 34,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08T85RHB1?tag=malica09-20",
-    "atualizado_em": "2026-10-06T14:20:32.208-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB66595119",
-    "titulo": "Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659154-MLA107901202678_032026-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 189.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xo8gb8",
-    "atualizado_em": "2026-10-06T14:15:28.784-03:00"
-  },
-  {
-    "id": "amazon:B0C9W32C1J",
-    "titulo": "Loção Hidratante Corporal Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1500_.jpg",
-    "preco": 47.73,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9W32C1J?tag=malica09-20",
-    "atualizado_em": "2026-10-06T14:10:19.271-03:00"
   }
 ]
