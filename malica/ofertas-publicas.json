@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56574273",
+    "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
+    "preco": 129.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2YDfnP3",
+    "atualizado_em": "2026-10-08T13:09:12.171-03:00"
+  },
+  {
     "id": "amazon:B014KEE9LC",
     "titulo": "Fisher-Price Brinquedo para Bebês Novo Xilofone 18 meses",
     "imagem": "https://m.media-amazon.com/images/I/61l6mlc0slL._AC_SL1500_.jpg",
