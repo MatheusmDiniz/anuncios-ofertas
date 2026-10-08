@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63962761",
+    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SJwgA7",
+    "atualizado_em": "2026-10-07T21:50:52.205-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76312234",
     "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
@@ -3028,15 +3038,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C2VYDJ3Q?tag=malica09-20",
     "atualizado_em": "2026-10-06T09:53:01.414-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40554787",
-    "titulo": "Bicicleta de Equilíbrio Infantil Yuupi Verde 4 Rodas TPU, Conforto e Segurança",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_682100-MLA99508962234_112025-F.jpg",
-    "preco": 192.31,
-    "preco_anterior": 337.38,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/311P3iM",
-    "atualizado_em": "2026-10-06T09:47:56.042-03:00"
   }
 ]
