@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DV9W63Z6",
+    "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
+    "preco": 335,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
+    "atualizado_em": "2026-10-08T08:00:08.246-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB78751642",
     "titulo": "Travesseiro bebe almofada Pelúcia EPS-8047 com Palma Automática Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_945948-MLA115554172982_082026-F.jpg",
@@ -1858,25 +1868,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H5FHZ29G?tag=malica09-20",
     "atualizado_em": "2026-10-06T20:05:06.970-03:00"
-  },
-  {
-    "id": "amazon:B0GV4ZJL87",
-    "titulo": "Conjunto de calça de 3 peças 3-piece Pant Set Carter",
-    "imagem": "https://m.media-amazon.com/images/I/71sSMlaRWzL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GV4ZJL87?tag=malica09-20",
-    "atualizado_em": "2026-10-06T20:00:02.886-03:00"
-  },
-  {
-    "id": "amazon:B0H5KY3WVH",
-    "titulo": "Oferta para Membros Prime: Conjunto de pijama 4-piece Tight Fit Cotton Pajama Set Carter",
-    "imagem": "https://m.media-amazon.com/images/I/71OcmGv6dGL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5KY3WVH?tag=malica09-20",
-    "atualizado_em": "2026-10-06T19:54:58.407-03:00"
   }
 ]
