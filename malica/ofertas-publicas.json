@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN7T2LK",
+    "titulo": "Oferta para Membros Prime: Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
+    "imagem": "https://m.media-amazon.com/images/I/61qM9b1b77L._AC_SL1500_.jpg",
+    "preco": 47.4,
+    "preco_anterior": 59.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=malica09-20",
+    "atualizado_em": "2026-10-08T11:41:54.113-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB55102171",
     "titulo": "Bolsa Canguru Seguro Ergonômico Assento Bebê Premium Aiebao Cor Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_684590-MLA113300708050_072026-F.jpg",
