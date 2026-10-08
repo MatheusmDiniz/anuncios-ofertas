@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08LK15F8N",
+    "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51EXy5ZJQSL._AC_SL1500_.jpg",
+    "preco": 26,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
+    "atualizado_em": "2026-10-08T12:33:03.988-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
