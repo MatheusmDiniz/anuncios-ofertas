@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BJ7ZDKR7",
+    "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
+    "preco": 112,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BJ7ZDKR7?tag=malica09-20",
+    "atualizado_em": "2026-10-08T14:36:06.228-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73836645",
     "titulo": "Colchonete Carrinho Moisés De Bebê Com Capa Removível Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_800197-MLA112204099322_062026-F.jpg",
