@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXM3TSS9",
+    "titulo": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/81rfab7At1L._AC_SL1500_.jpg",
+    "preco": 80,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=malica09-20",
+    "atualizado_em": "2026-10-08T08:10:20.200-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53778622",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_924822-MLA99991266225_112025-F.jpg",
@@ -1858,15 +1868,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B06W9LJ223?tag=malica09-20",
     "atualizado_em": "2026-10-06T20:15:18.144-03:00"
-  },
-  {
-    "id": "amazon:B0GHPNMM7L",
-    "titulo": "Principia, Kit Anti Oleosidade com um um gel de limpeza com mix de tensoativos + PCA sódio + glicerina, um sérum de niacinamida + zinco pca e um protetor solar fluido antioleosidade com mix de filtros",
-    "imagem": "https://m.media-amazon.com/images/I/51FcAToj7NL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GHPNMM7L?tag=malica09-20",
-    "atualizado_em": "2026-10-06T20:10:12.205-03:00"
   }
 ]
