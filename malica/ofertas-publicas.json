@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1253561331.22293115832",
+    "titulo": "Macacão Promoção Jardineira Body Manga Longa Kids Bebê Menina Bordado de Ursinha Lola Palha",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mn1d7qur91qc9e",
+    "preco": 59.67,
+    "preco_anterior": 85.24,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8fSy6m0OF6",
+    "atualizado_em": "2026-10-09T20:05:45.138-03:00"
+  },
+  {
     "id": "shopee:341167297.23098766321",
     "titulo": "Conjunto Moletom Bebe Menina Escolha Seu Modelo, com Estampas Fofas e Conforto Infantil Bebê Feminino Frio Inverno. l16",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mlmeb1wcfo5g1b",
@@ -2948,15 +2958,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=malica09-20",
     "atualizado_em": "2026-10-08T08:10:20.200-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53778622",
-    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924822-MLA99991266225_112025-F.jpg",
-    "preco": 246.41,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qygtod",
-    "atualizado_em": "2026-10-08T08:05:15.797-03:00"
   }
 ]
