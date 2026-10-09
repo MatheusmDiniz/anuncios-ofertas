@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.47453028150",
+    "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l05",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
+    "preco": 19.99,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1gJDlu0djj",
+    "atualizado_em": "2026-10-09T08:31:27.612-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28318987",
     "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DFMY4CG8?tag=malica09-20",
     "atualizado_em": "2026-10-07T20:33:45.134-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76204604",
-    "titulo": "Suporte De Banho Bebê Em Pé Ajustável Antiderrapante Coluna Ajustável e Seguro Suporte Para Chuveiro Infantil Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629796-MLA115448219481_082026-F.jpg",
-    "preco": 191.02,
-    "preco_anterior": 419,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1bbdvUs",
-    "atualizado_em": "2026-10-07T20:28:40.808-03:00"
   }
 ]
