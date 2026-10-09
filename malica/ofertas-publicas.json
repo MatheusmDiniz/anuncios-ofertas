@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1797406160.58261454279",
+    "titulo": "DLI Avião Drone de Combate Aircraft Controle Remoto RCCom Luz Bateria Recarregável Resistente",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-moot07bh5e6b21",
+    "preco": 79.99,
+    "preco_anterior": 199.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9pex6HB8m3",
+    "atualizado_em": "2026-10-09T09:53:16.130-03:00"
+  },
+  {
     "id": "amazon:B0BFXKZQ2Y",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
     "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1MxnZVZ",
     "atualizado_em": "2026-10-07T21:56:01.915-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63962761",
-    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 219.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2SJwgA7",
-    "atualizado_em": "2026-10-07T21:50:52.205-03:00"
   }
 ]
