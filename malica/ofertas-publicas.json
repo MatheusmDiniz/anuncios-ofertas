@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53258842",
+    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
+    "preco": 259,
+    "preco_anterior": 449.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ovyxhc",
+    "atualizado_em": "2026-10-09T10:34:18.911-03:00"
+  },
+  {
     "id": "amazon:B0GW3TH25S+B0GW48RBS7",
     "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
