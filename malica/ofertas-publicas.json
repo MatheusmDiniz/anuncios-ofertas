@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBBWQB4G",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
+    "preco": 67,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
+    "atualizado_em": "2026-10-09T11:30:20.288-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76574499",
     "titulo": "Kit 12 Trava Gaveta Magnética Armário Segurança Crianças Branco Brilho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_696153-MLA116183392105_082026-F.jpg",
