@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDTZD5BS",
+    "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61KXSX2M+ML._AC_SL1500_.jpg",
+    "preco": 215,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
+    "atualizado_em": "2026-10-09T08:10:58.275-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24820639",
     "titulo": "Triciclo Cardoso Totokinha Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_742209-MLA95937453019_102025-F.jpg",
