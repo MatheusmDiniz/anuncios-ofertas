@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 199,
+    "preco_anterior": 369,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2tjqGTg",
+    "atualizado_em": "2026-10-09T08:26:20.058-03:00"
+  },
+  {
     "id": "amazon:B093G8NZ4Y+B093G8NZ4Z+B093G9PSPP+B093GBK61Q+B093GCJ1JP",
     "titulo": "Oferta para Membros Prime: Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71ncta4HE2L._AC_SL1500_.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1bbdvUs",
     "atualizado_em": "2026-10-07T20:28:40.808-03:00"
-  },
-  {
-    "id": "amazon:B089Z8DV9N",
-    "titulo": "Oferta para Membros Prime: Mustela Stelatopia Óleo de Banho 500 ml - Limpeza e Hidratação suave para Peles Secas e extremamente Ressecadas - Seguro Para Bebês, Crianças e Adultos - Sem Fragrância - St",
-    "imagem": "https://m.media-amazon.com/images/I/51r9fYEzrGL._AC_SL1500_.jpg",
-    "preco": 109.71,
-    "preco_anterior": 134.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=malica09-20",
-    "atualizado_em": "2026-10-07T20:23:28.856-03:00"
   }
 ]
