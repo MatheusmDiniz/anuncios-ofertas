@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRPTPB",
+    "titulo": "Shampoo de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
+    "preco": 11,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
+    "atualizado_em": "2026-10-09T20:35:51.983-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24331807",
     "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
@@ -2928,15 +2938,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1tEToug",
     "atualizado_em": "2026-10-08T08:35:56.868-03:00"
-  },
-  {
-    "id": "shopee:548029260.58257405717",
-    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
-    "preco": 42.99,
-    "preco_anterior": 69.34,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qVBA3Mb4W",
-    "atualizado_em": "2026-10-08T08:30:47.664-03:00"
   }
 ]
