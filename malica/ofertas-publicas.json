@@ -2278,35 +2278,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28KSppS",
     "atualizado_em": "2026-10-07T15:55:36.374-03:00"
-  },
-  {
-    "id": "amazon:B0FBC2GVT1",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care G - 66 Un",
-    "imagem": "https://m.media-amazon.com/images/I/717VS0CG+lL._AC_SL1500_.jpg",
-    "preco": 88,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FBC2GVT1?tag=malica09-20",
-    "atualizado_em": "2026-10-07T15:50:25.721-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26213266",
-    "titulo": "Laptop Infantil Candide Da Patrulha Canina - Bilingue",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798115-MLA99700923264_122025-F.jpg",
-    "preco": 69.9,
-    "preco_anterior": 126.77,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1GZU6p8",
-    "atualizado_em": "2026-10-07T15:44:54.387-03:00"
-  },
-  {
-    "id": "amazon:B0C5N6ST9L",
-    "titulo": "Burigotto Berço Sonata, Bege",
-    "imagem": "https://m.media-amazon.com/images/I/91+-RCasiLL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C5N6ST9L?tag=malica09-20",
-    "atualizado_em": "2026-10-07T15:39:45.238-03:00"
   }
 ]
