@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00TQCAAQW",
+    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
+    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
+    "preco": 60,
+    "preco_anterior": 100,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
+    "atualizado_em": "2026-10-09T12:57:59.464-03:00"
+  },
+  {
     "id": "amazon:B0FXN957HN",
     "titulo": "Oferta para Membros Prime: Quadrados de Algodão Johnson",
     "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
