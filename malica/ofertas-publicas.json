@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X83FF8M",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 78 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61XQcYdEJiL._AC_SL1500_.jpg",
+    "preco": 97,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X83FF8M?tag=malica09-20",
+    "atualizado_em": "2026-10-09T12:01:16.846-03:00"
+  },
+  {
     "id": "amazon:B08YMXTLX2",
     "titulo": "Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto",
     "imagem": "https://m.media-amazon.com/images/I/51nOrXgzqFL._AC_SL1500_.jpg",
