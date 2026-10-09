@@ -2388,35 +2388,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2aHiwgX",
     "atualizado_em": "2026-10-07T14:58:08.930-03:00"
-  },
-  {
-    "id": "amazon:B07MLMGNLB",
-    "titulo": "Oferta para Membros Prime: Neslac Composto Lácteo Supreme 800G",
-    "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
-    "preco": 68,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MLMGNLB?tag=malica09-20",
-    "atualizado_em": "2026-10-07T14:52:57.598-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72984485",
-    "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
-    "preco": 88.99,
-    "preco_anterior": 189.86,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kb8E9B",
-    "atualizado_em": "2026-10-07T14:47:52.037-03:00"
-  },
-  {
-    "id": "amazon:B0F4G5NL2K",
-    "titulo": "Oferta para Membros Prime: Lenços Umedecidos Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
-    "preco": 45,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
-    "atualizado_em": "2026-10-07T14:42:41.968-03:00"
   }
 ]
