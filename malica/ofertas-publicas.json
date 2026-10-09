@@ -2188,35 +2188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09LRFMY7Q?tag=malica09-20",
     "atualizado_em": "2026-10-07T16:41:38.802-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27914031",
-    "titulo": "Brinquedo De Banho Bebê Chuveirinho Banheira Coala Buba Cor Água",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_903132-MLU72487501411_102023-F.jpg",
-    "preco": 109.99,
-    "preco_anterior": 194.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Tf2GWZ",
-    "atualizado_em": "2026-10-07T16:36:33.036-03:00"
-  },
-  {
-    "id": "amazon:B09KNTZXKL",
-    "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09KNTZXKL?tag=malica09-20",
-    "atualizado_em": "2026-10-07T16:31:17.027-03:00"
-  },
-  {
-    "id": "amazon:B08R9XTH39",
-    "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
-    "imagem": "https://m.media-amazon.com/images/I/71bM2gkihVL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08R9XTH39?tag=malica09-20",
-    "atualizado_em": "2026-10-07T16:26:12.173-03:00"
   }
 ]
