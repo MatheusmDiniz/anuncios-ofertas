@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CY2V7MTQ",
+    "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 975g",
+    "imagem": "https://m.media-amazon.com/images/I/71x5tHFD6cL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CY2V7MTQ?tag=malica09-20",
+    "atualizado_em": "2026-10-09T13:48:39.328-03:00"
+  },
+  {
     "id": "amazon:B0CCDZ9XBJ",
     "titulo": "Babysec Fralda Premium Hiper G 60 Un",
     "imagem": "https://m.media-amazon.com/images/I/71DSWwyIa7L._AC_SL1500_.jpg",
