@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW44JM3G",
+    "titulo": "Oferta para Membros Prime: Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
+    "preco": 98,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
+    "atualizado_em": "2026-10-09T10:39:23.566-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53258842",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
