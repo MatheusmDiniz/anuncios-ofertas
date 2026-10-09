@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24230452",
+    "titulo": "Banheira Plástica Para Bebê Premium Galzerano Cor BRANCA ROSA Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617267-MLA96140419563_102025-F.jpg",
+    "preco": 494.9,
+    "preco_anterior": 956.19,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ftkkPg",
+    "atualizado_em": "2026-10-08T21:32:15.857-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21006188",
     "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08JXND5C7?tag=malica09-20",
     "atualizado_em": "2026-10-07T09:33:42.649-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26693140",
-    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
-    "preco": 76,
-    "preco_anterior": 170.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/138DV6n",
-    "atualizado_em": "2026-10-07T09:28:37.887-03:00"
   }
 ]
