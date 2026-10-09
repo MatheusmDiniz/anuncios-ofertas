@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58145183",
+    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730625-MLA116852295949_082026-F.jpg",
+    "preco": 729.8,
+    "preco_anterior": 2398,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1dggwXF",
+    "atualizado_em": "2026-10-08T21:01:20.429-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25997831",
     "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DR9P38P8?tag=malica09-20",
     "atualizado_em": "2026-10-07T09:02:27.487-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46014518",
-    "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
-    "preco": 229.9,
-    "preco_anterior": 765.96,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2jbhnwM",
-    "atualizado_em": "2026-10-07T08:57:22.703-03:00"
   }
 ]
