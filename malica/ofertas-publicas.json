@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52863189",
+    "titulo": "Berço Cosco Kids, Cozzy, Cinza Lápis",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628732-MLA99483236976_112025-F.jpg",
+    "preco": 335,
+    "preco_anterior": 599,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1b7WDxn",
+    "atualizado_em": "2026-10-09T09:27:49.308-03:00"
+  },
+  {
     "id": "shopee:511616291.41881390443",
     "titulo": "Sapatilha Infantil Feminina Batizado Branca Confortável Antiderrapante Leve Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820l5-mpscfmvj9y4hcf",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2TVytQt",
     "atualizado_em": "2026-10-07T21:30:17.851-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38943078",
-    "titulo": "Brinquedo Minha Primeira Máquina De Café Hyp38 Fisher Price Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_895918-MLA99863318939_112025-F.jpg",
-    "preco": 225.9,
-    "preco_anterior": 399.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12iT7nu",
-    "atualizado_em": "2026-10-07T21:25:08.403-03:00"
   }
 ]
