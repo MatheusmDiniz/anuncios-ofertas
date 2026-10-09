@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09WT4NCD5",
+    "titulo": "Fórmula Infantil Nestogeno 2 1,2kg : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/51ommYaOL8L._AC_SL1500_.jpg",
+    "preco": 89,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09WT4NCD5?tag=malica09-20",
+    "atualizado_em": "2026-10-09T12:37:41.466-03:00"
+  },
+  {
     "id": "amazon:B0DJCFN5D9",
     "titulo": "Ovomaltine Creme Crocante Pote 260g",
     "imagem": "https://m.media-amazon.com/images/I/61EnonAH9HL._AC_SL1500_.jpg",
