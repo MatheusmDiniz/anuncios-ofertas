@@ -2418,35 +2418,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
     "atualizado_em": "2026-10-07T14:42:41.968-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38303632",
-    "titulo": "Mochila Maternidade The Land Cor Cinza com Bege - 38cm",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807133-MLA99502984234_112025-F.jpg",
-    "preco": 156,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1JSFNvc",
-    "atualizado_em": "2026-10-07T14:37:33.714-03:00"
-  },
-  {
-    "id": "amazon:B0CP6BZHK3",
-    "titulo": "Oferta para Membros Prime: Apple iPhone 15 (256 GB) — Azul",
-    "imagem": "https://m.media-amazon.com/images/I/41+jLq6yJKL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CP6BZHK3?tag=malica09-20",
-    "atualizado_em": "2026-10-07T14:32:21.273-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB55577831",
-    "titulo": "Kit 3 Mamadeira Easy Flow Anticólica Buba 120 270 330ml Azul Elefante",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_966684-MLA99480825258_112025-F.jpg",
-    "preco": 80.85,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2V3c6wC",
-    "atualizado_em": "2026-10-07T14:26:50.428-03:00"
   }
 ]
