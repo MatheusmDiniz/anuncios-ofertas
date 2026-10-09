@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXKZQ2Y",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho G 160 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+    "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
+    "preco": 1,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
+    "atualizado_em": "2026-10-09T09:48:12.008-03:00"
+  },
+  {
     "id": "shopee:768659092.23094147638",
     "titulo": "KIT1/2/5PEÇA Cubo Mágico Profissional 3x3x3 Original Speed Gold Edition",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825al-mt5mmzn0lvrc7c",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2SJwgA7",
     "atualizado_em": "2026-10-07T21:50:52.205-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76312234",
-    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
-    "preco": 155.1,
-    "preco_anterior": 319.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jXU5Dp",
-    "atualizado_em": "2026-10-07T21:45:42.994-03:00"
   }
 ]
