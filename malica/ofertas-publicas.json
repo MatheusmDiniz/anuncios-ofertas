@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24765774",
+    "titulo": "Triângulo De Atividades Educativo Para Bebê - Buba Cor Colorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_887780-MLA95497851780_102025-F.jpg",
+    "preco": 95.01,
+    "preco_anterior": 177.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1qsS8kL",
+    "atualizado_em": "2026-10-08T21:21:50.578-03:00"
+  },
+  {
     "id": "amazon:B0FPD73VSZ",
     "titulo": "Travel System Cosco Kids, Lummy Duo, Cinza Gelo",
     "imagem": "https://m.media-amazon.com/images/I/51GzZLNdd6L._AC_SL1500_.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08DJSPFFX?tag=malica09-20",
     "atualizado_em": "2026-10-07T09:23:23.610-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26234856",
-    "titulo": "Totokinha Cardoso Toys Carrinho Andador Triciclo Menino Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705389-MLA118512524509_092026-F.jpg",
-    "preco": 119.99,
-    "preco_anterior": 219.89,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1x5k8s9",
-    "atualizado_em": "2026-10-07T09:17:52.441-03:00"
   }
 ]
