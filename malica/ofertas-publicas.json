@@ -2218,35 +2218,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08R9XTH39?tag=malica09-20",
     "atualizado_em": "2026-10-07T16:26:12.173-03:00"
-  },
-  {
-    "id": "amazon:B07DHR9LSK",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
-    "atualizado_em": "2026-10-07T16:21:05.013-03:00"
-  },
-  {
-    "id": "amazon:B0CD8T9Q45",
-    "titulo": "Absorvente Cremer 30Un. Seios : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/51O7wP2IGpL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CD8T9Q45?tag=malica09-20",
-    "atualizado_em": "2026-10-07T16:16:00.319-03:00"
-  },
-  {
-    "id": "amazon:B09WWY48B7",
-    "titulo": "Oferta para Membros Prime: Britânia Sanduicheira e Grill Press 127V, BGR27I classico/moderno Plástico e Metal",
-    "imagem": "https://m.media-amazon.com/images/I/5136pVcmWhL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09WWY48B7?tag=malica09-20",
-    "atualizado_em": "2026-10-07T16:10:54.618-03:00"
   }
 ]
