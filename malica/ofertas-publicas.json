@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28191782",
+    "titulo": "Trocador Anatômico de Bebê Para Cômoda Bege Impermeável Com Zíper Batistela Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612286-MLA113203041941_062026-F.jpg",
+    "preco": 149.9,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2QHKK8W",
+    "atualizado_em": "2026-10-09T09:07:26.666-03:00"
+  },
+  {
     "id": "shopee:1511719066.55602007922",
     "titulo": "Microscópio de bolso portátil para crianças, 60-180 vezes, HD, luz LED, experimento científico, brinquedo de observação",
     "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhfv79fd8ah85b",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2prT1Tt",
     "atualizado_em": "2026-10-07T21:09:42.648-03:00"
-  },
-  {
-    "id": "amazon:B00WJNJ4EO",
-    "titulo": "Oferta para Membros Prime: Copo Easy Sip c/Bico de Silicone 260ml Philips Avent - SCF553/03",
-    "imagem": "https://m.media-amazon.com/images/I/51ECiywsgnL._AC_SL1500_.jpg",
-    "preco": 48,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00WJNJ4EO?tag=malica09-20",
-    "atualizado_em": "2026-10-07T21:04:32.531-03:00"
   }
 ]
