@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:523113851.58266912827",
+    "titulo": "Body Bebê Presidente Brasil Mesversário Temático Infantil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msboazyb7wnb46",
+    "preco": 19.44,
+    "preco_anterior": 29.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1AzmqXNpF",
+    "atualizado_em": "2026-10-08T21:42:29.550-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39327701",
     "titulo": "Berço portátil infantil cercado 15kg Lazy MaxiBaby cor rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_818139-MLA95668209784_102025-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
     "atualizado_em": "2026-10-07T09:43:56.958-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44897509",
-    "titulo": "Grade de Proteção Infantil Masc Metais Tela Aço Carbono Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668375-MLA100108532235_122025-F.jpg",
-    "preco": 41.35,
-    "preco_anterior": 79,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1o4zvPp",
-    "atualizado_em": "2026-10-07T09:38:52.520-03:00"
   }
 ]
