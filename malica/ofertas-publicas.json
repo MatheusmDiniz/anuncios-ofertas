@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093G8NZ4Y+B093G8NZ4Z+B093G9PSPP+B093GBK61Q+B093GCJ1JP",
+    "titulo": "Oferta para Membros Prime: Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ncta4HE2L._AC_SL1500_.jpg",
+    "preco": 32,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=malica09-20",
+    "atualizado_em": "2026-10-09T08:21:13.018-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23465750",
     "titulo": "Mochila Maternidade ReforçAda Menina Menino Bolsa Maternidade Grande 17l 3 Bolsas TéRmicas Para Mamadeiras + 1 Bolsa TéRmica Para Garrafa De áGua",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_819202-MLA118498045227_092026-F.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B089Z8DV9N?tag=malica09-20",
     "atualizado_em": "2026-10-07T20:23:28.856-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61118769",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
-    "preco": 436,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2GN8iMF",
-    "atualizado_em": "2026-10-07T20:18:22.843-03:00"
   }
 ]
