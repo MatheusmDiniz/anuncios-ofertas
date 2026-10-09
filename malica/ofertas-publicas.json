@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GV4ZJSYK",
+    "titulo": "Carter",
+    "imagem": "https://m.media-amazon.com/images/I/810YplFqxrL._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GV4ZJSYK?tag=malica09-20",
+    "atualizado_em": "2026-10-09T19:04:33.384-03:00"
+  },
+  {
     "id": "shopee:1822435935.58264966066",
     "titulo": "Kit 6 Peças Menino Conjunto  Bebê Infantil Estampas Divertidas Inverno 3 Camisas 3 Bermudas Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lx-mr25k5qey1vo52",
