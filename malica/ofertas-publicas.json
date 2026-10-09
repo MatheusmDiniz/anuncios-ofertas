@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24820639",
+    "titulo": "Triciclo Cardoso Totokinha Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742209-MLA95937453019_102025-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 222.93,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kiJy46",
+    "atualizado_em": "2026-10-09T08:05:28.600-03:00"
+  },
+  {
     "id": "amazon:B07M73V8JD",
     "titulo": "Aptanutri Premium 3",
     "imagem": "https://m.media-amazon.com/images/I/61LK0Z8R8TL._AC_SL1500_.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2hhY1XL",
     "atualizado_em": "2026-10-07T20:07:38.400-03:00"
-  },
-  {
-    "id": "amazon:B0BFXJ12QQ",
-    "titulo": "Oferta para Membros Prime: Huggies Fralda Supreme Care M 196 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
-    "preco": 135.91,
-    "preco_anterior": 229.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
-    "atualizado_em": "2026-10-07T20:02:27.290-03:00"
   }
 ]
