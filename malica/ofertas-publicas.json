@@ -1988,35 +1988,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CNQ6X388?tag=malica09-20",
     "atualizado_em": "2026-10-07T18:24:29.266-03:00"
-  },
-  {
-    "id": "amazon:B0G3QFG9M4",
-    "titulo": "Oferta para Membros Prime: Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61K5hrmtDLL._AC_SL1500_.jpg",
-    "preco": 42,
-    "preco_anterior": 78,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G3QFG9M4?tag=malica09-20",
-    "atualizado_em": "2026-10-07T18:19:23.202-03:00"
-  },
-  {
-    "id": "amazon:B0GW4633WC",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG (14-18 kg), 74 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/615gRwrCRQL._AC_SL1500_.jpg",
-    "preco": 75,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW4633WC?tag=malica09-20",
-    "atualizado_em": "2026-10-07T18:14:16.950-03:00"
-  },
-  {
-    "id": "amazon:B07XL8XYNV",
-    "titulo": "Oferta para Membros Prime: Fraldas Babysec Premium Galinha Pintadinha Flexi Protect, 24 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617QvZcwtEL._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07XL8XYNV?tag=malica09-20",
-    "atualizado_em": "2026-10-07T18:09:12.070-03:00"
   }
 ]
