@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B7XGF6PB",
+    "titulo": "Hot Wheels Monster Trucks Veículo de Brinquedo Pacote Surpresa 4 carros Escala 1:64 para crianças a partir de 3 anos : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/71WAXm5ig2L._AC_SL1500_.jpg",
+    "preco": 161.99,
+    "preco_anterior": 269.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B7XGF6PB?tag=malica09-20",
+    "atualizado_em": "2026-10-08T21:52:44.733-03:00"
+  },
+  {
     "id": "shopee:341167297.44506971957",
     "titulo": "Kit 4 Peças Moletom Minimalista Bebê Menino Neném Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Liso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lf-mn0gxqnjpxc057",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076YXYPGX?tag=malica09-20",
     "atualizado_em": "2026-10-07T09:54:12.321-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB31739631",
-    "titulo": "Carrinho De Bebê Passeio Vira Berço NIVI Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932813-MLA99466029916_112025-F.jpg",
-    "preco": 424.86,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Y8xSvd",
-    "atualizado_em": "2026-10-07T09:49:06.234-03:00"
   }
 ]
