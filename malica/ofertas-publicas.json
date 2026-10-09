@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24331807",
+    "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
+    "preco": 33.98,
+    "preco_anterior": 70,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2PsBu6b",
+    "atualizado_em": "2026-10-09T20:29:24.365-03:00"
+  },
+  {
     "id": "shopee:1241453684.58256027225",
     "titulo": "CONJUNTO INFANTIL MENINA FRANZIDO SOLTINHO E CALÇA COM TECIDO ROSA DE POÁ DE CORAÇÃO FASHION",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnn3h9dr20w7b",
@@ -2928,15 +2938,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qVBA3Mb4W",
     "atualizado_em": "2026-10-08T08:30:47.664-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68877254",
-    "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
-    "preco": 429,
-    "preco_anterior": 1299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ythmav",
-    "atualizado_em": "2026-10-08T08:25:41.585-03:00"
   }
 ]
