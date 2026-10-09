@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:264196168.44809598956",
+    "titulo": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
+    "preco": 25.89,
+    "preco_anterior": 49.79,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2VsMMijTfj",
+    "atualizado_em": "2026-10-09T08:51:53.544-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63854956",
     "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644053-MLA103647256753_012026-F.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CHZJPGZB?tag=malica09-20",
     "atualizado_em": "2026-10-07T20:54:16.992-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26675721",
-    "titulo": "Atentu Cercadinho Para Bebê Cor Azul Infantil Chiqueirinho Criança",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749756-MLA95697851054_102025-F.jpg",
-    "preco": 129.9,
-    "preco_anterior": 219.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EASQR2",
-    "atualizado_em": "2026-10-07T20:49:11.202-03:00"
   }
 ]
