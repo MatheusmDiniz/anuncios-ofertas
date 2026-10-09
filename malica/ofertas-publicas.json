@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H51TFVLG",
+    "titulo": "Cadeira de Refeição Poke All Black - Burigotto",
+    "imagem": "https://m.media-amazon.com/images/I/61Fahg1PcML._AC_SL1500_.jpg",
+    "preco": 165,
+    "preco_anterior": 212,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H51TFVLG?tag=malica09-20",
+    "atualizado_em": "2026-10-09T13:03:02.557-03:00"
+  },
+  {
     "id": "amazon:B00TQCAAQW",
     "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
     "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
