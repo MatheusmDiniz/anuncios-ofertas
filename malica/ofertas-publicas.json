@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFG9CRST",
+    "titulo": "Oferta para Membros Prime: Buba, Tapete Dobrável Baby Arco Iris",
+    "imagem": "https://m.media-amazon.com/images/I/61FEt9hFRzL._AC_SL1500_.jpg",
+    "preco": 85.17,
+    "preco_anterior": 233.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFG9CRST?tag=malica09-20",
+    "atualizado_em": "2026-10-09T19:40:02.163-03:00"
+  },
+  {
     "id": "amazon:B008SBKTZ4",
     "titulo": "Oferta para Membros Prime: Lancôme, La Vie est Belle EDP, Perfume Feminino",
     "imagem": "https://m.media-amazon.com/images/I/51Vxh1QRSJL._AC_SL1500_.jpg",
