@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47549605",
+    "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 399.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zvgDVv",
+    "atualizado_em": "2026-10-09T11:15:05.612-03:00"
+  },
+  {
     "id": "amazon:B0C9W3MZV2",
     "titulo": "Oferta para Membros Prime: Sabonete Nutritivo Johnson",
     "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
