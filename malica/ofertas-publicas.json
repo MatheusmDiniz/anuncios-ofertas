@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C9W3MZV2",
+    "titulo": "Oferta para Membros Prime: Sabonete Nutritivo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
+    "preco": 30,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
+    "atualizado_em": "2026-10-09T11:09:58.757-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72860329",
     "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
