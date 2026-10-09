@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65579852",
+    "titulo": "Adora Bebê Reborn Bonecas Realista De Silicone Menina 48 Cm",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_794094-MLA106544309108_022026-F.jpg",
+    "preco": 138.2,
+    "preco_anterior": 359.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1RpTFfc",
+    "atualizado_em": "2026-10-09T08:36:35.239-03:00"
+  },
+  {
     "id": "shopee:341167297.47453028150",
     "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l05",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Dax1bi",
     "atualizado_em": "2026-10-07T20:38:54.411-03:00"
-  },
-  {
-    "id": "amazon:B0DFMY4CG8",
-    "titulo": "Buba, Bicicleta De Equilíbrio Com Som Azul : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/51Jf8fZPWFL._AC_SL1500_.jpg",
-    "preco": 125.02,
-    "preco_anterior": 308.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DFMY4CG8?tag=malica09-20",
-    "atualizado_em": "2026-10-07T20:33:45.134-03:00"
   }
 ]
