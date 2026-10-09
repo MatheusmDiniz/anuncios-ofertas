@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07M73V8JD",
+    "titulo": "Aptanutri Premium 3",
+    "imagem": "https://m.media-amazon.com/images/I/61LK0Z8R8TL._AC_SL1500_.jpg",
+    "preco": 51,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07M73V8JD?tag=malica09-20",
+    "atualizado_em": "2026-10-09T08:00:22.297-03:00"
+  },
+  {
     "id": "amazon:B0GYQ8JJ2D",
     "titulo": "Pixar Project Target Figura de Ação Alto-falante Jessie de 7\", Plástico",
     "imagem": "https://m.media-amazon.com/images/I/51g8xxq1+xL._AC_SL1500_.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
     "atualizado_em": "2026-10-07T20:02:27.290-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39426115",
-    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
-    "preco": 103.08,
-    "preco_anterior": 187.65,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2BQauvR",
-    "atualizado_em": "2026-10-07T19:57:21.263-03:00"
   }
 ]
