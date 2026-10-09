@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63854956",
+    "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644053-MLA103647256753_012026-F.jpg",
+    "preco": 137.79,
+    "preco_anterior": 259.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/23Yzgaa",
+    "atualizado_em": "2026-10-09T08:46:48.591-03:00"
+  },
+  {
     "id": "shopee:1207318462.18098113310",
     "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EASQR2",
     "atualizado_em": "2026-10-07T20:49:11.202-03:00"
-  },
-  {
-    "id": "amazon:B0CQPLSGMW",
-    "titulo": "Oferta para Membros Prime: Hastes Flexíveis HastyBaby - A Partir de 0+ Meses - Maciez e Conforto para Higienização do Bebê - Caixa com 50 Unidades - Lolly",
-    "imagem": "https://m.media-amazon.com/images/I/71Tq5tHd3iL._AC_SL1500_.jpg",
-    "preco": 6,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CQPLSGMW?tag=malica09-20",
-    "atualizado_em": "2026-10-07T20:43:59.388-03:00"
   }
 ]
