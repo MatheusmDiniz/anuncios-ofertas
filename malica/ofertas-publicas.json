@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB43475478",
+    "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_685947-MLA109363931978_042026-F.jpg",
+    "preco": 168.9,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1XY8eLv",
+    "atualizado_em": "2026-10-08T21:06:29.482-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB58145183",
     "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_730625-MLA116852295949_082026-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1gguhUM",
     "atualizado_em": "2026-10-07T09:07:37.786-03:00"
-  },
-  {
-    "id": "amazon:B0DR9P38P8",
-    "titulo": "Fralda Huggies Premium Dermacare P - 36 Un",
-    "imagem": "https://m.media-amazon.com/images/I/612uJGipXDL._AC_SL1500_.jpg",
-    "preco": 46.66,
-    "preco_anterior": 76.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DR9P38P8?tag=malica09-20",
-    "atualizado_em": "2026-10-07T09:02:27.487-03:00"
   }
 ]
