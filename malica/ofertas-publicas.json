@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38625704",
+    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
+    "preco": 193.72,
+    "preco_anterior": 329.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ofsJJZ",
+    "atualizado_em": "2026-10-09T09:17:38.722-03:00"
+  },
+  {
     "id": "shopee:1625500226.23494419895",
     "titulo": "(luz) Casinha de Boneca com 16/14/8/7/4 Quartos Corda de Luzes Brinquedo para Crianças Presente De Aniversário",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrsuwcq93i9d3",
@@ -1798,15 +1808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXMCSK8J?tag=malica09-20",
     "atualizado_em": "2026-10-07T21:19:58.572-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215253",
-    "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
-    "preco": 189.9,
-    "preco_anterior": 338,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2T4QNUn",
-    "atualizado_em": "2026-10-07T21:14:52.466-03:00"
   }
 ]
