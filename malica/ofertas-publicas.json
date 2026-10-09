@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:408631242.18597729501",
+    "titulo": "Kit 2 Blusas de Lã Tricot Infantil Juvenil Masculino Inverno",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mts5j7wp296o24",
+    "preco": 29.99,
+    "preco_anterior": 69.74,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8pmPuOBl8m",
+    "atualizado_em": "2026-10-09T09:32:54.959-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB52863189",
     "titulo": "Berço Cosco Kids, Cozzy, Cinza Lápis",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_628732-MLA99483236976_112025-F.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=malica09-20",
     "atualizado_em": "2026-10-07T21:35:23.430-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26647118",
-    "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
-    "preco": 519,
-    "preco_anterior": 1299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2TVytQt",
-    "atualizado_em": "2026-10-07T21:30:17.851-03:00"
   }
 ]
