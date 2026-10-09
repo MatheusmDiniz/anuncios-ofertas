@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56095353",
+    "titulo": "Boné New Era 59fifty Fitted New York Yankees Aba Reta Preto Tamanho 7 3/8",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_716782-MLA92432753113_092025-F.jpg",
+    "preco": 228,
+    "preco_anterior": 399.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/31oNisE",
+    "atualizado_em": "2026-10-09T09:38:02.016-03:00"
+  },
+  {
     "id": "shopee:408631242.18597729501",
     "titulo": "Kit 2 Blusas de Lã Tricot Infantil Juvenil Masculino Inverno",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mts5j7wp296o24",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1RseyLW",
     "atualizado_em": "2026-10-07T21:40:34.993-03:00"
-  },
-  {
-    "id": "amazon:B07G9RQHY7",
-    "titulo": "Mili Fralda Ultra Seca Jumbinho M 1X22",
-    "imagem": "https://m.media-amazon.com/images/I/71A0f1G1dtL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07G9RQHY7?tag=malica09-20",
-    "atualizado_em": "2026-10-07T21:35:23.430-03:00"
   }
 ]
