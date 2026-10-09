@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B096YLZNHV",
+    "titulo": "Burigotto Kit Banho Branco",
+    "imagem": "https://m.media-amazon.com/images/I/61u6+HmvidS._AC_SL1500_.jpg",
+    "preco": 203.15,
+    "preco_anterior": 355.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=malica09-20",
+    "atualizado_em": "2026-10-09T12:06:48.994-03:00"
+  },
+  {
     "id": "amazon:B07X83FF8M",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 78 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61XQcYdEJiL._AC_SL1500_.jpg",
