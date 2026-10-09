@@ -2308,35 +2308,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C5N6ST9L?tag=malica09-20",
     "atualizado_em": "2026-10-07T15:39:45.238-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77605344",
-    "titulo": "Banheira Bebe Dobrável Com Termômetro Almofada Azul Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672653-MLA114996563990_082026-F.jpg",
-    "preco": 153.72,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2h8hBYD",
-    "atualizado_em": "2026-10-07T15:34:12.874-03:00"
-  },
-  {
-    "id": "amazon:B09JVFNSJ4",
-    "titulo": "Kit de Mamadeiras Anticólica Essence Smart Flow 150 e 270ml NUK - Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/71GDuPMghlL._AC_SL1500_.jpg",
-    "preco": 82,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09JVFNSJ4?tag=malica09-20",
-    "atualizado_em": "2026-10-07T15:29:02.914-03:00"
-  },
-  {
-    "id": "amazon:B07FNZKM49",
-    "titulo": "Oferta para Membros Prime: Cosco Kids, Cadeirinha Tour, 9 a 36 Kg, Cinza e Preto",
-    "imagem": "https://m.media-amazon.com/images/I/51DF4CDW1HL._AC_SL1500_.jpg",
-    "preco": 320,
-    "preco_anterior": 399,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FNZKM49?tag=malica09-20",
-    "atualizado_em": "2026-10-07T15:23:56.940-03:00"
   }
 ]
