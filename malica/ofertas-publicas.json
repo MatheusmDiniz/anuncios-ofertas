@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08Y1Z25MG",
+    "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
+    "preco": 65,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08Y1Z25MG?tag=malica09-20",
+    "atualizado_em": "2026-10-09T12:16:56.099-03:00"
+  },
+  {
     "id": "amazon:B072MTS8VQ",
     "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
     "imagem": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SL1500_.jpg",
