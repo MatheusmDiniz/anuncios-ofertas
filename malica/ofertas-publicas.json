@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H+B07X4GWDZY+B0DV7BN75H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 72,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-10-09T15:59:53.863-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB67134266",
     "titulo": "Barbie Conjunto de Brinquedo Conjunto de Jogo Pizzaria",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_636730-MLA108638769090_032026-F.jpg",
