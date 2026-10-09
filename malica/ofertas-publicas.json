@@ -2598,35 +2598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B084HK1PZS?tag=malica09-20",
     "atualizado_em": "2026-10-07T13:08:58.051-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB54207427",
-    "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - CINZA",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_865878-MLA95693182272_102025-F.jpg",
-    "preco": 313.19,
-    "preco_anterior": 549.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28ed7Bs",
-    "atualizado_em": "2026-10-07T13:03:52.079-03:00"
-  },
-  {
-    "id": "amazon:B07ZPQ1N31",
-    "titulo": "Simple Joys by Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81pgazfN5XL._AC_SL1500_.jpg",
-    "preco": 125.28,
-    "preco_anterior": 156.37,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZPQ1N31?tag=malica09-20",
-    "atualizado_em": "2026-10-07T12:58:42.905-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56677151",
-    "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
-    "preco": 129.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fqRnEh",
-    "atualizado_em": "2026-10-07T12:53:38.793-03:00"
   }
 ]
