@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:511616291.41881390443",
+    "titulo": "Sapatilha Infantil Feminina Batizado Branca Confortável Antiderrapante Leve Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820l5-mpscfmvj9y4hcf",
+    "preco": 29.9,
+    "preco_anterior": 99.67,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/qk8NgBD9C",
+    "atualizado_em": "2026-10-09T09:22:42.457-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38625704",
     "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/12iT7nu",
     "atualizado_em": "2026-10-07T21:25:08.403-03:00"
-  },
-  {
-    "id": "amazon:B0BXMCSK8J",
-    "titulo": "Cadeira para Auto 0-36 Kg Isofix Litet All Stages Fix 2.0 Preta - BB450",
-    "imagem": "https://m.media-amazon.com/images/I/51nR0uwTfHL._AC_SL1500_.jpg",
-    "preco": 698,
-    "preco_anterior": 828,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BXMCSK8J?tag=malica09-20",
-    "atualizado_em": "2026-10-07T21:19:58.572-03:00"
   }
 ]
