@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GYQ8JJ2D",
+    "titulo": "Pixar Project Target Figura de Ação Alto-falante Jessie de 7\", Plástico",
+    "imagem": "https://m.media-amazon.com/images/I/51g8xxq1+xL._AC_SL1500_.jpg",
+    "preco": 154.51,
+    "preco_anterior": 257.51,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GYQ8JJ2D?tag=malica09-20",
+    "atualizado_em": "2026-10-08T21:58:15.626-03:00"
+  },
+  {
     "id": "amazon:B0B7XGF6PB",
     "titulo": "Hot Wheels Monster Trucks Veículo de Brinquedo Pacote Surpresa 4 carros Escala 1:64 para crianças a partir de 3 anos : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/71WAXm5ig2L._AC_SL1500_.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WUFJ1e",
     "atualizado_em": "2026-10-07T09:59:25.276-03:00"
-  },
-  {
-    "id": "amazon:B076YXYPGX",
-    "titulo": "Oferta para Membros Prime: Granado Sabonete Cremoso Dermocalmante, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/411Xt-hYRGL._AC_SL1500_.jpg",
-    "preco": 28.71,
-    "preco_anterior": 36.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076YXYPGX?tag=malica09-20",
-    "atualizado_em": "2026-10-07T09:54:12.321-03:00"
   }
 ]
