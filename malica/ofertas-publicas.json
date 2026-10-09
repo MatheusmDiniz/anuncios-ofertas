@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076X6CCGJ",
+    "titulo": "Jogo da Vida Brinquedos Estrela",
+    "imagem": "https://m.media-amazon.com/images/I/61d+ZX8M7ML._AC_SL1500_.jpg",
+    "preco": 72,
+    "preco_anterior": 149,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076X6CCGJ?tag=malica09-20",
+    "atualizado_em": "2026-10-09T14:04:44.834-03:00"
+  },
+  {
     "id": "amazon:B0BXMV4ZXW",
     "titulo": "Oferta para Membros Prime: Cadeira para Auto 0-36Kg Isofix Litet All Stages Fix 2.0 Preta e Cinza - BB452",
     "imagem": "https://m.media-amazon.com/images/I/615AvAaOM8L._AC_SL1500_.jpg",
