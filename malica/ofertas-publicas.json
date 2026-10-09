@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BKLNG66P+B0BKLPZ4BH",
+    "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81uiM-l9MBL._AC_SL1500_.jpg",
+    "preco": 88,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=malica09-20",
+    "atualizado_em": "2026-10-09T09:58:19.573-03:00"
+  },
+  {
     "id": "shopee:1797406160.58261454279",
     "titulo": "DLI Avião Drone de Combate Aircraft Controle Remoto RCCom Luz Bateria Recarregável Resistente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-moot07bh5e6b21",
@@ -1798,15 +1808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
     "atualizado_em": "2026-10-08T08:00:08.246-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB78751642",
-    "titulo": "Travesseiro bebe almofada Pelúcia EPS-8047 com Palma Automática Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_945948-MLA115554172982_082026-F.jpg",
-    "preco": 129.9,
-    "preco_anterior": 357.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MxnZVZ",
-    "atualizado_em": "2026-10-07T21:56:01.915-03:00"
   }
 ]
