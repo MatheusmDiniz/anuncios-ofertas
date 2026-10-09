@@ -2248,35 +2248,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09WWY48B7?tag=malica09-20",
     "atualizado_em": "2026-10-07T16:10:54.618-03:00"
-  },
-  {
-    "id": "amazon:B0DWYBQNXN+B0DWYJMD7Q+B0DWYW9KHN",
-    "titulo": "Oferta para Membros Prime: Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61tjpixeXyL._AC_SL1500_.jpg",
-    "preco": 152,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=malica09-20",
-    "atualizado_em": "2026-10-07T16:05:48.156-03:00"
-  },
-  {
-    "id": "amazon:B07DHSHRMG",
-    "titulo": "Oferta para Membros Prime: Óleo Hidratante para Bebê Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41kXsmnCvqL._AC_SL1500_.jpg",
-    "preco": 42,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=malica09-20",
-    "atualizado_em": "2026-10-07T16:00:42.310-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26764181",
-    "titulo": "Totokinha Menina 0300 - Cardoso Toys Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765391-MLA99932711605_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28KSppS",
-    "atualizado_em": "2026-10-07T15:55:36.374-03:00"
   }
 ]
