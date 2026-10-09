@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67071722",
+    "titulo": "Bicicleta De Equilibrio Infantil Sem Pedal Verde 21270 Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_927876-MLA111293501262_052026-F.jpg",
+    "preco": 231,
+    "preco_anterior": 390.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1n8d434",
+    "atualizado_em": "2026-10-09T08:57:00.521-03:00"
+  },
+  {
     "id": "shopee:264196168.44809598956",
     "titulo": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
@@ -1798,15 +1808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2MSMfXJ",
     "atualizado_em": "2026-10-07T20:59:27.092-03:00"
-  },
-  {
-    "id": "amazon:B0CHZJPGZB",
-    "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Dia&Noite XXG 44 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71YY3FhxonL._AC_SL1500_.jpg",
-    "preco": 64,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CHZJPGZB?tag=malica09-20",
-    "atualizado_em": "2026-10-07T20:54:16.992-03:00"
   }
 ]
