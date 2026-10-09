@@ -2628,25 +2628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fqRnEh",
     "atualizado_em": "2026-10-07T12:53:38.793-03:00"
-  },
-  {
-    "id": "amazon:B094SMZT6W",
-    "titulo": "Fralda Huggies Little Swimmers M/G 10 Un",
-    "imagem": "https://m.media-amazon.com/images/I/611GtSZv2fL._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B094SMZT6W?tag=malica09-20",
-    "atualizado_em": "2026-10-07T12:48:28.604-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22323833",
-    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 185.57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yoBH4h",
-    "atualizado_em": "2026-10-07T12:43:22.097-03:00"
   }
 ]
