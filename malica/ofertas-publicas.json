@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07HNPDH3H",
+    "titulo": "MAM Baby 1 Escova de Dentes Baby",
+    "imagem": "https://m.media-amazon.com/images/I/41wtFvGWLrL._AC_SL1500_.jpg",
+    "preco": 27,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07HNPDH3H?tag=malica09-20",
+    "atualizado_em": "2026-10-10T12:15:31.773-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26693140",
     "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
