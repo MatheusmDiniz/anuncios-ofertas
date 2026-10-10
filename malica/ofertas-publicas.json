@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07XTFT7G1",
+    "titulo": "Achocolatado ALPINO® 1Kg",
+    "imagem": "https://m.media-amazon.com/images/I/61jxtgjckmL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=malica09-20",
+    "atualizado_em": "2026-10-10T15:08:58.444-03:00"
+  },
+  {
     "id": "amazon:B09BBDVPB1",
     "titulo": "Oferta para Membros Prime: MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
