@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77311383",
+    "titulo": "Mochila Maternidade NTESX com Trocador, Térmica e Impermeável Azul-Marinho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611530-MLA116251507724_092026-F.jpg",
+    "preco": 111.52,
+    "preco_anterior": 251.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1LFQECa",
+    "atualizado_em": "2026-10-10T08:35:10.288-03:00"
+  },
+  {
     "id": "shopee:859524128.52714613108",
     "titulo": "Kit 6 Peças Conjunto Bebê Menina (3 Body Manga Longa + 3 Calça) 100% Algodão RN ao GG Estampado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqzksqu94wsle6",
@@ -1828,15 +1838,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2qTZmjN",
     "atualizado_em": "2026-10-08T20:35:42.303-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61794290",
-    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
-    "preco": 445,
-    "preco_anterior": 799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1pF34v1",
-    "atualizado_em": "2026-10-08T20:30:33.842-03:00"
   }
 ]
