@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B079VQTRM7",
+    "titulo": "Oferta: Bio Oil Bio",
+    "imagem": "https://m.media-amazon.com/images/I/41UeIwJ3WBL._AC_SL1500_.jpg",
+    "preco": 42,
+    "preco_anterior": 85,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B079VQTRM7?tag=malica09-20",
+    "atualizado_em": "2026-10-10T18:07:29.227-03:00"
+  },
+  {
     "id": "amazon:B096W8G8DL",
     "titulo": "MOANA, Cotiplás, Vermelho : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/61hFlUFP++L._AC_SL1500_.jpg",
