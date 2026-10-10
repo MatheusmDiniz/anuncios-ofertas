@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09B8VGCR8",
+    "titulo": "Oferta para Membros Prime: Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
+    "imagem": "https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1500_.jpg",
+    "preco": 299,
+    "preco_anterior": 649,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=malica09-20",
+    "atualizado_em": "2026-10-10T09:57:13.458-03:00"
+  },
+  {
     "id": "shopee:1571349071.58201525788",
     "titulo": "Kit 5 Potes de Vidro p/ Leite Materno 200ml – Livre de BPA c/ Graduação",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-822x2-mhvtz0bh7qpwf6",
