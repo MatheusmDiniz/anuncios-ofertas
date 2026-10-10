@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DB2ZLXH",
+    "titulo": "Oferta para Membros Prime: Britânia Prancha, Titanium Blue, 35w, Azul, Bivolt",
+    "imagem": "https://m.media-amazon.com/images/I/41maA41EACL._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": 142,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DB2ZLXH?tag=malica09-20",
+    "atualizado_em": "2026-10-10T10:43:33.867-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66427747",
     "titulo": "Kit com 10 Potinhos de Vidro 40ml com Rolha de Madeira para Lembrancinhas e Decoração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_734780-MLA108809337961_032026-F.jpg",
