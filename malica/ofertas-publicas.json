@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1684753071.23294748806",
+    "titulo": "Blusa Amamentação Premium Camiseta T-shirt Blusinha Full",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-midhydhy914y16",
+    "preco": 27.5,
+    "preco_anterior": 50,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1B2Hsdqwj",
+    "atualizado_em": "2026-10-09T21:53:04.763-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26851070",
     "titulo": "Banheira Infantil Burigotto Splash 10 L, Suporte e Redutor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
@@ -2998,15 +3008,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2W2q7qJ",
     "atualizado_em": "2026-10-08T09:54:19.845-03:00"
-  },
-  {
-    "id": "shopee:429438031.23498723011",
-    "titulo": "Kit Touca e Luvas Personalizado Maternidade Recém-Nascido Super Macia Malha Algodão RN",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxukwz027t25d",
-    "preco": 19.95,
-    "preco_anterior": 39.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/LnqBUHyF3",
-    "atualizado_em": "2026-10-08T09:49:11.393-03:00"
   }
 ]
