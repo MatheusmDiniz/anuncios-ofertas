@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08DZ8WLZ7",
+    "titulo": "Oferta para Membros Prime: Papel Higiênico Neve Supreme Folha Tripla Leve 32 Pague 28 20 Metros",
+    "imagem": "https://m.media-amazon.com/images/I/71uMfSWtjnL._AC_SL1500_.jpg",
+    "preco": 51,
+    "preco_anterior": 73,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08DZ8WLZ7?tag=malica09-20",
+    "atualizado_em": "2026-10-10T14:22:49.973-03:00"
+  },
+  {
     "id": "amazon:B0BTTLYZN9",
     "titulo": "Oferta para Membros Prime: Personal Fralda Baby Total Protect Pants Grande, 44 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51zr7O3WDxL._AC_SL1500_.jpg",
