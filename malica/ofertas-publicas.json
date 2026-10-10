@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:378105312.54507799907",
+    "titulo": "Porta Leite em Pó 3 Compartimentos Dosador Portátil",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mmbwyvoby39fa1",
+    "preco": 12.99,
+    "preco_anterior": 30.21,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/30odTTkivt",
+    "atualizado_em": "2026-10-10T09:00:44.156-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26382771",
     "titulo": "Cozinha Infantil De Brinquedo Completa Sai Água + Acessórios Cor Roxo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_679641-MLA99933602093_112025-F.jpg",
@@ -1828,15 +1838,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dggwXF",
     "atualizado_em": "2026-10-08T21:01:20.429-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25997831",
-    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
-    "preco": 80,
-    "preco_anterior": 144.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2X546Yw",
-    "atualizado_em": "2026-10-08T20:56:12.112-03:00"
   }
 ]
