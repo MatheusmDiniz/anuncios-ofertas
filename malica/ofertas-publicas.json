@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B097BYXGXN",
+    "titulo": "Heinz Ketchup Tradicional 1,033KG",
+    "imagem": "https://m.media-amazon.com/images/I/51653ltvYsL._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B097BYXGXN?tag=malica09-20",
+    "atualizado_em": "2026-10-10T11:44:51.328-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB52680667",
     "titulo": "Andador Infantil Empurrador Atividade Musical Bebê Didático Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_824627-MLA100063596379_122025-F.jpg",
