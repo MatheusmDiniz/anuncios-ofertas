@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B088C4QZV2",
+    "titulo": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home : Amazon.com.br: Eletrônicos",
+    "imagem": "https://m.media-amazon.com/images/I/61i1yPAlVLL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B088C4QZV2?tag=malica09-20",
+    "atualizado_em": "2026-10-10T09:47:02.564-03:00"
+  },
+  {
     "id": "shopee:1323245806.58215396116",
     "titulo": "Luva Lançador de Teia Homem Aranha Brinquedo Infantil com Dardos de Ventosa Spider",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825az-mrbudvx5j01u48",
@@ -1828,15 +1838,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LRRkxuIM5",
     "atualizado_em": "2026-10-08T21:47:38.947-03:00"
-  },
-  {
-    "id": "shopee:523113851.58266912827",
-    "titulo": "Body Bebê Presidente Brasil Mesversário Temático Infantil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msboazyb7wnb46",
-    "preco": 19.44,
-    "preco_anterior": 29.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1AzmqXNpF",
-    "atualizado_em": "2026-10-08T21:42:29.550-03:00"
   }
 ]
