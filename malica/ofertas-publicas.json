@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z9SRGSK",
+    "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "imagem": "https://m.media-amazon.com/images/I/51uaIj3cogL._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=malica09-20",
+    "atualizado_em": "2026-10-10T12:56:09.434-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62445069",
     "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_849686-MLA99207858759_112025-F.jpg",
