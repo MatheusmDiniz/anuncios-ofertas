@@ -2668,25 +2668,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D5JZ4B8?tag=malica09-20",
     "atualizado_em": "2026-10-08T12:53:49.936-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB70151841",
-    "titulo": "Cadeira De Alimentação Bebê Portátil Daily 4 Em 1 + Rodinhas Daily Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_834877-MLA112190165739_052026-F.jpg",
-    "preco": 243,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1U1bmEN",
-    "atualizado_em": "2026-10-08T12:48:48.125-03:00"
-  },
-  {
-    "id": "amazon:B0CSZCX44L",
-    "titulo": "Oferta para Membros Prime: Buba, Copo Térmico Parede Dupla Ursinho Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/41QS+YcYKwL._AC_SL1500_.jpg",
-    "preco": 66.38,
-    "preco_anterior": 94.5,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CSZCX44L?tag=malica09-20",
-    "atualizado_em": "2026-10-08T12:43:38.800-03:00"
   }
 ]
