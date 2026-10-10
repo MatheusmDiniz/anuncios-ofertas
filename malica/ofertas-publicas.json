@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07J68SZ66",
+    "titulo": "Oferta para Membros Prime: Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71t1HubAW5L._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07J68SZ66?tag=malica09-20",
+    "atualizado_em": "2026-10-10T19:36:06.457-03:00"
+  },
+  {
     "id": "amazon:B07DHSHXVP",
     "titulo": "Oferta para Membros Prime: Power Bank Pro 20000mAH, Bateria Portátil Universal, Carga Rápida, Display Indicador, Entradas Micro USB e USB-C, 2 Portas USB-A, Preto, PB200BK, ELG",
     "imagem": "https://m.media-amazon.com/images/I/51B8L+wYfXL._AC_SL1500_.jpg",
