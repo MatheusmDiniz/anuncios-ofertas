@@ -2748,35 +2748,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0HCV5LRXS?tag=malica09-20",
     "atualizado_em": "2026-10-08T12:12:37.261-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53225985",
-    "titulo": "Berço Americano Tutto New Freijó - Matic",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655242-MLA95246448845_102025-F.jpg",
-    "preco": 1067,
-    "preco_anterior": 1799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xxW9Co",
-    "atualizado_em": "2026-10-08T12:07:31.979-03:00"
-  },
-  {
-    "id": "amazon:B095R95SNW",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
-    "atualizado_em": "2026-10-08T12:02:23.086-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29139733",
-    "titulo": "Lancheira Bento Box Buba Zoo Unicornio 17310 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635788-MLA99939869989_112025-F.jpg",
-    "preco": 58.9,
-    "preco_anterior": 101.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/32mjBnj",
-    "atualizado_em": "2026-10-08T11:57:18.106-03:00"
   }
 ]
