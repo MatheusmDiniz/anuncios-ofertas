@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MBTSMM8",
+    "titulo": "Neslac Comfor - Composto Lácteo, 800g : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/815GVNMYL7L._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=malica09-20",
+    "atualizado_em": "2026-10-10T12:30:44.337-03:00"
+  },
+  {
     "id": "amazon:B0BXM1CSC2",
     "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho G, 70 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
     "imagem": "https://m.media-amazon.com/images/I/81TPU8xgDyL._AC_SL1500_.jpg",
