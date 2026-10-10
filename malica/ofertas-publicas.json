@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JZP4W94",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61klnXsqllL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JZP4W94?tag=malica09-20",
+    "atualizado_em": "2026-10-10T17:31:29.790-03:00"
+  },
+  {
     "id": "amazon:B08K3PF8Q7",
     "titulo": "Neslac Comfor Zero Lactose - Composto Lácteo, Fórmula infantil, 700g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/71Ziq9OkyEL._AC_SL1500_.jpg",
