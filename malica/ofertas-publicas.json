@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77649263",
+    "titulo": "Berço Portátil com Trocador Removível e Mosquiteiro, Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_708968-MLA116389674095_082026-F.jpg",
+    "preco": 384,
+    "preco_anterior": 669,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GRCmBQ",
+    "atualizado_em": "2026-10-10T12:40:53.797-03:00"
+  },
+  {
     "id": "amazon:B07X4GVF9H",
     "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
