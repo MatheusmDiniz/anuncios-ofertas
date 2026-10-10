@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45072765",
+    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
+    "preco": 171,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28PyR9t",
+    "atualizado_em": "2026-10-10T09:16:05.322-03:00"
+  },
+  {
     "id": "shopee:1638928329.22499456897",
     "titulo": "Kit 36 Anéis Infantil Menina + Caixa Coração / Ajustável Sortidos",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mnlr6vebyolde3",
@@ -1828,15 +1838,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPD73VSZ?tag=malica09-20",
     "atualizado_em": "2026-10-08T21:16:42.692-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB54502866",
-    "titulo": "Gabby's Dollhouse - Tiara de Orelha Musical - O filme - 4813",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_646166-MLA113735260094_072026-F.jpg",
-    "preco": 147.13,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2pZLsCQ",
-    "atualizado_em": "2026-10-08T21:11:37.753-03:00"
   }
 ]
