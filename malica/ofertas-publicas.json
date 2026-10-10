@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B2B8P8HF",
+    "titulo": "Disney Princesa Boneca Branca de Neve para Crianças a Partir de 3 Anos",
+    "imagem": "https://m.media-amazon.com/images/I/81zbsD6qY0L._AC_SL1500_.jpg",
+    "preco": 165.66,
+    "preco_anterior": 239.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B2B8P8HF?tag=malica09-20",
+    "atualizado_em": "2026-10-10T20:42:11.301-03:00"
+  },
+  {
     "id": "amazon:B09BDZZV23",
     "titulo": "Oferta para Membros Prime: Safety 1st, Cadeirinha Multifix, 0 a 36kg, com Isofix, Black Urban",
     "imagem": "https://m.media-amazon.com/images/I/51V-pldzLxL._AC_SL1500_.jpg",
@@ -2988,15 +2998,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/23Yzgaa",
     "atualizado_em": "2026-10-09T08:46:48.591-03:00"
-  },
-  {
-    "id": "shopee:1207318462.18098113310",
-    "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
-    "preco": 40.55,
-    "preco_anterior": 69.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/W7GNlVToM",
-    "atualizado_em": "2026-10-09T08:41:40.585-03:00"
   }
 ]
