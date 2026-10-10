@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09BBDVPB1",
+    "titulo": "Oferta para Membros Prime: MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
+    "preco": 23,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
+    "atualizado_em": "2026-10-10T15:03:53.856-03:00"
+  },
+  {
     "id": "amazon:B0CFFQBY89",
     "titulo": "Oferta para Membros Prime: 1 AP. DE JANTAR/CHA 30PCS - M. ORDER - BRISA - AW30-5903 | Formato Clean",
     "imagem": "https://m.media-amazon.com/images/I/61WfjowoKRL._AC_SL1500_.jpg",
