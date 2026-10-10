@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z55NZ7G",
+    "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
+    "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
+    "preco": 11,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
+    "atualizado_em": "2026-10-10T18:38:49.861-03:00"
+  },
+  {
     "id": "amazon:B076HYFQJB",
     "titulo": "Britânia Cupcake, Cupcake Maker 3, 7 Cupcakes, Preto, 220v, Classico Plastico e metal",
     "imagem": "https://m.media-amazon.com/images/I/51-pGGGYwKL._AC_SL1500_.jpg",
