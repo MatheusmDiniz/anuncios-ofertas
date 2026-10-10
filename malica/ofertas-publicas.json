@@ -2338,35 +2338,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C2B7LBKF?tag=malica09-20",
     "atualizado_em": "2026-10-08T15:43:04.548-03:00"
-  },
-  {
-    "id": "amazon:B07MQG6SWC",
-    "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
-    "imagem": "https://m.media-amazon.com/images/I/61m5QAg1xHL._AC_SL1500_.jpg",
-    "preco": 32.8,
-    "preco_anterior": 59.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MQG6SWC?tag=malica09-20",
-    "atualizado_em": "2026-10-08T15:37:58.329-03:00"
-  },
-  {
-    "id": "amazon:B08377D9YS",
-    "titulo": "Oferta para Membros Prime: Climatizador de Ar Frio, 60W, 4,5L, Midea Branco 127V, AKAF1, 7L",
-    "imagem": "https://m.media-amazon.com/images/I/61SrntjhhlL._AC_SL1500_.jpg",
-    "preco": 458,
-    "preco_anterior": 669,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08377D9YS?tag=malica09-20",
-    "atualizado_em": "2026-10-08T15:32:52.763-03:00"
-  },
-  {
-    "id": "amazon:B0B9959CWN",
-    "titulo": "Lenços Umedecidos Pampers Cuidado de bebê, 576 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61+OonwT8PL._AC_SL1500_.jpg",
-    "preco": 96,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B9959CWN?tag=malica09-20",
-    "atualizado_em": "2026-10-08T15:27:47.842-03:00"
   }
 ]
