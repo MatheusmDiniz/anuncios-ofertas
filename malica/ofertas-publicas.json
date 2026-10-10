@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26851070",
+    "titulo": "Banheira Infantil Burigotto Splash 10 L, Suporte e Redutor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
+    "preco": 239,
+    "preco_anterior": 510,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZobV6E",
+    "atualizado_em": "2026-10-09T21:47:53.379-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB16091842",
     "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
@@ -2998,15 +3008,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnqBUHyF3",
     "atualizado_em": "2026-10-08T09:49:11.393-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69331466",
-    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 3 Anos Casa da Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
-    "preco": 799.99,
-    "preco_anterior": 1699.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bC1ui2",
-    "atualizado_em": "2026-10-08T09:44:06.083-03:00"
   }
 ]
