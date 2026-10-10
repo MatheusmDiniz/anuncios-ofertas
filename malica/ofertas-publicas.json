@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGF75XZB",
+    "titulo": "Oferta para Membros Prime: Buba Cubo Atividades 7 Em 1",
+    "imagem": "https://m.media-amazon.com/images/I/61AWjXlKorL._AC_SL1500_.jpg",
+    "preco": 91,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGF75XZB?tag=malica09-20",
+    "atualizado_em": "2026-10-10T12:05:20.806-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75214967",
     "titulo": "Kit Escova e Pente para Bebê Lilica Ripilica BB Cerdas Naturais Pente de Pontas Arredondadas Design Moderno Cuidados do Bebê Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_867433-MLA113064409082_072026-F.jpg",
