@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KPQQWF+B099KTRZP7+B099KV2733+B099KW58QQ+B099KWB62Y",
+    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
+    "preco": 33,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
+    "atualizado_em": "2026-10-10T08:19:49.823-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77434183",
     "titulo": "Protetor De Colchão Impermeável Berço Americano Quadriculado Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_611112-MLA114862303670_082026-F.jpg",
@@ -1828,15 +1838,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07Y2KTV5T?tag=malica09-20",
     "atualizado_em": "2026-10-08T20:20:15.500-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27051169",
-    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
-    "preco": 96.01,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WN2eJH",
-    "atualizado_em": "2026-10-08T20:15:10.693-03:00"
   }
 ]
