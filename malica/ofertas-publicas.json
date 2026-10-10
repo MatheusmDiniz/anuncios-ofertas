@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CDQKS6D4",
+    "titulo": "Kit 3 Limpador Perfumado de Ambiente 120ml Coala Cha Branco",
+    "imagem": "https://m.media-amazon.com/images/I/61jq4E89d1L._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CDQKS6D4?tag=malica09-20",
+    "atualizado_em": "2026-10-10T19:46:16.077-03:00"
+  },
+  {
     "id": "amazon:B09GKT58C3",
     "titulo": "Chaleira Elétrica Elgin Cha10 1,8L Sem Fio com Desligamento Automático",
     "imagem": "https://m.media-amazon.com/images/I/518J6L5BsHL._AC_SL1500_.jpg",
