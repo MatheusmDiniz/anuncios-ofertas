@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6526109268",
+    "titulo": "Sentimentômetro",
+    "imagem": "https://m.media-amazon.com/images/I/71xqEj2EW8L._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": 64,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6526109268?tag=malica09-20",
+    "atualizado_em": "2026-10-10T15:24:12.018-03:00"
+  },
+  {
     "id": "amazon:B0GW3TH25S",
     "titulo": "Oferta para Membros Prime: Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
