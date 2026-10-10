@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09GKT58C3",
+    "titulo": "Chaleira Elétrica Elgin Cha10 1,8L Sem Fio com Desligamento Automático",
+    "imagem": "https://m.media-amazon.com/images/I/518J6L5BsHL._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": 119,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09GKT58C3?tag=malica09-20",
+    "atualizado_em": "2026-10-10T19:41:11.955-03:00"
+  },
+  {
     "id": "amazon:B07J68SZ66",
     "titulo": "Oferta para Membros Prime: Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71t1HubAW5L._AC_SL1500_.jpg",
