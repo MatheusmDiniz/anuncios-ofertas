@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D519XS9K",
+    "titulo": "Oferta para Membros Prime: MamyPoko Fralda-Calça Superproteção XXG 22 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71l0LB5UEHL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D519XS9K?tag=malica09-20",
+    "atualizado_em": "2026-10-10T08:09:40.469-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39456030",
     "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
