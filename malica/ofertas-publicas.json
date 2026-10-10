@@ -2718,35 +2718,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1yKShtn",
     "atualizado_em": "2026-10-08T12:27:59.114-03:00"
-  },
-  {
-    "id": "amazon:B07X4GWDZY",
-    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
-    "preco": 90,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
-    "atualizado_em": "2026-10-08T12:22:50.493-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21283759",
-    "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
-    "preco": 209.85,
-    "preco_anterior": 392.53,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2heMSHE",
-    "atualizado_em": "2026-10-08T12:17:45.818-03:00"
-  },
-  {
-    "id": "amazon:B0HCV5LRXS",
-    "titulo": "Brinquedo Torradeira Madeira Comidinha Faz de Conta Cozinha Infantil | Conjunto de Cozinha de Faz-de-conta, Máquina de Café, Pizza, Pão e Ovo para Crianças 3-6 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/616DYiO9SBL._AC_SL1500_.jpg",
-    "preco": 63.76,
-    "preco_anterior": 78.5,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HCV5LRXS?tag=malica09-20",
-    "atualizado_em": "2026-10-08T12:12:37.261-03:00"
   }
 ]
