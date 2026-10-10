@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16091842",
+    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZqdnYS",
+    "atualizado_em": "2026-10-09T21:42:46.501-03:00"
+  },
+  {
     "id": "shopee:396723953.48056685219",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
@@ -2998,15 +3008,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bC1ui2",
     "atualizado_em": "2026-10-08T09:44:06.083-03:00"
-  },
-  {
-    "id": "shopee:396723953.40026562019",
-    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrsr7ejbd2bo82",
-    "preco": 61.9,
-    "preco_anterior": 99.84,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LYuZ8OV5X",
-    "atualizado_em": "2026-10-08T09:38:57.087-03:00"
   }
 ]
