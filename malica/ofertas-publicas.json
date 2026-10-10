@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1680935964.58251006635",
+    "titulo": "KIT 40 unidades de xuxinhas com Detalhes de Silicone Laço/Coroa/Unicornio/muitos Modelo Aleatorio",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mszsj0tzug3p1b",
+    "preco": 20.99,
+    "preco_anterior": 49.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6fhvqCXEvE",
+    "atualizado_em": "2026-10-10T09:21:10.398-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45072765",
     "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
@@ -1828,15 +1838,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qsS8kL",
     "atualizado_em": "2026-10-08T21:21:50.578-03:00"
-  },
-  {
-    "id": "amazon:B0FPD73VSZ",
-    "titulo": "Travel System Cosco Kids, Lummy Duo, Cinza Gelo",
-    "imagem": "https://m.media-amazon.com/images/I/51GzZLNdd6L._AC_SL1500_.jpg",
-    "preco": 868.62,
-    "preco_anterior": 1359,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPD73VSZ?tag=malica09-20",
-    "atualizado_em": "2026-10-08T21:16:42.692-03:00"
   }
 ]
