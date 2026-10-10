@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07QZ9GLS5",
+    "titulo": "Cosco Kids, Travel System Reverse, Preto Rajado",
+    "imagem": "https://m.media-amazon.com/images/I/61xsfXHEmmL._AC_SL1500_.jpg",
+    "preco": 612,
+    "preco_anterior": 734,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07QZ9GLS5?tag=malica09-20",
+    "atualizado_em": "2026-10-10T13:47:18.398-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27149134",
     "titulo": "Berço Quarto Infantil Americano Bebê Henn Labirinto Com Grades Fixas 2 Posições Design Moderno Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_619016-MLA113583827359_062026-F.jpg",
