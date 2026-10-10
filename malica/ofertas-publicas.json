@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FR5GNJDB",
+    "titulo": "Oferta para Membros Prime: Smartphone Motorola Moto g06-128GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP com AI Bateria de 5200 mAh Tela 6.9\" - Laranja",
+    "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._AC_SL1500_.jpg",
+    "preco": 666,
+    "preco_anterior": 999,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=malica09-20",
+    "atualizado_em": "2026-10-10T09:26:15.545-03:00"
+  },
+  {
     "id": "shopee:1680935964.58251006635",
     "titulo": "KIT 40 unidades de xuxinhas com Detalhes de Silicone Laço/Coroa/Unicornio/muitos Modelo Aleatorio",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mszsj0tzug3p1b",
