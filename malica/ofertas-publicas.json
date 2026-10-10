@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66427747",
+    "titulo": "Kit com 10 Potinhos de Vidro 40ml com Rolha de Madeira para Lembrancinhas e Decoração",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734780-MLA108809337961_032026-F.jpg",
+    "preco": 29.9,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2U1cbRs",
+    "atualizado_em": "2026-10-10T10:38:28.793-03:00"
+  },
+  {
     "id": "amazon:B0B99BCYCP",
     "titulo": "Lava-Roupas em Pó Omo Puro Cuidado Caixa 2,2kg Tamanho Família",
     "imagem": "https://m.media-amazon.com/images/I/717syvOckGL._AC_SL1500_.jpg",
