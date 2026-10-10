@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:396723953.48056685219",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAHm7i9FsM",
+    "atualizado_em": "2026-10-09T21:37:40.052-03:00"
+  },
+  {
     "id": "shopee:1253552940.50514700398",
     "titulo": "Kit 4 Peças 2 Conjunto Infantil Menino Verão Confortável 2 Camisas 2 Shorts Sortido Roupa Infantil Bebê 1 ao 12",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mr0omth7lmh23d",
@@ -2998,15 +3008,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYuZ8OV5X",
     "atualizado_em": "2026-10-08T09:38:57.087-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22581112",
-    "titulo": "Creator 3 em 1 Unicórnio Mágico Lego 31140",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_746249-MLA99990715935_112025-F.jpg",
-    "preco": 76,
-    "preco_anterior": 129.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1CiFtQs",
-    "atualizado_em": "2026-10-08T09:33:52.133-03:00"
   }
 ]
