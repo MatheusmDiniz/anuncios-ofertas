@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CTH8RTW",
+    "titulo": "Mustela Água De Limpeza Sem Enxágue 300Ml - Água Micelar Infantil Rosto E Corpo Vegana Fórmula Biodegradável Com 98% De Ingredientes De Origem Natural",
+    "imagem": "https://m.media-amazon.com/images/I/51IhFYS686L._AC_SL1500_.jpg",
+    "preco": 76,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CTH8RTW?tag=malica09-20",
+    "atualizado_em": "2026-10-10T20:21:50.673-03:00"
+  },
+  {
     "id": "amazon:B0CBCRP3BS",
     "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
     "imagem": "https://m.media-amazon.com/images/I/71y1o6ee9IL._AC_SL1500_.jpg",
@@ -2988,15 +2998,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2tjqGTg",
     "atualizado_em": "2026-10-09T08:26:20.058-03:00"
-  },
-  {
-    "id": "amazon:B093G8NZ4Y+B093G8NZ4Z+B093G9PSPP+B093GBK61Q+B093GCJ1JP",
-    "titulo": "Oferta para Membros Prime: Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71ncta4HE2L._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=malica09-20",
-    "atualizado_em": "2026-10-09T08:21:13.018-03:00"
   }
 ]
