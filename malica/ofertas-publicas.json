@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72984485",
+    "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
+    "preco": 88.99,
+    "preco_anterior": 189.86,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kb8E9B",
+    "atualizado_em": "2026-10-10T15:44:33.017-03:00"
+  },
+  {
     "id": "amazon:B09WTLQ53R",
     "titulo": "Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1)",
     "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
