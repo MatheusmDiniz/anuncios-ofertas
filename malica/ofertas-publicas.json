@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1901483880.58215230644",
+    "titulo": "Cinto Country Infantil Unissex café preto caramelo Rodeio Peão Cowgirl infantil Lindo promoção",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825au-mr8ux9hq6y2v53",
+    "preco": 27.45,
+    "preco_anterior": 49.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7AeCkEah7W",
+    "atualizado_em": "2026-10-10T09:31:20.866-03:00"
+  },
+  {
     "id": "amazon:B0FR5GNJDB",
     "titulo": "Oferta para Membros Prime: Smartphone Motorola Moto g06-128GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP com AI Bateria de 5200 mAh Tela 6.9\" - Laranja",
     "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._AC_SL1500_.jpg",
@@ -1828,15 +1838,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ftkkPg",
     "atualizado_em": "2026-10-08T21:32:15.857-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21006188",
-    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
-    "preco": 196.47,
-    "preco_anterior": 346.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/27sfskB",
-    "atualizado_em": "2026-10-08T21:27:00.309-03:00"
   }
 ]
