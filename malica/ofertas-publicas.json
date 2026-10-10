@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G43VVHFQ",
+    "titulo": "Oferta: Figura de Ação DC Premiere Superman™ 12\", Multicolor, Plástico, Mattel | Brinquedo de super-herói, terno clássico vermelho e azul com capa de tecido, design detalhado",
+    "imagem": "https://m.media-amazon.com/images/I/51Cj84PLf6L._AC_SL1500_.jpg",
+    "preco": 80.99,
+    "preco_anterior": 119.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G43VVHFQ?tag=malica09-20",
+    "atualizado_em": "2026-10-10T20:57:53.596-03:00"
+  },
+  {
     "id": "amazon:B0D9K6PY8S",
     "titulo": "Disney Princesa Mudança de Vestido Rapunzel, Boneca com Looks Trocáveis e Acessórios Temáticos : Amazon.com.br: Brinquedos e Jogos",
     "imagem": "https://m.media-amazon.com/images/I/81eDN+EuRKL._AC_SL1500_.jpg",
@@ -2988,15 +2998,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gJFNCHRnb",
     "atualizado_em": "2026-10-09T09:02:19.076-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67071722",
-    "titulo": "Bicicleta De Equilibrio Infantil Sem Pedal Verde 21270 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_927876-MLA111293501262_052026-F.jpg",
-    "preco": 231,
-    "preco_anterior": 390.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1n8d434",
-    "atualizado_em": "2026-10-09T08:57:00.521-03:00"
   }
 ]
