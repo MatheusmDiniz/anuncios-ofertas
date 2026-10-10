@@ -2048,35 +2048,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WDwZLb",
     "atualizado_em": "2026-10-08T18:12:32.901-03:00"
-  },
-  {
-    "id": "shopee:1167191968.41628916751",
-    "titulo": "Vestido Infantil Luxo Premium Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mmn941fatkp0c1",
-    "preco": 35.9,
-    "preco_anterior": 55.23,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qced2FsZu",
-    "atualizado_em": "2026-10-08T18:07:26.125-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38086273",
-    "titulo": "Sabonete Líquido Glicerina Camomila JOHNSON’S Baby, 180mL",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888653-MLA99447587542_112025-F.jpg",
-    "preco": 24.29,
-    "preco_anterior": 44.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2aiWxYC",
-    "atualizado_em": "2026-10-08T18:02:21.278-03:00"
-  },
-  {
-    "id": "amazon:B07GQ136TS",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
-    "preco": 49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
-    "atualizado_em": "2026-10-08T17:57:15.294-03:00"
   }
 ]
