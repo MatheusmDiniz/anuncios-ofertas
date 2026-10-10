@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BZ54N724",
+    "titulo": "Oxford Aparelho De Jantar 20 Peças Ryo Maresia",
+    "imagem": "https://m.media-amazon.com/images/I/51HjUseflNS._AC_SL1500_.jpg",
+    "preco": 235,
+    "preco_anterior": 357,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BZ54N724?tag=malica09-20",
+    "atualizado_em": "2026-10-10T13:32:04.995-03:00"
+  },
+  {
     "id": "amazon:B0FVJWQ3PX",
     "titulo": "Electrolux Kit 16 Potes Herméticos Plástico Multiuso Vedação Silicone | BPA Free, Porta Mantimentos",
     "imagem": "https://m.media-amazon.com/images/I/71PuXdjXGSL._AC_SL1500_.jpg",
