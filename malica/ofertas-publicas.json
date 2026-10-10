@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D9K6PY8S",
+    "titulo": "Disney Princesa Mudança de Vestido Rapunzel, Boneca com Looks Trocáveis e Acessórios Temáticos : Amazon.com.br: Brinquedos e Jogos",
+    "imagem": "https://m.media-amazon.com/images/I/81eDN+EuRKL._AC_SL1500_.jpg",
+    "preco": 143.99,
+    "preco_anterior": 219.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D9K6PY8S?tag=malica09-20",
+    "atualizado_em": "2026-10-10T20:52:48.220-03:00"
+  },
+  {
     "id": "amazon:B0FJSKKYPL",
     "titulo": "Conjunto de boneca Fashion Princesa Disney Bela com histórias 2 em 1, 2 corpetes de encaixe, 2 Saias e 9 acessórios",
     "imagem": "https://m.media-amazon.com/images/I/91SZUm5E7rL._AC_SL1500_.jpg",
@@ -2988,15 +2998,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1n8d434",
     "atualizado_em": "2026-10-09T08:57:00.521-03:00"
-  },
-  {
-    "id": "shopee:264196168.44809598956",
-    "titulo": "10 Calcinhas Infantil Menina Moça Confortáveis Forro de Algodão Dia a Dia Promoção",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mnkkbbtiq8lgfd",
-    "preco": 25.89,
-    "preco_anterior": 49.79,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2VsMMijTfj",
-    "atualizado_em": "2026-10-09T08:51:53.544-03:00"
   }
 ]
