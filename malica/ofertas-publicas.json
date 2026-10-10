@@ -2808,35 +2808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=malica09-20",
     "atualizado_em": "2026-10-08T11:41:54.113-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB55102171",
-    "titulo": "Bolsa Canguru Seguro Ergonômico Assento Bebê Premium Aiebao Cor Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684590-MLA113300708050_072026-F.jpg",
-    "preco": 182.9,
-    "preco_anterior": 339.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1axaWvy",
-    "atualizado_em": "2026-10-08T11:36:49.816-03:00"
-  },
-  {
-    "id": "amazon:B07DHRHZDR",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
-    "preco": 33,
-    "preco_anterior": 62,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=malica09-20",
-    "atualizado_em": "2026-10-08T11:31:41.556-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 94.5,
-    "preco_anterior": 189,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24qHDwo",
-    "atualizado_em": "2026-10-08T11:26:36.517-03:00"
   }
 ]
