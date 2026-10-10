@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CDJ5DQ7M",
+    "titulo": "Oferta para Membros Prime: Sanduicheira Elétrica Cadence Click - 220V",
+    "imagem": "https://m.media-amazon.com/images/I/51UxR8FHe-L._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CDJ5DQ7M?tag=malica09-20",
+    "atualizado_em": "2026-10-10T12:45:58.074-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77649263",
     "titulo": "Berço Portátil com Trocador Removível e Mosquiteiro, Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_708968-MLA116389674095_082026-F.jpg",
