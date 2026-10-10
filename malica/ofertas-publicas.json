@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G3HWFQL",
+    "titulo": "Oferta para Membros Prime: Buba Aspirador Nasal Com Estojo Transparente",
+    "imagem": "https://m.media-amazon.com/images/I/411UYgK6YWS._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G3HWFQL?tag=malica09-20",
+    "atualizado_em": "2026-10-10T13:57:28.942-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24209945",
     "titulo": "Pote Térmico Infantil Buba Animal Leão 320ml Com Talher",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_980094-MLA99551613926_122025-F.jpg",
