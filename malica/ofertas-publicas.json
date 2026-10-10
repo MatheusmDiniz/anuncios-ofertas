@@ -2638,35 +2638,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2YDfnP3",
     "atualizado_em": "2026-10-08T13:09:12.171-03:00"
-  },
-  {
-    "id": "amazon:B014KEE9LC",
-    "titulo": "Fisher-Price Brinquedo para Bebês Novo Xilofone 18 meses",
-    "imagem": "https://m.media-amazon.com/images/I/61l6mlc0slL._AC_SL1500_.jpg",
-    "preco": 96,
-    "preco_anterior": 144,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B014KEE9LC?tag=malica09-20",
-    "atualizado_em": "2026-10-08T13:04:03.953-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65896917",
-    "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
-    "preco": 641.18,
-    "preco_anterior": 1199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/18sA7ah",
-    "atualizado_em": "2026-10-08T12:58:59.288-03:00"
-  },
-  {
-    "id": "amazon:B07D5JZ4B8",
-    "titulo": "Oferta para Membros Prime: Hastes Flexíveis Clingo - Branco",
-    "imagem": "https://m.media-amazon.com/images/I/61bqdEfIHpL._AC_SL1500_.jpg",
-    "preco": 7,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D5JZ4B8?tag=malica09-20",
-    "atualizado_em": "2026-10-08T12:53:49.936-03:00"
   }
 ]
