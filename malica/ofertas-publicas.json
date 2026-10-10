@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F4RQGMMT",
+    "titulo": "Transformers Collaborative Sonic the Hedgehog x Brinquedos Transformers",
+    "imagem": "https://m.media-amazon.com/images/I/61-tMs4E6xL._AC_SL1500_.jpg",
+    "preco": 205,
+    "preco_anterior": 629,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F4RQGMMT?tag=malica09-20",
+    "atualizado_em": "2026-10-10T13:11:23.436-03:00"
+  },
+  {
     "id": "amazon:B07G1FHPDR",
     "titulo": "Oferta para Membros Prime: Pipoqueira Popflix, Mondial, Vermelho, 1200W, 220V - PP-03",
     "imagem": "https://m.media-amazon.com/images/I/81oRNVZ6SUL._AC_SL1500_.jpg",
