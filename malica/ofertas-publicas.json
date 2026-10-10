@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08BCSWYJJ",
+    "titulo": "Oferta para Membros Prime: OMO Sabão Líquido Roupas Finas E Delicadas Bebê 900Ml",
+    "imagem": "https://m.media-amazon.com/images/I/61KfvT4q59L._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08BCSWYJJ?tag=malica09-20",
+    "atualizado_em": "2026-10-10T11:55:05.759-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26417848",
     "titulo": "Bolsa Canguru Ergonômico Bebê Mãe Premium 12 Posições 3 Em 1 Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_651415-MLA111958329880_062026-F.jpg",
