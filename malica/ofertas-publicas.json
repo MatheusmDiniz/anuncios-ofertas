@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPRGR4S7",
+    "titulo": "Liquidificador Electrolux 1000W 2,7L Efficient com TriForce 5 Velocidades Cinza EBL1000 127V",
+    "imagem": "https://m.media-amazon.com/images/I/41xQBE4scvL._AC_SL1500_.jpg",
+    "preco": 122,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPRGR4S7?tag=malica09-20",
+    "atualizado_em": "2026-10-10T17:00:34.824-03:00"
+  },
+  {
     "id": "amazon:B0CHZCWLV6",
     "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
     "imagem": "https://m.media-amazon.com/images/I/41BwxdG9AnL._AC_SL1500_.jpg",
