@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00PTL13LA",
+    "titulo": "Graco Cadeira de Alimentação e Refeição Infantil Alta Dobrável e Reclinável Slim Snacker Cinza",
+    "imagem": "https://m.media-amazon.com/images/I/71bAgE8A+oL._AC_SL1500_.jpg",
+    "preco": 315,
+    "preco_anterior": 488,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00PTL13LA?tag=malica09-20",
+    "atualizado_em": "2026-10-10T13:21:56.996-03:00"
+  },
+  {
     "id": "amazon:B09SPD5TQZ",
     "titulo": "Oferta para Membros Prime: Safety 1st, Travel System Mobi NV Trio, , Full Black",
     "imagem": "https://m.media-amazon.com/images/I/51toZruHrrL._AC_SL1500_.jpg",
