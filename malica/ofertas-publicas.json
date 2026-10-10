@@ -2548,35 +2548,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B009KBH0FI?tag=malica09-20",
     "atualizado_em": "2026-10-08T13:55:10.082-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44875746",
-    "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
-    "preco": 440.69,
-    "preco_anterior": 745.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1UoGHuf",
-    "atualizado_em": "2026-10-08T13:50:06.388-03:00"
-  },
-  {
-    "id": "amazon:B07GC7TF7W",
-    "titulo": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71ZBUQLjomL._AC_SL1500_.jpg",
-    "preco": 5,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=malica09-20",
-    "atualizado_em": "2026-10-08T13:44:56.983-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35340738",
-    "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
-    "preco": 187,
-    "preco_anterior": 349,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HLVwje",
-    "atualizado_em": "2026-10-08T13:39:52.156-03:00"
   }
 ]
