@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56100259",
+    "titulo": "Boné New Era 9TWENTY Los Angeles Cor Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_766279-MLA92029731880_092025-F.jpg",
+    "preco": 134.9,
+    "preco_anterior": 238.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BS3e3V",
+    "atualizado_em": "2026-10-10T08:45:25.422-03:00"
+  },
+  {
     "id": "shopee:1365993167.58209968589",
     "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
@@ -1828,15 +1838,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BUPz9WkUG",
     "atualizado_em": "2026-10-08T20:45:57.213-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38139642",
-    "titulo": "Burigotto Berço Portátil Sonata Beige, Cor Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651744-MLU78008533742_082024-F.jpg",
-    "preco": 445,
-    "preco_anterior": 939,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Dpj5pa",
-    "atualizado_em": "2026-10-08T20:40:50.991-03:00"
   }
 ]
