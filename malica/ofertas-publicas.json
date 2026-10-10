@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MLKYJKM",
+    "titulo": "Fortini Plus Sem Sabor 400G : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/615fdwz5rZL._AC_SL1500_.jpg",
+    "preco": 53,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MLKYJKM?tag=malica09-20",
+    "atualizado_em": "2026-10-10T18:54:06.734-03:00"
+  },
+  {
     "id": "amazon:B096KDKNNQ",
     "titulo": "Bepantol Baby Lenço Umedecido Hipoalergênico, 192 Unidades | 192 unidades, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Sem fragrâncias, corantes e conservantes",
     "imagem": "https://m.media-amazon.com/images/I/713euw7uVZL._AC_SL1500_.jpg",
