@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 32.97,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-10-10T09:05:52.714-03:00"
+  },
+  {
     "id": "shopee:378105312.54507799907",
     "titulo": "Porta Leite em Pó 3 Compartimentos Dosador Portátil",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261a-mmbwyvoby39fa1",
@@ -1828,15 +1838,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1XY8eLv",
     "atualizado_em": "2026-10-08T21:06:29.482-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58145183",
-    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730625-MLA116852295949_082026-F.jpg",
-    "preco": 729.8,
-    "preco_anterior": 2398,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1dggwXF",
-    "atualizado_em": "2026-10-08T21:01:20.429-03:00"
   }
 ]
