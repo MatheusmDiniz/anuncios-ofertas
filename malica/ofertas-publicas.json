@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B99BCYCP",
+    "titulo": "Lava-Roupas em Pó Omo Puro Cuidado Caixa 2,2kg Tamanho Família",
+    "imagem": "https://m.media-amazon.com/images/I/717syvOckGL._AC_SL1500_.jpg",
+    "preco": 24,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B99BCYCP?tag=malica09-20",
+    "atualizado_em": "2026-10-10T10:33:20.963-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75833623",
     "titulo": "Banheira Bebe Dobrável Com Termômetro Verde Almofada Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_711553-MLA113938711326_072026-F.jpg",
