@@ -1888,35 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DFG9CRST?tag=malica09-20",
     "atualizado_em": "2026-10-09T19:40:02.163-03:00"
-  },
-  {
-    "id": "amazon:B008SBKTZ4",
-    "titulo": "Oferta para Membros Prime: Lancôme, La Vie est Belle EDP, Perfume Feminino",
-    "imagem": "https://m.media-amazon.com/images/I/51Vxh1QRSJL._AC_SL1500_.jpg",
-    "preco": 242.24,
-    "preco_anterior": 529.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B008SBKTZ4?tag=malica09-20",
-    "atualizado_em": "2026-10-09T19:34:57.276-03:00"
-  },
-  {
-    "id": "amazon:B0H5FL8PRM",
-    "titulo": "Conjunto de 3 peças de body e calça 3-piece Bodysuit Pant Sets Carter",
-    "imagem": "https://m.media-amazon.com/images/I/81RVonduHJL._AC_SL1500_.jpg",
-    "preco": 103,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5FL8PRM?tag=malica09-20",
-    "atualizado_em": "2026-10-09T19:29:53.204-03:00"
-  },
-  {
-    "id": "amazon:B0H76T1RV4",
-    "titulo": "Conjunto de 3 peças de body e calça 3-piece Bodysuit Pant Sets Carter",
-    "imagem": "https://m.media-amazon.com/images/I/7125eYddnOL._AC_SL1500_.jpg",
-    "preco": 114,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H76T1RV4?tag=malica09-20",
-    "atualizado_em": "2026-10-09T19:24:49.356-03:00"
   }
 ]
