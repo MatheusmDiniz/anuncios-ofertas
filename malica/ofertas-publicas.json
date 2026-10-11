@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07VRYJWPC",
+    "titulo": "Repelente Elétrico Líquido SBP 45 Noites Cheiro Suave com 2 unidades de 32.9ml",
+    "imagem": "https://m.media-amazon.com/images/I/71OFi08UO7L._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07VRYJWPC?tag=malica09-20",
+    "atualizado_em": "2026-10-11T10:26:33.214-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40690981",
     "titulo": "Bomba Coletor Leite Materno Manual Portátil Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_944282-MLU78988156008_092024-F.jpg",
