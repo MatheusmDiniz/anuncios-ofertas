@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72143098",
+    "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
+    "preco": 406.43,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Jw4v7e",
+    "atualizado_em": "2026-10-11T08:03:53.848-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19123248",
     "titulo": "Cadeira de balanço para bebê Mastela Premium elétrica 8106 rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_934114-MLA99956089133_112025-F.jpg",
@@ -1838,25 +1848,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fSy6m0OF6",
     "atualizado_em": "2026-10-09T20:05:45.138-03:00"
-  },
-  {
-    "id": "shopee:341167297.23098766321",
-    "titulo": "Conjunto Moletom Bebe Menina Escolha Seu Modelo, com Estampas Fofas e Conforto Infantil Bebê Feminino Frio Inverno. l16",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mlmeb1wcfo5g1b",
-    "preco": 29.9,
-    "preco_anterior": 69.53,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4B0YkUr7fQ",
-    "atualizado_em": "2026-10-09T20:00:23.262-03:00"
-  },
-  {
-    "id": "shopee:1852973354.58216522081",
-    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-ms9y3j26i9s551",
-    "preco": 29,
-    "preco_anterior": 100,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AKbCK18cXN",
-    "atualizado_em": "2026-10-09T19:55:16.370-03:00"
   }
 ]
