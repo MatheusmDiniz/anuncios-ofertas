@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJ17HW5V",
+    "titulo": "LEGO Friends Caminhão de Sorvete de Heartlake City 42644",
+    "imagem": "https://m.media-amazon.com/images/I/81mx0VlX1AL._AC_SL1500_.jpg",
+    "preco": 105,
+    "preco_anterior": 179,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJ17HW5V?tag=malica09-20",
+    "atualizado_em": "2026-10-11T14:58:22.106-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
