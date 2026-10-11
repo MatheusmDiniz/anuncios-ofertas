@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CCF1WTB1",
+    "titulo": "Fralda Babysec Premium Hiper XG 56 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51nS49ppbtL._AC_SL1500_.jpg",
+    "preco": 56,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=malica09-20",
+    "atualizado_em": "2026-10-11T14:22:47.122-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72901008",
     "titulo": "Banheira com Suporte Dobrável para Bebê Mini Assento Válvula de Esvaziamento 45 Litros Lisa Plástico Rígido Até 30kg PipDip",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_847840-MLA116500118433_082026-F.jpg",
