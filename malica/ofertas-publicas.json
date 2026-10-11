@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58575202",
+    "titulo": "Banheira Dobrável Yuupi YPB188 com Suporte, Termômetro e Almofada 40L Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891160-MLA99450372686_112025-F.jpg",
+    "preco": 423.34,
+    "preco_anterior": 729.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29c3xk2",
+    "atualizado_em": "2026-10-11T20:57:08.671-03:00"
+  },
+  {
     "id": "amazon:B0DW9L8BFD",
     "titulo": "Creme Preventivo de Assaduras para Bebês Desitin, Máxima Proteção, 57g | Contém 40% de Óxido de Zinco, Previne Irritações na Área da Fralda",
     "imagem": "https://m.media-amazon.com/images/I/61YuVEtlcpL._AC_SL1500_.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30odTTkivt",
     "atualizado_em": "2026-10-10T09:00:44.156-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26382771",
-    "titulo": "Cozinha Infantil De Brinquedo Completa Sai Água + Acessórios Cor Roxo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_679641-MLA99933602093_112025-F.jpg",
-    "preco": 118.5,
-    "preco_anterior": 229.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2K2BLp3",
-    "atualizado_em": "2026-10-10T08:55:38.779-03:00"
   }
 ]
