@@ -1868,15 +1868,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1BMzb8d9aS",
     "atualizado_em": "2026-10-09T20:41:00.644-03:00"
-  },
-  {
-    "id": "amazon:B07DHRPTPB",
-    "titulo": "Shampoo de Glicerina Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
-    "atualizado_em": "2026-10-09T20:35:51.983-03:00"
   }
 ]
