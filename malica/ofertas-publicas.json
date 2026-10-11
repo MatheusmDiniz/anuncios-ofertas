@@ -2548,35 +2548,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DYXRVLK?tag=malica09-20",
     "atualizado_em": "2026-10-09T13:54:08.754-03:00"
-  },
-  {
-    "id": "amazon:B0CY2V7MTQ",
-    "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 975g",
-    "imagem": "https://m.media-amazon.com/images/I/71x5tHFD6cL._AC_SL1500_.jpg",
-    "preco": 41,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CY2V7MTQ?tag=malica09-20",
-    "atualizado_em": "2026-10-09T13:48:39.328-03:00"
-  },
-  {
-    "id": "amazon:B0CCDZ9XBJ",
-    "titulo": "Babysec Fralda Premium Hiper G 60 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71DSWwyIa7L._AC_SL1500_.jpg",
-    "preco": 59,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=malica09-20",
-    "atualizado_em": "2026-10-09T13:43:34.668-03:00"
-  },
-  {
-    "id": "amazon:B0B7K738RQ",
-    "titulo": "Oferta para Membros Prime: Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
-    "atualizado_em": "2026-10-09T13:38:30.041-03:00"
   }
 ]
