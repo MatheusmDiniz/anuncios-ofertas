@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DWYJMD7Q",
+    "titulo": "Fralda Descartável Pampers Premium Care Tamanho G 94 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61tjpixeXyL._AC_SL1500_.jpg",
+    "preco": 153,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DWYJMD7Q?tag=malica09-20",
+    "atualizado_em": "2026-10-11T12:39:52.447-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53778622",
     "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_924822-MLA99991266225_112025-F.jpg",
