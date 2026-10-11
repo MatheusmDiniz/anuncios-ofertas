@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25120404",
+    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
+    "preco": 94.5,
+    "preco_anterior": 189,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24qHDwo",
+    "atualizado_em": "2026-10-11T14:53:17.700-03:00"
+  },
+  {
     "id": "amazon:B0D8BV8JDG",
     "titulo": "Oferta para Membros Prime: Zippy Toys, Mesa de Pebolim de Madeira 40,5 cm",
     "imagem": "https://m.media-amazon.com/images/I/61WsqxIVQdL._AC_SL1500_.jpg",
