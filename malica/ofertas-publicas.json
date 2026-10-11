@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38303632",
+    "titulo": "Mochila Maternidade The Land Cor Cinza com Bege - 38cm",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807133-MLA99502984234_112025-F.jpg",
+    "preco": 156,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1JSFNvc",
+    "atualizado_em": "2026-10-10T21:18:49.063-03:00"
+  },
+  {
     "id": "shopee:1542191566.45115032491",
     "titulo": "Conjunto Bebê Menino Jardineira Bordada + Camiseta Listrada Manga Curta Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr7pev3i1vk4c5",
@@ -2988,15 +2998,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qk8NgBD9C",
     "atualizado_em": "2026-10-09T09:22:42.457-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38625704",
-    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
-    "preco": 193.72,
-    "preco_anterior": 329.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ofsJJZ",
-    "atualizado_em": "2026-10-09T09:17:38.722-03:00"
   }
 ]
