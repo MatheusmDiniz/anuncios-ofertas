@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62315926",
+    "titulo": "Protetor de Banco TT Safety 1st, Black",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602781-MLA98307653432_112025-F.jpg",
+    "preco": 101,
+    "preco_anterior": 183.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WDwZLb",
+    "atualizado_em": "2026-10-11T20:21:21.540-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19531106",
     "titulo": "Patrulha Canina Torre De Vigilância Central De Comando 1306",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_762549-MLA96107850723_102025-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Jmfc33",
     "atualizado_em": "2026-10-10T08:24:56.848-03:00"
-  },
-  {
-    "id": "amazon:B099KPQQWF+B099KTRZP7+B099KV2733+B099KW58QQ+B099KWB62Y",
-    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
-    "preco": 33,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
-    "atualizado_em": "2026-10-10T08:19:49.823-03:00"
   }
 ]
