@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63037784",
+    "titulo": "Cadeira de Descanso Balanço Vibratória para Bebê Rosa com Brinquedos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677469-MLA100480755010_122025-F.jpg",
+    "preco": 135,
+    "preco_anterior": 228.2,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Cmo61f",
+    "atualizado_em": "2026-10-11T08:34:29.294-03:00"
+  },
+  {
     "id": "shopee:728451683.23991805523",
     "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
@@ -1868,15 +1878,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
     "atualizado_em": "2026-10-09T20:35:51.983-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24331807",
-    "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menino",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891933-MLA105469034825_012026-F.jpg",
-    "preco": 33.98,
-    "preco_anterior": 70,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2PsBu6b",
-    "atualizado_em": "2026-10-09T20:29:24.365-03:00"
   }
 ]
