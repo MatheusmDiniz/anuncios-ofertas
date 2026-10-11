@@ -2658,35 +2658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
     "atualizado_em": "2026-10-09T12:57:59.464-03:00"
-  },
-  {
-    "id": "amazon:B0FXN957HN",
-    "titulo": "Oferta para Membros Prime: Quadrados de Algodão Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
-    "preco": 23,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
-    "atualizado_em": "2026-10-09T12:52:56.263-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16195430",
-    "titulo": "Colônia Camomila Granado Bebê Frasco 100ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963944-MLA99843487677_112025-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 168.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tMS27Q",
-    "atualizado_em": "2026-10-09T12:47:51.838-03:00"
-  },
-  {
-    "id": "amazon:B0GZD4FCKG",
-    "titulo": "Sunny, Pack de 5 Mini Figuras Minnie Mouse, Disney Junior : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/7165tJ1UlpL._AC_SL1500_.jpg",
-    "preco": 84,
-    "preco_anterior": 129,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GZD4FCKG?tag=malica09-20",
-    "atualizado_em": "2026-10-09T12:42:45.086-03:00"
   }
 ]
