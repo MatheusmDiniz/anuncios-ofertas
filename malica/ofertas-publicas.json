@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62120518",
+    "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
+    "preco": 1168,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2S32iHA",
+    "atualizado_em": "2026-10-11T20:41:50.340-03:00"
+  },
+  {
     "id": "shopee:1614098311.58214797607",
     "titulo": "Kit 3 Camisetas Infantil Masculina Estampadas Frete Rápido Básica",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mqz698iptiis8b",
@@ -3038,15 +3048,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1BS3e3V",
     "atualizado_em": "2026-10-10T08:45:25.422-03:00"
-  },
-  {
-    "id": "shopee:1365993167.58209968589",
-    "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
-    "preco": 19.9,
-    "preco_anterior": 29.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4LJywoGt1j",
-    "atualizado_em": "2026-10-10T08:40:16.047-03:00"
   }
 ]
