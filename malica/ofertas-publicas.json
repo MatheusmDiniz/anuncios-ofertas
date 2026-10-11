@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23937416",
+    "titulo": "Garrafa Térmica Parede Dupla Rosa 400ml - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_671325-MLA96079324071_102025-F.jpg",
+    "preco": 76.62,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/17KTNXN",
+    "atualizado_em": "2026-10-11T13:36:45.354-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22742770",
     "titulo": "Motorola VM85 connect babá eletrônica branca",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_627858-MLA99851321369_112025-F.jpg",
