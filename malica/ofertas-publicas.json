@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8BV8JDG",
+    "titulo": "Oferta para Membros Prime: Zippy Toys, Mesa de Pebolim de Madeira 40,5 cm",
+    "imagem": "https://m.media-amazon.com/images/I/61WsqxIVQdL._AC_SL1500_.jpg",
+    "preco": 63,
+    "preco_anterior": 137,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8BV8JDG?tag=malica09-20",
+    "atualizado_em": "2026-10-11T14:48:10.926-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73836645",
     "titulo": "Colchonete Carrinho Moisés De Bebê Com Capa Removível Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_800197-MLA112204099322_062026-F.jpg",
