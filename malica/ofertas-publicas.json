@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1614098311.58214797607",
+    "titulo": "Kit 3 Camisetas Infantil Masculina Estampadas Frete Rápido Básica",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mqz698iptiis8b",
+    "preco": 45,
+    "preco_anterior": 100,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BFZ9oZyO9",
+    "atualizado_em": "2026-10-11T20:36:43.746-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38626962",
     "titulo": "Cadeira de Descanso e Balanço Bebê Musical Funtime Maxi Baby Baxter Esquilo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_790599-MLA109754059317_032026-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4LJywoGt1j",
     "atualizado_em": "2026-10-10T08:40:16.047-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77311383",
-    "titulo": "Mochila Maternidade NTESX com Trocador, Térmica e Impermeável Azul-Marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611530-MLA116251507724_092026-F.jpg",
-    "preco": 111.52,
-    "preco_anterior": 251.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1LFQECa",
-    "atualizado_em": "2026-10-10T08:35:10.288-03:00"
   }
 ]
