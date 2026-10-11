@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56341817",
+    "titulo": "Boné New Era 39thirty New York Yankees Fechado Mlb Preto Desenho Do Tecido Liso Tamanho Ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_757489-MLA95962489651_102025-F.jpg",
+    "preco": 134.9,
+    "preco_anterior": 238.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kksPcP",
+    "atualizado_em": "2026-10-10T21:29:02.696-03:00"
+  },
+  {
     "id": "shopee:399621856.23992794977",
     "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
@@ -2988,15 +2998,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8pmPuOBl8m",
     "atualizado_em": "2026-10-09T09:32:54.959-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52863189",
-    "titulo": "Berço Cosco Kids, Cozzy, Cinza Lápis",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628732-MLA99483236976_112025-F.jpg",
-    "preco": 335,
-    "preco_anterior": 599,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1b7WDxn",
-    "atualizado_em": "2026-10-09T09:27:49.308-03:00"
   }
 ]
