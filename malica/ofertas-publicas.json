@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73836645",
+    "titulo": "Colchonete Carrinho Moisés De Bebê Com Capa Removível Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800197-MLA112204099322_062026-F.jpg",
+    "preco": 30.26,
+    "preco_anterior": 50.44,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19XoozV",
+    "atualizado_em": "2026-10-11T14:43:06.133-03:00"
+  },
+  {
     "id": "amazon:B0H1T7241Z",
     "titulo": "Barbie Dreamland Conjunto de Brinquedo Casa com Escorregador 3Y+, Plástico",
     "imagem": "https://m.media-amazon.com/images/I/61VhNgOsi8L._AC_SL1500_.jpg",
