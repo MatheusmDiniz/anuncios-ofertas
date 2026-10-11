@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39426115",
+    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
+    "preco": 103.08,
+    "preco_anterior": 187.65,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BQauvR",
+    "atualizado_em": "2026-10-11T09:05:03.241-03:00"
+  },
+  {
     "id": "shopee:280039385.43007791633",
     "titulo": "Chinelo Infantil com Elástico Antiderrapante Confortável Bebê Unissex",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby1vqu3deu144",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7pttELSnYR",
     "atualizado_em": "2026-10-09T21:06:48.648-03:00"
-  },
-  {
-    "id": "shopee:1692649392.23794965742",
-    "titulo": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mma3xkky1vk584",
-    "preco": 27.89,
-    "preco_anterior": 66.4,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5fpOxQlwnF",
-    "atualizado_em": "2026-10-09T21:01:37.613-03:00"
   }
 ]
