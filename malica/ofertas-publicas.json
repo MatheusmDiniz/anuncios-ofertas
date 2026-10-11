@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FQWC8BWS",
+    "titulo": "Chocolate M&M",
+    "imagem": "https://m.media-amazon.com/images/I/61tyA+A2sdL._AC_SL1500_.jpg",
+    "preco": 64,
+    "preco_anterior": 94,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FQWC8BWS?tag=malica09-20",
+    "atualizado_em": "2026-10-10T21:03:24.449-03:00"
+  },
+  {
     "id": "amazon:B0G43VVHFQ",
     "titulo": "Oferta: Figura de Ação DC Premiere Superman™ 12\", Multicolor, Plástico, Mattel | Brinquedo de super-herói, terno clássico vermelho e azul com capa de tecido, design detalhado",
     "imagem": "https://m.media-amazon.com/images/I/51Cj84PLf6L._AC_SL1500_.jpg",
@@ -2988,15 +2998,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2QHKK8W",
     "atualizado_em": "2026-10-09T09:07:26.666-03:00"
-  },
-  {
-    "id": "shopee:1511719066.55602007922",
-    "titulo": "Microscópio de bolso portátil para crianças, 60-180 vezes, HD, luz LED, experimento científico, brinquedo de observação",
-    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhfv79fd8ah85b",
-    "preco": 34.9,
-    "preco_anterior": 89.49,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gJFNCHRnb",
-    "atualizado_em": "2026-10-09T09:02:19.076-03:00"
   }
 ]
