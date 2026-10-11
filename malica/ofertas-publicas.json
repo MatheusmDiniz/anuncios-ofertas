@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KTC5VJ",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
+    "preco": 23,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
+    "atualizado_em": "2026-10-11T15:49:47.205-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53365359",
     "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
