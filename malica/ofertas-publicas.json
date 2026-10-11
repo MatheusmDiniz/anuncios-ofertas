@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:580787446.27945255322",
+    "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
+    "preco": 46.4,
+    "preco_anterior": 110.48,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4qGKKboVcZ",
+    "atualizado_em": "2026-10-11T20:05:52.603-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26114869",
     "titulo": "Cadeira De Alimentação Portátil Bebê Honey Maxi Baby Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_632891-MLA99487268584_112025-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D519XS9K?tag=malica09-20",
     "atualizado_em": "2026-10-10T08:09:40.469-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39456030",
-    "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
-    "preco": 190.39,
-    "preco_anterior": 327,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hPdwGi",
-    "atualizado_em": "2026-10-10T08:04:36.458-03:00"
   }
 ]
