@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C3FK76V3",
+    "titulo": "Oferta para Membros Prime: Personal",
+    "imagem": "https://m.media-amazon.com/images/I/51JIVPIT3+L._AC_SL1500_.jpg",
+    "preco": 26.97,
+    "preco_anterior": 46.38,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=malica09-20",
+    "atualizado_em": "2026-10-11T11:48:56.204-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76312234",
     "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
