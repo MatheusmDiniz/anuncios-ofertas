@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:367895429.19132144851",
+    "titulo": "Kit 3 Lençol Berço Americano Percal 400 Fios Macio com Elástico 130x70cm Menina e Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkgr3wef5fcx7c",
+    "preco": 26.2,
+    "preco_anterior": 54.58,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9V29tDjGyh",
+    "atualizado_em": "2026-10-11T08:49:44.807-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61713566",
     "titulo": "Andador De Empurrar Infantil Com Atividades Azul - Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_766581-MLA97341274561_112025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1B2D0CK93",
     "atualizado_em": "2026-10-09T20:51:18.543-03:00"
-  },
-  {
-    "id": "amazon:B08834NCVJ",
-    "titulo": "Oferta para Membros Prime: Bicicleta De Equilibrio Buba, Vermelho, 4 Rodas",
-    "imagem": "https://m.media-amazon.com/images/I/51ZU4i5D9uL._AC_SL1500_.jpg",
-    "preco": 114.1,
-    "preco_anterior": 219.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08834NCVJ?tag=malica09-20",
-    "atualizado_em": "2026-10-09T20:46:05.570-03:00"
   }
 ]
