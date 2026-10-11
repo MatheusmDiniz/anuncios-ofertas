@@ -2898,35 +2898,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LYwFIOq9C",
     "atualizado_em": "2026-10-09T10:54:41.189-03:00"
-  },
-  {
-    "id": "amazon:B0C3FLPXG7",
-    "titulo": "Oferta para Membros Prime: Personal Baby Premium Protection P 24 unidades",
-    "imagem": "https://m.media-amazon.com/images/I/51RuDrcJu4L._AC_SL1500_.jpg",
-    "preco": 26.88,
-    "preco_anterior": 33.2,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C3FLPXG7?tag=malica09-20",
-    "atualizado_em": "2026-10-09T10:49:36.421-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB30153211",
-    "titulo": "Buba Pote Térmico Gumy Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765387-MLA95833190617_102025-F.jpg",
-    "preco": 80.71,
-    "preco_anterior": 151.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fMFcFJ",
-    "atualizado_em": "2026-10-09T10:44:31.724-03:00"
-  },
-  {
-    "id": "amazon:B0GW44JM3G",
-    "titulo": "Oferta para Membros Prime: Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
-    "preco": 98,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
-    "atualizado_em": "2026-10-09T10:39:23.566-03:00"
   }
 ]
