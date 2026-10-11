@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25542860",
+    "titulo": "Sala De Jantar Sylvanian Families Dining Room Set",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_701101-MLA99589750440_122025-F.jpg",
+    "preco": 159.08,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qanfLg",
+    "atualizado_em": "2026-10-11T20:26:28.714-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62315926",
     "titulo": "Protetor de Banco TT Safety 1st, Black",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_602781-MLA98307653432_112025-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B81Yeuvh8",
     "atualizado_em": "2026-10-10T08:30:02.102-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24446865",
-    "titulo": "Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada Cor Menina",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_732807-MLA104900711722_012026-F.jpg",
-    "preco": 33.98,
-    "preco_anterior": 70,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Jmfc33",
-    "atualizado_em": "2026-10-10T08:24:56.848-03:00"
   }
 ]
