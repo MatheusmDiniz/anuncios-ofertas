@@ -2928,35 +2928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
     "atualizado_em": "2026-10-09T10:39:23.566-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53258842",
-    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
-    "preco": 259,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ovyxhc",
-    "atualizado_em": "2026-10-09T10:34:18.911-03:00"
-  },
-  {
-    "id": "amazon:B0GW3TH25S+B0GW48RBS7",
-    "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
-    "preco": 97,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
-    "atualizado_em": "2026-10-09T10:29:11.046-03:00"
-  },
-  {
-    "id": "shopee:1775476859.58212743839",
-    "titulo": "Kit 20/40/80 Pçs Un Saco Saquinhos Congelar Leite Maternidade Bebê",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gh-mpm3dj9yogle96",
-    "preco": 16.99,
-    "preco_anterior": 42.47,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3g4Jkxu0NI",
-    "atualizado_em": "2026-10-09T10:24:07.484-03:00"
   }
 ]
