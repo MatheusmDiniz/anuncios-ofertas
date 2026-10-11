@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DW9L8BFD",
+    "titulo": "Creme Preventivo de Assaduras para Bebês Desitin, Máxima Proteção, 57g | Contém 40% de Óxido de Zinco, Previne Irritações na Área da Fralda",
+    "imagem": "https://m.media-amazon.com/images/I/61YuVEtlcpL._AC_SL1500_.jpg",
+    "preco": 51.88,
+    "preco_anterior": 83.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DW9L8BFD?tag=malica09-20",
+    "atualizado_em": "2026-10-11T20:52:01.056-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB59006831",
     "titulo": "Cadeira Balanço Elétrica Bebê Cinza Com Vibração 2 Posições",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_977508-MLA99463653440_112025-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2K2BLp3",
     "atualizado_em": "2026-10-10T08:55:38.779-03:00"
-  },
-  {
-    "id": "shopee:378105312.41019740801",
-    "titulo": "BUBA KIT ESCOVAS PARA MAMADEIRAS COM ESPONJA",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j4-mesq69pzb401d0",
-    "preco": 16.99,
-    "preco_anterior": 28.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20w7MPEx6b",
-    "atualizado_em": "2026-10-10T08:50:30.685-03:00"
   }
 ]
