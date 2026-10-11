@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MFDV3XM",
+    "titulo": "Ninho Nestle Forti+ Zero Lactose 380G : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/51nrOpveCxL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MFDV3XM?tag=malica09-20",
+    "atualizado_em": "2026-10-11T12:50:03.944-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29546763",
     "titulo": "Bolsa Canguru Carregador Ergonômico Para Bebê Assento Hipsea Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_917656-MLA99504367646_112025-F.jpg",
