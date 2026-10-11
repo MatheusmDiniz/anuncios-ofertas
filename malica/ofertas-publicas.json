@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56677151",
+    "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
+    "preco": 129.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fqRnEh",
+    "atualizado_em": "2026-10-11T12:55:10.234-03:00"
+  },
+  {
     "id": "amazon:B07MFDV3XM",
     "titulo": "Ninho Nestle Forti+ Zero Lactose 380G : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/51nrOpveCxL._AC_SL1500_.jpg",
