@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28203800",
+    "titulo": "Trocador Portátil Bege de Algodão Impermeável Batistela Baby Dobrável Lavável Unissex",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908952-MLA113098695541_062026-F.jpg",
+    "preco": 107,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ms1HNX",
+    "atualizado_em": "2026-10-11T11:22:38.475-03:00"
+  },
+  {
     "id": "amazon:B07M73VVLV",
     "titulo": "Fórmula Infantil Aptamil Pepti Danone Nutricia 800g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/71NlmnTPujL._AC_SL1500_.jpg",
