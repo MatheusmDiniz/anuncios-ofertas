@@ -1918,35 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H76T1RV4?tag=malica09-20",
     "atualizado_em": "2026-10-09T19:24:49.356-03:00"
-  },
-  {
-    "id": "amazon:B0GW48ZKYM",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
-    "preco": 84.06,
-    "preco_anterior": 109.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=malica09-20",
-    "atualizado_em": "2026-10-09T19:19:45.324-03:00"
-  },
-  {
-    "id": "amazon:B0GTWWQ86B",
-    "titulo": "Carter",
-    "imagem": "https://m.media-amazon.com/images/I/713C26cuQZL._AC_SL1500_.jpg",
-    "preco": 78,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GTWWQ86B?tag=malica09-20",
-    "atualizado_em": "2026-10-09T19:14:41.212-03:00"
-  },
-  {
-    "id": "amazon:B0H5FNVG8H",
-    "titulo": "Conjunto de calça de body de 2 peças 2-piece Bodysuit Pant Set Carter",
-    "imagem": "https://m.media-amazon.com/images/I/7187gfeY8xL._AC_SL1500_.jpg",
-    "preco": 86,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5FNVG8H?tag=malica09-20",
-    "atualizado_em": "2026-10-09T19:09:37.232-03:00"
   }
 ]
