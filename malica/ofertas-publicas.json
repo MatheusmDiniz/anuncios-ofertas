@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24853515",
+    "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
+    "preco": 169,
+    "preco_anterior": 349,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KckCEm",
+    "atualizado_em": "2026-10-11T08:14:07.582-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61118769",
     "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2PsBu6b",
     "atualizado_em": "2026-10-09T20:29:24.365-03:00"
-  },
-  {
-    "id": "shopee:1241453684.58256027225",
-    "titulo": "CONJUNTO INFANTIL MENINA FRANZIDO SOLTINHO E CALÇA COM TECIDO ROSA DE POÁ DE CORAÇÃO FASHION",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnn3h9dr20w7b",
-    "preco": 39.9,
-    "preco_anterior": 249.37,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50Zfk1nwyZ",
-    "atualizado_em": "2026-10-09T20:10:50.265-03:00"
   }
 ]
