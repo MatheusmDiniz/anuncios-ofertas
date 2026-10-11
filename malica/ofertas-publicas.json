@@ -2298,35 +2298,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qk8Nepp3V",
     "atualizado_em": "2026-10-09T16:10:08.165-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25863440",
-    "titulo": "Almofada De Banho Para O Bebê Ursinho Cinza 12752 - Buba Ursinhos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807543-MLA99445819066_112025-F.jpg",
-    "preco": 81.01,
-    "preco_anterior": 147.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kf8ris",
-    "atualizado_em": "2026-10-09T16:05:03.115-03:00"
-  },
-  {
-    "id": "amazon:B07X4GVF9H+B07X4GWDZY+B0DV7BN75H",
-    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
-    "preco": 72,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
-    "atualizado_em": "2026-10-09T15:59:53.863-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67134266",
-    "titulo": "Barbie Conjunto de Brinquedo Conjunto de Jogo Pizzaria",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636730-MLA108638769090_032026-F.jpg",
-    "preco": 144.9,
-    "preco_anterior": 269.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nzh1nh",
-    "atualizado_em": "2026-10-09T15:54:48.895-03:00"
   }
 ]
