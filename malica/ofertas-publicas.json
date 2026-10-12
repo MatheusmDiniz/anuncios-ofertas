@@ -2118,35 +2118,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D7W4JDQL?tag=malica09-20",
     "atualizado_em": "2026-10-10T17:56:53.488-03:00"
-  },
-  {
-    "id": "amazon:B0D84MB72K",
-    "titulo": "Pó Dermo Protetor Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41TMpXU3M2L._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D84MB72K?tag=malica09-20",
-    "atualizado_em": "2026-10-10T17:51:48.279-03:00"
-  },
-  {
-    "id": "amazon:B07MBXDB51",
-    "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
-    "imagem": "https://m.media-amazon.com/images/I/61NJbm2a9tL._AC_SL1500_.jpg",
-    "preco": 38,
-    "preco_anterior": 73,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MBXDB51?tag=malica09-20",
-    "atualizado_em": "2026-10-10T17:46:44.332-03:00"
-  },
-  {
-    "id": "amazon:B08R91NTHY",
-    "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
-    "imagem": "https://m.media-amazon.com/images/I/612gXC9waVL._AC_SL1500_.jpg",
-    "preco": 349,
-    "preco_anterior": 1199,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08R91NTHY?tag=malica09-20",
-    "atualizado_em": "2026-10-10T17:41:40.312-03:00"
   }
 ]
