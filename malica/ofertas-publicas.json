@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47549605",
+    "titulo": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660207-MLA99510217556_112025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 399.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zvgDVv",
+    "atualizado_em": "2026-10-12T12:57:34.563-03:00"
+  },
+  {
     "id": "amazon:B073ZGK2JV",
     "titulo": "Mustela Bálsamo Peitoral Reconfortante 40 ml, Mustela Bebê, Azul, 40 ml",
     "imagem": "https://m.media-amazon.com/images/I/41nBYv6T-mS._AC_SL1500_.jpg",
