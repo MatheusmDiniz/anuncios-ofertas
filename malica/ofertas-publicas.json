@@ -2448,35 +2448,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=malica09-20",
     "atualizado_em": "2026-10-10T15:08:58.444-03:00"
-  },
-  {
-    "id": "amazon:B09BBDVPB1",
-    "titulo": "Oferta para Membros Prime: MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
-    "preco": 23,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:03:53.856-03:00"
-  },
-  {
-    "id": "amazon:B0CFFQBY89",
-    "titulo": "Oferta para Membros Prime: 1 AP. DE JANTAR/CHA 30PCS - M. ORDER - BRISA - AW30-5903 | Formato Clean",
-    "imagem": "https://m.media-amazon.com/images/I/61WfjowoKRL._AC_SL1500_.jpg",
-    "preco": 286,
-    "preco_anterior": 599,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CFFQBY89?tag=malica09-20",
-    "atualizado_em": "2026-10-10T14:58:50.220-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22323833",
-    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 185.57,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yoBH4h",
-    "atualizado_em": "2026-10-10T14:53:46.984-03:00"
   }
 ]
