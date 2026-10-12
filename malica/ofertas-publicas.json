@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25997831",
+    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
+    "preco": 85.99,
+    "preco_anterior": 144.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2X546Yw",
+    "atualizado_em": "2026-10-11T21:22:44.283-03:00"
+  },
+  {
     "id": "shopee:1700242901.58264964287",
     "titulo": "Kit 6 Peças Menina Bebê Infantil Peças de Roupas Verão Infantil Fashion Short Blusa Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr24mhxckqo418",
@@ -3038,15 +3048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=malica09-20",
     "atualizado_em": "2026-10-10T09:26:15.545-03:00"
-  },
-  {
-    "id": "shopee:1680935964.58251006635",
-    "titulo": "KIT 40 unidades de xuxinhas com Detalhes de Silicone Laço/Coroa/Unicornio/muitos Modelo Aleatorio",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mszsj0tzug3p1b",
-    "preco": 20.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6fhvqCXEvE",
-    "atualizado_em": "2026-10-10T09:21:10.398-03:00"
   }
 ]
