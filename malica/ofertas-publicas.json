@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB33998445",
+    "titulo": "Trocador Portátil Batistela Baby Linho Cinza Impermeável Dobrável",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749621-MLA113097572587_062026-F.jpg",
+    "preco": 104.9,
+    "preco_anterior": 199.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Y1e47i",
+    "atualizado_em": "2026-10-12T08:31:53.434-03:00"
+  },
+  {
     "id": "shopee:523113851.58266912827",
     "titulo": "Body Bebê Presidente Brasil Mesversário Temático Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msboazyb7wnb46",
@@ -1878,15 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KV2733?tag=malica09-20",
     "atualizado_em": "2026-10-10T20:32:02.128-03:00"
-  },
-  {
-    "id": "amazon:B07GR5T4RF",
-    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
-    "imagem": "https://m.media-amazon.com/images/I/81XM69oIvoL._AC_SL1500_.jpg",
-    "preco": 71,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=malica09-20",
-    "atualizado_em": "2026-10-10T20:26:56.518-03:00"
   }
 ]
