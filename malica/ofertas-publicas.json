@@ -2268,35 +2268,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00WJNIZTY?tag=malica09-20",
     "atualizado_em": "2026-10-10T16:40:17.975-03:00"
-  },
-  {
-    "id": "amazon:B08L6ZW2FT",
-    "titulo": "Oferta para Membros Prime: Philco Escova Secadora PEC13 4 em 1 Soft Beauty Cherry Bivolt Plástico ou liga de metal Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/51wCmSAO8lL._AC_SL1500_.jpg",
-    "preco": 84,
-    "preco_anterior": 159,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08L6ZW2FT?tag=malica09-20",
-    "atualizado_em": "2026-10-10T16:35:13.873-03:00"
-  },
-  {
-    "id": "amazon:B0C2ZNDWK6",
-    "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
-    "imagem": "https://m.media-amazon.com/images/I/51hUmO15FhL._AC_SL1500_.jpg",
-    "preco": 84,
-    "preco_anterior": 158,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2ZNDWK6?tag=malica09-20",
-    "atualizado_em": "2026-10-10T16:30:10.173-03:00"
-  },
-  {
-    "id": "amazon:B0GWK8TY69",
-    "titulo": "Cesto de Roupas em Bambu 60L com Tampa e Alças, Organizador Lavanderia Dobrável com Revestimento Interno Removível, Design Moderno para Banheiro Quarto Lavanderia Alta Capacidade e Durabilidade Prime",
-    "imagem": "https://m.media-amazon.com/images/I/61kJ0fScnQL._AC_SL1500_.jpg",
-    "preco": 45,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GWK8TY69?tag=malica09-20",
-    "atualizado_em": "2026-10-10T16:25:06.088-03:00"
   }
 ]
