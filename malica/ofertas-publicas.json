@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB30153211",
+    "titulo": "Buba Pote Térmico Gumy Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765387-MLA95833190617_102025-F.jpg",
+    "preco": 80.71,
+    "preco_anterior": 151.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fMFcFJ",
+    "atualizado_em": "2026-10-12T13:12:54.761-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32160295",
     "titulo": "Pote Térmico Comida Alimento Bebê 320ml Buba Rosa Lisa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_874581-MLA91968255005_092025-F.jpg",
