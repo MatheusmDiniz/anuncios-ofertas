@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GR5YBSQ",
+    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho XG, 12-15kg, 48 Unidades, Estilo Roupinha com Cintura Acolchoada",
+    "imagem": "https://m.media-amazon.com/images/I/81bfqQYF1UL._AC_SL1500_.jpg",
+    "preco": 80.65,
+    "preco_anterior": 113.26,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GR5YBSQ?tag=malica09-20",
+    "atualizado_em": "2026-10-12T16:44:27.369-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40554787",
     "titulo": "Bicicleta de Equilíbrio Infantil Yuupi Verde 4 Rodas TPU, Conforto e Segurança",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_682100-MLA99508962234_112025-F.jpg",
