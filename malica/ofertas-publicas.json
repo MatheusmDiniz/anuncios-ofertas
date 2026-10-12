@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09DQ6CMG2",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71C6P-MXsbL._AC_SL1500_.jpg",
+    "preco": 170,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=malica09-20",
+    "atualizado_em": "2026-10-12T14:24:11.043-03:00"
+  },
+  {
     "id": "shopee:1156409244.58208474935",
     "titulo": "Kit 2 Blusa Infantil Forrada Jaquetas Escolar Infantil Unissex - Moletom Premium (Tam. 4 ao 16)",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mmtjdl36qcjo5c",
