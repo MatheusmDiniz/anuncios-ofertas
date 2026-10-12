@@ -1918,35 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09GKT58C3?tag=malica09-20",
     "atualizado_em": "2026-10-10T19:41:11.955-03:00"
-  },
-  {
-    "id": "amazon:B07J68SZ66",
-    "titulo": "Oferta para Membros Prime: Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71t1HubAW5L._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07J68SZ66?tag=malica09-20",
-    "atualizado_em": "2026-10-10T19:36:06.457-03:00"
-  },
-  {
-    "id": "amazon:B07DHSHXVP",
-    "titulo": "Oferta para Membros Prime: Power Bank Pro 20000mAH, Bateria Portátil Universal, Carga Rápida, Display Indicador, Entradas Micro USB e USB-C, 2 Portas USB-A, Preto, PB200BK, ELG",
-    "imagem": "https://m.media-amazon.com/images/I/51B8L+wYfXL._AC_SL1500_.jpg",
-    "preco": 125,
-    "preco_anterior": 219,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHSHXVP?tag=malica09-20",
-    "atualizado_em": "2026-10-10T19:31:00.552-03:00"
-  },
-  {
-    "id": "amazon:B0CLBFZ3Z4",
-    "titulo": "Britânia Batedeira Perola 550 Neve 4,3L 500W 220V Aço inoxidável",
-    "imagem": "https://m.media-amazon.com/images/I/51qLj-7DnGL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": 189,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CLBFZ3Z4?tag=malica09-20",
-    "atualizado_em": "2026-10-10T19:25:29.454-03:00"
   }
 ]
