@@ -2328,35 +2328,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=malica09-20",
     "atualizado_em": "2026-10-10T16:09:55.591-03:00"
-  },
-  {
-    "id": "amazon:B0DMFR1P3K",
-    "titulo": "Oferta para Membros Prime: Algodão Quadrado Amamente® Baby 100 UN",
-    "imagem": "https://m.media-amazon.com/images/I/71iGihWsyNL._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DMFR1P3K?tag=malica09-20",
-    "atualizado_em": "2026-10-10T16:04:51.086-03:00"
-  },
-  {
-    "id": "amazon:B076X7VHWN",
-    "titulo": "Brinquedo para Bebe Dino Papa Tudo com Acessórios, Elka, Multicor",
-    "imagem": "https://m.media-amazon.com/images/I/61Tgw23t8-L._AC_SL1500_.jpg",
-    "preco": 54,
-    "preco_anterior": 92,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076X7VHWN?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:59:47.773-03:00"
-  },
-  {
-    "id": "amazon:B099KPQQWF",
-    "titulo": "Oferta para Membros Prime: Fralda Turma da Mônica Baby Mega XXG 36 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71wAKlRXI1L._AC_SL1500_.jpg",
-    "preco": 30,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KPQQWF?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:54:43.573-03:00"
   }
 ]
