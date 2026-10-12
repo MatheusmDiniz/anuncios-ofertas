@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69043941",
+    "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631551-MLA111151110751_052026-F.jpg",
+    "preco": 199.9,
+    "preco_anterior": 369.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oGLGQN",
+    "atualizado_em": "2026-10-12T18:00:52.609-03:00"
+  },
+  {
     "id": "amazon:B0C9W3MZV2",
     "titulo": "Sabonete Nutritivo Johnson",
     "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
