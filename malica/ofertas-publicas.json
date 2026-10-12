@@ -2558,35 +2558,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GV5V4KW7?tag=malica09-20",
     "atualizado_em": "2026-10-10T14:12:41.684-03:00"
-  },
-  {
-    "id": "amazon:B0BW11X8VR",
-    "titulo": "Cadeira Para Auto Maximus até 25 Kg Preto Galzerano",
-    "imagem": "https://m.media-amazon.com/images/I/71HVoM6qF9L._AC_SL1500_.jpg",
-    "preco": 294,
-    "preco_anterior": 529,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BW11X8VR?tag=malica09-20",
-    "atualizado_em": "2026-10-10T14:07:38.026-03:00"
-  },
-  {
-    "id": "amazon:B076X75H7L",
-    "titulo": "Hasbro Games, Jogo de Festas, Twister - Novos Movimentos, Jogo de Equilíbrio, 2 Jogadores ou Mais - A partir de 6 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/71L97MO8vIL._AC_SL1500_.jpg",
-    "preco": 72,
-    "preco_anterior": 149,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076X75H7L?tag=malica09-20",
-    "atualizado_em": "2026-10-10T14:02:33.772-03:00"
-  },
-  {
-    "id": "amazon:B07G3HWFQL",
-    "titulo": "Oferta para Membros Prime: Buba Aspirador Nasal Com Estojo Transparente",
-    "imagem": "https://m.media-amazon.com/images/I/411UYgK6YWS._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07G3HWFQL?tag=malica09-20",
-    "atualizado_em": "2026-10-10T13:57:28.942-03:00"
   }
 ]
