@@ -2088,35 +2088,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
     "atualizado_em": "2026-10-10T18:13:00.081-03:00"
-  },
-  {
-    "id": "amazon:B079VQTRM7",
-    "titulo": "Oferta: Bio Oil Bio",
-    "imagem": "https://m.media-amazon.com/images/I/41UeIwJ3WBL._AC_SL1500_.jpg",
-    "preco": 42,
-    "preco_anterior": 85,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B079VQTRM7?tag=malica09-20",
-    "atualizado_em": "2026-10-10T18:07:29.227-03:00"
-  },
-  {
-    "id": "amazon:B096W8G8DL",
-    "titulo": "MOANA, Cotiplás, Vermelho : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/61hFlUFP++L._AC_SL1500_.jpg",
-    "preco": 95,
-    "preco_anterior": 148,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B096W8G8DL?tag=malica09-20",
-    "atualizado_em": "2026-10-10T18:02:23.644-03:00"
-  },
-  {
-    "id": "amazon:B0D7W4JDQL",
-    "titulo": "Oferta: Barbie Fantasía Boneca Fada Cores Mágicas para Crianças a Partir de 3 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/51PdVFQLK5L._AC_SL1500_.jpg",
-    "preco": 136,
-    "preco_anterior": 179,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D7W4JDQL?tag=malica09-20",
-    "atualizado_em": "2026-10-10T17:56:53.488-03:00"
   }
 ]
