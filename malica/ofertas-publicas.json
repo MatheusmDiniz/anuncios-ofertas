@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1343438067.22894658086",
+    "titulo": "Mochila-Protetor de Cabeça Bebê - Almofada de Amortecimento, Protege Cabeça e Costas",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fl-mglogd0rttzj2f",
+    "preco": 34.99,
+    "preco_anterior": 67.29,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6AljW86285",
+    "atualizado_em": "2026-10-12T09:07:43.584-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62469792",
     "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_920911-MLA98813793822_112025-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2A9fsGm",
     "atualizado_em": "2026-10-10T21:08:33.362-03:00"
-  },
-  {
-    "id": "amazon:B0FQWC8BWS",
-    "titulo": "Chocolate M&M",
-    "imagem": "https://m.media-amazon.com/images/I/61tyA+A2sdL._AC_SL1500_.jpg",
-    "preco": 64,
-    "preco_anterior": 94,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FQWC8BWS?tag=malica09-20",
-    "atualizado_em": "2026-10-10T21:03:24.449-03:00"
   }
 ]
