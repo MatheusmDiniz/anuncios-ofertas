@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:231816406.23193410937",
+    "titulo": "Prevenção de Estrias na Gravidez: Cuidado Completo Pré e Pós-Gestação",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjygg44h6c5id7",
+    "preco": 39.9,
+    "preco_anterior": 120.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3qNojpNugV",
+    "atualizado_em": "2026-10-12T08:47:11.038-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42346236",
     "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FJSKKYPL?tag=malica09-20",
     "atualizado_em": "2026-10-10T20:47:16.739-03:00"
-  },
-  {
-    "id": "amazon:B0B2B8P8HF",
-    "titulo": "Disney Princesa Boneca Branca de Neve para Crianças a Partir de 3 Anos",
-    "imagem": "https://m.media-amazon.com/images/I/81zbsD6qY0L._AC_SL1500_.jpg",
-    "preco": 165.66,
-    "preco_anterior": 239.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B2B8P8HF?tag=malica09-20",
-    "atualizado_em": "2026-10-10T20:42:11.301-03:00"
   }
 ]
