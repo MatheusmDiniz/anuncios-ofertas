@@ -2918,35 +2918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2dKmgSP",
     "atualizado_em": "2026-10-10T11:09:10.718-03:00"
-  },
-  {
-    "id": "amazon:B07J2PCFB3",
-    "titulo": "Sunny, Skye,1342, Pelúcia, 12",
-    "imagem": "https://m.media-amazon.com/images/I/51pI0bdl8AL._AC_SL1500_.jpg",
-    "preco": 72,
-    "preco_anterior": 129,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07J2PCFB3?tag=malica09-20",
-    "atualizado_em": "2026-10-10T11:04:02.019-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26234856",
-    "titulo": "Totokinha Cardoso Toys Carrinho Andador Triciclo Menino Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705389-MLA118512524509_092026-F.jpg",
-    "preco": 119.99,
-    "preco_anterior": 219.89,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1x5k8s9",
-    "atualizado_em": "2026-10-10T10:58:57.680-03:00"
-  },
-  {
-    "id": "shopee:1624354211.58259642577",
-    "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
-    "preco": 18.5,
-    "preco_anterior": 45.12,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7KxdnDAHjB",
-    "atualizado_em": "2026-10-10T10:53:49.722-03:00"
   }
 ]
