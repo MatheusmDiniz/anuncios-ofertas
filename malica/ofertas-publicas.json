@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHR9LSK",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
+    "atualizado_em": "2026-10-12T17:25:06.145-03:00"
+  },
+  {
     "id": "amazon:B0CB6KK9P2",
     "titulo": "Oferta: Barbie, Casa de Bonecas Glam com Boneca, para Meninas acima de 3 anos (Vem com 1 Boneca)",
     "imagem": "https://m.media-amazon.com/images/I/810nNrx0eRL._AC_SL1500_.jpg",
