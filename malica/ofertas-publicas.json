@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21006188",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
+    "preco": 196.47,
+    "preco_anterior": 346.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/27sfskB",
+    "atualizado_em": "2026-10-12T08:21:41.166-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1878,15 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07CTH8RTW?tag=malica09-20",
     "atualizado_em": "2026-10-10T20:21:50.673-03:00"
-  },
-  {
-    "id": "amazon:B0CBCRP3BS",
-    "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
-    "imagem": "https://m.media-amazon.com/images/I/71y1o6ee9IL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CBCRP3BS?tag=malica09-20",
-    "atualizado_em": "2026-10-10T20:16:46.120-03:00"
   }
 ]
