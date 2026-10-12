@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72720626",
+    "titulo": "Berço Portátil PipDip Co-Sleeper, Com Balanço e Colchão Extra Grosso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642241-MLA115658811869_082026-F.jpg",
+    "preco": 575.9,
+    "preco_anterior": 1299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/16AzQhD",
+    "atualizado_em": "2026-10-12T15:25:36.414-03:00"
+  },
+  {
     "id": "amazon:B0DV9W63Z6",
     "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
     "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
