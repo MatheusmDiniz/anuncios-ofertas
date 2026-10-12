@@ -2828,35 +2828,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08BCSWYJJ?tag=malica09-20",
     "atualizado_em": "2026-10-10T11:55:05.759-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26417848",
-    "titulo": "Bolsa Canguru Ergonômico Bebê Mãe Premium 12 Posições 3 Em 1 Cor Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651415-MLA111958329880_062026-F.jpg",
-    "preco": 145.47,
-    "preco_anterior": 257.37,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2pybUbV",
-    "atualizado_em": "2026-10-10T11:49:59.834-03:00"
-  },
-  {
-    "id": "amazon:B097BYXGXN",
-    "titulo": "Heinz Ketchup Tradicional 1,033KG",
-    "imagem": "https://m.media-amazon.com/images/I/51653ltvYsL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B097BYXGXN?tag=malica09-20",
-    "atualizado_em": "2026-10-10T11:44:51.328-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52680667",
-    "titulo": "Andador Infantil Empurrador Atividade Musical Bebê Didático Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824627-MLA100063596379_122025-F.jpg",
-    "preco": 118.34,
-    "preco_anterior": 269.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WUFJ1e",
-    "atualizado_em": "2026-10-10T11:39:46.286-03:00"
   }
 ]
