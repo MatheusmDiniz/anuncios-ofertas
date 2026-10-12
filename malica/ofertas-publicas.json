@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DVTBWQ8Q",
+    "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": 34,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=malica09-20",
+    "atualizado_em": "2026-10-12T10:19:24.955-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63854956",
     "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_703485-MLA103647296121_012026-F.jpg",
