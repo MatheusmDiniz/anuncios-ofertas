@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39327701",
+    "titulo": "Berço portátil infantil cercado 15kg Lazy MaxiBaby cor rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818139-MLA95668209784_102025-F.jpg",
+    "preco": 349.99,
+    "preco_anterior": 699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QoFyAu",
+    "atualizado_em": "2026-10-12T11:36:02.505-03:00"
+  },
+  {
     "id": "amazon:B0BDT2JD8T",
     "titulo": "Fralda Infantil Personal Baby Protect e Sec M Mega 9x40pads Leve 40 pague 38 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51JyxZtHjGL._AC_SL1500_.jpg",
