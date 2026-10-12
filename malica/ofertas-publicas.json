@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFD25P8S",
+    "titulo": "Mustela Shampoo Cachos Desembaraçados 200ml - Para Cabelos Ondulados, Cacheados e Texturizados - Limpa Suavemente, Nutre e Desembaraça",
+    "imagem": "https://m.media-amazon.com/images/I/71qEYm2z2oL._AC_SL1500_.jpg",
+    "preco": 60,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFD25P8S?tag=malica09-20",
+    "atualizado_em": "2026-10-12T15:05:14.871-03:00"
+  },
+  {
     "id": "shopee:212844114.19699230407",
     "titulo": "Cueiro Estampado Flanelado Bebê Kit 3 Unidades 80X50CM Papi/Incomfral",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rccc-ltfis1v4rhn523",
