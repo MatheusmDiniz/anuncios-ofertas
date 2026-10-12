@@ -2358,35 +2358,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KPQQWF?tag=malica09-20",
     "atualizado_em": "2026-10-10T15:54:43.573-03:00"
-  },
-  {
-    "id": "amazon:B0F4KXTCFT",
-    "titulo": "Creme Preventivo de Assaduras Desitin Creamy, Kit com 3 Unidades 113g | Proteção Diária, Hipoalergênico",
-    "imagem": "https://m.media-amazon.com/images/I/71k9xm1E0gL._AC_SL1500_.jpg",
-    "preco": 122,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:49:38.224-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72984485",
-    "titulo": "Brinquedo Pedagógico Montessori Montanha Russa Custom Kids Colorido",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_931745-MLA111867328062_062026-F.jpg",
-    "preco": 88.99,
-    "preco_anterior": 189.86,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kb8E9B",
-    "atualizado_em": "2026-10-10T15:44:33.017-03:00"
-  },
-  {
-    "id": "amazon:B09WTLQ53R",
-    "titulo": "Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1)",
-    "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
-    "preco": 60,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09WTLQ53R?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:39:26.170-03:00"
   }
 ]
