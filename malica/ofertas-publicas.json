@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095R95SNW",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
+    "preco": 38,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095R95SNW?tag=malica09-20",
+    "atualizado_em": "2026-10-12T09:33:07.599-03:00"
+  },
+  {
     "id": "shopee:1064487211.23398980471",
     "titulo": "1/2/3/4/5 Prendedor De Chupeta Com Trava Com Corrente Clipe Chupeta Menino e Menina - Promoção",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gp-mfe6fx7mfb4ee3",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/15WDpZV",
     "atualizado_em": "2026-10-10T21:34:10.585-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56341817",
-    "titulo": "Boné New Era 39thirty New York Yankees Fechado Mlb Preto Desenho Do Tecido Liso Tamanho Ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_757489-MLA95962489651_102025-F.jpg",
-    "preco": 134.9,
-    "preco_anterior": 238.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kksPcP",
-    "atualizado_em": "2026-10-10T21:29:02.696-03:00"
   }
 ]
