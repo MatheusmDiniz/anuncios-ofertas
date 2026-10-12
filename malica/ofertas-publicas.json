@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58145183",
+    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730625-MLA116852295949_082026-F.jpg",
+    "preco": 623.69,
+    "preco_anterior": 1579.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QkDLAr",
+    "atualizado_em": "2026-10-11T21:58:37.235-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73063371",
     "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qk9yQ6cgE",
     "atualizado_em": "2026-10-10T10:02:19.999-03:00"
-  },
-  {
-    "id": "amazon:B09B8VGCR8",
-    "titulo": "Oferta para Membros Prime: Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
-    "imagem": "https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1500_.jpg",
-    "preco": 299,
-    "preco_anterior": 649,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=malica09-20",
-    "atualizado_em": "2026-10-10T09:57:13.458-03:00"
   }
 ]
