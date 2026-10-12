@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DV9W63Z6",
+    "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
+    "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
+    "preco": 346,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
+    "atualizado_em": "2026-10-12T15:20:29.406-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56101048",
     "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
