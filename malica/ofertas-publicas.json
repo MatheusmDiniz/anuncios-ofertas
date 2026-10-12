@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CWVXGWPZ",
+    "titulo": "Novabrink - Baby Brink - Boneca Peppa Pig - 32 cm de altura",
+    "imagem": "https://m.media-amazon.com/images/I/51tLd2KafZL._AC_SL1500_.jpg",
+    "preco": 75,
+    "preco_anterior": 159,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CWVXGWPZ?tag=malica09-20",
+    "atualizado_em": "2026-10-12T11:25:51.003-03:00"
+  },
+  {
     "id": "amazon:B0DLJF5TVJ",
     "titulo": "Bicicleta de Equilibrio Andador Infantil sem Pedal para Crianças (Azul) : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/61e1zMlSHdL._AC_SL1500_.jpg",
