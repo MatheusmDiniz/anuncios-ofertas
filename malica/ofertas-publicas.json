@@ -2388,35 +2388,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09WTLQ53R?tag=malica09-20",
     "atualizado_em": "2026-10-10T15:39:26.170-03:00"
-  },
-  {
-    "id": "amazon:B0FS864M3F",
-    "titulo": "Fralda Babysec Ultrasec Giga XG 76 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/511sw0w7TgL._AC_SL1500_.jpg",
-    "preco": 70,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FS864M3F?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:34:21.194-03:00"
-  },
-  {
-    "id": "amazon:B0GT2CBBBR",
-    "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71ybDaoMvSL._AC_SL1500_.jpg",
-    "preco": 47,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:29:16.432-03:00"
-  },
-  {
-    "id": "amazon:6526109268",
-    "titulo": "Sentimentômetro",
-    "imagem": "https://m.media-amazon.com/images/I/71xqEj2EW8L._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": 64,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6526109268?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:24:12.018-03:00"
   }
 ]
