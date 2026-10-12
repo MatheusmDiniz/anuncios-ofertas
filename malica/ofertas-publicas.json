@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GHP6DWBN",
+    "titulo": "Oferta para Membros Prime: Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
+    "imagem": "https://m.media-amazon.com/images/I/61dNZC++zNL._AC_SL1500_.jpg",
+    "preco": 123.4,
+    "preco_anterior": 179.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=malica09-20",
+    "atualizado_em": "2026-10-12T11:05:33.963-03:00"
+  },
+  {
     "id": "amazon:B0964FR2L8",
     "titulo": "Burigotto Banheira Millenia, Azul Bebê",
     "imagem": "https://m.media-amazon.com/images/I/51n45tDFfQS._AC_SL1500_.jpg",
