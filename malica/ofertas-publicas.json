@@ -2768,35 +2768,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BXM1CSC2?tag=malica09-20",
     "atualizado_em": "2026-10-10T12:25:40.800-03:00"
-  },
-  {
-    "id": "amazon:B0CGYR8GBT",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 144 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/714SJqCfwxL._AC_SL1500_.jpg",
-    "preco": 184,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CGYR8GBT?tag=malica09-20",
-    "atualizado_em": "2026-10-10T12:20:36.565-03:00"
-  },
-  {
-    "id": "amazon:B07HNPDH3H",
-    "titulo": "MAM Baby 1 Escova de Dentes Baby",
-    "imagem": "https://m.media-amazon.com/images/I/41wtFvGWLrL._AC_SL1500_.jpg",
-    "preco": 27,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07HNPDH3H?tag=malica09-20",
-    "atualizado_em": "2026-10-10T12:15:31.773-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26693140",
-    "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
-    "preco": 78.99,
-    "preco_anterior": 170.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/138DV6n",
-    "atualizado_em": "2026-10-10T12:10:28.220-03:00"
   }
 ]
