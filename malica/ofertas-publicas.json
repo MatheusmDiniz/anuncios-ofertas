@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:498427778.58205368075",
+    "titulo": "Lenço Infantil Gaúcho Cetim Vermelho Branco Tradicional 45cm",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mt5u2uxcz11i25",
+    "preco": 41.9,
+    "preco_anterior": 80.58,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2VsR9PfNeX",
+    "atualizado_em": "2026-10-12T09:38:11.733-03:00"
+  },
+  {
     "id": "amazon:B095R95SNW",
     "titulo": "Huggies Fralda Descartável Premium Natural Care P - 36 Un",
     "imagem": "https://m.media-amazon.com/images/I/71S1KDg3CYL._AC_SL1500_.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28ed7Bs",
     "atualizado_em": "2026-10-10T21:39:18.991-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28144221",
-    "titulo": "Cadeira De Refeição Prima Pappa Zero Gold Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714238-MLA99454343034_112025-F.jpg",
-    "preco": 668,
-    "preco_anterior": 1119,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/15WDpZV",
-    "atualizado_em": "2026-10-10T21:34:10.585-03:00"
   }
 ]
