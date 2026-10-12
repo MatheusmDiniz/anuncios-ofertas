@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 199,
+    "preco_anterior": 369,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2tjqGTg",
+    "atualizado_em": "2026-10-12T10:04:07.661-03:00"
+  },
+  {
     "id": "shopee:1360717076.22793967394",
     "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Jw4v7e",
     "atualizado_em": "2026-10-11T08:03:53.848-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19123248",
-    "titulo": "Cadeira de balanço para bebê Mastela Premium elétrica 8106 rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_934114-MLA99956089133_112025-F.jpg",
-    "preco": 467.9,
-    "preco_anterior": 789.65,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HLmEzf",
-    "atualizado_em": "2026-10-10T21:59:51.069-03:00"
   }
 ]
