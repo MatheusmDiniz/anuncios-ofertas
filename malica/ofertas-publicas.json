@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62469792",
+    "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_920911-MLA98813793822_112025-F.jpg",
+    "preco": 319.9,
+    "preco_anterior": 616.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SS1khn",
+    "atualizado_em": "2026-10-12T09:02:38.794-03:00"
+  },
+  {
     "id": "shopee:504372049.58263057596",
     "titulo": "Calça Flare Infantil Juvenil Menina Feminina Confortável Tamanho 2 ao 16",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mptq0ni9llabfe",
@@ -1878,15 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FQWC8BWS?tag=malica09-20",
     "atualizado_em": "2026-10-10T21:03:24.449-03:00"
-  },
-  {
-    "id": "amazon:B0G43VVHFQ",
-    "titulo": "Oferta: Figura de Ação DC Premiere Superman™ 12\", Multicolor, Plástico, Mattel | Brinquedo de super-herói, terno clássico vermelho e azul com capa de tecido, design detalhado",
-    "imagem": "https://m.media-amazon.com/images/I/51Cj84PLf6L._AC_SL1500_.jpg",
-    "preco": 80.99,
-    "preco_anterior": 119.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G43VVHFQ?tag=malica09-20",
-    "atualizado_em": "2026-10-10T20:57:53.596-03:00"
   }
 ]
