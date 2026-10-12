@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.56353003213",
+    "titulo": "Conjunto Para Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa infantil Masculino l05",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibm9yxoln2ace",
+    "preco": 19.99,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6q1OiHCEec",
+    "atualizado_em": "2026-10-12T20:08:38.915-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63209988",
     "titulo": "Carrinho Infantil Resistente Com Bolsa Azul Para Bonecas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_879160-MLA101561710069_122025-F.jpg",
@@ -3058,15 +3068,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2GN8iMF",
     "atualizado_em": "2026-10-11T08:09:01.020-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72143098",
-    "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
-    "preco": 406.43,
-    "preco_anterior": 899,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Jw4v7e",
-    "atualizado_em": "2026-10-11T08:03:53.848-03:00"
   }
 ]
