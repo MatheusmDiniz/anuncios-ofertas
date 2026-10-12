@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24820639",
+    "titulo": "Triciclo Cardoso Totokinha Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742209-MLA95937453019_102025-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 222.93,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kiJy46",
+    "atualizado_em": "2026-10-12T08:52:18.181-03:00"
+  },
+  {
     "id": "shopee:231816406.23193410937",
     "titulo": "Prevenção de Estrias na Gravidez: Cuidado Completo Pré e Pós-Gestação",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjygg44h6c5id7",
@@ -1878,15 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D9K6PY8S?tag=malica09-20",
     "atualizado_em": "2026-10-10T20:52:48.220-03:00"
-  },
-  {
-    "id": "amazon:B0FJSKKYPL",
-    "titulo": "Conjunto de boneca Fashion Princesa Disney Bela com histórias 2 em 1, 2 corpetes de encaixe, 2 Saias e 9 acessórios",
-    "imagem": "https://m.media-amazon.com/images/I/91SZUm5E7rL._AC_SL1500_.jpg",
-    "preco": 179.4,
-    "preco_anterior": 209.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FJSKKYPL?tag=malica09-20",
-    "atualizado_em": "2026-10-10T20:47:16.739-03:00"
   }
 ]
