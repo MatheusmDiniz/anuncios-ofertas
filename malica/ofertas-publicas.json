@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:910649627.58213273842",
+    "titulo": "Kit 7 Saquinhos Maternidade Organizador Mala Bebê  Mala/Viagem/Roupa Molhada e Seca",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mpxy82d0505ccb",
+    "preco": 11.99,
+    "preco_anterior": 19.03,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AUuig4YLFu",
+    "atualizado_em": "2026-10-12T08:36:58.358-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB33998445",
     "titulo": "Trocador Portátil Batistela Baby Linho Cinza Impermeável Dobrável",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_749621-MLA113097572587_062026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09BDZZV23?tag=malica09-20",
     "atualizado_em": "2026-10-10T20:37:07.049-03:00"
-  },
-  {
-    "id": "amazon:B099KV2733",
-    "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61wE7KZt2vL._AC_SL1500_.jpg",
-    "preco": 30,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KV2733?tag=malica09-20",
-    "atualizado_em": "2026-10-10T20:32:02.128-03:00"
   }
 ]
