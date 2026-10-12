@@ -2678,35 +2678,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F4RQGMMT?tag=malica09-20",
     "atualizado_em": "2026-10-10T13:11:23.436-03:00"
-  },
-  {
-    "id": "amazon:B07G1FHPDR",
-    "titulo": "Oferta para Membros Prime: Pipoqueira Popflix, Mondial, Vermelho, 1200W, 220V - PP-03",
-    "imagem": "https://m.media-amazon.com/images/I/81oRNVZ6SUL._AC_SL1500_.jpg",
-    "preco": 116,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07G1FHPDR?tag=malica09-20",
-    "atualizado_em": "2026-10-10T13:06:19.899-03:00"
-  },
-  {
-    "id": "amazon:B0CKPQWL9V",
-    "titulo": "Kit Triplo Mamadeira Anti-Colic Philips Avent SCY119/19 125ml + 260ml + 330ml Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/71umIjQd52L._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CKPQWL9V?tag=malica09-20",
-    "atualizado_em": "2026-10-10T13:01:14.424-03:00"
-  },
-  {
-    "id": "amazon:B07Z9SRGSK",
-    "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
-    "imagem": "https://m.media-amazon.com/images/I/51uaIj3cogL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=malica09-20",
-    "atualizado_em": "2026-10-10T12:56:09.434-03:00"
   }
 ]
