@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27051169",
+    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
+    "preco": 96.01,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WN2eJH",
+    "atualizado_em": "2026-10-11T21:27:51.764-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25997831",
     "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
@@ -3038,15 +3048,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7AeCkEah7W",
     "atualizado_em": "2026-10-10T09:31:20.866-03:00"
-  },
-  {
-    "id": "amazon:B0FR5GNJDB",
-    "titulo": "Oferta para Membros Prime: Smartphone Motorola Moto g06-128GB 12GB (4GB RAM + 8GB Ram Boost) e Camera 50MP com AI Bateria de 5200 mAh Tela 6.9\" - Laranja",
-    "imagem": "https://m.media-amazon.com/images/I/51FCuOjQjWL._AC_SL1500_.jpg",
-    "preco": 666,
-    "preco_anterior": 999,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=malica09-20",
-    "atualizado_em": "2026-10-10T09:26:15.545-03:00"
   }
 ]
