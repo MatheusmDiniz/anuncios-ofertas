@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07QK7SBV9",
+    "titulo": "OMO Roupas Finas E Delicadas - Sabão Líquido Coco 900Ml : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/61qUjLKdy4L._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07QK7SBV9?tag=malica09-20",
+    "atualizado_em": "2026-10-12T11:15:43.137-03:00"
+  },
+  {
     "id": "amazon:B07MLMGNLB",
     "titulo": "Neslac Composto Lácteo Supreme 800G",
     "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
