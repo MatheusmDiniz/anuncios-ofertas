@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B001EQBJ40",
+    "titulo": "Granado Shampoo Bebê, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/51GHZqe035L._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B001EQBJ40?tag=malica09-20",
+    "atualizado_em": "2026-10-12T11:46:11.952-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72860329",
     "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
