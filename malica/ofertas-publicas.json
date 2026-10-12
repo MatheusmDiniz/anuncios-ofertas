@@ -2418,35 +2418,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6526109268?tag=malica09-20",
     "atualizado_em": "2026-10-10T15:24:12.018-03:00"
-  },
-  {
-    "id": "amazon:B0GW3TH25S",
-    "titulo": "Oferta para Membros Prime: Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
-    "preco": 97,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:19:07.738-03:00"
-  },
-  {
-    "id": "amazon:B0979VS2JH",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SL1500_.jpg",
-    "preco": 46,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:14:03.214-03:00"
-  },
-  {
-    "id": "amazon:B07XTFT7G1",
-    "titulo": "Achocolatado ALPINO® 1Kg",
-    "imagem": "https://m.media-amazon.com/images/I/61jxtgjckmL._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=malica09-20",
-    "atualizado_em": "2026-10-10T15:08:58.444-03:00"
   }
 ]
