@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B073ZGK2JV",
+    "titulo": "Mustela Bálsamo Peitoral Reconfortante 40 ml, Mustela Bebê, Azul, 40 ml",
+    "imagem": "https://m.media-amazon.com/images/I/41nBYv6T-mS._AC_SL1500_.jpg",
+    "preco": 74,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B073ZGK2JV?tag=malica09-20",
+    "atualizado_em": "2026-10-12T12:52:27.021-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB30165309",
     "titulo": "Conjunto Piscina Glam Com Boneca Barbie Com Maiô Rosa Multicolor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706830-MLA99544928706_122025-F.jpg",
