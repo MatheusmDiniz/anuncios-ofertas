@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CFQWV95",
+    "titulo": "Fralda Babysec Ultrasec Galinha Pintadinha, P, 28 unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61tFNhGK9pL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CFQWV95?tag=malica09-20",
+    "atualizado_em": "2026-10-12T09:22:57.592-03:00"
+  },
+  {
     "id": "shopee:1598306900.48965507092",
     "titulo": "Mini Mochila Infantil Feminina com Glitter Alça Rosa para Meninas 2 a 6 Anos Laço Bolso Frontal + Chaveiro Pompom",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mriry7i7xwxydc",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20w4AWPllR",
     "atualizado_em": "2026-10-10T21:23:54.921-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38303632",
-    "titulo": "Mochila Maternidade The Land Cor Cinza com Bege - 38cm",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807133-MLA99502984234_112025-F.jpg",
-    "preco": 156,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1JSFNvc",
-    "atualizado_em": "2026-10-10T21:18:49.063-03:00"
   }
 ]
