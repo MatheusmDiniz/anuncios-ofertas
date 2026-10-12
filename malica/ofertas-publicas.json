@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MLMGNLB",
+    "titulo": "Neslac Composto Lácteo Supreme 800G",
+    "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
+    "preco": 62,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MLMGNLB?tag=malica09-20",
+    "atualizado_em": "2026-10-12T11:10:38.604-03:00"
+  },
+  {
     "id": "amazon:B0GHP6DWBN",
     "titulo": "Oferta para Membros Prime: Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
     "imagem": "https://m.media-amazon.com/images/I/61dNZC++zNL._AC_SL1500_.jpg",
