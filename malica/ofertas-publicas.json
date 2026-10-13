@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45072765",
+    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
+    "preco": 171,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28PyR9t",
+    "atualizado_em": "2026-10-13T09:58:39.673-03:00"
+  },
+  {
     "id": "shopee:389315825.20498512240",
     "titulo": "Cadeira Para Auto 0-36 Kg Mass Preta Litet - BB456",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv8xe4u0mjyn59",
@@ -1828,15 +1838,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ftkkPg",
     "atualizado_em": "2026-10-12T08:01:19.814-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58145183",
-    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730625-MLA116852295949_082026-F.jpg",
-    "preco": 623.69,
-    "preco_anterior": 1579.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1QkDLAr",
-    "atualizado_em": "2026-10-11T21:58:37.235-03:00"
   }
 ]
