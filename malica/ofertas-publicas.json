@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YP163DD",
+    "titulo": "Buba Toys Bicicleta de Equilibrio - 4 Rodas, Azul, Pequeno, 13516 : Amazon.com.br: Esporte",
+    "imagem": "https://m.media-amazon.com/images/I/51YQ6uX9w5L._AC_SL1500_.jpg",
+    "preco": 171,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YP163DD?tag=malica09-20",
+    "atualizado_em": "2026-10-13T16:29:16.540-03:00"
+  },
+  {
     "id": "shopee:238412076.11380435890",
     "titulo": "Conjunto Social Para Bebe Menino Recém Nascido a 05 Meses Casamento",
     "imagem": "https://cf.shopee.com.br/file/0dcd8c5ca566a001ad15f235bdb24705",
