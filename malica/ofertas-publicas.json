@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:396723953.48056685219",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3VkzvtiHQZ",
+    "atualizado_em": "2026-10-13T08:41:24.283-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68345229",
     "titulo": "Bicicleta De Equilibrio Com Luz Azul, Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_744878-MLA109767384558_042026-F.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2S32iHA",
     "atualizado_em": "2026-10-11T20:41:50.340-03:00"
-  },
-  {
-    "id": "shopee:1614098311.58214797607",
-    "titulo": "Kit 3 Camisetas Infantil Masculina Estampadas Frete Rápido Básica",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mqz698iptiis8b",
-    "preco": 45,
-    "preco_anterior": 100,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2BFZ9oZyO9",
-    "atualizado_em": "2026-10-11T20:36:43.746-03:00"
   }
 ]
