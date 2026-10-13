@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0HBRPYMQN",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61DVlVQZn-L._AC_SL1500_.jpg",
+    "preco": 31.49,
+    "preco_anterior": 44.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=malica09-20",
+    "atualizado_em": "2026-10-13T09:27:38.702-03:00"
+  },
+  {
     "id": "shopee:321115312.22392476232",
     "titulo": "kit com 10 Calcinha infantil Kids",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyv86epysgb9de",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1WN2eJH",
     "atualizado_em": "2026-10-11T21:27:51.764-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25997831",
-    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
-    "preco": 85.99,
-    "preco_anterior": 144.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2X546Yw",
-    "atualizado_em": "2026-10-11T21:22:44.283-03:00"
   }
 ]
