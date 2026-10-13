@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08LK15F8N",
+    "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
+    "imagem": "https://m.media-amazon.com/images/I/51EXy5ZJQSL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
+    "atualizado_em": "2026-10-13T11:51:12.205-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26234856",
     "titulo": "Totokinha Cardoso Toys Carrinho Andador Triciclo Menino Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_705389-MLA118512524509_092026-F.jpg",
