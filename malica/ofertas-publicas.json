@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1099182727.23093251933",
+    "titulo": "TENIS INFANTIL BOX200 SKATE RODINHA CALCE FACIL PRONTA ENTREGA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8w72tc1d7ax2b",
+    "preco": 149.9,
+    "preco_anterior": 249.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/40hFJyxsA6",
+    "atualizado_em": "2026-10-12T21:36:57.578-03:00"
+  },
+  {
     "id": "shopee:1843579115.58265506431",
     "titulo": "Jaleco Infantil Unissex Oxford Branco Manga Longa",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-ms0c0nxxasjobf",
@@ -2998,15 +3008,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNn8syUgV",
     "atualizado_em": "2026-10-11T09:40:43.424-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61922175",
-    "titulo": "Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_740155-MLA97653162409_112025-F.jpg",
-    "preco": 74,
-    "preco_anterior": 149.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19aCMdn",
-    "atualizado_em": "2026-10-11T09:35:38.366-03:00"
   }
 ]
