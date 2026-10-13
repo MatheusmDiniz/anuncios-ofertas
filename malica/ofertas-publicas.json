@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08QG3H6YR",
+    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
+    "atualizado_em": "2026-10-13T11:40:58.751-03:00"
+  },
+  {
     "id": "amazon:B0DHSHNWMX",
     "titulo": "Buba, Gel Para Aliviar a Febre",
     "imagem": "https://m.media-amazon.com/images/I/61dbYxMz3HL._AC_SL1500_.jpg",
