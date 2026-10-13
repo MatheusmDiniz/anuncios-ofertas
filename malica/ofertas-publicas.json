@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23738902",
+    "titulo": "Banheira Plástica Para Bebê Premium com Trocador Galzerano",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_913670-MLA95670010754_102025-F.jpg",
+    "preco": 535,
+    "preco_anterior": 956.19,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2A18177",
+    "atualizado_em": "2026-10-13T14:50:50.736-03:00"
+  },
+  {
     "id": "amazon:B07MBTSMM8",
     "titulo": "Neslac Comfor - Composto Lácteo, 800g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/815GVNMYL7L._AC_SL1500_.jpg",
