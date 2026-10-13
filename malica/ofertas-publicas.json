@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09WG452T1",
+    "titulo": "Lillo Canguru 3 Em 1 : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/71Wv66RWfSL._AC_SL1500_.jpg",
+    "preco": 111,
+    "preco_anterior": 239,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09WG452T1?tag=malica09-20",
+    "atualizado_em": "2026-10-13T17:57:04.880-03:00"
+  },
+  {
     "id": "shopee:1590063220.58207147029",
     "titulo": "Kit 2 Talco Para Bebe Com Amido De Milho 200g - Pom Pom",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlz39myktjife3",
