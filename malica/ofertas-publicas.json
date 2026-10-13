@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JXP4NFR",
+    "titulo": "Buba Garrafinha De Aluminio Animal Fun Macaco Colorido",
+    "imagem": "https://m.media-amazon.com/images/I/51I9KBS9ALL._AC_SL1500_.jpg",
+    "preco": 38.42,
+    "preco_anterior": 70.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JXP4NFR?tag=malica09-20",
+    "atualizado_em": "2026-10-13T09:17:28.893-03:00"
+  },
+  {
     "id": "shopee:478697224.20297809121",
     "titulo": "Babá Eletrônica com Monitor Visão Noturna Áudio Bidirecional Sensor de Temperatura Monitor Infantil Digital",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdy3-lzz9htfiwbq2dc",
@@ -1838,15 +1848,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VOYJfDVKK",
     "atualizado_em": "2026-10-11T21:17:37.401-03:00"
-  },
-  {
-    "id": "shopee:382759839.23997651015",
-    "titulo": "Body Bebe Menina Recem Nascido Gola Bordada",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly0d61dze7y737",
-    "preco": 24.95,
-    "preco_anterior": 49.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6L587MinaC",
-    "atualizado_em": "2026-10-11T21:12:32.928-03:00"
   }
 ]
