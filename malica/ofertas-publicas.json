@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1853509573.45164255494",
+    "titulo": "Brinquedo de pelúcia sensorial de música interativa de morango Banana, toque corporal pode ativar som e melodia, respond",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258g-mr8lt6k2ocn8fe",
+    "preco": 29.79,
+    "preco_anterior": 60.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4LK6BhOhci",
+    "atualizado_em": "2026-10-12T21:26:47.155-03:00"
+  },
+  {
     "id": "shopee:331533821.56260449744",
     "titulo": "Cozinha Infantil Grande Com Geladeira Completa 92 CM Sai Água de Verdade Fruteira Forno Fogão Rosa",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-moio6hr8l8uea9",
@@ -2998,15 +3008,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qVFx2XR2D",
     "atualizado_em": "2026-10-11T09:30:31.190-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63962761",
-    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 219.8,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2SJwgA7",
-    "atualizado_em": "2026-10-11T09:25:25.701-03:00"
   }
 ]
