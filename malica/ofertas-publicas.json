@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KXW911",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71gXkKF1aPL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KXW911?tag=malica09-20",
+    "atualizado_em": "2026-10-13T08:00:27.359-03:00"
+  },
+  {
     "id": "shopee:502621376.58266509629",
     "titulo": "Mochila Infantil Pequena Fofa Menino e Menina para Creche Passeio",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-ms30wjdef01u18",
@@ -1838,25 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2c9fCGu",
     "atualizado_em": "2026-10-11T20:00:46.198-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42639818",
-    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
-    "preco": 489.9,
-    "preco_anterior": 999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/25gcb2g",
-    "atualizado_em": "2026-10-11T19:55:39.399-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45962977",
-    "titulo": "Berço 3 em 1 Americano Vira Cama Slim Com Colchão E Grade Removível Pés em Madeira Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_634431-MLA112305187234_062026-F.jpg",
-    "preco": 499,
-    "preco_anterior": 899,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1RN8jYz",
-    "atualizado_em": "2026-10-11T19:50:32.806-03:00"
   }
 ]
