@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0942FC8WW",
+    "titulo": "Caneta Ponta Pincel Faber-Castell Supersoft Brush 20 cores",
+    "imagem": "https://m.media-amazon.com/images/I/61nhTi3sGUL._AC_SL1500_.jpg",
+    "preco": 78,
+    "preco_anterior": 121,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0942FC8WW?tag=malica09-20",
+    "atualizado_em": "2026-10-13T14:25:17.219-03:00"
+  },
+  {
     "id": "amazon:B07DT3GB6C",
     "titulo": "Talco Cremoso 120Ml, Giby, Amarelo",
     "imagem": "https://m.media-amazon.com/images/I/41PwZCcdOLL._AC_SL1500_.jpg",
