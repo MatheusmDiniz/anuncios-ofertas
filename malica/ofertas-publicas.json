@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPD9JB1F",
+    "titulo": "Travel System Cosco Kids, Toffy Trio, 0 a 15kg, Rosa Listras",
+    "imagem": "https://m.media-amazon.com/images/I/61N7B+rC77L._AC_SL1500_.jpg",
+    "preco": 771,
+    "preco_anterior": 1073,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPD9JB1F?tag=malica09-20",
+    "atualizado_em": "2026-10-13T10:55:15.891-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26382771",
     "titulo": "Cozinha Infantil De Brinquedo Completa Sai Água + Acessórios Cor Roxo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_679641-MLA99933602093_112025-F.jpg",
