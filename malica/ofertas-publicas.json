@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:319034520.21271819518",
+    "titulo": "Calça jeans wide leg  com desenho estilo pantalona infantil juvenil 10 aos 16",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9qlugmqwf95cb",
+    "preco": 49.99,
+    "preco_anterior": 81.95,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3g4POSVuGx",
+    "atualizado_em": "2026-10-13T09:02:13.031-03:00"
+  },
+  {
     "id": "amazon:B0FBC2GVT1",
     "titulo": "Huggies Fralda Descartável Premium Natural Care G - 66 Un",
     "imagem": "https://m.media-amazon.com/images/I/717VS0CG+lL._AC_SL1500_.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kcq47v",
     "atualizado_em": "2026-10-11T21:02:16.078-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58575202",
-    "titulo": "Banheira Dobrável Yuupi YPB188 com Suporte, Termômetro e Almofada 40L Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891160-MLA99450372686_112025-F.jpg",
-    "preco": 423.34,
-    "preco_anterior": 729.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/29c3xk2",
-    "atualizado_em": "2026-10-11T20:57:08.671-03:00"
   }
 ]
