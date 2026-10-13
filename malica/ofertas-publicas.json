@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16091842",
+    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZqdnYS",
+    "atualizado_em": "2026-10-13T08:25:56.559-03:00"
+  },
+  {
     "id": "amazon:B072MTS8VQ",
     "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
     "imagem": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SL1500_.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2qanfLg",
     "atualizado_em": "2026-10-11T20:26:28.714-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62315926",
-    "titulo": "Protetor de Banco TT Safety 1st, Black",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602781-MLA98307653432_112025-F.jpg",
-    "preco": 101,
-    "preco_anterior": 183.5,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WDwZLb",
-    "atualizado_em": "2026-10-11T20:21:21.540-03:00"
   }
 ]
