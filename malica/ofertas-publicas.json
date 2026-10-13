@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DHSHNWMX",
+    "titulo": "Buba, Gel Para Aliviar a Febre",
+    "imagem": "https://m.media-amazon.com/images/I/61dbYxMz3HL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=malica09-20",
+    "atualizado_em": "2026-10-13T11:35:55.273-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP6M",
     "titulo": "Huggies Fralda Tripla Proteção M 92 Un",
     "imagem": "https://m.media-amazon.com/images/I/61AXIQYKP4L._AC_SL1500_.jpg",
