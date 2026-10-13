@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1478327279.58208858765",
+    "titulo": "Galocha Infantil Feminina Impermeável Leve Confortável",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mt4bqwsffnk75c",
+    "preco": 35.9,
+    "preco_anterior": 119.67,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8fT6vGsA1y",
+    "atualizado_em": "2026-10-13T20:52:59.298-03:00"
+  },
+  {
     "id": "shopee:467796960.2972045294",
     "titulo": "Kit 36 peças Roupas de bebe enxoval maternidade Menino ou Menina Body + Mijão /Calça",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-moiytk6k4cg673",
@@ -2948,15 +2958,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VOZujeMmE",
     "atualizado_em": "2026-10-12T08:57:23.189-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24820639",
-    "titulo": "Triciclo Cardoso Totokinha Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742209-MLA95937453019_102025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 222.93,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kiJy46",
-    "atualizado_em": "2026-10-12T08:52:18.181-03:00"
   }
 ]
