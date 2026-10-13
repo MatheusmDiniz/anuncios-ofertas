@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07XTJJR2J",
+    "titulo": "Molico Leite Em Pó Desnatado Total Cálcio 500G",
+    "imagem": "https://m.media-amazon.com/images/I/8135fs36LQL._AC_SL1500_.jpg",
+    "preco": 27,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07XTJJR2J?tag=malica09-20",
+    "atualizado_em": "2026-10-13T11:15:38.506-03:00"
+  },
+  {
     "id": "amazon:B088P95YRD",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
