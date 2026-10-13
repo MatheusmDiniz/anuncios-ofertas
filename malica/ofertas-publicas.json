@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CBL2H3M",
+    "titulo": "Estrela, Jogo Tapa Certo | Para 5 Anos ou Mais, Inclui Mãozinhas, Cartas Redondas, Tema de Animais, Jogo em Família",
+    "imagem": "https://m.media-amazon.com/images/I/619Vr4UzwqL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CBL2H3M?tag=malica09-20",
+    "atualizado_em": "2026-10-13T13:44:13.240-03:00"
+  },
+  {
     "id": "amazon:B08HTGRMD3",
     "titulo": "Fralda Pampers Splashers Para Nadar Baby Shark Tamanho XG 10 Unidades : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/716wdYVdlgL._AC_SL1500_.jpg",
