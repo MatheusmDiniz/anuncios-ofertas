@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1732533715.58257671452",
+    "titulo": "Conjunto Infantil Esportivo + Meião Infantil",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mr67z9h2hmvb62",
+    "preco": 59.9,
+    "preco_anterior": 89.4,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/20w8xOUdT8",
+    "atualizado_em": "2026-10-13T20:09:26.899-03:00"
+  },
+  {
     "id": "shopee:1647602386.58259432734",
     "titulo": "Macacão Fleece Orelhinha Capuz Bebê Inverno Quentinho Recém Nascido 0 a 12 Meses Menino E Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqsioemvu9s2fe",
@@ -2978,15 +2988,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1pF34v1",
     "atualizado_em": "2026-10-12T08:11:30.107-03:00"
-  },
-  {
-    "id": "amazon:B0GW4633WC",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG (14-18 kg), 74 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/615gRwrCRQL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW4633WC?tag=malica09-20",
-    "atualizado_em": "2026-10-12T08:06:24.013-03:00"
   }
 ]
