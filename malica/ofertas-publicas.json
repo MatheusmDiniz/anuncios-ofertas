@@ -2408,35 +2408,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B077PZ6L7C?tag=malica09-20",
     "atualizado_em": "2026-10-11T15:08:59.027-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB49127997",
-    "titulo": "Boneca Emilly Vick Dos Rosa Youtuber Vinil 25cm Baby Brink Original",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_856689-MLA100972624311_122025-F.jpg",
-    "preco": 147.56,
-    "preco_anterior": 327.92,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2rJipjp",
-    "atualizado_em": "2026-10-11T15:03:30.151-03:00"
-  },
-  {
-    "id": "amazon:B0DJ17HW5V",
-    "titulo": "LEGO Friends Caminhão de Sorvete de Heartlake City 42644",
-    "imagem": "https://m.media-amazon.com/images/I/81mx0VlX1AL._AC_SL1500_.jpg",
-    "preco": 105,
-    "preco_anterior": 179,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ17HW5V?tag=malica09-20",
-    "atualizado_em": "2026-10-11T14:58:22.106-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 94.5,
-    "preco_anterior": 189,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24qHDwo",
-    "atualizado_em": "2026-10-11T14:53:17.700-03:00"
   }
 ]
