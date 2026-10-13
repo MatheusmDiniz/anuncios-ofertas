@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHSFWBL",
+    "titulo": "Lenços Umedecidos Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61jnuVSAOfL._AC_SL1500_.jpg",
+    "preco": 9,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHSFWBL?tag=malica09-20",
+    "atualizado_em": "2026-10-13T15:53:19.227-03:00"
+  },
+  {
     "id": "amazon:B0D6BXNRZQ",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61Uo03QkQ6L._AC_SL1500_.jpg",
