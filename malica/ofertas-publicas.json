@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBBWQB4G",
+    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
+    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
+    "preco": 94,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
+    "atualizado_em": "2026-10-13T08:10:37.928-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66595119",
     "titulo": "Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_659154-MLA107901202678_032026-F.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60SHikFPLH",
     "atualizado_em": "2026-10-11T20:11:06.720-03:00"
-  },
-  {
-    "id": "shopee:580787446.27945255322",
-    "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
-    "preco": 46.4,
-    "preco_anterior": 110.48,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4qGKKboVcZ",
-    "atualizado_em": "2026-10-11T20:05:52.603-03:00"
   }
 ]
