@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.52156184789",
+    "titulo": "Escolha Seu Macacão Bebe Menina Roupa Inverno Soft Peluciado Com Zíper Quentinho Confortável Panda, Ursinho, Florido L09",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mko8utap0t1d2b",
+    "preco": 29.9,
+    "preco_anterior": 69.53,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1BN59brAAL",
+    "atualizado_em": "2026-10-13T20:24:51.462-03:00"
+  },
+  {
     "id": "amazon:B0B9D2JNCZ",
     "titulo": "Cosco Kids, Booster Clippy, até 36kg, Cinza",
     "imagem": "https://m.media-amazon.com/images/I/51DClRhIcpL._AC_SL1500_.jpg",
@@ -2978,15 +2988,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40hDL4rgJS",
     "atualizado_em": "2026-10-12T08:26:45.564-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21006188",
-    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
-    "preco": 196.47,
-    "preco_anterior": 346.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/27sfskB",
-    "atualizado_em": "2026-10-12T08:21:41.166-03:00"
   }
 ]
