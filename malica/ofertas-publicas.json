@@ -2618,35 +2618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2prT1Tt",
     "atualizado_em": "2026-10-11T13:21:26.056-03:00"
-  },
-  {
-    "id": "amazon:B0964S52NM",
-    "titulo": "Leite em Pó Integral Ninho 380g",
-    "imagem": "https://m.media-amazon.com/images/I/81bh9m+Fm0L._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0964S52NM?tag=malica09-20",
-    "atualizado_em": "2026-10-11T13:16:19.727-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB21283759",
-    "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
-    "preco": 209.85,
-    "preco_anterior": 392.53,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2heMSHE",
-    "atualizado_em": "2026-10-11T13:10:50.291-03:00"
-  },
-  {
-    "id": "amazon:B00CTH0A1Q",
-    "titulo": "Oferta: Kit de Cartas UNO Clássico Mattel com 108 7 Anos ou Mai, Multicolorido",
-    "imagem": "https://m.media-amazon.com/images/I/71yJ6Tu7+zL._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00CTH0A1Q?tag=malica09-20",
-    "atualizado_em": "2026-10-11T13:05:43.120-03:00"
   }
 ]
