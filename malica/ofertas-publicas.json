@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1692649392.23794965742",
+    "titulo": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mma3xkky1vk584",
+    "preco": 27.89,
+    "preco_anterior": 60.63,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3qNpRIiD5a",
+    "atualizado_em": "2026-10-13T09:32:43.991-03:00"
+  },
+  {
     "id": "amazon:B0HBRPYMQN",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61DVlVQZn-L._AC_SL1500_.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26CTJJv",
     "atualizado_em": "2026-10-11T21:32:59.612-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27051169",
-    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
-    "preco": 96.01,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1WN2eJH",
-    "atualizado_em": "2026-10-11T21:27:51.764-03:00"
   }
 ]
