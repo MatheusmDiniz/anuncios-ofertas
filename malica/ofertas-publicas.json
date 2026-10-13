@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G2T18VCZ",
+    "titulo": "LEGO Minecraft O Dragão Ender 21595",
+    "imagem": "https://m.media-amazon.com/images/I/81y8ioIqBUL._AC_SL1500_.jpg",
+    "preco": 376,
+    "preco_anterior": 499,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G2T18VCZ?tag=malica09-20",
+    "atualizado_em": "2026-10-13T14:04:33.181-03:00"
+  },
+  {
     "id": "amazon:B0C3FQQVLH",
     "titulo": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61z8aeVGdpL._AC_SL1500_.jpg",
