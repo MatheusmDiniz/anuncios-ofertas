@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:344410462.23232308359",
+    "titulo": "Colchão Carrinho Moises Colchonete Fronha 100% Algodão Menino Menina Neutro Confortável",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn0j8cs7w7b4fe",
+    "preco": 20.73,
+    "preco_anterior": 37.02,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1BN4PuR9Q2",
+    "atualizado_em": "2026-10-12T21:47:09.130-03:00"
+  },
+  {
     "id": "shopee:230709939.54611442359",
     "titulo": "Brinquedo Super Macio e Lento de Apertar com Aroma de Manteiga, Presente de Natal para Alívio do Estresse",
     "imagem": "https://cf.shopee.com.br/file/sg-11134253-823pq-movih93bd4p8b4",
@@ -2998,15 +3008,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9zyQUE1D5Q",
     "atualizado_em": "2026-10-11T09:50:55.564-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40861843",
-    "titulo": "Tapete De Atividades Baby Com Play Piano Baleia Azul - Interativo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742602-MLA96134695877_102025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 189.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2EEMhRs",
-    "atualizado_em": "2026-10-11T09:45:51.037-03:00"
   }
 ]
