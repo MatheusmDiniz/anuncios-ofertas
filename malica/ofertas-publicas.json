@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GQ136TS",
+    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
+    "preco": 54,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
+    "atualizado_em": "2026-10-13T11:25:46.430-03:00"
+  },
+  {
     "id": "amazon:B07QVTFKL6",
     "titulo": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617zmUT1myL._AC_SL1500_.jpg",
