@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26851070",
+    "titulo": "Banheira Infantil Burigotto Splash 10 L, Suporte e Redutor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
+    "preco": 239,
+    "preco_anterior": 510,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZobV6E",
+    "atualizado_em": "2026-10-13T08:15:44.501-03:00"
+  },
+  {
     "id": "amazon:B0FBBWQB4G",
     "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
     "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2uiuBZ6",
     "atualizado_em": "2026-10-11T20:16:14.260-03:00"
-  },
-  {
-    "id": "shopee:1017646777.21899901744",
-    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
-    "preco": 126.98,
-    "preco_anterior": 198.41,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60SHikFPLH",
-    "atualizado_em": "2026-10-11T20:11:06.720-03:00"
   }
 ]
