@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093RCP1K4",
+    "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/61RtvUJd1kL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093RCP1K4?tag=malica09-20",
+    "atualizado_em": "2026-10-13T12:53:12.099-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46014518",
     "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
