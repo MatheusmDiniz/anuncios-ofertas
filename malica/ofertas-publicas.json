@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:432628853.58208814983",
+    "titulo": "Capa de Chuva Infantil Adulto Com Capuz Botão Material Impermeável Colorida e Galaxy Transparente",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mn0lrmed11qa1f",
+    "preco": 14.9,
+    "preco_anterior": 29.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fpUW2rzNE",
+    "atualizado_em": "2026-10-13T09:43:21.562-03:00"
+  },
+  {
     "id": "amazon:B07X5KWJK9",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61E4OFmEC+L._AC_SL1500_.jpg",
@@ -1828,15 +1838,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1mS3aoG",
     "atualizado_em": "2026-10-11T21:48:21.504-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61271206",
-    "titulo": "Lego 77256 Máquina Do Tempo De Volta Para O Futuro 357 Pcs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_874647-MLA95977700870_102025-F.jpg",
-    "preco": 293.25,
-    "preco_anterior": 691.36,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vW9SAC",
-    "atualizado_em": "2026-10-11T21:43:14.208-03:00"
   }
 ]
