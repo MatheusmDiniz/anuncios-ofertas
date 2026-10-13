@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BXV3STFF",
+    "titulo": "OAZ Gel Pós-Sol Infantil Bob Esponja 120ml : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/61XrWUrxTUL._AC_SL1500_.jpg",
+    "preco": 16,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BXV3STFF?tag=malica09-20",
+    "atualizado_em": "2026-10-13T20:31:31.540-03:00"
+  },
+  {
     "id": "shopee:341167297.52156184789",
     "titulo": "Escolha Seu Macacão Bebe Menina Roupa Inverno Soft Peluciado Com Zíper Quentinho Confortável Panda, Ursinho, Florido L09",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztp-mko8utap0t1d2b",
@@ -2978,15 +2988,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Y1e47i",
     "atualizado_em": "2026-10-12T08:31:53.434-03:00"
-  },
-  {
-    "id": "shopee:523113851.58266912827",
-    "titulo": "Body Bebê Presidente Brasil Mesversário Temático Infantil",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ls-msboazyb7wnb46",
-    "preco": 19.44,
-    "preco_anterior": 29.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/40hDL4rgJS",
-    "atualizado_em": "2026-10-12T08:26:45.564-03:00"
   }
 ]
