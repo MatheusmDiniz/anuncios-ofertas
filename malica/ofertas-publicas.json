@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555474890",
+    "titulo": "Meu Primeiro Livro - Cores",
+    "imagem": "https://m.media-amazon.com/images/I/812w2AeIjwL._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555474890?tag=malica09-20",
+    "atualizado_em": "2026-10-13T14:30:22.694-03:00"
+  },
+  {
     "id": "amazon:B0942FC8WW",
     "titulo": "Caneta Ponta Pincel Faber-Castell Supersoft Brush 20 cores",
     "imagem": "https://m.media-amazon.com/images/I/61nhTi3sGUL._AC_SL1500_.jpg",
