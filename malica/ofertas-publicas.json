@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23797606",
+    "titulo": "Canguru Safety 1st, Freedom, Grey",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_657447-MLA93090104350_092025-F.jpg",
+    "preco": 232.92,
+    "preco_anterior": 399,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qQM4WG",
+    "atualizado_em": "2026-10-13T16:34:24.588-03:00"
+  },
+  {
     "id": "amazon:B08YP163DD",
     "titulo": "Buba Toys Bicicleta de Equilibrio - 4 Rodas, Azul, Pequeno, 13516 : Amazon.com.br: Esporte",
     "imagem": "https://m.media-amazon.com/images/I/51YQ6uX9w5L._AC_SL1500_.jpg",
