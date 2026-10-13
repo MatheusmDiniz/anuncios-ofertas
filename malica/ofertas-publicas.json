@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0789SHBRL",
+    "titulo": "BUBA Mictorio Inf. Sapinho Verde, Verde",
+    "imagem": "https://m.media-amazon.com/images/I/51IwFAReIlL._AC_SL1500_.jpg",
+    "preco": 38,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0789SHBRL?tag=malica09-20",
+    "atualizado_em": "2026-10-13T12:37:29.200-03:00"
+  },
+  {
     "id": "amazon:B00TQCAAQW",
     "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
     "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
