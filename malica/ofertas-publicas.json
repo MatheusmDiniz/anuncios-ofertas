@@ -2798,25 +2798,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C3FK76V3?tag=malica09-20",
     "atualizado_em": "2026-10-11T11:48:56.204-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76312234",
-    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
-    "preco": 155.1,
-    "preco_anterior": 319.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jXU5Dp",
-    "atualizado_em": "2026-10-11T11:43:25.803-03:00"
-  },
-  {
-    "id": "amazon:B093GBK61Q",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71ncta4HE2L._AC_SL1500_.jpg",
-    "preco": 32.58,
-    "preco_anterior": 50.29,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=malica09-20",
-    "atualizado_em": "2026-10-11T11:38:18.788-03:00"
   }
 ]
