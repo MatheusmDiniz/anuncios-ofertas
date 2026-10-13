@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66595119",
+    "titulo": "Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659154-MLA107901202678_032026-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 189.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xo8gb8",
+    "atualizado_em": "2026-10-13T08:05:34.510-03:00"
+  },
+  {
     "id": "amazon:B099KXW911",
     "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71gXkKF1aPL._AC_SL1500_.jpg",
