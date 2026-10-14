@@ -2808,35 +2808,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DLJF5TVJ?tag=malica09-20",
     "atualizado_em": "2026-10-12T11:20:48.036-03:00"
-  },
-  {
-    "id": "amazon:B07QK7SBV9",
-    "titulo": "OMO Roupas Finas E Delicadas - Sabão Líquido Coco 900Ml : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/61qUjLKdy4L._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07QK7SBV9?tag=malica09-20",
-    "atualizado_em": "2026-10-12T11:15:43.137-03:00"
-  },
-  {
-    "id": "amazon:B07MLMGNLB",
-    "titulo": "Neslac Composto Lácteo Supreme 800G",
-    "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
-    "preco": 62,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MLMGNLB?tag=malica09-20",
-    "atualizado_em": "2026-10-12T11:10:38.604-03:00"
-  },
-  {
-    "id": "amazon:B0GHP6DWBN",
-    "titulo": "Oferta para Membros Prime: Oikos - Lixeira Antiodor Bebê para Fraldas 10L",
-    "imagem": "https://m.media-amazon.com/images/I/61dNZC++zNL._AC_SL1500_.jpg",
-    "preco": 123.4,
-    "preco_anterior": 179.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=malica09-20",
-    "atualizado_em": "2026-10-12T11:05:33.963-03:00"
   }
 ]
