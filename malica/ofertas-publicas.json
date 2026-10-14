@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00BWKNOGE",
+    "titulo": "Tartaruga de Empurrar Brinquedo Bebês Fisher-Price",
+    "imagem": "https://m.media-amazon.com/images/I/51-yUOFPWzL._AC_SL1500_.jpg",
+    "preco": 53,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00BWKNOGE?tag=malica09-20",
+    "atualizado_em": "2026-10-14T13:33:58.180-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56677151",
     "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
