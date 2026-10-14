@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB76312234",
+    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
+    "preco": 155.1,
+    "preco_anterior": 319.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1jXU5Dp",
+    "atualizado_em": "2026-10-14T12:37:24.003-03:00"
+  },
+  {
     "id": "amazon:B0BJ7ZDKR7",
     "titulo": "Fórmula Infantil: Aptabox Aptamil Premium 2 1,5 kg - 6-12 meses : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/615l8xNriDL._AC_SL1500_.jpg",
