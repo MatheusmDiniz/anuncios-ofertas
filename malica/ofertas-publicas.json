@@ -2038,35 +2038,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2cbnhvc",
     "atualizado_em": "2026-10-12T17:50:37.381-03:00"
-  },
-  {
-    "id": "amazon:B08QG5H9RD",
-    "titulo": "Fralda Huggies Tripla Proteção M - 42 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/51AkVFxlBQL._AC_SL1500_.jpg",
-    "preco": 41,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=malica09-20",
-    "atualizado_em": "2026-10-12T17:45:28.971-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34207405",
-    "titulo": "Buba Pop-up Brinquedo Infantil Pop-up Zoo Animais Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672818-MLA99945397375_112025-F.jpg",
-    "preco": 93,
-    "preco_anterior": 155.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/21iB9U1",
-    "atualizado_em": "2026-10-12T17:40:23.996-03:00"
-  },
-  {
-    "id": "amazon:B07DHS1MD2",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61OBGlobLML._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": 34,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=malica09-20",
-    "atualizado_em": "2026-10-12T17:35:16.666-03:00"
   }
 ]
