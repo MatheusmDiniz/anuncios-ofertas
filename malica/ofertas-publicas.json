@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H+B07X4GWDZY+B0DV734H3T",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 85,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-10-14T08:56:50.071-03:00"
+  },
+  {
     "id": "shopee:449984446.41062662183",
     "titulo": "Calça Pantalona Infantil Blogueirinha Tecido Canelado de Algodão Com Bolso Confortável e Macia",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mpxzhds7q58j55",
