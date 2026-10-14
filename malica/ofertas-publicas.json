@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FXN957HN",
+    "titulo": "Quadrados de Algodão Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
+    "preco": 27,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
+    "atualizado_em": "2026-10-14T10:18:41.489-03:00"
+  },
+  {
     "id": "shopee:1676334505.22194721623",
     "titulo": "Kit 3 Legging Infantil Estampada Algodão Tamanhos 1 ao 10",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-msftewocritie1",
