@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215255",
+    "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
+    "preco": 172.89,
+    "preco_anterior": 338,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2g3Sm5X",
+    "atualizado_em": "2026-10-14T08:15:51.295-03:00"
+  },
+  {
     "id": "amazon:B0CGY6WDHC",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
@@ -1778,15 +1788,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNn8lNek5",
     "atualizado_em": "2026-10-12T20:18:48.913-03:00"
-  },
-  {
-    "id": "shopee:352038204.3194400312",
-    "titulo": "Kit Bebê 3 Peças Body Regata Estampado Verão Menino Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbny5ihjhzyxab",
-    "preco": 29.52,
-    "preco_anterior": 57.88,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7VH7ULCtjq",
-    "atualizado_em": "2026-10-12T20:13:43.633-03:00"
   }
 ]
