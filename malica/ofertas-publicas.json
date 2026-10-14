@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09FFVMNFB",
+    "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71qWE66mi6L._AC_SL1500_.jpg",
+    "preco": 180,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=malica09-20",
+    "atualizado_em": "2026-10-14T20:14:50.457-03:00"
+  },
+  {
     "id": "shopee:548029260.58257405717",
     "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
@@ -2978,25 +2988,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZobV6E",
     "atualizado_em": "2026-10-13T08:15:44.501-03:00"
-  },
-  {
-    "id": "amazon:B0FBBWQB4G",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
-    "atualizado_em": "2026-10-13T08:10:37.928-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB66595119",
-    "titulo": "Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659154-MLA107901202678_032026-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 189.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xo8gb8",
-    "atualizado_em": "2026-10-13T08:05:34.510-03:00"
   }
 ]
