@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08T1TGVJZ",
+    "titulo": "Nerf, Lançador de Dardos, Elite 2.0, Commander RD-6 - Tambor Giratório",
+    "imagem": "https://m.media-amazon.com/images/I/61nDGm5ll5L._AC_SL1500_.jpg",
+    "preco": 73,
+    "preco_anterior": 179,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08T1TGVJZ?tag=malica09-20",
+    "atualizado_em": "2026-10-14T14:35:04.733-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21283759",
     "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
