@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB70094874",
+    "titulo": "Carrinho Boneca Berço Plus Estampa Bolas Dm Toys Dmt6501",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_965627-MLA112010174279_052026-F.jpg",
+    "preco": 99.99,
+    "preco_anterior": 190,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1NVpFNA",
+    "atualizado_em": "2026-10-14T13:39:05.471-03:00"
+  },
+  {
     "id": "amazon:B00BWKNOGE",
     "titulo": "Tartaruga de Empurrar Brinquedo Bebês Fisher-Price",
     "imagem": "https://m.media-amazon.com/images/I/51-yUOFPWzL._AC_SL1500_.jpg",
