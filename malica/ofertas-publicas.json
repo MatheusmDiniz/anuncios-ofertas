@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08K2YFNDW",
+    "titulo": "Oferta para Membros Prime: Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
+    "imagem": "https://m.media-amazon.com/images/I/81t37GPlaML._AC_SL1500_.jpg",
+    "preco": 1969,
+    "preco_anterior": 2990,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=malica09-20",
+    "atualizado_em": "2026-10-14T09:37:33.856-03:00"
+  },
+  {
     "id": "shopee:408631242.18597729501",
     "titulo": "Kit 2 Blusas de Lã Tricot Infantil Juvenil Masculino Inverno",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mts5j7wp296o24",
@@ -1828,15 +1838,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AtDBFlO3E",
     "atualizado_em": "2026-10-12T21:42:02.733-03:00"
-  },
-  {
-    "id": "shopee:1099182727.23093251933",
-    "titulo": "TENIS INFANTIL BOX200 SKATE RODINHA CALCE FACIL PRONTA ENTREGA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8w72tc1d7ax2b",
-    "preco": 149.9,
-    "preco_anterior": 249.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/40hFJyxsA6",
-    "atualizado_em": "2026-10-12T21:36:57.578-03:00"
   }
 ]
