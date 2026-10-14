@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW48RBS7",
+    "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71+tkckV3RL._AC_SL1500_.jpg",
+    "preco": 129,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
+    "atualizado_em": "2026-10-14T12:53:03.911-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26647118",
     "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
