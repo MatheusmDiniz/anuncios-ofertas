@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56104304",
+    "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
+    "preco": 132.62,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/11a9Z7t",
+    "atualizado_em": "2026-10-14T20:36:30.787-03:00"
+  },
+  {
     "id": "amazon:8537652105",
     "titulo": "Escolinha Baby Montessori Meu P. BOX p/ Descobrir: Animais",
     "imagem": "https://m.media-amazon.com/images/I/51koDBrFj2L._AC_SL1500_.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3VkzvtiHQZ",
     "atualizado_em": "2026-10-13T08:41:24.283-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68345229",
-    "titulo": "Bicicleta De Equilibrio Com Luz Azul, Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744878-MLA109767384558_042026-F.jpg",
-    "preco": 309.31,
-    "preco_anterior": 572,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1qkF4A7",
-    "atualizado_em": "2026-10-13T08:36:18.770-03:00"
   }
 ]
