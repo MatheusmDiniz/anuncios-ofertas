@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GZNWJ17",
+    "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+    "imagem": "https://m.media-amazon.com/images/I/818MarZ6OOL._AC_SL1500_.jpg",
+    "preco": 80.66,
+    "preco_anterior": 113.25,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=malica09-20",
+    "atualizado_em": "2026-10-14T16:08:16.501-03:00"
+  },
+  {
     "id": "amazon:B0CLH9BCWW",
     "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil Refil, 380ml",
     "imagem": "https://m.media-amazon.com/images/I/71l7t1PbwJL._AC_SL1500_.jpg",
