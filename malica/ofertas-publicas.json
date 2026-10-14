@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8537652105",
+    "titulo": "Escolinha Baby Montessori Meu P. BOX p/ Descobrir: Animais",
+    "imagem": "https://m.media-amazon.com/images/I/51koDBrFj2L._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": 59,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8537652105?tag=malica09-20",
+    "atualizado_em": "2026-10-14T20:31:24.178-03:00"
+  },
+  {
     "id": "amazon:B077BY8HQV",
     "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
     "imagem": "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1500_.jpg",
@@ -2958,35 +2968,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qkF4A7",
     "atualizado_em": "2026-10-13T08:36:18.770-03:00"
-  },
-  {
-    "id": "shopee:1241453684.58256027225",
-    "titulo": "CONJUNTO INFANTIL MENINA FRANZIDO SOLTINHO E CALÇA COM TECIDO ROSA DE POÁ DE CORAÇÃO FASHION",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mpnn3h9dr20w7b",
-    "preco": 39.9,
-    "preco_anterior": 249.37,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3LRWXqPYl0",
-    "atualizado_em": "2026-10-13T08:31:10.824-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16091842",
-    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 250,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZqdnYS",
-    "atualizado_em": "2026-10-13T08:25:56.559-03:00"
-  },
-  {
-    "id": "amazon:B072MTS8VQ",
-    "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml",
-    "imagem": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SL1500_.jpg",
-    "preco": 75,
-    "preco_anterior": 105,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B072MTS8VQ?tag=malica09-20",
-    "atualizado_em": "2026-10-13T08:20:48.736-03:00"
   }
 ]
