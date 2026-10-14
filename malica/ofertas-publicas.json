@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56341817",
+    "titulo": "Boné New Era 39thirty New York Yankees Fechado Mlb Preto Desenho Do Tecido Liso Tamanho Ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_757489-MLA95962489651_102025-F.jpg",
+    "preco": 119.7,
+    "preco_anterior": 229.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1eCxrw4",
+    "atualizado_em": "2026-10-13T21:59:28.826-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54207427",
     "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - CINZA",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_865878-MLA95693182272_102025-F.jpg",
@@ -2948,15 +2958,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2tjqGTg",
     "atualizado_em": "2026-10-12T10:04:07.661-03:00"
-  },
-  {
-    "id": "shopee:1360717076.22793967394",
-    "titulo": "Kit  Quebra Cabeças Educativos Infantil 3d Diy Feito À Mão Presente",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9g2lajue7g963",
-    "preco": 12.5,
-    "preco_anterior": 54.35,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7ptxVEGPWT",
-    "atualizado_em": "2026-10-12T09:59:00.406-03:00"
   }
 ]
