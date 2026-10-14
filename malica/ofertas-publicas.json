@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KTRZP7",
+    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
+    "atualizado_em": "2026-10-14T08:20:55.136-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215255",
     "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
