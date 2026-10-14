@@ -2838,35 +2838,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=malica09-20",
     "atualizado_em": "2026-10-12T11:05:33.963-03:00"
-  },
-  {
-    "id": "amazon:B0964FR2L8",
-    "titulo": "Burigotto Banheira Millenia, Azul Bebê",
-    "imagem": "https://m.media-amazon.com/images/I/51n45tDFfQS._AC_SL1500_.jpg",
-    "preco": 379.8,
-    "preco_anterior": 619.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0964FR2L8?tag=malica09-20",
-    "atualizado_em": "2026-10-12T11:00:04.609-03:00"
-  },
-  {
-    "id": "amazon:B07D2FKWBT",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
-    "atualizado_em": "2026-10-12T10:55:00.976-03:00"
-  },
-  {
-    "id": "shopee:1384480317.22894374244",
-    "titulo": "Bolsa De Silicone Infantil Criança Coelho",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mrz400y1nbpgb7",
-    "preco": 14.99,
-    "preco_anterior": 33.31,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60SJJpX4Dc",
-    "atualizado_em": "2026-10-12T10:49:57.430-03:00"
   }
 ]
