@@ -2688,35 +2688,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CNQ6X388?tag=malica09-20",
     "atualizado_em": "2026-10-12T12:21:55.189-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26764181",
-    "titulo": "Totokinha Menina 0300 - Cardoso Toys Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765391-MLA99932711605_112025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28KSppS",
-    "atualizado_em": "2026-10-12T12:16:50.683-03:00"
-  },
-  {
-    "id": "amazon:B0BDBFT1QP",
-    "titulo": "Fórmula Infantil: Aptamil Profutura Gold 2 800g - 6-12 meses",
-    "imagem": "https://m.media-amazon.com/images/I/71n8HGruFRL._AC_SL1500_.jpg",
-    "preco": 119,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BDBFT1QP?tag=malica09-20",
-    "atualizado_em": "2026-10-12T12:11:41.808-03:00"
-  },
-  {
-    "id": "shopee:575397523.51106656675",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3B86LXur0P",
-    "atualizado_em": "2026-10-12T12:06:37.469-03:00"
   }
 ]
