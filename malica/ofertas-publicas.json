@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07M73V8JD",
+    "titulo": "Danone Nutricia - Aptanutri Premium 3, 1-3 anos, Fórmula de Seguimento, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/61LK0Z8R8TL._AC_SL1500_.jpg",
+    "preco": 53,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07M73V8JD?tag=malica09-20",
+    "atualizado_em": "2026-10-14T13:23:46.442-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39315139",
     "titulo": "Sylvanian Families Treliche Com Escorregador Epoch 5741",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_635662-MLA99963657557_112025-F.jpg",
