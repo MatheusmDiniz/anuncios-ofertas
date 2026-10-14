@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FS8P22T",
+    "titulo": "Oferta para Membros Prime: Kit Primeiros Passos - Lillo, Rosa, Vários volumes",
+    "imagem": "https://m.media-amazon.com/images/I/612BgPq7pPL._AC_SL1500_.jpg",
+    "preco": 44,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FS8P22T?tag=malica09-20",
+    "atualizado_em": "2026-10-14T11:41:03.099-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61922175",
     "titulo": "Móbile Arco Musical Bebê Carrinho Berço Let's Play Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_740155-MLA97653162409_112025-F.jpg",
