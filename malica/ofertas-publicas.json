@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW42XD6C",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXXG, 70 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71OdgtPRJKL._AC_SL1500_.jpg",
+    "preco": 99,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW42XD6C?tag=malica09-20",
+    "atualizado_em": "2026-10-14T17:24:57.200-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
