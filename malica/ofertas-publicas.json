@@ -2338,35 +2338,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
     "atualizado_em": "2026-10-12T15:20:29.406-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56101048",
-    "titulo": "Boné New Era Aba Curva Ajuste Mlb Ny Yankees Af Marrom Claro Cor Bege Tamanho un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_972398-MLA95399377242_102025-F.jpg",
-    "preco": 126.44,
-    "preco_anterior": 229.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2xRmGJs",
-    "atualizado_em": "2026-10-12T15:15:26.497-03:00"
-  },
-  {
-    "id": "shopee:1698895168.58254892330",
-    "titulo": "Mosquiteiro Para Berço Americano e Mini Berço Tule Tela Mosquiteira Cortinado Rede Protetora",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn94rclpiqkhd9",
-    "preco": 23.99,
-    "preco_anterior": 40.66,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AWoHf3fpk",
-    "atualizado_em": "2026-10-12T15:10:19.159-03:00"
-  },
-  {
-    "id": "amazon:B0DFD25P8S",
-    "titulo": "Mustela Shampoo Cachos Desembaraçados 200ml - Para Cabelos Ondulados, Cacheados e Texturizados - Limpa Suavemente, Nutre e Desembaraça",
-    "imagem": "https://m.media-amazon.com/images/I/71qEYm2z2oL._AC_SL1500_.jpg",
-    "preco": 60,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DFD25P8S?tag=malica09-20",
-    "atualizado_em": "2026-10-12T15:05:14.871-03:00"
   }
 ]
