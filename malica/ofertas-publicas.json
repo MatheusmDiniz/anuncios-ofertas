@@ -2928,35 +2928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=malica09-20",
     "atualizado_em": "2026-10-12T10:19:24.955-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63854956",
-    "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703485-MLA103647296121_012026-F.jpg",
-    "preco": 137.79,
-    "preco_anterior": 259.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/23Yzgaa",
-    "atualizado_em": "2026-10-12T10:14:20.220-03:00"
-  },
-  {
-    "id": "shopee:967746038.23694425476",
-    "titulo": "Kit 4 Rosquinhas de Amamentação Protetor 100% Algodão Macio",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
-    "preco": 16.99,
-    "preco_anterior": 24.99,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6L59iVym2d",
-    "atualizado_em": "2026-10-12T10:09:12.663-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28318987",
-    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
-    "preco": 199,
-    "preco_anterior": 369,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tjqGTg",
-    "atualizado_em": "2026-10-12T10:04:07.661-03:00"
   }
 ]
