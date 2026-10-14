@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61713566",
+    "titulo": "Andador De Empurrar Infantil Com Atividades Azul - Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_766581-MLA97341274561_112025-F.jpg",
+    "preco": 122.66,
+    "preco_anterior": 219.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2wxDf4s",
+    "atualizado_em": "2026-10-14T09:47:50.317-03:00"
+  },
+  {
     "id": "shopee:436773535.21038591899",
     "titulo": "Kit 6 Peças Roupa Infantil Menina Conjunto Verão Algodão 3 Camisetas + 3 Shorts",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqmos424l0xu1c",
@@ -1828,15 +1838,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20wBPRoNPV",
     "atualizado_em": "2026-10-12T21:52:15.577-03:00"
-  },
-  {
-    "id": "shopee:344410462.23232308359",
-    "titulo": "Colchão Carrinho Moises Colchonete Fronha 100% Algodão Menino Menina Neutro Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mn0j8cs7w7b4fe",
-    "preco": 20.73,
-    "preco_anterior": 37.02,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1BN4PuR9Q2",
-    "atualizado_em": "2026-10-12T21:47:09.130-03:00"
   }
 ]
