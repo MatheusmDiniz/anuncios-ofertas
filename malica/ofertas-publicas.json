@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07L4TSL64",
+    "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L",
+    "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
+    "preco": 131,
+    "preco_anterior": 222,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
+    "atualizado_em": "2026-10-14T13:03:14.661-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42137247",
     "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-F.jpg",
