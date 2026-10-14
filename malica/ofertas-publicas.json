@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JQNSTJY",
+    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+    "imagem": "https://m.media-amazon.com/images/I/61A+Lzk0U2L._AC_SL1500_.jpg",
+    "preco": 12,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=malica09-20",
+    "atualizado_em": "2026-10-14T15:17:03.654-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
