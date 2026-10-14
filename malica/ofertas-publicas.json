@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62315926",
+    "titulo": "Protetor de Banco TT Safety 1st, Black",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_602781-MLA98307653432_112025-F.jpg",
+    "preco": 101,
+    "preco_anterior": 183.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2WDwZLb",
+    "atualizado_em": "2026-10-14T20:41:38.106-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56104304",
     "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
@@ -2958,15 +2968,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D4NN2W72?tag=malica09-20",
     "atualizado_em": "2026-10-13T08:46:29.593-03:00"
-  },
-  {
-    "id": "shopee:396723953.48056685219",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lh-mr6yf4m3pc0710",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3VkzvtiHQZ",
-    "atualizado_em": "2026-10-13T08:41:24.283-03:00"
   }
 ]
