@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DFYH7RJ",
+    "titulo": "Colgate Tandy Escova de Dente Infantil, 2 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51Lf9CLlEGL._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DFYH7RJ?tag=malica09-20",
+    "atualizado_em": "2026-10-14T15:47:59.823-03:00"
+  },
+  {
     "id": "amazon:B087XSV9K8",
     "titulo": "Oferta: MAM Baby Kit 2 Mamadeiras Easy Start Starter Set Anticólica e Menos Bolhas de Ar, para Crianças 0+ Meses Autoesterilizável e com Bico de Silicone Skinsoft, Rosa",
     "imagem": "https://m.media-amazon.com/images/I/5194tm9eQoL._AC_SL1500_.jpg",
