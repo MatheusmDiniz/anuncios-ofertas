@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CGY6WDHC",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho XXG, 120 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71GyhptSzBL._AC_SL1500_.jpg",
+    "preco": 184,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
+    "atualizado_em": "2026-10-14T08:10:44.796-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27257859",
     "titulo": "Kit Berço Quarto Com Colchão Infantil Bebê Americano Henn Labirinto Com Grades Fixas 2 Posições Design Moderno Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_699091-MLA113584017707_062026-F.jpg",
@@ -1778,15 +1788,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VH7ULCtjq",
     "atualizado_em": "2026-10-12T20:13:43.633-03:00"
-  },
-  {
-    "id": "shopee:341167297.56353003213",
-    "titulo": "Conjunto Para Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa infantil Masculino l05",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mibm9yxoln2ace",
-    "preco": 19.99,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6q1OiHCEec",
-    "atualizado_em": "2026-10-12T20:08:38.915-03:00"
   }
 ]
