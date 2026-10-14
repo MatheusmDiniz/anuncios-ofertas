@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:761647073.58250442234",
+    "titulo": "Kit 24 Massinha de Modelar + 25 Moldes Cortador Festa Aniversário Kit Lembracinha",
+    "imagem": "https://cf.shopee.com.br/file/br-11134224-81z1k-mgo1nc280a9w87",
+    "preco": 14.99,
+    "preco_anterior": 23.06,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BFdBW37ZW",
+    "atualizado_em": "2026-10-13T21:13:28.037-03:00"
+  },
+  {
     "id": "shopee:519193356.22999783703",
     "titulo": "Camiseta Infantil Menina Anos 80 Blusinha 100% Algodão Varias Cores T-Shirt Estilosa Casual Presente dia das Criança",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mtfde1uxai9vdf",
@@ -2948,15 +2958,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4qGLvgbVaH",
     "atualizado_em": "2026-10-12T09:17:53.277-03:00"
-  },
-  {
-    "id": "amazon:B09JVKRS42",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61CSoJu3bxL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=malica09-20",
-    "atualizado_em": "2026-10-12T09:12:48.289-03:00"
   }
 ]
