@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:557150518.22799176224",
+    "titulo": "Kit 3 Tapa Fraldas Canelados Infantil – 100% Algodão | Tamanhos P, M e G",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwarezzqmm821",
+    "preco": 21.11,
+    "preco_anterior": 31.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3qNrAaRduf",
+    "atualizado_em": "2026-10-13T21:23:41.759-03:00"
+  },
+  {
     "id": "amazon:B07NPYD9KF",
     "titulo": "Granado Creme Assaduras Dermocalmante Bebê Peles Sensíveis 50g",
     "imagem": "https://m.media-amazon.com/images/I/41s7xphmGhL._AC_SL1500_.jpg",
@@ -2948,15 +2958,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AUuig6kfFE",
     "atualizado_em": "2026-10-12T09:28:02.801-03:00"
-  },
-  {
-    "id": "amazon:B07CFQWV95",
-    "titulo": "Fralda Babysec Ultrasec Galinha Pintadinha, P, 28 unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61tFNhGK9pL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07CFQWV95?tag=malica09-20",
-    "atualizado_em": "2026-10-12T09:22:57.592-03:00"
   }
 ]
