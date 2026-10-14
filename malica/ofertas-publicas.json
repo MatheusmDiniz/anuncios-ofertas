@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1574065889.22698734793",
+    "titulo": "Kit  Camiseta Gola Polo Para Menino Bebê 100% Algodão Infantil Na Promoção",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcapzc06jborc2",
+    "preco": 29,
+    "preco_anterior": 70.73,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4qGO7lqJbz",
+    "atualizado_em": "2026-10-13T21:44:07.984-03:00"
+  },
+  {
     "id": "shopee:389315825.21998507113",
     "titulo": "Cadeira Para Auto 0-36 Kg Litet Mass Preta e Cinza - BB458",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv8xe4u0uzdb9a",
@@ -2948,15 +2958,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1Vztxa9nD2",
     "atualizado_em": "2026-10-12T09:48:47.123-03:00"
-  },
-  {
-    "id": "amazon:B0DDTZD5BS",
-    "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61KXSX2M+ML._AC_SL1500_.jpg",
-    "preco": 215,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
-    "atualizado_em": "2026-10-12T09:43:42.625-03:00"
   }
 ]
