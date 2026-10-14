@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62933980",
+    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
+    "preco": 218.41,
+    "preco_anterior": 447.82,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XQuVVJ",
+    "atualizado_em": "2026-10-14T11:56:25.359-03:00"
+  },
+  {
     "id": "amazon:B0D84MB72K",
     "titulo": "Pó Dermo Protetor Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41TMpXU3M2L._AC_SL1500_.jpg",
