@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:408631242.18597729501",
+    "titulo": "Kit 2 Blusas de Lã Tricot Infantil Juvenil Masculino Inverno",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mts5j7wp296o24",
+    "preco": 29.99,
+    "preco_anterior": 69.74,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3B8B8OICAe",
+    "atualizado_em": "2026-10-14T09:32:30.303-03:00"
+  },
+  {
     "id": "amazon:B09BBDVPB1",
     "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
@@ -1828,15 +1838,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40hFJyxsA6",
     "atualizado_em": "2026-10-12T21:36:57.578-03:00"
-  },
-  {
-    "id": "shopee:1843579115.58265506431",
-    "titulo": "Jaleco Infantil Unissex Oxford Branco Manga Longa",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-ms0c0nxxasjobf",
-    "preco": 40.53,
-    "preco_anterior": 57.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AUujX2W1aO",
-    "atualizado_em": "2026-10-12T21:31:52.323-03:00"
   }
 ]
