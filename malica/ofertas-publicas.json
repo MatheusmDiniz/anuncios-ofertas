@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZQLXVN6",
+    "titulo": "Brilhante Sabão Liquido Limpeza Total Refil 900 Ml",
+    "imagem": "https://m.media-amazon.com/images/I/71bCZtLu5YL._AC_SL1500_.jpg",
+    "preco": 8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZQLXVN6?tag=malica09-20",
+    "atualizado_em": "2026-10-14T15:58:07.052-03:00"
+  },
+  {
     "id": "amazon:B07GB468ZM",
     "titulo": "Mili Fralda Xg Pacote De 22 Fraldas",
     "imagem": "https://m.media-amazon.com/images/I/71snGdBX-5L._AC_SL1500_.jpg",
