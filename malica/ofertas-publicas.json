@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0979VS2JH",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71djWQQA-OL._AC_SL1500_.jpg",
+    "preco": 53,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0979VS2JH?tag=malica09-20",
+    "atualizado_em": "2026-10-14T09:06:59.606-03:00"
+  },
+  {
     "id": "shopee:542974007.22894899577",
     "titulo": "Luvas Infantil Inverno de Lã Térmica Infantil Tricô Menino Menina FYX0026BAL",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mmr7upnoctfoc5",
@@ -1828,15 +1838,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LnxQKDw70",
     "atualizado_em": "2026-10-12T21:11:29.867-03:00"
-  },
-  {
-    "id": "shopee:1253561331.22293115832",
-    "titulo": "Macacão Promoção Jardineira Body Manga Longa Kids Bebê Menina Bordado de Ursinha Lola Palha",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mn1d7qur91qc9e",
-    "preco": 59.67,
-    "preco_anterior": 85.24,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6fhyVyhWuE",
-    "atualizado_em": "2026-10-12T21:06:25.924-03:00"
   }
 ]
