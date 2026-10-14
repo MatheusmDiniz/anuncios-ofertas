@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08553P1JV",
+    "titulo": "Downy Amaciante Concentrado Frescor Da Primavera 500mL Rende 2L",
+    "imagem": "https://m.media-amazon.com/images/I/61xDTzzq-HL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08553P1JV?tag=malica09-20",
+    "atualizado_em": "2026-10-14T17:14:45.362-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75984769",
     "titulo": "Suporte de Banho para Bebê Torre com Coluna Ajustável, Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811343-MLA116863064911_082026-F.jpg",
