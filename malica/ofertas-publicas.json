@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GT2CBBBR",
+    "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ybDaoMvSL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=malica09-20",
+    "atualizado_em": "2026-10-15T14:25:48.806-03:00"
+  },
+  {
     "id": "amazon:B09J56YKXG",
     "titulo": "Gentle Shampoo, Suave e Não Arde os Olhos, Mustela Bebê, Azul, Médio 500 ml",
     "imagem": "https://m.media-amazon.com/images/I/61pMscnn3fL._AC_SL1500_.jpg",
