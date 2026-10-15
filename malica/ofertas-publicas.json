@@ -2818,35 +2818,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=malica09-20",
     "atualizado_em": "2026-10-13T11:20:41.969-03:00"
-  },
-  {
-    "id": "amazon:B07XTJJR2J",
-    "titulo": "Molico Leite Em Pó Desnatado Total Cálcio 500G",
-    "imagem": "https://m.media-amazon.com/images/I/8135fs36LQL._AC_SL1500_.jpg",
-    "preco": 27,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07XTJJR2J?tag=malica09-20",
-    "atualizado_em": "2026-10-13T11:15:38.506-03:00"
-  },
-  {
-    "id": "amazon:B088P95YRD",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
-    "preco": 61,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B088P95YRD?tag=malica09-20",
-    "atualizado_em": "2026-10-13T11:10:33.657-03:00"
-  },
-  {
-    "id": "amazon:B07NPY7VDL",
-    "titulo": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
-    "imagem": "https://m.media-amazon.com/images/I/51J0y1mq1gL._AC_SL1500_.jpg",
-    "preco": 46,
-    "preco_anterior": 88,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=malica09-20",
-    "atualizado_em": "2026-10-13T11:05:30.014-03:00"
   }
 ]
