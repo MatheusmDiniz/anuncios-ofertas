@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:345634830.22599675439",
+    "titulo": "KIT MOCHILA ESCOLAR HOMEM ARANHA E PERSONAGENS LANCHEIRA ESTOJO MOCHILA DE COSTA COM RODINHA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mrg4f5qnruvb15",
+    "preco": 69.89,
+    "preco_anterior": 129.43,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/40hJipAaaS",
+    "atualizado_em": "2026-10-15T09:53:12.978-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25961240",
     "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/28ed7Bs",
     "atualizado_em": "2026-10-13T21:54:21.567-03:00"
-  },
-  {
-    "id": "shopee:897514363.49206869091",
-    "titulo": "Brastoy Kit de brinquedos robóticos científicos STEM 6 em 1 e 5 em 1",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-ms0p0a6eox6tbd",
-    "preco": 67.69,
-    "preco_anterior": 270.76,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1BN5pvZnZ1",
-    "atualizado_em": "2026-10-13T21:49:14.265-03:00"
   }
 ]
