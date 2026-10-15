@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z5B115H",
+    "titulo": "Likluc Xô Febre - compressas refrescantes para alivio da febre, Azul Oceano, Tamanho Único",
+    "imagem": "https://m.media-amazon.com/images/I/71EMAbb3YKL._AC_SL1500_.jpg",
+    "preco": 33,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z5B115H?tag=malica09-20",
+    "atualizado_em": "2026-10-15T13:50:10.503-03:00"
+  },
+  {
     "id": "amazon:B07DHRPTPB",
     "titulo": "Shampoo de Glicerina Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
