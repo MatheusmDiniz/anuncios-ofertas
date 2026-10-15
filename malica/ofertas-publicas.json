@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPRGYFCL",
+    "titulo": "Achocolatado NESCAU® 2,01kg",
+    "imagem": "https://m.media-amazon.com/images/I/61fgMVvEKiL._AC_SL1500_.jpg",
+    "preco": 32,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=malica09-20",
+    "atualizado_em": "2026-10-15T15:02:15.128-03:00"
+  },
+  {
     "id": "amazon:B0FFT7WR18",
     "titulo": "Kit Pista Hot Wheels City Oficina Gorila Mattel 4 Anos ou Mais | Conjunto de pistas com várias maneiras de jogar, inclui lançador e loop, compatível com faixa Speed Snap",
     "imagem": "https://m.media-amazon.com/images/I/71ebd+koKtL._AC_SL1500_.jpg",
