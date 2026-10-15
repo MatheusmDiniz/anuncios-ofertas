@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRHZDR",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
+    "preco": 34,
+    "preco_anterior": 62,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=malica09-20",
+    "atualizado_em": "2026-10-15T14:15:37.204-03:00"
+  },
+  {
     "id": "amazon:B07DHRV94V",
     "titulo": "Loção Hidratante Corporal Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51KNP7RNDtL._AC_SL1500_.jpg",
