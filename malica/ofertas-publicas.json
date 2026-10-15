@@ -2638,35 +2638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093RCP1K4?tag=malica09-20",
     "atualizado_em": "2026-10-13T12:53:12.099-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46014518",
-    "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
-    "preco": 229.9,
-    "preco_anterior": 765.96,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2jbhnwM",
-    "atualizado_em": "2026-10-13T12:48:08.077-03:00"
-  },
-  {
-    "id": "amazon:B0FPP1FTKY",
-    "titulo": "Protetor Solar Corporal em Loção Sundown Kids, FPS 60, 100ml | Praia e Piscina, Extra Proteção, Dermatologicamente Testado, Extratos Calmantes",
-    "imagem": "https://m.media-amazon.com/images/I/61AF+B7nAfL._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": 44,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPP1FTKY?tag=malica09-20",
-    "atualizado_em": "2026-10-13T12:43:00.255-03:00"
-  },
-  {
-    "id": "amazon:B0789SHBRL",
-    "titulo": "BUBA Mictorio Inf. Sapinho Verde, Verde",
-    "imagem": "https://m.media-amazon.com/images/I/51IwFAReIlL._AC_SL1500_.jpg",
-    "preco": 38,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0789SHBRL?tag=malica09-20",
-    "atualizado_em": "2026-10-13T12:37:29.200-03:00"
   }
 ]
