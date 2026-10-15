@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:183540023X",
+    "titulo": "Mãozinhas Curiosas: Um Livro Para Tocar E Sentir",
+    "imagem": "https://m.media-amazon.com/images/I/510TxceMv0L._AC_SL1500_.jpg",
+    "preco": 47.41,
+    "preco_anterior": 59.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/183540023X?tag=malica09-20",
+    "atualizado_em": "2026-10-15T12:37:13.654-03:00"
+  },
+  {
     "id": "amazon:B0DXL6PVLQ",
     "titulo": "Oferta: Kit de Mamadeiras e Bicos Super Evolution Lillo - 80ml, 150ml e 300ml",
     "imagem": "https://m.media-amazon.com/images/I/61EminaHA-L._AC_SL1500_.jpg",
