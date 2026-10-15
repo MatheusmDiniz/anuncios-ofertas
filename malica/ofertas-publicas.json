@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09LRDGH1Q",
+    "titulo": "Cadeira de Refeição Burigotto Poke, Preto Night Sky",
+    "imagem": "https://m.media-amazon.com/images/I/51buSR2zlvL._AC_SL1500_.jpg",
+    "preco": 199,
+    "preco_anterior": 367,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09LRDGH1Q?tag=malica09-20",
+    "atualizado_em": "2026-10-15T15:23:02.736-03:00"
+  },
+  {
     "id": "amazon:B07D2FXHM1",
     "titulo": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
     "imagem": "https://m.media-amazon.com/images/I/51kcPBSuPRL._AC_SL1500_.jpg",
