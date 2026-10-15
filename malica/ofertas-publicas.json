@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50887952",
+    "titulo": "Coala Pelúcia Respira E Alivia C/ Som/luz - Polibrinq",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_873431-MLA111927513318_062026-F.jpg",
+    "preco": 133.59,
+    "preco_anterior": 256.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mS3aoG",
+    "atualizado_em": "2026-10-15T09:27:37.443-03:00"
+  },
+  {
     "id": "shopee:502471158.23899476952",
     "titulo": "Capa De Chuva Infantil Com Capuz Impermeável Colorida Pvc Proteção Total EVA Criança",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mte45egh1c00b1",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1BN5zjjJVd",
     "atualizado_em": "2026-10-13T21:28:51.750-03:00"
-  },
-  {
-    "id": "shopee:557150518.22799176224",
-    "titulo": "Kit 3 Tapa Fraldas Canelados Infantil – 100% Algodão | Tamanhos P, M e G",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwarezzqmm821",
-    "preco": 21.11,
-    "preco_anterior": 31.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qNrAaRduf",
-    "atualizado_em": "2026-10-13T21:23:41.759-03:00"
   }
 ]
