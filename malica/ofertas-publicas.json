@@ -2288,35 +2288,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHSFWBL?tag=malica09-20",
     "atualizado_em": "2026-10-13T15:53:19.227-03:00"
-  },
-  {
-    "id": "amazon:B0D6BXNRZQ",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61Uo03QkQ6L._AC_SL1500_.jpg",
-    "preco": 19.42,
-    "preco_anterior": 44.79,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D6BXNRZQ?tag=malica09-20",
-    "atualizado_em": "2026-10-13T15:48:15.173-03:00"
-  },
-  {
-    "id": "amazon:B0CHZ9XXPX",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 40g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
-    "imagem": "https://m.media-amazon.com/images/I/51QMN1Euz1L._AC_SL1500_.jpg",
-    "preco": 14.67,
-    "preco_anterior": 32.79,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=malica09-20",
-    "atualizado_em": "2026-10-13T15:43:10.819-03:00"
-  },
-  {
-    "id": "amazon:B089YLCYBZ",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Transparente, 30g | Sem Fragrância, Com Lanolina",
-    "imagem": "https://m.media-amazon.com/images/I/518FaPzfPCL._AC_SL1500_.jpg",
-    "preco": 14.79,
-    "preco_anterior": 33.89,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B089YLCYBZ?tag=malica09-20",
-    "atualizado_em": "2026-10-13T15:38:06.606-03:00"
   }
 ]
