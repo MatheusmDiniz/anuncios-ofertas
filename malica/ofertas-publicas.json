@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77878054",
+    "titulo": "Canguru Bolsa Carrega Bebe Passeio 12 Posições 3em1 Até 20kg Cor Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665744-MLA116502903973_082026-F.jpg",
+    "preco": 95.93,
+    "preco_anterior": 199.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2cr6Nyn",
+    "atualizado_em": "2026-10-15T08:05:39.359-03:00"
+  },
+  {
     "id": "amazon:B07FN7VP5Y",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
     "imagem": "https://m.media-amazon.com/images/I/71EGaknfKuL._AC_SL1500_.jpg",
@@ -1818,15 +1828,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20w8xOUdT8",
     "atualizado_em": "2026-10-13T20:09:26.899-03:00"
-  },
-  {
-    "id": "shopee:1647602386.58259432734",
-    "titulo": "Macacão Fleece Orelhinha Capuz Bebê Inverno Quentinho Recém Nascido 0 a 12 Meses Menino E Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqsioemvu9s2fe",
-    "preco": 29.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LZ2Xkming",
-    "atualizado_em": "2026-10-13T20:04:22.090-03:00"
   }
 ]
