@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09LRFL3QZ",
+    "titulo": "Buba Kit Cuidados Azul",
+    "imagem": "https://m.media-amazon.com/images/I/51l0sxnSVPL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": 47,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09LRFL3QZ?tag=malica09-20",
+    "atualizado_em": "2026-10-15T18:16:22.581-03:00"
+  },
+  {
     "id": "shopee:478457753.20597624044",
     "titulo": "Mocassim Menina Modelo Oxford Off White e Preto Lindo Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mtgq5znxfk0300",
