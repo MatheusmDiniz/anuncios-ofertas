@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25961240",
+    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
+    "preco": 149,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26CTJJv",
+    "atualizado_em": "2026-10-15T09:48:07.783-03:00"
+  },
+  {
     "id": "shopee:744229092.58215504309",
     "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1BN5pvZnZ1",
     "atualizado_em": "2026-10-13T21:49:14.265-03:00"
-  },
-  {
-    "id": "shopee:1574065889.22698734793",
-    "titulo": "Kit  Camiseta Gola Polo Para Menino Bebê 100% Algodão Infantil Na Promoção",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcapzc06jborc2",
-    "preco": 29,
-    "preco_anterior": 70.73,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4qGO7lqJbz",
-    "atualizado_em": "2026-10-13T21:44:07.984-03:00"
   }
 ]
