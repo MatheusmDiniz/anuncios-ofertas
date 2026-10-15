@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHSGC5B",
+    "titulo": "Loção Hidratante Corporal Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61jtP7w98pL._AC_SL1500_.jpg",
+    "preco": 37.49,
+    "preco_anterior": 62.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHSGC5B?tag=malica09-20",
+    "atualizado_em": "2026-10-15T14:05:26.544-03:00"
+  },
+  {
     "id": "amazon:B0F4G5NL2K",
     "titulo": "Lenços Umedecidos Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
