@@ -2728,35 +2728,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2dKmgSP",
     "atualizado_em": "2026-10-13T12:06:31.605-03:00"
-  },
-  {
-    "id": "amazon:B07FSL72KP",
-    "titulo": "Huggies Shampoo Extra Suave para bebê – 400ml",
-    "imagem": "https://m.media-amazon.com/images/I/61-Eq4e7GiL._AC_SL1500_.jpg",
-    "preco": 26,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FSL72KP?tag=malica09-20",
-    "atualizado_em": "2026-10-13T12:01:23.573-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75833623",
-    "titulo": "Banheira Bebe Dobrável Com Termômetro Verde Almofada Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711553-MLA113938711326_072026-F.jpg",
-    "preco": 149.9,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Rti5yd",
-    "atualizado_em": "2026-10-13T11:56:19.878-03:00"
-  },
-  {
-    "id": "amazon:B08LK15F8N",
-    "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
-    "imagem": "https://m.media-amazon.com/images/I/51EXy5ZJQSL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
-    "atualizado_em": "2026-10-13T11:51:12.205-03:00"
   }
 ]
