@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN7VP5Y",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho P 48 unidades – com absorção especial para cocô líquido e indicador de troca.",
+    "imagem": "https://m.media-amazon.com/images/I/71EGaknfKuL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN7VP5Y?tag=malica09-20",
+    "atualizado_em": "2026-10-15T08:00:31.198-03:00"
+  },
+  {
     "id": "shopee:1709644501.58266984653",
     "titulo": "Kit 3 Blusa Alcinha Ribana em Algodão Alcinha Infantil Menina Confortável Alcinha Feminina Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mscshebh8n4453",
@@ -1818,35 +1828,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2LZ2Xkming",
     "atualizado_em": "2026-10-13T20:04:22.090-03:00"
-  },
-  {
-    "id": "shopee:990579664.19198508514",
-    "titulo": "Blusa de frio Menina Infantil Pelinho com Capuz feminina TOUCA Tedy Casaco Teddy Ted JAQUETA  INFANTIL Roup Frio Moletom",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztm-mkzfscvtfoqpee",
-    "preco": 19.5,
-    "preco_anterior": 75,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AAHuYS6L8g",
-    "atualizado_em": "2026-10-13T19:59:16.114-03:00"
-  },
-  {
-    "id": "shopee:1384111782.40921443065",
-    "titulo": "Triciclo Infantil Empurrador com Pedal Motoca Passeio Menino Menina Brinquedo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfmomv1fajggaa",
-    "preco": 237.9,
-    "preco_anterior": 339.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20wCuFraBP",
-    "atualizado_em": "2026-10-13T19:54:11.036-03:00"
-  },
-  {
-    "id": "shopee:378105312.41019740801",
-    "titulo": "BUBA KIT ESCOVAS PARA MAMADEIRAS COM ESPONJA",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j4-mesq69pzb401d0",
-    "preco": 16.99,
-    "preco_anterior": 28.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/qkFW6Vcoi",
-    "atualizado_em": "2026-10-13T19:49:07.184-03:00"
   }
 ]
