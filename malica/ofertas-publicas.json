@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08LHC6LFK",
+    "titulo": "Kit Weleda Baby Calêndula - Cremes para Assaduras 3x75ml",
+    "imagem": "https://m.media-amazon.com/images/I/711Bp-e6L1L._AC_SL1500_.jpg",
+    "preco": 151.24,
+    "preco_anterior": 174.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08LHC6LFK?tag=malica09-20",
+    "atualizado_em": "2026-10-15T11:45:54.876-03:00"
+  },
+  {
     "id": "amazon:B07MT9LCV1",
     "titulo": "Creme para Pentear Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61U2+G0QD+L._AC_SL1500_.jpg",
