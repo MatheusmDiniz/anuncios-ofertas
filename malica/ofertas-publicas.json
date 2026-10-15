@@ -2318,35 +2318,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B089YLCYBZ?tag=malica09-20",
     "atualizado_em": "2026-10-13T15:38:06.606-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26417848",
-    "titulo": "Bolsa Canguru Ergonômico Bebê Mãe Premium 12 Posições 3 Em 1 Cor Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651415-MLA111958329880_062026-F.jpg",
-    "preco": 145.47,
-    "preco_anterior": 257.37,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2pybUbV",
-    "atualizado_em": "2026-10-13T15:33:03.033-03:00"
-  },
-  {
-    "id": "amazon:B077C2D43T",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61ZNprORA+L._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": 34,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077C2D43T?tag=malica09-20",
-    "atualizado_em": "2026-10-13T15:27:54.788-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28131603",
-    "titulo": "Canguru de Bebê Aiebao Ergonômico Cinza 4 Posições Com Bolsos Ajustável",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837333-MLA100025550965_122025-F.jpg",
-    "preco": 80.01,
-    "preco_anterior": 169.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jVQ4c9",
-    "atualizado_em": "2026-10-13T15:22:23.489-03:00"
   }
 ]
