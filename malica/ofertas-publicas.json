@@ -2408,35 +2408,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2A18177",
     "atualizado_em": "2026-10-13T14:50:50.736-03:00"
-  },
-  {
-    "id": "amazon:B07MBTSMM8",
-    "titulo": "Neslac Comfor - Composto Lácteo, 800g : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/815GVNMYL7L._AC_SL1500_.jpg",
-    "preco": 46,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=malica09-20",
-    "atualizado_em": "2026-10-13T14:45:42.223-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22424717",
-    "titulo": "Playset Casa Da Gabby Dollhouse 3063 Sunny Brinquedos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835645-MLA99448675126_112025-F.jpg",
-    "preco": 574,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1s6h2fj",
-    "atualizado_em": "2026-10-13T14:40:36.549-03:00"
-  },
-  {
-    "id": "amazon:B0F2G9W5H4",
-    "titulo": "Elka, Tina Rex Papa Tudo, 12+ Meses",
-    "imagem": "https://m.media-amazon.com/images/I/81tmCwFK0jL._AC_SL1500_.jpg",
-    "preco": 61,
-    "preco_anterior": 99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F2G9W5H4?tag=malica09-20",
-    "atualizado_em": "2026-10-13T14:35:27.890-03:00"
   }
 ]
