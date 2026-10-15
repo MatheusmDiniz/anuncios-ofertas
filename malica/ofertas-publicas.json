@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:8538071025",
+    "titulo": "Um Dia Muito Mal-Humorado",
+    "imagem": "https://m.media-amazon.com/images/I/61e1oEZ6SxL._AC_SL1500_.jpg",
+    "preco": 22.52,
+    "preco_anterior": 39.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/8538071025?tag=malica09-20",
+    "atualizado_em": "2026-10-15T12:16:25.831-03:00"
+  },
+  {
     "id": "amazon:8581021948",
     "titulo": "Conhecendo os sons da fazenda: vaquinha",
     "imagem": "https://m.media-amazon.com/images/I/81ql3o4gvsL._AC_SL1500_.jpg",
