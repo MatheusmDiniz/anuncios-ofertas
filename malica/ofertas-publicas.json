@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47899174",
+    "titulo": "Baba Eletrônica Baby Monitor Vb603 Visão Noturna Dual Audio Cor Branco Estary Shop",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789928-MLA99885017637_112025-F.jpg",
+    "preco": 216.64,
+    "preco_anterior": 699,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1a7R1bm",
+    "atualizado_em": "2026-10-14T21:48:11.611-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42639818",
     "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
@@ -2968,15 +2978,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GQYB3WP?tag=malica09-20",
     "atualizado_em": "2026-10-13T09:48:26.729-03:00"
-  },
-  {
-    "id": "shopee:432628853.58208814983",
-    "titulo": "Capa de Chuva Infantil Adulto Com Capuz Botão Material Impermeável Colorida e Galaxy Transparente",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mn0lrmed11qa1f",
-    "preco": 14.9,
-    "preco_anterior": 29.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5fpUW2rzNE",
-    "atualizado_em": "2026-10-13T09:43:21.562-03:00"
   }
 ]
