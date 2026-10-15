@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:562534658.21499882313",
+    "titulo": "Macacão Maiô Infantil Feminino Praia Piscina Natação Macaquinho Uv",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-memdmaotefpd26",
+    "preco": 47.54,
+    "preco_anterior": 69.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/113hNfrx3c",
+    "atualizado_em": "2026-10-14T21:32:33.161-03:00"
+  },
+  {
     "id": "shopee:1284908088.23099568593",
     "titulo": "Moletom Canguru Masculino Estampado Ny Urso Infantil Feminino 100% Algodão Premium Reforçado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mr1nhrou169x9e",
@@ -2968,15 +2978,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qNpRIiD5a",
     "atualizado_em": "2026-10-13T09:32:43.991-03:00"
-  },
-  {
-    "id": "amazon:B0HBRPYMQN",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61DVlVQZn-L._AC_SL1500_.jpg",
-    "preco": 31.49,
-    "preco_anterior": 44.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=malica09-20",
-    "atualizado_em": "2026-10-13T09:27:38.702-03:00"
   }
 ]
