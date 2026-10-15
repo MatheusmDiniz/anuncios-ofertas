@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00008PW0J",
+    "titulo": "Fisher-Price Brinquedo para Bebês Girafa com Blocos para crianças a partir de 6 meses",
+    "imagem": "https://m.media-amazon.com/images/I/51ZD5QAtRpL._AC_SL1500_.jpg",
+    "preco": 109.99,
+    "preco_anterior": 179.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00008PW0J?tag=malica09-20",
+    "atualizado_em": "2026-10-15T13:08:34.975-03:00"
+  },
+  {
     "id": "amazon:B07HR1MZQP",
     "titulo": "Umidificador de Ar Ultrassônico 3,4 Litros Bivolt Fisher Price - HC115",
     "imagem": "https://m.media-amazon.com/images/I/41Gjg7-IkUL._AC_SL1500_.jpg",
