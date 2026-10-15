@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1478327279.58211285776",
+    "titulo": "Sandália Infantil Glitter Menina Sola Antiderrapante Confortavel Leve",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mrk4nkv64r2f71",
+    "preco": 16.8,
+    "preco_anterior": 60,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LRcvbdWev",
+    "atualizado_em": "2026-10-15T10:03:29.108-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB79315264",
     "titulo": "Cadeira De Alimentação Bebê Portátil Daily 4 Em 1 + Rodinhas Daily Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_800556-MLA116160195630_092026-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW3XSY4W?tag=malica09-20",
     "atualizado_em": "2026-10-14T08:00:34.186-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56341817",
-    "titulo": "Boné New Era 39thirty New York Yankees Fechado Mlb Preto Desenho Do Tecido Liso Tamanho Ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_757489-MLA95962489651_102025-F.jpg",
-    "preco": 119.7,
-    "preco_anterior": 229.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1eCxrw4",
-    "atualizado_em": "2026-10-13T21:59:28.826-03:00"
   }
 ]
