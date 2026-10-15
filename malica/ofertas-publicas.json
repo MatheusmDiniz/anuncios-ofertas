@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08KHPB47B",
+    "titulo": "Buba Kit Talher Flexivel E Termossensivel Azul Buba Azul",
+    "imagem": "https://m.media-amazon.com/images/I/419Yq5k+jZL._AC_SL1500_.jpg",
+    "preco": 16,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08KHPB47B?tag=malica09-20",
+    "atualizado_em": "2026-10-15T14:46:33.295-03:00"
+  },
+  {
     "id": "amazon:B07NPWTYJT",
     "titulo": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
     "imagem": "https://m.media-amazon.com/images/I/41UgwftkxOL._AC_SL1500_.jpg",
