@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB76312233",
+    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_873811-MLA115148469576_082026-F.jpg",
+    "preco": 160.92,
+    "preco_anterior": 319.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1GeSHG1",
+    "atualizado_em": "2026-10-15T09:37:52.292-03:00"
+  },
+  {
     "id": "shopee:392744038.23699181978",
     "titulo": "KIT Chinelos de Bebê Menino e Menina Baby Brasil De Borracha Original Anti-Derrapante",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mm6p7z8wruo717",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W7OMYc3YS",
     "atualizado_em": "2026-10-13T21:39:02.993-03:00"
-  },
-  {
-    "id": "shopee:1072928964.23098743324",
-    "titulo": "Kit Até 10 Calcinhas Importada box Shortinho Infantil menina Estampada",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m0-mlr6dp2cbrie56",
-    "preco": 24.97,
-    "preco_anterior": 45.4,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5fpVLtiHM6",
-    "atualizado_em": "2026-10-13T21:33:56.556-03:00"
   }
 ]
