@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28487537",
+    "titulo": "Berço Sonata Cor Cinza - Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
+    "preco": 367.9,
+    "preco_anterior": 879,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2vSi35a",
+    "atualizado_em": "2026-10-15T20:09:25.250-03:00"
+  },
+  {
     "id": "shopee:575397523.51106656675",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
@@ -2988,15 +2998,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CGY6WDHC?tag=malica09-20",
     "atualizado_em": "2026-10-14T08:10:44.796-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27257859",
-    "titulo": "Kit Berço Quarto Com Colchão Infantil Bebê Americano Henn Labirinto Com Grades Fixas 2 Posições Design Moderno Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_699091-MLA113584017707_062026-F.jpg",
-    "preco": 524,
-    "preco_anterior": 999,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cuf5VB",
-    "atualizado_em": "2026-10-14T08:05:40.810-03:00"
   }
 ]
