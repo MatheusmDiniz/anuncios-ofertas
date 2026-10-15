@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DSCGLT32",
+    "titulo": "Ypê Amaciante Tradicional Ultra Intenso, 5L",
+    "imagem": "https://m.media-amazon.com/images/I/51ZUWgk3DyL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DSCGLT32?tag=malica09-20",
+    "atualizado_em": "2026-10-15T12:01:08.289-03:00"
+  },
+  {
     "id": "amazon:B0B1GZMBR1",
     "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec, Tamanho XXG, 48 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71RFSrWVCPL._AC_SL1500_.jpg",
