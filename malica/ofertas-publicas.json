@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZHGT9ZT",
+    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
+    "imagem": "https://m.media-amazon.com/images/I/61bL8uVCTxL._AC_SL1500_.jpg",
+    "preco": 15.29,
+    "preco_anterior": 33.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=malica09-20",
+    "atualizado_em": "2026-10-15T13:34:25.288-03:00"
+  },
+  {
     "id": "amazon:B0CB9B84LT",
     "titulo": "Clingo Lixeira Mágica Antiodor, Lixo para Fraldas, Quarto do Bebê, Banheiro, Cozinha, Capacidade 10 Litros : Amazon.com.br: Casa",
     "imagem": "https://m.media-amazon.com/images/I/518SYCgXwuL._AC_SL1500_.jpg",
