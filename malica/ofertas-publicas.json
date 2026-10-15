@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:744229092.58215504309",
+    "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
+    "preco": 21.99,
+    "preco_anterior": 81.44,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/70KvIKURO7",
+    "atualizado_em": "2026-10-15T09:42:59.053-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76312233",
     "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_873811-MLA115148469576_082026-F.jpg",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4qGO7lqJbz",
     "atualizado_em": "2026-10-13T21:44:07.984-03:00"
-  },
-  {
-    "id": "shopee:389315825.21998507113",
-    "titulo": "Cadeira Para Auto 0-36 Kg Litet Mass Preta e Cinza - BB458",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv8xe4u0uzdb9a",
-    "preco": 529.9,
-    "preco_anterior": 981.3,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/W7OMYc3YS",
-    "atualizado_em": "2026-10-13T21:39:02.993-03:00"
   }
 ]
