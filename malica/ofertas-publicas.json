@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHSHRMG",
+    "titulo": "Óleo Hidratante para Bebê Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41kXsmnCvqL._AC_SL1500_.jpg",
+    "preco": 39.96,
+    "preco_anterior": 72.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=malica09-20",
+    "atualizado_em": "2026-10-15T13:55:15.366-03:00"
+  },
+  {
     "id": "amazon:B07Z5B115H",
     "titulo": "Likluc Xô Febre - compressas refrescantes para alivio da febre, Azul Oceano, Tamanho Único",
     "imagem": "https://m.media-amazon.com/images/I/71EMAbb3YKL._AC_SL1500_.jpg",
