@@ -2578,35 +2578,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BS4C1TTM?tag=malica09-20",
     "atualizado_em": "2026-10-13T13:23:50.812-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB43475478",
-    "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_685947-MLA109363931978_042026-F.jpg",
-    "preco": 168.9,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1XY8eLv",
-    "atualizado_em": "2026-10-13T13:18:45.865-03:00"
-  },
-  {
-    "id": "amazon:B07Z9T391J",
-    "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71fs1EaxnLL._AC_SL1500_.jpg",
-    "preco": 54,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z9T391J?tag=malica09-20",
-    "atualizado_em": "2026-10-13T13:13:38.012-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65079780",
-    "titulo": "Aquecedor E Esterilizador Mamadeira Bpa Free Para Bebe Quicko Aquecedor De Mamadeira Aquecedor De Mamadeira Usb Preparador De Mamadeira Com Kit Para Limpeza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_875082-MLA114650318643_072026-F.jpg",
-    "preco": 164.9,
-    "preco_anterior": 299.08,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2rrXFR3",
-    "atualizado_em": "2026-10-13T13:08:32.608-03:00"
   }
 ]
