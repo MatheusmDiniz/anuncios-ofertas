@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB57551630",
+    "titulo": "Almofada De Atividades Buba Bebe Infantil Com Mordedor Cor Verde Amazonia",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_853514-MLA93221802643_092025-F.jpg",
+    "preco": 90,
+    "preco_anterior": 150.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/33eQvU2",
+    "atualizado_em": "2026-10-15T08:56:48.016-03:00"
+  },
+  {
     "id": "shopee:1203275050.23399301876",
     "titulo": "Calça Jeans Cargo infantil Juvenil 6 ao 14 Anos  LANÇAMENTO ALTO PADRÃO",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjll16ca1zie80",
@@ -1848,15 +1858,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B0hZ0Zl6R",
     "atualizado_em": "2026-10-13T20:58:05.579-03:00"
-  },
-  {
-    "id": "shopee:1478327279.58208858765",
-    "titulo": "Galocha Infantil Feminina Impermeável Leve Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mt4bqwsffnk75c",
-    "preco": 35.9,
-    "preco_anterior": 119.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8fT6vGsA1y",
-    "atualizado_em": "2026-10-13T20:52:59.298-03:00"
   }
 ]
