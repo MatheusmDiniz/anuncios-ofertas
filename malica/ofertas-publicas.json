@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00SO7H0BS",
+    "titulo": "Fisher-Price Zebra Blocos Surpresa",
+    "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
+    "preco": 88.99,
+    "preco_anterior": 139.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=malica09-20",
+    "atualizado_em": "2026-10-15T12:42:46.409-03:00"
+  },
+  {
     "id": "amazon:183540023X",
     "titulo": "Mãozinhas Curiosas: Um Livro Para Tocar E Sentir",
     "imagem": "https://m.media-amazon.com/images/I/510TxceMv0L._AC_SL1500_.jpg",
