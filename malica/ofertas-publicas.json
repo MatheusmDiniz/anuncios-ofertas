@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZD959BX",
+    "titulo": "Ninho - Composto Lácteo Fases 3+, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/61F46o1Tx2L._AC_SL1500_.jpg",
+    "preco": 36,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZD959BX?tag=malica09-20",
+    "atualizado_em": "2026-10-16T20:23:35.365-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69043943",
     "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_773586-MLA111150850509_052026-F.jpg",
@@ -2838,15 +2848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1a36JBK",
     "atualizado_em": "2026-10-15T08:26:03.684-03:00"
-  },
-  {
-    "id": "shopee:580787446.27945255322",
-    "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
-    "preco": 45.65,
-    "preco_anterior": 111.34,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/gQrkbuZUd",
-    "atualizado_em": "2026-10-15T08:20:54.887-03:00"
   }
 ]
