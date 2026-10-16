@@ -2368,35 +2368,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xEuY7V",
     "atualizado_em": "2026-10-14T15:22:10.865-03:00"
-  },
-  {
-    "id": "amazon:B08JQNSTJY",
-    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61A+Lzk0U2L._AC_SL1500_.jpg",
-    "preco": 12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=malica09-20",
-    "atualizado_em": "2026-10-14T15:17:03.654-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 94.5,
-    "preco_anterior": 189,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24qHDwo",
-    "atualizado_em": "2026-10-14T15:11:33.745-03:00"
-  },
-  {
-    "id": "amazon:B09TF36S57",
-    "titulo": "Fralda Pampers Confort Sec Tamanho XXG 112 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71gXxei8HqL._AC_SL1500_.jpg",
-    "preco": 120,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09TF36S57?tag=malica09-20",
-    "atualizado_em": "2026-10-14T15:06:27.013-03:00"
   }
 ]
