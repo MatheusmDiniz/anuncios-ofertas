@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16091842",
+    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZqdnYS",
+    "atualizado_em": "2026-10-16T10:27:34.722-03:00"
+  },
+  {
     "id": "amazon:B08K4L452V",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho XXG, Fácil de Vestir, 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61R9B7tntEL._AC_SL1500_.jpg",
