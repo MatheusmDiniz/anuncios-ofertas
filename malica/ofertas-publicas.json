@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79255155",
+    "titulo": "Grade Portão Preto Proteção Pets 68 A 73 / 78 A 83 Cm Cachorro Aramado 69cm Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953921-MLA116089682148_092026-F.jpg",
+    "preco": 70.27,
+    "preco_anterior": 121.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dF7g1Y",
+    "atualizado_em": "2026-10-16T08:24:10.014-03:00"
+  },
+  {
     "id": "shopee:1361476561.22493583538",
     "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
@@ -1828,15 +1838,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/8537652105?tag=malica09-20",
     "atualizado_em": "2026-10-14T20:31:24.178-03:00"
-  },
-  {
-    "id": "amazon:B077BY8HQV",
-    "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
-    "imagem": "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1500_.jpg",
-    "preco": 40,
-    "preco_anterior": 81,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=malica09-20",
-    "atualizado_em": "2026-10-14T20:19:53.928-03:00"
   }
 ]
