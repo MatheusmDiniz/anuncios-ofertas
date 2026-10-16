@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.22296977271",
+    "titulo": "Kit 4 Peças Pijama Infantil Menina Manga Comprida Tamanho 1 ao 10",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ly2t7zj3codya5",
+    "preco": 43.89,
+    "preco_anterior": 84.4,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LReWOcCAW",
+    "atualizado_em": "2026-10-16T08:39:30.030-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB78751640",
     "titulo": "Travesseiro bebe almofada Pelúcia EPS-8047 com Palma Automática Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_621063-MLA115553740476_082026-F.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WDwZLb",
     "atualizado_em": "2026-10-14T20:41:38.106-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56104304",
-    "titulo": "Boné New Era 9forty New York Yankees Marinho Aba Curva Azul-marinho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901996-MLA108925087270_032026-F.jpg",
-    "preco": 132.62,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11a9Z7t",
-    "atualizado_em": "2026-10-14T20:36:30.787-03:00"
   }
 ]
