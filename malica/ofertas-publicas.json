@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1842617353.58212371227",
+    "titulo": "Jaqueta Chimpa Infantil Com Ziper e Bolsos e Punhos Origin's",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mpcrx2gb93baf7",
+    "preco": 29.65,
+    "preco_anterior": 65.89,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4B0m6y05kS",
+    "atualizado_em": "2026-10-16T20:07:21.178-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB59560474",
     "titulo": "Cadeira Balanço Elétrica Bebê Cinza Com Vibração 2 Posições Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_743513-MLA95380452273_102025-F.jpg",
@@ -2848,15 +2858,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
     "atualizado_em": "2026-10-15T08:10:42.864-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77878054",
-    "titulo": "Canguru Bolsa Carrega Bebe Passeio 12 Posições 3em1 Até 20kg Cor Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665744-MLA116502903973_082026-F.jpg",
-    "preco": 95.93,
-    "preco_anterior": 199.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2cr6Nyn",
-    "atualizado_em": "2026-10-15T08:05:39.359-03:00"
   }
 ]
