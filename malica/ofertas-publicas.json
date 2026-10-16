@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62445069",
+    "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Vermelho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_849686-MLA99207858759_112025-F.jpg",
+    "preco": 325.91,
+    "preco_anterior": 619.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/267JK1m",
+    "atualizado_em": "2026-10-16T11:03:47.121-03:00"
+  },
+  {
     "id": "amazon:B096YLZNHV",
     "titulo": "Burigotto Kit Banho Branco",
     "imagem": "https://m.media-amazon.com/images/I/61u6+HmvidS._AC_SL1500_.jpg",
