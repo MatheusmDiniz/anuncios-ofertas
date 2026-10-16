@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GWDZY",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 1,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-10-16T15:04:33.126-03:00"
+  },
+  {
     "id": "amazon:B0FPSX9VDZ",
     "titulo": "Huggies Fralda Pants Descartável Proteção Acolchoada XXG - 144 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/81dNhBzabLL._AC_SL1500_.jpg",
