@@ -2718,35 +2718,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FLWCS8DR?tag=malica09-20",
     "atualizado_em": "2026-10-14T12:22:05.937-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69331466",
-    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 4 Anos Casa da Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
-    "preco": 937.15,
-    "preco_anterior": 1699.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bC1ui2",
-    "atualizado_em": "2026-10-14T12:17:01.748-03:00"
-  },
-  {
-    "id": "amazon:B0DJBVL2S5",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61BvTWZgpiL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": 44,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJBVL2S5?tag=malica09-20",
-    "atualizado_em": "2026-10-14T12:11:45.322-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875937",
-    "titulo": "Sabonete Líquido Johnson's Baby Recém Nascido, 200ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
-    "preco": 19.73,
-    "preco_anterior": 34.49,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/12NvazT",
-    "atualizado_em": "2026-10-14T12:06:40.169-03:00"
   }
 ]
