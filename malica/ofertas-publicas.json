@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB80306190",
+    "titulo": "Berço Portátil Bebe Moises Acoplado AMR-6272 Colchao com mosqueteiro L'AMOR Cor Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_661381-MLA117363122674_102026-F.jpg",
+    "preco": 458.94,
+    "preco_anterior": 899.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2agV3uT",
+    "atualizado_em": "2026-10-16T08:03:43.295-03:00"
+  },
+  {
     "id": "shopee:791252516.58202822400",
     "titulo": "Fantasia Asa Borboleta Fada com LED Pisca Completa  e Infantil Varinha + Tiara Festa Carnaval",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj6rpvz69beqd9",
@@ -1818,25 +1828,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=malica09-20",
     "atualizado_em": "2026-10-14T20:14:50.457-03:00"
-  },
-  {
-    "id": "shopee:548029260.58257405717",
-    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
-    "preco": 42.99,
-    "preco_anterior": 69.34,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3LRbKb2WV3",
-    "atualizado_em": "2026-10-14T19:58:29.308-03:00"
-  },
-  {
-    "id": "shopee:341167297.56911561011",
-    "titulo": "Kit 3 ou 2 Conjuntos Minimalista Regatas Bebê Menino Neném Baby Básica Lisa Camiseta Masculino Verão Roupa em Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mp0ttzdpj01x49",
-    "preco": 40.9,
-    "preco_anterior": 74.36,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/gQq9ghsWp",
-    "atualizado_em": "2026-10-14T19:53:24.273-03:00"
   }
 ]
