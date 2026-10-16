@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C4VJ5DCQ",
+    "titulo": "Burigotto Carrinho de Bebê Zap Metal, Prata",
+    "imagem": "https://m.media-amazon.com/images/I/71dUWMVi4lL._AC_SL1500_.jpg",
+    "preco": 556,
+    "preco_anterior": 929,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=malica09-20",
+    "atualizado_em": "2026-10-16T15:09:39.086-03:00"
+  },
+  {
     "id": "amazon:B07X4GWDZY",
     "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
