@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00N6AKNQW",
+    "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g : Amazon.com.br: Beleza",
+    "imagem": "https://m.media-amazon.com/images/I/51rOgkMtK5L._AC_SL1500_.jpg",
+    "preco": 32,
+    "preco_anterior": 49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00N6AKNQW?tag=malica09-20",
+    "atualizado_em": "2026-10-16T15:45:37.496-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73216120",
     "titulo": "Almofada Calmante para Bebê Dinossauro com Palma Automática, Controle Remoto e Capa Removível Auxilia o Sono Recém Nascido Naninha Acalma Dormir Sozinho Confortável Presente Chá de Bebê Infantil",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_857448-MLA111973667676_062026-F.jpg",
