@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26382771",
+    "titulo": "Cozinha Infantil De Brinquedo Completa Sai Água + Acessórios Cor Roxo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_679641-MLA99933602093_112025-F.jpg",
+    "preco": 116.99,
+    "preco_anterior": 229.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2K2BLp3",
+    "atualizado_em": "2026-10-16T11:54:56.864-03:00"
+  },
+  {
     "id": "amazon:B076QZB182",
     "titulo": "Travesseiro de Corpo Minhocão para Gestante - 21x150 cm - Fibrasca, Branco",
     "imagem": "https://m.media-amazon.com/images/I/81Q64HSs5pL._AC_SL1500_.jpg",
