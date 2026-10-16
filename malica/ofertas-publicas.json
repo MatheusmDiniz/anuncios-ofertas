@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CNQ6X388",
+    "titulo": "Pampers Shampoo Glicerina 400ml",
+    "imagem": "https://m.media-amazon.com/images/I/619RLZXxlGL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CNQ6X388?tag=malica09-20",
+    "atualizado_em": "2026-10-16T12:30:35.682-03:00"
+  },
+  {
     "id": "amazon:B0DV9W63Z6",
     "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
     "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
