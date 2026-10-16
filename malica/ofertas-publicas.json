@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:287082132.27580831879",
+    "titulo": "Colchão Para Berço Desmontável Chiqueirinho Cercadinho Capa Removível 90x60x07cm Macio",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg841a0agnb4ed",
+    "preco": 57.9,
+    "preco_anterior": 89.08,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8V9jxTzjEQ",
+    "atualizado_em": "2026-10-15T21:41:36.465-03:00"
+  },
+  {
     "id": "amazon:B08NQNXMPL",
     "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
     "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
@@ -2988,15 +2998,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V2Eg2KU5J",
     "atualizado_em": "2026-10-14T09:42:40.079-03:00"
-  },
-  {
-    "id": "amazon:B08K2YFNDW",
-    "titulo": "Oferta para Membros Prime: Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
-    "imagem": "https://m.media-amazon.com/images/I/81t37GPlaML._AC_SL1500_.jpg",
-    "preco": 1969,
-    "preco_anterior": 2990,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=malica09-20",
-    "atualizado_em": "2026-10-14T09:37:33.856-03:00"
   }
 ]
