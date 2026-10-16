@@ -2488,35 +2488,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2qygtod",
     "atualizado_em": "2026-10-14T14:19:48.911-03:00"
-  },
-  {
-    "id": "amazon:B014KEE9LC",
-    "titulo": "Fisher-Price Brinquedo para Bebês Novo Xilofone 18 meses",
-    "imagem": "https://m.media-amazon.com/images/I/61l6mlc0slL._AC_SL1500_.jpg",
-    "preco": 95,
-    "preco_anterior": 144,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B014KEE9LC?tag=malica09-20",
-    "atualizado_em": "2026-10-14T14:14:41.674-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40861843",
-    "titulo": "Tapete De Atividades Baby Com Play Piano Baleia Azul - Interativo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742602-MLA96134695877_102025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 189.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2EEMhRs",
-    "atualizado_em": "2026-10-14T14:09:36.892-03:00"
-  },
-  {
-    "id": "amazon:B0CYLYDHS2",
-    "titulo": "Shampoo Huggies Kids Nutrição e Força Enrolados 360 ml",
-    "imagem": "https://m.media-amazon.com/images/I/61ndOSBPPkL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CYLYDHS2?tag=malica09-20",
-    "atualizado_em": "2026-10-14T14:04:28.532-03:00"
   }
 ]
