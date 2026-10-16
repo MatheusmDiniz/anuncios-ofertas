@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1450084195.22498145016",
+    "titulo": "Cadeira de alimentação bebê portátil 3 em 1 Styll Baby Seggura cadeirão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mqxbbzf9cdfqed",
+    "preco": 198.4,
+    "preco_anterior": 320,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4VdbucVWlV",
+    "atualizado_em": "2026-10-16T09:41:39.990-03:00"
+  },
+  {
     "id": "amazon:B08YK3CVLY",
     "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
     "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
@@ -1838,15 +1848,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/25gcb2g",
     "atualizado_em": "2026-10-14T21:42:45.556-03:00"
-  },
-  {
-    "id": "shopee:1450084195.42071102324",
-    "titulo": "Troninho Privadinha Assento Redutor Pinico Infantil Para desfralde Marca styll baby",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf15udpca13b93",
-    "preco": 68.74,
-    "preco_anterior": 124.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/BUaO9LWVF",
-    "atualizado_em": "2026-10-14T21:37:38.224-03:00"
   }
 ]
