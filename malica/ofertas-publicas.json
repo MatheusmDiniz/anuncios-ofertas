@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DHSHNWMX",
+    "titulo": "Buba, Gel Para Aliviar a Febre",
+    "imagem": "https://m.media-amazon.com/images/I/61dbYxMz3HL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=malica09-20",
+    "atualizado_em": "2026-10-16T17:49:34.106-03:00"
+  },
+  {
     "id": "shopee:1010974641.22092500141",
     "titulo": "Creme Multifuncional Infantil Salon Line #Todecachinho Baby 300Ml",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-moprzgdr2qytcf",
