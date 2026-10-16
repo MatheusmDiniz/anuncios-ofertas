@@ -2518,35 +2518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CYLYDHS2?tag=malica09-20",
     "atualizado_em": "2026-10-14T14:04:28.532-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24198840",
-    "titulo": "Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Cor Avelã LuckBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662503-MLA96116062255_102025-F.jpg",
-    "preco": 115.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1A47t6B",
-    "atualizado_em": "2026-10-14T13:59:25.073-03:00"
-  },
-  {
-    "id": "amazon:B0BB4Y6ZNL",
-    "titulo": "Cosco Kids, Cadeira de Refeição Convertty 8 em 1, Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/41YFCcr6QxL._AC_SL1500_.jpg",
-    "preco": 557,
-    "preco_anterior": 899,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BB4Y6ZNL?tag=malica09-20",
-    "atualizado_em": "2026-10-14T13:54:17.909-03:00"
-  },
-  {
-    "id": "amazon:B09KNTZXKL",
-    "titulo": "Xô Inseto Baby Icaridina Repelente em Gel 100ml : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/61I2QJsIgDL._AC_SL1500_.jpg",
-    "preco": 28,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09KNTZXKL?tag=malica09-20",
-    "atualizado_em": "2026-10-14T13:49:14.585-03:00"
   }
 ]
