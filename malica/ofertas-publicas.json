@@ -2658,35 +2658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
     "atualizado_em": "2026-10-14T12:53:03.911-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26647118",
-    "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
-    "preco": 519,
-    "preco_anterior": 1299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2TVytQt",
-    "atualizado_em": "2026-10-14T12:47:35.249-03:00"
-  },
-  {
-    "id": "amazon:B0H1RYWQGB",
-    "titulo": "Papapá Macarrão Infantil Kit 2 unidades | Fusilli, Mini Elbow : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/71qj8DGvDfL._AC_SL1500_.jpg",
-    "preco": 26,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H1RYWQGB?tag=malica09-20",
-    "atualizado_em": "2026-10-14T12:42:28.165-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76312234",
-    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
-    "preco": 155.1,
-    "preco_anterior": 319.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jXU5Dp",
-    "atualizado_em": "2026-10-14T12:37:24.003-03:00"
   }
 ]
