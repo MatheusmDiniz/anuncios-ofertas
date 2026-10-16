@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDTZD5BS",
+    "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61KXSX2M+ML._AC_SL1500_.jpg",
+    "preco": 215,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
+    "atualizado_em": "2026-10-16T14:08:27.464-03:00"
+  },
+  {
     "id": "amazon:B00YDY5BKI",
     "titulo": "Musti Perfume Suave Mustela Bebê, Perfume Infantil, 97% de ingredientes de origem natural, 50ml, Mustela Bebê, 50 Ml",
     "imagem": "https://m.media-amazon.com/images/I/41W1FVl5jKL._AC_SL1500_.jpg",
