@@ -2598,35 +2598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07M73V8JD?tag=malica09-20",
     "atualizado_em": "2026-10-14T13:23:46.442-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39315139",
-    "titulo": "Sylvanian Families Treliche Com Escorregador Epoch 5741",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635662-MLA99963657557_112025-F.jpg",
-    "preco": 106,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MNwa31",
-    "atualizado_em": "2026-10-14T13:18:41.985-03:00"
-  },
-  {
-    "id": "amazon:B07FSTR3JS",
-    "titulo": "Sabonete Líquido Huggies Extra Suave - 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/618Va1pb8xL._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FSTR3JS?tag=malica09-20",
-    "atualizado_em": "2026-10-14T13:13:34.473-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41671899",
-    "titulo": "Canguru Ergonômico Baby Bear 12 Posições 4 Em 1 Azul Claro Cor Azul-claro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_982670-MLA110165536107_042026-F.jpg",
-    "preco": 99.99,
-    "preco_anterior": 193.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZnNYav",
-    "atualizado_em": "2026-10-14T13:08:30.786-03:00"
   }
 ]
