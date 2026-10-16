@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B000VWJMW4",
+    "titulo": "Granado Sabonete Líquido Glicerinado Bebê, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/41MPcws2ekL._AC_SL1500_.jpg",
+    "preco": 19.99,
+    "preco_anterior": 28,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B000VWJMW4?tag=malica09-20",
+    "atualizado_em": "2026-10-16T12:10:16.546-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42346236",
     "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
