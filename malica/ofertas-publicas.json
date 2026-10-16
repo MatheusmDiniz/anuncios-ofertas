@@ -2628,35 +2628,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZnNYav",
     "atualizado_em": "2026-10-14T13:08:30.786-03:00"
-  },
-  {
-    "id": "amazon:B07L4TSL64",
-    "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L",
-    "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
-    "preco": 131,
-    "preco_anterior": 222,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
-    "atualizado_em": "2026-10-14T13:03:14.661-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42137247",
-    "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 187.47,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1617bfR",
-    "atualizado_em": "2026-10-14T12:58:11.320-03:00"
-  },
-  {
-    "id": "amazon:B0GW48RBS7",
-    "titulo": "Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71+tkckV3RL._AC_SL1500_.jpg",
-    "preco": 129,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
-    "atualizado_em": "2026-10-14T12:53:03.911-03:00"
   }
 ]
