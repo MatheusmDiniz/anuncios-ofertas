@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FSVQZYX",
+    "titulo": "Fralda Descartável Huggies Supreme Care, Tamanho M, 40 Unidades | Máxima Proteção, Tecnologia Xtra-Flex, Canais em X Adaptáveis",
+    "imagem": "https://m.media-amazon.com/images/I/71m-sNFETuL._AC_SL1500_.jpg",
+    "preco": 48,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=malica09-20",
+    "atualizado_em": "2026-10-16T20:56:10.498-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62250973",
     "titulo": "Triciclo Infantil Cardoso Toys Totokinha Sport Com Buzina Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_671578-MLA98618766349_112025-F.jpg",
@@ -2818,15 +2828,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/33eQvU2",
     "atualizado_em": "2026-10-15T08:56:48.016-03:00"
-  },
-  {
-    "id": "shopee:1203275050.23399301876",
-    "titulo": "Calça Jeans Cargo infantil Juvenil 6 ao 14 Anos  LANÇAMENTO ALTO PADRÃO",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjll16ca1zie80",
-    "preco": 59.9,
-    "preco_anterior": 99.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9APPsH5TA1",
-    "atualizado_em": "2026-10-15T08:51:39.080-03:00"
   }
 ]
