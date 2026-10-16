@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69043943",
+    "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_773586-MLA111150850509_052026-F.jpg",
+    "preco": 193.9,
+    "preco_anterior": 369.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1gCbuXb",
+    "atualizado_em": "2026-10-16T20:15:30.276-03:00"
+  },
+  {
     "id": "shopee:1842617353.58212371227",
     "titulo": "Jaqueta Chimpa Infantil Com Ziper e Bolsos e Punhos Origin's",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m9-mpcrx2gb93baf7",
@@ -2848,15 +2858,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dggwXF",
     "atualizado_em": "2026-10-15T08:15:50.119-03:00"
-  },
-  {
-    "id": "amazon:B0BFXJ12QQ",
-    "titulo": "Huggies Fralda Supreme Care M 196 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
-    "preco": 166,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
-    "atualizado_em": "2026-10-15T08:10:42.864-03:00"
   }
 ]
