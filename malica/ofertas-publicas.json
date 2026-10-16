@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00YDY5BKI",
+    "titulo": "Musti Perfume Suave Mustela Bebê, Perfume Infantil, 97% de ingredientes de origem natural, 50ml, Mustela Bebê, 50 Ml",
+    "imagem": "https://m.media-amazon.com/images/I/41W1FVl5jKL._AC_SL1500_.jpg",
+    "preco": 93,
+    "preco_anterior": 147,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00YDY5BKI?tag=malica09-20",
+    "atualizado_em": "2026-10-16T14:02:54.528-03:00"
+  },
+  {
     "id": "amazon:B0C3FSF7KF",
     "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51p6dMmnxrL._AC_SL1500_.jpg",
