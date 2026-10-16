@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0779M3L8K",
+    "titulo": "Pelúcia Marshall, Patrulha Canina, Sunny",
+    "imagem": "https://m.media-amazon.com/images/I/51rOaIuCS3L._AC_SL1500_.jpg",
+    "preco": 78.1,
+    "preco_anterior": 129.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0779M3L8K?tag=malica09-20",
+    "atualizado_em": "2026-10-16T11:19:08.227-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45072765",
     "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
