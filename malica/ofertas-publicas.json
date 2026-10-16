@@ -2948,35 +2948,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qcnXye3uo",
     "atualizado_em": "2026-10-14T10:23:48.028-03:00"
-  },
-  {
-    "id": "amazon:B0FXN957HN",
-    "titulo": "Quadrados de Algodão Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
-    "preco": 27,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
-    "atualizado_em": "2026-10-14T10:18:41.489-03:00"
-  },
-  {
-    "id": "shopee:1676334505.22194721623",
-    "titulo": "Kit 3 Legging Infantil Estampada Algodão Tamanhos 1 ao 10",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-msftewocritie1",
-    "preco": 38,
-    "preco_anterior": 90.48,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9pf54fjHEh",
-    "atualizado_em": "2026-10-14T10:13:36.708-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63037784",
-    "titulo": "Cadeira de Descanso Balanço Vibratória para Bebê Rosa com Brinquedos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677469-MLA100480755010_122025-F.jpg",
-    "preco": 135,
-    "preco_anterior": 228.2,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Cmo61f",
-    "atualizado_em": "2026-10-14T10:08:29.203-03:00"
   }
 ]
