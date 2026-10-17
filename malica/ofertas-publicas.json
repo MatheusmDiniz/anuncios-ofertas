@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74536231",
+    "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
+    "preco": 499.99,
+    "preco_anterior": 999.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hhY1XL",
+    "atualizado_em": "2026-10-17T19:19:43.448-03:00"
+  },
+  {
     "id": "amazon:B07D2FKWBT",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
