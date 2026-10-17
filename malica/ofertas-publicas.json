@@ -2098,35 +2098,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40hJikCg5P",
     "atualizado_em": "2026-10-15T15:48:45.957-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38625704",
-    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
-    "preco": 199,
-    "preco_anterior": 349.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2F3uZsP",
-    "atualizado_em": "2026-10-15T15:43:38.633-03:00"
-  },
-  {
-    "id": "shopee:399621856.23992794977",
-    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
-    "preco": 31.59,
-    "preco_anterior": 45.13,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qcp8kq87s",
-    "atualizado_em": "2026-10-15T15:38:25.302-03:00"
-  },
-  {
-    "id": "amazon:B0964FR2L8",
-    "titulo": "Burigotto Banheira Millenia, Azul Bebê",
-    "imagem": "https://m.media-amazon.com/images/I/51n45tDFfQS._AC_SL1500_.jpg",
-    "preco": 249,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0964FR2L8?tag=malica09-20",
-    "atualizado_em": "2026-10-15T15:33:13.677-03:00"
   }
 ]
