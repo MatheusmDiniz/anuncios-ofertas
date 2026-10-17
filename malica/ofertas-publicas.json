@@ -2648,35 +2648,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8V9j9jeS7k",
     "atualizado_em": "2026-10-15T11:04:36.960-03:00"
-  },
-  {
-    "id": "amazon:B0CHZCWLV6",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, Fragrância Suave, 120g | Barreira Branca de Longa Duração, Dermatologicamente Testado, Uso Diário",
-    "imagem": "https://m.media-amazon.com/images/I/41BwxdG9AnL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CHZCWLV6?tag=malica09-20",
-    "atualizado_em": "2026-10-15T10:59:31.875-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24820639",
-    "titulo": "Triciclo Cardoso Totokinha Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742209-MLA95937453019_102025-F.jpg",
-    "preco": 119.9,
-    "preco_anterior": 222.93,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1kiJy46",
-    "atualizado_em": "2026-10-15T10:54:27.892-03:00"
-  },
-  {
-    "id": "amazon:B07Z55NZ7G",
-    "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
-    "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
-    "atualizado_em": "2026-10-15T10:49:18.719-03:00"
   }
 ]
