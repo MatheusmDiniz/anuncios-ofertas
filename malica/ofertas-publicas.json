@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C3JGG83X",
+    "titulo": "Granado Sabonete Líquido Bebê, Calêndula, 500ml",
+    "imagem": "https://m.media-amazon.com/images/I/51E7vdKFEmL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C3JGG83X?tag=malica09-20",
+    "atualizado_em": "2026-10-17T16:37:17.774-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25120404",
     "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
