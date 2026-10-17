@@ -2528,35 +2528,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6526113427?tag=malica09-20",
     "atualizado_em": "2026-10-15T12:06:14.828-03:00"
-  },
-  {
-    "id": "amazon:B0DSCGLT32",
-    "titulo": "Ypê Amaciante Tradicional Ultra Intenso, 5L",
-    "imagem": "https://m.media-amazon.com/images/I/51ZUWgk3DyL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DSCGLT32?tag=malica09-20",
-    "atualizado_em": "2026-10-15T12:01:08.289-03:00"
-  },
-  {
-    "id": "amazon:B0B1GZMBR1",
-    "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec, Tamanho XXG, 48 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71RFSrWVCPL._AC_SL1500_.jpg",
-    "preco": 51,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B1GZMBR1?tag=malica09-20",
-    "atualizado_em": "2026-10-15T11:56:05.006-03:00"
-  },
-  {
-    "id": "amazon:B0DW9L8BFD",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Desitin, Máxima Proteção, 57g | Contém 40% de Óxido de Zinco, Previne Irritações na Área da Fralda",
-    "imagem": "https://m.media-amazon.com/images/I/61YuVEtlcpL._AC_SL1500_.jpg",
-    "preco": 53,
-    "preco_anterior": 83,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DW9L8BFD?tag=malica09-20",
-    "atualizado_em": "2026-10-15T11:50:59.918-03:00"
   }
 ]
