@@ -2328,35 +2328,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07Z5B115H?tag=malica09-20",
     "atualizado_em": "2026-10-15T13:50:10.503-03:00"
-  },
-  {
-    "id": "amazon:B07DHRPTPB",
-    "titulo": "Shampoo de Glicerina Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1500_.jpg",
-    "preco": 16,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRPTPB?tag=malica09-20",
-    "atualizado_em": "2026-10-15T13:45:03.761-03:00"
-  },
-  {
-    "id": "amazon:B07FN1XPNW",
-    "titulo": "Lenços Huggies Higiene Superior Limpam 2x Mais 6 x 48 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71rS1wIq+bL._AC_SL1500_.jpg",
-    "preco": 49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FN1XPNW?tag=malica09-20",
-    "atualizado_em": "2026-10-15T13:39:58.116-03:00"
-  },
-  {
-    "id": "amazon:B07ZHGT9ZT",
-    "titulo": "Baby Dove Sabonete Líquido Hidratação Glicerinada 400 ML",
-    "imagem": "https://m.media-amazon.com/images/I/61bL8uVCTxL._AC_SL1500_.jpg",
-    "preco": 15.29,
-    "preco_anterior": 33.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZHGT9ZT?tag=malica09-20",
-    "atualizado_em": "2026-10-15T13:34:25.288-03:00"
   }
 ]
