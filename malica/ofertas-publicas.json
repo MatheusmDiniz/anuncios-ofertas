@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DH5Z72BP",
+    "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 750g",
+    "imagem": "https://m.media-amazon.com/images/I/81lkzzcZBXL._AC_SL1500_.jpg",
+    "preco": 38,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DH5Z72BP?tag=malica09-20",
+    "atualizado_em": "2026-10-17T11:44:52.616-03:00"
+  },
+  {
     "id": "shopee:391301937.23194199744",
     "titulo": "Conjunto de Bebê Unissex Macacão Jardineira Safari com Estampa de Animais - Roupa Fofa para Bebê Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbtskss4i01359",
