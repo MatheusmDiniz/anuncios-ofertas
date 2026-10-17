@@ -2158,35 +2158,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=malica09-20",
     "atualizado_em": "2026-10-15T15:17:57.118-03:00"
-  },
-  {
-    "id": "amazon:B07KJXP8TK",
-    "titulo": "Malvatrikids F Infantil gel 70g",
-    "imagem": "https://m.media-amazon.com/images/I/51cI+X7NOjL._AC_SL1500_.jpg",
-    "preco": 17,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07KJXP8TK?tag=malica09-20",
-    "atualizado_em": "2026-10-15T15:12:51.073-03:00"
-  },
-  {
-    "id": "amazon:B0D1DSFV8C",
-    "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
-    "imagem": "https://m.media-amazon.com/images/I/61akH2rcdHL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": 44,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=malica09-20",
-    "atualizado_em": "2026-10-15T15:07:20.657-03:00"
-  },
-  {
-    "id": "amazon:B0FPRGYFCL",
-    "titulo": "Achocolatado NESCAU® 2,01kg",
-    "imagem": "https://m.media-amazon.com/images/I/61fgMVvEKiL._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPRGYFCL?tag=malica09-20",
-    "atualizado_em": "2026-10-15T15:02:15.128-03:00"
   }
 ]
