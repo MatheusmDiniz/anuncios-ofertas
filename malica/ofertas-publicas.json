@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KTRZP7",
+    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
+    "atualizado_em": "2026-10-17T19:52:10.080-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46681505",
     "titulo": "Cercadinho Bebê Infantil Chiqueirinho Cercado Grande 180x150 Proteção - 8X TECH",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_932524-MLA116048225124_092026-F.jpg",
