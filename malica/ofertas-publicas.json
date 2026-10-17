@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GC7TF7W",
+    "titulo": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ZBUQLjomL._AC_SL1500_.jpg",
+    "preco": 4,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=malica09-20",
+    "atualizado_em": "2026-10-16T21:28:43.679-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34803603",
     "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Ocean",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_869786-MLA96103846233_102025-F.jpg",
@@ -2788,25 +2798,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60SO6U7qct",
     "atualizado_em": "2026-10-15T09:32:43.157-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB50887952",
-    "titulo": "Coala Pelúcia Respira E Alivia C/ Som/luz - Polibrinq",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_873431-MLA111927513318_062026-F.jpg",
-    "preco": 133.59,
-    "preco_anterior": 256.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mS3aoG",
-    "atualizado_em": "2026-10-15T09:27:37.443-03:00"
-  },
-  {
-    "id": "shopee:502471158.23899476952",
-    "titulo": "Capa De Chuva Infantil Com Capuz Impermeável Colorida Pvc Proteção Total EVA Criança",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mte45egh1c00b1",
-    "preco": 17.99,
-    "preco_anterior": 29.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70KvIJdZdA",
-    "atualizado_em": "2026-10-15T09:22:25.114-03:00"
   }
 ]
