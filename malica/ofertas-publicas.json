@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB30018475",
+    "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
+    "preco": 46.41,
+    "preco_anterior": 77.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1XkBdfZ",
+    "atualizado_em": "2026-10-16T21:36:54.912-03:00"
+  },
+  {
     "id": "amazon:B07GC7TF7W",
     "titulo": "Mili Toalhas Umedecidas Baby, Uso Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71ZBUQLjomL._AC_SL1500_.jpg",
@@ -2788,15 +2798,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1GeSHG1",
     "atualizado_em": "2026-10-15T09:37:52.292-03:00"
-  },
-  {
-    "id": "shopee:392744038.23699181978",
-    "titulo": "KIT Chinelos de Bebê Menino e Menina Baby Brasil De Borracha Original Anti-Derrapante",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mm6p7z8wruo717",
-    "preco": 15.98,
-    "preco_anterior": 69.48,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60SO6U7qct",
-    "atualizado_em": "2026-10-15T09:32:43.157-03:00"
   }
 ]
