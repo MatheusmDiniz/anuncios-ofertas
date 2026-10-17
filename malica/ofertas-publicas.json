@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FKWBT",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
+    "preco": 17.99,
+    "preco_anterior": 34.49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
+    "atualizado_em": "2026-10-17T19:11:35.359-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
