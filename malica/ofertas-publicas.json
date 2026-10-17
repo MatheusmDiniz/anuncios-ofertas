@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DVCFC4PH",
+    "titulo": "Buba, Prato Com Divisórias Magic Dino : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51QozP+haPL._AC_SL1500_.jpg",
+    "preco": 18,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DVCFC4PH?tag=malica09-20",
+    "atualizado_em": "2026-10-17T16:04:54.002-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21283759",
     "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
