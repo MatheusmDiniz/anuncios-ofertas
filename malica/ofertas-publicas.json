@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63962761",
+    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SJwgA7",
+    "atualizado_em": "2026-10-17T11:52:59.754-03:00"
+  },
+  {
     "id": "amazon:B0DH5Z72BP",
     "titulo": "Leite em Pó Ninho Integral Instantâneo Sachê 750g",
     "imagem": "https://m.media-amazon.com/images/I/81lkzzcZBXL._AC_SL1500_.jpg",
