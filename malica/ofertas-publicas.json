@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CCZYS6KP",
+    "titulo": "KIT COLETOR DE LEITE MATERNO LILLO MAMY",
+    "imagem": "https://m.media-amazon.com/images/I/61ABsd5-DsL._AC_SL1500_.jpg",
+    "preco": 64,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CCZYS6KP?tag=malica09-20",
+    "atualizado_em": "2026-10-17T18:22:33.593-03:00"
+  },
+  {
     "id": "shopee:434188453.23994339315",
     "titulo": "Kit Conjunto de Saída de Maternidade Jardineira  Romper Casaquinho  Manta Luxo 3 Pecas Enxoval Tricô",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mqqbovv7az9c8e",
