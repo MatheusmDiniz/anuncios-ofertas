@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37136700",
+    "titulo": "Ursinho Que Reza Buba Pelúcia Oração Anjinho Da Guarda 24 Cm Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_934309-MLA95405210648_102025-F.jpg",
+    "preco": 108.9,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2vtC7xi",
+    "atualizado_em": "2026-10-17T08:06:06.541-03:00"
+  },
+  {
     "id": "shopee:341167297.54661500433",
     "titulo": "Kit 6 ou 4 peças Regata Infantil de Menino Minimalista Basico Verão Masculino Bebe Casual ou 6 Peças Roupa de Calor",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mp0ttzdplt6t9f",
@@ -1608,15 +1618,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2vSi35a",
     "atualizado_em": "2026-10-15T20:09:25.250-03:00"
-  },
-  {
-    "id": "shopee:575397523.51106656675",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3g4TK7j9PR",
-    "atualizado_em": "2026-10-15T20:04:18.315-03:00"
   }
 ]
