@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G8QLGSR",
+    "titulo": "Esterilizador De Microondas para Mamadeiras Bicos e Chupetas Philips Avent Azul/Branco",
+    "imagem": "https://m.media-amazon.com/images/I/51UOsl4f9jL._AC_SL1500_.jpg",
+    "preco": 159,
+    "preco_anterior": 259,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G8QLGSR?tag=malica09-20",
+    "atualizado_em": "2026-10-17T13:54:56.788-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26647118",
     "titulo": "Berço Portátil Cinza Com Regulagem de Altura Mosqueteiro e Base Acolchoada - Serenata Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_674750-MLA91565346640_092025-F.jpg",
