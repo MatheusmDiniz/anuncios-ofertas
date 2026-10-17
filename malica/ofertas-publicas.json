@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GHP6DWBN",
+    "titulo": "Oikos - Lixeira Antiodor Bebê para Fraldas 10L : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/61dNZC++zNL._AC_SL1500_.jpg",
+    "preco": 123,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GHP6DWBN?tag=malica09-20",
+    "atualizado_em": "2026-10-17T18:39:11.162-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72901008",
     "titulo": "Banheira com Suporte Dobrável para Bebê Mini Assento Válvula de Esvaziamento 45 Litros Lisa Plástico Rígido Até 30kg PipDip",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_847840-MLA116500118433_082026-F.jpg",
