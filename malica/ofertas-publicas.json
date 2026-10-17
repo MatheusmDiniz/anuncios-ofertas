@@ -2478,25 +2478,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DXL6PVLQ?tag=malica09-20",
     "atualizado_em": "2026-10-15T12:32:08.707-03:00"
-  },
-  {
-    "id": "amazon:8574067199",
-    "titulo": "Bem lá no alto",
-    "imagem": "https://m.media-amazon.com/images/I/81rqIZqHufL._AC_SL1500_.jpg",
-    "preco": 38.21,
-    "preco_anterior": 64.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/8574067199?tag=malica09-20",
-    "atualizado_em": "2026-10-15T12:27:03.425-03:00"
-  },
-  {
-    "id": "amazon:B0FMFWWD8H",
-    "titulo": "Carrinho de Passeio C/Bebê Conforto TS NIVI Maxi Baby (Preto)",
-    "imagem": "https://m.media-amazon.com/images/I/617+bvpyUcL._AC_SL1500_.jpg",
-    "preco": 685,
-    "preco_anterior": 1399,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMFWWD8H?tag=malica09-20",
-    "atualizado_em": "2026-10-15T12:21:57.115-03:00"
   }
 ]
