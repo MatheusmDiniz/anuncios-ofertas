@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65896917",
+    "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
+    "preco": 699,
+    "preco_anterior": 1199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/18sA7ah",
+    "atualizado_em": "2026-10-17T20:24:38.993-03:00"
+  },
+  {
     "id": "shopee:1605394896.58200478308",
     "titulo": "3 Macacões Roupa de Bebê Menino Menina Canelado Vira Pé com Proteção de Zíper RN ao G",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-msk9balppwxy82",
@@ -2258,25 +2268,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qkHwutw9e",
     "atualizado_em": "2026-10-16T08:29:15.560-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79255155",
-    "titulo": "Grade Portão Preto Proteção Pets 68 A 73 / 78 A 83 Cm Cachorro Aramado 69cm Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953921-MLA116089682148_092026-F.jpg",
-    "preco": 70.27,
-    "preco_anterior": 121.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2dF7g1Y",
-    "atualizado_em": "2026-10-16T08:24:10.014-03:00"
-  },
-  {
-    "id": "shopee:1361476561.22493583538",
-    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
-    "preco": 36.99,
-    "preco_anterior": 73.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4B0jv3C2kQ",
-    "atualizado_em": "2026-10-16T08:19:01.101-03:00"
   }
 ]
