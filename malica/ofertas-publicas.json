@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXJHXDP",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
+    "imagem": "https://m.media-amazon.com/images/I/81kCJKbN01L._AC_SL1500_.jpg",
+    "preco": 166,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXJHXDP?tag=malica09-20",
+    "atualizado_em": "2026-10-16T21:12:26.899-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22323833",
     "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
@@ -2798,25 +2808,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1dGGePF",
     "atualizado_em": "2026-10-15T09:17:20.252-03:00"
-  },
-  {
-    "id": "shopee:1235531208.22599451096",
-    "titulo": "Kit 3 Ou Duas Calças Infantil Calças Resistentes Com Bolsos Calça Infantil Slim Fit",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmsciru7pkowd5",
-    "preco": 32.75,
-    "preco_anterior": 49.62,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9zyWroxUdl",
-    "atualizado_em": "2026-10-15T09:12:12.149-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79495523",
-    "titulo": "Berço Co-sleeper Multifuncional Portátil Com Mosquiteiro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866011-MLA117838148765_092026-F.jpg",
-    "preco": 484,
-    "preco_anterior": 1100,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1u6uy2V",
-    "atualizado_em": "2026-10-15T09:07:03.441-03:00"
   }
 ]
