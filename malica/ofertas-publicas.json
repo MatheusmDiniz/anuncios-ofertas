@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67677338",
+    "titulo": "3 Em 1 Carrinho Bebé ,dobrável,versátil E Prático! Reversíve Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652266-MLA116730535923_082026-F.jpg",
+    "preco": 708.59,
+    "preco_anterior": 1499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19bFswm",
+    "atualizado_em": "2026-10-17T20:57:07.675-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53365359",
     "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
@@ -2238,25 +2248,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q1Vfg0MKj",
     "atualizado_em": "2026-10-16T08:59:59.908-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63854956",
-    "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703485-MLA103647296121_012026-F.jpg",
-    "preco": 140.99,
-    "preco_anterior": 237.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/23Yzgaa",
-    "atualizado_em": "2026-10-16T08:54:53.961-03:00"
-  },
-  {
-    "id": "shopee:1396316927.22393516179",
-    "titulo": "Conjunto Infantil Masculino De Verão - Camisa + Bermuda - Tamanho 2 Ao 12 Anos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mtgzc9pi8lc1d5",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/Lo2wtDwhj",
-    "atualizado_em": "2026-10-16T08:49:45.362-03:00"
   }
 ]
