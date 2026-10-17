@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22323833",
+    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
+    "preco": 114.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2USZ6QU",
+    "atualizado_em": "2026-10-16T21:04:20.153-03:00"
+  },
+  {
     "id": "amazon:B07FSVQZYX",
     "titulo": "Fralda Descartável Huggies Supreme Care, Tamanho M, 40 Unidades | Máxima Proteção, Tecnologia Xtra-Flex, Canais em X Adaptáveis",
     "imagem": "https://m.media-amazon.com/images/I/71m-sNFETuL._AC_SL1500_.jpg",
