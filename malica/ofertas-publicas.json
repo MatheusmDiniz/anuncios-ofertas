@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34803603",
+    "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Ocean",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869786-MLA96103846233_102025-F.jpg",
+    "preco": 99,
+    "preco_anterior": 166.51,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Yx6UXi",
+    "atualizado_em": "2026-10-16T21:20:36.884-03:00"
+  },
+  {
     "id": "amazon:B0BFXJHXDP",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XG 140 unidades – aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção",
     "imagem": "https://m.media-amazon.com/images/I/81kCJKbN01L._AC_SL1500_.jpg",
@@ -2798,15 +2808,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70KvIJdZdA",
     "atualizado_em": "2026-10-15T09:22:25.114-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73079168",
-    "titulo": "Berço Bebê Mini Cama Infantil Life Amadeirado Tigus Baby 100% Mdf Com Estrado Regulável Design Americano Moderno",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793843-MLA115310875387_072026-F.jpg",
-    "preco": 382.89,
-    "preco_anterior": 1079,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1dGGePF",
-    "atualizado_em": "2026-10-15T09:17:20.252-03:00"
   }
 ]
