@@ -2128,35 +2128,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0964FR2L8?tag=malica09-20",
     "atualizado_em": "2026-10-15T15:33:13.677-03:00"
-  },
-  {
-    "id": "amazon:B0CB6VHWHY+B0CDSWVHYZ+B0CDSX5QHG",
-    "titulo": "Philips Avent Mamadeira Pétala 3.0 9oz/260ml com Bico de Fluxo Médio (Fluxo 3), Azul, SCY903/01",
-    "imagem": "https://m.media-amazon.com/images/I/41kTHaf5GpL._AC_SL1500_.jpg",
-    "preco": 59,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CB6VHWHY?tag=malica09-20",
-    "atualizado_em": "2026-10-15T15:28:08.168-03:00"
-  },
-  {
-    "id": "amazon:B09LRDGH1Q",
-    "titulo": "Cadeira de Refeição Burigotto Poke, Preto Night Sky",
-    "imagem": "https://m.media-amazon.com/images/I/51buSR2zlvL._AC_SL1500_.jpg",
-    "preco": 199,
-    "preco_anterior": 367,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09LRDGH1Q?tag=malica09-20",
-    "atualizado_em": "2026-10-15T15:23:02.736-03:00"
-  },
-  {
-    "id": "amazon:B07D2FXHM1",
-    "titulo": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/51kcPBSuPRL._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=malica09-20",
-    "atualizado_em": "2026-10-15T15:17:57.118-03:00"
   }
 ]
