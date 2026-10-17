@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:429438031.23498723011",
+    "titulo": "Kit Touca e Luvas Personalizado Maternidade Recém-Nascido Super Macia Malha Algodão RN",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxukwz027t25d",
+    "preco": 19.95,
+    "preco_anterior": 39.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BUeLXmbIa",
+    "atualizado_em": "2026-10-17T09:43:30.021-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215255",
     "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
@@ -1538,25 +1548,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/BUc2BV7MK",
     "atualizado_em": "2026-10-15T21:46:43.573-03:00"
-  },
-  {
-    "id": "shopee:287082132.27580831879",
-    "titulo": "Colchão Para Berço Desmontável Chiqueirinho Cercadinho Capa Removível 90x60x07cm Macio",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg841a0agnb4ed",
-    "preco": 57.9,
-    "preco_anterior": 89.08,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8V9jxTzjEQ",
-    "atualizado_em": "2026-10-15T21:41:36.465-03:00"
-  },
-  {
-    "id": "amazon:B08NQNXMPL",
-    "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
-    "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
-    "preco": 69,
-    "preco_anterior": 93,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=malica09-20",
-    "atualizado_em": "2026-10-15T21:36:31.100-03:00"
   }
 ]
