@@ -2618,35 +2618,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093GBK61Q?tag=malica09-20",
     "atualizado_em": "2026-10-15T11:19:55.687-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28318987",
-    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
-    "preco": 199,
-    "preco_anterior": 369,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tjqGTg",
-    "atualizado_em": "2026-10-15T11:14:50.515-03:00"
-  },
-  {
-    "id": "amazon:B0BGM6P1SF",
-    "titulo": "Personal Fralda Baby Premium Pants M, 48 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/513V4AsINwL._AC_SL1500_.jpg",
-    "preco": 26.99,
-    "preco_anterior": 80.03,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BGM6P1SF?tag=malica09-20",
-    "atualizado_em": "2026-10-15T11:09:41.474-03:00"
-  },
-  {
-    "id": "shopee:1045804093.22492958419",
-    "titulo": "Kit Enxoval Cueiro e Paninho de boca ( 9 PEÇAS ) Bebê",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd4l-lu12o63azpqq01",
-    "preco": 30.99,
-    "preco_anterior": 59.6,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8V9j9jeS7k",
-    "atualizado_em": "2026-10-15T11:04:36.960-03:00"
   }
 ]
