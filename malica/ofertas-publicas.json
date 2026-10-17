@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1253561331.22293115832",
+    "titulo": "Macacão Promoção Jardineira Body Manga Longa Kids Bebê Menina Bordado de Ursinha Lola Palha",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mn1d7qur91qc9e",
+    "preco": 59.67,
+    "preco_anterior": 85.24,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5q8xu6au12",
+    "atualizado_em": "2026-10-17T08:22:21.073-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46014518",
     "titulo": "LEGO Speed Champions Carro de Corrida Mercedes-AMG F1 W15 77244; Carro de Fórmula 1 de Brinquedo para Montar e Colecionar",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_644135-MLA99977337429_112025-F.jpg",
@@ -1598,15 +1608,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1rH36kv",
     "atualizado_em": "2026-10-15T20:24:45.629-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20787112",
-    "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745997-MLA111515571650_062026-F.jpg",
-    "preco": 114.39,
-    "preco_anterior": 279,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1QJboPA",
-    "atualizado_em": "2026-10-15T20:19:38.631-03:00"
   }
 ]
