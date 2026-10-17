@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07N4FX3TC",
+    "titulo": "Lysoform Original, Desinfetante Líquido, Limpeza Casa, 5L",
+    "imagem": "https://m.media-amazon.com/images/I/61kCz5HQ12L._AC_SL1500_.jpg",
+    "preco": 44,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07N4FX3TC?tag=malica09-20",
+    "atualizado_em": "2026-10-17T12:50:07.815-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24853515",
     "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
