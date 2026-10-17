@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34813250",
+    "titulo": "Brinquedo Pelúcia Infantil Ursinho Reza Bege 18056 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_935033-MLA95689805484_102025-F.jpg",
+    "preco": 110.31,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Zu9TfE",
+    "atualizado_em": "2026-10-17T11:28:42.698-03:00"
+  },
+  {
     "id": "amazon:B0DV7BN75H",
     "titulo": "Fralda Pampers Supersequinha Tamanho XG 70 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61mRVh6xnFL._AC_SL1500_.jpg",
