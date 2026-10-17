@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MFDV3XM",
+    "titulo": "Composto Lácteo Ninho Forti+, Zero Lactose, 380g",
+    "imagem": "https://m.media-amazon.com/images/I/51nrOpveCxL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MFDV3XM?tag=malica09-20",
+    "atualizado_em": "2026-10-17T13:06:20.335-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875937",
     "titulo": "Sabonete Líquido Johnson's Baby Recém Nascido, 200ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
