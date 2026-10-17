@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1340846779.46058770769",
+    "titulo": "Macacão Bebê Cerejinha Menina Quentinho Com Vira Pé Para Dias Frio Macacão Feminino Com Ziper",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mn0b5pf66rr5c3",
+    "preco": 30.07,
+    "preco_anterior": 50.12,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fpXhnbXM1",
+    "atualizado_em": "2026-10-16T21:45:01.281-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB30018475",
     "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
@@ -2778,25 +2788,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26CTJJv",
     "atualizado_em": "2026-10-15T09:48:07.783-03:00"
-  },
-  {
-    "id": "shopee:744229092.58215504309",
-    "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
-    "preco": 21.99,
-    "preco_anterior": 81.44,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70KvIKURO7",
-    "atualizado_em": "2026-10-15T09:42:59.053-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76312233",
-    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_873811-MLA115148469576_082026-F.jpg",
-    "preco": 160.92,
-    "preco_anterior": 319.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1GeSHG1",
-    "atualizado_em": "2026-10-15T09:37:52.292-03:00"
   }
 ]
