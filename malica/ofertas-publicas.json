@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H1JZFBS7",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/815+3hRSL1L._AC_SL1500_.jpg",
+    "preco": 0.8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H1JZFBS7?tag=malica09-20",
+    "atualizado_em": "2026-10-17T12:33:56.106-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76204604",
     "titulo": "Suporte De Banho Bebê Em Pé Ajustável Antiderrapante Coluna Ajustável e Seguro Suporte Para Chuveiro Infantil Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629796-MLA115448219481_082026-F.jpg",
