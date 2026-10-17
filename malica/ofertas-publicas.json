@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G9ZSW31",
+    "titulo": "Mili Fralda Ultra Seca Jumbinho 1X18 Xg",
+    "imagem": "https://m.media-amazon.com/images/I/711BbDb1U7L._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G9ZSW31?tag=malica09-20",
+    "atualizado_em": "2026-10-17T13:38:45.150-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68032214",
     "titulo": "Brinquedo Cubo Didático Madeira Montessori Infantil 5 Em 1 Atacarejo Kids",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_743529-MLA116992831764_102026-F.jpg",
