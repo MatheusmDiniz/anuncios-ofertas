@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1605394896.58200478308",
+    "titulo": "3 Macacões Roupa de Bebê Menino Menina Canelado Vira Pé com Proteção de Zíper RN ao G",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-msk9balppwxy82",
+    "preco": 59.98,
+    "preco_anterior": 99.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2qVPgANiyI",
+    "atualizado_em": "2026-10-17T20:16:32.591-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35340738",
     "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
@@ -2268,15 +2278,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B0jv3C2kQ",
     "atualizado_em": "2026-10-16T08:19:01.101-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB57083030",
-    "titulo": "Triciclo Infantil Rosa Maral 2 em 1 Passeio e Pedal com Buzina",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631641-MLA115957780725_082026-F.jpg",
-    "preco": 385.21,
-    "preco_anterior": 652.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Hw7SHG",
-    "atualizado_em": "2026-10-16T08:08:50.705-03:00"
   }
 ]
