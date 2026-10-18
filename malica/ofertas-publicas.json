@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39044873",
+    "titulo": "Barbie Carro Conversível Roxo - Mattel Roxo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674982-MLA99529948420_122025-F.jpg",
+    "preco": 157.99,
+    "preco_anterior": 269.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1rm28pX",
+    "atualizado_em": "2026-10-18T08:59:58.429-03:00"
+  },
+  {
     "id": "shopee:341167297.22027095524",
     "titulo": "Conjunto Bebê Masculino Menino Infantil Verão Manga Curta Tamanho 1 ao 8 - Roupa para Bebê Masculino L01",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-muc5lb57wyyo3e",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2USZ6QU",
     "atualizado_em": "2026-10-16T21:04:20.153-03:00"
-  },
-  {
-    "id": "amazon:B07FSVQZYX",
-    "titulo": "Fralda Descartável Huggies Supreme Care, Tamanho M, 40 Unidades | Máxima Proteção, Tecnologia Xtra-Flex, Canais em X Adaptáveis",
-    "imagem": "https://m.media-amazon.com/images/I/71m-sNFETuL._AC_SL1500_.jpg",
-    "preco": 48,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FSVQZYX?tag=malica09-20",
-    "atualizado_em": "2026-10-16T20:56:10.498-03:00"
   }
 ]
