@@ -1988,35 +1988,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076QZB182?tag=malica09-20",
     "atualizado_em": "2026-10-16T11:49:45.087-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77311383",
-    "titulo": "Mochila Maternidade NTESX com Trocador, Térmica e Impermeável Azul-Marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611530-MLA116251507724_092026-F.jpg",
-    "preco": 111.52,
-    "preco_anterior": 251.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1LFQECa",
-    "atualizado_em": "2026-10-16T11:44:40.298-03:00"
-  },
-  {
-    "id": "amazon:B0BQX2CWLL",
-    "titulo": "Lixeira Mágica Baby Mel - 3 em 1 Antiodor, Antibacteriana e Antiviral, Capacidade de 10L - Essencial para o Quarto do Bebê (Branco) : Amazon.com.br: Casa",
-    "imagem": "https://m.media-amazon.com/images/I/51lq8gkFG5L._AC_SL1500_.jpg",
-    "preco": 109.69,
-    "preco_anterior": 149.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BQX2CWLL?tag=malica09-20",
-    "atualizado_em": "2026-10-16T11:39:31.958-03:00"
-  },
-  {
-    "id": "amazon:B0BXM3TSS9",
-    "titulo": "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/81rfab7At1L._AC_SL1500_.jpg",
-    "preco": 76,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BXM3TSS9?tag=malica09-20",
-    "atualizado_em": "2026-10-16T11:34:25.850-03:00"
   }
 ]
