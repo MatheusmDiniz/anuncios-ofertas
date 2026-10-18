@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1263405995.46961569882",
+    "titulo": "Pomada para Assaduras 60g Creme Protetor Confortável Cuidado Pele Preventivo Contra Irritação",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mozs7v01c7wm82",
+    "preco": 15,
+    "preco_anterior": 23.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/40hOVVpEoY",
+    "atualizado_em": "2026-10-18T09:40:33.627-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39156395",
     "titulo": "Almofada Para Amamentação Feeding G",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_989397-MLA95666849580_102025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5fpXhnbXM1",
     "atualizado_em": "2026-10-16T21:45:01.281-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB30018475",
-    "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
-    "preco": 46.41,
-    "preco_anterior": 77.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1XkBdfZ",
-    "atualizado_em": "2026-10-16T21:36:54.912-03:00"
   }
 ]
