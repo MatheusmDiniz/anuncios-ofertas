@@ -1298,25 +1298,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08R9XTH39?tag=malica09-20",
     "atualizado_em": "2026-10-16T18:21:55.005-03:00"
-  },
-  {
-    "id": "shopee:1525304871.58208966280",
-    "titulo": "Protetor Solar Nivea Kids & Babies Pele Sensível FPS 60 100ml - Infantil, muito alta proteção UVA/UVB",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821eq-mhbc3aaafea69e",
-    "preco": 37.98,
-    "preco_anterior": 61.26,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AWusCAIfh",
-    "atualizado_em": "2026-10-16T18:13:49.627-03:00"
-  },
-  {
-    "id": "amazon:B00B71OQYC",
-    "titulo": "Apple iPhone Duo (256 GB) - Céu noturno",
-    "imagem": "https://m.media-amazon.com/images/I/51cnT-AwDqL._AC_SL1500_.jpg",
-    "preco": 19799,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00B71OQYC?tag=malica09-20",
-    "atualizado_em": "2026-10-16T18:05:44.338-03:00"
   }
 ]
