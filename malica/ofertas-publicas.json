@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW48ZKYM",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
+    "preco": 101,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW48ZKYM?tag=malica09-20",
+    "atualizado_em": "2026-10-18T13:44:12.189-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77878054",
     "titulo": "Canguru Bolsa Carrega Bebe Passeio 12 Posições 3em1 Até 20kg Cor Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_665744-MLA116502903973_082026-F.jpg",
