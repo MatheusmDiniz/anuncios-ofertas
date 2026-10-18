@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69274253",
+    "titulo": "Bomba Tira Leite Elétrica OLANENEM, Portátil e Sem Fio, Para Mães de 0 a 6 Meses",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_625499-MLA115322385283_072026-F.jpg",
+    "preco": 168,
+    "preco_anterior": 420,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1JL3mdd",
+    "atualizado_em": "2026-10-18T13:52:21.805-03:00"
+  },
+  {
     "id": "amazon:B0GW48ZKYM",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, 90 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61d8-utgUkL._AC_SL1500_.jpg",
