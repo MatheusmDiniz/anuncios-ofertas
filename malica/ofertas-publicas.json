@@ -1638,35 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B089M5VWXP?tag=malica09-20",
     "atualizado_em": "2026-10-16T14:49:13.876-03:00"
-  },
-  {
-    "id": "amazon:B0DVTBWQ8Q",
-    "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": 34,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=malica09-20",
-    "atualizado_em": "2026-10-16T14:44:08.440-03:00"
-  },
-  {
-    "id": "amazon:B07ZQVVP87",
-    "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
-    "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
-    "preco": 68,
-    "preco_anterior": 90,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
-    "atualizado_em": "2026-10-16T14:39:02.490-03:00"
-  },
-  {
-    "id": "amazon:B07VLJCJSW",
-    "titulo": "Repelente Elétrico Líquido SBP 45 Noites Cheiro Suave Novo Aparelho + Refil : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/71AvjPNqsxL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07VLJCJSW?tag=malica09-20",
-    "atualizado_em": "2026-10-16T14:33:56.101-03:00"
   }
 ]
