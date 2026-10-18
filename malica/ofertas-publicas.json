@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1542191566.45115032491",
+    "titulo": "Conjunto Bebê Menino Jardineira Bordada + Camiseta Listrada Manga Curta Masculino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr7pev3i1vk4c5",
+    "preco": 40.99,
+    "preco_anterior": 60.28,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7AeLUZ0cfF",
+    "atualizado_em": "2026-10-17T21:21:29.594-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35340733",
     "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
@@ -2218,15 +2228,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DGZ2CBG2?tag=malica09-20",
     "atualizado_em": "2026-10-16T09:25:57.308-03:00"
-  },
-  {
-    "id": "shopee:1625500226.23494419895",
-    "titulo": "(luz) Casinha de Boneca com 16/14/8/7/4 Quartos Corda de Luzes Brinquedo para Crianças Presente De Aniversário",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjrsuwcq93i9d3",
-    "preco": 119,
-    "preco_anterior": 198.33,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9KirfUI4Ld",
-    "atualizado_em": "2026-10-16T09:20:25.917-03:00"
   }
 ]
