@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53258842",
+    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612441-MLA99520261016_112025-F.jpg",
+    "preco": 255,
+    "preco_anterior": 449.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ovyxhc",
+    "atualizado_em": "2026-10-18T08:43:42.504-03:00"
+  },
+  {
     "id": "shopee:548029260.58257405717",
     "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2cjsFhU",
     "atualizado_em": "2026-10-16T20:48:05.927-03:00"
-  },
-  {
-    "id": "amazon:B0BCGZSRCN",
-    "titulo": "Cosco Kids, Travel System Reverse, Cinza Rajado",
-    "imagem": "https://m.media-amazon.com/images/I/61FEbc9F6eL._AC_SL1500_.jpg",
-    "preco": 692,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BCGZSRCN?tag=malica09-20",
-    "atualizado_em": "2026-10-16T20:39:55.886-03:00"
   }
 ]
