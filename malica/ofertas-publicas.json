@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72860329",
+    "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
+    "preco": 397,
+    "preco_anterior": 799.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zqDmPY",
+    "atualizado_em": "2026-10-18T20:24:46.240-03:00"
+  },
+  {
     "id": "amazon:B08K4JSQ2M",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 96 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61ClanZn8jL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2q4b5HH",
     "atualizado_em": "2026-10-17T08:30:30.107-03:00"
-  },
-  {
-    "id": "shopee:1253561331.22293115832",
-    "titulo": "Macacão Promoção Jardineira Body Manga Longa Kids Bebê Menina Bordado de Ursinha Lola Palha",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mn1d7qur91qc9e",
-    "preco": 59.67,
-    "preco_anterior": 85.24,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5q8xu6au12",
-    "atualizado_em": "2026-10-17T08:22:21.073-03:00"
   }
 ]
