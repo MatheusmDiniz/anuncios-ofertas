@@ -2048,35 +2048,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0779M3L8K?tag=malica09-20",
     "atualizado_em": "2026-10-16T11:19:08.227-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45072765",
-    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Rosa-claro Cor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835766-MLA113894817578_072026-F.jpg",
-    "preco": 188,
-    "preco_anterior": 350,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1YoRuRy",
-    "atualizado_em": "2026-10-16T11:14:02.116-03:00"
-  },
-  {
-    "id": "amazon:B0C2B4F83D",
-    "titulo": "Fralda Huggies Little Swimmers G/XG 10 Un",
-    "imagem": "https://m.media-amazon.com/images/I/610Wkwt1T4L._AC_SL1500_.jpg",
-    "preco": 33,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2B4F83D?tag=malica09-20",
-    "atualizado_em": "2026-10-16T11:08:53.434-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62445069",
-    "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Vermelho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_849686-MLA99207858759_112025-F.jpg",
-    "preco": 325.91,
-    "preco_anterior": 619.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/267JK1m",
-    "atualizado_em": "2026-10-16T11:03:47.121-03:00"
   }
 ]
