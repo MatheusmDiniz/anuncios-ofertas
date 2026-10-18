@@ -1758,35 +1758,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08GZBDWF4?tag=malica09-20",
     "atualizado_em": "2026-10-16T13:47:36.367-03:00"
-  },
-  {
-    "id": "amazon:B0BW11X8VR",
-    "titulo": "Cadeira Para Auto Maximus até 25 Kg Preto Galzerano",
-    "imagem": "https://m.media-amazon.com/images/I/71HVoM6qF9L._AC_SL1500_.jpg",
-    "preco": 263,
-    "preco_anterior": 529,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BW11X8VR?tag=malica09-20",
-    "atualizado_em": "2026-10-16T13:42:31.589-03:00"
-  },
-  {
-    "id": "amazon:B07M73V2LJ",
-    "titulo": "NAN Fórmula Infantil Nan Comfor 2 800G : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/81VsYfIcsQL._AC_SL1500_.jpg",
-    "preco": 76,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07M73V2LJ?tag=malica09-20",
-    "atualizado_em": "2026-10-16T13:37:25.683-03:00"
-  },
-  {
-    "id": "amazon:B0C9KDKNYP",
-    "titulo": "Bicos de Mamadeira Philips Avent, Fluxo 6, Pack com 2 Unidades | Pétala 3.0, Válvula Anticólicas, Para Líquido Espesso",
-    "imagem": "https://m.media-amazon.com/images/I/51QjVBEPWvL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9KDKNYP?tag=malica09-20",
-    "atualizado_em": "2026-10-16T13:32:18.993-03:00"
   }
 ]
