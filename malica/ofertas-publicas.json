@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KW58QQ",
+    "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61se8cNhwjL._AC_SL1500_.jpg",
+    "preco": 42,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=malica09-20",
+    "atualizado_em": "2026-10-18T08:19:19.584-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53326435",
     "titulo": "Mesinha Infantil Educativa Didática Alfabeto Com 2 Cadeiras Cor Amarelo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_881881-MLA89238835863_082025-F.jpg",
