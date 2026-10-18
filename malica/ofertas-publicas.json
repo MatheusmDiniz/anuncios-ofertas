@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MLMGNLB",
+    "titulo": "Composto Lácteo Neslac Supreme, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/61o9fCZvYDL._AC_SL1500_.jpg",
+    "preco": 62,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MLMGNLB?tag=malica09-20",
+    "atualizado_em": "2026-10-18T12:06:42.152-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73079168",
     "titulo": "Berço Bebê Mini Cama Infantil Life Amadeirado Tigus Baby 100% Mdf Com Estrado Regulável Design Americano Moderno",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793843-MLA115310875387_072026-F.jpg",
