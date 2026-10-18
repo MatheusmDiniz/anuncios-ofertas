@@ -1668,35 +1668,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07VLJCJSW?tag=malica09-20",
     "atualizado_em": "2026-10-16T14:33:56.101-03:00"
-  },
-  {
-    "id": "amazon:B0FCVBKJ5Z",
-    "titulo": "Huggies Lenços Umedecidos Higiene Diária Rendem 2x Mais 120 um",
-    "imagem": "https://m.media-amazon.com/images/I/71W-Wa46cFL._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FCVBKJ5Z?tag=malica09-20",
-    "atualizado_em": "2026-10-16T14:28:51.279-03:00"
-  },
-  {
-    "id": "amazon:B0DJ17HW5V",
-    "titulo": "LEGO Friends Caminhão de Sorvete de Heartlake City 42644",
-    "imagem": "https://m.media-amazon.com/images/I/81mx0VlX1AL._AC_SL1500_.jpg",
-    "preco": 105,
-    "preco_anterior": 179,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ17HW5V?tag=malica09-20",
-    "atualizado_em": "2026-10-16T14:23:45.032-03:00"
-  },
-  {
-    "id": "amazon:B08K3PF8Q7",
-    "titulo": "Composto Lácteo Infantil Neslac Comfor, Zero Lactose, 700g",
-    "imagem": "https://m.media-amazon.com/images/I/71Ziq9OkyEL._AC_SL1500_.jpg",
-    "preco": 57,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K3PF8Q7?tag=malica09-20",
-    "atualizado_em": "2026-10-16T14:18:38.778-03:00"
   }
 ]
