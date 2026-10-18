@@ -1578,35 +1578,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WKWntF",
     "atualizado_em": "2026-10-16T15:19:57.733-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68877254",
-    "titulo": "Triciclo Infantil Moto Com Pedal E Haste Rosa Ou Azul 30kg Cor Azul-marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_850775-MLA111074734955_042026-F.jpg",
-    "preco": 429,
-    "preco_anterior": 1299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ythmav",
-    "atualizado_em": "2026-10-16T15:14:47.424-03:00"
-  },
-  {
-    "id": "amazon:B0C4VJ5DCQ",
-    "titulo": "Burigotto Carrinho de Bebê Zap Metal, Prata",
-    "imagem": "https://m.media-amazon.com/images/I/71dUWMVi4lL._AC_SL1500_.jpg",
-    "preco": 556,
-    "preco_anterior": 929,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=malica09-20",
-    "atualizado_em": "2026-10-16T15:09:39.086-03:00"
-  },
-  {
-    "id": "amazon:B07X4GWDZY",
-    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
-    "preco": 1,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
-    "atualizado_em": "2026-10-16T15:04:33.126-03:00"
   }
 ]
