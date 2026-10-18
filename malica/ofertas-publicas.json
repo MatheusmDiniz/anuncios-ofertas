@@ -2138,35 +2138,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q1WlgQTTY",
     "atualizado_em": "2026-10-16T10:32:40.219-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16091842",
-    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 250,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZqdnYS",
-    "atualizado_em": "2026-10-16T10:27:34.722-03:00"
-  },
-  {
-    "id": "amazon:B08K4L452V",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho XXG, Fácil de Vestir, 90 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61R9B7tntEL._AC_SL1500_.jpg",
-    "preco": 164.98,
-    "preco_anterior": 182.45,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K4L452V?tag=malica09-20",
-    "atualizado_em": "2026-10-16T10:22:27.207-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26851070",
-    "titulo": "Banheira Infantil Burigotto Splash 10 L, Suporte e Redutor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
-    "preco": 289.99,
-    "preco_anterior": 510,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZobV6E",
-    "atualizado_em": "2026-10-16T10:17:21.452-03:00"
   }
 ]
