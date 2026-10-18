@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35340733",
+    "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
+    "preco": 529.9,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2LRZ87J",
+    "atualizado_em": "2026-10-17T21:13:22.560-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68012260",
     "titulo": "Grades De Cama Proteção Ajust 68cm Grades Segurança 3 Grades Branco Para Metal Madeira Solteiro Casal Para Idoso Gestante Protecao Para Nao Cair Da Cama Box Bebe Protetor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_981005-MLA110457295999_042026-F.jpg",
@@ -2228,15 +2238,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
     "atualizado_em": "2026-10-16T09:15:20.656-03:00"
-  },
-  {
-    "id": "shopee:1598306900.48965507092",
-    "titulo": "Mini Mochila Infantil Feminina com Glitter Alça Rosa para Meninas 2 a 6 Anos Laço Bolso Frontal + Chaveiro Pompom",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mriry7i7xwxydc",
-    "preco": 31.79,
-    "preco_anterior": 66.23,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2BFh8JIxBg",
-    "atualizado_em": "2026-10-16T09:10:14.747-03:00"
   }
 ]
