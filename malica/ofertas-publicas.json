@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:728451683.23991805523",
+    "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
+    "preco": 35,
+    "preco_anterior": 64.81,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9APPsEODF5",
+    "atualizado_em": "2026-10-17T21:37:41.303-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62349726",
     "titulo": "Banheira Portátil Dobrável para Spa e Gelo de Alta Qualidade Branca",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_926675-MLA98901684651_112025-F.jpg",
@@ -2208,15 +2218,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4VdbucVWlV",
     "atualizado_em": "2026-10-16T09:41:39.990-03:00"
-  },
-  {
-    "id": "amazon:B08YK3CVLY",
-    "titulo": "Mustela Hydra Bebê 500ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
-    "imagem": "https://m.media-amazon.com/images/I/51f5e+gAyKS._AC_SL1500_.jpg",
-    "preco": 109,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08YK3CVLY?tag=malica09-20",
-    "atualizado_em": "2026-10-16T09:36:33.870-03:00"
   }
 ]
