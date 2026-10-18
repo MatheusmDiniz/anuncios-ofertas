@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFQK6FS3",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho XXXG 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61LPNQ6rfmL._AC_SL1500_.jpg",
+    "preco": 135,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFQK6FS3?tag=malica09-20",
+    "atualizado_em": "2026-10-18T14:49:28.483-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28318987",
     "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
