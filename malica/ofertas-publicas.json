@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:823578007.21399249090",
+    "titulo": "Kit Bota Feminina Infantil E Bolsa Infantil Menina Blogueira",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv0pm7tgg2hp56",
+    "preco": 58.04,
+    "preco_anterior": 120.92,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8AWxTA4e8s",
+    "atualizado_em": "2026-10-18T09:24:19.253-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32160295",
     "titulo": "Pote Térmico Comida Alimento Bebê 320ml Buba Rosa Lisa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_874581-MLA91968255005_092025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GC7TF7W?tag=malica09-20",
     "atualizado_em": "2026-10-16T21:28:43.679-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34803603",
-    "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Ocean",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869786-MLA96103846233_102025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 166.51,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Yx6UXi",
-    "atualizado_em": "2026-10-16T21:20:36.884-03:00"
   }
 ]
