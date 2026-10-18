@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08PFT7QV4",
+    "titulo": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61FQj6BRz3L._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": 45,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=malica09-20",
+    "atualizado_em": "2026-10-18T12:22:57.143-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB79495523",
     "titulo": "Berço Co-sleeper Multifuncional Portátil Com Mosquiteiro",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_866011-MLA117838148765_092026-F.jpg",
