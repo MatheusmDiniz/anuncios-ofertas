@@ -2078,35 +2078,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/267JK1m",
     "atualizado_em": "2026-10-16T11:03:47.121-03:00"
-  },
-  {
-    "id": "amazon:B096YLZNHV",
-    "titulo": "Burigotto Kit Banho Branco",
-    "imagem": "https://m.media-amazon.com/images/I/61u6+HmvidS._AC_SL1500_.jpg",
-    "preco": 219.91,
-    "preco_anterior": 355.05,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=malica09-20",
-    "atualizado_em": "2026-10-16T10:58:38.717-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB34235115",
-    "titulo": "Ônibus De Atividades Para Crianças Buba Bichinhos Verde Multicor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784630-MLA116311816765_082026-F.jpg",
-    "preco": 103,
-    "preco_anterior": 180.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2oJiN3n",
-    "atualizado_em": "2026-10-16T10:53:08.854-03:00"
-  },
-  {
-    "id": "amazon:B079VXJK79",
-    "titulo": "Creme Hidratante Corporal para Pele Seca e Sensível Cetaphil 453g - Hidratação 48h : Amazon.com.br: Beleza",
-    "imagem": "https://m.media-amazon.com/images/I/71l4OrWPpLL._AC_SL1500_.jpg",
-    "preco": 67,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B079VXJK79?tag=malica09-20",
-    "atualizado_em": "2026-10-16T10:48:00.307-03:00"
   }
 ]
