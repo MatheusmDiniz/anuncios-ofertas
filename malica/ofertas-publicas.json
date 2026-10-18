@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62349726",
+    "titulo": "Banheira Portátil Dobrável para Spa e Gelo de Alta Qualidade Branca",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926675-MLA98901684651_112025-F.jpg",
+    "preco": 84,
+    "preco_anterior": 149.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24ziA86",
+    "atualizado_em": "2026-10-17T21:29:36.839-03:00"
+  },
+  {
     "id": "shopee:1542191566.45115032491",
     "titulo": "Conjunto Bebê Menino Jardineira Bordada + Camiseta Listrada Manga Curta Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr7pev3i1vk4c5",
@@ -2218,15 +2228,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VOgIHxeWj",
     "atualizado_em": "2026-10-16T09:31:03.773-03:00"
-  },
-  {
-    "id": "amazon:B0DGZ2CBG2",
-    "titulo": "Chupeta Ultra Air 0-6 Meses Philips Avent Recém Nascido Individual Decorada Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/71IvO+34GWL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DGZ2CBG2?tag=malica09-20",
-    "atualizado_em": "2026-10-16T09:25:57.308-03:00"
   }
 ]
