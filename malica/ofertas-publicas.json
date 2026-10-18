@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 199,
+    "preco_anterior": 369,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2tjqGTg",
+    "atualizado_em": "2026-10-18T14:41:25.290-03:00"
+  },
+  {
     "id": "amazon:B07GNTGLDK",
     "titulo": "Fralda Cremer Jumbo Grandinhos 14 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71EYP++bCqL._AC_SL1500_.jpg",
