@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68012260",
+    "titulo": "Grades De Cama Proteção Ajust 68cm Grades Segurança 3 Grades Branco Para Metal Madeira Solteiro Casal Para Idoso Gestante Protecao Para Nao Cair Da Cama Box Bebe Protetor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_981005-MLA110457295999_042026-F.jpg",
+    "preco": 134.88,
+    "preco_anterior": 259,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZcwE5G",
+    "atualizado_em": "2026-10-17T21:05:15.281-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB67677338",
     "titulo": "3 Em 1 Carrinho Bebé ,dobrável,versátil E Prático! Reversíve Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_652266-MLA116730535923_082026-F.jpg",
@@ -2228,15 +2238,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BFh8JIxBg",
     "atualizado_em": "2026-10-16T09:10:14.747-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29667283",
-    "titulo": "Henn berço mini cama labirinto branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655875-MLA100002806951_112025-F.jpg",
-    "preco": 520,
-    "preco_anterior": 1599,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1JJuzCv",
-    "atualizado_em": "2026-10-16T09:05:08.318-03:00"
   }
 ]
