@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20787112",
+    "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745997-MLA111515571650_062026-F.jpg",
+    "preco": 114.39,
+    "preco_anterior": 279,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QJboPA",
+    "atualizado_em": "2026-10-18T21:54:30.341-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26451025",
     "titulo": "Pote Térmico Com Colher Gumy Rosa 320ml 12469 Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_699786-MLA95840030533_102025-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fx3hpQb5G",
     "atualizado_em": "2026-10-17T09:59:40.174-03:00"
-  },
-  {
-    "id": "shopee:1041517511.58268402309",
-    "titulo": "Squishy Bun Surpresa 2 Estilos 6 Cores Brinquedo Sensorial Macio Glitter para Apertar 3+",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mtxslaoh9xq966",
-    "preco": 19.48,
-    "preco_anterior": 59.03,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9APT45efUV",
-    "atualizado_em": "2026-10-17T09:51:35.272-03:00"
   }
 ]
