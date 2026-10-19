@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73129562",
+    "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
+    "preco": 367.44,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Nhu2dc",
+    "atualizado_em": "2026-10-19T08:24:59.336-03:00"
+  },
+  {
     "id": "amazon:B07RK4HST7",
     "titulo": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
     "imagem": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SL1500_.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2U1cbRs",
     "atualizado_em": "2026-10-17T20:32:45.148-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65896917",
-    "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
-    "preco": 699,
-    "preco_anterior": 1199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/18sA7ah",
-    "atualizado_em": "2026-10-17T20:24:38.993-03:00"
   }
 ]
