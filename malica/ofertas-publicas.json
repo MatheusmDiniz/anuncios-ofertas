@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GTRKK1R2",
+    "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
+    "imagem": "https://m.media-amazon.com/images/I/611Nr1731tL._AC_SL1500_.jpg",
+    "preco": 22.9,
+    "preco_anterior": 32.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=malica09-20",
+    "atualizado_em": "2026-10-19T19:57:16.640-03:00"
+  },
+  {
     "id": "amazon:B0HF1N8QGR",
     "titulo": "Stanley Garrafa Térmica Quick Flip Frost 710ml : Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/41lDoNkNEcL._AC_SL1500_.jpg",
