@@ -1528,25 +1528,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1617bfR",
     "atualizado_em": "2026-10-17T15:07:49.576-03:00"
-  },
-  {
-    "id": "amazon:B0DX79W153",
-    "titulo": "Sabonete Líquido Huggies Camomila para Recém-Nascido Refil 200 ml",
-    "imagem": "https://m.media-amazon.com/images/I/71IUTmdtBBL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DX79W153?tag=malica09-20",
-    "atualizado_em": "2026-10-17T14:59:42.973-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56677151",
-    "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
-    "preco": 129.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fqRnEh",
-    "atualizado_em": "2026-10-17T14:51:38.135-03:00"
   }
 ]
