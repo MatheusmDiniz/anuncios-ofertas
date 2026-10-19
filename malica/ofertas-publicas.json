@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28333302",
+    "titulo": "Kit Algodão Bellacotton Quadrado Para Bebê - 6 Pacotes",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761355-MLU72967454712_112023-F.jpg",
+    "preco": 159.99,
+    "preco_anterior": 269.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BkMeAC",
+    "atualizado_em": "2026-10-19T16:25:43.991-03:00"
+  },
+  {
     "id": "amazon:B0DDTZJP28",
     "titulo": "Fralda Pampers Premium Care XXG - 112 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/718Dp2M-HzL._AC_SL1500_.jpg",
