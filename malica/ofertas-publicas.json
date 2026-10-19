@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GQYB3WP",
+    "titulo": "Fralda Pampers Premium Care Tamanho G 68 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61dNIGofgEL._AC_SL1500_.jpg",
+    "preco": 93,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GQYB3WP?tag=malica09-20",
+    "atualizado_em": "2026-10-19T13:51:03.357-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB51240172",
     "titulo": "Boneco de Banho Stitch Disney Cotiplás",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
