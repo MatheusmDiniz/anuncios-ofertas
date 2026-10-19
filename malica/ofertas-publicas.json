@@ -1508,25 +1508,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1A47t6B",
     "atualizado_em": "2026-10-17T15:24:00.402-03:00"
-  },
-  {
-    "id": "amazon:B093G9PSPP",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71aOjTMuajL._AC_SL1500_.jpg",
-    "preco": 0.85,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=malica09-20",
-    "atualizado_em": "2026-10-17T15:15:53.387-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42137247",
-    "titulo": "Mesinha Atividades Infantil Didática Mesa Bebe Interativa Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_868561-MLA95704197956_102025-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 187.47,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1617bfR",
-    "atualizado_em": "2026-10-17T15:07:49.576-03:00"
   }
 ]
