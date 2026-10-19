@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJ1RD8SH",
+    "titulo": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos, 240W RMS - Branca",
+    "imagem": "https://m.media-amazon.com/images/I/71l7ChSNehL._AC_SL1500_.jpg",
+    "preco": 2503,
+    "preco_anterior": 3899,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJ1RD8SH?tag=malica09-20",
+    "atualizado_em": "2026-10-19T20:13:27.047-03:00"
+  },
+  {
     "id": "amazon:B0G45KPX15",
     "titulo": "Máscara de Tratamento Elseve L",
     "imagem": "https://m.media-amazon.com/images/I/71EYznJIxWL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=malica09-20",
     "atualizado_em": "2026-10-18T08:19:19.584-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53326435",
-    "titulo": "Mesinha Infantil Educativa Didática Alfabeto Com 2 Cadeiras Cor Amarelo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881881-MLA89238835863_082025-F.jpg",
-    "preco": 165.9,
-    "preco_anterior": 455.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2VXUbSM",
-    "atualizado_em": "2026-10-18T08:11:17.801-03:00"
   }
 ]
