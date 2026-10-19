@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09FFRMKNQ",
+    "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71sFW94e1IL._AC_SL1500_.jpg",
+    "preco": 189.59,
+    "preco_anterior": 236.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=malica09-20",
+    "atualizado_em": "2026-10-19T16:01:15.087-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74675165",
     "titulo": "Bomba De Tirar Leite Materno Portátil Elétricas Antuvi Vestível Mãos Livres De Cabeça Dupla 17-24mm Flanges 180 ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_911878-MLA114024882597_072026-F.jpg",
