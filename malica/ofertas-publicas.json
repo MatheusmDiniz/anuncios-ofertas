@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BDBHZSZT",
+    "titulo": "Fórmula Infantil: Aptamil Profutura Gold 1 800g - 0-6 meses : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/716SKFzV-CL._AC_SL1500_.jpg",
+    "preco": 114,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BDBHZSZT?tag=malica09-20",
+    "atualizado_em": "2026-10-19T17:22:52.598-03:00"
+  },
+  {
     "id": "amazon:B08NQNXMPL",
     "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
     "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
