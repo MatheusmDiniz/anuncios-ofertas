@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FH7JFL16",
+    "titulo": "Weleda Babycreme de Calêndula | Proteção Natural Contra Assaduras | Fórmula Suave com Calêndula e Camomila | 75 ml : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/61RXhuVAZkL._AC_SL1500_.jpg",
+    "preco": 46,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FH7JFL16?tag=malica09-20",
+    "atualizado_em": "2026-10-19T20:37:42.060-03:00"
+  },
+  {
     "id": "amazon:B0BTHQ4GZG",
     "titulo": "Stanley Copo Quencher Cream 887ml",
     "imagem": "https://m.media-amazon.com/images/I/41F6k4jFOTL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ovyxhc",
     "atualizado_em": "2026-10-18T08:43:42.504-03:00"
-  },
-  {
-    "id": "shopee:548029260.58257405717",
-    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
-    "preco": 42.99,
-    "preco_anterior": 69.34,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4qGVUyjLmZ",
-    "atualizado_em": "2026-10-18T08:35:33.535-03:00"
   }
 ]
