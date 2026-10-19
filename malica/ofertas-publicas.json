@@ -1488,25 +1488,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2qygtod",
     "atualizado_em": "2026-10-17T15:40:10.710-03:00"
-  },
-  {
-    "id": "amazon:B076PPQBDX",
-    "titulo": "Mor - Piscina Inflável 1.000 Litros",
-    "imagem": "https://m.media-amazon.com/images/I/41zi2SIUozL._AC_SL1500_.jpg",
-    "preco": 121,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B076PPQBDX?tag=malica09-20",
-    "atualizado_em": "2026-10-17T15:32:03.465-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24198840",
-    "titulo": "Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Cor Avelã LuckBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662503-MLA96116062255_102025-F.jpg",
-    "preco": 115.9,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1A47t6B",
-    "atualizado_em": "2026-10-17T15:24:00.402-03:00"
   }
 ]
