@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44958164",
+    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Cinza Cor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_627665-MLA113620705920_072026-F.jpg",
+    "preco": 198.9,
+    "preco_anterior": 350,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Jw2wPh",
+    "atualizado_em": "2026-10-19T08:08:46.513-03:00"
+  },
+  {
     "id": "amazon:B08WLM2682",
     "titulo": "Mustela Hydra Bebê 300ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
     "imagem": "https://m.media-amazon.com/images/I/51aa96BeYBS._AC_SL1500_.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qVPgANiyI",
     "atualizado_em": "2026-10-17T20:16:32.591-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35340738",
-    "titulo": "Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604756-MLA96100314723_102025-F.jpg",
-    "preco": 199,
-    "preco_anterior": 347.16,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11s6NB4",
-    "atualizado_em": "2026-10-17T20:08:26.823-03:00"
   }
 ]
