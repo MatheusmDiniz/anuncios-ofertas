@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08WLM2682",
+    "titulo": "Mustela Hydra Bebê 300ml - Hidratante Infantil Corpo e Rosto - Feito com 97% de Ingredientes de Origem Natural e Hipoalergênico - Seguro Desde o Nascimento",
+    "imagem": "https://m.media-amazon.com/images/I/51aa96BeYBS._AC_SL1500_.jpg",
+    "preco": 97.19,
+    "preco_anterior": 119.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08WLM2682?tag=malica09-20",
+    "atualizado_em": "2026-10-19T08:00:37.209-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20787112",
     "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745997-MLA111515571650_062026-F.jpg",
@@ -1158,25 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11s6NB4",
     "atualizado_em": "2026-10-17T20:08:26.823-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69043942",
-    "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980470-MLA110226822348_052026-F.jpg",
-    "preco": 184,
-    "preco_anterior": 369.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2rV82nZ",
-    "atualizado_em": "2026-10-17T20:00:19.257-03:00"
-  },
-  {
-    "id": "amazon:B099KTRZP7",
-    "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61GqSAiDmHL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KTRZP7?tag=malica09-20",
-    "atualizado_em": "2026-10-17T19:52:10.080-03:00"
   }
 ]
