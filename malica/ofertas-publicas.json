@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB36217546",
+    "titulo": "Boneca Barbie Professions, de cabelo loiro, dançarina de balé",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993577-MLA96134750565_102025-F.jpg",
+    "preco": 65.51,
+    "preco_anterior": 172.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1z6AkaY",
+    "atualizado_em": "2026-10-19T08:41:15.645-03:00"
+  },
+  {
     "id": "amazon:B00TQCAAQW",
     "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
     "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2W2q7qJ",
     "atualizado_em": "2026-10-17T20:49:00.167-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44875746",
-    "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
-    "preco": 410.25,
-    "preco_anterior": 745.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1UoGHuf",
-    "atualizado_em": "2026-10-17T20:40:52.627-03:00"
   }
 ]
