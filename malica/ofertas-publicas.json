@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62120518",
+    "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
+    "preco": 1189.9,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2S32iHA",
+    "atualizado_em": "2026-10-18T21:30:04.568-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB60121205",
     "titulo": "Tapete de Atividades Musical com Piano Interativo DDG",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_603872-MLA117715206171_092026-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2g3Sm5X",
     "atualizado_em": "2026-10-17T09:35:22.714-03:00"
-  },
-  {
-    "id": "shopee:1558276757.58201708966",
-    "titulo": "KIT Chinelos Para Menina e Menino Baby Brasil Para Bebes De Borracha Original Anti-Derrapante",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mm6p7z8wruo717",
-    "preco": 15.99,
-    "preco_anterior": 69.52,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AKbQSDf1xo",
-    "atualizado_em": "2026-10-17T09:27:13.726-03:00"
   }
 ]
