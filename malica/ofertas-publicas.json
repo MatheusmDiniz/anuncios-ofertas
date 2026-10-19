@@ -1638,25 +1638,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07G9ZSW31?tag=malica09-20",
     "atualizado_em": "2026-10-17T13:38:45.150-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68032214",
-    "titulo": "Brinquedo Cubo Didático Madeira Montessori Infantil 5 Em 1 Atacarejo Kids",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_743529-MLA116992831764_102026-F.jpg",
-    "preco": 108.42,
-    "preco_anterior": 206.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1g7rmvM",
-    "atualizado_em": "2026-10-17T13:30:40.367-03:00"
-  },
-  {
-    "id": "amazon:B07LF7C7YL",
-    "titulo": "NIVEA SUN Protetor Solar Kids Brincando na Água FPS 60 150ml, Muito Alta Proteção UVA/UVB, Resistente à Água, Areia e Suor, Proteção Solar Infantil, Pele Delicada",
-    "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
-    "preco": 49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=malica09-20",
-    "atualizado_em": "2026-10-17T13:22:32.756-03:00"
   }
 ]
