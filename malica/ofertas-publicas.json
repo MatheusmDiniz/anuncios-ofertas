@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63854956",
+    "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703485-MLA103647296121_012026-F.jpg",
+    "preco": 133.83,
+    "preco_anterior": 229.95,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XbAww3",
+    "atualizado_em": "2026-10-19T13:59:14.661-03:00"
+  },
+  {
     "id": "amazon:B07GQYB3WP",
     "titulo": "Fralda Pampers Premium Care Tamanho G 68 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61dNIGofgEL._AC_SL1500_.jpg",
