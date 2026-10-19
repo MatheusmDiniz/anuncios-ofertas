@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24647478",
+    "titulo": "Andador Bebe Carrinho Infantil Treina Equilíbrio Zippy Toys Cor Vermelho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950359-MLA99487901484_112025-F.jpg",
+    "preco": 111.99,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/13QLwJU",
+    "atualizado_em": "2026-10-18T21:13:43.696-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28579921",
     "titulo": "Cadeira de Descanso Bebê Musical Polar Cinza 18kg Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_729247-MLA96101820207_102025-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08SFHTY3N?tag=malica09-20",
     "atualizado_em": "2026-10-17T09:19:09.222-03:00"
-  },
-  {
-    "id": "shopee:280039385.43007791633",
-    "titulo": "Chinelo Infantil com Elástico Antiderrapante Confortável Bebê Unissex",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby1vqu3deu144",
-    "preco": 16.9,
-    "preco_anterior": 40.24,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7fafHJOiOc",
-    "atualizado_em": "2026-10-17T09:11:04.279-03:00"
   }
 ]
