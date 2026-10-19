@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D23M9C4T",
+    "titulo": "Suplemento alimentar em cápsulas Materna Ômega-3 30 unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61AV+Mh6eTL._AC_SL1500_.jpg",
+    "preco": 76,
+    "preco_anterior": 101,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D23M9C4T?tag=malica09-20",
+    "atualizado_em": "2026-10-19T16:42:22.633-03:00"
+  },
+  {
     "id": "amazon:B09FFVMNFB",
     "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71qWE66mi6L._AC_SL1500_.jpg",
