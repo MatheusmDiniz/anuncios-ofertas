@@ -1418,25 +1418,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C3JGG83X?tag=malica09-20",
     "atualizado_em": "2026-10-17T16:37:17.774-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25120404",
-    "titulo": "Colgate Mini Escova Wisp Maxfresh Menta 24 Pçs",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714536-MLU75165032067_032024-F.jpg",
-    "preco": 94.5,
-    "preco_anterior": 189,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24qHDwo",
-    "atualizado_em": "2026-10-17T16:29:13.150-03:00"
-  },
-  {
-    "id": "amazon:B07CQRD2YV",
-    "titulo": "Buba Prato Ursinho Com Divisória Rosa : Amazon.com.br: Brinquedos e Jogos",
-    "imagem": "https://m.media-amazon.com/images/I/51Ttx9NoPpL._AC_SL1500_.jpg",
-    "preco": 16,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07CQRD2YV?tag=malica09-20",
-    "atualizado_em": "2026-10-17T16:21:05.388-03:00"
   }
 ]
