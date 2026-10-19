@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45262394",
+    "titulo": "Esterilizador Mamadeira Branco e Aquecedor de Leite Bebê Automático",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_716121-MLA99963119253_112025-F.jpg",
+    "preco": 223.25,
+    "preco_anterior": 380.02,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/25Ua3nB",
+    "atualizado_em": "2026-10-19T08:57:59.721-03:00"
+  },
+  {
     "id": "amazon:B07X5KWJK9",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61E4OFmEC+L._AC_SL1500_.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZcwE5G",
     "atualizado_em": "2026-10-17T21:05:15.281-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67677338",
-    "titulo": "3 Em 1 Carrinho Bebé ,dobrável,versátil E Prático! Reversíve Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652266-MLA116730535923_082026-F.jpg",
-    "preco": 708.59,
-    "preco_anterior": 1499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19bFswm",
-    "atualizado_em": "2026-10-17T20:57:07.675-03:00"
   }
 ]
