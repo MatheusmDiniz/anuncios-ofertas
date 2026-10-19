@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08XYLBZL1",
+    "titulo": "Shampoo Infantil Camomila 210ml – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/719i6TV6ApL._AC_SL1500_.jpg",
+    "preco": 8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08XYLBZL1?tag=malica09-20",
+    "atualizado_em": "2026-10-19T19:00:16.017-03:00"
+  },
+  {
     "id": "amazon:B0CNQ6X388",
     "titulo": "Pampers Shampoo Glicerina 400ml",
     "imagem": "https://m.media-amazon.com/images/I/619RLZXxlGL._AC_SL1500_.jpg",
