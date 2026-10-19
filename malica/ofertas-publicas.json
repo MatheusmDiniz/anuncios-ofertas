@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GQ136TS",
+    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
+    "preco": 54,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
+    "atualizado_em": "2026-10-19T13:02:14.212-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54159991",
     "titulo": "Babá Eletrônica Video Baby Noturna Sem Fio Recarregável Branco Estary Shop",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629788-MLA98079677296_112025-F.jpg",
