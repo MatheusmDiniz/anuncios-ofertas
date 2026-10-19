@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FB44ZSJ9",
+    "titulo": "Oferta: Bicicleta de Equilibrio Wild. Bicicleta Infantil Bebe Sem Pedal.",
+    "imagem": "https://m.media-amazon.com/images/I/51S0XOGhXWL._AC_SL1500_.jpg",
+    "preco": 122,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FB44ZSJ9?tag=malica09-20",
+    "atualizado_em": "2026-10-19T18:19:29.424-03:00"
+  },
+  {
     "id": "amazon:B09JVKRS42",
     "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61CSoJu3bxL._AC_SL1500_.jpg",
