@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KXW911",
+    "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71gXkKF1aPL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KXW911?tag=malica09-20",
+    "atualizado_em": "2026-10-19T15:28:44.546-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42346236",
     "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
