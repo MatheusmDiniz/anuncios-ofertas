@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRHZDR",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
+    "preco": 38,
+    "preco_anterior": 62,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=malica09-20",
+    "atualizado_em": "2026-10-19T18:03:22.137-03:00"
+  },
+  {
     "id": "amazon:B0845Y8VWJ",
     "titulo": "Mustela Shampoo Recém-Nascido 150 ml - Xampu textura Espuma, Previne e Elimina a Crosta Láctea dos Bebês - Vegano, feito com 99% de ingredientes de origem natural - Mustela Bebê e Criança",
     "imagem": "https://m.media-amazon.com/images/I/41F0QUlisCL._AC_SL1500_.jpg",
