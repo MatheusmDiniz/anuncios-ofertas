@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09DQ6CMG2",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71C6P-MXsbL._AC_SL1500_.jpg",
+    "preco": 206,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=malica09-20",
+    "atualizado_em": "2026-10-19T14:23:37.067-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB16091842",
     "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
