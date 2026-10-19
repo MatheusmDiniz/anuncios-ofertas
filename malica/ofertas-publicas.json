@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08V2HBZH2",
+    "titulo": "Baby Dove Shampoo Hidratação Glicerinada 400 ML",
+    "imagem": "https://m.media-amazon.com/images/I/510MkOygOrL._AC_SL1500_.jpg",
+    "preco": 21,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08V2HBZH2?tag=malica09-20",
+    "atualizado_em": "2026-10-19T16:50:28.910-03:00"
+  },
+  {
     "id": "amazon:B0D23M9C4T",
     "titulo": "Suplemento alimentar em cápsulas Materna Ômega-3 30 unidades",
     "imagem": "https://m.media-amazon.com/images/I/61AV+Mh6eTL._AC_SL1500_.jpg",
