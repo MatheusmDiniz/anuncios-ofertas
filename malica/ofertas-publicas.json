@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25372096",
+    "titulo": "Kit Cozinha Fogão Infantil De Brinquedo Completa Sai Água",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837805-MLA114983480464_082026-F.jpg",
+    "preco": 104.9,
+    "preco_anterior": 176.5,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oJ59YA",
+    "atualizado_em": "2026-10-19T09:30:39.707-03:00"
+  },
+  {
     "id": "amazon:B0GW3YY6FY",
     "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61Twnnnkq4L._AC_SL1500_.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9APPsEODF5",
     "atualizado_em": "2026-10-17T21:37:41.303-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62349726",
-    "titulo": "Banheira Portátil Dobrável para Spa e Gelo de Alta Qualidade Branca",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926675-MLA98901684651_112025-F.jpg",
-    "preco": 84,
-    "preco_anterior": 149.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24ziA86",
-    "atualizado_em": "2026-10-17T21:29:36.839-03:00"
   }
 ]
