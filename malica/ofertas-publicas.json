@@ -1,5 +1,25 @@
 [
   {
+    "id": "amazon:B082L13YPQ",
+    "titulo": "Lenços Umedecidos Pampers Aroma de Aloe Vera 192 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61ZtoLSExdL._AC_SL1500_.jpg",
+    "preco": 33,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B082L13YPQ?tag=malica09-20",
+    "atualizado_em": "2026-10-19T15:12:26.151-03:00"
+  },
+  {
+    "id": "mercadolivre:product:MLB79255155",
+    "titulo": "Grade Portão Preto Proteção Pets 68 A 73 / 78 A 83 Cm Cachorro Aramado 69cm Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953921-MLA116089682148_092026-F.jpg",
+    "preco": 70.27,
+    "preco_anterior": 121.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dF7g1Y",
+    "atualizado_em": "2026-10-19T15:04:20.186-03:00"
+  },
+  {
     "id": "amazon:B08QG3H6YR",
     "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
     "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
