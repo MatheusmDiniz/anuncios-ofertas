@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19160770",
+    "titulo": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
+    "preco": 17.59,
+    "preco_anterior": 34.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1X4ihef",
+    "atualizado_em": "2026-10-19T16:09:26.858-03:00"
+  },
+  {
     "id": "amazon:B09FFRMKNQ",
     "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71sFW94e1IL._AC_SL1500_.jpg",
