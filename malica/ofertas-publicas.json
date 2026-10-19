@@ -1238,25 +1238,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1yKShtn",
     "atualizado_em": "2026-10-17T19:03:30.055-03:00"
-  },
-  {
-    "id": "amazon:B0CB75YYN7+B0DQQWV54C",
-    "titulo": "Nash Boia Infantil com Colete Salva Vidas",
-    "imagem": "https://m.media-amazon.com/images/I/51nakuvmxJL._AC_SL1500_.jpg",
-    "preco": 58,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DQQWV54C?tag=malica09-20",
-    "atualizado_em": "2026-10-17T18:55:22.171-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB20969462",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa CGN63 4 Peças",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707387-MLU73460204106_122023-F.jpg",
-    "preco": 139.9,
-    "preco_anterior": 249,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Db9rBb",
-    "atualizado_em": "2026-10-17T18:47:18.949-03:00"
   }
 ]
