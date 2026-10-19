@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW3YY6FY",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61Twnnnkq4L._AC_SL1500_.jpg",
+    "preco": 89,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=malica09-20",
+    "atualizado_em": "2026-10-19T09:22:30.086-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB55102171",
     "titulo": "Bolsa Canguru Seguro Ergonômico Assento Bebê Premium Aiebao Cor Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_684590-MLA113300708050_072026-F.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/24ziA86",
     "atualizado_em": "2026-10-17T21:29:36.839-03:00"
-  },
-  {
-    "id": "shopee:1542191566.45115032491",
-    "titulo": "Conjunto Bebê Menino Jardineira Bordada + Camiseta Listrada Manga Curta Masculino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr7pev3i1vk4c5",
-    "preco": 40.99,
-    "preco_anterior": 60.28,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7AeLUZ0cfF",
-    "atualizado_em": "2026-10-17T21:21:29.594-03:00"
   }
 ]
