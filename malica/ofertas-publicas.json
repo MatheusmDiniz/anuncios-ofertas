@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0G45KPX15",
+    "titulo": "Máscara de Tratamento Elseve L",
+    "imagem": "https://m.media-amazon.com/images/I/71EYznJIxWL._AC_SL1500_.jpg",
+    "preco": 26.9,
+    "preco_anterior": 40.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0G45KPX15?tag=malica09-20",
+    "atualizado_em": "2026-10-19T20:05:21.675-03:00"
+  },
+  {
     "id": "amazon:B0GTRKK1R2",
     "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
     "imagem": "https://m.media-amazon.com/images/I/611Nr1731tL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2VXUbSM",
     "atualizado_em": "2026-10-18T08:11:17.801-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42639818",
-    "titulo": "Berço Moisés Sleep 3 Em 1 Co-bed Com Cinta e Moquiteiro Cinza - KaBaby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798778-MLA104981751078_012026-F.jpg",
-    "preco": 499.9,
-    "preco_anterior": 999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/25gcb2g",
-    "atualizado_em": "2026-10-18T08:03:10.024-03:00"
   }
 ]
