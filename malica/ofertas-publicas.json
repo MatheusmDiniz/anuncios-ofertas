@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BTHQ4GZG",
+    "titulo": "Stanley Copo Quencher Cream 887ml",
+    "imagem": "https://m.media-amazon.com/images/I/41F6k4jFOTL._AC_SL1500_.jpg",
+    "preco": 156,
+    "preco_anterior": 319,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BTHQ4GZG?tag=malica09-20",
+    "atualizado_em": "2026-10-19T20:29:37.848-03:00"
+  },
+  {
     "id": "amazon:B0BCHWGG5P",
     "titulo": "Personal Fralda Baby Protect&Sec G, Leve 60 Pague 57 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61NLcl3XQoL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4qGVUyjLmZ",
     "atualizado_em": "2026-10-18T08:35:33.535-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB47899174",
-    "titulo": "Baba Eletrônica Baby Monitor Vb603 Visão Noturna Dual Audio Cor Branco Estary Shop",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789928-MLA99885017637_112025-F.jpg",
-    "preco": 224.57,
-    "preco_anterior": 379,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1a7R1bm",
-    "atualizado_em": "2026-10-18T08:27:27.925-03:00"
   }
 ]
