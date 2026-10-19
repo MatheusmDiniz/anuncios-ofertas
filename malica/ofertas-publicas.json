@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09FFVMNFB",
+    "titulo": "Fralda Pampers Confort Sec Tamanho G 168 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71qWE66mi6L._AC_SL1500_.jpg",
+    "preco": 162.5,
+    "preco_anterior": 235.87,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09FFVMNFB?tag=malica09-20",
+    "atualizado_em": "2026-10-19T16:33:50.236-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28333302",
     "titulo": "Kit Algodão Bellacotton Quadrado Para Bebê - 6 Pacotes",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_761355-MLU72967454712_112023-F.jpg",
