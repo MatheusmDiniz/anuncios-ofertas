@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F4G5NL2K",
+    "titulo": "Lenços Umedecidos Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
+    "atualizado_em": "2026-10-19T13:34:47.795-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23937416",
     "titulo": "Garrafa Térmica Parede Dupla Rosa 400ml - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_671325-MLA96079324071_102025-F.jpg",
