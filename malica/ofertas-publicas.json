@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X5KWJK9",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61E4OFmEC+L._AC_SL1500_.jpg",
+    "preco": 104.49,
+    "preco_anterior": 151.59,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=malica09-20",
+    "atualizado_em": "2026-10-19T08:49:48.935-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36217546",
     "titulo": "Boneca Barbie Professions, de cabelo loiro, dançarina de balé",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_993577-MLA96134750565_102025-F.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/19bFswm",
     "atualizado_em": "2026-10-17T20:57:07.675-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53365359",
-    "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
-    "preco": 224.5,
-    "preco_anterior": 449,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2W2q7qJ",
-    "atualizado_em": "2026-10-17T20:49:00.167-03:00"
   }
 ]
