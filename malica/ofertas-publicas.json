@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28487537",
+    "titulo": "Berço Sonata Cor Cinza - Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
+    "preco": 356.86,
+    "preco_anterior": 651.23,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2N9M5Ks",
+    "atualizado_em": "2026-10-19T14:48:03.035-03:00"
+  },
+  {
     "id": "amazon:B09GV1QKT6",
     "titulo": "Ola Bebê Sabão Líquido para Roupas Finas e Delicadas, 3,8L",
     "imagem": "https://m.media-amazon.com/images/I/51pkLwiWOgL._AC_SL1500_.jpg",
