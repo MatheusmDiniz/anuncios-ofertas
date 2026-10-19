@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB60121205",
+    "titulo": "Tapete de Atividades Musical com Piano Interativo DDG",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_603872-MLA117715206171_092026-F.jpg",
+    "preco": 81.39,
+    "preco_anterior": 149.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1vYsqUs",
+    "atualizado_em": "2026-10-18T21:21:54.045-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24647478",
     "titulo": "Andador Bebe Carrinho Infantil Treina Equilíbrio Zippy Toys Cor Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_950359-MLA99487901484_112025-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AKbQSDf1xo",
     "atualizado_em": "2026-10-17T09:27:13.726-03:00"
-  },
-  {
-    "id": "amazon:B08SFHTY3N",
-    "titulo": "Raid Repelente Elétrico Líquido Family 45 Noites, 2 Refis de 32,9ml",
-    "imagem": "https://m.media-amazon.com/images/I/61ZXdRFNDVL._AC_SL1500_.jpg",
-    "preco": 19.48,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08SFHTY3N?tag=malica09-20",
-    "atualizado_em": "2026-10-17T09:19:09.222-03:00"
   }
 ]
