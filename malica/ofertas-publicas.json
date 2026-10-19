@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CNQ6X388",
+    "titulo": "Pampers Shampoo Glicerina 400ml",
+    "imagem": "https://m.media-amazon.com/images/I/619RLZXxlGL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CNQ6X388?tag=malica09-20",
+    "atualizado_em": "2026-10-19T18:52:11.111-03:00"
+  },
+  {
     "id": "amazon:B0D292HCS7",
     "titulo": "Aptanutri Soja 3 Fórmula Infantil 800g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/61E+SWCXdWL._AC_SL1500_.jpg",
