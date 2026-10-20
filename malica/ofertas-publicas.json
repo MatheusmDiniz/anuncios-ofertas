@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08DPQK5K6",
+    "titulo": "Granado Hidratante Bebê, Tradicional, 120ml : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/41htJGcwUTL._AC_SL1500_.jpg",
+    "preco": 21,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=malica09-20",
+    "atualizado_em": "2026-10-20T20:14:15.300-03:00"
+  },
+  {
     "id": "amazon:B099KPR97P",
     "titulo": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61lR2jbdarL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07RK4HST7?tag=malica09-20",
     "atualizado_em": "2026-10-19T08:16:50.690-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44958164",
-    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Cinza Cor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_627665-MLA113620705920_072026-F.jpg",
-    "preco": 198.9,
-    "preco_anterior": 350,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Jw2wPh",
-    "atualizado_em": "2026-10-19T08:08:46.513-03:00"
   }
 ]
