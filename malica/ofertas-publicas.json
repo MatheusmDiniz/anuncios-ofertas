@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H34Y5JP5",
+    "titulo": "Oferta: Apoio de Cabeça Ajustável para Bebê, Almofada Protetora para Cadeirinha Infantil de Carro, Cor Cinza",
+    "imagem": "https://m.media-amazon.com/images/I/51DR1fJIaTL._AC_SL1500_.jpg",
+    "preco": 56,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H34Y5JP5?tag=malica09-20",
+    "atualizado_em": "2026-10-20T20:38:54.234-03:00"
+  },
+  {
     "id": "amazon:B0FBX9T2Y2",
     "titulo": "Cueiro para Bebê 100% Algodão Kit com 3 Unidades 80x80cm | Tecido Suave e Respirável | Ideal para Enxoval, Maternidade, Naninha e Proteção Diária (Creme/Azul)",
     "imagem": "https://m.media-amazon.com/images/I/61X8Sy2XGIL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1z6AkaY",
     "atualizado_em": "2026-10-19T08:41:15.645-03:00"
-  },
-  {
-    "id": "amazon:B00TQCAAQW",
-    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
-    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
-    "preco": 74,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
-    "atualizado_em": "2026-10-19T08:33:04.928-03:00"
   }
 ]
