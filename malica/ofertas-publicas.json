@@ -1328,25 +1328,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9pfC353cez",
     "atualizado_em": "2026-10-18T18:06:17.618-03:00"
-  },
-  {
-    "id": "amazon:B0F1DVGNGM",
-    "titulo": "Oferta: Pampers Sabonete Líquido Relaxamento 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61rSZI0tqUL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F1DVGNGM?tag=malica09-20",
-    "atualizado_em": "2026-10-18T17:58:10.783-03:00"
-  },
-  {
-    "id": "shopee:1348249975.58214681164",
-    "titulo": "Vestido Infantil Jardim Encantado Luxo Elegante e Confortável",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a3-mqwuzs8qe2v486",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/60STU1rkRI",
-    "atualizado_em": "2026-10-18T17:50:06.519-03:00"
   }
 ]
