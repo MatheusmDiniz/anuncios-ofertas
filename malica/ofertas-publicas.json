@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZD959BX",
+    "titulo": "Ninho - Composto Lácteo Fases 3+, 800g : Amazon.com.br: Alimentos e Bebidas",
+    "imagem": "https://m.media-amazon.com/images/I/61F46o1Tx2L._AC_SL1500_.jpg",
+    "preco": 36,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZD959BX?tag=malica09-20",
+    "atualizado_em": "2026-10-20T13:18:27.418-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB61118769",
     "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi baby - GRAFITE",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_967447-MLA109050296314_032026-F.jpg",
