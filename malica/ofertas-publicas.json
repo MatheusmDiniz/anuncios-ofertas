@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07ZQVVP87",
+    "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
+    "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
+    "preco": 74,
+    "preco_anterior": 90,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
+    "atualizado_em": "2026-10-20T08:33:05.024-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56241384",
     "titulo": "Boné New Era Los Angeles Azul Aba Curva Adultos Ajuste Tamanho Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_600722-MLA99392812284_112025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1zsnRVL",
     "atualizado_em": "2026-10-18T20:41:05.569-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56574273",
-    "titulo": "Boné New Era A-frame New York Yankees Ajustável Cor Preto Tamanho U",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_763534-MLA99368369100_112025-F.jpg",
-    "preco": 117.49,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1b48gss",
-    "atualizado_em": "2026-10-18T20:32:55.187-03:00"
   }
 ]
