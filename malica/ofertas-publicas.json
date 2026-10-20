@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07NPWTYJT",
+    "titulo": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
+    "imagem": "https://m.media-amazon.com/images/I/41UgwftkxOL._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=malica09-20",
+    "atualizado_em": "2026-10-20T18:11:36.043-03:00"
+  },
+  {
     "id": "amazon:B093RCP1K4",
     "titulo": "Creme Preventivo contra assaduras 90g – Baruel Baby",
     "imagem": "https://m.media-amazon.com/images/I/61RtvUJd1kL._AC_SL1500_.jpg",
