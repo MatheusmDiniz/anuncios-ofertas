@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB78936404",
+    "titulo": "Carrinho Boneca Moisés Removível Estrutura Dobrável Metal Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672698-MLA117210835333_092026-F.jpg",
+    "preco": 107.82,
+    "preco_anterior": 215.64,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2sppdFx",
+    "atualizado_em": "2026-10-20T13:42:54.719-03:00"
+  },
+  {
     "id": "amazon:B0DV9W63Z6",
     "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
     "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
