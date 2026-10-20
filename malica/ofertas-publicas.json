@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75537532",
+    "titulo": "Naninha Ursinho Algodão Doce Bebê Antialérgica Azul Recém-Nascido 0 a 24 Meses Textura Macia Lavável na Máquina Adequada para Secadora 30x35cm Kit com 1 Peça Presente Chá de Bebê Enxoval",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776583-MLA114307078230_082026-F.jpg",
+    "preco": 26.09,
+    "preco_anterior": 99.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2FNuadK",
+    "atualizado_em": "2026-10-20T08:41:14.473-03:00"
+  },
+  {
     "id": "amazon:B07ZQVVP87",
     "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
     "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/34dWMEk",
     "atualizado_em": "2026-10-18T20:49:15.304-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68579630",
-    "titulo": "Banheira De Bebê Dobrável Portátil Com Termômetro Almofada Flutuante e Baleia Pluggei Select Pluggkids Mu1p Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952679-MLA111156305978_052026-F.jpg",
-    "preco": 155.1,
-    "preco_anterior": 360,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1zsnRVL",
-    "atualizado_em": "2026-10-18T20:41:05.569-03:00"
   }
 ]
