@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H8MNNJ2H",
+    "titulo": "Presente para Bebê Recém Nascido Kit com Chocalho, Livro, Sabonete Líquido, Lenço Umedecido e Caixa Personalizada",
+    "imagem": "https://m.media-amazon.com/images/I/71rK+AIIqdL._AC_SL1500_.jpg",
+    "preco": 67,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H8MNNJ2H?tag=malica09-20",
+    "atualizado_em": "2026-10-20T20:22:45.339-03:00"
+  },
+  {
     "id": "amazon:B08DPQK5K6",
     "titulo": "Granado Hidratante Bebê, Tradicional, 120ml : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/41htJGcwUTL._AC_SL1500_.jpg",
