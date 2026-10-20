@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB33584214",
+    "titulo": "Bicicleta De Equilíbrio Dino Balance Bike S/ Pedal Bebê Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_623106-MLA99501586246_112025-F.jpg",
+    "preco": 327,
+    "preco_anterior": 603.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kdi6Nd",
+    "atualizado_em": "2026-10-20T16:42:26.769-03:00"
+  },
+  {
     "id": "amazon:B0B3S9QWQY",
     "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
     "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
