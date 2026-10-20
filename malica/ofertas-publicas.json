@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z9SRGSK",
+    "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
+    "imagem": "https://m.media-amazon.com/images/I/51jr9zfbKkL._AC_SL1500_.jpg",
+    "preco": 58,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=malica09-20",
+    "atualizado_em": "2026-10-20T12:12:43.627-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB80306191",
     "titulo": "Berço Portátil Bebe Moises Acoplado AMR-6272 Colchao com mosqueteiro L'AMOR Cor Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_921498-MLA117363268892_102026-F.jpg",
