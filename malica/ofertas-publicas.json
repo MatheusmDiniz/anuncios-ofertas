@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FBX9T2Y2",
+    "titulo": "Cueiro para Bebê 100% Algodão Kit com 3 Unidades 80x80cm | Tecido Suave e Respirável | Ideal para Enxoval, Maternidade, Naninha e Proteção Diária (Creme/Azul)",
+    "imagem": "https://m.media-amazon.com/images/I/61X8Sy2XGIL._AC_SL1500_.jpg",
+    "preco": 63,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FBX9T2Y2?tag=malica09-20",
+    "atualizado_em": "2026-10-20T20:30:50.007-03:00"
+  },
+  {
     "id": "amazon:B0H8MNNJ2H",
     "titulo": "Presente para Bebê Recém Nascido Kit com Chocalho, Livro, Sabonete Líquido, Lenço Umedecido e Caixa Personalizada",
     "imagem": "https://m.media-amazon.com/images/I/71rK+AIIqdL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
     "atualizado_em": "2026-10-19T08:33:04.928-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73129562",
-    "titulo": "Banheira De Bebê Com Suporte Dobrável 45 Litros Kit Pipdip Cor Cinza Lisa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839721-MLA111930528160_062026-F.jpg",
-    "preco": 367.44,
-    "preco_anterior": 699.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Nhu2dc",
-    "atualizado_em": "2026-10-19T08:24:59.336-03:00"
   }
 ]
