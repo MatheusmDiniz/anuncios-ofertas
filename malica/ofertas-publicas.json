@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34803603",
+    "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Ocean",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869786-MLA96103846233_102025-F.jpg",
+    "preco": 99,
+    "preco_anterior": 166.51,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Yx6UXi",
+    "atualizado_em": "2026-10-20T09:46:18.104-03:00"
+  },
+  {
     "id": "shopee:387937307.21899385767",
     "titulo": "Kit 4 Compressa Em Gel Buba Para aliviar a febre Compressa refrescante buba",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0boilqsi6vx87",
@@ -1188,15 +1198,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1rH36kv",
     "atualizado_em": "2026-10-18T21:46:21.014-03:00"
-  },
-  {
-    "id": "shopee:1017646777.21899901744",
-    "titulo": "Kit 30 Peças Conjunto Enxoval Bebê Roupa Calça Body Recem Nascido Atacado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfpjh7zhcxzbb4",
-    "preco": 126.98,
-    "preco_anterior": 198.41,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/80DXGnxh4D",
-    "atualizado_em": "2026-10-18T21:38:11.380-03:00"
   }
 ]
