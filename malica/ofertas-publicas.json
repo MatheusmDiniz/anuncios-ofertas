@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDTZD5BS",
+    "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61KXSX2M+ML._AC_SL1500_.jpg",
+    "preco": 195.63,
+    "preco_anterior": 242.27,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
+    "atualizado_em": "2026-10-20T12:45:47.964-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74728025",
     "titulo": "Kit Introdução Alimentar Buba Prato Babador Colher Kit Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_788609-MLA113973636179_062026-F.jpg",
