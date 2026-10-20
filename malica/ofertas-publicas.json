@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GR5T4RF",
+    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
+    "imagem": "https://m.media-amazon.com/images/I/81XM69oIvoL._AC_SL1500_.jpg",
+    "preco": 80,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=malica09-20",
+    "atualizado_em": "2026-10-20T15:04:17.297-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27051169",
     "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
