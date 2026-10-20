@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1361476561.22493583538",
+    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
+    "preco": 36.99,
+    "preco_anterior": 73.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2gC46QA5xF",
+    "atualizado_em": "2026-10-20T09:05:37.728-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62445069",
     "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_849686-MLA99207858759_112025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/13QLwJU",
     "atualizado_em": "2026-10-18T21:13:43.696-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28579921",
-    "titulo": "Cadeira de Descanso Bebê Musical Polar Cinza 18kg Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729247-MLA96101820207_102025-F.jpg",
-    "preco": 209.85,
-    "preco_anterior": 366.04,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19n1jmt",
-    "atualizado_em": "2026-10-18T21:05:34.755-03:00"
   }
 ]
