@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56241384",
+    "titulo": "Boné New Era Los Angeles Azul Aba Curva Adultos Ajuste Tamanho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600722-MLA99392812284_112025-F.jpg",
+    "preco": 122.49,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1MWFNx1",
+    "atualizado_em": "2026-10-20T08:24:59.542-03:00"
+  },
+  {
     "id": "amazon:B0BFXJ12QQ",
     "titulo": "Huggies Fralda Supreme Care M 196 Un",
     "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1b48gss",
     "atualizado_em": "2026-10-18T20:32:55.187-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72860329",
-    "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
-    "preco": 397,
-    "preco_anterior": 799.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zqDmPY",
-    "atualizado_em": "2026-10-18T20:24:46.240-03:00"
   }
 ]
