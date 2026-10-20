@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C2VWQZS6",
+    "titulo": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
+    "imagem": "https://m.media-amazon.com/images/I/51cn8KjV74L._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=malica09-20",
+    "atualizado_em": "2026-10-20T19:49:35.664-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74536231",
     "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
