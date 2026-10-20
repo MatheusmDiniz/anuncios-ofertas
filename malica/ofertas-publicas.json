@@ -1518,25 +1518,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=malica09-20",
     "atualizado_em": "2026-10-18T15:21:52.168-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65075829",
-    "titulo": "Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Cores Marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_787776-MLA105537068548_012026-F.jpg",
-    "preco": 98.69,
-    "preco_anterior": 188.94,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2QUXiXz",
-    "atualizado_em": "2026-10-18T15:13:47.216-03:00"
-  },
-  {
-    "id": "amazon:B0CKPQWL9V",
-    "titulo": "Kit Triplo Mamadeira Anti-Colic Philips Avent SCY119/19 125ml + 260ml + 330ml Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/71umIjQd52L._AC_SL1500_.jpg",
-    "preco": 102,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CKPQWL9V?tag=malica09-20",
-    "atualizado_em": "2026-10-18T15:05:39.126-03:00"
   }
 ]
