@@ -1718,25 +1718,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0964DYZH7?tag=malica09-20",
     "atualizado_em": "2026-10-18T12:39:10.680-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25961240",
-    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
-    "preco": 149,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26CTJJv",
-    "atualizado_em": "2026-10-18T12:31:06.027-03:00"
-  },
-  {
-    "id": "amazon:B08PFT7QV4",
-    "titulo": "Oral-B Escova de Dente Sensitive Purification Gold Extra Macia 4 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61FQj6BRz3L._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": 45,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08PFT7QV4?tag=malica09-20",
-    "atualizado_em": "2026-10-18T12:22:57.143-03:00"
   }
 ]
