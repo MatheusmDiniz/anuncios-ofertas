@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8LWZ9PH",
+    "titulo": "KIT LANCHE SONIC GARRAFA PLÁSTICA 460ML + MARMITA 700ML - CAIXA C/ 1 KIT LEO&LEO",
+    "imagem": "https://m.media-amazon.com/images/I/61esaDhr38L._AC_SL1500_.jpg",
+    "preco": 56,
+    "preco_anterior": 86,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8LWZ9PH?tag=malica09-20",
+    "atualizado_em": "2026-10-19T21:27:09.898-03:00"
+  },
+  {
     "id": "amazon:B0DD7V56G1",
     "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
     "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/255TsTv",
     "atualizado_em": "2026-10-18T09:32:28.394-03:00"
-  },
-  {
-    "id": "shopee:823578007.21399249090",
-    "titulo": "Kit Bota Feminina Infantil E Bolsa Infantil Menina Blogueira",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv0pm7tgg2hp56",
-    "preco": 58.04,
-    "preco_anterior": 120.92,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AWxTA4e8s",
-    "atualizado_em": "2026-10-18T09:24:19.253-03:00"
   }
 ]
