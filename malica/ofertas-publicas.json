@@ -1538,25 +1538,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CKPQWL9V?tag=malica09-20",
     "atualizado_em": "2026-10-18T15:05:39.126-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB66515304",
-    "titulo": "Bicicleta De Equilíbrio Infantil S/ Pedal 4 Roda Joy Benibee Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_696764-MLA109132592442_042026-F.jpg",
-    "preco": 149.38,
-    "preco_anterior": 289,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2A9fsGm",
-    "atualizado_em": "2026-10-18T14:57:35.428-03:00"
-  },
-  {
-    "id": "amazon:B0DFQK6FS3",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho XXXG 80 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61LPNQ6rfmL._AC_SL1500_.jpg",
-    "preco": 135,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DFQK6FS3?tag=malica09-20",
-    "atualizado_em": "2026-10-18T14:49:28.483-03:00"
   }
 ]
