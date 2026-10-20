@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27051169",
+    "titulo": "Safety 1st, Mosquiteiro Avulso SafeNap, White",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777803-MLU74085495946_012024-F.jpg",
+    "preco": 100.06,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1WN2eJH",
+    "atualizado_em": "2026-10-20T14:56:11.287-03:00"
+  },
+  {
     "id": "amazon:B09LRDGH1Q",
     "titulo": "Cadeira de Refeição Burigotto Poke, Preto Night Sky",
     "imagem": "https://m.media-amazon.com/images/I/51buSR2zlvL._AC_SL1500_.jpg",
