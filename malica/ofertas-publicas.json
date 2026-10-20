@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHSHRMG",
+    "titulo": "Óleo Hidratante para Bebê Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41kXsmnCvqL._AC_SL1500_.jpg",
+    "preco": 50,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHSHRMG?tag=malica09-20",
+    "atualizado_em": "2026-10-20T17:31:03.193-03:00"
+  },
+  {
     "id": "amazon:B0CZPLVXS5",
     "titulo": "Mili Toalhas Umedecidas Love & Care Premium, Uso Bebê, Aloe Vera e Calêndula, Pack com 10 Pacotes (48 Unidades cada)",
     "imagem": "https://m.media-amazon.com/images/I/71toJU0iNyL._AC_SL1500_.jpg",
