@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08QG5H9RD",
+    "titulo": "Fralda Huggies Tripla Proteção M - 42 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/51AkVFxlBQL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08QG5H9RD?tag=malica09-20",
+    "atualizado_em": "2026-10-20T14:23:36.097-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875937",
     "titulo": "Sabonete Líquido Johnson's Baby Recém Nascido, 200ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_760704-MLA99931345213_112025-F.jpg",
