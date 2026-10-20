@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FKHFY1WG",
+    "titulo": "Oferta: Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
+    "imagem": "https://m.media-amazon.com/images/I/61wB2ObIr3L._AC_SL1500_.jpg",
+    "preco": 40,
+    "preco_anterior": 62,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FKHFY1WG?tag=malica09-20",
+    "atualizado_em": "2026-10-20T20:46:59.848-03:00"
+  },
+  {
     "id": "amazon:B0H34Y5JP5",
     "titulo": "Oferta: Apoio de Cabeça Ajustável para Bebê, Almofada Protetora para Cadeirinha Infantil de Carro, Cor Cinza",
     "imagem": "https://m.media-amazon.com/images/I/51DR1fJIaTL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=malica09-20",
     "atualizado_em": "2026-10-19T08:49:48.935-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB36217546",
-    "titulo": "Boneca Barbie Professions, de cabelo loiro, dançarina de balé",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993577-MLA96134750565_102025-F.jpg",
-    "preco": 65.51,
-    "preco_anterior": 172.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1z6AkaY",
-    "atualizado_em": "2026-10-19T08:41:15.645-03:00"
   }
 ]
