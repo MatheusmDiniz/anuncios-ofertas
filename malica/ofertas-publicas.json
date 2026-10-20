@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JQNSTJY",
+    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+    "imagem": "https://m.media-amazon.com/images/I/61A+Lzk0U2L._AC_SL1500_.jpg",
+    "preco": 12,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=malica09-20",
+    "atualizado_em": "2026-10-20T19:58:06.290-03:00"
+  },
+  {
     "id": "amazon:B0C2VWQZS6",
     "titulo": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
     "imagem": "https://m.media-amazon.com/images/I/51cn8KjV74L._AC_SL1500_.jpg",
