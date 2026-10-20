@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G5YTNFG",
+    "titulo": "Sabão Líquido Ola Bebê para Roupas Finas e Delicadas 1l : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/41Toiwbw4RL._AC_SL1500_.jpg",
+    "preco": 16,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G5YTNFG?tag=malica09-20",
+    "atualizado_em": "2026-10-19T21:35:15.564-03:00"
+  },
+  {
     "id": "amazon:B0D8LWZ9PH",
     "titulo": "KIT LANCHE SONIC GARRAFA PLÁSTICA 460ML + MARMITA 700ML - CAIXA C/ 1 KIT LEO&LEO",
     "imagem": "https://m.media-amazon.com/images/I/61esaDhr38L._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40hOVVpEoY",
     "atualizado_em": "2026-10-18T09:40:33.627-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39156395",
-    "titulo": "Almofada Para Amamentação Feeding G",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_989397-MLA95666849580_102025-F.jpg",
-    "preco": 148.5,
-    "preco_anterior": 248.92,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/255TsTv",
-    "atualizado_em": "2026-10-18T09:32:28.394-03:00"
   }
 ]
