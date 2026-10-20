@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0HBRC3BPT",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/618+ayzaooL._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0HBRC3BPT?tag=malica09-20",
+    "atualizado_em": "2026-10-19T21:11:00.078-03:00"
+  },
+  {
     "id": "amazon:B0F4KXTCFT",
     "titulo": "Creme Preventivo de Assaduras Desitin Creamy, Kit com 3 Unidades 113g | Proteção Diária, Hipoalergênico",
     "imagem": "https://m.media-amazon.com/images/I/71k9xm1E0gL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2utG7vZ",
     "atualizado_em": "2026-10-18T09:16:14.170-03:00"
-  },
-  {
-    "id": "shopee:1345800285.22297865664",
-    "titulo": "Short Saia Infantil e Juvenil Bengaline Menina 600-601-602-A",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwo-m0mh4zt9swse19",
-    "preco": 37.9,
-    "preco_anterior": 59.22,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/80DXGqeg1R",
-    "atualizado_em": "2026-10-18T09:08:05.386-03:00"
   }
 ]
