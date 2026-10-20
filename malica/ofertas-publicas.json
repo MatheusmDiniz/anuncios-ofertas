@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FSTR3JS",
+    "titulo": "Sabonete Líquido Huggies Extra Suave - 200ml",
+    "imagem": "https://m.media-amazon.com/images/I/618Va1pb8xL._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FSTR3JS?tag=malica09-20",
+    "atualizado_em": "2026-10-20T18:27:43.628-03:00"
+  },
+  {
     "id": "amazon:B0B9HWK12S",
     "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/41haSkx3BGL._AC_SL1500_.jpg",
