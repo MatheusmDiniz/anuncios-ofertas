@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C31PFBYT",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 168 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71-wYPx1mZL._AC_SL1500_.jpg",
+    "preco": 121,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C31PFBYT?tag=malica09-20",
+    "atualizado_em": "2026-10-19T21:51:26.948-03:00"
+  },
+  {
     "id": "amazon:B0CZLXLN8P",
     "titulo": "Stanley Garrafa Térmica Flip Straw Youth Citron 500ml : Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/41CiGs3QMVL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6Alt5V7SMp",
     "atualizado_em": "2026-10-18T09:56:51.797-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63775160",
-    "titulo": "Tapete Bebê Atividades Musical com Piano Interativo Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818318-MLA114777987136_082026-F.jpg",
-    "preco": 100.65,
-    "preco_anterior": 178.28,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2s6SAaX",
-    "atualizado_em": "2026-10-18T09:48:45.731-03:00"
   }
 ]
