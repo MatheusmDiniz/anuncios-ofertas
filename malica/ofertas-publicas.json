@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DV9W63Z6",
+    "titulo": "Fórmula Infantil Aptamil Profutura 1 800g - Kit 4 latas",
+    "imagem": "https://m.media-amazon.com/images/I/61HKcUxhQ9L._AC_SL1500_.jpg",
+    "preco": 346,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
+    "atualizado_em": "2026-10-20T13:34:43.469-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73772908",
     "titulo": "Triciclo Infantil De Passeio E Pedal Andador Avespa Pink",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629654-MLA113319995685_062026-F.jpg",
