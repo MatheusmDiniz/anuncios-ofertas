@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHS1MD2",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61OBGlobLML._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": 34,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHS1MD2?tag=malica09-20",
+    "atualizado_em": "2026-10-20T13:51:01.660-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB78936404",
     "titulo": "Carrinho Boneca Moisés Removível Estrutura Dobrável Metal Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_672698-MLA117210835333_092026-F.jpg",
