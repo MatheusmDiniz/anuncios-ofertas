@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXJ12QQ",
+    "titulo": "Huggies Fralda Supreme Care M 196 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81k5q1RPzlL._AC_SL1500_.jpg",
+    "preco": 178,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXJ12QQ?tag=malica09-20",
+    "atualizado_em": "2026-10-20T08:16:50.616-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69043941",
     "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_631551-MLA111151110751_052026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2zqDmPY",
     "atualizado_em": "2026-10-18T20:24:46.240-03:00"
-  },
-  {
-    "id": "amazon:B08K4JSQ2M",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 96 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61ClanZn8jL._AC_SL1500_.jpg",
-    "preco": 121.65,
-    "preco_anterior": 193.7,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K4JSQ2M?tag=malica09-20",
-    "atualizado_em": "2026-10-18T20:16:35.692-03:00"
   }
 ]
