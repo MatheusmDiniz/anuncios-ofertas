@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CBCRP3BS",
+    "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
+    "imagem": "https://m.media-amazon.com/images/I/71y1o6ee9IL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CBCRP3BS?tag=malica09-20",
+    "atualizado_em": "2026-10-20T19:25:18.802-03:00"
+  },
+  {
     "id": "amazon:B0C9KDKNYP",
     "titulo": "Bicos de Mamadeira Philips Avent, Fluxo 6, Pack com 2 Unidades | Pétala 3.0, Válvula Anticólicas, Para Líquido Espesso",
     "imagem": "https://m.media-amazon.com/images/I/51QjVBEPWvL._AC_SL1500_.jpg",
