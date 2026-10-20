@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F466B8C6",
+    "titulo": "Oferta: Castelo Didático Educativo Infantil com Peças de Encaixe Letras Números e Formas Coloridas para Montar e Desmontar",
+    "imagem": "https://m.media-amazon.com/images/I/611lewOk-xL._AC_SL1500_.jpg",
+    "preco": 47,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F466B8C6?tag=malica09-20",
+    "atualizado_em": "2026-10-20T20:55:04.472-03:00"
+  },
+  {
     "id": "amazon:B0FKHFY1WG",
     "titulo": "Oferta: Kit Meias e Pulseiras com Chocalho para Bebê 4 Peças Infantis",
     "imagem": "https://m.media-amazon.com/images/I/61wB2ObIr3L._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/25Ua3nB",
     "atualizado_em": "2026-10-19T08:57:59.721-03:00"
-  },
-  {
-    "id": "amazon:B07X5KWJK9",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61E4OFmEC+L._AC_SL1500_.jpg",
-    "preco": 104.49,
-    "preco_anterior": 151.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=malica09-20",
-    "atualizado_em": "2026-10-19T08:49:48.935-03:00"
   }
 ]
