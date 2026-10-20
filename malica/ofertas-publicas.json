@@ -1498,25 +1498,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1BFk61kag",
     "atualizado_em": "2026-10-18T15:38:01.561-03:00"
-  },
-  {
-    "id": "amazon:B0GW3TH25S+B0GW3YY6FY",
-    "titulo": "Fralda Pampers Confort Sec Tamanho M, 108 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71CN92BeawL._AC_SL1500_.jpg",
-    "preco": 98,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW3TH25S?tag=malica09-20",
-    "atualizado_em": "2026-10-18T15:29:56.014-03:00"
-  },
-  {
-    "id": "amazon:B08K2YFNDW",
-    "titulo": "Oferta para Membros Prime: Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
-    "imagem": "https://m.media-amazon.com/images/I/81t37GPlaML._AC_SL1500_.jpg",
-    "preco": 1969,
-    "preco_anterior": 2990,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08K2YFNDW?tag=malica09-20",
-    "atualizado_em": "2026-10-18T15:21:52.168-03:00"
   }
 ]
