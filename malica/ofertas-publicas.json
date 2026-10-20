@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08K3PF8Q7",
+    "titulo": "Composto Lácteo Infantil Neslac Comfor, Zero Lactose, 700g",
+    "imagem": "https://m.media-amazon.com/images/I/71Ziq9OkyEL._AC_SL1500_.jpg",
+    "preco": 57,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08K3PF8Q7?tag=malica09-20",
+    "atualizado_em": "2026-10-20T08:00:38.037-03:00"
+  },
+  {
     "id": "amazon:B0BFXKZQ2Y",
     "titulo": "Fralda Descartável Huggies Máxima Proteção, Tamanho G, 160 Unidades | Aberta, Tecnologia Xtra-Flex, Canais em X que se adaptam aos movimentos",
     "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
@@ -1178,25 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/21iB9U1",
     "atualizado_em": "2026-10-18T20:08:29.967-03:00"
-  },
-  {
-    "id": "amazon:B0F6FSFXP2",
-    "titulo": "Kit 3 Lenços Umedecido Bebê Recém Nascido 360 Toalhas : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/71wNc9jgdrL._AC_SL1500_.jpg",
-    "preco": 27,
-    "preco_anterior": 49,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F6FSFXP2?tag=malica09-20",
-    "atualizado_em": "2026-10-18T20:00:20.587-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67836338",
-    "titulo": "Blocos de Montar Magnéticos Bastões Montessori 103 Peças Brinquedo Infantil de Construção Com Peças E Formas Criativas Stem, Educativo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789300-MLA116945383715_082026-F.jpg",
-    "preco": 96.7,
-    "preco_anterior": 179.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2nTZsaF",
-    "atualizado_em": "2026-10-18T19:52:15.504-03:00"
   }
 ]
