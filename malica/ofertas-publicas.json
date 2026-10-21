@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62349726",
+    "titulo": "Banheira Portátil Dobrável para Spa e Gelo de Alta Qualidade Branca",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926675-MLA98901684651_112025-F.jpg",
+    "preco": 84,
+    "preco_anterior": 149.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24ziA86",
+    "atualizado_em": "2026-10-21T16:34:32.289-03:00"
+  },
+  {
     "id": "amazon:B09LRZZYQD",
     "titulo": "Granado Sabonete Líquido Bebê, Lavanda, 500ml",
     "imagem": "https://m.media-amazon.com/images/I/51EvV1U5LNL._AC_SL1500_.jpg",
