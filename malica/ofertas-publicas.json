@@ -1558,25 +1558,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2dF7g1Y",
     "atualizado_em": "2026-10-19T15:04:20.186-03:00"
-  },
-  {
-    "id": "amazon:B08QG3H6YR",
-    "titulo": "Fralda Huggies Tripla Proteção P - 46 fraldas",
-    "imagem": "https://m.media-amazon.com/images/I/51Kic2wWwhL._AC_SL1500_.jpg",
-    "preco": 41,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08QG3H6YR?tag=malica09-20",
-    "atualizado_em": "2026-10-19T14:56:09.391-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28487537",
-    "titulo": "Berço Sonata Cor Cinza - Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
-    "preco": 356.86,
-    "preco_anterior": 651.23,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2N9M5Ks",
-    "atualizado_em": "2026-10-19T14:48:03.035-03:00"
   }
 ]
