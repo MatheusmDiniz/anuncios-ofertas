@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FLZSKSXB",
+    "titulo": "Oferta: Gato Panda - Lixeira Anti Odor Classic 10 Litros – Design Compacto e Higiênico, Fácil de Limpar, Ideal para Quartos de Bebê, Cozinhas",
+    "imagem": "https://m.media-amazon.com/images/I/61vsw0mdtdL._AC_SL1500_.jpg",
+    "preco": 92,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FLZSKSXB?tag=malica09-20",
+    "atualizado_em": "2026-10-21T15:05:12.810-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40690981",
     "titulo": "Bomba Coletor Leite Materno Manual Portátil Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_944282-MLU78988156008_092024-F.jpg",
