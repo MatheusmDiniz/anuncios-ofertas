@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDV1QKW7",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG 148 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71x+xGjgeyL._AC_SL1500_.jpg",
+    "preco": 205,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=malica09-20",
+    "atualizado_em": "2026-10-21T11:48:55.057-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75479548",
     "titulo": "Suporte Banho Bebê Em Pé Ajustável Antiderrapante Torre De Banho Infantil Seguro Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_655656-MLA116856101810_092026-F.jpg",
