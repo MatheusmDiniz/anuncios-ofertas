@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1624354211.58259642577",
+    "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
+    "preco": 18.5,
+    "preco_anterior": 45.12,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qcyhh2Wgm",
+    "atualizado_em": "2026-10-21T09:54:29.645-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB37136700",
     "titulo": "Ursinho Que Reza Buba Pelúcia Oração Anjinho Da Guarda 24 Cm Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_934309-MLA95405210648_102025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
     "atualizado_em": "2026-10-19T21:59:32.476-03:00"
-  },
-  {
-    "id": "amazon:B0C31PFBYT",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 168 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71-wYPx1mZL._AC_SL1500_.jpg",
-    "preco": 121,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C31PFBYT?tag=malica09-20",
-    "atualizado_em": "2026-10-19T21:51:26.948-03:00"
   }
 ]
