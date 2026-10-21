@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DFD25P8S",
+    "titulo": "Mustela Shampoo Cachos Desembaraçados 200ml - Para Cabelos Ondulados, Cacheados e Texturizados - Limpa Suavemente, Nutre e Desembaraça",
+    "imagem": "https://m.media-amazon.com/images/I/71qEYm2z2oL._AC_SL1500_.jpg",
+    "preco": 58,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DFD25P8S?tag=malica09-20",
+    "atualizado_em": "2026-10-21T18:36:25.814-03:00"
+  },
+  {
     "id": "amazon:B07MJ11729",
     "titulo": "Fórmula Infantil Nan Soja 800g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/61HVqi8xA8L._AC_SL1500_.jpg",
