@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B088P95YRD",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
+    "preco": 61,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B088P95YRD?tag=malica09-20",
+    "atualizado_em": "2026-10-21T17:23:11.502-03:00"
+  },
+  {
     "id": "amazon:B086BVM3QD",
     "titulo": "MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/711DZcFWQWL._AC_SL1500_.jpg",
