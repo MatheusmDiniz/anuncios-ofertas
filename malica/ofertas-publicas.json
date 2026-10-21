@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:400477897.23899328530",
+    "titulo": "Kit 3 Sutiãs de Amamentação Reforçado Com Bojo Removível Liso Cores Neutras Sortidas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mtjmffjesl4w4e",
+    "preco": 79.9,
+    "preco_anterior": 128.87,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8KqSRdDJYX",
+    "atualizado_em": "2026-10-21T09:38:11.080-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28191782",
     "titulo": "Trocador Anatômico de Bebê Para Cômoda Bege Impermeável Com Zíper Batistela Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_612286-MLA113203041941_062026-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CZLXLN8P?tag=malica09-20",
     "atualizado_em": "2026-10-19T21:43:20.864-03:00"
-  },
-  {
-    "id": "amazon:B07G5YTNFG",
-    "titulo": "Sabão Líquido Ola Bebê para Roupas Finas e Delicadas 1l : Amazon.com.br: Saúde e Bem-Estar",
-    "imagem": "https://m.media-amazon.com/images/I/41Toiwbw4RL._AC_SL1500_.jpg",
-    "preco": 16,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07G5YTNFG?tag=malica09-20",
-    "atualizado_em": "2026-10-19T21:35:15.564-03:00"
   }
 ]
