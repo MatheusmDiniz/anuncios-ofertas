@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28191782",
+    "titulo": "Trocador Anatômico de Bebê Para Cômoda Bege Impermeável Com Zíper Batistela Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612286-MLA113203041941_062026-F.jpg",
+    "preco": 178,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2QHKK8W",
+    "atualizado_em": "2026-10-21T09:30:04.667-03:00"
+  },
+  {
     "id": "shopee:1339251691.23597977323",
     "titulo": "Multivitamínico para Gestante, Lactante e Pós-Parto | 60 Cápsulas 20 Nutrientes | Milk Mama",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcqmg1vlyz29ed",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07G5YTNFG?tag=malica09-20",
     "atualizado_em": "2026-10-19T21:35:15.564-03:00"
-  },
-  {
-    "id": "amazon:B0D8LWZ9PH",
-    "titulo": "KIT LANCHE SONIC GARRAFA PLÁSTICA 460ML + MARMITA 700ML - CAIXA C/ 1 KIT LEO&LEO",
-    "imagem": "https://m.media-amazon.com/images/I/61esaDhr38L._AC_SL1500_.jpg",
-    "preco": 56,
-    "preco_anterior": 86,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D8LWZ9PH?tag=malica09-20",
-    "atualizado_em": "2026-10-19T21:27:09.898-03:00"
   }
 ]
