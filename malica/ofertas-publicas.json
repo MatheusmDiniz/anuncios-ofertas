@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00SO7H0BS",
+    "titulo": "Fisher-Price Zebra Blocos Surpresa",
+    "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
+    "preco": 88,
+    "preco_anterior": 159,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=malica09-20",
+    "atualizado_em": "2026-10-21T20:55:10.452-03:00"
+  },
+  {
     "id": "amazon:B0C3FSF7KF",
     "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51p6dMmnxrL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/267JK1m",
     "atualizado_em": "2026-10-20T08:57:30.038-03:00"
-  },
-  {
-    "id": "shopee:1365993167.58209968589",
-    "titulo": "Kit 2 Body Bebê Alcinha Canelado Liso Menina Verão Macio Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mramvq8xoy6cc0",
-    "preco": 19.9,
-    "preco_anterior": 29.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1gJWuZnR6m",
-    "atualizado_em": "2026-10-20T08:49:20.202-03:00"
   }
 ]
