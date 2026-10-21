@@ -1608,25 +1608,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=malica09-20",
     "atualizado_em": "2026-10-19T14:23:37.067-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16091842",
-    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 250,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ZqdnYS",
-    "atualizado_em": "2026-10-19T14:15:30.694-03:00"
-  },
-  {
-    "id": "amazon:B0BB4Y6ZNL",
-    "titulo": "Cosco Kids, Cadeira de Refeição Convertty 8 em 1, Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/41YFCcr6QxL._AC_SL1500_.jpg",
-    "preco": 499.9,
-    "preco_anterior": 899,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BB4Y6ZNL?tag=malica09-20",
-    "atualizado_em": "2026-10-19T14:07:20.912-03:00"
   }
 ]
