@@ -1648,25 +1648,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GQYB3WP?tag=malica09-20",
     "atualizado_em": "2026-10-19T13:51:03.357-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB51240172",
-    "titulo": "Boneco de Banho Stitch Disney Cotiplás",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662629-MLA99452285762_112025-F.jpg",
-    "preco": 56,
-    "preco_anterior": 95.62,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1wKbRry",
-    "atualizado_em": "2026-10-19T13:42:57.813-03:00"
-  },
-  {
-    "id": "amazon:B0F4G5NL2K",
-    "titulo": "Lenços Umedecidos Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
-    "atualizado_em": "2026-10-19T13:34:47.795-03:00"
   }
 ]
