@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 37.25,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-10-21T08:08:54.875-03:00"
+  },
+  {
     "id": "amazon:B09WTLQ53R",
     "titulo": "Oferta: Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1)",
     "imagem": "https://m.media-amazon.com/images/I/61v0qgE-ILL._AC_SL1500_.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DJ1RD8SH?tag=malica09-20",
     "atualizado_em": "2026-10-19T20:13:27.047-03:00"
-  },
-  {
-    "id": "amazon:B0G45KPX15",
-    "titulo": "Máscara de Tratamento Elseve L",
-    "imagem": "https://m.media-amazon.com/images/I/71EYznJIxWL._AC_SL1500_.jpg",
-    "preco": 26.9,
-    "preco_anterior": 40.99,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G45KPX15?tag=malica09-20",
-    "atualizado_em": "2026-10-19T20:05:21.675-03:00"
   }
 ]
