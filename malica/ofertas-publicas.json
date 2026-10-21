@@ -1588,25 +1588,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09GV1QKT6?tag=malica09-20",
     "atualizado_em": "2026-10-19T14:39:53.734-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79387213",
-    "titulo": "Cadeira de Descanso para Bebê Flybb Elétrica com Balanço e Música Integrada, Reclinável, Marrom-Claro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_718808-MLA117740414899_092026-F.jpg",
-    "preco": 173.63,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CJMcPM",
-    "atualizado_em": "2026-10-19T14:31:48.455-03:00"
-  },
-  {
-    "id": "amazon:B09DQ6CMG2",
-    "titulo": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71C6P-MXsbL._AC_SL1500_.jpg",
-    "preco": 206,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09DQ6CMG2?tag=malica09-20",
-    "atualizado_em": "2026-10-19T14:23:37.067-03:00"
   }
 ]
