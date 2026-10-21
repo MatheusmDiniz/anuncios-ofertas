@@ -1408,25 +1408,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D4NN2W72?tag=malica09-20",
     "atualizado_em": "2026-10-19T17:06:39.501-03:00"
-  },
-  {
-    "id": "amazon:B0CKRTWMSR",
-    "titulo": "Achocolatado Em Pó Original Toddy Pote 750G",
-    "imagem": "https://m.media-amazon.com/images/I/51S5UBKdJ0L._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CKRTWMSR?tag=malica09-20",
-    "atualizado_em": "2026-10-19T16:58:35.018-03:00"
-  },
-  {
-    "id": "amazon:B08V2HBZH2",
-    "titulo": "Baby Dove Shampoo Hidratação Glicerinada 400 ML",
-    "imagem": "https://m.media-amazon.com/images/I/510MkOygOrL._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08V2HBZH2?tag=malica09-20",
-    "atualizado_em": "2026-10-19T16:50:28.910-03:00"
   }
 ]
