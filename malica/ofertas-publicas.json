@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1339251691.23597977323",
+    "titulo": "Multivitamínico para Gestante, Lactante e Pós-Parto | 60 Cápsulas 20 Nutrientes | Milk Mama",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcqmg1vlyz29ed",
+    "preco": 56,
+    "preco_anterior": 151.35,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2VsfUu97g5",
+    "atualizado_em": "2026-10-21T09:21:55.855-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65896917",
     "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D8LWZ9PH?tag=malica09-20",
     "atualizado_em": "2026-10-19T21:27:09.898-03:00"
-  },
-  {
-    "id": "amazon:B0DD7V56G1",
-    "titulo": "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
-    "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
-    "preco": 173,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
-    "atualizado_em": "2026-10-19T21:19:05.589-03:00"
   }
 ]
