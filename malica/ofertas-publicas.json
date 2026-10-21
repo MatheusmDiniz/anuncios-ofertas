@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24647472",
+    "titulo": "Bicicleta de Equilíbrio Infantil Sem Pedal Vermelho Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_739484-MLA99949712843_112025-F.jpg",
+    "preco": 190,
+    "preco_anterior": 316.67,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2vL2fUS",
+    "atualizado_em": "2026-10-21T15:13:22.706-03:00"
+  },
+  {
     "id": "amazon:B0FLZSKSXB",
     "titulo": "Oferta: Gato Panda - Lixeira Anti Odor Classic 10 Litros – Design Compacto e Higiênico, Fácil de Limpar, Ideal para Quartos de Bebê, Cozinhas",
     "imagem": "https://m.media-amazon.com/images/I/61vsw0mdtdL._AC_SL1500_.jpg",
