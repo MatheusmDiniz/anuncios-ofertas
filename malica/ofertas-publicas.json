@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JQND4NB",
+    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+    "imagem": "https://m.media-amazon.com/images/I/51xjZk9-YjL._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JQND4NB?tag=malica09-20",
+    "atualizado_em": "2026-10-21T18:20:17.130-03:00"
+  },
+  {
     "id": "amazon:B07DHSFK5T",
     "titulo": "Condicionador Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41MJjQE+guL._AC_SL1500_.jpg",
