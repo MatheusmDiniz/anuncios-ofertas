@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GTN3CDWG",
+    "titulo": "Mustela Kit Minis Travel Size - Gel Lavante + Hydra Bebê + Água de Limpeza + Creme Vitaminado Preventivo de Assaduras 54g - Nova Embalagem - Edição Limitada - Mustela Bebê e Criança",
+    "imagem": "https://m.media-amazon.com/images/I/61gIjZ-ohlL._AC_SL1500_.jpg",
+    "preco": 144,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GTN3CDWG?tag=malica09-20",
+    "atualizado_em": "2026-10-21T08:17:00.033-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24208936",
     "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BCHWGG5P?tag=malica09-20",
     "atualizado_em": "2026-10-19T20:21:32.547-03:00"
-  },
-  {
-    "id": "amazon:B0DJ1RD8SH",
-    "titulo": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos, 240W RMS - Branca",
-    "imagem": "https://m.media-amazon.com/images/I/71l7ChSNehL._AC_SL1500_.jpg",
-    "preco": 2503,
-    "preco_anterior": 3899,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJ1RD8SH?tag=malica09-20",
-    "atualizado_em": "2026-10-19T20:13:27.047-03:00"
   }
 ]
