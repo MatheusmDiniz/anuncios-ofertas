@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H2G38ZNW",
+    "titulo": "Oferta: Kit 3 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 300g - Bepantol Baby",
+    "imagem": "https://m.media-amazon.com/images/I/61HlHA-XVpL._AC_SL1500_.jpg",
+    "preco": 121.55,
+    "preco_anterior": 169.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H2G38ZNW?tag=malica09-20",
+    "atualizado_em": "2026-10-20T21:19:16.490-03:00"
+  },
+  {
     "id": "amazon:B0H5MN9Z7M",
     "titulo": "Micro-ondas Philco 20L Espelhado Pintura Limpa Fácil PMO24E 127v",
     "imagem": "https://m.media-amazon.com/images/I/61PthfYJiIL._AC_SL1500_.jpg",
