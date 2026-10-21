@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65896917",
+    "titulo": "Berço Portátil Balanço Moises Sleepguard Cobed Bege Ragaluma Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952958-MLA114390358396_082026-F.jpg",
+    "preco": 699,
+    "preco_anterior": 1199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/18sA7ah",
+    "atualizado_em": "2026-10-21T09:13:49.561-03:00"
+  },
+  {
     "id": "shopee:1101286870.58257972986",
     "titulo": "Calça Legging Gestante Flare Cós Alto Conforto Sustentação Zero Transparência  Proteção UV",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmhndgcgnwg422",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DD7V56G1?tag=malica09-20",
     "atualizado_em": "2026-10-19T21:19:05.589-03:00"
-  },
-  {
-    "id": "amazon:B0HBRC3BPT",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/618+ayzaooL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0HBRC3BPT?tag=malica09-20",
-    "atualizado_em": "2026-10-19T21:11:00.078-03:00"
   }
 ]
