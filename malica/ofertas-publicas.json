@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BCGZSRCN",
+    "titulo": "Cosco Kids, Travel System Reverse, Cinza Rajado",
+    "imagem": "https://m.media-amazon.com/images/I/61FEbc9F6eL._AC_SL1500_.jpg",
+    "preco": 658,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BCGZSRCN?tag=malica09-20",
+    "atualizado_em": "2026-10-21T14:00:09.756-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44897509",
     "titulo": "Grade de Proteção Infantil Masc Metais Tela Aço Carbono Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_668375-MLA100108532235_122025-F.jpg",
