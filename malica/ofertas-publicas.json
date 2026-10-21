@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BQQDXJH4",
+    "titulo": "Lavador Nasal Seringa 2 unidades, Buba",
+    "imagem": "https://m.media-amazon.com/images/I/71bpv7nYBTL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BQQDXJH4?tag=malica09-20",
+    "atualizado_em": "2026-10-20T21:27:20.105-03:00"
+  },
+  {
     "id": "amazon:B0H2G38ZNW",
     "titulo": "Oferta: Kit 3 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 300g - Bepantol Baby",
     "imagem": "https://m.media-amazon.com/images/I/61HlHA-XVpL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1oJ59YA",
     "atualizado_em": "2026-10-19T09:30:39.707-03:00"
-  },
-  {
-    "id": "amazon:B0GW3YY6FY",
-    "titulo": "Fralda Pampers Confort Sec Tamanho XXG, 82 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61Twnnnkq4L._AC_SL1500_.jpg",
-    "preco": 89,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GW3YY6FY?tag=malica09-20",
-    "atualizado_em": "2026-10-19T09:22:30.086-03:00"
   }
 ]
