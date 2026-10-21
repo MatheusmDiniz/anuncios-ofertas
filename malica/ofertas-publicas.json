@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DV7BN75H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho XG 70 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61mRVh6xnFL._AC_SL1500_.jpg",
+    "preco": 66,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=malica09-20",
+    "atualizado_em": "2026-10-21T12:38:25.752-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22953629",
     "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
