@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G8QLGSR",
+    "titulo": "Esterilizador De Microondas para Mamadeiras Bicos e Chupetas Philips Avent Azul/Branco",
+    "imagem": "https://m.media-amazon.com/images/I/51UOsl4f9jL._AC_SL1500_.jpg",
+    "preco": 159,
+    "preco_anterior": 259,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G8QLGSR?tag=malica09-20",
+    "atualizado_em": "2026-10-21T20:30:29.794-03:00"
+  },
+  {
     "id": "amazon:B0C6BZ9QTR",
     "titulo": "Forminha de Picolé Buba Divertidas Livres de BPA Infantil Sortido : Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/51HKl1L-ATL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
     "atualizado_em": "2026-10-20T08:33:05.024-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB56241384",
-    "titulo": "Boné New Era Los Angeles Azul Aba Curva Adultos Ajuste Tamanho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_600722-MLA99392812284_112025-F.jpg",
-    "preco": 122.49,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1MWFNx1",
-    "atualizado_em": "2026-10-20T08:24:59.542-03:00"
   }
 ]
