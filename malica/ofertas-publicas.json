@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C3FSF7KF",
+    "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/51p6dMmnxrL._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=malica09-20",
+    "atualizado_em": "2026-10-21T20:46:39.062-03:00"
+  },
+  {
     "id": "amazon:B07DGCFDC2",
     "titulo": "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 1l : Amazon.com.br: Casa",
     "imagem": "https://m.media-amazon.com/images/I/51MtHrKy9jL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1gJWuZnR6m",
     "atualizado_em": "2026-10-20T08:49:20.202-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75537532",
-    "titulo": "Naninha Ursinho Algodão Doce Bebê Antialérgica Azul Recém-Nascido 0 a 24 Meses Textura Macia Lavável na Máquina Adequada para Secadora 30x35cm Kit com 1 Peça Presente Chá de Bebê Enxoval",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776583-MLA114307078230_082026-F.jpg",
-    "preco": 26.09,
-    "preco_anterior": 99.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2FNuadK",
-    "atualizado_em": "2026-10-20T08:41:14.473-03:00"
   }
 ]
