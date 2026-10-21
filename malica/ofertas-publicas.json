@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G3S8PVW",
+    "titulo": "Oferta: Sustagen Kids Complemento Alimentar Sabor Baunilha - Sachê 190g",
+    "imagem": "https://m.media-amazon.com/images/I/61p07WrtzwL._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G3S8PVW?tag=malica09-20",
+    "atualizado_em": "2026-10-20T21:43:29.818-03:00"
+  },
+  {
     "id": "amazon:B0BTTKQV4P",
     "titulo": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/512hUsypG2L._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2XTho91",
     "atualizado_em": "2026-10-19T09:46:56.433-03:00"
-  },
-  {
-    "id": "shopee:938888317.19297977722",
-    "titulo": "Kit 2 Conjuntos Body Bebê Menino Fofo + Short Tapa Fralda Estampas Sortidas RN ao GG Enxoval, maternidade",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-motrvx7s1k3ka3",
-    "preco": 49.95,
-    "preco_anterior": 80.56,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8V9nrivn3K",
-    "atualizado_em": "2026-10-19T09:38:47.223-03:00"
   }
 ]
