@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37887504",
+    "titulo": "Berço Compacto Confort Bebê Cercado Chiqueirinho Rosa Cor Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_846232-MLA99509492760_112025-F.jpg",
+    "preco": 359,
+    "preco_anterior": 600,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Mj3SUH",
+    "atualizado_em": "2026-10-21T17:07:02.292-03:00"
+  },
+  {
     "id": "amazon:B0C4CFDJVJ",
     "titulo": "Personal Papel Higiênico Vip Folha Tripla Com 12 Rolos De 20M",
     "imagem": "https://m.media-amazon.com/images/I/71CkW6MPsTL._AC_SL1500_.jpg",
