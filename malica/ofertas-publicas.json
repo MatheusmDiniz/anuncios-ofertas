@@ -1318,25 +1318,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FB44ZSJ9?tag=malica09-20",
     "atualizado_em": "2026-10-19T18:19:29.424-03:00"
-  },
-  {
-    "id": "amazon:B09JVKRS42",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo RN 36 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61CSoJu3bxL._AC_SL1500_.jpg",
-    "preco": 23,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09JVKRS42?tag=malica09-20",
-    "atualizado_em": "2026-10-19T18:11:26.182-03:00"
-  },
-  {
-    "id": "amazon:B07DHRHZDR",
-    "titulo": "Shampoo Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
-    "preco": 38,
-    "preco_anterior": 62,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRHZDR?tag=malica09-20",
-    "atualizado_em": "2026-10-19T18:03:22.137-03:00"
   }
 ]
