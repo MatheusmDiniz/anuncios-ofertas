@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB41671899",
+    "titulo": "Canguru Ergonômico Baby Bear 12 Posições 4 Em 1 Cor Azul-claro",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_982670-MLA110165536107_042026-F.jpg",
+    "preco": 99.99,
+    "preco_anterior": 193.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZnNYav",
+    "atualizado_em": "2026-10-21T16:50:48.745-03:00"
+  },
+  {
     "id": "amazon:B0DVTBWQ8Q",
     "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
