@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FMS5FSR9",
+    "titulo": "LEGO City Limpa-neve, Caminhão de Brinquedo com Minifigura 60490",
+    "imagem": "https://m.media-amazon.com/images/I/71paUj2jixL._AC_SL1500_.jpg",
+    "preco": 169,
+    "preco_anterior": 249,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FMS5FSR9?tag=malica09-20",
+    "atualizado_em": "2026-10-20T21:51:34.970-03:00"
+  },
+  {
     "id": "amazon:B07G3S8PVW",
     "titulo": "Oferta: Sustagen Kids Complemento Alimentar Sabor Baunilha - Sachê 190g",
     "imagem": "https://m.media-amazon.com/images/I/61p07WrtzwL._AC_SL1500_.jpg",
