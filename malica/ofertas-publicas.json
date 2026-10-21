@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H5MN9Z7M",
+    "titulo": "Micro-ondas Philco 20L Espelhado Pintura Limpa Fácil PMO24E 127v",
+    "imagem": "https://m.media-amazon.com/images/I/61PthfYJiIL._AC_SL1500_.jpg",
+    "preco": 479.9,
+    "preco_anterior": 640,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H5MN9Z7M?tag=malica09-20",
+    "atualizado_em": "2026-10-20T21:11:12.491-03:00"
+  },
+  {
     "id": "amazon:B0FKHC7MLY",
     "titulo": "Oferta: Cadeira De Alimentação Infantil 3 em 1 Harmony Maxi Baby (Rosa)",
     "imagem": "https://m.media-amazon.com/images/I/512k-yaRfhL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1axaWvy",
     "atualizado_em": "2026-10-19T09:14:24.029-03:00"
-  },
-  {
-    "id": "amazon:B07X83MH7M",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61Wl8dMHuyL._AC_SL1500_.jpg",
-    "preco": 104.49,
-    "preco_anterior": 151.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=malica09-20",
-    "atualizado_em": "2026-10-19T09:06:13.749-03:00"
   }
 ]
