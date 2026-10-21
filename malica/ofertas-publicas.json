@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07VLJCJSW",
+    "titulo": "Repelente Elétrico Líquido SBP, 45 Noites, 35ml | Aparelho novo com refil, Cheiro Suave",
+    "imagem": "https://m.media-amazon.com/images/I/71AvjPNqsxL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07VLJCJSW?tag=malica09-20",
+    "atualizado_em": "2026-10-21T19:09:13.401-03:00"
+  },
+  {
     "id": "amazon:B07KJXP8TK",
     "titulo": "Gel Dental Malvatrikids F, 70g",
     "imagem": "https://m.media-amazon.com/images/I/51cI+X7NOjL._AC_SL1500_.jpg",
