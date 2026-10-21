@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CJCKRYLP",
+    "titulo": "Oferta: Huggies Fralda Proteção Dia Tam. G - 52 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/61lyQc+SppL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CJCKRYLP?tag=malica09-20",
+    "atualizado_em": "2026-10-21T12:05:38.115-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70379004",
     "titulo": "Geladeira Mini Brands Infantil Com Luz c/ 2 Bolas Colecionáveis - produto no Brasil",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_868523-MLA111304495868_052026-F.jpg",
