@@ -1668,25 +1668,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F4G5NL2K?tag=malica09-20",
     "atualizado_em": "2026-10-19T13:34:47.795-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23937416",
-    "titulo": "Garrafa Térmica Parede Dupla Rosa 400ml - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_671325-MLA96079324071_102025-F.jpg",
-    "preco": 76.62,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/17KTNXN",
-    "atualizado_em": "2026-10-19T13:26:41.574-03:00"
-  },
-  {
-    "id": "amazon:B08HTGRMD3",
-    "titulo": "Fralda Pampers Splashers Para Nadar Baby Shark Tamanho XG 10 Unidades : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/716wdYVdlgL._AC_SL1500_.jpg",
-    "preco": 34,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08HTGRMD3?tag=malica09-20",
-    "atualizado_em": "2026-10-19T13:18:32.251-03:00"
   }
 ]
