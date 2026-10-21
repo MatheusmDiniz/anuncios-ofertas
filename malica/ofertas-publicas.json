@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MBTSMM8",
+    "titulo": "Composto Lácteo Neslac Comfor, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/815GVNMYL7L._AC_SL1500_.jpg",
+    "preco": 46,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=malica09-20",
+    "atualizado_em": "2026-10-21T16:10:10.936-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875756",
     "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby, 750ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
