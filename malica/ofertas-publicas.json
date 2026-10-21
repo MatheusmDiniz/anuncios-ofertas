@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56677151",
+    "titulo": "Boné New Era New York Yankees Rosa com Ajuste",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990593-MLA99597201964_122025-F.jpg",
+    "preco": 129.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fqRnEh",
+    "atualizado_em": "2026-10-21T17:39:23.606-03:00"
+  },
+  {
     "id": "amazon:B07X83FF8M",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 78 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61XQcYdEJiL._AC_SL1500_.jpg",
