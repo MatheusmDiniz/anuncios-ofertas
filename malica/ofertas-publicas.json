@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D4363KSD+B0D519XS9K+B0D51V4FYN",
+    "titulo": "MamyPoko Fralda-Calça Superproteção G 28 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ga0jLunYL._AC_SL1500_.jpg",
+    "preco": 27,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D4363KSD?tag=malica09-20",
+    "atualizado_em": "2026-10-21T14:32:44.449-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72143098",
     "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
