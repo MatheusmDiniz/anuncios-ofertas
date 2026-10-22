@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75725312",
+    "titulo": "Babá Eletrônica Baby Monitor VB603 Sem Fio Visão Noturna Áudio Bidirecional LCD 3.2 VOX Sensor Temperatura - DDM Leds",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666275-MLA113775235212_072026-F.jpg",
+    "preco": 216.09,
+    "preco_anterior": 428.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mrvTUd",
+    "atualizado_em": "2026-10-21T21:44:35.395-03:00"
+  },
+  {
     "id": "amazon:B0F6DD8HYG",
     "titulo": "Kit 3 Cueiros Flanelados Dupla Face 100% Algodão – Estampados, Macios, Confortáveis p/Bebê, 80x50cm (Rosa/Branco)",
     "imagem": "https://m.media-amazon.com/images/I/51dpBVW+BLL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Yx6UXi",
     "atualizado_em": "2026-10-20T09:46:18.104-03:00"
-  },
-  {
-    "id": "shopee:387937307.21899385767",
-    "titulo": "Kit 4 Compressa Em Gel Buba Para aliviar a febre Compressa refrescante buba",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0boilqsi6vx87",
-    "preco": 21.89,
-    "preco_anterior": 39.09,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1BIvYWhun",
-    "atualizado_em": "2026-10-20T09:38:09.190-03:00"
   }
 ]
