@@ -1198,25 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=malica09-20",
     "atualizado_em": "2026-10-20T19:49:35.664-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536231",
-    "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
-    "preco": 499.99,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hhY1XL",
-    "atualizado_em": "2026-10-20T19:41:30.173-03:00"
-  },
-  {
-    "id": "amazon:B077BY8HQV",
-    "titulo": "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
-    "imagem": "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1500_.jpg",
-    "preco": 55,
-    "preco_anterior": 81,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B077BY8HQV?tag=malica09-20",
-    "atualizado_em": "2026-10-20T19:33:21.320-03:00"
   }
 ]
