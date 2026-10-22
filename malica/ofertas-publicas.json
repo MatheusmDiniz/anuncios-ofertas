@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
+    "preco": 1,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
+    "atualizado_em": "2026-10-22T08:17:01.132-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65182414",
     "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_819484-MLA113805637467_062026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H8MNNJ2H?tag=malica09-20",
     "atualizado_em": "2026-10-20T20:22:45.339-03:00"
-  },
-  {
-    "id": "amazon:B08DPQK5K6",
-    "titulo": "Granado Hidratante Bebê, Tradicional, 120ml : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/41htJGcwUTL._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=malica09-20",
-    "atualizado_em": "2026-10-20T20:14:15.300-03:00"
   }
 ]
