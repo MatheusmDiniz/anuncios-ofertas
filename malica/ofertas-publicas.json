@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09SPD5TQZ",
+    "titulo": "Safety 1st, Travel System Mobi NV Trio, Full Black",
+    "imagem": "https://m.media-amazon.com/images/I/51toZruHrrL._AC_SL1500_.jpg",
+    "preco": 1709,
+    "preco_anterior": 3051,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09SPD5TQZ?tag=malica09-20",
+    "atualizado_em": "2026-10-22T15:37:00.519-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63854956",
     "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_655356-MLA116912640401_082026-F.jpg",
