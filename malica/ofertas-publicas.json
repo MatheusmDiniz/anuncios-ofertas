@@ -1488,25 +1488,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHSCLPR?tag=malica09-20",
     "atualizado_em": "2026-10-20T15:53:24.973-03:00"
-  },
-  {
-    "id": "amazon:B0FBBWQB4G",
-    "titulo": "Huggies Fralda Descartável Premium Natural Care M - 78 Un",
-    "imagem": "https://m.media-amazon.com/images/I/71Z-5a28JNL._AC_SL1500_.jpg",
-    "preco": 94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FBBWQB4G?tag=malica09-20",
-    "atualizado_em": "2026-10-20T15:45:19.762-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24853515",
-    "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1idZTCr",
-    "atualizado_em": "2026-10-20T15:37:13.844-03:00"
   }
 ]
