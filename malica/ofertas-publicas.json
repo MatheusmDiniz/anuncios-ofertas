@@ -1658,25 +1658,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DV9W63Z6?tag=malica09-20",
     "atualizado_em": "2026-10-20T13:34:43.469-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73772908",
-    "titulo": "Triciclo Infantil De Passeio E Pedal Andador Avespa Pink",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629654-MLA113319995685_062026-F.jpg",
-    "preco": 290.98,
-    "preco_anterior": 499.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tciGDX",
-    "atualizado_em": "2026-10-20T13:26:37.718-03:00"
-  },
-  {
-    "id": "amazon:B07ZD959BX",
-    "titulo": "Ninho - Composto Lácteo Fases 3+, 800g : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/61F46o1Tx2L._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZD959BX?tag=malica09-20",
-    "atualizado_em": "2026-10-20T13:18:27.418-03:00"
   }
 ]
