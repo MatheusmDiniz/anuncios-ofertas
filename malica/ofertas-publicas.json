@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:492409068.20497983068",
+    "titulo": "Kit 13 Higiene Cuidado Bebê Recém Nascido Essencial 13 Peças Cuidados Com O Bebê Recém Cortador Escova Cabelo Unha Pente",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m356mim2nxn756",
+    "preco": 32.8,
+    "preco_anterior": 80,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9pfHpFqqiY",
+    "atualizado_em": "2026-10-22T09:38:28.577-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB49618558",
     "titulo": "Garrafa Térmica Unicórnio Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_656101-MLA84669348676_052025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07G3S8PVW?tag=malica09-20",
     "atualizado_em": "2026-10-20T21:43:29.818-03:00"
-  },
-  {
-    "id": "amazon:B0BTTKQV4P",
-    "titulo": "Personal Fralda Baby Total Protect Pants Grande, 24 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/512hUsypG2L._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=malica09-20",
-    "atualizado_em": "2026-10-20T21:35:25.488-03:00"
   }
 ]
