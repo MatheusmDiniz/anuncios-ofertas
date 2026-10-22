@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CHZ9XXPX",
+    "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, 40g | Fragrância Suave",
+    "imagem": "https://m.media-amazon.com/images/I/51QMN1Euz1L._AC_SL1500_.jpg",
+    "preco": 21.36,
+    "preco_anterior": 32.79,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=malica09-20",
+    "atualizado_em": "2026-10-22T20:53:59.311-03:00"
+  },
+  {
     "id": "amazon:B0C2B7LBKF",
     "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 30g | 30g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
     "imagem": "https://m.media-amazon.com/images/I/61kB4BkWYML._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2SJwgA7",
     "atualizado_em": "2026-10-21T08:57:35.610-03:00"
-  },
-  {
-    "id": "shopee:728451683.23991805523",
-    "titulo": "KIT COM 3 MACACÕES  DE BEBÊ SOFT QUENTINHO E MACIO- ESTAMPADO MENINO MENINA",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljbvpl6bf06o65",
-    "preco": 35,
-    "preco_anterior": 64.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/W7b79jICC",
-    "atualizado_em": "2026-10-21T08:49:27.810-03:00"
   }
 ]
