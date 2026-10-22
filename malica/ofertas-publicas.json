@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25961240",
+    "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
+    "preco": 149,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26CTJJv",
+    "atualizado_em": "2026-10-22T09:14:02.935-03:00"
+  },
+  {
     "id": "shopee:1739680653.58204448907",
     "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H2G38ZNW?tag=malica09-20",
     "atualizado_em": "2026-10-20T21:19:16.490-03:00"
-  },
-  {
-    "id": "amazon:B0H5MN9Z7M",
-    "titulo": "Micro-ondas Philco 20L Espelhado Pintura Limpa Fácil PMO24E 127v",
-    "imagem": "https://m.media-amazon.com/images/I/61PthfYJiIL._AC_SL1500_.jpg",
-    "preco": 479.9,
-    "preco_anterior": 640,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H5MN9Z7M?tag=malica09-20",
-    "atualizado_em": "2026-10-20T21:11:12.491-03:00"
   }
 ]
