@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65182414",
+    "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819484-MLA113805637467_062026-F.jpg",
+    "preco": 239.9,
+    "preco_anterior": 399.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28eWoWA",
+    "atualizado_em": "2026-10-22T08:08:56.582-03:00"
+  },
+  {
     "id": "amazon:B099KW58QQ",
     "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61se8cNhwjL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08DPQK5K6?tag=malica09-20",
     "atualizado_em": "2026-10-20T20:14:15.300-03:00"
-  },
-  {
-    "id": "amazon:B099KPR97P",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo XG 20 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61lR2jbdarL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KPR97P?tag=malica09-20",
-    "atualizado_em": "2026-10-20T20:06:10.406-03:00"
   }
 ]
