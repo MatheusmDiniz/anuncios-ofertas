@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FWRYRGRF",
+    "titulo": "Oferta: Aspirador Nasal Infantil com Ponta de Silicone, Seringa Lavadora para Bebês, Kit de Limpeza Nasal",
+    "imagem": "https://m.media-amazon.com/images/I/61yVCnaXWWL._AC_SL1500_.jpg",
+    "preco": 14.16,
+    "preco_anterior": 15.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FWRYRGRF?tag=malica09-20",
+    "atualizado_em": "2026-10-21T21:11:20.133-03:00"
+  },
+  {
     "id": "amazon:B07BK5WHD3",
     "titulo": "Dream Fitness EX 450 - Bicicleta Ergométrica Vertical, Chumbo, Único",
     "imagem": "https://m.media-amazon.com/images/I/51Qmjq0yHsL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2WUFJ1e",
     "atualizado_em": "2026-10-20T09:13:46.504-03:00"
-  },
-  {
-    "id": "shopee:1361476561.22493583538",
-    "titulo": "Saída de Maternidade Menino Luxo 6 Peças Para Bebê Recém, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-ms20altdd9tz2a",
-    "preco": 36.99,
-    "preco_anterior": 73.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2gC46QA5xF",
-    "atualizado_em": "2026-10-20T09:05:37.728-03:00"
   }
 ]
