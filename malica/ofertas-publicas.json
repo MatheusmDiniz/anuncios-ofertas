@@ -1248,25 +1248,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08T85RHB1?tag=malica09-20",
     "atualizado_em": "2026-10-20T19:09:09.976-03:00"
-  },
-  {
-    "id": "amazon:B0F1DWXMXC",
-    "titulo": "Pampers Sabonete Líquido Relaxamento 400ml",
-    "imagem": "https://m.media-amazon.com/images/I/61LzL7dZTVL._AC_SL1500_.jpg",
-    "preco": 31,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F1DWXMXC?tag=malica09-20",
-    "atualizado_em": "2026-10-20T19:01:04.683-03:00"
-  },
-  {
-    "id": "amazon:B097S11KYF",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper XG 60 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61v0SaOuJML._AC_SL1500_.jpg",
-    "preco": 63,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B097S11KYF?tag=malica09-20",
-    "atualizado_em": "2026-10-20T18:52:00.140-03:00"
   }
 ]
