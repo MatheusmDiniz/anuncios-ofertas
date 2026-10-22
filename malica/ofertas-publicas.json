@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07LF7C7YL",
+    "titulo": "Protetor Solar Infantil NIVEA Sun, FPS 60, 150ml | Muito Resistente à Água, Alta Proteção UVA/UVB, Fórmula Biodegradável 76%",
+    "imagem": "https://m.media-amazon.com/images/I/718nBS27DkL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07LF7C7YL?tag=malica09-20",
+    "atualizado_em": "2026-10-22T17:47:23.219-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215253",
     "titulo": "Triciclo Kendy Patrulha Canina Infantil Baby Dog Azul e Vermelho com Haste e Apoio de Pés",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_905958-MLA99473384266_112025-F.jpg",
