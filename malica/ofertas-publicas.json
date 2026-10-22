@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:885316517.22193972664",
+    "titulo": "Kit Pós Parto 2 Sutiãs Amamentação + 2 Calcinha cós alto micro fibra reforçado pós Cesária",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97nwi9epqma6e",
+    "preco": 46.9,
+    "preco_anterior": 120.26,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2qVXUNrEgO",
+    "atualizado_em": "2026-10-22T09:22:10.138-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25961240",
     "titulo": "Colchão Infantil Para Berço 60x130cm D18 Supreme/Dream Gazin Cor Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_816804-MLA100048921405_122025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BQQDXJH4?tag=malica09-20",
     "atualizado_em": "2026-10-20T21:27:20.105-03:00"
-  },
-  {
-    "id": "amazon:B0H2G38ZNW",
-    "titulo": "Oferta: Kit 3 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 300g - Bepantol Baby",
-    "imagem": "https://m.media-amazon.com/images/I/61HlHA-XVpL._AC_SL1500_.jpg",
-    "preco": 121.55,
-    "preco_anterior": 169.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H2G38ZNW?tag=malica09-20",
-    "atualizado_em": "2026-10-20T21:19:16.490-03:00"
   }
 ]
