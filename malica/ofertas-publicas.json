@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:504754787.23793169776",
+    "titulo": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e",
+    "preco": 174.9,
+    "preco_anterior": 301.55,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAI8DsFuTY",
+    "atualizado_em": "2026-10-22T09:54:46.455-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62120518",
     "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DH6QTT32?tag=malica09-20",
     "atualizado_em": "2026-10-20T21:59:40.504-03:00"
-  },
-  {
-    "id": "amazon:B0FMS5FSR9",
-    "titulo": "LEGO City Limpa-neve, Caminhão de Brinquedo com Minifigura 60490",
-    "imagem": "https://m.media-amazon.com/images/I/71paUj2jixL._AC_SL1500_.jpg",
-    "preco": 169,
-    "preco_anterior": 249,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FMS5FSR9?tag=malica09-20",
-    "atualizado_em": "2026-10-20T21:51:34.970-03:00"
   }
 ]
