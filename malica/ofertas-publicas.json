@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C2B7LBKF",
+    "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 30g | 30g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
+    "imagem": "https://m.media-amazon.com/images/I/61kB4BkWYML._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": 23.52,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C2B7LBKF?tag=malica09-20",
+    "atualizado_em": "2026-10-22T20:45:55.318-03:00"
+  },
+  {
     "id": "amazon:B07L4TSL64",
     "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L : Amazon.com.br: Casa",
     "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W7b79jICC",
     "atualizado_em": "2026-10-21T08:49:27.810-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB57083030",
-    "titulo": "Triciclo Infantil Rosa Maral 2 em 1 Passeio e Pedal com Buzina",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_631641-MLA115957780725_082026-F.jpg",
-    "preco": 383.57,
-    "preco_anterior": 652.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Hw7SHG",
-    "atualizado_em": "2026-10-21T08:41:22.662-03:00"
   }
 ]
