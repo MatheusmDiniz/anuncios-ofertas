@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B099KW58QQ",
+    "titulo": "Fralda Turma da Mônica Baby Mega M 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61se8cNhwjL._AC_SL1500_.jpg",
+    "preco": 39,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B099KW58QQ?tag=malica09-20",
+    "atualizado_em": "2026-10-22T08:00:49.392-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1178,25 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KPR97P?tag=malica09-20",
     "atualizado_em": "2026-10-20T20:06:10.406-03:00"
-  },
-  {
-    "id": "amazon:B08JQNSTJY",
-    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61A+Lzk0U2L._AC_SL1500_.jpg",
-    "preco": 12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08JQNSTJY?tag=malica09-20",
-    "atualizado_em": "2026-10-20T19:58:06.290-03:00"
-  },
-  {
-    "id": "amazon:B0C2VWQZS6",
-    "titulo": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
-    "imagem": "https://m.media-amazon.com/images/I/51cn8KjV74L._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=malica09-20",
-    "atualizado_em": "2026-10-20T19:49:35.664-03:00"
   }
 ]
