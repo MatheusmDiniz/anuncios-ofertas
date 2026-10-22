@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75956946",
+    "titulo": "Suporte de Banho para Bebê Ajustável Nautilus Ocean Azul, Torre Segura para Chuveiro e Banheira",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963256-MLA113993552578_072026-F.jpg",
+    "preco": 184.2,
+    "preco_anterior": 419.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fGzMdL",
+    "atualizado_em": "2026-10-22T15:12:39.974-03:00"
+  },
+  {
     "id": "amazon:B00LTDSMRU",
     "titulo": "Colônia Refrescante Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41Gqx91I7NL._AC_SL1500_.jpg",
