@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07L4TSL64",
+    "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L : Amazon.com.br: Casa",
+    "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
+    "preco": 127,
+    "preco_anterior": 222,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
+    "atualizado_em": "2026-10-22T20:37:53.550-03:00"
+  },
+  {
     "id": "amazon:B0BBJJZXHL",
     "titulo": "Buba Joelheira Cinza",
     "imagem": "https://m.media-amazon.com/images/I/71aZVNlg31L._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Hw7SHG",
     "atualizado_em": "2026-10-21T08:41:22.662-03:00"
-  },
-  {
-    "id": "shopee:1361476561.19397991697",
-    "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
-    "preco": 24.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4VdjsV3b6X",
-    "atualizado_em": "2026-10-21T08:33:13.367-03:00"
   }
 ]
