@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DJBVL2S5",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61BvTWZgpiL._AC_SL1500_.jpg",
+    "preco": 24,
+    "preco_anterior": 44,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DJBVL2S5?tag=malica09-20",
+    "atualizado_em": "2026-10-22T18:03:34.483-03:00"
+  },
+  {
     "id": "amazon:B0B1DW4P6T",
     "titulo": "Protetor Solar Facial em Bastão Mustela, FPS 50, 8g | Para Bebês, Crianças e Adultos, Alta proteção UVA e UVB, Hipoalergênico",
     "imagem": "https://m.media-amazon.com/images/I/51DzcuME4GL._AC_SL1500_.jpg",
