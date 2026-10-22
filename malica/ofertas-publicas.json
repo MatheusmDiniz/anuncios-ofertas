@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GWDZY",
+    "titulo": "Fralda Pampers Supersequinha Tamanho M 90 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/617TESrq0lL._AC_SL1500_.jpg",
+    "preco": 1,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GWDZY?tag=malica09-20",
+    "atualizado_em": "2026-10-22T19:16:42.987-03:00"
+  },
+  {
     "id": "amazon:B072MTS8VQ",
     "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SL1500_.jpg",
