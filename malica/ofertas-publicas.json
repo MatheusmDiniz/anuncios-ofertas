@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B095Z135KC",
+    "titulo": "Burigotto Berço New Aconchego Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/51Gwl7DOIzL._AC_SL1500_.jpg",
+    "preco": 498,
+    "preco_anterior": 899,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B095Z135KC?tag=malica09-20",
+    "atualizado_em": "2026-10-22T13:26:32.727-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26382771",
     "titulo": "Cozinha Infantil De Brinquedo Completa Sai Água + Acessórios Cor Roxo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_679641-MLA99933602093_112025-F.jpg",
