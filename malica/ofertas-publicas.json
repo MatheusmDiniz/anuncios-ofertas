@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49618558",
+    "titulo": "Garrafa Térmica Unicórnio Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656101-MLA84669348676_052025-F.jpg",
+    "preco": 89.99,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RwjbRP",
+    "atualizado_em": "2026-10-22T09:30:21.622-03:00"
+  },
+  {
     "id": "shopee:885316517.22193972664",
     "titulo": "Kit Pós Parto 2 Sutiãs Amamentação + 2 Calcinha cós alto micro fibra reforçado pós Cesária",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97nwi9epqma6e",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BTTKQV4P?tag=malica09-20",
     "atualizado_em": "2026-10-20T21:35:25.488-03:00"
-  },
-  {
-    "id": "amazon:B0BQQDXJH4",
-    "titulo": "Lavador Nasal Seringa 2 unidades, Buba",
-    "imagem": "https://m.media-amazon.com/images/I/71bpv7nYBTL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BQQDXJH4?tag=malica09-20",
-    "atualizado_em": "2026-10-20T21:27:20.105-03:00"
   }
 ]
