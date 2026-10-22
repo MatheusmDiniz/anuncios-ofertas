@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GNTGLDK",
+    "titulo": "Fralda Cremer Jumbo Grandinhos 14 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71EYP++bCqL._AC_SL1500_.jpg",
+    "preco": 17,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GNTGLDK?tag=malica09-20",
+    "atualizado_em": "2026-10-22T19:41:23.879-03:00"
+  },
+  {
     "id": "amazon:B0D61LL8FW",
     "titulo": "Mustela Refil Gel Lavante Suave 400ml - Sabonete Líquido Corpo e Cabelo para bebês e crianças – feito com 93% de ingredientes de origem natural - Mustela Bebê e Criança",
     "imagem": "https://m.media-amazon.com/images/I/51j5q7LsTPL._AC_SL1500_.jpg",
