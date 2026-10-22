@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555474890",
+    "titulo": "Meu Primeiro Livro - Cores",
+    "imagem": "https://m.media-amazon.com/images/I/812w2AeIjwL._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555474890?tag=malica09-20",
+    "atualizado_em": "2026-10-22T20:13:41.283-03:00"
+  },
+  {
     "id": "amazon:B0C3JGG83X",
     "titulo": "Granado Sabonete Líquido Bebê, Calêndula, 500ml",
     "imagem": "https://m.media-amazon.com/images/I/51E7vdKFEmL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GTN3CDWG?tag=malica09-20",
     "atualizado_em": "2026-10-21T08:17:00.033-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24208936",
-    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-    "preco": 37.25,
-    "preco_anterior": 62.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2q4b5HH",
-    "atualizado_em": "2026-10-21T08:08:54.875-03:00"
   }
 ]
