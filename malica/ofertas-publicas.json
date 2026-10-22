@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34207405",
+    "titulo": "Buba Pop-up Brinquedo Infantil Pop-up Zoo Animais Multicor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672818-MLA99945397375_112025-F.jpg",
+    "preco": 93,
+    "preco_anterior": 155.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/21iB9U1",
+    "atualizado_em": "2026-10-22T12:45:57.754-03:00"
+  },
+  {
     "id": "amazon:B07XTJJR2J",
     "titulo": "Molico Leite Em Pó Desnatado Total Cálcio 500G",
     "imagem": "https://m.media-amazon.com/images/I/8135fs36LQL._AC_SL1500_.jpg",
