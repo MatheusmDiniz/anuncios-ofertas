@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BBJJZXHL",
+    "titulo": "Buba Joelheira Cinza",
+    "imagem": "https://m.media-amazon.com/images/I/71aZVNlg31L._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BBJJZXHL?tag=malica09-20",
+    "atualizado_em": "2026-10-22T20:29:50.107-03:00"
+  },
+  {
     "id": "amazon:B08GL1ZY3B",
     "titulo": "Anasol Protetor Solar KIDS FPS 90-100 g",
     "imagem": "https://m.media-amazon.com/images/I/51yPL8ljAIL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4VdjsV3b6X",
     "atualizado_em": "2026-10-21T08:33:13.367-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53365359",
-    "titulo": "Baba Eletrônica Baby Monitor Visão Noturna Dual Audio Cor Branco G.Eye",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906317-MLA99964561647_112025-F.jpg",
-    "preco": 224.5,
-    "preco_anterior": 449,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2W2q7qJ",
-    "atualizado_em": "2026-10-21T08:25:07.409-03:00"
   }
 ]
