@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093S1G1N3",
+    "titulo": "Creme Preventivo contra assaduras 45g – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/61a-xxTVt6L._AC_SL1500_.jpg",
+    "preco": 12,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093S1G1N3?tag=malica09-20",
+    "atualizado_em": "2026-10-22T17:31:10.821-03:00"
+  },
+  {
     "id": "amazon:B07FSTX18B",
     "titulo": "Fralda Descartável Huggies Máxima Proteção, Tamanho XXG, 26 Unidades | Supreme Care, Tecnologia Xtra-Flex, Canais em X, Fralda Aberta",
     "imagem": "https://m.media-amazon.com/images/I/71-8HxrKXDL._AC_SL1500_.jpg",
