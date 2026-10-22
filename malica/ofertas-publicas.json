@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00LTDSMRU",
+    "titulo": "Colônia Refrescante Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41Gqx91I7NL._AC_SL1500_.jpg",
+    "preco": 36,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=malica09-20",
+    "atualizado_em": "2026-10-22T15:04:29.885-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54502866",
     "titulo": "Gabby's Dollhouse - Tiara de Orelha Musical - O filme - 4813",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_646166-MLA113735260094_072026-F.jpg",
