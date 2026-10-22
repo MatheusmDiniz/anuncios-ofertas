@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB20787112",
+    "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745997-MLA111515571650_062026-F.jpg",
+    "preco": 114.39,
+    "preco_anterior": 279,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QJboPA",
+    "atualizado_em": "2026-10-22T16:01:29.902-03:00"
+  },
+  {
     "id": "amazon:B07M73VVLV",
     "titulo": "Fórmula Infantil Aptamil Pepti, 800g : Amazon.com.br: Alimentos e Bebidas",
     "imagem": "https://m.media-amazon.com/images/I/71NlmnTPujL._AC_SL1500_.jpg",
