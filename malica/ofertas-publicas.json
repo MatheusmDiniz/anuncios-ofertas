@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C3JGG83X",
+    "titulo": "Granado Sabonete Líquido Bebê, Calêndula, 500ml",
+    "imagem": "https://m.media-amazon.com/images/I/51E7vdKFEmL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C3JGG83X?tag=malica09-20",
+    "atualizado_em": "2026-10-22T20:05:36.707-03:00"
+  },
+  {
     "id": "amazon:6556178292",
     "titulo": "Meu Livro Fofinho: Bíblia do Bebê",
     "imagem": "https://m.media-amazon.com/images/I/61wZpvuY5qL._AC_SL1500_.jpg",
