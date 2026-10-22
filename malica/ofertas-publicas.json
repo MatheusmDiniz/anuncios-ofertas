@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66194128",
+    "titulo": "Baby Brink Boneca Emilly Vick Dos Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705150-MLA116500653536_092026-F.jpg",
+    "preco": 145.73,
+    "preco_anterior": 269.87,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZujsJg",
+    "atualizado_em": "2026-10-22T08:25:10.384-03:00"
+  },
+  {
     "id": "amazon:B07X4GVF9H",
     "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FBX9T2Y2?tag=malica09-20",
     "atualizado_em": "2026-10-20T20:30:50.007-03:00"
-  },
-  {
-    "id": "amazon:B0H8MNNJ2H",
-    "titulo": "Presente para Bebê Recém Nascido Kit com Chocalho, Livro, Sabonete Líquido, Lenço Umedecido e Caixa Personalizada",
-    "imagem": "https://m.media-amazon.com/images/I/71rK+AIIqdL._AC_SL1500_.jpg",
-    "preco": 67,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H8MNNJ2H?tag=malica09-20",
-    "atualizado_em": "2026-10-20T20:22:45.339-03:00"
   }
 ]
