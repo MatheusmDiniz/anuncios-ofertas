@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07XTJJR2J",
+    "titulo": "Molico Leite Em Pó Desnatado Total Cálcio 500G",
+    "imagem": "https://m.media-amazon.com/images/I/8135fs36LQL._AC_SL1500_.jpg",
+    "preco": 27,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07XTJJR2J?tag=malica09-20",
+    "atualizado_em": "2026-10-22T12:37:48.604-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB76204604",
     "titulo": "Suporte De Banho Bebê Em Pé Ajustável Antiderrapante Coluna Ajustável e Seguro Suporte Para Chuveiro Infantil Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629796-MLA115448219481_082026-F.jpg",
