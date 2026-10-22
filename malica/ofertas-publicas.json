@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62120518",
+    "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
+    "preco": 1090,
+    "preco_anterior": 1999.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mFmhE7",
+    "atualizado_em": "2026-10-22T09:46:39.453-03:00"
+  },
+  {
     "id": "shopee:492409068.20497983068",
     "titulo": "Kit 13 Higiene Cuidado Bebê Recém Nascido Essencial 13 Peças Cuidados Com O Bebê Recém Cortador Escova Cabelo Unha Pente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m356mim2nxn756",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FMS5FSR9?tag=malica09-20",
     "atualizado_em": "2026-10-20T21:51:34.970-03:00"
-  },
-  {
-    "id": "amazon:B07G3S8PVW",
-    "titulo": "Oferta: Sustagen Kids Complemento Alimentar Sabor Baunilha - Sachê 190g",
-    "imagem": "https://m.media-amazon.com/images/I/61p07WrtzwL._AC_SL1500_.jpg",
-    "preco": 10,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07G3S8PVW?tag=malica09-20",
-    "atualizado_em": "2026-10-20T21:43:29.818-03:00"
   }
 ]
