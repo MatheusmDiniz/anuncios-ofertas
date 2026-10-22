@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07KFHHB6L",
+    "titulo": "Cubo Didático Grande - Mercotoys",
+    "imagem": "https://m.media-amazon.com/images/I/71ZAV8N9uiL._AC_SL1500_.jpg",
+    "preco": 61,
+    "preco_anterior": 119,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07KFHHB6L?tag=malica09-20",
+    "atualizado_em": "2026-10-22T17:14:59.268-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65171459",
     "titulo": "Cercado Berço KikkaBoo Matea 2 Dobrável com Colchão e Mosquiteiro para Bebê",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_844352-MLA106338419863_022026-F.jpg",
