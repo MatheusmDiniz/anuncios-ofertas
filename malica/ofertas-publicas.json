@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21006188",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
+    "preco": 196.47,
+    "preco_anterior": 346.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/27sfskB",
+    "atualizado_em": "2026-10-22T13:34:47.634-03:00"
+  },
+  {
     "id": "amazon:B095Z135KC",
     "titulo": "Burigotto Berço New Aconchego Rosa",
     "imagem": "https://m.media-amazon.com/images/I/51Gwl7DOIzL._AC_SL1500_.jpg",
