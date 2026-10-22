@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GL1ZY3B",
+    "titulo": "Anasol Protetor Solar KIDS FPS 90-100 g",
+    "imagem": "https://m.media-amazon.com/images/I/51yPL8ljAIL._AC_SL1500_.jpg",
+    "preco": 41,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GL1ZY3B?tag=malica09-20",
+    "atualizado_em": "2026-10-22T20:21:46.467-03:00"
+  },
+  {
     "id": "amazon:6555474890",
     "titulo": "Meu Primeiro Livro - Cores",
     "imagem": "https://m.media-amazon.com/images/I/812w2AeIjwL._AC_SL1500_.jpg",
