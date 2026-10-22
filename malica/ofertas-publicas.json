@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26678497",
+    "titulo": "Ursinho De Brinquedo Para Criança Menina Que Reza - Buba Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666002-MLA99510053086_112025-F.jpg",
+    "preco": 115.33,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EYcHFA",
+    "atualizado_em": "2026-10-22T08:41:22.719-03:00"
+  },
+  {
     "id": "amazon:B0D2ZH3TCJ",
     "titulo": "Mustela Toalhas Compostáveis Com Perfume 60 Unidades - Lenços Umedecidos Perfumados E Suaves Para Higiene Do Rosto Ao Bumbum – Com 99% De Ingredientes Naturais – Bebê E Criança",
     "imagem": "https://m.media-amazon.com/images/I/514XlEN5KKL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FKHFY1WG?tag=malica09-20",
     "atualizado_em": "2026-10-20T20:46:59.848-03:00"
-  },
-  {
-    "id": "amazon:B0H34Y5JP5",
-    "titulo": "Oferta: Apoio de Cabeça Ajustável para Bebê, Almofada Protetora para Cadeirinha Infantil de Carro, Cor Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/51DR1fJIaTL._AC_SL1500_.jpg",
-    "preco": 56,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0H34Y5JP5?tag=malica09-20",
-    "atualizado_em": "2026-10-20T20:38:54.234-03:00"
   }
 ]
