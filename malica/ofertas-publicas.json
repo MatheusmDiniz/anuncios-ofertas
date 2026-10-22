@@ -1268,25 +1268,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B097S11KYF?tag=malica09-20",
     "atualizado_em": "2026-10-20T18:52:00.140-03:00"
-  },
-  {
-    "id": "amazon:B07XTFT7G1",
-    "titulo": "Achocolatado ALPINO® 1Kg",
-    "imagem": "https://m.media-amazon.com/images/I/61jxtgjckmL._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=malica09-20",
-    "atualizado_em": "2026-10-20T18:43:56.510-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62926546",
-    "titulo": "Carrinho Passeio Bebê Reversível Moisés Ts Cinza - Maxi Baby Cinza Dourado",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_760834-MLA100113185128_122025-F.jpg",
-    "preco": 1178,
-    "preco_anterior": 1999.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2sXPaJ7",
-    "atualizado_em": "2026-10-20T18:35:51.819-03:00"
   }
 ]
