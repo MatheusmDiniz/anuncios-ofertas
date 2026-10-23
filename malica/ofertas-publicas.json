@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GPV56NS",
+    "titulo": "Fralda Pampers Recém-Nascido Tamanho RN+ 36 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61JMOOlw39L._AC_SL1500_.jpg",
+    "preco": 43,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GPV56NS?tag=malica09-20",
+    "atualizado_em": "2026-10-23T08:49:10.340-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74536230",
     "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
