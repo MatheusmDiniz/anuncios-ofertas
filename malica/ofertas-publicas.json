@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09ZNX93JK",
+    "titulo": "Cosco Kids, Carrinho de Bebê, Toffy, Preto Absoluto",
+    "imagem": "https://m.media-amazon.com/images/I/51BGkbJKYWL._AC_SL1500_.jpg",
+    "preco": 409.86,
+    "preco_anterior": 599,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09ZNX93JK?tag=malica09-20",
+    "atualizado_em": "2026-10-23T14:13:18.995-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42417971",
     "titulo": "Kit Para Limpeza De Mamadeira Portátil Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_888792-MLA99508597048_112025-F.jpg",
