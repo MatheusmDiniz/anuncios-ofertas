@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FN7T2LK",
+    "titulo": "Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
+    "imagem": "https://m.media-amazon.com/images/I/61qM9b1b77L._AC_SL1500_.jpg",
+    "preco": 48,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=malica09-20",
+    "atualizado_em": "2026-10-23T12:36:00.616-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54159991",
     "titulo": "Babá Eletrônica Video Baby Noturna Sem Fio Recarregável Branco Estary Shop",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_629788-MLA98079677296_112025-F.jpg",
