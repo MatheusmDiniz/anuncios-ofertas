@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26851070",
+    "titulo": "Burigotto Kit Banho Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
+    "preco": 224.57,
+    "preco_anterior": 510,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZobV6E",
+    "atualizado_em": "2026-10-23T09:29:42.648-03:00"
+  },
+  {
     "id": "shopee:341167297.22027095524",
     "titulo": "Conjunto Bebê Masculino Menino Infantil Verão Manga Curta Tamanho 1 ao 8 - Roupa para Bebê Masculino L01",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-muc5lb57wyyo3e",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F6DD8HYG?tag=malica09-20",
     "atualizado_em": "2026-10-21T21:36:26.756-03:00"
-  },
-  {
-    "id": "amazon:B09K2Y66Q3+B09K33XHJ8",
-    "titulo": "Suplemento Infantil Ascenda, Sem Sabor, 800g : Amazon.com.br: Alimentos e Bebidas",
-    "imagem": "https://m.media-amazon.com/images/I/51DchdAdFqL._AC_SL1500_.jpg",
-    "preco": 62,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=malica09-20",
-    "atualizado_em": "2026-10-21T21:27:55.621-03:00"
   }
 ]
