@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPD856RB",
+    "titulo": "Travel System Cosco Kids, Lummy Trio, Isofix, Cinza Gelo",
+    "imagem": "https://m.media-amazon.com/images/I/61dytwtUz6L._AC_SL1500_.jpg",
+    "preco": 1367,
+    "preco_anterior": 1799,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPD856RB?tag=malica09-20",
+    "atualizado_em": "2026-10-22T21:26:16.205-03:00"
+  },
+  {
     "id": "amazon:6555072059",
     "titulo": "Diversão com Dedoches: Amigos da Floresta",
     "imagem": "https://m.media-amazon.com/images/I/61gGyZAgEBL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2QHKK8W",
     "atualizado_em": "2026-10-21T09:30:04.667-03:00"
-  },
-  {
-    "id": "shopee:1339251691.23597977323",
-    "titulo": "Multivitamínico para Gestante, Lactante e Pós-Parto | 60 Cápsulas 20 Nutrientes | Milk Mama",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcqmg1vlyz29ed",
-    "preco": 56,
-    "preco_anterior": 151.35,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2VsfUu97g5",
-    "atualizado_em": "2026-10-21T09:21:55.855-03:00"
   }
 ]
