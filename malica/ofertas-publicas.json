@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.22027095524",
+    "titulo": "Conjunto Bebê Masculino Menino Infantil Verão Manga Curta Tamanho 1 ao 8 - Roupa para Bebê Masculino L01",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-muc5lb57wyyo3e",
+    "preco": 19.99,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAI9omG0sB",
+    "atualizado_em": "2026-10-23T09:21:35.451-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB37709215",
     "titulo": "Berço Cama Com Colchão Infantil Probel E Grade De Proteção Removível Branco Amadeirado Para Quarto De Bebê Menino Ou Menina Life",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_654719-MLA111154676854_052026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09K2Y66Q3?tag=malica09-20",
     "atualizado_em": "2026-10-21T21:27:55.621-03:00"
-  },
-  {
-    "id": "amazon:B0F3JY3HB7",
-    "titulo": "Oferta: Kit 2 Lenços Umedecido Bebê Recém Nascido 240 Toalhas",
-    "imagem": "https://m.media-amazon.com/images/I/71+zU6POr8L._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F3JY3HB7?tag=malica09-20",
-    "atualizado_em": "2026-10-21T21:19:50.238-03:00"
   }
 ]
