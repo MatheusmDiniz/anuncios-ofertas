@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45286830",
+    "titulo": "Andador Empurrador Infantil Musical Educativo Rosa Yuupi YPHE0811",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771489-MLA100039533847_122025-F.jpg",
+    "preco": 90,
+    "preco_anterior": 185.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1x1kX6w",
+    "atualizado_em": "2026-10-23T08:57:17.417-03:00"
+  },
+  {
     "id": "amazon:B07GPV56NS",
     "titulo": "Fralda Pampers Recém-Nascido Tamanho RN+ 36 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61JMOOlw39L._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07BK5WHD3?tag=malica09-20",
     "atualizado_em": "2026-10-21T21:03:14.612-03:00"
-  },
-  {
-    "id": "amazon:B00SO7H0BS",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa",
-    "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
-    "preco": 88,
-    "preco_anterior": 159,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=malica09-20",
-    "atualizado_em": "2026-10-21T20:55:10.452-03:00"
   }
 ]
