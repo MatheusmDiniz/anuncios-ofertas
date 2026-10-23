@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FJ2VD2SX",
+    "titulo": "Oferta: Travel System Safety 1st, Mobi Duo, Black & Silver",
+    "imagem": "https://m.media-amazon.com/images/I/51lwq4YfoSL._AC_SL1500_.jpg",
+    "preco": 1651.51,
+    "preco_anterior": 2199,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FJ2VD2SX?tag=malica09-20",
+    "atualizado_em": "2026-10-23T20:12:22.548-03:00"
+  },
+  {
     "id": "amazon:B07ZQVVP87",
     "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
     "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
     "atualizado_em": "2026-10-22T08:17:01.132-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65182414",
-    "titulo": "Cadeira de Descanso Bebê Balanço Musical Vibratória Reclinável Mobile C/Cinto 0 a 18kg - KaBaby Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_819484-MLA113805637467_062026-F.jpg",
-    "preco": 239.9,
-    "preco_anterior": 399.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28eWoWA",
-    "atualizado_em": "2026-10-22T08:08:56.582-03:00"
   }
 ]
