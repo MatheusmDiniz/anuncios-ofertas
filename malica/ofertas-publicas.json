@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CP6CJ8JG",
+    "titulo": "Oferta: Apple iPhone 15 (256 GB) — Preto",
+    "imagem": "https://m.media-amazon.com/images/I/416MG51rNgL._AC_SL1500_.jpg",
+    "preco": 4399,
+    "preco_anterior": 6799,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CP6CJ8JG?tag=malica09-20",
+    "atualizado_em": "2026-10-23T19:07:17.483-03:00"
+  },
+  {
     "id": "amazon:B077C2D43T",
     "titulo": "Shampoo Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61ZNprORA+L._AC_SL1500_.jpg",
