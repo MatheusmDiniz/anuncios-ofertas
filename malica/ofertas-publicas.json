@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08PL4G9S4",
+    "titulo": "Jogo de Talheres Infantil Simonaggio Disney Kids Princesas, 3 Peças | Aço Inox com Cabo Plástico, Multicor : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51sTBgWVzWL._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08PL4G9S4?tag=malica09-20",
+    "atualizado_em": "2026-10-23T16:56:22.134-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18418076",
     "titulo": "100% Whey Protein Concentrado 900g Cookies & Cream",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_963869-MLA111911921048_062026-F.jpg",
