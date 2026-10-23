@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GTRRRWH4",
+    "titulo": "Shampoo Condicionador Sérum Elseve L",
+    "imagem": "https://m.media-amazon.com/images/I/81zuvESld7L._AC_SL1500_.jpg",
+    "preco": 75.99,
+    "preco_anterior": 123.09,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GTRRRWH4?tag=malica09-20",
+    "atualizado_em": "2026-10-23T20:45:11.768-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24853515",
     "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fxBfiXex3",
     "atualizado_em": "2026-10-22T08:49:28.953-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26678497",
-    "titulo": "Ursinho De Brinquedo Para Criança Menina Que Reza - Buba Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666002-MLA99510053086_112025-F.jpg",
-    "preco": 115.33,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EYcHFA",
-    "atualizado_em": "2026-10-22T08:41:22.719-03:00"
   }
 ]
