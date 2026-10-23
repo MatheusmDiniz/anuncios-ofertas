@@ -1468,25 +1468,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07MBTSMM8?tag=malica09-20",
     "atualizado_em": "2026-10-21T16:10:10.936-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17875756",
-    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby, 750ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793287-MLU78867741719_092024-F.jpg",
-    "preco": 13.69,
-    "preco_anterior": 36.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1LKq29J",
-    "atualizado_em": "2026-10-21T16:02:05.343-03:00"
-  },
-  {
-    "id": "amazon:B07G386WXK",
-    "titulo": "Complemento Alimentar Sustagen Kids, Sabor Baunilha, 350g | Em Lata",
-    "imagem": "https://m.media-amazon.com/images/I/61BpxvxHT-L._AC_SL1500_.jpg",
-    "preco": 23,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07G386WXK?tag=malica09-20",
-    "atualizado_em": "2026-10-21T15:53:55.000-03:00"
   }
 ]
