@@ -1358,25 +1358,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fqRnEh",
     "atualizado_em": "2026-10-21T17:39:23.606-03:00"
-  },
-  {
-    "id": "amazon:B07X83FF8M",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 78 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61XQcYdEJiL._AC_SL1500_.jpg",
-    "preco": 113,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X83FF8M?tag=malica09-20",
-    "atualizado_em": "2026-10-21T17:31:16.103-03:00"
-  },
-  {
-    "id": "amazon:B088P95YRD",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
-    "preco": 61,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B088P95YRD?tag=malica09-20",
-    "atualizado_em": "2026-10-21T17:23:11.502-03:00"
   }
 ]
