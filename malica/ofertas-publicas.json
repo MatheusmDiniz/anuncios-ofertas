@@ -1418,25 +1418,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ZnNYav",
     "atualizado_em": "2026-10-21T16:50:48.745-03:00"
-  },
-  {
-    "id": "amazon:B0DVTBWQ8Q",
-    "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
-    "preco": 16,
-    "preco_anterior": 34,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=malica09-20",
-    "atualizado_em": "2026-10-21T16:42:38.036-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62349726",
-    "titulo": "Banheira Portátil Dobrável para Spa e Gelo de Alta Qualidade Branca",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926675-MLA98901684651_112025-F.jpg",
-    "preco": 84,
-    "preco_anterior": 149.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24ziA86",
-    "atualizado_em": "2026-10-21T16:34:32.289-03:00"
   }
 ]
