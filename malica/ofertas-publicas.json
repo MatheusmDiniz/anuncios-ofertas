@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GMBH9WF",
+    "titulo": "Fralda Pampers Confort Sec Tamanho M 70 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81lPOdImSwL._AC_SL1500_.jpg",
+    "preco": 68,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GMBH9WF?tag=malica09-20",
+    "atualizado_em": "2026-10-23T12:03:40.442-03:00"
+  },
+  {
     "id": "shopee:849876710.19871194431",
     "titulo": "Kit Higiene Infantil Muriel baby Shampoo + Condicionador 100ML - (ESCOLHA O SEU) Embalagem Presente",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8r175ogesgh2f",
