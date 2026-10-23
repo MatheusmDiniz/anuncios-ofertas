@@ -1438,25 +1438,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/24ziA86",
     "atualizado_em": "2026-10-21T16:34:32.289-03:00"
-  },
-  {
-    "id": "amazon:B09LRZZYQD",
-    "titulo": "Granado Sabonete Líquido Bebê, Lavanda, 500ml",
-    "imagem": "https://m.media-amazon.com/images/I/51EvV1U5LNL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09LRZZYQD?tag=malica09-20",
-    "atualizado_em": "2026-10-21T16:26:23.001-03:00"
-  },
-  {
-    "id": "amazon:B09J56YKXG",
-    "titulo": "Gentle Shampoo, Suave e Não Arde os Olhos, Mustela Bebê, Azul, Médio 500 ml",
-    "imagem": "https://m.media-amazon.com/images/I/61pMscnn3fL._AC_SL1500_.jpg",
-    "preco": 69,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09J56YKXG?tag=malica09-20",
-    "atualizado_em": "2026-10-21T16:18:17.147-03:00"
   }
 ]
