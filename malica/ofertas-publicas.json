@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B06XK9H4PM",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51200xA7+nL._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": 26,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B06XK9H4PM?tag=malica09-20",
+    "atualizado_em": "2026-10-23T17:04:52.589-03:00"
+  },
+  {
     "id": "amazon:B08PL4G9S4",
     "titulo": "Jogo de Talheres Infantil Simonaggio Disney Kids Princesas, 3 Peças | Aço Inox com Cabo Plástico, Multicor : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51sTBgWVzWL._AC_SL1500_.jpg",
