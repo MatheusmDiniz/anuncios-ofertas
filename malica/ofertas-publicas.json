@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62933980",
+    "titulo": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900181-MLA100655071871_122025-F.jpg",
+    "preco": 224.56,
+    "preco_anterior": 447.82,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XQuVVJ",
+    "atualizado_em": "2026-10-23T18:34:29.239-03:00"
+  },
+  {
     "id": "amazon:B08NQNXMPL",
     "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
     "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
