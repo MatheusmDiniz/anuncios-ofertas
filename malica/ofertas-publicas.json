@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42417971",
+    "titulo": "Kit Para Limpeza De Mamadeira Portátil Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888792-MLA99508597048_112025-F.jpg",
+    "preco": 74.99,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oVc6pi",
+    "atualizado_em": "2026-10-23T14:05:14.056-03:00"
+  },
+  {
     "id": "amazon:B0DMTK6XQJ",
     "titulo": "Carrinho de Bebê Safety 1st, Spark Splus, 0 meses a 22 kg, Black Graphite",
     "imagem": "https://m.media-amazon.com/images/I/51T4nvapEuL._AC_SL1500_.jpg",
