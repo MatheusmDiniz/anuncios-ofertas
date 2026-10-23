@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXKZQ2Y",
+    "titulo": "Fralda Descartável Huggies Máxima Proteção, Tamanho G, 160 Unidades | Aberta, Tecnologia Xtra-Flex, Canais em X que se adaptam aos movimentos",
+    "imagem": "https://m.media-amazon.com/images/I/81fNk6kKaoL._AC_SL1500_.jpg",
+    "preco": 165,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXKZQ2Y?tag=malica09-20",
+    "atualizado_em": "2026-10-23T08:00:06.969-03:00"
+  },
+  {
     "id": "amazon:B07BZBPF4L",
     "titulo": "Cosco Kids, Cadeira de Refeição Portátil Pop, Bege",
     "imagem": "https://m.media-amazon.com/images/I/51jNSY6oS5L._AC_SL1500_.jpg",
@@ -1178,25 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FN7VP6M?tag=malica09-20",
     "atualizado_em": "2026-10-21T20:06:14.618-03:00"
-  },
-  {
-    "id": "amazon:B0C4VJ5DCQ",
-    "titulo": "Burigotto Carrinho de Bebê Zap Metal, Prata",
-    "imagem": "https://m.media-amazon.com/images/I/71dUWMVi4lL._AC_SL1500_.jpg",
-    "preco": 452,
-    "preco_anterior": 929,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=malica09-20",
-    "atualizado_em": "2026-10-21T19:58:10.327-03:00"
-  },
-  {
-    "id": "amazon:B0964WBFFG",
-    "titulo": "Ninho, Leite Po Integral, Pacote 750g",
-    "imagem": "https://m.media-amazon.com/images/I/51ru-EEtLVL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0964WBFFG?tag=malica09-20",
-    "atualizado_em": "2026-10-21T19:50:05.921-03:00"
   }
 ]
