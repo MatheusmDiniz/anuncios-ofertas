@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X83MH7M",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61Wl8dMHuyL._AC_SL1500_.jpg",
+    "preco": 113,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=malica09-20",
+    "atualizado_em": "2026-10-23T12:52:13.589-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB59323704",
     "titulo": "Travel System Carrinho Com Bebê Conforto Rio 22 Preto Cobre Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_641992-MLA94128605706_102025-F.jpg",
