@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X832ZXW",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, Fácil de Vestir, 60 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61jP++udbNL._AC_SL1500_.jpg",
+    "preco": 81,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X832ZXW?tag=malica09-20",
+    "atualizado_em": "2026-10-23T08:32:57.754-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72860329",
     "titulo": "Berço Portátil PipDip Dobrável com Balanço e Mosquiteiro para Bebê Recém-nascido até 15kg, Cinza Mescla Linho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_706639-MLA114543466426_082026-F.jpg",
