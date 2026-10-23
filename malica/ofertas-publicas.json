@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24853515",
+    "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
+    "preco": 99,
+    "preco_anterior": 299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1idZTCr",
+    "atualizado_em": "2026-10-23T20:37:06.613-03:00"
+  },
+  {
     "id": "amazon:B0FPBP6G49",
     "titulo": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
     "imagem": "https://m.media-amazon.com/images/I/71F+cUtLJGL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EYcHFA",
     "atualizado_em": "2026-10-22T08:41:22.719-03:00"
-  },
-  {
-    "id": "amazon:B0D2ZH3TCJ",
-    "titulo": "Mustela Toalhas Compostáveis Com Perfume 60 Unidades - Lenços Umedecidos Perfumados E Suaves Para Higiene Do Rosto Ao Bumbum – Com 99% De Ingredientes Naturais – Bebê E Criança",
-    "imagem": "https://m.media-amazon.com/images/I/514XlEN5KKL._AC_SL1500_.jpg",
-    "preco": 19,
-    "preco_anterior": 45,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D2ZH3TCJ?tag=malica09-20",
-    "atualizado_em": "2026-10-22T08:33:14.719-03:00"
   }
 ]
