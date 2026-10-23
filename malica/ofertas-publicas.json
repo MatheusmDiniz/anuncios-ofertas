@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FPBP6G49",
+    "titulo": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
+    "imagem": "https://m.media-amazon.com/images/I/71F+cUtLJGL._AC_SL1500_.jpg",
+    "preco": 3898.98,
+    "preco_anterior": 4899,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FPBP6G49?tag=malica09-20",
+    "atualizado_em": "2026-10-23T20:28:59.115-03:00"
+  },
+  {
     "id": "amazon:B0FPD7CFCJ",
     "titulo": "Oferta: Carrinho de Bebê Cosco Kids, Lummy, Preto Absoluto",
     "imagem": "https://m.media-amazon.com/images/I/51kmOjEtdJL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D2ZH3TCJ?tag=malica09-20",
     "atualizado_em": "2026-10-22T08:33:14.719-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB66194128",
-    "titulo": "Baby Brink Boneca Emilly Vick Dos Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705150-MLA116500653536_092026-F.jpg",
-    "preco": 145.73,
-    "preco_anterior": 269.87,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZujsJg",
-    "atualizado_em": "2026-10-22T08:25:10.384-03:00"
   }
 ]
