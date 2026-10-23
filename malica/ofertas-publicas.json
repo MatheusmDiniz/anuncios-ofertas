@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GMJVXT2K",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61TqADalesL._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GMJVXT2K?tag=malica09-20",
+    "atualizado_em": "2026-10-23T18:50:40.336-03:00"
+  },
+  {
     "id": "amazon:B0D84MB72K",
     "titulo": "Pó Dermo Protetor Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41TMpXU3M2L._AC_SL1500_.jpg",
