@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07BZBPF4L",
+    "titulo": "Cosco Kids, Cadeira de Refeição Portátil Pop, Bege",
+    "imagem": "https://m.media-amazon.com/images/I/51jNSY6oS5L._AC_SL1500_.jpg",
+    "preco": 194,
+    "preco_anterior": 288,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07BZBPF4L?tag=malica09-20",
+    "atualizado_em": "2026-10-22T21:58:59.618-03:00"
+  },
+  {
     "id": "amazon:B0C31DHG8D",
     "titulo": "Freso Baby Copo De Transição Alimentação Do Bebê Treinamento Introdução Alimentar Infantil Blw Silicone Livre De Bpa Suave Não Quebra Cor Cinza",
     "imagem": "https://m.media-amazon.com/images/I/615bTyB4fyL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11s6NB4",
     "atualizado_em": "2026-10-21T10:02:40.545-03:00"
-  },
-  {
-    "id": "shopee:1624354211.58259642577",
-    "titulo": "Escova de Dente Elétrica Infantil + 4 Refis Limpeza Suave Cerdas Macias à Prova D'Água Recarregável Higiene",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mnjgs42cnshw0d",
-    "preco": 18.5,
-    "preco_anterior": 45.12,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qcyhh2Wgm",
-    "atualizado_em": "2026-10-21T09:54:29.645-03:00"
   }
 ]
