@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74536230",
+    "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
+    "preco": 499.99,
+    "preco_anterior": 999.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/15muUDp",
+    "atualizado_em": "2026-10-23T08:41:05.453-03:00"
+  },
+  {
     "id": "amazon:B07X832ZXW",
     "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, Fácil de Vestir, 60 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61jP++udbNL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C3FSF7KF?tag=malica09-20",
     "atualizado_em": "2026-10-21T20:46:39.062-03:00"
-  },
-  {
-    "id": "amazon:B07DGCFDC2",
-    "titulo": "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 1l : Amazon.com.br: Casa",
-    "imagem": "https://m.media-amazon.com/images/I/51MtHrKy9jL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DGCFDC2?tag=malica09-20",
-    "atualizado_em": "2026-10-21T20:38:34.803-03:00"
   }
 ]
