@@ -1728,25 +1728,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DV7BN75H?tag=malica09-20",
     "atualizado_em": "2026-10-21T12:38:25.752-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22953629",
-    "titulo": "Bebê conforto grid 0 a 13kg Galzerano cor preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656773-MLA111501698323_052026-F.jpg",
-    "preco": 258.16,
-    "preco_anterior": 499,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1yKShtn",
-    "atualizado_em": "2026-10-21T12:30:21.941-03:00"
-  },
-  {
-    "id": "amazon:B099KTC5VJ",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
-    "preco": 21,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
-    "atualizado_em": "2026-10-21T12:21:51.478-03:00"
   }
 ]
