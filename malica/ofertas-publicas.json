@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FH9V4Q6",
+    "titulo": "Condicionador Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61GNaMKEUML._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FH9V4Q6?tag=malica09-20",
+    "atualizado_em": "2026-10-23T17:37:17.018-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69331466",
     "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 4 Anos Casa da Barbie",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
