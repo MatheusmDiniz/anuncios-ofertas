@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1307843023.23298856362",
+    "titulo": "Copo Treinamento 240ml Antivazamento + Colher Silicone",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mseh3ong1c79cb",
+    "preco": 19.9,
+    "preco_anterior": 60.3,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4Vdn4OS7CX",
+    "atualizado_em": "2026-10-23T09:37:47.788-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26851070",
     "titulo": "Burigotto Kit Banho Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1mrvTUd",
     "atualizado_em": "2026-10-21T21:44:35.395-03:00"
-  },
-  {
-    "id": "amazon:B0F6DD8HYG",
-    "titulo": "Kit 3 Cueiros Flanelados Dupla Face 100% Algodão – Estampados, Macios, Confortáveis p/Bebê, 80x50cm (Rosa/Branco)",
-    "imagem": "https://m.media-amazon.com/images/I/51dpBVW+BLL._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F6DD8HYG?tag=malica09-20",
-    "atualizado_em": "2026-10-21T21:36:26.756-03:00"
   }
 ]
