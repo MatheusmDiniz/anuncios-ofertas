@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:6555072059",
+    "titulo": "Diversão com Dedoches: Amigos da Floresta",
+    "imagem": "https://m.media-amazon.com/images/I/61gGyZAgEBL._AC_SL1500_.jpg",
+    "preco": 32,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/6555072059?tag=malica09-20",
+    "atualizado_em": "2026-10-22T21:18:12.317-03:00"
+  },
+  {
     "id": "amazon:B07DHRJZ75",
     "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós Amêndoas, 80g | Hidratante, Nutritivo, Hipoalergênico, Textura e Fragrância Suaves",
     "imagem": "https://m.media-amazon.com/images/I/41cbJC25RXL._AC_SL1500_.jpg",
