@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18418076",
+    "titulo": "100% Whey Protein Concentrado 900g Cookies & Cream",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963869-MLA111911921048_062026-F.jpg",
+    "preco": 151,
+    "preco_anterior": 449.76,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1E1nVsC",
+    "atualizado_em": "2026-10-23T16:48:17.177-03:00"
+  },
+  {
     "id": "amazon:B0H1JZFBS7",
     "titulo": "Oferta: Fralda Pom Pom Protek Proteção de Mãe Hiper M 80 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/815+3hRSL1L._AC_SL1500_.jpg",
