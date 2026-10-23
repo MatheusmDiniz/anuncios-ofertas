@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18488788",
+    "titulo": "100% Whey 900g Refil Max Titanium Whey Concentrado Sabor Cookies & cream",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_716180-MLA113732275796_072026-F.jpg",
+    "preco": 162,
+    "preco_anterior": 419.84,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/33WHLMY",
+    "atualizado_em": "2026-10-23T15:42:32.621-03:00"
+  },
+  {
     "id": "amazon:B0B7K738RQ",
     "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
