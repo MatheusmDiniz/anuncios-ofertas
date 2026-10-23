@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42346236",
+    "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
+    "preco": 168,
+    "preco_anterior": 289.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dXJChh",
+    "atualizado_em": "2026-10-23T09:45:55.272-03:00"
+  },
+  {
     "id": "shopee:1307843023.23298856362",
     "titulo": "Copo Treinamento 240ml Antivazamento + Colher Silicone",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mseh3ong1c79cb",
@@ -1178,15 +1188,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gC5h8AZpK",
     "atualizado_em": "2026-10-21T21:52:42.555-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75725312",
-    "titulo": "Babá Eletrônica Baby Monitor VB603 Sem Fio Visão Noturna Áudio Bidirecional LCD 3.2 VOX Sensor Temperatura - DDM Leds",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666275-MLA113775235212_072026-F.jpg",
-    "preco": 216.09,
-    "preco_anterior": 428.42,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mrvTUd",
-    "atualizado_em": "2026-10-21T21:44:35.395-03:00"
   }
 ]
