@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00WJNIZTY",
+    "titulo": "Copo De Transição Philips Avent 200ml 6m+ Azul com Alças",
+    "imagem": "https://m.media-amazon.com/images/I/510eUr2Fz4L._AC_SL1500_.jpg",
+    "preco": 37,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00WJNIZTY?tag=malica09-20",
+    "atualizado_em": "2026-10-23T20:53:15.554-03:00"
+  },
+  {
     "id": "amazon:B0GTRRRWH4",
     "titulo": "Shampoo Condicionador Sérum Elseve L",
     "imagem": "https://m.media-amazon.com/images/I/81zuvESld7L._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2tjqGTg",
     "atualizado_em": "2026-10-22T08:57:41.289-03:00"
-  },
-  {
-    "id": "shopee:1852973354.58216522081",
-    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-ms9y3j26i9s551",
-    "preco": 29,
-    "preco_anterior": 100,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fxBfiXex3",
-    "atualizado_em": "2026-10-22T08:49:28.953-03:00"
   }
 ]
