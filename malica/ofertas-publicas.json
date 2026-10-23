@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BKLPZ4BH",
+    "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
+    "imagem": "https://m.media-amazon.com/images/I/81uiM-l9MBL._AC_SL1500_.jpg",
+    "preco": 87,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=malica09-20",
+    "atualizado_em": "2026-10-23T19:23:26.392-03:00"
+  },
+  {
     "id": "amazon:B08R91NTHY",
     "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V : Amazon.com.br: Cozinha",
     "imagem": "https://m.media-amazon.com/images/I/612gXC9waVL._AC_SL1500_.jpg",
