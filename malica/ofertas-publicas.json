@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53326435",
+    "titulo": "Mesinha Infantil Educativa Didática Alfabeto Com 2 Cadeiras Cor Amarelo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881881-MLA89238835863_082025-F.jpg",
+    "preco": 155.9,
+    "preco_anterior": 455.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2VXUbSM",
+    "atualizado_em": "2026-10-24T09:55:07.278-03:00"
+  },
+  {
     "id": "shopee:562534658.21499882313",
     "titulo": "Macacão Maiô Infantil Feminino Praia Piscina Natação Macaquinho Uv",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-memdmaotefpd26",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07BZBPF4L?tag=malica09-20",
     "atualizado_em": "2026-10-22T21:58:59.618-03:00"
-  },
-  {
-    "id": "amazon:B0C31DHG8D",
-    "titulo": "Freso Baby Copo De Transição Alimentação Do Bebê Treinamento Introdução Alimentar Infantil Blw Silicone Livre De Bpa Suave Não Quebra Cor Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/615bTyB4fyL._AC_SL1500_.jpg",
-    "preco": 25,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C31DHG8D?tag=malica09-20",
-    "atualizado_em": "2026-10-22T21:50:55.264-03:00"
   }
 ]
