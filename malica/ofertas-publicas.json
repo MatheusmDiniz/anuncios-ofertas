@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D1DSFV8C",
+    "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
+    "imagem": "https://m.media-amazon.com/images/I/61akH2rcdHL._AC_SL1500_.jpg",
+    "preco": 25,
+    "preco_anterior": 44,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=malica09-20",
+    "atualizado_em": "2026-10-23T21:58:18.654-03:00"
+  },
+  {
     "id": "amazon:B095D5PSPG",
     "titulo": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61pYc6NhTXL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2BQauvR",
     "atualizado_em": "2026-10-22T10:02:57.549-03:00"
-  },
-  {
-    "id": "shopee:504754787.23793169776",
-    "titulo": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e",
-    "preco": 174.9,
-    "preco_anterior": 301.55,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AAI8DsFuTY",
-    "atualizado_em": "2026-10-22T09:54:46.455-03:00"
   }
 ]
