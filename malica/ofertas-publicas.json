@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FFHV3MX",
+    "titulo": "Granado Lenço Umedecido Bebê, Lavanda, 50 Unidades | Lenços macios, flexíveis e resistentes.",
+    "imagem": "https://m.media-amazon.com/images/I/51hdPS2szyL._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FFHV3MX?tag=malica09-20",
+    "atualizado_em": "2026-10-23T21:17:27.889-03:00"
+  },
+  {
     "id": "amazon:B07CT51QCW",
     "titulo": "Mictorio Sapinho Verde, Clingo, Verde",
     "imagem": "https://m.media-amazon.com/images/I/61Z6y6KHaRL._AC_SL1500_.jpg",
