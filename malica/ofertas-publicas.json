@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B086Q35748",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, Fácil de Vestir, 72 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61eK738WhLL._AC_SL1500_.jpg",
+    "preco": 123,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B086Q35748?tag=malica09-20",
+    "atualizado_em": "2026-10-23T21:42:08.122-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB78704873",
     "titulo": "Lixeira Para Fraldas Rister Baby 10l Anti-odor Com Tampa Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_673552-MLA115596034822_092026-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1mFmhE7",
     "atualizado_em": "2026-10-22T09:46:39.453-03:00"
-  },
-  {
-    "id": "shopee:492409068.20497983068",
-    "titulo": "Kit 13 Higiene Cuidado Bebê Recém Nascido Essencial 13 Peças Cuidados Com O Bebê Recém Cortador Escova Cabelo Unha Pente",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m356mim2nxn756",
-    "preco": 32.8,
-    "preco_anterior": 80,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9pfHpFqqiY",
-    "atualizado_em": "2026-10-22T09:38:28.577-03:00"
   }
 ]
