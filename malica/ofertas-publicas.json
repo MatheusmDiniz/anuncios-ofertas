@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB80306435",
+    "titulo": "Cadeira de Descanso L'Amor Elétrica com Vibração e Brinquedos para Bebê Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776573-MLA118960001587_102026-F.jpg",
+    "preco": 164.08,
+    "preco_anterior": 359.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NsLmtm",
+    "atualizado_em": "2026-10-24T09:22:36.749-03:00"
+  },
+  {
     "id": "shopee:1573981574.58204417297",
     "titulo": "Aspirador Nasal Infantil 9 Níveis Sucção Ajustável Com Música Recarregável Silicone Alimentício Seguro Silencioso 5V/1A",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82629-mk568mmb3o5c7c",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPD856RB?tag=malica09-20",
     "atualizado_em": "2026-10-22T21:26:16.205-03:00"
-  },
-  {
-    "id": "amazon:6555072059",
-    "titulo": "Diversão com Dedoches: Amigos da Floresta",
-    "imagem": "https://m.media-amazon.com/images/I/61gGyZAgEBL._AC_SL1500_.jpg",
-    "preco": 32,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6555072059?tag=malica09-20",
-    "atualizado_em": "2026-10-22T21:18:12.317-03:00"
   }
 ]
