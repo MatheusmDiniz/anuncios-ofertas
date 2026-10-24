@@ -1398,25 +1398,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1vnDWRW",
     "atualizado_em": "2026-10-22T17:06:55.958-03:00"
-  },
-  {
-    "id": "amazon:B0D6BXNRZQ",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61Uo03QkQ6L._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": 44,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D6BXNRZQ?tag=malica09-20",
-    "atualizado_em": "2026-10-22T16:58:46.317-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79495523",
-    "titulo": "Berço Co-sleeper Multifuncional Portátil Com Mosquiteiro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866011-MLA117838148765_092026-F.jpg",
-    "preco": 484,
-    "preco_anterior": 1100,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1u6uy2V",
-    "atualizado_em": "2026-10-22T16:50:40.437-03:00"
   }
 ]
