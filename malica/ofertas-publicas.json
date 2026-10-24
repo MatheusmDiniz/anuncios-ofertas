@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:562534658.21499882313",
+    "titulo": "Macacão Maiô Infantil Feminino Praia Piscina Natação Macaquinho Uv",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-memdmaotefpd26",
+    "preco": 47.54,
+    "preco_anterior": 69.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3B8R4kDVxo",
+    "atualizado_em": "2026-10-24T09:46:58.619-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB36272049",
     "titulo": "Trocador Portátil Linho Rose Forro Impermeável C/ Bolsos Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_716437-MLA113097743089_062026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C31DHG8D?tag=malica09-20",
     "atualizado_em": "2026-10-22T21:50:55.264-03:00"
-  },
-  {
-    "id": "amazon:B0CH3ZLGZK",
-    "titulo": "Assento Redutor Infantil Vaso Sanitário Privada Com Escada Trono Troninho (Cinza)",
-    "imagem": "https://m.media-amazon.com/images/I/61pPhz+alfL._AC_SL1500_.jpg",
-    "preco": 61,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=malica09-20",
-    "atualizado_em": "2026-10-22T21:42:50.897-03:00"
   }
 ]
