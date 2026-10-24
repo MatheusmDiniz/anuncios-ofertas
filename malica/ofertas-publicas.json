@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00YDY5BKI",
+    "titulo": "Musti Perfume Suave Mustela Bebê, Perfume Infantil, 97% de ingredientes de origem natural, 50ml, Mustela Bebê, 50 Ml",
+    "imagem": "https://m.media-amazon.com/images/I/41W1FVl5jKL._AC_SL1500_.jpg",
+    "preco": 93,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00YDY5BKI?tag=malica09-20",
+    "atualizado_em": "2026-10-23T21:01:20.166-03:00"
+  },
+  {
     "id": "amazon:B00WJNIZTY",
     "titulo": "Copo De Transição Philips Avent 200ml 6m+ Azul com Alças",
     "imagem": "https://m.media-amazon.com/images/I/510eUr2Fz4L._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gC7I35jxU",
     "atualizado_em": "2026-10-22T09:05:49.280-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28318987",
-    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
-    "preco": 199,
-    "preco_anterior": 369,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tjqGTg",
-    "atualizado_em": "2026-10-22T08:57:41.289-03:00"
   }
 ]
