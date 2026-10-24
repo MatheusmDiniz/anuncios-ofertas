@@ -1178,15 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
     "atualizado_em": "2026-10-22T20:37:53.550-03:00"
-  },
-  {
-    "id": "amazon:B0BBJJZXHL",
-    "titulo": "Buba Joelheira Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/71aZVNlg31L._AC_SL1500_.jpg",
-    "preco": 10,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BBJJZXHL?tag=malica09-20",
-    "atualizado_em": "2026-10-22T20:29:50.107-03:00"
   }
 ]
