@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1452530060.22498910656",
+    "titulo": "Almofada de Pescoço Bebê com Apoio de Cabeça para Cadeirinha bebe conforto",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824h1-mekho1dx5gjm38",
+    "preco": 16.99,
+    "preco_anterior": 34.67,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7faqQzaihA",
+    "atualizado_em": "2026-10-24T08:58:08.908-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB80306190",
     "titulo": "Berço Portátil Bebe Moises Acoplado AMR-6272 Colchao com mosqueteiro L'AMOR Cor Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_661381-MLA117363122674_102026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/6555072229?tag=malica09-20",
     "atualizado_em": "2026-10-22T21:02:02.787-03:00"
-  },
-  {
-    "id": "amazon:B0CHZ9XXPX",
-    "titulo": "Creme Preventivo de Assaduras para Bebês Hipoglós, 40g | Fragrância Suave",
-    "imagem": "https://m.media-amazon.com/images/I/51QMN1Euz1L._AC_SL1500_.jpg",
-    "preco": 21.36,
-    "preco_anterior": 32.79,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=malica09-20",
-    "atualizado_em": "2026-10-22T20:53:59.311-03:00"
   }
 ]
