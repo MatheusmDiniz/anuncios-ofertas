@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1099182727.23093251933",
+    "titulo": "TENIS INFANTIL BOX200 SKATE RODINHA CALCE FACIL PRONTA ENTREGA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8w72tc1d7ax2b",
+    "preco": 149.9,
+    "preco_anterior": 249.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9APeDlQPaR",
+    "atualizado_em": "2026-10-24T09:30:42.916-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB80306435",
     "titulo": "Cadeira de Descanso L'Amor Elétrica com Vibração e Brinquedos para Bebê Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_776573-MLA118960001587_102026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=malica09-20",
     "atualizado_em": "2026-10-22T21:34:20.033-03:00"
-  },
-  {
-    "id": "amazon:B0FPD856RB",
-    "titulo": "Travel System Cosco Kids, Lummy Trio, Isofix, Cinza Gelo",
-    "imagem": "https://m.media-amazon.com/images/I/61dytwtUz6L._AC_SL1500_.jpg",
-    "preco": 1367,
-    "preco_anterior": 1799,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPD856RB?tag=malica09-20",
-    "atualizado_em": "2026-10-22T21:26:16.205-03:00"
   }
 ]
