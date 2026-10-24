@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07CT51QCW",
+    "titulo": "Mictorio Sapinho Verde, Clingo, Verde",
+    "imagem": "https://m.media-amazon.com/images/I/61Z6y6KHaRL._AC_SL1500_.jpg",
+    "preco": 23,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07CT51QCW?tag=malica09-20",
+    "atualizado_em": "2026-10-23T21:09:24.224-03:00"
+  },
+  {
     "id": "amazon:B00YDY5BKI",
     "titulo": "Musti Perfume Suave Mustela Bebê, Perfume Infantil, 97% de ingredientes de origem natural, 50ml, Mustela Bebê, 50 Ml",
     "imagem": "https://m.media-amazon.com/images/I/41W1FVl5jKL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26CTJJv",
     "atualizado_em": "2026-10-22T09:14:02.935-03:00"
-  },
-  {
-    "id": "shopee:1739680653.58204448907",
-    "titulo": "Saida Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodâo.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-ms1vfyk2mkn874",
-    "preco": 24.99,
-    "preco_anterior": 75.73,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2gC7I35jxU",
-    "atualizado_em": "2026-10-22T09:05:49.280-03:00"
   }
 ]
