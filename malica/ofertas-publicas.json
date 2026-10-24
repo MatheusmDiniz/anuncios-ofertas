@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40554787",
+    "titulo": "Bicicleta de Equilíbrio Infantil Yuupi Verde 4 Rodas TPU, Conforto e Segurança",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_682100-MLA99508962234_112025-F.jpg",
+    "preco": 192.31,
+    "preco_anterior": 337.38,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/311P3iM",
+    "atualizado_em": "2026-10-24T20:46:24.856-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44875746",
     "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GPV56NS?tag=malica09-20",
     "atualizado_em": "2026-10-23T08:49:10.340-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536230",
-    "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
-    "preco": 499.99,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/15muUDp",
-    "atualizado_em": "2026-10-23T08:41:05.453-03:00"
   }
 ]
