@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:280039385.43007791633",
+    "titulo": "Chinelo Infantil com Elástico Antiderrapante Confortável Bebê Unissex",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mby1vqu3deu144",
+    "preco": 16.9,
+    "preco_anterior": 40.24,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4B0yGYNqsB",
+    "atualizado_em": "2026-10-24T08:41:54.098-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB33584214",
     "titulo": "Bicicleta De Equilíbrio Dino Balance Bike S/ Pedal Bebê Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_623106-MLA99501586246_112025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C2B7LBKF?tag=malica09-20",
     "atualizado_em": "2026-10-22T20:45:55.318-03:00"
-  },
-  {
-    "id": "amazon:B07L4TSL64",
-    "titulo": "G-Tech Umidificador Ultrassônico Modelo Allergy Free Hm 3L : Amazon.com.br: Casa",
-    "imagem": "https://m.media-amazon.com/images/I/41dRwQGYZPL._AC_SL1500_.jpg",
-    "preco": 127,
-    "preco_anterior": 222,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07L4TSL64?tag=malica09-20",
-    "atualizado_em": "2026-10-22T20:37:53.550-03:00"
   }
 ]
