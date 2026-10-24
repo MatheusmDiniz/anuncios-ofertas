@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75522060",
+    "titulo": "Moisés Eliane Berço Bebê Portátil com Mosquiteiro e Co-sleeping Ajustável Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930074-MLA113422054648_072026-F.jpg",
+    "preco": 426.41,
+    "preco_anterior": 1099,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2TYCsNY",
+    "atualizado_em": "2026-10-24T08:01:18.726-03:00"
+  },
+  {
     "id": "amazon:B0D1DSFV8C",
     "titulo": "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
     "imagem": "https://m.media-amazon.com/images/I/61akH2rcdHL._AC_SL1500_.jpg",
@@ -1178,25 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0C3JGG83X?tag=malica09-20",
     "atualizado_em": "2026-10-22T20:05:36.707-03:00"
-  },
-  {
-    "id": "amazon:6556178292",
-    "titulo": "Meu Livro Fofinho: Bíblia do Bebê",
-    "imagem": "https://m.media-amazon.com/images/I/61wZpvuY5qL._AC_SL1500_.jpg",
-    "preco": 12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/6556178292?tag=malica09-20",
-    "atualizado_em": "2026-10-22T19:57:31.805-03:00"
-  },
-  {
-    "id": "amazon:B093G8NZ4Z",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega XXG 30 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71qHgf4AVbL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093G8NZ4Z?tag=malica09-20",
-    "atualizado_em": "2026-10-22T19:49:28.265-03:00"
   }
 ]
