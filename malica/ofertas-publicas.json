@@ -1748,25 +1748,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093G8NZ4Y?tag=malica09-20",
     "atualizado_em": "2026-10-22T12:21:33.934-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79315264",
-    "titulo": "Cadeira De Alimentação Bebê Portátil Daily 4 Em 1 + Rodinhas Daily Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800556-MLA116160195630_092026-F.jpg",
-    "preco": 256.01,
-    "preco_anterior": 449.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2V5Fpmm",
-    "atualizado_em": "2026-10-22T12:13:28.668-03:00"
-  },
-  {
-    "id": "amazon:B07HZL4D72",
-    "titulo": "Ypê Amaciante Tradicional Ultra Aconchego 5L (Embalagem pode variar)",
-    "imagem": "https://m.media-amazon.com/images/I/51UE1ZXqipL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07HZL4D72?tag=malica09-20",
-    "atualizado_em": "2026-10-22T12:05:19.160-03:00"
   }
 ]
