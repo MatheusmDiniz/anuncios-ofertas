@@ -1508,25 +1508,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09SPD5TQZ?tag=malica09-20",
     "atualizado_em": "2026-10-22T15:37:00.519-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63854956",
-    "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655356-MLA116912640401_082026-F.jpg",
-    "preco": 126.8,
-    "preco_anterior": 229.95,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2XbAww3",
-    "atualizado_em": "2026-10-22T15:28:55.959-03:00"
-  },
-  {
-    "id": "amazon:B07DHRV94V",
-    "titulo": "Loção Hidratante Corporal Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51KNP7RNDtL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07DHRV94V?tag=malica09-20",
-    "atualizado_em": "2026-10-22T15:20:46.025-03:00"
   }
 ]
