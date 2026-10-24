@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 34.64,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-10-24T12:37:53.669-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75833626",
     "titulo": "Banheira Bebe Dobrável Com Termômetro Rosa Almofada Infantil Kids Suporte Banheirinha Chuveirinho Calor Ofurô Criança",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_948707-MLA115248929913_072026-F.jpg",
