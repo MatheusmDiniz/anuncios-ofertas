@@ -1288,25 +1288,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B09VW57PZV?tag=malica09-20",
     "atualizado_em": "2026-10-22T18:36:21.519-03:00"
-  },
-  {
-    "id": "amazon:B0DHSHNWMX",
-    "titulo": "Buba, Gel Para Aliviar a Febre",
-    "imagem": "https://m.media-amazon.com/images/I/61dbYxMz3HL._AC_SL1500_.jpg",
-    "preco": 18,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DHSHNWMX?tag=malica09-20",
-    "atualizado_em": "2026-10-22T18:28:16.196-03:00"
-  },
-  {
-    "id": "amazon:B07NPY7VDL",
-    "titulo": "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g : Amazon.com.br: Bebês",
-    "imagem": "https://m.media-amazon.com/images/I/51J0y1mq1gL._AC_SL1500_.jpg",
-    "preco": 46,
-    "preco_anterior": 88,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07NPY7VDL?tag=malica09-20",
-    "atualizado_em": "2026-10-22T18:20:12.731-03:00"
   }
 ]
