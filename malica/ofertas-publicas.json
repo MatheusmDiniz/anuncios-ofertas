@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB36272049",
+    "titulo": "Trocador Portátil Linho Rose Forro Impermeável C/ Bolsos Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_716437-MLA113097743089_062026-F.jpg",
+    "preco": 107,
+    "preco_anterior": 179.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24rNGmi",
+    "atualizado_em": "2026-10-24T09:38:51.551-03:00"
+  },
+  {
     "id": "shopee:1099182727.23093251933",
     "titulo": "TENIS INFANTIL BOX200 SKATE RODINHA CALCE FACIL PRONTA ENTREGA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8w72tc1d7ax2b",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CH3ZLGZK?tag=malica09-20",
     "atualizado_em": "2026-10-22T21:42:50.897-03:00"
-  },
-  {
-    "id": "amazon:B09XJL4B9H",
-    "titulo": "Electrolux, Pote Hermetico, 12 unidades, A23122901, cinza | BPA Free, Porta Mantimentos",
-    "imagem": "https://m.media-amazon.com/images/I/51uccv-jBiL._AC_SL1500_.jpg",
-    "preco": 72,
-    "preco_anterior": 129,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09XJL4B9H?tag=malica09-20",
-    "atualizado_em": "2026-10-22T21:34:20.033-03:00"
   }
 ]
