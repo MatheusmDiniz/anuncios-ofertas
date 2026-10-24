@@ -1528,25 +1528,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07DHRV94V?tag=malica09-20",
     "atualizado_em": "2026-10-22T15:20:46.025-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75956946",
-    "titulo": "Suporte de Banho para Bebê Ajustável Nautilus Ocean Azul, Torre Segura para Chuveiro e Banheira",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963256-MLA113993552578_072026-F.jpg",
-    "preco": 184.2,
-    "preco_anterior": 419.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fGzMdL",
-    "atualizado_em": "2026-10-22T15:12:39.974-03:00"
-  },
-  {
-    "id": "amazon:B00LTDSMRU",
-    "titulo": "Colônia Refrescante Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41Gqx91I7NL._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00LTDSMRU?tag=malica09-20",
-    "atualizado_em": "2026-10-22T15:04:29.885-03:00"
   }
 ]
