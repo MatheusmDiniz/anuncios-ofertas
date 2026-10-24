@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDTZD5BS",
+    "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61KXSX2M+ML._AC_SL1500_.jpg",
+    "preco": 195.63,
+    "preco_anterior": 242.27,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
+    "atualizado_em": "2026-10-23T21:25:57.626-03:00"
+  },
+  {
     "id": "amazon:B07FFHV3MX",
     "titulo": "Granado Lenço Umedecido Bebê, Lavanda, 50 Unidades | Lenços macios, flexíveis e resistentes.",
     "imagem": "https://m.media-amazon.com/images/I/51hdPS2szyL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2RwjbRP",
     "atualizado_em": "2026-10-22T09:30:21.622-03:00"
-  },
-  {
-    "id": "shopee:885316517.22193972664",
-    "titulo": "Kit Pós Parto 2 Sutiãs Amamentação + 2 Calcinha cós alto micro fibra reforçado pós Cesária",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97nwi9epqma6e",
-    "preco": 46.9,
-    "preco_anterior": 120.26,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qVXUNrEgO",
-    "atualizado_em": "2026-10-22T09:22:10.138-03:00"
   }
 ]
