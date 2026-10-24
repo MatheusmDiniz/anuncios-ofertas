@@ -1678,25 +1678,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2K2BLp3",
     "atualizado_em": "2026-10-22T13:18:27.717-03:00"
-  },
-  {
-    "id": "amazon:B0964FR2L8",
-    "titulo": "Burigotto Banheira Millenia, Azul Bebê",
-    "imagem": "https://m.media-amazon.com/images/I/51n45tDFfQS._AC_SL1500_.jpg",
-    "preco": 249,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0964FR2L8?tag=malica09-20",
-    "atualizado_em": "2026-10-22T13:10:18.802-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27405813",
-    "titulo": "Mesinha Didática Infantil Com 2 Cadeiras",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640135-MLA99465372484_112025-F.jpg",
-    "preco": 302.7,
-    "preco_anterior": 538.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1cwX5ju",
-    "atualizado_em": "2026-10-22T13:02:13.332-03:00"
   }
 ]
