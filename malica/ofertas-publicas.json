@@ -1458,25 +1458,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B089YLCYBZ?tag=malica09-20",
     "atualizado_em": "2026-10-23T16:23:30.624-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79255155",
-    "titulo": "Grade Portão Preto Proteção Pets 68 A 73 / 78 A 83 Cm Cachorro Aramado 69cm Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953921-MLA116089682148_092026-F.jpg",
-    "preco": 70.27,
-    "preco_anterior": 121.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2dF7g1Y",
-    "atualizado_em": "2026-10-23T16:15:25.943-03:00"
-  },
-  {
-    "id": "amazon:B07F6JYN6C",
-    "titulo": "Condicionador Pom Pom Suave 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/51ixLvBal+L._AC_SL1500_.jpg",
-    "preco": 10,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07F6JYN6C?tag=malica09-20",
-    "atualizado_em": "2026-10-23T16:07:17.583-03:00"
   }
 ]
