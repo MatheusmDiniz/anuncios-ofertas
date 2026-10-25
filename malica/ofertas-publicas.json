@@ -1388,25 +1388,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
     "atualizado_em": "2026-10-23T17:21:04.355-03:00"
-  },
-  {
-    "id": "amazon:B07D2FKWBT",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
-    "preco": 15,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
-    "atualizado_em": "2026-10-23T17:12:58.827-03:00"
-  },
-  {
-    "id": "amazon:B06XK9H4PM",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51200xA7+nL._AC_SL1500_.jpg",
-    "preco": 10,
-    "preco_anterior": 26,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B06XK9H4PM?tag=malica09-20",
-    "atualizado_em": "2026-10-23T17:04:52.589-03:00"
   }
 ]
