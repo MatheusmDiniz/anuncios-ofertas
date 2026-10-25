@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:823578007.21399249090",
+    "titulo": "Kit Bota Feminina Infantil E Bolsa Infantil Menina Blogueira",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv0pm7tgg2hp56",
+    "preco": 58.04,
+    "preco_anterior": 120.92,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3VlJ4hWJFE",
+    "atualizado_em": "2026-10-25T09:51:18.921-03:00"
+  },
+  {
     "id": "shopee:1452530060.19299611725",
     "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=malica09-20",
     "atualizado_em": "2026-10-23T21:58:18.654-03:00"
-  },
-  {
-    "id": "amazon:B095D5PSPG",
-    "titulo": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61pYc6NhTXL._AC_SL1500_.jpg",
-    "preco": 81.17,
-    "preco_anterior": 118.1,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B095D5PSPG?tag=malica09-20",
-    "atualizado_em": "2026-10-23T21:50:13.081-03:00"
   }
 ]
