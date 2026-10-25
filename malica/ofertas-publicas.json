@@ -1218,25 +1218,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BZ129NTZ?tag=malica09-20",
     "atualizado_em": "2026-10-23T19:39:39.044-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77311383",
-    "titulo": "Mochila Maternidade NTESX com Trocador, Térmica e Impermeável Azul-Marinho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611530-MLA116251507724_092026-F.jpg",
-    "preco": 111.52,
-    "preco_anterior": 251.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1LFQECa",
-    "atualizado_em": "2026-10-23T19:31:34.181-03:00"
-  },
-  {
-    "id": "amazon:B0BKLPZ4BH",
-    "titulo": "Huggies Fralda Pants Premium Natural Care G - 60 Un",
-    "imagem": "https://m.media-amazon.com/images/I/81uiM-l9MBL._AC_SL1500_.jpg",
-    "preco": 87,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=malica09-20",
-    "atualizado_em": "2026-10-23T19:23:26.392-03:00"
   }
 ]
