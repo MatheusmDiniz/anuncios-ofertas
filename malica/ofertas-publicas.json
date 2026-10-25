@@ -1708,25 +1708,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=malica09-20",
     "atualizado_em": "2026-10-23T12:52:13.589-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB59323704",
-    "titulo": "Travel System Carrinho Com Bebê Conforto Rio 22 Preto Cobre Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641992-MLA94128605706_102025-F.jpg",
-    "preco": 1037,
-    "preco_anterior": 1918.89,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1TU8vWS",
-    "atualizado_em": "2026-10-23T12:44:08.170-03:00"
-  },
-  {
-    "id": "amazon:B07FN7T2LK",
-    "titulo": "Lenços Umedecidos Huggies Recém-Nascido Sem Fragrância 6x48U",
-    "imagem": "https://m.media-amazon.com/images/I/61qM9b1b77L._AC_SL1500_.jpg",
-    "preco": 48,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FN7T2LK?tag=malica09-20",
-    "atualizado_em": "2026-10-23T12:36:00.616-03:00"
   }
 ]
