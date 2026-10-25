@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GT28PSSN",
+    "titulo": "Fralda Turma da Monica Baby Giga G 68 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71d+qcdY9-L._AC_SL1500_.jpg",
+    "preco": 55,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GT28PSSN?tag=malica09-20",
+    "atualizado_em": "2026-10-25T17:52:57.510-03:00"
+  },
+  {
     "id": "shopee:391301937.23194199744",
     "titulo": "Conjunto de Bebê Unissex Macacão Jardineira Safari com Estampa de Animais - Roupa Fofa para Bebê Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbtskss4i01359",
