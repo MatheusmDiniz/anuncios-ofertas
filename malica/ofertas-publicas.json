@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62250973",
+    "titulo": "Triciclo Infantil Cardoso Toys Totokinha Sport Com Buzina Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_671578-MLA98618766349_112025-F.jpg",
+    "preco": 116.3,
+    "preco_anterior": 271.97,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2cjsFhU",
+    "atualizado_em": "2026-10-24T21:10:47.364-03:00"
+  },
+  {
     "id": "shopee:580787446.27945255322",
     "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2prT1Tt",
     "atualizado_em": "2026-10-23T09:13:30.281-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58214519187",
-    "titulo": "Kit 6 Peças Roupa De Bebê Body Menina Animado Estampado Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mqsk7tk8nbwiae",
-    "preco": 45.9,
-    "preco_anterior": 109.29,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VWKGC7JOB",
-    "atualizado_em": "2026-10-23T09:05:22.941-03:00"
   }
 ]
