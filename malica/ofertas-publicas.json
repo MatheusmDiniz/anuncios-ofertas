@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:440034724.58207764813",
+    "titulo": "Escova Para Lavar Mamadeira E Bico Com Esponja Buba Azul Rosa Bebê garrafas térmicas multiuso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-ms5m5c3pacqs59",
+    "preco": 10,
+    "preco_anterior": 22.22,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6fiKqUTej8",
+    "atualizado_em": "2026-10-25T09:10:49.197-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB30018475",
     "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07FFHV3MX?tag=malica09-20",
     "atualizado_em": "2026-10-23T21:17:27.889-03:00"
-  },
-  {
-    "id": "amazon:B07CT51QCW",
-    "titulo": "Mictorio Sapinho Verde, Clingo, Verde",
-    "imagem": "https://m.media-amazon.com/images/I/61Z6y6KHaRL._AC_SL1500_.jpg",
-    "preco": 23,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07CT51QCW?tag=malica09-20",
-    "atualizado_em": "2026-10-23T21:09:24.224-03:00"
   }
 ]
