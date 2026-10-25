@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66194128",
+    "titulo": "Baby Brink Boneca Emilly Vick Dos Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705150-MLA116500653536_092026-F.jpg",
+    "preco": 145.73,
+    "preco_anterior": 269.87,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZujsJg",
+    "atualizado_em": "2026-10-25T09:18:56.734-03:00"
+  },
+  {
     "id": "shopee:440034724.58207764813",
     "titulo": "Escova Para Lavar Mamadeira E Bico Com Esponja Buba Azul Rosa Bebê garrafas térmicas multiuso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-ms5m5c3pacqs59",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
     "atualizado_em": "2026-10-23T21:25:57.626-03:00"
-  },
-  {
-    "id": "amazon:B07FFHV3MX",
-    "titulo": "Granado Lenço Umedecido Bebê, Lavanda, 50 Unidades | Lenços macios, flexíveis e resistentes.",
-    "imagem": "https://m.media-amazon.com/images/I/51hdPS2szyL._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FFHV3MX?tag=malica09-20",
-    "atualizado_em": "2026-10-23T21:17:27.889-03:00"
   }
 ]
