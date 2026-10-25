@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25997831",
+    "titulo": "Buba Treme-Treme De Atividades Zoo - Unicórnio",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_889133-MLA96137099555_102025-F.jpg",
+    "preco": 79.85,
+    "preco_anterior": 144.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2X546Yw",
+    "atualizado_em": "2026-10-25T08:30:17.593-03:00"
+  },
+  {
     "id": "shopee:399621856.23992794977",
     "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1idZTCr",
     "atualizado_em": "2026-10-23T20:37:06.613-03:00"
-  },
-  {
-    "id": "amazon:B0FPBP6G49",
-    "titulo": "PHILIPS, Smart TV, Ambilight THE ONE 65\" 4K 144 Hz, Titan OS, 65PUG8929/78, P5, DTS Play-Fi, Freesync, Dolby Vision e Atmos, 40 WRMS",
-    "imagem": "https://m.media-amazon.com/images/I/71F+cUtLJGL._AC_SL1500_.jpg",
-    "preco": 3898.98,
-    "preco_anterior": 4899,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPBP6G49?tag=malica09-20",
-    "atualizado_em": "2026-10-23T20:28:59.115-03:00"
   }
 ]
