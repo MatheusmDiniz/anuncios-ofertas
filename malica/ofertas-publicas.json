@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1384480317.22894374244",
+    "titulo": "Bolsa De Silicone Infantil Criança Coelho",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mrz400y1nbpgb7",
+    "preco": 14.99,
+    "preco_anterior": 33.31,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/gR8Nix5m7",
+    "atualizado_em": "2026-10-25T20:03:43.252-03:00"
+  },
+  {
     "id": "amazon:B06XK9WHFP",
     "titulo": "Oferta: Gillette Venus Aparelho de Depilação Descartável Suave com Aloe, 2 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51TpS3FhGhL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAIBPXoPdF",
     "atualizado_em": "2026-10-24T08:09:24.733-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75522060",
-    "titulo": "Moisés Eliane Berço Bebê Portátil com Mosquiteiro e Co-sleeping Ajustável Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930074-MLA113422054648_072026-F.jpg",
-    "preco": 426.41,
-    "preco_anterior": 1099,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2TYCsNY",
-    "atualizado_em": "2026-10-24T08:01:18.726-03:00"
   }
 ]
