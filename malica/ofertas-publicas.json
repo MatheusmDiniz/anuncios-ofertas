@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB48920952",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
+    "preco": 162,
+    "preco_anterior": 286,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1FEBFro",
+    "atualizado_em": "2026-10-25T08:14:05.636-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75725312",
     "titulo": "Babá Eletrônica Baby Monitor VB603 Sem Fio Visão Noturna Áudio Bidirecional LCD 3.2 VOX Sensor Temperatura - DDM Leds",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_666275-MLA113775235212_072026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPD7CFCJ?tag=malica09-20",
     "atualizado_em": "2026-10-23T20:20:26.583-03:00"
-  },
-  {
-    "id": "amazon:B0FJ2VD2SX",
-    "titulo": "Oferta: Travel System Safety 1st, Mobi Duo, Black & Silver",
-    "imagem": "https://m.media-amazon.com/images/I/51lwq4YfoSL._AC_SL1500_.jpg",
-    "preco": 1651.51,
-    "preco_anterior": 2199,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FJ2VD2SX?tag=malica09-20",
-    "atualizado_em": "2026-10-23T20:12:22.548-03:00"
   }
 ]
