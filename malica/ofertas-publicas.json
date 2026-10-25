@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1452530060.19299611725",
+    "titulo": "Colchão para carrinho Moises Colchonete carrinho com fronha Menino, Menina e Neutro carrinho de bebe",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6xary0bcyfb71",
+    "preco": 19.99,
+    "preco_anterior": 39.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6q1l2ot5FO",
+    "atualizado_em": "2026-10-25T09:43:13.394-03:00"
+  },
+  {
     "id": "shopee:450822457.23598771618",
     "titulo": "Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortável e Estiloso",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyfjt8mzt3a18",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B095D5PSPG?tag=malica09-20",
     "atualizado_em": "2026-10-23T21:50:13.081-03:00"
-  },
-  {
-    "id": "amazon:B086Q35748",
-    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho G, Fácil de Vestir, 72 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61eK738WhLL._AC_SL1500_.jpg",
-    "preco": 123,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B086Q35748?tag=malica09-20",
-    "atualizado_em": "2026-10-23T21:42:08.122-03:00"
   }
 ]
