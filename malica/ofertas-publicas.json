@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:450822457.23598771618",
+    "titulo": "Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortável e Estiloso",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyfjt8mzt3a18",
+    "preco": 29.99,
+    "preco_anterior": 59.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2qVcHSZ2uE",
+    "atualizado_em": "2026-10-25T09:35:07.780-03:00"
+  },
+  {
     "id": "shopee:406894684.19699704487",
     "titulo": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086Q35748?tag=malica09-20",
     "atualizado_em": "2026-10-23T21:42:08.122-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB78704873",
-    "titulo": "Lixeira Para Fraldas Rister Baby 10l Anti-odor Com Tampa Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673552-MLA115596034822_092026-F.jpg",
-    "preco": 99.9,
-    "preco_anterior": 199.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2x7vdVr",
-    "atualizado_em": "2026-10-23T21:34:03.777-03:00"
   }
 ]
