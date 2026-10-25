@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:432788506.58259649647",
+    "titulo": "Sandália Babuche Infantil Juvenil Leve Macio",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nx-mnk3ngz0nojl72",
+    "preco": 19.49,
+    "preco_anterior": 27.84,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/qkXtlPbME",
+    "atualizado_em": "2026-10-25T08:54:36.381-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46836018",
     "titulo": "Triciclo Infantil Totokinha Sport Rosa Cardoso Toys 1-3 Anos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_945019-MLA117873243993_092026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00YDY5BKI?tag=malica09-20",
     "atualizado_em": "2026-10-23T21:01:20.166-03:00"
-  },
-  {
-    "id": "amazon:B00WJNIZTY",
-    "titulo": "Copo De Transição Philips Avent 200ml 6m+ Azul com Alças",
-    "imagem": "https://m.media-amazon.com/images/I/510eUr2Fz4L._AC_SL1500_.jpg",
-    "preco": 37,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00WJNIZTY?tag=malica09-20",
-    "atualizado_em": "2026-10-23T20:53:15.554-03:00"
   }
 ]
