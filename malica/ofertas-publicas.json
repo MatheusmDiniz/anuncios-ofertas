@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09WTJ7NN8",
+    "titulo": "Oferta: BUBA Colher Dosadora Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/51KQKblTHYL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09WTJ7NN8?tag=malica09-20",
+    "atualizado_em": "2026-10-25T16:47:41.853-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20787112",
     "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745997-MLA111515571650_062026-F.jpg",
