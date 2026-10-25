@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:399621856.23992794977",
+    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
+    "preco": 31.59,
+    "preco_anterior": 45.13,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5q9CFaVNRC",
+    "atualizado_em": "2026-10-25T08:22:10.095-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB48920952",
     "titulo": "Bicicleta De Equilíbrio 4 Rodas Buba Bege",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_674886-MLA100003308969_112025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FPBP6G49?tag=malica09-20",
     "atualizado_em": "2026-10-23T20:28:59.115-03:00"
-  },
-  {
-    "id": "amazon:B0FPD7CFCJ",
-    "titulo": "Oferta: Carrinho de Bebê Cosco Kids, Lummy, Preto Absoluto",
-    "imagem": "https://m.media-amazon.com/images/I/51kmOjEtdJL._AC_SL1500_.jpg",
-    "preco": 873.91,
-    "preco_anterior": 999,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0FPD7CFCJ?tag=malica09-20",
-    "atualizado_em": "2026-10-23T20:20:26.583-03:00"
   }
 ]
