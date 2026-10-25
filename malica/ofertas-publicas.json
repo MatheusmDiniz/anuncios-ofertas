@@ -1348,25 +1348,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CCDZ9XBJ?tag=malica09-20",
     "atualizado_em": "2026-10-23T17:53:31.628-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB60230497",
-    "titulo": "Casa De Bonecas Mochilinha - Casinha Feliz Zoop Toys Zp01379",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923801-MLA99515211261_112025-F.jpg",
-    "preco": 276.45,
-    "preco_anterior": 516.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2g9PCEK",
-    "atualizado_em": "2026-10-23T17:45:25.821-03:00"
-  },
-  {
-    "id": "amazon:B07FH9V4Q6",
-    "titulo": "Condicionador Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61GNaMKEUML._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07FH9V4Q6?tag=malica09-20",
-    "atualizado_em": "2026-10-23T17:37:17.018-03:00"
   }
 ]
