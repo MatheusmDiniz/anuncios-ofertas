@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75725312",
+    "titulo": "Babá Eletrônica Baby Monitor VB603 Sem Fio Visão Noturna Áudio Bidirecional LCD 3.2 VOX Sensor Temperatura - DDM Leds",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666275-MLA113775235212_072026-F.jpg",
+    "preco": 216.09,
+    "preco_anterior": 428.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1mrvTUd",
+    "atualizado_em": "2026-10-25T08:05:59.559-03:00"
+  },
+  {
     "id": "shopee:1775494527.58207373536",
     "titulo": "KIT 03 SHORTS INFLANTIL PARA ESCOLA, PARA O DIA A DIA PROMOÇAO 2026!",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262j-mkkzzsetaaddf4",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FJ2VD2SX?tag=malica09-20",
     "atualizado_em": "2026-10-23T20:12:22.548-03:00"
-  },
-  {
-    "id": "amazon:B07ZQVVP87",
-    "titulo": "Mustela Cicastela Creme Reparador Hidratante 40Ml - Hidrata Repara Acalma E Purifica A Pele - Multiuso Para Os Pequenos Dodóis Dos Bebês E Crianças Feito Com 91% De Ingredientes De Origem Natural",
-    "imagem": "https://m.media-amazon.com/images/I/51JevbLw4AL._AC_SL1500_.jpg",
-    "preco": 75,
-    "preco_anterior": 90,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07ZQVVP87?tag=malica09-20",
-    "atualizado_em": "2026-10-23T20:04:18.549-03:00"
   }
 ]
