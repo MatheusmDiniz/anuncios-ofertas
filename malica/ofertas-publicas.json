@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:406894684.19699704487",
+    "titulo": "Carrinho de Rolimã Super Car com Led Suporta até 100kg Unitoys",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdonu6vmeoxl23",
+    "preco": 189.99,
+    "preco_anterior": 301.57,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1BNNYv5Sgc",
+    "atualizado_em": "2026-10-25T09:27:02.306-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66194128",
     "titulo": "Baby Brink Boneca Emilly Vick Dos Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_705150-MLA116500653536_092026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2x7vdVr",
     "atualizado_em": "2026-10-23T21:34:03.777-03:00"
-  },
-  {
-    "id": "amazon:B0DDTZD5BS",
-    "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61KXSX2M+ML._AC_SL1500_.jpg",
-    "preco": 195.63,
-    "preco_anterior": 242.27,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
-    "atualizado_em": "2026-10-23T21:25:57.626-03:00"
   }
 ]
