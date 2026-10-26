@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08BCSWYJJ",
+    "titulo": "OMO Sabão Líquido Roupas Finas E Delicadas Bebê 900Ml",
+    "imagem": "https://m.media-amazon.com/images/I/61KfvT4q59L._AC_SL1500_.jpg",
+    "preco": 16,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08BCSWYJJ?tag=malica09-20",
+    "atualizado_em": "2026-10-26T20:28:12.651-03:00"
+  },
+  {
     "id": "amazon:B0DJBVL2S5",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61BvTWZgpiL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2X546Yw",
     "atualizado_em": "2026-10-25T08:30:17.593-03:00"
-  },
-  {
-    "id": "shopee:399621856.23992794977",
-    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
-    "preco": 31.59,
-    "preco_anterior": 45.13,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5q9CFaVNRC",
-    "atualizado_em": "2026-10-25T08:22:10.095-03:00"
   }
 ]
