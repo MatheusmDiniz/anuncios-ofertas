@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076PPQBDX",
+    "titulo": "Mor - Piscina Inflável 1.000 Litros",
+    "imagem": "https://m.media-amazon.com/images/I/41zi2SIUozL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076PPQBDX?tag=malica09-20",
+    "atualizado_em": "2026-10-25T21:24:39.043-03:00"
+  },
+  {
     "id": "amazon:B078YCQZ6T",
     "titulo": "Detergente Líquido Concentrado para Roupas de Bebê e Criança, Vegano, Hipoalergênico, Contém Óleo de Coco, Fragrância Suave, Amacia e Preserva Cores, até 20 Lavadas – Lava-Roupinhas 500ml BioClub : Am",
     "imagem": "https://m.media-amazon.com/images/I/51DitCUuOAL._AC_SL1500_.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9APeDlQPaR",
     "atualizado_em": "2026-10-24T09:30:42.916-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB80306435",
-    "titulo": "Cadeira de Descanso L'Amor Elétrica com Vibração e Brinquedos para Bebê Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776573-MLA118960001587_102026-F.jpg",
-    "preco": 164.08,
-    "preco_anterior": 359.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2NsLmtm",
-    "atualizado_em": "2026-10-24T09:22:36.749-03:00"
   }
 ]
