@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08GZNWJ17",
+    "titulo": "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+    "imagem": "https://m.media-amazon.com/images/I/818MarZ6OOL._AC_SL1500_.jpg",
+    "preco": 79,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08GZNWJ17?tag=malica09-20",
+    "atualizado_em": "2026-10-26T13:57:57.115-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42346236",
     "titulo": "Mesinha De Atividades Musical Azul Baby Land Cardoso",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777857-MLA99450767210_112025-F.jpg",
