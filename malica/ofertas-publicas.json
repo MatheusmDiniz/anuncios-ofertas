@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0080GYTC6",
+    "titulo": "Colônia Refrescante Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61+qxeULTcL._AC_SL1500_.jpg",
+    "preco": 24.14,
+    "preco_anterior": 40.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0080GYTC6?tag=malica09-20",
+    "atualizado_em": "2026-10-26T16:00:51.962-03:00"
+  },
+  {
     "id": "amazon:B07QVTFKL6",
     "titulo": "Fraldas Babysec Ultrasec Galinha Pintadinha, P, 42 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/617zmUT1myL._AC_SL1500_.jpg",
