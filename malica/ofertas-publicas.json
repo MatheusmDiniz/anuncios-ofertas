@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FNM9QRF",
+    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho M, 36 unidades, Estilo Roupinha, para 5,5 a 9,5 kg",
+    "imagem": "https://m.media-amazon.com/images/I/71H11HwAU3L._AC_SL1500_.jpg",
+    "preco": 42,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FNM9QRF?tag=malica09-20",
+    "atualizado_em": "2026-10-26T16:17:01.258-03:00"
+  },
+  {
     "id": "amazon:B07DHSGC5B",
     "titulo": "Loção Hidratante Corporal Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61jtP7w98pL._AC_SL1500_.jpg",
