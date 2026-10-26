@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW44JM3G",
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61i0azK-W3L._AC_SL1500_.jpg",
+    "preco": 145,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW44JM3G?tag=malica09-20",
+    "atualizado_em": "2026-10-26T14:47:07.066-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42417971",
     "titulo": "Kit Para Limpeza De Mamadeira Portátil Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_888792-MLA99508597048_112025-F.jpg",
