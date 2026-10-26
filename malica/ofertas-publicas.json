@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C9W3MZV2",
+    "titulo": "Sabonete Nutritivo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/4111H9SAD3L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C9W3MZV2?tag=malica09-20",
+    "atualizado_em": "2026-10-26T18:18:38.818-03:00"
+  },
+  {
     "id": "amazon:B07MT9LCV1",
     "titulo": "Creme para Pentear Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61U2+G0QD+L._AC_SL1500_.jpg",
