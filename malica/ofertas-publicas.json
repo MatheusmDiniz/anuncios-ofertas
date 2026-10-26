@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MT9LCV1",
+    "titulo": "Creme para Pentear Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61U2+G0QD+L._AC_SL1500_.jpg",
+    "preco": 31,
+    "preco_anterior": 49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MT9LCV1?tag=malica09-20",
+    "atualizado_em": "2026-10-26T18:10:33.631-03:00"
+  },
+  {
     "id": "amazon:B0CN78J7WM",
     "titulo": "Creme para Assaduras Nebacetin Baby Prevenção, 30g | Pele Macia, Hidratada, Saudável, Para Peles Sensíveis e Delicadas",
     "imagem": "https://m.media-amazon.com/images/I/71MiosSauyL._AC_SL1500_.jpg",
