@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHRS6RN",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51ZGkcF+raL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHRS6RN?tag=malica09-20",
+    "atualizado_em": "2026-10-26T19:23:39.562-03:00"
+  },
+  {
     "id": "amazon:B0F4G5NL2K",
     "titulo": "Lenços Umedecidos para Recém-Nascido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51puwf2c88L._AC_SL1500_.jpg",
