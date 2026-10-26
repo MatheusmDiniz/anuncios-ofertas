@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24647478",
+    "titulo": "Andador Bebe Carrinho Infantil Treina Equilíbrio Zippy Toys Cor Vermelho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950359-MLA99487901484_112025-F.jpg",
+    "preco": 111.99,
+    "preco_anterior": 199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/13QLwJU",
+    "atualizado_em": "2026-10-26T08:40:54.351-03:00"
+  },
+  {
     "id": "amazon:B08K4L37HD",
     "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/311P3iM",
     "atualizado_em": "2026-10-24T20:46:24.856-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44875746",
-    "titulo": "Triciclo Infantil Andador Empurrador com Guia Avespa Spider Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_953274-MLA99452390510_112025-F.jpg",
-    "preco": 274.98,
-    "preco_anterior": 499.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/322MsFh",
-    "atualizado_em": "2026-10-24T20:38:16.234-03:00"
   }
 ]
