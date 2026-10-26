@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B093G83Q3P",
+    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71OUTkqoiwL._AC_SL1500_.jpg",
+    "preco": 18.99,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B093G83Q3P?tag=malica09-20",
+    "atualizado_em": "2026-10-26T08:48:59.340-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24647478",
     "titulo": "Andador Bebe Carrinho Infantil Treina Equilíbrio Zippy Toys Cor Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_950359-MLA99487901484_112025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fTNcmu7g4",
     "atualizado_em": "2026-10-24T20:54:32.190-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40554787",
-    "titulo": "Bicicleta de Equilíbrio Infantil Yuupi Verde 4 Rodas TPU, Conforto e Segurança",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_682100-MLA99508962234_112025-F.jpg",
-    "preco": 192.31,
-    "preco_anterior": 337.38,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/311P3iM",
-    "atualizado_em": "2026-10-24T20:46:24.856-03:00"
   }
 ]
