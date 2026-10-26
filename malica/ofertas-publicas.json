@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74021628",
+    "titulo": "Lenços Umedecidos Johnson's Baby Recém Nascido, 96 unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720750-MLA113465961543_062026-F.jpg",
+    "preco": 17.89,
+    "preco_anterior": 29.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1C6uK4V",
+    "atualizado_em": "2026-10-26T09:29:29.397-03:00"
+  },
+  {
     "id": "amazon:B09FFRMKNQ",
     "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71sFW94e1IL._AC_SL1500_.jpg",
