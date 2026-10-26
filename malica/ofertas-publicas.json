@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69043942",
+    "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980470-MLA110226822348_052026-F.jpg",
+    "preco": 188,
+    "preco_anterior": 369.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2rV82nZ",
+    "atualizado_em": "2026-10-26T08:24:40.054-03:00"
+  },
+  {
     "id": "amazon:B093G7B8CN",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo P 30 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71LYtiz2SJL._AC_SL1500_.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/24ziA86",
     "atualizado_em": "2026-10-24T20:30:08.477-03:00"
-  },
-  {
-    "id": "shopee:1766231596.58267991297",
-    "titulo": "Camiseta Infantil Unissex Em Algodão Premium Lisa",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mssmws7ejmro4f",
-    "preco": 22.17,
-    "preco_anterior": 59.92,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9fLvbjEpH2",
-    "atualizado_em": "2026-10-24T20:21:58.246-03:00"
   }
 ]
