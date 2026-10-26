@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08K4L37HD",
+    "titulo": "Fralda Pampers Confort Sec Tamanho G 128 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/713R-b6Nh2L._AC_SL1500_.jpg",
+    "preco": 147.44,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
+    "atualizado_em": "2026-10-26T08:32:45.714-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB69043942",
     "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_980470-MLA110226822348_052026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/322MsFh",
     "atualizado_em": "2026-10-24T20:38:16.234-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62349726",
-    "titulo": "Banheira Portátil Dobrável para Spa e Gelo de Alta Qualidade Branca",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926675-MLA98901684651_112025-F.jpg",
-    "preco": 87.16,
-    "preco_anterior": 149.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24ziA86",
-    "atualizado_em": "2026-10-24T20:30:08.477-03:00"
   }
 ]
