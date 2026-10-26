@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73063371",
+    "titulo": "Tapete Bebê Interativo Atividades Musical Piano Desenhos fofos Luzinhas Som Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990403-MLA119677473437_102026-F.jpg",
+    "preco": 99.89,
+    "preco_anterior": 173.97,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2R3j4ao",
+    "atualizado_em": "2026-10-25T21:57:15.302-03:00"
+  },
+  {
     "id": "shopee:804765560.58056231692",
     "titulo": "Conjunto Infantil Regata Estampada e Short Liso 100% Algodão  Kit de 6, 3, 2  e 1 Conjuntos",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu6-mkrimzvl8sn6e8",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BFtsuhiiG",
     "atualizado_em": "2026-10-24T10:03:13.604-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB53326435",
-    "titulo": "Mesinha Infantil Educativa Didática Alfabeto Com 2 Cadeiras Cor Amarelo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881881-MLA89238835863_082025-F.jpg",
-    "preco": 155.9,
-    "preco_anterior": 455.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2VXUbSM",
-    "atualizado_em": "2026-10-24T09:55:07.278-03:00"
   }
 ]
