@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DXWPRKSG",
+    "titulo": "Condicionador Infantil Cabelos Cacheados 210ml – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/71biBlw-RkL._AC_SL1500_.jpg",
+    "preco": 11,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DXWPRKSG?tag=malica09-20",
+    "atualizado_em": "2026-10-26T17:45:49.372-03:00"
+  },
+  {
     "id": "amazon:B08KJ8QF7P",
     "titulo": "Sabonete Líquido Refil NIVEA, Erva-Doce, 200ml | Fragrância Refrescante, Sensação de Pele Macia e Hidratada",
     "imagem": "https://m.media-amazon.com/images/I/71Tx1cQjUpL._AC_SL1500_.jpg",
