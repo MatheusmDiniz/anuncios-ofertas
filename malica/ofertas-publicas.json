@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08Y1Z25MG",
+    "titulo": "Danone, Fórmula Infantil Aptanutri Profutura 3, 800g",
+    "imagem": "https://m.media-amazon.com/images/I/615w-jqRrdL._AC_SL1500_.jpg",
+    "preco": 81.6,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08Y1Z25MG?tag=malica09-20",
+    "atualizado_em": "2026-10-26T09:53:44.762-03:00"
+  },
+  {
     "id": "shopee:1046377573.22895059655",
     "titulo": "Saída De Maternidade Para Bebê Menino Com 5 Peças Tema Ursinho",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ah-mqz77mlj0phhd2",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4LKPKoR3aw",
     "atualizado_em": "2026-10-24T21:59:24.393-03:00"
-  },
-  {
-    "id": "shopee:897514363.52416249265",
-    "titulo": "Kit de Laboratório Manual Química 100/50  Brinquedos Jogo Química Educativo Infantil",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82592-ms2g7zcfb5kxc6",
-    "preco": 77.22,
-    "preco_anterior": 297,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LZKx5rTuy",
-    "atualizado_em": "2026-10-24T21:51:18.441-03:00"
   }
 ]
