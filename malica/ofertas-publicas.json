@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DS6CK89Q",
+    "titulo": "Sabonete Líquido Bebê Glicerina Refil 210ml – Baruel Baby",
+    "imagem": "https://m.media-amazon.com/images/I/61RX5TV50TL._AC_SL1500_.jpg",
+    "preco": 7,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DS6CK89Q?tag=malica09-20",
+    "atualizado_em": "2026-10-26T18:42:50.966-03:00"
+  },
+  {
     "id": "amazon:B0GHP4NL1J",
     "titulo": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
     "imagem": "https://m.media-amazon.com/images/I/719iaBNjFwL._AC_SL1500_.jpg",
