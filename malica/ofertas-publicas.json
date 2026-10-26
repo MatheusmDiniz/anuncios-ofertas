@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07FS8P22T",
+    "titulo": "Kit Primeiros Passos - Lillo, Rosa, Vários volumes",
+    "imagem": "https://m.media-amazon.com/images/I/612BgPq7pPL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07FS8P22T?tag=malica09-20",
+    "atualizado_em": "2026-10-26T16:41:14.584-03:00"
+  },
+  {
     "id": "amazon:B0756KXRLB",
     "titulo": "Oferta: WAP Aspirador de Pó e Água Barril GTW INOX 12, Compacto, 12 Litros, com Filtro Lavável, 160mbar 1400W 127V",
     "imagem": "https://m.media-amazon.com/images/I/81vWLw7qFWL._AC_SL1500_.jpg",
