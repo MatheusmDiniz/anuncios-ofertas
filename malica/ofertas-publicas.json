@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BJ7ZTCH6",
+    "titulo": "Fórmula Infantil Aptamil Premium 1, 0 a 6 meses, 1,5kg",
+    "imagem": "https://m.media-amazon.com/images/I/61dMAYSQplL._AC_SL1500_.jpg",
+    "preco": 120,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BJ7ZTCH6?tag=malica09-20",
+    "atualizado_em": "2026-10-26T15:19:57.326-03:00"
+  },
+  {
     "id": "amazon:B07XRPT1P4",
     "titulo": "Babysec Fralda Premium M 32 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/512mbN+Sq+L._AC_SL1500_.jpg",
