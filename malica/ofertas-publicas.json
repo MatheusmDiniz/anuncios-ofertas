@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21283759",
+    "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
+    "preco": 229,
+    "preco_anterior": 399,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2heMSHE",
+    "atualizado_em": "2026-10-26T08:57:07.401-03:00"
+  },
+  {
     "id": "amazon:B093G83Q3P",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71OUTkqoiwL._AC_SL1500_.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7Ky02LPfOP",
     "atualizado_em": "2026-10-24T21:02:38.694-03:00"
-  },
-  {
-    "id": "shopee:938888317.19297977722",
-    "titulo": "Kit 4 Peças Body Bebê Menino Fofo + Short Tapa Fralda Estampas Sortidas RN ao GG Enxoval, maternidade",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-motrvx7s1k3ka3",
-    "preco": 49.99,
-    "preco_anterior": 80.63,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8fTNcmu7g4",
-    "atualizado_em": "2026-10-24T20:54:32.190-03:00"
   }
 ]
