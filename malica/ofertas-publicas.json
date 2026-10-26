@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GTN3CDWG",
+    "titulo": "Mustela Kit Minis Travel Size - Gel Lavante + Hydra Bebê + Água de Limpeza + Creme Vitaminado Preventivo de Assaduras 54g - Nova Embalagem - Edição Limitada - Mustela Bebê e Criança",
+    "imagem": "https://m.media-amazon.com/images/I/61gIjZ-ohlL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GTN3CDWG?tag=malica09-20",
+    "atualizado_em": "2026-10-25T21:08:28.502-03:00"
+  },
+  {
     "id": "shopee:575397523.51106656675",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4VdofBHmLb",
     "atualizado_em": "2026-10-24T09:14:29.550-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46048641",
-    "titulo": "Berço 2 em 1 Americano Vira Cama Slim Com Colchão E Grade Removível Pés em Madeira Cor Freijo Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648832-MLA112305127874_062026-F.jpg",
-    "preco": 484.03,
-    "preco_anterior": 899,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WKWntF",
-    "atualizado_em": "2026-10-24T09:06:18.810-03:00"
   }
 ]
