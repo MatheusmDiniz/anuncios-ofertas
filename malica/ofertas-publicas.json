@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08KJ8QF7P",
+    "titulo": "Sabonete Líquido Refil NIVEA, Erva-Doce, 200ml | Fragrância Refrescante, Sensação de Pele Macia e Hidratada",
+    "imagem": "https://m.media-amazon.com/images/I/71Tx1cQjUpL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08KJ8QF7P?tag=malica09-20",
+    "atualizado_em": "2026-10-26T17:37:46.415-03:00"
+  },
+  {
     "id": "amazon:B0DD7V56G1",
     "titulo": "Fralda Descartável Huggies Xtra-Flex, Tamanho XXXL, 128 Unidades | Canais em X que se adaptam aos movimentos, Máxima Proteção, Sem fralda caída",
     "imagem": "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
