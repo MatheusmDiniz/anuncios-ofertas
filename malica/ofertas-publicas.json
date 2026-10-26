@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08HTGRMD3",
+    "titulo": "Fralda Pampers Splashers Para Nadar Baby Shark Tamanho XG 10 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/716wdYVdlgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08HTGRMD3?tag=malica09-20",
+    "atualizado_em": "2026-10-26T09:05:12.413-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB21283759",
     "titulo": "Cadeira de Descanso Musical Urso Polar Até 18kgs cor cinza e branco Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_963416-MLA96135271509_102025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2cjsFhU",
     "atualizado_em": "2026-10-24T21:10:47.364-03:00"
-  },
-  {
-    "id": "shopee:580787446.27945255322",
-    "titulo": "Kit Enxoval 6 Peças Body Bebê Infantil Menina Animado Estampado Bodie Short Mijão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mqj9xniuus5f47",
-    "preco": 47.5,
-    "preco_anterior": 110.47,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7Ky02LPfOP",
-    "atualizado_em": "2026-10-24T21:02:38.694-03:00"
   }
 ]
