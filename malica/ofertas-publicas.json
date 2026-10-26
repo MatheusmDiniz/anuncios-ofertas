@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 179.9,
+    "preco_anterior": 349,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/16b4G98",
+    "atualizado_em": "2026-10-26T09:13:19.851-03:00"
+  },
+  {
     "id": "amazon:B08HTGRMD3",
     "titulo": "Fralda Pampers Splashers Para Nadar Baby Shark Tamanho XG 10 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/716wdYVdlgL._AC_SL1500_.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fiK71kWW5",
     "atualizado_em": "2026-10-24T21:18:52.558-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62250973",
-    "titulo": "Triciclo Infantil Cardoso Toys Totokinha Sport Com Buzina Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_671578-MLA98618766349_112025-F.jpg",
-    "preco": 116.3,
-    "preco_anterior": 271.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2cjsFhU",
-    "atualizado_em": "2026-10-24T21:10:47.364-03:00"
   }
 ]
