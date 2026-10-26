@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BR17D4KF",
+    "titulo": "Kit Bebê Vida Macia: 1 Lava Roupas 1 litro + 1 Amaciante Camomila 1 litro + 1 Tira Manchas 500 ml",
+    "imagem": "https://m.media-amazon.com/images/I/51nxDgxsEWL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BR17D4KF?tag=malica09-20",
+    "atualizado_em": "2026-10-26T15:36:08.192-03:00"
+  },
+  {
     "id": "amazon:B07DHR44KX",
     "titulo": "Cotonetes de Algodão com Hastes Flexíveis, Retangular, 300 Unidades : Amazon.com.br: Casa",
     "imagem": "https://m.media-amazon.com/images/I/61OWI1ksiRL._AC_SL1500_.jpg",
