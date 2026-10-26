@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09FFRMKNQ",
+    "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71sFW94e1IL._AC_SL1500_.jpg",
+    "preco": 189,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=malica09-20",
+    "atualizado_em": "2026-10-26T09:21:23.340-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28318987",
     "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9Kj5HvaN6r",
     "atualizado_em": "2026-10-24T21:26:59.590-03:00"
-  },
-  {
-    "id": "shopee:1724251952.52568339053",
-    "titulo": "Squishy Butter Manteiga Gigante 24cm e 13,5cm Super Macio Fofinho Surpresa Antistresse Fidget Toy Sensorial Queijo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mth6nk3rbe9tf6",
-    "preco": 29.9,
-    "preco_anterior": 48.23,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6fiK71kWW5",
-    "atualizado_em": "2026-10-24T21:18:52.558-03:00"
   }
 ]
