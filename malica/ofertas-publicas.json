@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56117350",
+    "titulo": "Boné New Era Aba Curva 940 Ny Yankees Preto Unissex Classico Tamanho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640680-MLA99979796829_112025-F.jpg",
+    "preco": 129.94,
+    "preco_anterior": 219.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1h3hkaT",
+    "atualizado_em": "2026-10-27T09:57:00.884-03:00"
+  },
+  {
     "id": "amazon:B095R9CKYR",
     "titulo": "Huggies Fralda Descartável Premium Natural Care RN - 34 Un",
     "imagem": "https://m.media-amazon.com/images/I/71DAxC1Pu4L._AC_SL1500_.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2R3j4ao",
     "atualizado_em": "2026-10-25T21:57:15.302-03:00"
-  },
-  {
-    "id": "shopee:804765560.58056231692",
-    "titulo": "Conjunto Infantil Regata Estampada e Short Liso 100% Algodão  Kit de 6, 3, 2  e 1 Conjuntos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu6-mkrimzvl8sn6e8",
-    "preco": 19.9,
-    "preco_anterior": 132.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VWLqy6B6f",
-    "atualizado_em": "2026-10-25T21:49:06.289-03:00"
   }
 ]
