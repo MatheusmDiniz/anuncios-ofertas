@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C4VJ5DCQ",
+    "titulo": "Burigotto Carrinho de Bebê Zap Metal, Prata",
+    "imagem": "https://m.media-amazon.com/images/I/71dUWMVi4lL._AC_SL1500_.jpg",
+    "preco": 528,
+    "preco_anterior": 929,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C4VJ5DCQ?tag=malica09-20",
+    "atualizado_em": "2026-10-27T20:56:21.857-03:00"
+  },
+  {
     "id": "amazon:B09F939W1R",
     "titulo": "Buba Garrafinha Dino Patinete 400 Ml Rosa : Amazon.com.br: Esporte",
     "imagem": "https://m.media-amazon.com/images/I/51iiKpay2dL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2heMSHE",
     "atualizado_em": "2026-10-26T08:57:07.401-03:00"
-  },
-  {
-    "id": "amazon:B093G83Q3P",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Jumbo M 28 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71OUTkqoiwL._AC_SL1500_.jpg",
-    "preco": 18.99,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093G83Q3P?tag=malica09-20",
-    "atualizado_em": "2026-10-26T08:48:59.340-03:00"
   }
 ]
