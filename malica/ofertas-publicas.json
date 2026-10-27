@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32469560",
+    "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Snug - Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904717-MLA99983919075_112025-F.jpg",
+    "preco": 478,
+    "preco_anterior": 799,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2g8E2T4",
+    "atualizado_em": "2026-10-27T09:14:17.356-03:00"
+  },
+  {
     "id": "amazon:B088P95YRD",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
