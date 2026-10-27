@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B088P95YRD",
+    "titulo": "Fralda Pampers Premium Care Pants Tamanho P, Fácil de Vestir, 40 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61LKL15Bt2L._AC_SL1500_.jpg",
+    "preco": 61,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B088P95YRD?tag=malica09-20",
+    "atualizado_em": "2026-10-27T09:06:11.372-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75055608",
     "titulo": "Kit Roupinha Bebê Reborn Menina Mamãe Reborn 10 Peças",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_821754-MLA118056798797_092026-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GTN3CDWG?tag=malica09-20",
     "atualizado_em": "2026-10-25T21:08:28.502-03:00"
-  },
-  {
-    "id": "shopee:575397523.51106656675",
-    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lp-mr7565zwc4xxae",
-    "preco": 29.9,
-    "preco_anterior": 49.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qO7ruczV8",
-    "atualizado_em": "2026-10-25T21:00:24.424-03:00"
   }
 ]
