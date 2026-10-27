@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07G8QLGSR",
+    "titulo": "Esterilizador De Microondas para Mamadeiras Bicos e Chupetas Philips Avent Azul/Branco : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51UOsl4f9jL._AC_SL1500_.jpg",
+    "preco": 159,
+    "preco_anterior": 259,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07G8QLGSR?tag=malica09-20",
+    "atualizado_em": "2026-10-26T21:08:37.023-03:00"
+  },
+  {
     "id": "amazon:B08LK15F8N",
     "titulo": "Granado Sabonete Líquido Bebê, Tradicional, 500ml",
     "imagem": "https://m.media-amazon.com/images/I/51EXy5ZJQSL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fiKqUTej8",
     "atualizado_em": "2026-10-25T09:10:49.197-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB30018475",
-    "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
-    "preco": 46.59,
-    "preco_anterior": 77.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1XkBdfZ",
-    "atualizado_em": "2026-10-25T09:02:44.136-03:00"
   }
 ]
