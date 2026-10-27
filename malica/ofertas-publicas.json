@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07D2FSCN5",
+    "titulo": "Lenços Umedecidos Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51bRlqUJR7L._AC_SL1500_.jpg",
+    "preco": 14,
+    "preco_anterior": 35,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07D2FSCN5?tag=malica09-20",
+    "atualizado_em": "2026-10-26T21:16:41.391-03:00"
+  },
+  {
     "id": "amazon:B07G8QLGSR",
     "titulo": "Esterilizador De Microondas para Mamadeiras Bicos e Chupetas Philips Avent Azul/Branco : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51UOsl4f9jL._AC_SL1500_.jpg",
