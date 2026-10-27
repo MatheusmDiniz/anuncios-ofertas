@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07X4GVF9H",
+    "titulo": "Fralda Pampers Supersequinha Tamanho G 80 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61A0SW8AHKL._AC_SL1500_.jpg",
+    "preco": 76,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07X4GVF9H?tag=malica09-20",
+    "atualizado_em": "2026-10-27T12:39:50.895-03:00"
+  },
+  {
     "id": "shopee:1838770840.58265197313",
     "titulo": "Kit Raquete Frescobol Bateu Colou Peteca Tênis C/ Bolinha Bate Gruda Binquedo Menino e Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mr85lot3rtacc0",
