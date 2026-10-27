@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDV1QKW7",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXG 148 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71x+xGjgeyL._AC_SL1500_.jpg",
+    "preco": 195,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDV1QKW7?tag=malica09-20",
+    "atualizado_em": "2026-10-27T10:05:31.237-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56117350",
     "titulo": "Boné New Era Aba Curva 940 Ny Yankees Preto Unissex Classico Tamanho Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_640680-MLA99979796829_112025-F.jpg",
