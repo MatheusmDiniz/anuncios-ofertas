@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHQZPZV",
+    "titulo": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g | Proteção Diária, Alivia Irritações, Hipoalergênico, Com Aloe Vera e Vitamina E",
+    "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
+    "preco": 33.15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHQZPZV?tag=malica09-20",
+    "atualizado_em": "2026-10-27T08:33:49.971-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26693140",
     "titulo": "Berço Meu Soninho P/ Boneca Infantil - Monte Líbano",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_823917-MLA107376783562_032026-F.jpg",
