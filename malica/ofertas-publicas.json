@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09F939W1R",
+    "titulo": "Buba Garrafinha Dino Patinete 400 Ml Rosa : Amazon.com.br: Esporte",
+    "imagem": "https://m.media-amazon.com/images/I/51iiKpay2dL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09F939W1R?tag=malica09-20",
+    "atualizado_em": "2026-10-27T20:48:15.821-03:00"
+  },
+  {
     "id": "amazon:B0B91WQ41J",
     "titulo": "Hidratante Corporal Neutrogena Norwegian Intensivo, Sem Perfume, 400ml | Hipoalergênico, Hidratação Duradoura, Pele Suave e Macia",
     "imagem": "https://m.media-amazon.com/images/I/51QVGUU-eML._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B093G83Q3P?tag=malica09-20",
     "atualizado_em": "2026-10-26T08:48:59.340-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24647478",
-    "titulo": "Andador Bebe Carrinho Infantil Treina Equilíbrio Zippy Toys Cor Vermelho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950359-MLA99487901484_112025-F.jpg",
-    "preco": 111.99,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/13QLwJU",
-    "atualizado_em": "2026-10-26T08:40:54.351-03:00"
   }
 ]
