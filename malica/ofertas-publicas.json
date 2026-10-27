@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08JQND4NB",
+    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
+    "imagem": "https://m.media-amazon.com/images/I/6188eXfX50L._AC_SL1500_.jpg",
+    "preco": 13,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08JQND4NB?tag=malica09-20",
+    "atualizado_em": "2026-10-26T21:24:45.321-03:00"
+  },
+  {
     "id": "amazon:B07D2FSCN5",
     "titulo": "Lenços Umedecidos Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51bRlqUJR7L._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1BNNYv5Sgc",
     "atualizado_em": "2026-10-25T09:27:02.306-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB66194128",
-    "titulo": "Baby Brink Boneca Emilly Vick Dos Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705150-MLA116500653536_092026-F.jpg",
-    "preco": 145.73,
-    "preco_anterior": 269.87,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZujsJg",
-    "atualizado_em": "2026-10-25T09:18:56.734-03:00"
   }
 ]
