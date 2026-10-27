@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GR4CCDFP",
+    "titulo": "Oferta: Grade para Cachorros Retrátil, Cercado para Cachorros em Tela de Proteção, Portão de Segurança para Bebês e Pets, Fácil Instalação para Portas, Corredores, Escadas e Varandas(Preto-70 * 110)",
+    "imagem": "https://m.media-amazon.com/images/I/810z9WRIbRL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GR4CCDFP?tag=malica09-20",
+    "atualizado_em": "2026-10-26T21:57:29.941-03:00"
+  },
+  {
     "id": "amazon:B096YLZNHV",
     "titulo": "Burigotto Kit Banho Branco",
     "imagem": "https://m.media-amazon.com/images/I/61u6+HmvidS._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9Kj61QaMdh",
     "atualizado_em": "2026-10-25T09:59:25.178-03:00"
-  },
-  {
-    "id": "shopee:823578007.21399249090",
-    "titulo": "Kit Bota Feminina Infantil E Bolsa Infantil Menina Blogueira",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lv0pm7tgg2hp56",
-    "preco": 58.04,
-    "preco_anterior": 120.92,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3VlJ4hWJFE",
-    "atualizado_em": "2026-10-25T09:51:18.921-03:00"
   }
 ]
