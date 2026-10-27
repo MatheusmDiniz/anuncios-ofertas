@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00EIMPZ1A",
+    "titulo": "Cotonetes de Algodão com Hastes Flexíveis, Pote com 150 Unidades : Amazon.com.br: Beleza",
+    "imagem": "https://m.media-amazon.com/images/I/61MuO8uChZL._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00EIMPZ1A?tag=malica09-20",
+    "atualizado_em": "2026-10-27T18:54:46.759-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26681965",
     "titulo": "Mordedor Bebê Macio Resfriável C/ Agua Macaco Gelado Buba Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_780169-MLA100044378955_122025-F.jpg",
