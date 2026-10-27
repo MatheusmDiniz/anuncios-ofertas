@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75055608",
+    "titulo": "Kit Roupinha Bebê Reborn Menina Mamãe Reborn 10 Peças",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_821754-MLA118056798797_092026-F.jpg",
+    "preco": 78.9,
+    "preco_anterior": 156.43,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BhqxQH",
+    "atualizado_em": "2026-10-27T08:58:06.741-03:00"
+  },
+  {
     "id": "amazon:B07J68SZ66",
     "titulo": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71t1HubAW5L._AC_SL1500_.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qO7ruczV8",
     "atualizado_em": "2026-10-25T21:00:24.424-03:00"
-  },
-  {
-    "id": "shopee:341167297.47453028150",
-    "titulo": "Conjunto de Bebê Menino Liso Masculino Roupa de Bebê Menino Básico Minimalista Roupa Conjuntinho infantil Masculino l05",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi6dsu8bxukj0c",
-    "preco": 19.99,
-    "preco_anterior": 49.97,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7AeZq1zpit",
-    "atualizado_em": "2026-10-25T20:52:17.869-03:00"
   }
 ]
