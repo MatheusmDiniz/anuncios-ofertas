@@ -1408,25 +1408,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08WCRNGSC?tag=malica09-20",
     "atualizado_em": "2026-10-25T17:03:55.754-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB75956946",
-    "titulo": "Suporte de Banho para Bebê Ajustável Nautilus Ocean Azul, Torre Segura para Chuveiro e Banheira",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963256-MLA113993552578_072026-F.jpg",
-    "preco": 184.2,
-    "preco_anterior": 419.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fGzMdL",
-    "atualizado_em": "2026-10-25T16:55:50.360-03:00"
-  },
-  {
-    "id": "amazon:B09WTJ7NN8",
-    "titulo": "Oferta: BUBA Colher Dosadora Rosa",
-    "imagem": "https://m.media-amazon.com/images/I/51KQKblTHYL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09WTJ7NN8?tag=malica09-20",
-    "atualizado_em": "2026-10-25T16:47:41.853-03:00"
   }
 ]
