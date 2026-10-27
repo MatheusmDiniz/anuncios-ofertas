@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07J68SZ66",
+    "titulo": "Cremer Fralda Luxo Estampa Feminina Pc Com 5 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71t1HubAW5L._AC_SL1500_.jpg",
+    "preco": 6,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07J68SZ66?tag=malica09-20",
+    "atualizado_em": "2026-10-27T08:49:59.975-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54207427",
     "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - CINZA",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_865878-MLA95693182272_102025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7AeZq1zpit",
     "atualizado_em": "2026-10-25T20:52:17.869-03:00"
-  },
-  {
-    "id": "amazon:B086BVM3QD",
-    "titulo": "MamyPoko Fralda-Calça Dia&Noite P 46 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/711DZcFWQWL._AC_SL1500_.jpg",
-    "preco": 55.12,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B086BVM3QD?tag=malica09-20",
-    "atualizado_em": "2026-10-25T20:44:09.744-03:00"
   }
 ]
