@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB54207427",
+    "titulo": "Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby - CINZA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_865878-MLA95693182272_102025-F.jpg",
+    "preco": 300,
+    "preco_anterior": 549.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/298eJmt",
+    "atualizado_em": "2026-10-27T08:41:56.504-03:00"
+  },
+  {
     "id": "amazon:B07DHQZPZV",
     "titulo": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 57g | Proteção Diária, Alivia Irritações, Hipoalergênico, Com Aloe Vera e Vitamina E",
     "imagem": "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B086BVM3QD?tag=malica09-20",
     "atualizado_em": "2026-10-25T20:44:09.744-03:00"
-  },
-  {
-    "id": "shopee:391739739.9830388367",
-    "titulo": "Mochila Maternidade Bolsa Mamãe Bebê Multifunção",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbnb-lnu59twuc1wo61",
-    "preco": 27.55,
-    "preco_anterior": 70.64,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1qd5qd5Gvq",
-    "atualizado_em": "2026-10-25T20:36:05.318-03:00"
   }
 ]
