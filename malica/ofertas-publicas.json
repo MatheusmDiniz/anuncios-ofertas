@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08NQNXMPL",
+    "titulo": "Mustela Gel Lavante Suave 500ml Sabonete Líquido Corpo e Cabelo Infantil",
+    "imagem": "https://m.media-amazon.com/images/I/51YVzVZI1sL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=malica09-20",
+    "atualizado_em": "2026-10-27T09:22:22.029-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB32469560",
     "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Snug - Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_904717-MLA99983919075_112025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076PPQBDX?tag=malica09-20",
     "atualizado_em": "2026-10-25T21:24:39.043-03:00"
-  },
-  {
-    "id": "amazon:B078YCQZ6T",
-    "titulo": "Detergente Líquido Concentrado para Roupas de Bebê e Criança, Vegano, Hipoalergênico, Contém Óleo de Coco, Fragrância Suave, Amacia e Preserva Cores, até 20 Lavadas – Lava-Roupinhas 500ml BioClub : Am",
-    "imagem": "https://m.media-amazon.com/images/I/51DitCUuOAL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B078YCQZ6T?tag=malica09-20",
-    "atualizado_em": "2026-10-25T21:16:33.942-03:00"
   }
 ]
