@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GT2CBBBR",
+    "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71ybDaoMvSL._AC_SL1500_.jpg",
+    "preco": 55,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=malica09-20",
+    "atualizado_em": "2026-10-26T21:32:48.927-03:00"
+  },
+  {
     "id": "amazon:B08JQND4NB",
     "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
     "imagem": "https://m.media-amazon.com/images/I/6188eXfX50L._AC_SL1500_.jpg",
