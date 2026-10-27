@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GMJVXT2K",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61TqADalesL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GMJVXT2K?tag=malica09-20",
+    "atualizado_em": "2026-10-27T10:21:45.539-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45262394",
     "titulo": "Esterilizador Mamadeira Branco e Aquecedor de Leite Bebê Automático",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_716121-MLA99963119253_112025-F.jpg",
