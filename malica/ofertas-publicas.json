@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63775160",
+    "titulo": "Tapete Bebê Atividades Musical com Piano Interativo Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818318-MLA114777987136_082026-F.jpg",
+    "preco": 100.65,
+    "preco_anterior": 178.28,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2s6SAaX",
+    "atualizado_em": "2026-10-27T20:32:05.990-03:00"
+  },
+  {
     "id": "amazon:B099KTC5VJ",
     "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08K4L37HD?tag=malica09-20",
     "atualizado_em": "2026-10-26T08:32:45.714-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69043942",
-    "titulo": "Cadeira De Refeição Portátil Para Bebê Alimentação Infantil Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980470-MLA110226822348_052026-F.jpg",
-    "preco": 188,
-    "preco_anterior": 369.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2rV82nZ",
-    "atualizado_em": "2026-10-26T08:24:40.054-03:00"
   }
 ]
