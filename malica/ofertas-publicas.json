@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FXN957HN",
+    "titulo": "Quadrados de Algodão Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/71E0IT0EZgL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
+    "atualizado_em": "2026-10-27T09:38:34.679-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB38626962",
     "titulo": "Cadeira de Descanso e Balanço Bebê Musical Funtime Maxi Baby Baxter Esquilo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_790599-MLA109754059317_032026-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30p0sNgABv",
     "atualizado_em": "2026-10-25T21:40:59.750-03:00"
-  },
-  {
-    "id": "shopee:1542191566.45115032491",
-    "titulo": "Conjunto Bebê Menino Jardineira Bordada + Camiseta Listrada Manga Curta Masculino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr7pev3i1vk4c5",
-    "preco": 41.92,
-    "preco_anterior": 59.89,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7faqQwxvi2",
-    "atualizado_em": "2026-10-25T21:32:51.916-03:00"
   }
 ]
