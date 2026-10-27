@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CB716LLZ",
+    "titulo": "Hidratante Facial Neutrogena Hydro Boost Water Gel, Refil, 50g | Controle de Oleosidade, Textura Ultraleve, Hidratação Intensa e Prolongada",
+    "imagem": "https://m.media-amazon.com/images/I/61ftpr2TpXL._AC_SL1500_.jpg",
+    "preco": 29,
+    "preco_anterior": 69,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CB716LLZ?tag=malica09-20",
+    "atualizado_em": "2026-10-27T19:51:33.393-03:00"
+  },
+  {
     "id": "amazon:B079VVY5FG",
     "titulo": "Protetor Solar Corporal em Loção Neutrogena Sun Fresh, FPS 70, 200ml | Embalagem família",
     "imagem": "https://m.media-amazon.com/images/I/51MhSVQucUL._AC_SL1500_.jpg",
