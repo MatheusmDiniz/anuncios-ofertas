@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB60230497",
+    "titulo": "Casa De Bonecas Mochilinha - Casinha Feliz Zoop Toys Zp01379",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952882-MLA120176791421_102026-F.jpg",
+    "preco": 276.45,
+    "preco_anterior": 516.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2g9PCEK",
+    "atualizado_em": "2026-10-27T15:30:30.174-03:00"
+  },
+  {
     "id": "amazon:B07X5KWJK9",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho XG, Fácil de Vestir, 64 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61E4OFmEC+L._AC_SL1500_.jpg",
