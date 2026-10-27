@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GSH6DCCJ",
+    "titulo": "Kit 10 Potes de Vidro Borossilicato 640ml Herméticos com 4 Travas Ideal para Marmitas e Conservação de Alimentos, Vedação Total, Refratário para Forno e Freezer",
+    "imagem": "https://m.media-amazon.com/images/I/71sfm0MbB8L._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=malica09-20",
+    "atualizado_em": "2026-10-26T21:40:52.882-03:00"
+  },
+  {
     "id": "amazon:B0GT2CBBBR",
     "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71ybDaoMvSL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q1l2ot5FO",
     "atualizado_em": "2026-10-25T09:43:13.394-03:00"
-  },
-  {
-    "id": "shopee:450822457.23598771618",
-    "titulo": "Conjunto Infantil Menina Regata Ribana e Short Saia Ana ruga Confortável e Estiloso",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyfjt8mzt3a18",
-    "preco": 29.99,
-    "preco_anterior": 59.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qVcHSZ2uE",
-    "atualizado_em": "2026-10-25T09:35:07.780-03:00"
   }
 ]
