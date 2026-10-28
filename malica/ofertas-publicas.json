@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09D5SNCM6",
+    "titulo": "Escova Dental Infantil Condor, Hotwheels",
+    "imagem": "https://m.media-amazon.com/images/I/61in-6RLZCL._AC_SL1500_.jpg",
+    "preco": 6,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09D5SNCM6?tag=malica09-20",
+    "atualizado_em": "2026-10-28T19:05:50.179-03:00"
+  },
+  {
     "id": "amazon:B0D5PKJQXZ",
     "titulo": "Playset Celebracao Festa No Sotao, Gabbys Dollhouse, Sunny",
     "imagem": "https://m.media-amazon.com/images/I/81sB5RbWVrL._AC_SL1500_.jpg",
