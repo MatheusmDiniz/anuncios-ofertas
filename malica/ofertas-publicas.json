@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07QZYWP6R",
+    "titulo": "Pratinho Bowl Animal Fun Girafa, Buba, Colorido : Amazon.com.br: Bebês",
+    "imagem": "https://m.media-amazon.com/images/I/51RJW9vFYFL._AC_SL1500_.jpg",
+    "preco": 8,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07QZYWP6R?tag=malica09-20",
+    "atualizado_em": "2026-10-28T17:11:56.873-03:00"
+  },
+  {
     "id": "amazon:B07DHSTTCN",
     "titulo": "Creme Preventivo de Assaduras para Bebês Desitin Creamy, 113g | Proteção Diária, Alivia Irritações, Hipoalergênico, Com Aloe Vera e Vitamina E",
     "imagem": "https://m.media-amazon.com/images/I/61SFbZ1eikL._AC_SL1500_.jpg",
