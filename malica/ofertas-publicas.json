@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00TAC05EA",
+    "titulo": "Granado Shampoo Bebê, Lavanda, 250ml",
+    "imagem": "https://m.media-amazon.com/images/I/51C6yHuVIKL._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00TAC05EA?tag=malica09-20",
+    "atualizado_em": "2026-10-28T17:28:07.749-03:00"
+  },
+  {
     "id": "amazon:B07MJZ74TS",
     "titulo": "Sabonete Líquido de Glicerina Johnson",
     "imagem": "https://m.media-amazon.com/images/I/51Mpgohw-eL._AC_SL1500_.jpg",
