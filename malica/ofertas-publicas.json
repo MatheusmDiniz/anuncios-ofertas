@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07GR5T4RF",
+    "titulo": "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
+    "imagem": "https://m.media-amazon.com/images/I/81XM69oIvoL._AC_SL1500_.jpg",
+    "preco": 65.99,
+    "preco_anterior": 113.25,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07GR5T4RF?tag=malica09-20",
+    "atualizado_em": "2026-10-28T18:25:04.013-03:00"
+  },
+  {
     "id": "amazon:B0848FMW1W",
     "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 124 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/610zsSAMtpL._AC_SL1500_.jpg",
