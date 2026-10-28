@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B7K738RQ",
+    "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
+    "atualizado_em": "2026-10-27T21:28:47.926-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24208936",
     "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1C6uK4V",
     "atualizado_em": "2026-10-26T09:29:29.397-03:00"
-  },
-  {
-    "id": "amazon:B09FFRMKNQ",
-    "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71sFW94e1IL._AC_SL1500_.jpg",
-    "preco": 189,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=malica09-20",
-    "atualizado_em": "2026-10-26T09:21:23.340-03:00"
   }
 ]
