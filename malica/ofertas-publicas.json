@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75522060",
+    "titulo": "Moisés Eliane Berço Bebê Portátil com Mosquiteiro e Co-sleeping Ajustável Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_930074-MLA113422054648_072026-F.jpg",
+    "preco": 426.41,
+    "preco_anterior": 1099,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2TYCsNY",
+    "atualizado_em": "2026-10-28T13:09:03.099-03:00"
+  },
+  {
     "id": "amazon:B093GBK61Q",
     "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega P 54 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71ncta4HE2L._AC_SL1500_.jpg",
