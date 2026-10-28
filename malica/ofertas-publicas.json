@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68758797",
+    "titulo": "Boné 9twenty Strapback Mlb New York Aba Curva Cor Preto/preto Tamanho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_689200-MLA110092972834_042026-F.jpg",
+    "preco": 129.99,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2wFZub5",
+    "atualizado_em": "2026-10-28T09:29:49.419-03:00"
+  },
+  {
     "id": "shopee:1361476561.19397991697",
     "titulo": "Saída de Maternidade Menino e Menina 5 Peças Para Bebê Recém Nascido, Malha Hipoalergênico 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-ms2017dkyayv00",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GT2CBBBR?tag=malica09-20",
     "atualizado_em": "2026-10-26T21:32:48.927-03:00"
-  },
-  {
-    "id": "amazon:B08JQND4NB",
-    "titulo": "Protex Baby Delicate Care Sabonete Líquido Infantil Refil, 380ml",
-    "imagem": "https://m.media-amazon.com/images/I/6188eXfX50L._AC_SL1500_.jpg",
-    "preco": 13,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08JQND4NB?tag=malica09-20",
-    "atualizado_em": "2026-10-26T21:24:45.321-03:00"
   }
 ]
