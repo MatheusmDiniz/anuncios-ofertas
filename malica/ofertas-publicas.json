@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73900526",
+    "titulo": "Colflex Whey Protein Baunilha 10 Sachês 20g De Proteína Baunilha",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
+    "preco": 84.39,
+    "preco_anterior": 149,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dmTSBy",
+    "atualizado_em": "2026-10-28T13:25:18.539-03:00"
+  },
+  {
     "id": "amazon:B095D5PSPG",
     "titulo": "Fralda Pampers Confort Sec Tamanho P 72 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61pYc6NhTXL._AC_SL1500_.jpg",
