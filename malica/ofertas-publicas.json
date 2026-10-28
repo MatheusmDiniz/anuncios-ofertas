@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DCWWYTS3",
+    "titulo": "Likluc Limpa Mamá lenços umedecidos para Amamentação : Amazon.com.br: Saúde e Bem-Estar",
+    "imagem": "https://m.media-amazon.com/images/I/61oAfY7YaFL._AC_SL1500_.jpg",
+    "preco": 24.03,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DCWWYTS3?tag=malica09-20",
+    "atualizado_em": "2026-10-28T08:33:02.062-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB42162531",
     "titulo": "Bicicleta de Equilíbrio Infantil Rosa 4 Rodas Sem Pedal Bebê MSP Kids, Primeira Bike para Criança a Partir de 1 Ano, Assento Ergonômico, Guidão Ajustável até 140°, Pneus em EVA e Aço Carbono",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_877618-MLA116755920479_082026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GJFW5FBQ?tag=malica09-20",
     "atualizado_em": "2026-10-26T20:36:22.313-03:00"
-  },
-  {
-    "id": "amazon:B08BCSWYJJ",
-    "titulo": "OMO Sabão Líquido Roupas Finas E Delicadas Bebê 900Ml",
-    "imagem": "https://m.media-amazon.com/images/I/61KfvT4q59L._AC_SL1500_.jpg",
-    "preco": 16,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08BCSWYJJ?tag=malica09-20",
-    "atualizado_em": "2026-10-26T20:28:12.651-03:00"
   }
 ]
