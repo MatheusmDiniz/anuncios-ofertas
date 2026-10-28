@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DDTZJP28",
+    "titulo": "Fralda Pampers Premium Care XXG - 112 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/718Dp2M-HzL._AC_SL1500_.jpg",
+    "preco": 193,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DDTZJP28?tag=malica09-20",
+    "atualizado_em": "2026-10-28T09:54:08.896-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25372096",
     "titulo": "Kit Cozinha Fogão Infantil De Brinquedo Completa Sai Água",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_837805-MLA114983480464_082026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GR4CCDFP?tag=malica09-20",
     "atualizado_em": "2026-10-26T21:57:29.941-03:00"
-  },
-  {
-    "id": "amazon:B096YLZNHV",
-    "titulo": "Burigotto Kit Banho Branco",
-    "imagem": "https://m.media-amazon.com/images/I/61u6+HmvidS._AC_SL1500_.jpg",
-    "preco": 219,
-    "preco_anterior": 355,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=malica09-20",
-    "atualizado_em": "2026-10-26T21:49:24.074-03:00"
   }
 ]
