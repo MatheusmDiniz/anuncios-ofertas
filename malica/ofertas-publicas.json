@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DXLQKPTM",
+    "titulo": "Mili Fralda Infantil Splash Pants Tamanho P e M, Para Piscina e Praia, Uso em Água, Ajuste Seguro, 10 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81e3tbSNsjL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DXLQKPTM?tag=malica09-20",
+    "atualizado_em": "2026-10-28T08:00:09.379-03:00"
+  },
+  {
     "id": "amazon:B0CZ9NMBNL",
     "titulo": "Australian Gold Promopack Protetor Solar Gel Creme Corporal/Facial FPS 50 200 G/ 50 G",
     "imagem": "https://m.media-amazon.com/images/I/71UeDGD-YkL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B077C4JWCK?tag=malica09-20",
     "atualizado_em": "2026-10-26T20:03:58.997-03:00"
-  },
-  {
-    "id": "amazon:B07GMCX7P4",
-    "titulo": "Fralda Pampers Confort Sec Tamanho P 50 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61d4XyvDRzL._AC_SL1500_.jpg",
-    "preco": 57,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GMCX7P4?tag=malica09-20",
-    "atualizado_em": "2026-10-26T19:55:54.918-03:00"
   }
 ]
