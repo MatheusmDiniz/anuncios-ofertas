@@ -1488,25 +1488,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07QVTFKL6?tag=malica09-20",
     "atualizado_em": "2026-10-26T15:52:21.697-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB70094874",
-    "titulo": "Carrinho Boneca Berço Plus Estampa Bolas Dm Toys Dmt6501",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_965627-MLA112010174279_052026-F.jpg",
-    "preco": 99.99,
-    "preco_anterior": 190,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1NVpFNA",
-    "atualizado_em": "2026-10-26T15:44:17.468-03:00"
-  },
-  {
-    "id": "amazon:B0BR17D4KF",
-    "titulo": "Kit Bebê Vida Macia: 1 Lava Roupas 1 litro + 1 Amaciante Camomila 1 litro + 1 Tira Manchas 500 ml",
-    "imagem": "https://m.media-amazon.com/images/I/51nxDgxsEWL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BR17D4KF?tag=malica09-20",
-    "atualizado_em": "2026-10-26T15:36:08.192-03:00"
   }
 ]
