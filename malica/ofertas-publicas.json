@@ -1538,25 +1538,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07XRPT1P4?tag=malica09-20",
     "atualizado_em": "2026-10-26T15:11:51.832-03:00"
-  },
-  {
-    "id": "amazon:B07GQ136TS",
-    "titulo": "Fralda Pampers Premium Care Tamanho P 40 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/618UVKgOQ1L._AC_SL1500_.jpg",
-    "preco": 54,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQ136TS?tag=malica09-20",
-    "atualizado_em": "2026-10-26T15:03:20.516-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB22621537",
-    "titulo": "Kit Creator 31134 Ônibus Espacial 144 Peças Lego",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_902000-MLA99475406048_112025-F.jpg",
-    "preco": 92.93,
-    "preco_anterior": 159.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2vFYhFZ",
-    "atualizado_em": "2026-10-26T14:55:15.511-03:00"
   }
 ]
