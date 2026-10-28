@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D84MB72K",
+    "titulo": "Pó Dermo Protetor Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41TMpXU3M2L._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D84MB72K?tag=malica09-20",
+    "atualizado_em": "2026-10-28T20:10:29.724-03:00"
+  },
+  {
     "id": "amazon:B08Y84BC8B",
     "titulo": "Mad. Memória - Patrulha Canina, Nig Brinquedos, Multicor",
     "imagem": "https://m.media-amazon.com/images/I/91poysI41VL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B06XK9H4PM?tag=malica09-20",
     "atualizado_em": "2026-10-27T08:17:11.327-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44958164",
-    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Cinza Cor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_627665-MLA113620705920_072026-F.jpg",
-    "preco": 198.9,
-    "preco_anterior": 350,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Jw2wPh",
-    "atualizado_em": "2026-10-27T08:08:42.339-03:00"
   }
 ]
