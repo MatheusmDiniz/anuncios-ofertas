@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW42XD6C",
+    "titulo": "Fralda Pampers Confort Sec Tamanho XXXG, 70 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71OdgtPRJKL._AC_SL1500_.jpg",
+    "preco": 104,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW42XD6C?tag=malica09-20",
+    "atualizado_em": "2026-10-28T15:02:33.783-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77311383",
     "titulo": "Mochila Maternidade NTESX com Trocador, Térmica e Impermeável Azul-Marinho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_611530-MLA116251507724_092026-F.jpg",
