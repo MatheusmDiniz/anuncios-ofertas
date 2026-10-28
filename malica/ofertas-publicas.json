@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24088411",
+    "titulo": "Motoca Azul Cardoso Totokinha Infantil com Som e Formas Geométricas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745191-MLA113350901917_062026-F.jpg",
+    "preco": 119.9,
+    "preco_anterior": 222.93,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kiJy46",
+    "atualizado_em": "2026-10-28T08:57:23.194-03:00"
+  },
+  {
     "id": "amazon:B07D2FKWBT",
     "titulo": "Sabonete Líquido Johnson",
     "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08LK15F8N?tag=malica09-20",
     "atualizado_em": "2026-10-26T21:00:33.917-03:00"
-  },
-  {
-    "id": "amazon:B0G1C7HPZJ",
-    "titulo": "Andador Empurrador Infantil Musical Educativo Rosa Yuupi",
-    "imagem": "https://m.media-amazon.com/images/I/6110Vxa56YL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0G1C7HPZJ?tag=malica09-20",
-    "atualizado_em": "2026-10-26T20:52:30.514-03:00"
   }
 ]
