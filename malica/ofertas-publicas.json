@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB76312234",
+    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
+    "preco": 189.9,
+    "preco_anterior": 319.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1jXU5Dp",
+    "atualizado_em": "2026-10-28T08:41:10.037-03:00"
+  },
+  {
     "id": "amazon:B0DCWWYTS3",
     "titulo": "Likluc Limpa Mamá lenços umedecidos para Amamentação : Amazon.com.br: Saúde e Bem-Estar",
     "imagem": "https://m.media-amazon.com/images/I/61oAfY7YaFL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GVLRKHVJ?tag=malica09-20",
     "atualizado_em": "2026-10-26T20:44:26.030-03:00"
-  },
-  {
-    "id": "amazon:B0GJFW5FBQ",
-    "titulo": "Andador Empurrador Infantil Musical Educativo Azul Yuupi",
-    "imagem": "https://m.media-amazon.com/images/I/61DYbOZNYTL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GJFW5FBQ?tag=malica09-20",
-    "atualizado_em": "2026-10-26T20:36:22.313-03:00"
   }
 ]
