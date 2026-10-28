@@ -1378,25 +1378,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0F56WW6Q3?tag=malica09-20",
     "atualizado_em": "2026-10-26T17:21:37.829-03:00"
-  },
-  {
-    "id": "amazon:B0CCF1WTB1",
-    "titulo": "Fralda Babysec Premium Hiper XG 56 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61J7H48T91L._AC_SL1500_.jpg",
-    "preco": 67,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CCF1WTB1?tag=malica09-20",
-    "atualizado_em": "2026-10-26T17:13:33.200-03:00"
-  },
-  {
-    "id": "amazon:B0B3S9QWQY",
-    "titulo": "Shampoo Infantil Sono Tranquilo 400ml – Baruel Baby",
-    "imagem": "https://m.media-amazon.com/images/I/71o-ri-s-FL._AC_SL1500_.jpg",
-    "preco": 14,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B3S9QWQY?tag=malica09-20",
-    "atualizado_em": "2026-10-26T17:05:28.517-03:00"
   }
 ]
