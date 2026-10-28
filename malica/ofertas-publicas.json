@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0D8JVBSD7",
+    "titulo": "Oferta: Kit de Viagem para Bebê Granado, 60ml, Kit com 4 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81oF0ggfvNL._AC_SL1500_.jpg",
+    "preco": 56,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0D8JVBSD7?tag=malica09-20",
+    "atualizado_em": "2026-10-28T19:30:03.768-03:00"
+  },
+  {
     "id": "amazon:B077BY84XX",
     "titulo": "Sabonete Líquido de Glicerina Johnson",
     "imagem": "https://m.media-amazon.com/images/I/41CGJiuDeKL._AC_SL1500_.jpg",
