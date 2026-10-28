@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53778622",
+    "titulo": "Cadeira De Alimentação Infantil 3 Em 1 Harmony Maxi Baby - Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924822-MLA99991266225_112025-F.jpg",
+    "preco": 252,
+    "preco_anterior": 449.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qygtod",
+    "atualizado_em": "2026-10-28T15:35:02.760-03:00"
+  },
+  {
     "id": "amazon:B0CDHRJR8N",
     "titulo": "Protetor Solar Corporal Anasol, FPS 50, 120g, Kit com 2 Unidades | Versão Kids, 100g",
     "imagem": "https://m.media-amazon.com/images/I/6118QwP0eTL._AC_SL1500_.jpg",
