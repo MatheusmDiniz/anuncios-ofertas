@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09WT4NCD5",
+    "titulo": "AQUI AS MAMÃES ECONOMIZAM",
+    "imagem": "https://m.media-amazon.com/images/I/51ommYaOL8L._AC_SL1500_.jpg",
+    "preco": 89,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09WT4NCD5?tag=malica09-20",
+    "atualizado_em": "2026-10-28T15:18:48.962-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77171248",
     "titulo": "Penico Dobrável LEDTECH com Tampa Para Bebês de 1 a 3 Anos, Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962384-MLA114689625204_082026-F.jpg",
