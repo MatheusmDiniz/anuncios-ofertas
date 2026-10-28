@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z55NZ7G",
+    "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
+    "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
+    "preco": 11,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
+    "atualizado_em": "2026-10-28T14:05:52.712-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70077181",
     "titulo": "Berço De Boneca Bercinho E Caminha 55cm Brinquedo Infantil Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_987921-MLA114257103599_072026-F.jpg",
