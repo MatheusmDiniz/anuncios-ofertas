@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0F4KXTCFT",
+    "titulo": "Creme Preventivo de Assaduras Desitin Creamy, Kit com 3 Unidades 113g | Proteção Diária, Hipoalergênico",
+    "imagem": "https://m.media-amazon.com/images/I/71k9xm1E0gL._AC_SL1500_.jpg",
+    "preco": 131,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0F4KXTCFT?tag=malica09-20",
+    "atualizado_em": "2026-10-27T21:44:57.033-03:00"
+  },
+  {
     "id": "amazon:B07Z9SRGSK",
     "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec G 60 Und",
     "imagem": "https://m.media-amazon.com/images/I/51jr9zfbKkL._AC_SL1500_.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7Aed2L53EB",
     "atualizado_em": "2026-10-26T09:45:40.181-03:00"
-  },
-  {
-    "id": "amazon:B07D2FXHM1",
-    "titulo": "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
-    "imagem": "https://m.media-amazon.com/images/I/51kcPBSuPRL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FXHM1?tag=malica09-20",
-    "atualizado_em": "2026-10-26T09:37:34.706-03:00"
   }
 ]
