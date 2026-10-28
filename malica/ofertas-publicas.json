@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB42162531",
+    "titulo": "Bicicleta de Equilíbrio Infantil Rosa 4 Rodas Sem Pedal Bebê MSP Kids, Primeira Bike para Criança a Partir de 1 Ano, Assento Ergonômico, Guidão Ajustável até 140°, Pneus em EVA e Aço Carbono",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877618-MLA116755920479_082026-F.jpg",
+    "preco": 76.53,
+    "preco_anterior": 186.75,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/19WkQtU",
+    "atualizado_em": "2026-10-28T08:24:55.728-03:00"
+  },
+  {
     "id": "amazon:B0GRJ9XVHD",
     "titulo": "Likluc Xô Bactéria 0+ Higienizador antisséptico para bebês! | Mata 99,9% das Bactérias e Virus",
     "imagem": "https://m.media-amazon.com/images/I/81+nmn4gH1L._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08BCSWYJJ?tag=malica09-20",
     "atualizado_em": "2026-10-26T20:28:12.651-03:00"
-  },
-  {
-    "id": "amazon:B0DJBVL2S5",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61BvTWZgpiL._AC_SL1500_.jpg",
-    "preco": 24,
-    "preco_anterior": 44,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DJBVL2S5?tag=malica09-20",
-    "atualizado_em": "2026-10-26T20:20:08.776-03:00"
   }
 ]
