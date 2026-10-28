@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHR9LSK",
+    "titulo": "Shampoo Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/61RkZv8wVnL._AC_SL1500_.jpg",
+    "preco": 16,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHR9LSK?tag=malica09-20",
+    "atualizado_em": "2026-10-28T15:59:15.622-03:00"
+  },
+  {
     "id": "amazon:B072MTS8VQ",
     "titulo": "Hidratante e Calmante sem Fragrância para Pele Muito Sensível/Sensibilizada dos Bebês e Crianças, Mustela Bebê, Rosa, Médio/200 ml : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51OPWF9W34L._AC_SL1500_.jpg",
