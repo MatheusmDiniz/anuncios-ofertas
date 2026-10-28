@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B077BY84XX",
+    "titulo": "Sabonete Líquido de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/41CGJiuDeKL._AC_SL1500_.jpg",
+    "preco": 20,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=malica09-20",
+    "atualizado_em": "2026-10-28T19:21:58.665-03:00"
+  },
+  {
     "id": "amazon:B0C2VWQZS6",
     "titulo": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
     "imagem": "https://m.media-amazon.com/images/I/51cn8KjV74L._AC_SL1500_.jpg",
