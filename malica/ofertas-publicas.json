@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CJCKRYLP",
+    "titulo": "Huggies Fralda Proteção Dia Tam. G - 52 fraldas",
+    "imagem": "https://m.media-amazon.com/images/I/61lyQc+SppL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CJCKRYLP?tag=malica09-20",
+    "atualizado_em": "2026-10-28T18:49:42.945-03:00"
+  },
+  {
     "id": "amazon:B08K2YFNDW",
     "titulo": "Graco Carrinho de Bebê Gêmeos Passeio Ready2Grow LX 2.0 CZ",
     "imagem": "https://m.media-amazon.com/images/I/81t37GPlaML._AC_SL1500_.jpg",
