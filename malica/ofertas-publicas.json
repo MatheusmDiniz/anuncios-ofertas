@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0CTD3QXV6",
+    "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
+    "imagem": "https://m.media-amazon.com/images/I/71SiuUhmYML._AC_SL1500_.jpg",
+    "preco": 10,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=malica09-20",
+    "atualizado_em": "2026-10-28T19:38:09.130-03:00"
+  },
+  {
     "id": "amazon:B0D8JVBSD7",
     "titulo": "Oferta: Kit de Viagem para Bebê Granado, 60ml, Kit com 4 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/81oF0ggfvNL._AC_SL1500_.jpg",
