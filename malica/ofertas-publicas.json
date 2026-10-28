@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B08YZGMQ3S",
+    "titulo": "Hidratante Corporal Neutrogena Body Care Hidrata&Repara, 400ml | Aroma Aloe Vera",
+    "imagem": "https://m.media-amazon.com/images/I/610R32koMDL._AC_SL1500_.jpg",
+    "preco": 22,
+    "preco_anterior": 49,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=malica09-20",
+    "atualizado_em": "2026-10-28T14:22:04.634-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB80306438",
     "titulo": "Cadeira de Descanso Balanço Bebe AMR-7315 Musical L'AMOR Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_993575-MLA117363968210_102026-F.jpg",
