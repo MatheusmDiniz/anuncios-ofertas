@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BFXGY9B7",
+    "titulo": "Fralda Descartável Huggies, Tamanho XXG, 140 Unidades | Tecnologia Xtra-Flex, Canais em X adaptáveis aos movimentos",
+    "imagem": "https://m.media-amazon.com/images/I/81Dy1eSI63L._AC_SL1500_.jpg",
+    "preco": 186,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BFXGY9B7?tag=malica09-20",
+    "atualizado_em": "2026-10-28T13:49:36.495-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34207405",
     "titulo": "Buba Pop-up Brinquedo Infantil Pop-up Zoo Animais Multicor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_672818-MLA99945397375_112025-F.jpg",
