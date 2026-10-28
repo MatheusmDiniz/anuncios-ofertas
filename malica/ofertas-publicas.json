@@ -1688,25 +1688,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B088P83FTR?tag=malica09-20",
     "atualizado_em": "2026-10-26T13:09:12.601-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536230",
-    "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
-    "preco": 499.99,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Yxw62X",
-    "atualizado_em": "2026-10-26T13:01:06.641-03:00"
-  },
-  {
-    "id": "amazon:B0DVTBWQ8Q",
-    "titulo": "Shampoo e Condicionador 2 em 1 Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1500_.jpg",
-    "preco": 29.44,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=malica09-20",
-    "atualizado_em": "2026-10-26T12:52:59.110-03:00"
   }
 ]
