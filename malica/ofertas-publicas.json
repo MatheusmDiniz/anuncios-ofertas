@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00BWKNOGE",
+    "titulo": "Tartaruga de Empurrar Brinquedo Bebês Fisher-Price",
+    "imagem": "https://m.media-amazon.com/images/I/51-yUOFPWzL._AC_SL1500_.jpg",
+    "preco": 52,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00BWKNOGE?tag=malica09-20",
+    "atualizado_em": "2026-10-28T17:52:47.023-03:00"
+  },
+  {
     "id": "amazon:B08287SRQ9",
     "titulo": "Pais E Filhos Pais & Filhos Mordedor Meu Controle Multi-Colored Tamanho Único",
     "imagem": "https://m.media-amazon.com/images/I/51rKJPLGn+L._AC_SL1500_.jpg",
