@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25372096",
+    "titulo": "Kit Cozinha Fogão Infantil De Brinquedo Completa Sai Água",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_837805-MLA114983480464_082026-F.jpg",
+    "preco": 106.99,
+    "preco_anterior": 229.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/18dESHr",
+    "atualizado_em": "2026-10-28T09:46:06.412-03:00"
+  },
+  {
     "id": "shopee:1700242901.58264520528",
     "titulo": "Kit 6 Peças Roupa De Bebê Body Menino Animado Estampado Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrwueepou8sn74",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B096YLZNHV?tag=malica09-20",
     "atualizado_em": "2026-10-26T21:49:24.074-03:00"
-  },
-  {
-    "id": "amazon:B0GSH6DCCJ",
-    "titulo": "Kit 10 Potes de Vidro Borossilicato 640ml Herméticos com 4 Travas Ideal para Marmitas e Conservação de Alimentos, Vedação Total, Refratário para Forno e Freezer",
-    "imagem": "https://m.media-amazon.com/images/I/71sfm0MbB8L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GSH6DCCJ?tag=malica09-20",
-    "atualizado_em": "2026-10-26T21:40:52.882-03:00"
   }
 ]
