@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MJZ74TS",
+    "titulo": "Sabonete Líquido de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/51Mpgohw-eL._AC_SL1500_.jpg",
+    "preco": 49,
+    "preco_anterior": 78,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MJZ74TS?tag=malica09-20",
+    "atualizado_em": "2026-10-28T17:20:02.314-03:00"
+  },
+  {
     "id": "amazon:B07QZYWP6R",
     "titulo": "Pratinho Bowl Animal Fun Girafa, Buba, Colorido : Amazon.com.br: Bebês",
     "imagem": "https://m.media-amazon.com/images/I/51RJW9vFYFL._AC_SL1500_.jpg",
