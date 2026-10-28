@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B00TQCAAQW",
+    "titulo": "Mustela Creme Preventivo de Assaduras Vitaminado 1-2-3 108g - Pomada Antiassaduras para Bebês com Tripla Ação - 98% de Ingredientes de Origem Natural - Proteção e Hidratação",
+    "imagem": "https://m.media-amazon.com/images/I/51kbhWXRwpS._AC_SL1500_.jpg",
+    "preco": 83,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B00TQCAAQW?tag=malica09-20",
+    "atualizado_em": "2026-10-28T09:05:28.789-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24088411",
     "titulo": "Motoca Azul Cardoso Totokinha Infantil com Som e Formas Geométricas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745191-MLA113350901917_062026-F.jpg",
