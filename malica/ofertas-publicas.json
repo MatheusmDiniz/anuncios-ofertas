@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BDMQCYJV",
+    "titulo": "Buba Pote Térmico Com Colher Rosa",
+    "imagem": "https://m.media-amazon.com/images/I/51ZA7aA8j1L._AC_SL1500_.jpg",
+    "preco": 68,
+    "preco_anterior": 147,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BDMQCYJV?tag=malica09-20",
+    "atualizado_em": "2026-10-29T15:44:40.551-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28487537",
     "titulo": "Berço Sonata Cor Cinza - Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
