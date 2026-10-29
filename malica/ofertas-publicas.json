@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 169,
+    "preco_anterior": 349,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1cfR6Sd",
+    "atualizado_em": "2026-10-29T20:29:31.857-03:00"
+  },
+  {
     "id": "amazon:B0D3VD54HM",
     "titulo": "Oferta: Pais & Filhos | Jogo da Memória Patrulha Canina com 52 Cartas | Brinquedo Educativo +3 Anos | Desenvolve Memória e Concentração",
     "imagem": "https://m.media-amazon.com/images/I/815V5azf6FL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DCWWYTS3?tag=malica09-20",
     "atualizado_em": "2026-10-28T08:33:02.062-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB42162531",
-    "titulo": "Bicicleta de Equilíbrio Infantil Rosa 4 Rodas Sem Pedal Bebê MSP Kids, Primeira Bike para Criança a Partir de 1 Ano, Assento Ergonômico, Guidão Ajustável até 140°, Pneus em EVA e Aço Carbono",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877618-MLA116755920479_082026-F.jpg",
-    "preco": 76.53,
-    "preco_anterior": 186.75,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/19WkQtU",
-    "atualizado_em": "2026-10-28T08:24:55.728-03:00"
   }
 ]
