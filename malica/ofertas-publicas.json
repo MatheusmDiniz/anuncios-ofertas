@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0B1GZMBR1",
+    "titulo": "Fralda Babysec Galinha Pintadinha Ultrasec, Tamanho XXG, 48 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71RFSrWVCPL._AC_SL1500_.jpg",
+    "preco": 48,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0B1GZMBR1?tag=malica09-20",
+    "atualizado_em": "2026-10-29T11:56:07.649-03:00"
+  },
+  {
     "id": "shopee:676741860.15350630338",
     "titulo": "Short Saia Infantil Tendência Escolar",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mnnf2u1q0wshc6",
