@@ -1548,25 +1548,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X83FF8M?tag=malica09-20",
     "atualizado_em": "2026-10-27T15:05:41.758-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24853515",
-    "titulo": "Gazin Supreme Cor Branco Colchão Espuma Para Berço Baby D18",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839681-MLA100005512547_122025-F.jpg",
-    "preco": 99,
-    "preco_anterior": 299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1idZTCr",
-    "atualizado_em": "2026-10-27T14:57:38.044-03:00"
-  },
-  {
-    "id": "amazon:B07X83MH7M",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho G, Fácil de Vestir, 68 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61Wl8dMHuyL._AC_SL1500_.jpg",
-    "preco": 89.2,
-    "preco_anterior": 151.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X83MH7M?tag=malica09-20",
-    "atualizado_em": "2026-10-27T14:49:30.146-03:00"
   }
 ]
