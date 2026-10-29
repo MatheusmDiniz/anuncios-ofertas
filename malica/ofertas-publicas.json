@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09BBDVPB1",
+    "titulo": "MamyPoko Lenços Umedecidos Dia&Noite 200 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/81LbIKRgAqL._AC_SL1500_.jpg",
+    "preco": 28,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09BBDVPB1?tag=malica09-20",
+    "atualizado_em": "2026-10-29T18:27:32.503-03:00"
+  },
+  {
     "id": "amazon:B0DS6HRGFF",
     "titulo": "Oferta: Carrinho de Bebê Passeio Com Alça Reversível YouGo Maxi Baby (Cinza)",
     "imagem": "https://m.media-amazon.com/images/I/51Q8ZhEzdvL._AC_SL1500_.jpg",
