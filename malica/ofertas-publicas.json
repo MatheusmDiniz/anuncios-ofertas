@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0FWRYRGRF",
+    "titulo": "Oferta: Aspirador Nasal Infantil com Ponta de Silicone, Seringa Lavadora para Bebês, Kit de Limpeza Nasal",
+    "imagem": "https://m.media-amazon.com/images/I/61yVCnaXWWL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0FWRYRGRF?tag=malica09-20",
+    "atualizado_em": "2026-10-29T08:33:25.444-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB80306435",
     "titulo": "Cadeira de Descanso L'Amor Elétrica com Vibração e Brinquedos para Bebê Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_776573-MLA118960001587_102026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B91WQ41J?tag=malica09-20",
     "atualizado_em": "2026-10-27T20:40:10.719-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63775160",
-    "titulo": "Tapete Bebê Atividades Musical com Piano Interativo Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818318-MLA114777987136_082026-F.jpg",
-    "preco": 100.65,
-    "preco_anterior": 178.28,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2s6SAaX",
-    "atualizado_em": "2026-10-27T20:32:05.990-03:00"
   }
 ]
