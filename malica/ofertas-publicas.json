@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.20599551957",
+    "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
+    "preco": 55.89,
+    "preco_anterior": 99.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/qkeGoMHce",
+    "atualizado_em": "2026-10-29T20:46:27.390-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73063371",
     "titulo": "Tapete Bebê Interativo Atividades Musical Piano Desenhos fofos Luzinhas Som Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_990403-MLA119677473437_102026-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
     "atualizado_em": "2026-10-28T08:49:14.092-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76312234",
-    "titulo": "Banheira Bebê Dobrável Flexível Com Termômetro E Almofada de Banho Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801111-MLA116545108637_082026-F.jpg",
-    "preco": 189.9,
-    "preco_anterior": 319.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jXU5Dp",
-    "atualizado_em": "2026-10-28T08:41:10.037-03:00"
   }
 ]
