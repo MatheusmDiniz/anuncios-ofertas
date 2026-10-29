@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B076PPQBDX",
+    "titulo": "Mor - Piscina Inflável 1.000 Litros",
+    "imagem": "https://m.media-amazon.com/images/I/41zi2SIUozL._AC_SL1500_.jpg",
+    "preco": 107,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B076PPQBDX?tag=malica09-20",
+    "atualizado_em": "2026-10-29T20:05:11.016-03:00"
+  },
+  {
     "id": "amazon:B0GXTY8SMX",
     "titulo": "Romantic Crown Mochila Feminino Masculino Viagem Expansível para Notebook",
     "imagem": "https://m.media-amazon.com/images/I/61ov9flqL+L._AC_SL1500_.jpg",
