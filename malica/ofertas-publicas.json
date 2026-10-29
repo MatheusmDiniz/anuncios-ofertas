@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:399621856.23992794977",
+    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
+    "preco": 31.59,
+    "preco_anterior": 45.13,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LRzFPdAJq",
+    "atualizado_em": "2026-10-29T09:21:59.492-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35763090",
     "titulo": "Berço Compacto Confort Bebê Cercado Chiqueirinho Rosa Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_680543-MLA99991751191_112025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
     "atualizado_em": "2026-10-27T21:28:47.926-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24208936",
-    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-    "preco": 36.5,
-    "preco_anterior": 62.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2q4b5HH",
-    "atualizado_em": "2026-10-27T21:20:42.967-03:00"
   }
 ]
