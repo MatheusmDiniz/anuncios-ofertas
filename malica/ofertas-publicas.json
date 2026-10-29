@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0GW48RBS7",
+    "titulo": "Oferta: Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71+tkckV3RL._AC_SL1500_.jpg",
+    "preco": 1.33,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
+    "atualizado_em": "2026-10-29T08:17:15.407-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB67836338",
     "titulo": "Blocos de Montar Magnéticos Bastões Montessori 103 Peças Brinquedo Infantil de Construção Com Peças E Formas Criativas Stem, Educativo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_789300-MLA116945383715_082026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
     "atualizado_em": "2026-10-27T20:23:54.992-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB63158085",
-    "titulo": "Mobile Musical Berço Bebê Projetor Estrelas Controle Remoto Rotação 360",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977981-MLA118244176812_102026-F.jpg",
-    "preco": 140.9,
-    "preco_anterior": 263.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KTSR1H",
-    "atualizado_em": "2026-10-27T20:15:51.287-03:00"
   }
 ]
