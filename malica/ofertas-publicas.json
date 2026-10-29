@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C5N6ST9L",
+    "titulo": "Burigotto Berço Sonata, Bege",
+    "imagem": "https://m.media-amazon.com/images/I/91+-RCasiLL._AC_SL1500_.jpg",
+    "preco": 389.4,
+    "preco_anterior": 569,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C5N6ST9L?tag=malica09-20",
+    "atualizado_em": "2026-10-29T14:14:35.628-03:00"
+  },
+  {
     "id": "amazon:B0BQX2CWLL",
     "titulo": "Lixeira Mágica Baby Mel - 3 em 1 Antiodor, Antibacteriana e Antiviral, Capacidade de 10L - Essencial para o Quarto do Bebê (Branco)",
     "imagem": "https://m.media-amazon.com/images/I/51lq8gkFG5L._AC_SL1500_.jpg",
