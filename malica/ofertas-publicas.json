@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07DHSGC5C",
+    "titulo": "Sabonete Líquido de Glicerina Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/71EGDT06EkL._AC_SL1500_.jpg",
+    "preco": 13.01,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07DHSGC5C?tag=malica09-20",
+    "atualizado_em": "2026-10-29T18:59:58.118-03:00"
+  },
+  {
     "id": "amazon:B09RG9Y8NV",
     "titulo": "Buba Kit Colher Silicone Azul E Verde",
     "imagem": "https://m.media-amazon.com/images/I/41z8QBH1vbL._AC_SL1500_.jpg",
