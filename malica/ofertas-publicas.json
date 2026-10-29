@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39426115",
+    "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
+    "preco": 95,
+    "preco_anterior": 185.35,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1yWmQRB",
+    "atualizado_em": "2026-10-29T12:36:39.701-03:00"
+  },
+  {
     "id": "amazon:B099KXW911",
     "titulo": "Fralda Turma da Mônica Baby Jumbo M 28 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71gXkKF1aPL._AC_SL1500_.jpg",
