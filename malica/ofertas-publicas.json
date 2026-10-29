@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB80306435",
+    "titulo": "Cadeira de Descanso L'Amor Elétrica com Vibração e Brinquedos para Bebê Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776573-MLA118960001587_102026-F.jpg",
+    "preco": 164.08,
+    "preco_anterior": 359.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NsLmtm",
+    "atualizado_em": "2026-10-29T08:25:20.916-03:00"
+  },
+  {
     "id": "amazon:B0GW48RBS7",
     "titulo": "Oferta: Fralda Pampers Confort Sec Tamanho G, 92 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/71+tkckV3RL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2s6SAaX",
     "atualizado_em": "2026-10-27T20:32:05.990-03:00"
-  },
-  {
-    "id": "amazon:B099KTC5VJ",
-    "titulo": "Fralda Turma da Mônica Baby Jumbo P 30 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61m83t45EGL._AC_SL1500_.jpg",
-    "preco": 19.94,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B099KTC5VJ?tag=malica09-20",
-    "atualizado_em": "2026-10-27T20:23:54.992-03:00"
   }
 ]
