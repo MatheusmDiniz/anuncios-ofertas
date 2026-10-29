@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07MFDV3XM",
+    "titulo": "Leite em Pó Ninho Forti+ Zero Lactose, 380g | Sem Glúten",
+    "imagem": "https://m.media-amazon.com/images/I/51nrOpveCxL._AC_SL1500_.jpg",
+    "preco": 19,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07MFDV3XM?tag=malica09-20",
+    "atualizado_em": "2026-10-29T12:44:44.683-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39426115",
     "titulo": "Tapete de Atividades com Play Piano Unicórnio Rosa Maxibaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_748461-MLA99972038569_112025-F.jpg",
