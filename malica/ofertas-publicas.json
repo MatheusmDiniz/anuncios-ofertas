@@ -1528,25 +1528,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07X5KWJK9?tag=malica09-20",
     "atualizado_em": "2026-10-27T15:22:20.235-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58302938",
-    "titulo": "Geladeira Mini Brands - Fill The Fridge Azul-turquesa Tipo Zuru",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973897-MLA93265333990_092025-F.jpg",
-    "preco": 167,
-    "preco_anterior": 407.56,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Kw246f",
-    "atualizado_em": "2026-10-27T15:13:50.159-03:00"
-  },
-  {
-    "id": "amazon:B07X83FF8M",
-    "titulo": "Fralda Pampers Premium Care Pants Tamanho M, Fácil de Vestir, 78 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61XQcYdEJiL._AC_SL1500_.jpg",
-    "preco": 89.2,
-    "preco_anterior": 151.59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07X83FF8M?tag=malica09-20",
-    "atualizado_em": "2026-10-27T15:05:41.758-03:00"
   }
 ]
