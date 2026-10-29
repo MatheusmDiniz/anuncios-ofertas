@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B079VPMXHF",
+    "titulo": "Cetaphil Loção Hidratante",
+    "imagem": "https://m.media-amazon.com/images/I/61OMefnVvwL._AC_SL1500_.jpg",
+    "preco": 80.91,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B079VPMXHF?tag=malica09-20",
+    "atualizado_em": "2026-10-29T20:13:16.920-03:00"
+  },
+  {
     "id": "amazon:B076PPQBDX",
     "titulo": "Mor - Piscina Inflável 1.000 Litros",
     "imagem": "https://m.media-amazon.com/images/I/41zi2SIUozL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GRJ9XVHD?tag=malica09-20",
     "atualizado_em": "2026-10-28T08:16:48.651-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB61713566",
-    "titulo": "Andador De Empurrar Infantil Com Atividades Azul - Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_766581-MLA97341274561_112025-F.jpg",
-    "preco": 128.14,
-    "preco_anterior": 219.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2wxDf4s",
-    "atualizado_em": "2026-10-28T08:08:16.832-03:00"
   }
 ]
