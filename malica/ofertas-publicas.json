@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0DB8X9V5X",
+    "titulo": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Preto e Azul",
+    "imagem": "https://m.media-amazon.com/images/I/41MJvZ13OlL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0DB8X9V5X?tag=malica09-20",
+    "atualizado_em": "2026-10-28T21:15:37.358-03:00"
+  },
+  {
     "id": "amazon:B00PTL13LA",
     "titulo": "Oferta: Graco Cadeira de Alimentação e Refeição Infantil Alta Dobrável e Reclinável Slim Snacker Cinza",
     "imagem": "https://m.media-amazon.com/images/I/71bAgE8A+oL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08NQNXMPL?tag=malica09-20",
     "atualizado_em": "2026-10-27T09:22:22.029-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB32469560",
-    "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Snug - Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904717-MLA99983919075_112025-F.jpg",
-    "preco": 478,
-    "preco_anterior": 799,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2g8E2T4",
-    "atualizado_em": "2026-10-27T09:14:17.356-03:00"
   }
 ]
