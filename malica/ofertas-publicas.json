@@ -1268,25 +1268,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B00EIMPZ1A?tag=malica09-20",
     "atualizado_em": "2026-10-27T18:54:46.759-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26681965",
-    "titulo": "Mordedor Bebê Macio Resfriável C/ Agua Macaco Gelado Buba Cor Verde",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_780169-MLA100044378955_122025-F.jpg",
-    "preco": 21,
-    "preco_anterior": 46.11,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1qzaA35",
-    "atualizado_em": "2026-10-27T18:46:42.880-03:00"
-  },
-  {
-    "id": "amazon:B0F1JP5BF6",
-    "titulo": "Babador Bandana Forro Impermeavel, Kit 5 unidades, Yandoo (Cool)",
-    "imagem": "https://m.media-amazon.com/images/I/71xMHWT1nKL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0F1JP5BF6?tag=malica09-20",
-    "atualizado_em": "2026-10-27T18:38:35.680-03:00"
   }
 ]
