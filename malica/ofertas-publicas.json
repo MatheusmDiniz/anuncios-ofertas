@@ -1468,25 +1468,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CNQ9C8TC?tag=malica09-20",
     "atualizado_em": "2026-10-27T16:11:33.628-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46048641",
-    "titulo": "Berço 2 em 1 Americano Vira Cama Slim Com Colchão E Grade Removível Pés em Madeira Cor Freijo Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648832-MLA112305127874_062026-F.jpg",
-    "preco": 484.03,
-    "preco_anterior": 899,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WKWntF",
-    "atualizado_em": "2026-10-27T16:03:29.611-03:00"
-  },
-  {
-    "id": "amazon:B0DDTZD5BS",
-    "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61KXSX2M+ML._AC_SL1500_.jpg",
-    "preco": 195.63,
-    "preco_anterior": 242.27,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0DDTZD5BS?tag=malica09-20",
-    "atualizado_em": "2026-10-27T15:55:20.177-03:00"
   }
 ]
