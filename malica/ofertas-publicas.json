@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24647472",
+    "titulo": "Bicicleta de Equilíbrio Infantil Sem Pedal Vermelho Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_739484-MLA99949712843_112025-F.jpg",
+    "preco": 155.9,
+    "preco_anterior": 316.67,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2vL2fUS",
+    "atualizado_em": "2026-10-29T09:30:06.938-03:00"
+  },
+  {
     "id": "shopee:399621856.23992794977",
     "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07Z9SRGSK?tag=malica09-20",
     "atualizado_em": "2026-10-27T21:36:52.623-03:00"
-  },
-  {
-    "id": "amazon:B0B7K738RQ",
-    "titulo": "Personal Fralda Protect E Sec M Hiper, 70 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61MRxBqO6zL._AC_SL1500_.jpg",
-    "preco": 49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B7K738RQ?tag=malica09-20",
-    "atualizado_em": "2026-10-27T21:28:47.926-03:00"
   }
 ]
