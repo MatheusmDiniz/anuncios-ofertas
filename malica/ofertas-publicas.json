@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61794290",
+    "titulo": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666205-MLA109881359403_032026-F.jpg",
+    "preco": 358,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2KR1i23",
+    "atualizado_em": "2026-10-29T12:20:27.533-03:00"
+  },
+  {
     "id": "amazon:B07GR5YBSQ",
     "titulo": "Fralda Pants Huggies Supreme Care, Tamanho XG, 12-15kg, 48 Unidades, Estilo Roupinha com Cintura Acolchoada",
     "imagem": "https://m.media-amazon.com/images/I/81bfqQYF1UL._AC_SL1500_.jpg",
