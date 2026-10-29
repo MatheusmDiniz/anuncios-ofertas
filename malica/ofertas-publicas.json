@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B09FFRMKNQ",
+    "titulo": "Fralda Pampers Confort Sec Tamanho M 196 Unidades",
+    "imagem": "https://m.media-amazon.com/images/I/71sFW94e1IL._AC_SL1500_.jpg",
+    "preco": 187.84,
+    "preco_anterior": 234.99,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B09FFRMKNQ?tag=malica09-20",
+    "atualizado_em": "2026-10-29T14:39:23.174-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26414752",
     "titulo": "Cadeira De Alimentação Portátil Bebê Honey Maxi Baby Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_750553-MLA95713106934_102025-F.jpg",
