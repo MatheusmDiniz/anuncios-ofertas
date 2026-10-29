@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28487537",
+    "titulo": "Berço Sonata Cor Cinza - Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748918-MLA99447945282_112025-F.jpg",
+    "preco": 405,
+    "preco_anterior": 879,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2vSi35a",
+    "atualizado_em": "2026-10-29T15:36:34.638-03:00"
+  },
+  {
     "id": "amazon:B099KV2733",
     "titulo": "Fralda Turma da Mônica Baby Mega XG 42 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/61wE7KZt2vL._AC_SL1500_.jpg",
