@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67836338",
+    "titulo": "Blocos de Montar Magnéticos Bastões Montessori 103 Peças Brinquedo Infantil de Construção Com Peças E Formas Criativas Stem, Educativo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789300-MLA116945383715_082026-F.jpg",
+    "preco": 97.8,
+    "preco_anterior": 179.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2jkikcR",
+    "atualizado_em": "2026-10-29T08:08:45.049-03:00"
+  },
+  {
     "id": "amazon:B07Z5B115H",
     "titulo": "Likluc Xô Febre - compressas refrescantes para alivio da febre, Azul Oceano, Tamanho Único",
     "imagem": "https://m.media-amazon.com/images/I/71EMAbb3YKL._AC_SL1500_.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KTSR1H",
     "atualizado_em": "2026-10-27T20:15:51.287-03:00"
-  },
-  {
-    "id": "amazon:B07NPWTYJT",
-    "titulo": "Granado Água De Limpeza Bebê, Peles Sensíveis, 500ml",
-    "imagem": "https://m.media-amazon.com/images/I/41UgwftkxOL._AC_SL1500_.jpg",
-    "preco": 49,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=malica09-20",
-    "atualizado_em": "2026-10-27T20:07:43.064-03:00"
   }
 ]
