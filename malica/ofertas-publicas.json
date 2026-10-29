@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0HBRC3BPT",
+    "titulo": "Sabonete Líquido Johnson",
+    "imagem": "https://m.media-amazon.com/images/I/618+ayzaooL._AC_SL1500_.jpg",
+    "preco": 48,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0HBRC3BPT?tag=malica09-20",
+    "atualizado_em": "2026-10-29T17:14:11.910-03:00"
+  },
+  {
     "id": "amazon:B0H2G6W6L5",
     "titulo": "Kit 2 Cremes Pomadas de Assaduras Vit B5 com 100g cada, Total 200g - Bepantol Baby",
     "imagem": "https://m.media-amazon.com/images/I/61GzAiD3PML._AC_SL1500_.jpg",
