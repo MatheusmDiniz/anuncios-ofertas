@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26414752",
+    "titulo": "Cadeira De Alimentação Portátil Bebê Honey Maxi Baby Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_750553-MLA95713106934_102025-F.jpg",
+    "preco": 271,
+    "preco_anterior": 519.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Zq9odc",
+    "atualizado_em": "2026-10-29T14:31:16.713-03:00"
+  },
+  {
     "id": "amazon:B095JPZHJ4",
     "titulo": "Shampoo Infantil Glicerina Suave 210ml – Baruel Baby",
     "imagem": "https://m.media-amazon.com/images/I/71a+sjzIUHL._AC_SL1500_.jpg",
