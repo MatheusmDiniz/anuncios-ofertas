@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0C4Z5HYLW",
+    "titulo": "Massageador de Gengiva Buba, Banana, Cerdas Curtas",
+    "imagem": "https://m.media-amazon.com/images/I/51DIF160lnL._AC_SL1500_.jpg",
+    "preco": 15,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0C4Z5HYLW?tag=malica09-20",
+    "atualizado_em": "2026-10-29T18:43:45.755-03:00"
+  },
+  {
     "id": "amazon:B0C3FSF7KF",
     "titulo": "Personal Fralda Baby Premium Protection P, 40 Unidades",
     "imagem": "https://m.media-amazon.com/images/I/51p6dMmnxrL._AC_SL1500_.jpg",
