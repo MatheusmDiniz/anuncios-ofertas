@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0BQX2CWLL",
+    "titulo": "Lixeira Mágica Baby Mel - 3 em 1 Antiodor, Antibacteriana e Antiviral, Capacidade de 10L - Essencial para o Quarto do Bebê (Branco)",
+    "imagem": "https://m.media-amazon.com/images/I/51lq8gkFG5L._AC_SL1500_.jpg",
+    "preco": 100.7,
+    "preco_anterior": 179.9,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0BQX2CWLL?tag=malica09-20",
+    "atualizado_em": "2026-10-29T14:06:04.093-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB56100259",
     "titulo": "Boné New Era 9TWENTY Los Angeles Cor Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_766279-MLA92029731880_092025-F.jpg",
