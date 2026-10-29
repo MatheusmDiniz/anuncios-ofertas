@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67741951",
+    "titulo": "Cercadinho Grande Para Bebe Infantil Vário Tamanho Acessório 127×127cm Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_821539-MLA110242313195_042026-F.jpg",
+    "preco": 193.22,
+    "preco_anterior": 338.88,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hcwfVV",
+    "atualizado_em": "2026-10-29T20:54:35.187-03:00"
+  },
+  {
     "id": "shopee:341167297.20599551957",
     "titulo": "Kit Sortido 6 ou 10 Peças de Roupas Bebê Menino Infantil  de Roupas Bebê Menino Infantil Masculino De Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b9u0ta551y46",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1kiJy46",
     "atualizado_em": "2026-10-28T08:57:23.194-03:00"
-  },
-  {
-    "id": "amazon:B07D2FKWBT",
-    "titulo": "Sabonete Líquido Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
-    "preco": 23.36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07D2FKWBT?tag=malica09-20",
-    "atualizado_em": "2026-10-28T08:49:14.092-03:00"
   }
 ]
