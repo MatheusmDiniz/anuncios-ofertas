@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B0H2JG9PCM",
+    "titulo": "Oferta: Adesivo Protetor Auricular Impermeável Infantil para Banho e Natação - Kit com 20 Unidades, Material Hipoalergênico e Isento de Látex, Proteção Eficaz contra Otite",
+    "imagem": "https://m.media-amazon.com/images/I/61Y8IbzkerL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B0H2JG9PCM?tag=malica09-20",
+    "atualizado_em": "2026-10-28T21:31:48.237-03:00"
+  },
+  {
     "id": "amazon:B0GKPLFQSN",
     "titulo": "WAP Umidificador de Ar WAP AIR FLOW DIGITAL 3 em 1 Silencioso 23h de Autonomia 3 Níveis de Névoa Reservatório Para Essência : Amazon.com.br: Casa",
     "imagem": "https://m.media-amazon.com/images/I/61DeszJ6VFL._AC_SL1500_.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FXN957HN?tag=malica09-20",
     "atualizado_em": "2026-10-27T09:38:34.679-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38626962",
-    "titulo": "Cadeira de Descanso e Balanço Bebê Musical Funtime Maxi Baby Baxter Esquilo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_790599-MLA109754059317_032026-F.jpg",
-    "preco": 174.5,
-    "preco_anterior": 328.14,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1mxAZm3",
-    "atualizado_em": "2026-10-27T09:30:30.093-03:00"
   }
 ]
