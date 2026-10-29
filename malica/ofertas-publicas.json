@@ -1,5 +1,15 @@
 [
   {
+    "id": "amazon:B07Z5B115H",
+    "titulo": "Likluc Xô Febre - compressas refrescantes para alivio da febre, Azul Oceano, Tamanho Único",
+    "imagem": "https://m.media-amazon.com/images/I/71EMAbb3YKL._AC_SL1500_.jpg",
+    "preco": null,
+    "preco_anterior": null,
+    "loja": "Amazon",
+    "link": "https://www.amazon.com.br/dp/B07Z5B115H?tag=malica09-20",
+    "atualizado_em": "2026-10-29T08:00:37.750-03:00"
+  },
+  {
     "id": "amazon:B07M73V8JD",
     "titulo": "Danone Nutricia - Aptanutri Premium 3, 1-3 anos, Fórmula de Seguimento, 800g",
     "imagem": "https://m.media-amazon.com/images/I/61LK0Z8R8TL._AC_SL1500_.jpg",
@@ -1178,25 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07NPWTYJT?tag=malica09-20",
     "atualizado_em": "2026-10-27T20:07:43.064-03:00"
-  },
-  {
-    "id": "amazon:B0C9KVPYZL",
-    "titulo": "Bicos Pétala 3.0 Philips Avent com válvula anticólicas, fluxo extra rápido (Flow 5), pacote com 2, SCY965/02",
-    "imagem": "https://m.media-amazon.com/images/I/51iztNfmUXL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C9KVPYZL?tag=malica09-20",
-    "atualizado_em": "2026-10-27T19:59:38.843-03:00"
-  },
-  {
-    "id": "amazon:B0CB716LLZ",
-    "titulo": "Hidratante Facial Neutrogena Hydro Boost Water Gel, Refil, 50g | Controle de Oleosidade, Textura Ultraleve, Hidratação Intensa e Prolongada",
-    "imagem": "https://m.media-amazon.com/images/I/61ftpr2TpXL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": 69,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CB716LLZ?tag=malica09-20",
-    "atualizado_em": "2026-10-27T19:51:33.393-03:00"
   }
 ]
