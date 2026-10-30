@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1207318462.18098113310",
+    "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
+    "preco": 40.55,
+    "preco_anterior": 69.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2gCJLpBzh6",
+    "atualizado_em": "2026-10-30T08:26:46.778-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB79599944",
     "titulo": "Brinquedo Montessori de Madeira com Labirinto de Contas e Atividades Interativas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_633461-MLA116403844956_092026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CRBGH3JC?tag=malica09-20",
     "atualizado_em": "2026-10-28T20:34:46.056-03:00"
-  },
-  {
-    "id": "amazon:B07GXLG1KQ",
-    "titulo": "Fralda Pampers Confort Sec Tamanho XG 58 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71BRIIQhuAL._AC_SL1500_.jpg",
-    "preco": 69,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GXLG1KQ?tag=malica09-20",
-    "atualizado_em": "2026-10-28T20:26:40.284-03:00"
   }
 ]
