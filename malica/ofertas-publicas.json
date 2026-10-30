@@ -1228,25 +1228,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B077BY84XX?tag=malica09-20",
     "atualizado_em": "2026-10-28T19:21:58.665-03:00"
-  },
-  {
-    "id": "amazon:B0C2VWQZS6",
-    "titulo": "Granado Sabonete Líquido Bebê, Camomila, 500ml",
-    "imagem": "https://m.media-amazon.com/images/I/51cn8KjV74L._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0C2VWQZS6?tag=malica09-20",
-    "atualizado_em": "2026-10-28T19:13:54.394-03:00"
-  },
-  {
-    "id": "amazon:B09D5SNCM6",
-    "titulo": "Escova Dental Infantil Condor, Hotwheels",
-    "imagem": "https://m.media-amazon.com/images/I/61in-6RLZCL._AC_SL1500_.jpg",
-    "preco": 6,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B09D5SNCM6?tag=malica09-20",
-    "atualizado_em": "2026-10-28T19:05:50.179-03:00"
   }
 ]
