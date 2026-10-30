@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63158085",
+    "titulo": "Mobile Musical Berço Bebê Projetor Estrelas Controle Remoto Rotação 360",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_630465-MLA119888186361_102026-F.jpg",
+    "preco": 140.9,
+    "preco_anterior": 263.97,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1KTSR1H",
+    "atualizado_em": "2026-10-30T20:48:15.741-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19764631",
     "titulo": "Espessante Alimentar Lata 300g Nutilis Sem Sabor",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_678113-MLA99488947082_112025-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0845Y8VWJ?tag=malica09-20",
     "atualizado_em": "2026-10-29T08:49:36.626-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40861843",
-    "titulo": "Tapete De Atividades Baby Com Play Piano Baleia Azul - Interativo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742602-MLA96134695877_102025-F.jpg",
-    "preco": 96,
-    "preco_anterior": 183.92,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1x2fJuV",
-    "atualizado_em": "2026-10-29T08:41:32.088-03:00"
   }
 ]
