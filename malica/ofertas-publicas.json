@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB53225985",
+    "titulo": "Berço Americano Tutto New Freijó - Matic",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655242-MLA95246448845_102025-F.jpg",
+    "preco": 1045,
+    "preco_anterior": 1799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xxW9Co",
+    "atualizado_em": "2026-10-30T12:48:30.256-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26114840",
     "titulo": "Cadeira de Refeição Portátil Cosco Kids, Pop, Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_993125-MLA99895201587_112025-F.jpg",
