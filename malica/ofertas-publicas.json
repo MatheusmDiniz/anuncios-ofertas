@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62250973",
+    "titulo": "Triciclo Infantil Cardoso Toys Totokinha Sport Com Buzina Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_671578-MLA98618766349_112025-F.jpg",
+    "preco": 78.99,
+    "preco_anterior": 271.97,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2cjsFhU",
+    "atualizado_em": "2026-10-30T08:02:28.710-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB66194128",
     "titulo": "Baby Brink Boneca Emilly Vick Dos Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_705150-MLA116500653536_092026-F.jpg",
@@ -1168,25 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D84MB72K?tag=malica09-20",
     "atualizado_em": "2026-10-28T20:10:29.724-03:00"
-  },
-  {
-    "id": "amazon:B08Y84BC8B",
-    "titulo": "Mad. Memória - Patrulha Canina, Nig Brinquedos, Multicor",
-    "imagem": "https://m.media-amazon.com/images/I/91poysI41VL._AC_SL1500_.jpg",
-    "preco": 39,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08Y84BC8B?tag=malica09-20",
-    "atualizado_em": "2026-10-28T20:02:24.072-03:00"
-  },
-  {
-    "id": "amazon:B0B9HWK12S",
-    "titulo": "Cetrilan Creme Para Prevenção de Assaduras 120g | Alivia a Irritação e Hidrata",
-    "imagem": "https://m.media-amazon.com/images/I/41haSkx3BGL._AC_SL1500_.jpg",
-    "preco": 63,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=malica09-20",
-    "atualizado_em": "2026-10-28T19:54:18.670-03:00"
   }
 ]
