@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49618558",
+    "titulo": "Garrafa Térmica Unicórnio Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656101-MLA84669348676_052025-F.jpg",
+    "preco": 89.99,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RwjbRP",
+    "atualizado_em": "2026-10-30T18:46:21.116-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23797606",
     "titulo": "Canguru Safety 1st, Freedom, Grey",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_657447-MLA93090104350_092025-F.jpg",
