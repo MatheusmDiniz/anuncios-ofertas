@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1065812445.58255956881",
+    "titulo": "Vestido Midi Tubinho Gestante Canelado/Ribana com Fenda para Gravida Regata Quadrada",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-ml808iafjqiv62",
+    "preco": 42.28,
+    "preco_anterior": 70.47,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AAIKzoYmbk",
+    "atualizado_em": "2026-10-30T09:31:47.527-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB20787112",
     "titulo": "Perfume Água de Colônia Ciclo Mini Baby Beé 100ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745997-MLA111515571650_062026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H2JG9PCM?tag=malica09-20",
     "atualizado_em": "2026-10-28T21:31:48.237-03:00"
-  },
-  {
-    "id": "amazon:B0GKPLFQSN",
-    "titulo": "WAP Umidificador de Ar WAP AIR FLOW DIGITAL 3 em 1 Silencioso 23h de Autonomia 3 Níveis de Névoa Reservatório Para Essência : Amazon.com.br: Casa",
-    "imagem": "https://m.media-amazon.com/images/I/61DeszJ6VFL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GKPLFQSN?tag=malica09-20",
-    "atualizado_em": "2026-10-28T21:23:42.839-03:00"
   }
 ]
