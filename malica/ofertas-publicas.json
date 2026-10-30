@@ -1598,25 +1598,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B08YZGMQ3S?tag=malica09-20",
     "atualizado_em": "2026-10-28T14:22:04.634-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB80306438",
-    "titulo": "Cadeira de Descanso Balanço Bebe AMR-7315 Musical L'AMOR Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993575-MLA117363968210_102026-F.jpg",
-    "preco": 164.08,
-    "preco_anterior": 359.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tWZdyN",
-    "atualizado_em": "2026-10-28T14:14:01.236-03:00"
-  },
-  {
-    "id": "amazon:B07Z55NZ7G",
-    "titulo": "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
-    "imagem": "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
-    "preco": 11,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=malica09-20",
-    "atualizado_em": "2026-10-28T14:05:52.712-03:00"
   }
 ]
