@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1394220958.19499892618",
+    "titulo": "KIT COM 10 Grampos Presilha de Patinhos Pato Clip AmareloL",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gm-meq18wrw29du45",
+    "preco": 10,
+    "preco_anterior": 20,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/qkfsfXgHw",
+    "atualizado_em": "2026-10-30T09:48:18.631-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34813250",
     "titulo": "Brinquedo Pelúcia Infantil Ursinho Reza Bege 18056 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_935033-MLA95689805484_102025-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0H31FH3KM?tag=malica09-20",
     "atualizado_em": "2026-10-28T21:48:24.661-03:00"
-  },
-  {
-    "id": "amazon:B00SO7H0BS",
-    "titulo": "Fisher-Price Zebra Blocos Surpresa",
-    "imagem": "https://m.media-amazon.com/images/I/51Xj4+azsaL._AC_SL1500_.jpg",
-    "preco": 88.99,
-    "preco_anterior": 149.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00SO7H0BS?tag=malica09-20",
-    "atualizado_em": "2026-10-28T21:40:19.098-03:00"
   }
 ]
