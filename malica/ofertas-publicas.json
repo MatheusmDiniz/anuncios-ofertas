@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:548029260.58257405717",
+    "titulo": "Conjunto Menina 3 Peças Roupa De Bebê Feminina Enxoval Algodão Kit Body Premium Conforto Total",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820mf-mqyrscuyark738",
+    "preco": 42.99,
+    "preco_anterior": 69.34,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3VlR3WGDYf",
+    "atualizado_em": "2026-10-30T08:43:00.522-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74536230",
     "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CKPQWL9V?tag=malica09-20",
     "atualizado_em": "2026-10-28T20:50:56.412-03:00"
-  },
-  {
-    "id": "amazon:B0GWS2FJY7",
-    "titulo": "Mordedor Luva Dino em Silicone Verde – Anti Queda para Bebê | +4 Meses",
-    "imagem": "https://m.media-amazon.com/images/I/51iuST19PlL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GWS2FJY7?tag=malica09-20",
-    "atualizado_em": "2026-10-28T20:42:51.272-03:00"
   }
 ]
