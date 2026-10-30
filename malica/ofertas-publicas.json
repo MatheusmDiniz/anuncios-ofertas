@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79599944",
+    "titulo": "Brinquedo Montessori de Madeira com Labirinto de Contas e Atividades Interativas",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_633461-MLA116403844956_092026-F.jpg",
+    "preco": 169,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1FF1Wad",
+    "atualizado_em": "2026-10-30T08:18:41.916-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62449119",
     "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_651922-MLA98738646630_112025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07GXLG1KQ?tag=malica09-20",
     "atualizado_em": "2026-10-28T20:26:40.284-03:00"
-  },
-  {
-    "id": "amazon:B0BFJGG8MK",
-    "titulo": "Creme para Pentear Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/61xm-vNbcbL._AC_SL1500_.jpg",
-    "preco": 36,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BFJGG8MK?tag=malica09-20",
-    "atualizado_em": "2026-10-28T20:18:34.854-03:00"
   }
 ]
