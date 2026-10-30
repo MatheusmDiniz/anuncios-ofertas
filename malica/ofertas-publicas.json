@@ -1188,25 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0B9HWK12S?tag=malica09-20",
     "atualizado_em": "2026-10-28T19:54:18.670-03:00"
-  },
-  {
-    "id": "amazon:B08J1FL6BR",
-    "titulo": "Barbie Kit Médica Maleta, Fun Divirta-se, Multicor",
-    "imagem": "https://m.media-amazon.com/images/I/61Kb-ouuUBL._AC_SL1500_.jpg",
-    "preco": 90,
-    "preco_anterior": 139,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08J1FL6BR?tag=malica09-20",
-    "atualizado_em": "2026-10-28T19:46:14.117-03:00"
-  },
-  {
-    "id": "amazon:B0CTD3QXV6",
-    "titulo": "Cereal Matinal Chocolate Kitkat Caixa 210g",
-    "imagem": "https://m.media-amazon.com/images/I/71SiuUhmYML._AC_SL1500_.jpg",
-    "preco": 10,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CTD3QXV6?tag=malica09-20",
-    "atualizado_em": "2026-10-28T19:38:09.130-03:00"
   }
 ]
