@@ -1558,25 +1558,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1LFQECa",
     "atualizado_em": "2026-10-28T14:54:30.182-03:00"
-  },
-  {
-    "id": "amazon:B07GQB96J4",
-    "titulo": "Fralda Pampers Recém-Nascido Tamanho RN+ 20 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61fQR8U0zCL._AC_SL1500_.jpg",
-    "preco": 26,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B07GQB96J4?tag=malica09-20",
-    "atualizado_em": "2026-10-28T14:46:21.459-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62120518",
-    "titulo": "Carrinho C/bebê Conforto Reversível Elysian Maxi Baby - Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_745487-MLA104127077302_012026-F.jpg",
-    "preco": 928,
-    "preco_anterior": 1799.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1XFumw3",
-    "atualizado_em": "2026-10-28T14:38:17.176-03:00"
   }
 ]
