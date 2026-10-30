@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74536230",
+    "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
+    "preco": 499.99,
+    "preco_anterior": 999.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Yxw62X",
+    "atualizado_em": "2026-10-30T08:34:53.425-03:00"
+  },
+  {
     "id": "shopee:1207318462.18098113310",
     "titulo": "MACACÃO LONGO ZÍPER COM PROTEÇÃO BEBÊ RECÉM NASCIDO MENINO MENINA",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m43nd8qaljcx31",
@@ -1168,15 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GWS2FJY7?tag=malica09-20",
     "atualizado_em": "2026-10-28T20:42:51.272-03:00"
-  },
-  {
-    "id": "amazon:B0CRBGH3JC",
-    "titulo": "Fralda Pampers Confort Sec Tamanho XXXG 44 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61uvpH5Q3pL._AC_SL1500_.jpg",
-    "preco": 73,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CRBGH3JC?tag=malica09-20",
-    "atualizado_em": "2026-10-28T20:34:46.056-03:00"
   }
 ]
