@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.53003585950",
+    "titulo": "Pijama Infantil Bebê Menina Manga Curta com Estampas Fofas e Conforto Roupa para dormir Bebê Feminino Verão Calor L06",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-min0agqfrabl7e",
+    "preco": 19.99,
+    "preco_anterior": 49.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8AXGc8BbHU",
+    "atualizado_em": "2026-10-30T09:15:28.965-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75214967",
     "titulo": "Kit Escova e Pente para Bebê Lilica Ripilica BB Cerdas Naturais Pente de Pontas Arredondadas Design Moderno Cuidados do Bebê Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_867433-MLA113064409082_072026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DB8X9V5X?tag=malica09-20",
     "atualizado_em": "2026-10-28T21:15:37.358-03:00"
-  },
-  {
-    "id": "amazon:B00PTL13LA",
-    "titulo": "Oferta: Graco Cadeira de Alimentação e Refeição Infantil Alta Dobrável e Reclinável Slim Snacker Cinza",
-    "imagem": "https://m.media-amazon.com/images/I/71bAgE8A+oL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B00PTL13LA?tag=malica09-20",
-    "atualizado_em": "2026-10-28T21:07:31.842-03:00"
   }
 ]
