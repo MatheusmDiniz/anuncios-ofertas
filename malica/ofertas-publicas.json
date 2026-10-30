@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19123248",
+    "titulo": "Cadeira de balanço para bebê Mastela Premium elétrica 8106 rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_934114-MLA99956089133_112025-F.jpg",
+    "preco": 462.9,
+    "preco_anterior": 789.65,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1HLmEzf",
+    "atualizado_em": "2026-10-30T20:32:01.676-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29667283",
     "titulo": "Henn berço mini cama labirinto branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_655875-MLA100002806951_112025-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0FWRYRGRF?tag=malica09-20",
     "atualizado_em": "2026-10-29T08:33:25.444-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB80306435",
-    "titulo": "Cadeira de Descanso L'Amor Elétrica com Vibração e Brinquedos para Bebê Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776573-MLA118960001587_102026-F.jpg",
-    "preco": 164.08,
-    "preco_anterior": 359.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2NsLmtm",
-    "atualizado_em": "2026-10-29T08:25:20.916-03:00"
   }
 ]
