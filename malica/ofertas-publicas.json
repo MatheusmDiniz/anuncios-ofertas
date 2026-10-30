@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77311384",
+    "titulo": "Mochila Maternidade NTESX com Trocador e Porta Mamadeira Térmico, À Prova D'Água, Branca",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_725312-MLA116528743636_092026-F.jpg",
+    "preco": 111.52,
+    "preco_anterior": 251.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1v9KHZm",
+    "atualizado_em": "2026-10-30T20:15:45.942-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65438858",
     "titulo": "Bicicleta De Equilíbrio 4 Rodas Bebê Sem Pedal Infantil Buba Vermelho",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_893536-MLA106236115594_022026-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0GW48RBS7?tag=malica09-20",
     "atualizado_em": "2026-10-29T08:17:15.407-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67836338",
-    "titulo": "Blocos de Montar Magnéticos Bastões Montessori 103 Peças Brinquedo Infantil de Construção Com Peças E Formas Criativas Stem, Educativo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789300-MLA116945383715_082026-F.jpg",
-    "preco": 97.8,
-    "preco_anterior": 179.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2jkikcR",
-    "atualizado_em": "2026-10-29T08:08:45.049-03:00"
   }
 ]
