@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB30018475",
+    "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
+    "preco": 45.9,
+    "preco_anterior": 77.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1XkBdfZ",
+    "atualizado_em": "2026-10-29T21:43:31.337-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB60848703",
     "titulo": "Carrinho De Bebê Travel System 2 Em 1 Youturn Gold Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_839956-MLA99372289624_112025-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/18dESHr",
     "atualizado_em": "2026-10-28T09:46:06.412-03:00"
-  },
-  {
-    "id": "shopee:1700242901.58264520528",
-    "titulo": "Kit 6 Peças Roupa De Bebê Body Menino Animado Estampado Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrwueepou8sn74",
-    "preco": 45.9,
-    "preco_anterior": 109.29,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/30p7G5wZxG",
-    "atualizado_em": "2026-10-28T09:37:57.471-03:00"
   }
 ]
