@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62449119",
+    "titulo": "Cadeirinha Infantil Para Carro 9-36kg Passeio Com Segurança Cadeirinha Infantil Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651922-MLA98738646630_112025-F.jpg",
+    "preco": 349.9,
+    "preco_anterior": 616.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29cUZrm",
+    "atualizado_em": "2026-10-30T08:10:35.752-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62250973",
     "titulo": "Triciclo Infantil Cardoso Toys Totokinha Sport Com Buzina Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_671578-MLA98618766349_112025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0BFJGG8MK?tag=malica09-20",
     "atualizado_em": "2026-10-28T20:18:34.854-03:00"
-  },
-  {
-    "id": "amazon:B0D84MB72K",
-    "titulo": "Pó Dermo Protetor Johnson",
-    "imagem": "https://m.media-amazon.com/images/I/41TMpXU3M2L._AC_SL1500_.jpg",
-    "preco": 22,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0D84MB72K?tag=malica09-20",
-    "atualizado_em": "2026-10-28T20:10:29.724-03:00"
   }
 ]
