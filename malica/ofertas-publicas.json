@@ -1528,25 +1528,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B099KV2733?tag=malica09-20",
     "atualizado_em": "2026-10-29T15:28:26.172-03:00"
-  },
-  {
-    "id": "amazon:B0GT28PSSN",
-    "titulo": "Fralda Turma da Monica Baby Giga G 68 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71d+qcdY9-L._AC_SL1500_.jpg",
-    "preco": 55.99,
-    "preco_anterior": 69.67,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GT28PSSN?tag=malica09-20",
-    "atualizado_em": "2026-10-29T15:20:19.439-03:00"
-  },
-  {
-    "id": "amazon:B093G9PSPP",
-    "titulo": "Fralda Pom Pom Protek Proteção de Mãe Mega G 42 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/71aOjTMuajL._AC_SL1500_.jpg",
-    "preco": 35,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B093G9PSPP?tag=malica09-20",
-    "atualizado_em": "2026-10-29T15:11:48.524-03:00"
   }
 ]
