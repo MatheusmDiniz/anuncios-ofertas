@@ -1348,25 +1348,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0DL6FFBD3?tag=malica09-20",
     "atualizado_em": "2026-10-29T17:55:07.890-03:00"
-  },
-  {
-    "id": "amazon:B0CPT8CMSM",
-    "titulo": "Pampers Sabonete Líquido Glicerina 200ml",
-    "imagem": "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
-    "preco": 14.16,
-    "preco_anterior": 24.9,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=malica09-20",
-    "atualizado_em": "2026-10-29T17:46:35.229-03:00"
-  },
-  {
-    "id": "amazon:B0CLHGKHV8",
-    "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml",
-    "imagem": "https://m.media-amazon.com/images/I/51swgAmRFHL._AC_SL1500_.jpg",
-    "preco": 18.59,
-    "preco_anterior": 34.17,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=malica09-20",
-    "atualizado_em": "2026-10-29T17:38:29.706-03:00"
   }
 ]
