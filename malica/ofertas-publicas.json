@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67134266",
+    "titulo": "Barbie Conjunto de Brinquedo Conjunto de Jogo Pizzaria",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636730-MLA108638769090_032026-F.jpg",
+    "preco": 166.99,
+    "preco_anterior": 351,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2vMoN3m",
+    "atualizado_em": "2026-10-31T12:16:31.441-03:00"
+  },
+  {
     "id": "shopee:646220829.23092088458",
     "titulo": "Kit 6 Rosquinhas de Amamentação Protetor de Seios Donut em Tricoline Antialérgico",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mr7e1qmkepdwdd",
