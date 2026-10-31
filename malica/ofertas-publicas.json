@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73242958",
+    "titulo": "Berço Bebê Infantil Mini Cama Life Compacto Amadeirado Design Moderno Americano Tigus Baby 100% Mdf Com Estrado Regulável Colchão Incluso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_994007-MLA115781599991_082026-F.jpg",
+    "preco": 469,
+    "preco_anterior": 1149,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/14vHQML",
+    "atualizado_em": "2026-10-30T21:28:53.677-03:00"
+  },
+  {
     "id": "shopee:575397523.51106656675",
     "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-muxir38mfldvfd",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2vL2fUS",
     "atualizado_em": "2026-10-29T09:30:06.938-03:00"
-  },
-  {
-    "id": "shopee:399621856.23992794977",
-    "titulo": "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
-    "preco": 31.59,
-    "preco_anterior": 45.13,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3LRzFPdAJq",
-    "atualizado_em": "2026-10-29T09:21:59.492-03:00"
   }
 ]
