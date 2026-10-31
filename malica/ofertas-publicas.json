@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66515304",
+    "titulo": "Bicicleta De Equilíbrio Infantil S/ Pedal 4 Roda Joy Benibee Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_696764-MLA109132592442_042026-F.jpg",
+    "preco": 149.38,
+    "preco_anterior": 289,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2A9fsGm",
+    "atualizado_em": "2026-10-31T08:45:32.562-03:00"
+  },
+  {
     "id": "shopee:838371884.58264949124",
     "titulo": "Conjunto Infantil Bebê (Body + Short) Suedine 100% Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mr1o27m0nu2t7f",
@@ -1188,15 +1198,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qkeGoMHce",
     "atualizado_em": "2026-10-29T20:46:27.390-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73063371",
-    "titulo": "Tapete Bebê Interativo Atividades Musical Piano Desenhos fofos Luzinhas Som Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990403-MLA119677473437_102026-F.jpg",
-    "preco": 99.89,
-    "preco_anterior": 173.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2R3j4ao",
-    "atualizado_em": "2026-10-29T20:37:44.101-03:00"
   }
 ]
