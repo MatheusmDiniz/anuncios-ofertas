@@ -1688,25 +1688,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B07QZ9GLS5?tag=malica09-20",
     "atualizado_em": "2026-10-29T13:17:26.050-03:00"
-  },
-  {
-    "id": "amazon:B0BCH32VGZ",
-    "titulo": "Fralda Babysec Premium Shortinho Hiper M 60 Unidades",
-    "imagem": "https://m.media-amazon.com/images/I/61IDOP72rZL._AC_SL1500_.jpg",
-    "preco": 52,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0BCH32VGZ?tag=malica09-20",
-    "atualizado_em": "2026-10-29T13:01:00.127-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26451025",
-    "titulo": "Pote Térmico Com Colher Gumy Rosa 320ml 12469 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_699786-MLA95840030533_102025-F.jpg",
-    "preco": 88.85,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1rH36kv",
-    "atualizado_em": "2026-10-29T12:52:53.442-03:00"
   }
 ]
