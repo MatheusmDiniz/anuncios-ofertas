@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:804765560.58056231692",
+    "titulo": "Conjunto Infantil Regata Estampada e Short Liso 100% Algodão  Kit de 6, 3, 2  e 1 Conjuntos",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu6-mkrimzvl8sn6e8",
+    "preco": 19.9,
+    "preco_anterior": 132.67,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9KjFb1Efbw",
+    "atualizado_em": "2026-10-31T08:21:07.469-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45995800",
     "titulo": "Carrinho De Bebê Passeio Guarda Chuva Styll Baby Preto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_761526-MLA100714060243_122025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0D3VD54HM?tag=malica09-20",
     "atualizado_em": "2026-10-29T20:21:23.792-03:00"
-  },
-  {
-    "id": "amazon:B079VPMXHF",
-    "titulo": "Cetaphil Loção Hidratante",
-    "imagem": "https://m.media-amazon.com/images/I/61OMefnVvwL._AC_SL1500_.jpg",
-    "preco": 80.91,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B079VPMXHF?tag=malica09-20",
-    "atualizado_em": "2026-10-29T20:13:16.920-03:00"
   }
 ]
