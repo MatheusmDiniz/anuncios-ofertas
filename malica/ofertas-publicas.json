@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:833284432.53758960640",
+    "titulo": "Desodorante Alva Infantil  Roll On Natural 50ml",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mt9xbftb9kozc8",
+    "preco": 37.8,
+    "preco_anterior": 63,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3g4sqedMS2",
+    "atualizado_em": "2026-10-31T09:18:02.439-03:00"
+  },
+  {
     "id": "shopee:744229092.58215504309",
     "titulo": "Kit com 100 Pulseiras Neon Alto Brilho Fluorescente Tubo Diversas Cores Brilha no Escuro Festas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mrg6yf3zgc1ya7",
@@ -1188,15 +1198,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1MWFNx1",
     "atualizado_em": "2026-10-29T21:18:58.787-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45286830",
-    "titulo": "Andador Empurrador Infantil Musical Educativo Rosa Yuupi YPHE0811",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771489-MLA100039533847_122025-F.jpg",
-    "preco": 90,
-    "preco_anterior": 185.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1x1kX6w",
-    "atualizado_em": "2026-10-29T21:10:49.403-03:00"
   }
 ]
