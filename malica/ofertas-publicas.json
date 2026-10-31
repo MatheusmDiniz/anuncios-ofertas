@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:575397523.51106656675",
+    "titulo": "Macacão Bebê Menino e Menina Ursinho Sherpa Pele de Carneiro Infantil Quentinho Soft",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-muxir38mfldvfd",
+    "preco": 29.9,
+    "preco_anterior": 49.83,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fpuvL0Zby",
+    "atualizado_em": "2026-10-30T21:20:46.116-03:00"
+  },
+  {
     "id": "shopee:1542191566.45115032491",
     "titulo": "Conjunto Bebê Menino Jardineira Bordada + Camiseta Listrada Manga Curta Masculino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr7pev3i1vk4c5",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LRzFPdAJq",
     "atualizado_em": "2026-10-29T09:21:59.492-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35763090",
-    "titulo": "Berço Compacto Confort Bebê Cercado Chiqueirinho Rosa Cor Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_680543-MLA99991751191_112025-F.jpg",
-    "preco": 359,
-    "preco_anterior": 691.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1bgNELG",
-    "atualizado_em": "2026-10-29T09:13:54.774-03:00"
   }
 ]
