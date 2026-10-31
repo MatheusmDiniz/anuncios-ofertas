@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1709644501.58266984653",
+    "titulo": "Kit 3 Blusa Alcinha Ribana em Algodão Alcinha Infantil Menina Confortável Alcinha Feminina Premium",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mscshebh8n4453",
+    "preco": 36.33,
+    "preco_anterior": 51.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2gCLeq2pd8",
+    "atualizado_em": "2026-10-31T10:06:40.624-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75505073",
     "titulo": "Suporte de Banho Infantil Ajustável Bebê em Pé Base Antiderrapante SekBem Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_720417-MLA114762626932_082026-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2cjsFhU",
     "atualizado_em": "2026-10-30T08:02:28.710-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB66194128",
-    "titulo": "Baby Brink Boneca Emilly Vick Dos Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_705150-MLA116500653536_092026-F.jpg",
-    "preco": 145.73,
-    "preco_anterior": 269.87,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZujsJg",
-    "atualizado_em": "2026-10-29T21:59:47.666-03:00"
   }
 ]
