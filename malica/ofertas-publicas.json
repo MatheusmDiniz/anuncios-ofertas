@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65171459",
+    "titulo": "Cercado Berço KikkaBoo Matea 2 Dobrável com Colchão e Mosquiteiro para Bebê",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_844352-MLA106338419863_022026-F.jpg",
+    "preco": 349.9,
+    "preco_anterior": 699,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2XYZrYc",
+    "atualizado_em": "2026-10-31T08:04:55.066-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24208936",
     "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B076PPQBDX?tag=malica09-20",
     "atualizado_em": "2026-10-29T20:05:11.016-03:00"
-  },
-  {
-    "id": "amazon:B0GXTY8SMX",
-    "titulo": "Romantic Crown Mochila Feminino Masculino Viagem Expansível para Notebook",
-    "imagem": "https://m.media-amazon.com/images/I/61ov9flqL+L._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0GXTY8SMX?tag=malica09-20",
-    "atualizado_em": "2026-10-29T19:57:05.673-03:00"
   }
 ]
