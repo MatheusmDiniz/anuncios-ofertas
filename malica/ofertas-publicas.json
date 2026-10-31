@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35340733",
+    "titulo": "Cadeira de Descanso e Balanço Bebê Elétrica Fancy Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703414-MLA99928636035_112025-F.jpg",
+    "preco": 399,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2mpt2ix",
+    "atualizado_em": "2026-10-30T21:45:05.782-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB79900942",
     "titulo": "Bicicleta De Equilíbrio Infantil Sem Pedal 4 Rodas Bebê Menino Menina Gato Panda",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_843185-MLA118257783153_092026-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2pDbtAK",
     "atualizado_em": "2026-10-29T09:46:18.805-03:00"
-  },
-  {
-    "id": "shopee:212107824.41008962775",
-    "titulo": "4 Pçs Natal Mini Modelos De Luz De Rua Casa De Bonecas Streetlight Miniatura Aldeia Caminho Lanterna Post Para DIY Micro",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7qve5-ljmfyg33vvgq69",
-    "preco": 20.65,
-    "preco_anterior": 60.74,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6fiRDZHtda",
-    "atualizado_em": "2026-10-29T09:38:11.794-03:00"
   }
 ]
