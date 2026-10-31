@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72901008",
+    "titulo": "Banheira com Suporte Dobrável para Bebê Mini Assento Válvula de Esvaziamento 45 Litros Lisa Plástico Rígido Até 30kg PipDip",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847840-MLA116500118433_082026-F.jpg",
+    "preco": 339.4,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2EmEcUo",
+    "atualizado_em": "2026-10-31T09:01:48.388-03:00"
+  },
+  {
     "id": "shopee:822890381.22692043686",
     "titulo": "Short Saia Tapa Fralda Bebê Menina Verão 100% Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mm7vml12ppmv96",
@@ -1188,15 +1198,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3VlPRicWyt",
     "atualizado_em": "2026-10-29T21:02:42.192-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67741951",
-    "titulo": "Cercadinho Grande Para Bebe Infantil Vário Tamanho Acessório 127×127cm Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_821539-MLA110242313195_042026-F.jpg",
-    "preco": 193.22,
-    "preco_anterior": 338.88,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hcwfVV",
-    "atualizado_em": "2026-10-29T20:54:35.187-03:00"
   }
 ]
