@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1647602386.58259432734",
+    "titulo": "Macacão Fleece Orelhinha Capuz Bebê Inverno Quentinho Recém Nascido 0 a 12 Meses Menino E Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mqsioemvu9s2fe",
+    "preco": 29.99,
+    "preco_anterior": 49.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fpxnywq5O",
+    "atualizado_em": "2026-10-31T20:05:33.175-03:00"
+  },
+  {
     "id": "shopee:1017646777.23794533285",
     "titulo": "Kit 10 Peças Roupinhas de Bebê Body E Mijão Para Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnk7fzp9zojm4e",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/29cUZrm",
     "atualizado_em": "2026-10-30T08:10:35.752-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62250973",
-    "titulo": "Triciclo Infantil Cardoso Toys Totokinha Sport Com Buzina Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_671578-MLA98618766349_112025-F.jpg",
-    "preco": 78.99,
-    "preco_anterior": 271.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2cjsFhU",
-    "atualizado_em": "2026-10-30T08:02:28.710-03:00"
   }
 ]
