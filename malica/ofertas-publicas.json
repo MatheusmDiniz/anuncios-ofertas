@@ -1368,25 +1368,5 @@
     "loja": "Amazon",
     "link": "https://www.amazon.com.br/dp/B0CLHGKHV8?tag=malica09-20",
     "atualizado_em": "2026-10-29T17:38:29.706-03:00"
-  },
-  {
-    "id": "amazon:B08DVWJHJS",
-    "titulo": "Fisher-Price - Kit Coleção Como é Bom",
-    "imagem": "https://m.media-amazon.com/images/I/61RL7Vv4ToL._AC_SL1500_.jpg",
-    "preco": 29,
-    "preco_anterior": 59,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B08DVWJHJS?tag=malica09-20",
-    "atualizado_em": "2026-10-29T17:30:23.811-03:00"
-  },
-  {
-    "id": "amazon:B0CD8T9Q45",
-    "titulo": "Absorvente Cremer 30Un. Seios",
-    "imagem": "https://m.media-amazon.com/images/I/51O7wP2IGpL._AC_SL1500_.jpg",
-    "preco": null,
-    "preco_anterior": null,
-    "loja": "Amazon",
-    "link": "https://www.amazon.com.br/dp/B0CD8T9Q45?tag=malica09-20",
-    "atualizado_em": "2026-10-29T17:22:18.475-03:00"
   }
 ]
