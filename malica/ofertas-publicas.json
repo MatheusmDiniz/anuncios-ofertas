@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1252748130.22094985013",
+    "titulo": "Body Bebê Suedine Premium 100% Algodão Com Rendas e Perolas. Saída Maternidade / Cor: Branco",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mqc60cm08nb521",
+    "preco": 26.36,
+    "preco_anterior": 65.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9V2gN1iFJF",
+    "atualizado_em": "2026-11-01T08:19:38.883-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24214298",
     "titulo": "Burigotto Cadeira de Refeição Poke Polar Branca",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_612599-MLA96130452079_102025-F.jpg",
@@ -1138,15 +1148,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1JJuzCv",
     "atualizado_em": "2026-10-30T20:23:53.502-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77311384",
-    "titulo": "Mochila Maternidade NTESX com Trocador e Porta Mamadeira Térmico, À Prova D'Água, Branca",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_725312-MLA116528743636_092026-F.jpg",
-    "preco": 111.52,
-    "preco_anterior": 251.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1v9KHZm",
-    "atualizado_em": "2026-10-30T20:15:45.942-03:00"
   }
 ]
