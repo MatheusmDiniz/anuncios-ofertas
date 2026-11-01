@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24219839",
+    "titulo": "Totokinha Cardoso Azul – Triciclo Infantil Sport 3 em 1 Super Divertido Seguro e Resistente",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_914232-MLA99981969587_112025-F.jpg",
+    "preco": 112.9,
+    "preco_anterior": 198.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2hLkXeP",
+    "atualizado_em": "2026-11-01T20:17:25.773-03:00"
+  },
+  {
     "id": "shopee:1323245806.58215396116",
     "titulo": "Luva Lançador de Teia Homem Aranha Brinquedo Infantil com Dardos de Ventosa Spider",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-825az-mrbudvx5j01u48",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9KjFb1Efbw",
     "atualizado_em": "2026-10-31T08:21:07.469-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45995800",
-    "titulo": "Carrinho De Bebê Passeio Guarda Chuva Styll Baby Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761526-MLA100714060243_122025-F.jpg",
-    "preco": 231,
-    "preco_anterior": 396.3,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bNPWo5",
-    "atualizado_em": "2026-10-31T08:13:02.032-03:00"
   }
 ]
