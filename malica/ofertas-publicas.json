@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24198840",
+    "titulo": "Edredom Sherpa Cobertor E Coberdrom Casal Queen Grosso Cor Avelã LuckBaby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662503-MLA96116062255_102025-F.jpg",
+    "preco": 111,
+    "preco_anterior": 189,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/111oD2o",
+    "atualizado_em": "2026-11-01T08:43:59.389-03:00"
+  },
+  {
     "id": "shopee:859524128.52714613108",
     "titulo": "Kit 6 Peças Conjunto Bebê Menina (3 Body Manga Longa + 3 Calça) 100% Algodão RN ao GG Estampado",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqzksqu94wsle6",
@@ -1138,15 +1148,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1KTSR1H",
     "atualizado_em": "2026-10-30T20:48:15.741-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19764631",
-    "titulo": "Espessante Alimentar Lata 300g Nutilis Sem Sabor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678113-MLA99488947082_112025-F.jpg",
-    "preco": 72.9,
-    "preco_anterior": 128.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1zw8C5q",
-    "atualizado_em": "2026-10-30T20:40:07.680-03:00"
   }
 ]
