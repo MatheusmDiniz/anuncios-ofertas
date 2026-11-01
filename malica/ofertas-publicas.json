@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:859524128.52714613108",
+    "titulo": "Kit 6 Peças Conjunto Bebê Menina (3 Body Manga Longa + 3 Calça) 100% Algodão RN ao GG Estampado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqzksqu94wsle6",
+    "preco": 67.9,
+    "preco_anterior": 99.85,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7puTPAp916",
+    "atualizado_em": "2026-11-01T08:35:49.789-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27828531",
     "titulo": "Travel System Cosco Kids, Toffy, 0 a 15kg, Preto Absoluto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_858165-MLA99886531865_112025-F.jpg",
@@ -1138,15 +1148,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1zw8C5q",
     "atualizado_em": "2026-10-30T20:40:07.680-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19123248",
-    "titulo": "Cadeira de balanço para bebê Mastela Premium elétrica 8106 rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_934114-MLA99956089133_112025-F.jpg",
-    "preco": 462.9,
-    "preco_anterior": 789.65,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1HLmEzf",
-    "atualizado_em": "2026-10-30T20:32:01.676-03:00"
   }
 ]
