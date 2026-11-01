@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69331466",
+    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 4 Anos Casa da Barbie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "preco": 918.41,
+    "preco_anterior": 1699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bC1ui2",
+    "atualizado_em": "2026-11-01T09:16:23.756-03:00"
+  },
+  {
     "id": "shopee:1393510332.20499840117",
     "titulo": "Barraca Infantil Menina Tenda Minha Casinha",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2b8ko2fn0217",
@@ -1138,15 +1148,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5fpuvL0Zby",
     "atualizado_em": "2026-10-30T21:20:46.116-03:00"
-  },
-  {
-    "id": "shopee:1542191566.45115032491",
-    "titulo": "Conjunto Bebê Menino Jardineira Bordada + Camiseta Listrada Manga Curta Masculino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr7pev3i1vk4c5",
-    "preco": 41.92,
-    "preco_anterior": 59.89,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7fb01DDVJ8",
-    "atualizado_em": "2026-10-30T21:12:40.006-03:00"
   }
 ]
