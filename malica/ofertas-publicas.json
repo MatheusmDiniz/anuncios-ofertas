@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27828531",
+    "titulo": "Travel System Cosco Kids, Toffy, 0 a 15kg, Preto Absoluto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_858165-MLA99886531865_112025-F.jpg",
+    "preco": 399.9,
+    "preco_anterior": 999,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1RNLAyk",
+    "atualizado_em": "2026-11-01T08:27:45.208-03:00"
+  },
+  {
     "id": "shopee:1252748130.22094985013",
     "titulo": "Body Bebê Suedine Premium 100% Algodão Com Rendas e Perolas. Saída Maternidade / Cor: Branco",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mqc60cm08nb521",
@@ -1138,15 +1148,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1HLmEzf",
     "atualizado_em": "2026-10-30T20:32:01.676-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB29667283",
-    "titulo": "Henn berço mini cama labirinto branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655875-MLA100002806951_112025-F.jpg",
-    "preco": 419,
-    "preco_anterior": 1599,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1JJuzCv",
-    "atualizado_em": "2026-10-30T20:23:53.502-03:00"
   }
 ]
