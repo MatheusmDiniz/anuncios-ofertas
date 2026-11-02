@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65579852",
+    "titulo": "Adora Bebê Reborn Bonecas Realista De Silicone Menina 48 Cm",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_794094-MLA106544309108_022026-F.jpg",
+    "preco": 135,
+    "preco_anterior": 239,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1giCtBE",
+    "atualizado_em": "2026-11-02T08:44:15.322-03:00"
+  },
+  {
     "id": "shopee:717747327.58268300719",
     "titulo": "Kit com 3 Bodys De Alcinha Bebê Menina 100% Algodão Regatinha Estampas Sortidas Blusas Infantis Frescas Pro Verão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mt86lg9adn2996",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BG5suHBGF",
     "atualizado_em": "2026-10-31T20:49:08.304-03:00"
-  },
-  {
-    "id": "shopee:1145578475.19698186345",
-    "titulo": "Conjunto Bebê Trio 3 Pçs Algodão: Body e Calça OU Regata e Shorts Estampas Divertidas Roupa de Bebê Menino Verão Inverno",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mu14sux2jawze4",
-    "preco": 43.99,
-    "preco_anterior": 69.83,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/1147fhkOWg",
-    "atualizado_em": "2026-10-31T20:41:03.286-03:00"
   }
 ]
