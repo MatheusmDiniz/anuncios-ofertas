@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1624328684.58255333728",
+    "titulo": "Conjunto Infantil Blusa Meia Malha com Estampa de Limão e Shorts Moletinho",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820md-mrldh13el0jpef",
+    "preco": 29.52,
+    "preco_anterior": 59.04,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5q9QhO8z3X",
+    "atualizado_em": "2026-11-02T20:14:34.659-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB53974840",
     "titulo": "Berço Portátil Moises Co-bed Até 9kg C/Balanço Mosquiteiro e Cesto Luna - KaBaby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_720078-MLA117878166615_092026-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9V2gN1iFJF",
     "atualizado_em": "2026-11-01T08:19:38.883-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24214298",
-    "titulo": "Burigotto Cadeira de Refeição Poke Polar Branca",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612599-MLA96130452079_102025-F.jpg",
-    "preco": 187.25,
-    "preco_anterior": 319,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2sUfGGB",
-    "atualizado_em": "2026-11-01T08:11:34.694-03:00"
   }
 ]
