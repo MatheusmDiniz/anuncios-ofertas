@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75172606",
+    "titulo": "Colchão De Berço Branco D18 130x70x10cm Americano Baby Forte",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_954156-MLA114277051385_072026-F.jpg",
+    "preco": 129,
+    "preco_anterior": 220,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ooaKns",
+    "atualizado_em": "2026-11-02T08:03:32.805-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73063371",
     "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5fpxnywq5O",
     "atualizado_em": "2026-10-31T20:05:33.175-03:00"
-  },
-  {
-    "id": "shopee:1017646777.23794533285",
-    "titulo": "Kit 10 Peças Roupinhas de Bebê Body E Mijão Para Menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnk7fzp9zojm4e",
-    "preco": 66.98,
-    "preco_anterior": 128.81,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/gRHH5lfCa",
-    "atualizado_em": "2026-10-31T19:57:20.999-03:00"
   }
 ]
