@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44017218",
+    "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Space",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827223-MLA96140311143_102025-F.jpg",
+    "preco": 116,
+    "preco_anterior": 197.79,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1oV2wqY",
+    "atualizado_em": "2026-11-02T21:19:33.109-03:00"
+  },
+  {
     "id": "shopee:1384480317.22894374244",
     "titulo": "Bolsa De Silicone Infantil Criança Coelho",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mrz400y1nbpgb7",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9pfXmxENFl",
     "atualizado_em": "2026-11-01T09:24:31.129-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69331466",
-    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 4 Anos Casa da Barbie",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
-    "preco": 918.41,
-    "preco_anterior": 1699.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2bC1ui2",
-    "atualizado_em": "2026-11-01T09:16:23.756-03:00"
   }
 ]
