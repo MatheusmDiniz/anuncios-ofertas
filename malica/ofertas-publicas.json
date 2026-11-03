@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47704647",
+    "titulo": "Castelo Casinha Boneca Princesa Girl Cor Rosa/branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672496-MLA120389752827_102026-F.jpg",
+    "preco": 79.99,
+    "preco_anterior": 155,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2MuZK5W",
+    "atualizado_em": "2026-11-03T19:33:54.212-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27424973",
     "titulo": "Cadeira de Refeição Portátil Cosco Kids, Smart, Gelo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_876538-MLA96132029271_102025-F.jpg",
