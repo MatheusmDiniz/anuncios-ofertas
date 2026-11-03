@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1384480317.22894374244",
+    "titulo": "Bolsa De Silicone Infantil Criança Coelho",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l5-mrz400y1nbpgb7",
+    "preco": 14.99,
+    "preco_anterior": 33.31,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1BeWQe8vy",
+    "atualizado_em": "2026-11-02T21:11:24.745-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63158085",
     "titulo": "Mobile Musical Berço Bebê Projetor Estrelas Controle Remoto Rotação 360",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_630465-MLA119888186361_102026-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bC1ui2",
     "atualizado_em": "2026-11-01T09:16:23.756-03:00"
-  },
-  {
-    "id": "shopee:1393510332.20499840117",
-    "titulo": "Barraca Infantil Menina Tenda Minha Casinha",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-md2b8ko2fn0217",
-    "preco": 57.77,
-    "preco_anterior": 160.47,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/30pCsUCWSs",
-    "atualizado_em": "2026-11-01T09:08:16.197-03:00"
   }
 ]
