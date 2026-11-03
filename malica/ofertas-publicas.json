@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1307843023.23298856362",
+    "titulo": "Copo Treinamento 240ml Antivazamento + Colher Silicone",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mseh3ong1c79cb",
+    "preco": 19.9,
+    "preco_anterior": 60.3,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1gJsVV30cn",
+    "atualizado_em": "2026-11-02T21:27:41.390-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44017218",
     "titulo": "Arco Móbile De Atividades Bebê Carrinho Berço Cadeirinha Chocalho Mordedor Clip Ajustável Maxi Baby - Space",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_827223-MLA96140311143_102025-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/29eVXXH",
     "atualizado_em": "2026-11-01T09:32:37.629-03:00"
-  },
-  {
-    "id": "shopee:337684330.58217000758",
-    "titulo": "Kit 2 Bicos para Mamadeira Easy Flow Buba Silicone",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mukqpdxbyy2q50",
-    "preco": 23.85,
-    "preco_anterior": 35.07,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9pfXmxENFl",
-    "atualizado_em": "2026-11-01T09:24:31.129-03:00"
   }
 ]
