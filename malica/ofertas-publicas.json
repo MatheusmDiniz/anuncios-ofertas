@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18397481",
+    "titulo": "Desitin Proteção Diária Creamy Creme Preventivo De Assaduras Creamy, 57g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_939783-MLA117363600842_102026-F.jpg",
+    "preco": 34.15,
+    "preco_anterior": 57.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qY64cG",
+    "atualizado_em": "2026-11-03T09:42:16.788-03:00"
+  },
+  {
     "id": "shopee:676684389.58257561563",
     "titulo": "Sandália Infantil Menina Slide Anatômica com Enfeite Flor, Leve, Linda e Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820l4-mqyql77nlkw6f9",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1XkBdfZ",
     "atualizado_em": "2026-11-01T21:46:52.380-03:00"
-  },
-  {
-    "id": "shopee:1161866046.58216966872",
-    "titulo": "Body Bebê Temático Infantil Presidente Brasil 100% Algodão Confortável",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mscneybkoydj55",
-    "preco": 19.44,
-    "preco_anterior": 29.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VWZMd9csm",
-    "atualizado_em": "2026-11-01T21:38:44.484-03:00"
   }
 ]
