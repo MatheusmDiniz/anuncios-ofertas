@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19540123",
+    "titulo": "Sabonete Em Barra Natura Tododia Macadâmia",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_935036-MLA99428862702_112025-F.jpg",
+    "preco": 28.94,
+    "preco_anterior": 49.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BHr9h9",
+    "atualizado_em": "2026-11-03T18:28:57.497-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70164759",
     "titulo": "Mini Berço 2 Em 1 Chiqueirinho Colchão Incluso Portátil Nina Branco/amadeirado",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_956724-MLA111140421688_052026-F.jpg",
