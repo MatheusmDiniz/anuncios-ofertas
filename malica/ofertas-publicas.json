@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB65438858",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Bebê Sem Pedal Infantil Buba Vermelho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_893536-MLA106236115594_022026-F.jpg",
+    "preco": 169.26,
+    "preco_anterior": 316.67,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/28VgSuh",
+    "atualizado_em": "2026-11-03T09:26:03.152-03:00"
+  },
+  {
     "id": "shopee:303419140.54505641752",
     "titulo": "Tênis Infantil Casual Escolar Envio Rápido",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262m-mk3x9648hybs79",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/30pE8fCX0u",
     "atualizado_em": "2026-11-01T21:30:37.142-03:00"
-  },
-  {
-    "id": "shopee:435692544.22797147604",
-    "titulo": "KIT 4 Macacões Bebê Amore Vira Pé com Ziper Sortidos Estampados 100% Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu7-mksc8gjqiy9ta5",
-    "preco": 112.99,
-    "preco_anterior": 198.23,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4fxQc90e7l",
-    "atualizado_em": "2026-11-01T21:22:30.916-03:00"
   }
 ]
