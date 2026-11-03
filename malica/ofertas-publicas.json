@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1045804093.57560849785",
+    "titulo": "Kit Higiene Bebê 5 Peças Escova, Pente, Tesoura E Cortador",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-823qz-mogw64a5yqku84",
+    "preco": 17.99,
+    "preco_anterior": 59.97,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7KyEelNOCM",
+    "atualizado_em": "2026-11-03T09:58:27.566-03:00"
+  },
+  {
     "id": "shopee:1843579115.58265506431",
     "titulo": "Jaleco Infantil Unissex Oxford Branco Manga Longa",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-ms0c0nxxasjobf",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ooaKns",
     "atualizado_em": "2026-11-02T08:03:32.805-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73063371",
-    "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
-    "preco": 78.9,
-    "preco_anterior": 159.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/22dPMY1",
-    "atualizado_em": "2026-11-01T21:55:02.639-03:00"
   }
 ]
