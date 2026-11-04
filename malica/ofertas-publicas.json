@@ -1168,25 +1168,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VP8B6gNRO",
     "atualizado_em": "2026-11-02T19:58:17.799-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73632211",
-    "titulo": "Boné Oracle Red Bull Racing F1 Team 9Seventy Azul Un Lisa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980888-MLA113242856363_062026-F.jpg",
-    "preco": 232.74,
-    "preco_anterior": 399.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1YFBaTg",
-    "atualizado_em": "2026-11-02T19:50:13.193-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26851070",
-    "titulo": "Burigotto Kit Banho Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
-    "preco": 189,
-    "preco_anterior": 510,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ZobV6E",
-    "atualizado_em": "2026-11-02T19:42:06.967-03:00"
   }
 ]
