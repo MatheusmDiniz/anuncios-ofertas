@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32988007",
+    "titulo": "Carrinho de Bebê Kansas 3 em 1 Gold Premium Baby Travel System com Bebê Conforto Base para Carro Função Moisés Assento Reversível e Adaptadores",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_922015-MLA99987105265_112025-F.jpg",
+    "preco": 1490.9,
+    "preco_anterior": 2915.15,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2VTR1xX",
+    "atualizado_em": "2026-11-04T08:33:16.774-03:00"
+  },
+  {
     "id": "shopee:1042066189.43481645729",
     "titulo": "Macacão Bebê Pipoquinha Fleece Frio Com Capuz E Zíper",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m6-mpcnwj0dj6dd75",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8pn1Kkww7c",
     "atualizado_em": "2026-11-02T20:38:55.703-03:00"
-  },
-  {
-    "id": "shopee:1647602386.23695159301",
-    "titulo": "Conjunto Bebê Menino Menina Body 100% Algodão Shorts Kit 2 Peças Roupa Unissex 5 Cores Verão RN Bory Bebe",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l8-mrhea1xjiqyub1",
-    "preco": 32.99,
-    "preco_anterior": 59.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/AKbqJXTSWL",
-    "atualizado_em": "2026-11-02T20:30:49.778-03:00"
   }
 ]
