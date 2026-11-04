@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:516855691.58204664222",
+    "titulo": "kit 4 Body Bebe Alcinha Body Saia 100% Algodão  Bori Bebe Menina",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820li-mub4heglu32b7e",
+    "preco": 49.89,
+    "preco_anterior": 80.47,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BGAhIf8MB",
+    "atualizado_em": "2026-11-04T20:58:50.096-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72901008",
     "titulo": "Banheira com Suporte Dobrável para Bebê Mini Assento Válvula de Esvaziamento 45 Litros Lisa Plástico Rígido Até 30kg PipDip",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_847840-MLA116500118433_082026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BG9r7SOxQ",
     "atualizado_em": "2026-11-03T09:01:43.221-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62692699",
-    "titulo": "Triciclo Totokinha Sport Rosa Cardoso Toys com Buzina e Porta-Objetos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613494-MLA99989589965_112025-F.jpg",
-    "preco": 78.99,
-    "preco_anterior": 271.97,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Hh9j3R",
-    "atualizado_em": "2026-11-03T08:53:37.710-03:00"
   }
 ]
