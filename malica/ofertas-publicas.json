@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB36755181",
+    "titulo": "Livrinho De Banho Conhecendo O Fundo Do Mar Animais Marinhos 11752 Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_740438-MLA116229169484_092026-F.jpg",
+    "preco": 21.24,
+    "preco_anterior": 39.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1tZxsyX",
+    "atualizado_em": "2026-11-04T20:18:09.665-03:00"
+  },
+  {
     "id": "shopee:429438031.23498723011",
     "titulo": "Kit Touca e Luvas Personalizado Maternidade Recém-Nascido Super Macia Malha Algodão RN",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxukwz027t25d",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2q4b5HH",
     "atualizado_em": "2026-11-03T08:21:15.964-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77311384",
-    "titulo": "Mochila Maternidade NTESX com Trocador e Porta Mamadeira Térmico, À Prova D'Água, Branca",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_725312-MLA116528743636_092026-F.jpg",
-    "preco": 111.52,
-    "preco_anterior": 251.55,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1v9KHZm",
-    "atualizado_em": "2026-11-03T08:13:07.415-03:00"
   }
 ]
