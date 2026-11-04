@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69331466",
+    "titulo": "Casa dos Sonhos da Barbie conjunto de brinquedos Com Piscina E Acessórios Com 2 Andares Para Crianças A Partir De 4 Anos Casa da Barbie",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_928127-MLA111393282693_052026-F.jpg",
+    "preco": 918.41,
+    "preco_anterior": 1699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2bC1ui2",
+    "atualizado_em": "2026-11-04T09:46:15.923-03:00"
+  },
+  {
     "id": "shopee:1658245933.22494684785",
     "titulo": "Lava  Roupas Líquido 2,7L UAU Perfume Chá Branco",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gu-mfl85yb0rjm334",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B1DU6ogiQ",
     "atualizado_em": "2026-11-02T21:52:00.710-03:00"
-  },
-  {
-    "id": "shopee:1065812445.58255956881",
-    "titulo": "Vestido Midi Tubinho Gestante Canelado/Ribana com Fenda para Gravida Regata Quadrada",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-ml808iafjqiv62",
-    "preco": 42.28,
-    "preco_anterior": 70.47,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4B1DU6OMH1",
-    "atualizado_em": "2026-11-02T21:43:55.408-03:00"
   }
 ]
