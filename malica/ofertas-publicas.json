@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68032214",
+    "titulo": "Brinquedo Cubo Didático Madeira Montessori Infantil 5 Em 1 Atacarejo Kids",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_743529-MLA116992831764_102026-F.jpg",
+    "preco": 109.9,
+    "preco_anterior": 209.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1vorA4S",
+    "atualizado_em": "2026-11-05T08:18:41.872-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB73063371",
     "titulo": "Tapete Bebê Atividades Musical Piano Interativo Luz Som Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_849208-MLA112998275661_062026-F.jpg",
@@ -1138,15 +1148,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AtiEGzIQq",
     "atualizado_em": "2026-11-03T20:22:29.407-03:00"
-  },
-  {
-    "id": "shopee:435692544.58266021773",
-    "titulo": "Kit 2 Macacão longo para Bebê Amore Listrado Verde Água e Bege 100% Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-muweu1h54s1u3f",
-    "preco": 56.99,
-    "preco_anterior": 99.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2BG8KcJDJ7",
-    "atualizado_em": "2026-11-03T20:14:24.448-03:00"
   }
 ]
