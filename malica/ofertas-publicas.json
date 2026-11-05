@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62449119",
+    "titulo": "Cadeira Veicular Atentu para Carro 9 a 36 kg com Cinto de Segurança Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651922-MLA98738646630_112025-F.jpg",
+    "preco": 364.81,
+    "preco_anterior": 616.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29cUZrm",
+    "atualizado_em": "2026-11-05T08:51:16.754-03:00"
+  },
+  {
     "id": "shopee:396723953.40026562019",
     "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-muuqteicytxf9d",
@@ -1138,15 +1148,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7puXCHexhi",
     "atualizado_em": "2026-11-03T21:06:55.614-03:00"
-  },
-  {
-    "id": "shopee:1340846779.46058770769",
-    "titulo": "Macacão Bebê Cerejinha Menina Quentinho Com Vira Pé Para Dias Frio Macacão Feminino Com Ziper",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lj-mn0b5pf66rr5c3",
-    "preco": 29.45,
-    "preco_anterior": 49.92,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/qkjyLKfD2",
-    "atualizado_em": "2026-11-03T20:46:48.433-03:00"
   }
 ]
