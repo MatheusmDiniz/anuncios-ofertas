@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28318987",
+    "titulo": "Cadeira de Descanso e Balanço Funtime 18kgs Coruja Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797741-MLA99504505042_112025-F.jpg",
+    "preco": 172,
+    "preco_anterior": 369,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2zXk4w8",
+    "atualizado_em": "2026-11-05T08:35:00.594-03:00"
+  },
+  {
     "id": "shopee:341167297.22597771368",
     "titulo": "Kit 8 Peças de Roupas Infantil Bebê Menino - 4 Regatas + 4 Bermudas Tamanho 1 ao 10",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m01ua1k2hend02",
@@ -1138,15 +1148,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50aI1xzvlp",
     "atualizado_em": "2026-11-03T20:38:40.375-03:00"
-  },
-  {
-    "id": "shopee:1822435935.58267196490",
-    "titulo": "Kit 5 Macacão Estampado Menina Roupa Infantil Bebê Zíper Algodão Macio",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-msgbx44wun0mdc",
-    "preco": 78.88,
-    "preco_anterior": 140.86,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/LoTNQMZDv",
-    "atualizado_em": "2026-11-03T20:30:34.922-03:00"
   }
 ]
