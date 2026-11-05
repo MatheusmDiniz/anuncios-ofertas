@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1123144676.19099590678",
+    "titulo": "Almofada para Pescoço Bebe Conforto fofinha Apoio de Cabeça 100% Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2jacf0qwox2f",
+    "preco": 22.37,
+    "preco_anterior": 55.93,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9APweJjQPf",
+    "atualizado_em": "2026-11-04T21:47:34.492-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB44822207",
     "titulo": "Kit Com 3 Potinhos Zoo Unicórnio 19056 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_920540-MLA100075593705_122025-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/114CT6yPQP",
     "atualizado_em": "2026-11-03T09:50:22.944-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18397481",
-    "titulo": "Desitin Proteção Diária Creamy Creme Preventivo De Assaduras Creamy, 57g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_939783-MLA117363600842_102026-F.jpg",
-    "preco": 34.15,
-    "preco_anterior": 57.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qY64cG",
-    "atualizado_em": "2026-11-03T09:42:16.788-03:00"
   }
 ]
