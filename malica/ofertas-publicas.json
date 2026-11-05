@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB58145188",
+    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Cáqui",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774288-MLA116852762733_082026-F.jpg",
+    "preco": 707.91,
+    "preco_anterior": 1579.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/22VTYJt",
+    "atualizado_em": "2026-11-05T09:07:34.102-03:00"
+  },
+  {
     "id": "shopee:1668201561.22199693873",
     "titulo": "Pulseira de Segurança Infantil Retrátil Anti Perdido Ajustável com Trava para Crianças e Bebês 1,5m",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lm-mqyymla2g7id1d",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1Bg7MMBUG",
     "atualizado_em": "2026-11-03T21:14:59.649-03:00"
-  },
-  {
-    "id": "shopee:1340846779.56754301237",
-    "titulo": "3 Macacões Bebê Vira Pé Com Zíper Menina 100% Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj7g2rxzottufc",
-    "preco": 56,
-    "preco_anterior": 100,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7puXCHexhi",
-    "atualizado_em": "2026-11-03T21:06:55.614-03:00"
   }
 ]
