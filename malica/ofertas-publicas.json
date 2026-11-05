@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1064487211.23398980471",
+    "titulo": "1/2/3/4/5 Prendedor De Chupeta Com Trava Com Corrente Clipe Chupeta Menino e Menina - Promoção",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gp-mfe6fx7mfb4ee3",
+    "preco": 10,
+    "preco_anterior": 25,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2Vt2i3datX",
+    "atualizado_em": "2026-11-04T21:31:18.267-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50913809",
     "titulo": "Bercinho Grande Infantil Brinquedo Berço Gigante Boneca Bebe Reborn Atacarejo Kids",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751279-MLA116708956906_092026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50aLESIqsA",
     "atualizado_em": "2026-11-03T09:34:08.349-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB65438858",
-    "titulo": "Bicicleta De Equilíbrio 4 Rodas Bebê Sem Pedal Infantil Buba Vermelho",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_893536-MLA106236115594_022026-F.jpg",
-    "preco": 169.26,
-    "preco_anterior": 316.67,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/28VgSuh",
-    "atualizado_em": "2026-11-03T09:26:03.152-03:00"
   }
 ]
