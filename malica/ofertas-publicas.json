@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47899174",
+    "titulo": "Baba Eletrônica Baby Monitor Vb603 Visão Noturna Dual Audio Cor Branco Estary Shop",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789928-MLA99885017637_112025-F.jpg",
+    "preco": 219.99,
+    "preco_anterior": 539,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1kywN3H",
+    "atualizado_em": "2026-11-05T09:40:17.951-03:00"
+  },
+  {
     "id": "shopee:1566437127.58263112024",
     "titulo": "Cama Montessoriana Infantil Estofada com Proteção Lateral 100% Espuma D28 Conforto e Segurança Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m2-mpusax3abksh6c",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2gCRIN8nBi",
     "atualizado_em": "2026-11-03T21:47:20.746-03:00"
-  },
-  {
-    "id": "shopee:465500124.45254312639",
-    "titulo": "Kit Camisola Amamentação Pós Parto Conforto Praticidade Camisola Longa e Curta com Robe Longo",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261z-mj6zaew3wn44fa",
-    "preco": 126.9,
-    "preco_anterior": 264.38,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7puWmRxGoB",
-    "atualizado_em": "2026-11-03T21:39:14.639-03:00"
   }
 ]
