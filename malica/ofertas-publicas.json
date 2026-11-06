@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19764631",
+    "titulo": "Espessante Alimentar Lata 300g Nutilis Sem Sabor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678113-MLA99488947082_112025-F.jpg",
+    "preco": 72.9,
+    "preco_anterior": 128.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1zw8C5q",
+    "atualizado_em": "2026-11-06T08:10:05.714-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63854956",
     "titulo": "Mobili Pimpi Brinquedos Maral 61002 Azul-Claro Animal",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_655356-MLA116912640401_082026-F.jpg",
@@ -1138,15 +1148,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1tZxsyX",
     "atualizado_em": "2026-11-04T20:18:09.665-03:00"
-  },
-  {
-    "id": "shopee:429438031.23498723011",
-    "titulo": "Kit Touca e Luvas Personalizado Maternidade Recém-Nascido Super Macia Malha Algodão RN",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lx-mqxukwz027t25d",
-    "preco": 19.95,
-    "preco_anterior": 39.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3qOQD6341V",
-    "atualizado_em": "2026-11-04T20:09:56.285-03:00"
   }
 ]
