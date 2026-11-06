@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27424973",
+    "titulo": "Cadeira de Refeição Portátil Cosco Kids, Smart, Gelo",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_876538-MLA96132029271_102025-F.jpg",
+    "preco": 125.21,
+    "preco_anterior": 209,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1VrMfkw",
+    "atualizado_em": "2026-11-06T20:29:11.163-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75479548",
     "titulo": "Suporte Banho Bebê Em Pé Ajustável Antiderrapante Torre De Banho Infantil Seguro Cor Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_655656-MLA116856101810_092026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2zXk4w8",
     "atualizado_em": "2026-11-05T08:35:00.594-03:00"
-  },
-  {
-    "id": "shopee:341167297.22597771368",
-    "titulo": "Kit 8 Peças de Roupas Infantil Bebê Menino - 4 Regatas + 4 Bermudas Tamanho 1 ao 10",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m01ua1k2hend02",
-    "preco": 76.99,
-    "preco_anterior": 197.41,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/qkpRtLgtR",
-    "atualizado_em": "2026-11-05T08:26:48.371-03:00"
   }
 ]
