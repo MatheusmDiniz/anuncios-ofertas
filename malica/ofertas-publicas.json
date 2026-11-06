@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB80000392",
+    "titulo": "Bicicleta De Equilíbrio Infantil Sem Pedal 4 Rodas Rosa Bebê Menino Menina Gato Panda",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784731-MLA119094702842_112026-F.jpg",
+    "preco": 153.12,
+    "preco_anterior": 379.75,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QH27wa",
+    "atualizado_em": "2026-11-06T20:45:34.095-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46390714",
     "titulo": "Tapete De Atividades Com Piano Magic Unicórnio 18841 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_632762-MLA91932440969_092025-F.jpg",
@@ -1868,25 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1qdMdtIFCw",
     "atualizado_em": "2026-11-05T08:59:23.374-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62449119",
-    "titulo": "Cadeira Veicular Atentu para Carro 9 a 36 kg com Cinto de Segurança Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651922-MLA98738646630_112025-F.jpg",
-    "preco": 364.81,
-    "preco_anterior": 616.42,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/29cUZrm",
-    "atualizado_em": "2026-11-05T08:51:16.754-03:00"
-  },
-  {
-    "id": "shopee:396723953.40026562019",
-    "titulo": "Saída Maternidade Menina 05 Peças Ternura Jardineira Roupa de Bebê Menina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-muuqteicytxf9d",
-    "preco": 61,
-    "preco_anterior": 100,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3Vlacnt7jJ",
-    "atualizado_em": "2026-11-05T08:43:06.302-03:00"
   }
 ]
