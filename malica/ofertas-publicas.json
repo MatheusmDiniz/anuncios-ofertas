@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB76495391",
+    "titulo": "Kit Bolsa Maternidade Com Mochila E Trocador Completo Impermeável Bebê Menino Menina Ric Deveras Bege",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_815058-MLA115732461789_082026-F.jpg",
+    "preco": 138.99,
+    "preco_anterior": 239,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/11LiVKP",
+    "atualizado_em": "2026-11-06T20:04:45.356-03:00"
+  },
+  {
     "id": "shopee:885316517.23693398421",
     "titulo": "Conjunto Biquíni Infantil Moda Praia Sublimado Calcinha e Top Menina Desenhos Disney Princesas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ovzprndywy48",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/22dPMY1",
     "atualizado_em": "2026-11-05T08:10:31.996-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB80779802",
-    "titulo": "Andador Infantil Brinquedo Educativo Musical Didático Bebê Cor Azul-claro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_885648-MLA118315793170_102026-F.jpg",
-    "preco": 139.97,
-    "preco_anterior": 239,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Cs88c2",
-    "atualizado_em": "2026-11-05T08:02:20.935-03:00"
   }
 ]
