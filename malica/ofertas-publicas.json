@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39327701",
+    "titulo": "Berço portátil infantil cercado 15kg Lazy MaxiBaby cor rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818139-MLA95668209784_102025-F.jpg",
+    "preco": 419.99,
+    "preco_anterior": 699.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QoFyAu",
+    "atualizado_em": "2026-11-06T15:28:58.162-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB78690344",
     "titulo": "Cercadinho Bebê Infantil Chiqueirinho Cercado Portátil Cinza 128x128cm - 8X TECH",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_961914-MLA115701845850_092026-F.jpg",
