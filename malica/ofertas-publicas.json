@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB69787558",
+    "titulo": "Mini Berço 2 Em 1 Chiqueirinho Colchão Incluso Portátil Nina Branco/rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_898207-MLA110830185284_052026-F.jpg",
+    "preco": 317.9,
+    "preco_anterior": 530,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2uegM2L",
+    "atualizado_em": "2026-11-05T21:44:40.597-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB34813250",
     "titulo": "Brinquedo Pelúcia Infantil Ursinho Reza Bege 18056 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_935033-MLA95689805484_102025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2bC1ui2",
     "atualizado_em": "2026-11-04T09:46:15.923-03:00"
-  },
-  {
-    "id": "shopee:1658245933.22494684785",
-    "titulo": "Lava  Roupas Líquido 2,7L UAU Perfume Chá Branco",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824gu-mfl85yb0rjm334",
-    "preco": 26.9,
-    "preco_anterior": 39.56,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AXOaXeWJs",
-    "atualizado_em": "2026-11-04T09:38:05.312-03:00"
   }
 ]
