@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB34813250",
+    "titulo": "Brinquedo Pelúcia Infantil Ursinho Reza Bege 18056 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_935033-MLA95689805484_102025-F.jpg",
+    "preco": 110.29,
+    "preco_anterior": 299.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/21awjnT",
+    "atualizado_em": "2026-11-05T21:36:33.487-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB63158085",
     "titulo": "Mobile Musical Berço Bebê Projetor Estrelas Controle Remoto Rotação 360",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_630465-MLA119888186361_102026-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8AXOaXeWJs",
     "atualizado_em": "2026-11-04T09:38:05.312-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB40839677",
-    "titulo": "Copo De Treinamento Buba Com Alça E Bico Em Silicone Azul Azul-claro Liso",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_894610-MLA100072983091_122025-F.jpg",
-    "preco": 43.17,
-    "preco_anterior": 78.77,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1nUHZhK",
-    "atualizado_em": "2026-11-04T09:30:00.543-03:00"
   }
 ]
