@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75479548",
+    "titulo": "Suporte Banho Bebê Em Pé Ajustável Antiderrapante Torre De Banho Infantil Seguro Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655656-MLA116856101810_092026-F.jpg",
+    "preco": 165.99,
+    "preco_anterior": 349.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qcsDxW",
+    "atualizado_em": "2026-11-06T20:21:04.045-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74536231",
     "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/qkpRtLgtR",
     "atualizado_em": "2026-11-05T08:26:48.371-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68032214",
-    "titulo": "Brinquedo Cubo Didático Madeira Montessori Infantil 5 Em 1 Atacarejo Kids",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_743529-MLA116992831764_102026-F.jpg",
-    "preco": 109.9,
-    "preco_anterior": 209.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1vorA4S",
-    "atualizado_em": "2026-11-05T08:18:41.872-03:00"
   }
 ]
