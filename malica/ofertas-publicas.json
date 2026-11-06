@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37732957",
+    "titulo": "berço Life Vira Mini cama com colchão Probel Lado Impermeavel infantil para quarto de bebê menino e menina cor branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_731973-MLA111154511156_052026-F.jpg",
+    "preco": 379.91,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kcq47v",
+    "atualizado_em": "2026-11-06T09:47:35.014-03:00"
+  },
+  {
     "id": "shopee:1556592577.54760377605",
     "titulo": "Chupeta Mordedor Alimentadora bebê Menino e Menina",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lb-mtpllqrjp43n77",
@@ -1138,25 +1148,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20wm79b6gh",
     "atualizado_em": "2026-11-04T21:55:40.620-03:00"
-  },
-  {
-    "id": "shopee:1123144676.19099590678",
-    "titulo": "Almofada para Pescoço Bebe Conforto fofinha Apoio de Cabeça 100% Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk2jacf0qwox2f",
-    "preco": 22.37,
-    "preco_anterior": 55.93,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9APweJjQPf",
-    "atualizado_em": "2026-11-04T21:47:34.492-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44822207",
-    "titulo": "Kit Com 3 Potinhos Zoo Unicórnio 19056 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_920540-MLA100075593705_122025-F.jpg",
-    "preco": 29.19,
-    "preco_anterior": 54.98,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2zycWti",
-    "atualizado_em": "2026-11-04T21:39:26.136-03:00"
   }
 ]
