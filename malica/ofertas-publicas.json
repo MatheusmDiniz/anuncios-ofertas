@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB35340738",
+    "titulo": "Cadeira De Descanso Bebê Musical Vibratória Reclinável Modo Balanço Até 18kg Azul FunTime Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_787438-MLA119253165422_112026-F.jpg",
+    "preco": 179.8,
+    "preco_anterior": 349,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/11s6NB4",
+    "atualizado_em": "2026-11-07T08:04:02.067-03:00"
+  },
+  {
     "id": "shopee:542974007.22894899577",
     "titulo": "Luvas Infantil Inverno de Lã Térmica Infantil Tricô Menino Menina FYX0026BAL",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m3-mmr7upnoctfoc5",
@@ -1178,15 +1188,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/20wnXqtK9v",
     "atualizado_em": "2026-11-05T20:06:24.773-03:00"
-  },
-  {
-    "id": "shopee:367895429.19132144851",
-    "titulo": "Kit 3 Lençol Berço Americano Percal 400 Fios Macio com Elástico 130x70cm Menina e Menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkgr3wef5fcx7c",
-    "preco": 28.99,
-    "preco_anterior": 54.7,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V2oTcn6eH",
-    "atualizado_em": "2026-11-05T19:58:18.997-03:00"
   }
 ]
