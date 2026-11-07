@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1502033735.22194333374",
+    "titulo": "Kit Família Vida Macia Lava Roupas + Amaciante Bebê - Várias Fragrâncias",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-822yx-mi21jrca9amg16",
+    "preco": 27.99,
+    "preco_anterior": 49.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BVAslAg7A",
+    "atualizado_em": "2026-11-07T09:49:21.121-03:00"
+  },
+  {
     "id": "shopee:646220829.23092088458",
     "titulo": "Kit 6 Rosquinhas de Amamentação Protetor de Seios Donut em Tricoline Antialérgico",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mr7e1qmkepdwdd",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2gMWva7",
     "atualizado_em": "2026-11-05T21:52:48.666-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB69787558",
-    "titulo": "Mini Berço 2 Em 1 Chiqueirinho Colchão Incluso Portátil Nina Branco/rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_898207-MLA110830185284_052026-F.jpg",
-    "preco": 317.9,
-    "preco_anterior": 530,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2uegM2L",
-    "atualizado_em": "2026-11-05T21:44:40.597-03:00"
   }
 ]
