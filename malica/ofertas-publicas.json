@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:580787446.52157037809",
+    "titulo": "Kit 5 Macacão Estampado Ziper Menina Bebê Algodão Vira Pé Inverno Verao Infantil Macio Macacões",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-mrvnbf5n0wlhdb",
+    "preco": 79,
+    "preco_anterior": 188.1,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4fxZmxnvMx",
+    "atualizado_em": "2026-11-06T21:26:12.175-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29298117",
     "titulo": "Bicicleta De Equilibrio Infantil 4 Rodas Vermelho - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_851787-MLU77882833591_072024-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6ficOnGyHn",
     "atualizado_em": "2026-11-05T09:31:56.504-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB30018475",
-    "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
-    "preco": 41.78,
-    "preco_anterior": 77.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1XkBdfZ",
-    "atualizado_em": "2026-11-05T09:23:48.921-03:00"
   }
 ]
