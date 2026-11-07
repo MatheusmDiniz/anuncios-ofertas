@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:392744038.19498142982",
+    "titulo": "KIT Chinelos Menino e Menina Baby Brasil Original Borracha Anti-Derrapante",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mm6p7z8x0a2vc1",
+    "preco": 16.99,
+    "preco_anterior": 39.51,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BVBqSoglB",
+    "atualizado_em": "2026-11-07T09:00:43.917-03:00"
+  },
+  {
     "id": "shopee:378105312.45004572291",
     "titulo": "Kit Higiene Bebê 5 Peças Escova, Pente, Tesoura E Cortador",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-82604-mjeewbhlfsp367",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ofsJJZ",
     "atualizado_em": "2026-11-05T21:04:05.948-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB80715442",
-    "titulo": "Cadeira Portátil Dobrável e Altura Ajustável para Bebê com Bandeja Lulacude M-199",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877947-MLA118185437878_102026-F.jpg",
-    "preco": 197.15,
-    "preco_anterior": 386.58,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2kfLie4",
-    "atualizado_em": "2026-11-05T20:55:00.903-03:00"
   }
 ]
