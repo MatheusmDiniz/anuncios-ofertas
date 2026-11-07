@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45962977",
+    "titulo": "Berço 3 em 1 Americano Vira Cama Slim Com Colchão E Grade Removível Pés em Madeira Cor Rosa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_634431-MLA112305187234_062026-F.jpg",
+    "preco": 465.41,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1RN8jYz",
+    "atualizado_em": "2026-11-06T21:09:58.376-03:00"
+  },
+  {
     "id": "shopee:341167297.57002478567",
     "titulo": "Conjunto Bebê Masculino Menino Infantil Verão Manga Curta Tamanho 1 ao 8 - Roupa para Bebê Masculino Roupa Calor L01",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhs2b4joxczq25",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8pn6ylVGIa",
     "atualizado_em": "2026-11-05T09:15:40.504-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58145188",
-    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Cáqui",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774288-MLA116852762733_082026-F.jpg",
-    "preco": 707.91,
-    "preco_anterior": 1579.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/22VTYJt",
-    "atualizado_em": "2026-11-05T09:07:34.102-03:00"
   }
 ]
