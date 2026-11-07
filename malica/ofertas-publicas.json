@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB29298117",
+    "titulo": "Bicicleta De Equilibrio Infantil 4 Rodas Vermelho - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_851787-MLU77882833591_072024-F.jpg",
+    "preco": 188.68,
+    "preco_anterior": 316.67,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2mfSvDD",
+    "atualizado_em": "2026-11-06T21:18:05.851-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB45962977",
     "titulo": "Berço 3 em 1 Americano Vira Cama Slim Com Colchão E Grade Removível Pés em Madeira Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_634431-MLA112305187234_062026-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1XkBdfZ",
     "atualizado_em": "2026-11-05T09:23:48.921-03:00"
-  },
-  {
-    "id": "shopee:287287585.21699091414",
-    "titulo": "Sapatilha Antiderrapante Infantil Menino Sapato Aquática Sapatilha Piscina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-loi7d9vm3iz0ad",
-    "preco": 45.95,
-    "preco_anterior": 74.11,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8pn6ylVGIa",
-    "atualizado_em": "2026-11-05T09:15:40.504-03:00"
   }
 ]
