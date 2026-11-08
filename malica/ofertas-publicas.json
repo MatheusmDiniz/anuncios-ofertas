@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB49618558",
+    "titulo": "Garrafa Térmica Unicórnio Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656101-MLA84669348676_052025-F.jpg",
+    "preco": 89.99,
+    "preco_anterior": 199.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2RwjbRP",
+    "atualizado_em": "2026-11-08T08:02:32.352-03:00"
+  },
+  {
     "id": "shopee:1692649392.23794965742",
     "titulo": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mma3xkky1vk584",
@@ -1188,15 +1198,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11LiVKP",
     "atualizado_em": "2026-11-06T20:04:45.356-03:00"
-  },
-  {
-    "id": "shopee:885316517.23693398421",
-    "titulo": "Conjunto Biquíni Infantil Moda Praia Sublimado Calcinha e Top Menina Desenhos Disney Princesas",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9ovzprndywy48",
-    "preco": 17.89,
-    "preco_anterior": 45.87,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7AevJNP0rr",
-    "atualizado_em": "2026-11-06T19:56:35.093-03:00"
   }
 ]
