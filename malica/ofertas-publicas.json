@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24097850",
+    "titulo": "Bebê Conforto Cosco Kids, Wizz, 0 a 13kg, Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_724874-MLA99994002539_112025-F.jpg",
+    "preco": 380,
+    "preco_anterior": 799.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/246ur1b",
+    "atualizado_em": "2026-11-08T08:18:46.484-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB54276431",
     "titulo": "Berço Portátil Infantil Cercado Desmontável Com Tela 2 Alturas Colchonete Rodinhas 15kg Lune Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_729035-MLA99938292437_112025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2qcsDxW",
     "atualizado_em": "2026-11-06T20:21:04.045-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536231",
-    "titulo": "Berço Mini Cama Multifuncional de Chão Laterais Altas Antiqueda Com Colchão 100% Em Espuma Para Quartos Infantis",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812020-MLA112555414230_062026-F.jpg",
-    "preco": 399.59,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hhY1XL",
-    "atualizado_em": "2026-11-06T20:12:55.354-03:00"
   }
 ]
