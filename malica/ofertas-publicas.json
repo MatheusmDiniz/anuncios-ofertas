@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1822435935.58263929984",
+    "titulo": "Kit 5 Macacões Bebê Menina Algodão Vira Pé Inverno Estampado Macio Confortável Enxoval",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mqf9rq5qpeki4e",
+    "preco": 69.89,
+    "preco_anterior": 139.78,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8Kqtex1X0k",
+    "atualizado_em": "2026-11-08T08:43:04.755-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26817599",
     "titulo": "Berço Sonata Beige Recém Nascido Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_729070-MLA99376150398_112025-F.jpg",
@@ -1188,15 +1198,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1QH27wa",
     "atualizado_em": "2026-11-06T20:45:34.095-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46390714",
-    "titulo": "Tapete De Atividades Com Piano Magic Unicórnio 18841 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_632762-MLA91932440969_092025-F.jpg",
-    "preco": 177.4,
-    "preco_anterior": 306.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1KzFaWC",
-    "atualizado_em": "2026-11-06T20:37:26.901-03:00"
   }
 ]
