@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB80779802",
+    "titulo": "Andador Infantil Brinquedo Educativo Musical Didático Bebê Cor Azul-claro",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_885648-MLA118315793170_102026-F.jpg",
+    "preco": 131.97,
+    "preco_anterior": 239,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Cs88c2",
+    "atualizado_em": "2026-11-08T08:51:11.487-03:00"
+  },
+  {
     "id": "shopee:1822435935.58263929984",
     "titulo": "Kit 5 Macacões Bebê Menina Algodão Vira Pé Inverno Estampado Macio Confortável Enxoval",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m1-mqf9rq5qpeki4e",
@@ -1188,15 +1198,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50aQBZmegz",
     "atualizado_em": "2026-11-06T20:53:41.824-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB80000392",
-    "titulo": "Bicicleta De Equilíbrio Infantil Sem Pedal 4 Rodas Rosa Bebê Menino Menina Gato Panda",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784731-MLA119094702842_112026-F.jpg",
-    "preco": 153.12,
-    "preco_anterior": 379.75,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1QH27wa",
-    "atualizado_em": "2026-11-06T20:45:34.095-03:00"
   }
 ]
