@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB30018475",
+    "titulo": "Hipoglós Creme Preventivo de Assaduras, 120g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659536-MLA100117141305_122025-F.jpg",
+    "preco": 41.78,
+    "preco_anterior": 77.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1XkBdfZ",
+    "atualizado_em": "2026-11-08T09:48:02.065-03:00"
+  },
+  {
     "id": "shopee:1050951084.58251512194",
     "titulo": "Poltrona Cadeirinha Infantil com Bandeja Mesinha de Alimentação Portatil Para Bebe 53kg Plasutil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mv50otnaqx372d",
@@ -1188,15 +1198,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B8kE9r92C",
     "atualizado_em": "2026-11-06T21:50:37.264-03:00"
-  },
-  {
-    "id": "shopee:407483264.23898661553",
-    "titulo": "Kit 8 peças Enxoval Roupas Bebê Menino ou Menina Maternidade 100% Algodão Recem nascido",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcc964w2om3k59",
-    "preco": 53.99,
-    "preco_anterior": 128.55,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4qGzzCFmFA",
-    "atualizado_em": "2026-11-06T21:42:30.623-03:00"
   }
 ]
