@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22433464",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Infantil Rosa Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629801-MLA100033300371_122025-F.jpg",
+    "preco": 196.47,
+    "preco_anterior": 346.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1qJLE2K",
+    "atualizado_em": "2026-11-09T20:08:36.281-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68579627",
     "titulo": "Banheira De Bebê Dobrável Portátil Com Termômetro Almofada Flutuante e Baleia Pluggei Select Pluggkids Mu1p Cor Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_645314-MLA110532086626_052026-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ZYenwu",
     "atualizado_em": "2026-11-08T08:10:39.501-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB49618558",
-    "titulo": "Garrafa Térmica Unicórnio Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656101-MLA84669348676_052025-F.jpg",
-    "preco": 89.99,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2RwjbRP",
-    "atualizado_em": "2026-11-08T08:02:32.352-03:00"
   }
 ]
