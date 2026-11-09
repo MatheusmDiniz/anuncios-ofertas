@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB28579921",
+    "titulo": "Cadeira de Descanso Bebê Musical Polar Cinza 18kg Maxi Baby",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_729247-MLA96101820207_102025-F.jpg",
+    "preco": 184,
+    "preco_anterior": 369,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1PN6xTc",
+    "atualizado_em": "2026-11-09T09:16:14.343-03:00"
+  },
+  {
     "id": "shopee:1590063220.58207147029",
     "titulo": "Kit 2 Talco Para Bebe Com Amido De Milho 200g - Pom Pom",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mlz39myktjife3",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1tZxsyX",
     "atualizado_em": "2026-11-07T21:18:43.836-03:00"
-  },
-  {
-    "id": "shopee:1223806395.22497471819",
-    "titulo": "Conjunto Infantil Camiseta Manga Curta com Shorts para Bebe Menino Estiloso",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-ms53lwyu2y9xc0",
-    "preco": 20.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/70LSnDyDNz",
-    "atualizado_em": "2026-11-07T21:10:36.946-03:00"
   }
 ]
