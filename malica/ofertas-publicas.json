@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38625704",
+    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
+    "preco": 169.9,
+    "preco_anterior": 329.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ofsJJZ",
+    "atualizado_em": "2026-11-08T21:29:07.807-03:00"
+  },
+  {
     "id": "shopee:435692544.22797147604",
     "titulo": "KIT 4 Macacões Bebê Amore Vira Pé com Ziper Sortidos Estampados 100% Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81zu7-mksc8gjqiy9ta5",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60SynGUrX0",
     "atualizado_em": "2026-11-07T09:33:08.384-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB16091843",
-    "titulo": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665735-MLA100006870577_122025-F.jpg",
-    "preco": 129,
-    "preco_anterior": 250,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1DCnzZH",
-    "atualizado_em": "2026-11-07T09:25:03.459-03:00"
   }
 ]
