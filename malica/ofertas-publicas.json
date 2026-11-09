@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB67529256",
+    "titulo": "Babá Eletrônica Estary Shop Baby Monitor Vb603 Com Câmera Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_922468-MLA109972244377_042026-F.jpg",
+    "preco": 231.83,
+    "preco_anterior": 399,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Ch7p7p",
+    "atualizado_em": "2026-11-09T08:03:01.854-03:00"
+  },
+  {
     "id": "shopee:1073409580.20299601130",
     "titulo": "Bota Texana Infantil Menina Country Cano Longo com Ziper Lateral",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9z8qvawice182",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1Jw2wPh",
     "atualizado_em": "2026-11-07T20:05:44.223-03:00"
-  },
-  {
-    "id": "shopee:1631642887.23098922827",
-    "titulo": "KIT COM 5 - Body Bebê Manga Curta Malha Canelada Menino Menina  Várias Cores- Fabricação Própria",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mexjg9h0g8owc5",
-    "preco": 31.35,
-    "preco_anterior": 55,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9pfhRhvoxv",
-    "atualizado_em": "2026-11-07T19:57:35.938-03:00"
   }
 ]
