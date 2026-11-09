@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22323833",
+    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
+    "preco": 110.57,
+    "preco_anterior": 349.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2USZ6QU",
+    "atualizado_em": "2026-11-09T17:42:17.905-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB51529842",
     "titulo": "Bicicleta De Equilíbrio Sem Pedal Dino Rosa Yuupi",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_875968-MLA96897806280_112025-F.jpg",
