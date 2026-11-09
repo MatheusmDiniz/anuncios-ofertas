@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73632211",
+    "titulo": "Boné Oracle Red Bull Racing F1 Team 9Seventy Azul Un Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980888-MLA113242856363_062026-F.jpg",
+    "preco": 228.43,
+    "preco_anterior": 399.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1YFBaTg",
+    "atualizado_em": "2026-11-09T10:05:18.294-03:00"
+  },
+  {
     "id": "shopee:630404903.58207281327",
     "titulo": "Bota Infantil Jeca Resistente com Elástico Lateral Conforto e Segurança",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260x-mm1qv8zgd0jofb",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2RwjbRP",
     "atualizado_em": "2026-11-08T08:02:32.352-03:00"
-  },
-  {
-    "id": "shopee:1692649392.23794965742",
-    "titulo": "Brinquedos infantis do Homem-Aranha - conjunto de 1 a 3 com luvas de tiro na teia e dardos",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260p-mma3xkky1vk584",
-    "preco": 27.99,
-    "preco_anterior": 49.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2qVxSbRRK1",
-    "atualizado_em": "2026-11-07T21:59:27.420-03:00"
   }
 ]
