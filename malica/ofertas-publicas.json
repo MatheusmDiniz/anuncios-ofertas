@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215261",
+    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
+    "preco": 185.89,
+    "preco_anterior": 335.32,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1wX6sG8",
+    "atualizado_em": "2026-11-10T20:14:54.526-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62469792",
     "titulo": "Cadeira Atentu BS05 Infantil de Carro para 9-36kg com Arnês de 5 Pontos Preta",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_920911-MLA98813793822_112025-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LSGnjQ0LQ",
     "atualizado_em": "2026-11-09T08:19:18.400-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26841539",
-    "titulo": "Buba Ursinho que reza anjinho da guarda para bebê e criança pelúcia azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_677594-MLU75692537470_042024-F.jpg",
-    "preco": 106,
-    "preco_anterior": 299.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1RYEJKx",
-    "atualizado_em": "2026-11-09T08:11:11.800-03:00"
   }
 ]
