@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB21006188",
+    "titulo": "Bicicleta De Equilíbrio 4 Rodas Azul - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_881785-MLU70423333196_072023-F.jpg",
+    "preco": 192.54,
+    "preco_anterior": 346.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/27sfskB",
+    "atualizado_em": "2026-11-10T17:40:36.070-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB17875937",
     "titulo": "Sabonete Líquido Johnson's Baby Recém Nascido, 200ml",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_652883-MLA120426014167_102026-F.jpg",
