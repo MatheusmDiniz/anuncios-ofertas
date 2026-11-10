@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79495523",
+    "titulo": "Berço Co-sleeper Multifuncional Portátil Com Mosquiteiro",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866011-MLA117838148765_092026-F.jpg",
+    "preco": 480.15,
+    "preco_anterior": 1100,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1u6uy2V",
+    "atualizado_em": "2026-11-10T08:04:18.663-03:00"
+  },
+  {
     "id": "shopee:239158067.51004638535",
     "titulo": "Vnox Brincos Argola Borboleta para Bebê, Zircônia Colorida, modelo fofa para meninas, hipoalergênicos, presente infantil",
     "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mrkwja0m84qq52",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7fbEShkLbs",
     "atualizado_em": "2026-11-08T20:05:22.059-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46053660",
-    "titulo": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 77243; Conjunto de construção de carro de corrida; Modelo de Fórmula 1 com detalhes autênticos; Inclui piloto; Presente de Natal; 10+",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_817165-MLA118813572752_102026-F.jpg",
-    "preco": 143.99,
-    "preco_anterior": 249.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2NTCqF3",
-    "atualizado_em": "2026-11-08T19:57:17.087-03:00"
   }
 ]
