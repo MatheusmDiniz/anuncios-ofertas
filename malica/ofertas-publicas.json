@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1043389652.58263490386",
+    "titulo": "Máscara Faixa Modeladora Do Rosto Lipo De Papada Lifting",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a8-mq4ypvoju87h13",
+    "preco": 10.99,
+    "preco_anterior": 29.7,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5AtvrsoJja",
+    "atualizado_em": "2026-11-09T21:34:30.708-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46390714",
     "titulo": "Tapete De Atividades Com Piano Magic Unicórnio 18841 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_632762-MLA91932440969_092025-F.jpg",
@@ -1878,15 +1888,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4fxcnkve3Y",
     "atualizado_em": "2026-11-08T09:39:53.884-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB58145188",
-    "titulo": "Carrinho De Bebê Passeio 3 Em 1 Chique Reversivel Conforto Dobrável Leve Com Capa E Cesta Para 0-36 Meses Cáqui",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774288-MLA116852762733_082026-F.jpg",
-    "preco": 707.91,
-    "preco_anterior": 1579.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/22VTYJt",
-    "atualizado_em": "2026-11-08T09:31:48.534-03:00"
   }
 ]
