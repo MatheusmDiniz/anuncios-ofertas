@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62469792",
+    "titulo": "Cadeira Atentu BS05 Infantil de Carro para 9-36kg com Arnês de 5 Pontos Preta",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_920911-MLA98813793822_112025-F.jpg",
+    "preco": 319.79,
+    "preco_anterior": 616.42,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SS1khn",
+    "atualizado_em": "2026-11-10T20:06:44.206-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB62692699",
     "titulo": "Triciclo Totokinha Sport Rosa Cardoso Toys com Buzina e Porta-Objetos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_613494-MLA99989589965_112025-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1RYEJKx",
     "atualizado_em": "2026-11-09T08:11:11.800-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67529256",
-    "titulo": "Babá Eletrônica Estary Shop Baby Monitor Vb603 Com Câmera Preto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_922468-MLA109972244377_042026-F.jpg",
-    "preco": 231.83,
-    "preco_anterior": 399,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Ch7p7p",
-    "atualizado_em": "2026-11-09T08:03:01.854-03:00"
   }
 ]
