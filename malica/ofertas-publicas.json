@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44958164",
+    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Cinza Cor",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_627665-MLA113620705920_072026-F.jpg",
+    "preco": 171,
+    "preco_anterior": 350,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Jw2wPh",
+    "atualizado_em": "2026-11-10T20:47:22.324-03:00"
+  },
+  {
     "id": "shopee:341167297.23794265125",
     "titulo": "Pijama Bebe Menino Manga Longa – Escolha Seu Modelo, com Estampas Fofas e Conforto Infantil Masculino Frio Inverno l15",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-moy75vag8xl14d",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q28yU0Gq3",
     "atualizado_em": "2026-11-09T08:51:51.240-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB70200075",
-    "titulo": "Triciclo Passeio Moto Trail Ate 30kg 2 Em 1 Pedal Empurrador Laranja",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_891340-MLA112156407295_052026-F.jpg",
-    "preco": 289.9,
-    "preco_anterior": 599.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2gdqCt8",
-    "atualizado_em": "2026-11-09T08:43:45.246-03:00"
   }
 ]
