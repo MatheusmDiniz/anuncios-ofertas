@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1120941204.22597156212",
+    "titulo": "Melancia Bóia Circular Adulto e Infantil ADULTO APENAS DE 90 120 CM",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rbml-loek6d5woduy92",
+    "preco": 13.89,
+    "preco_anterior": 43.41,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BVGdJyMHA",
+    "atualizado_em": "2026-11-10T09:33:27.194-03:00"
+  },
+  {
     "id": "shopee:1323245806.58215396116",
     "titulo": "Luva Lançador de Teia Homem Aranha Brinquedo Infantil com Dardos de Ventosa Spider",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-mv4rkqjn6oe868",
@@ -1158,15 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1BguL6N",
     "atualizado_em": "2026-11-08T21:37:17.491-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB38625704",
-    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
-    "preco": 169.9,
-    "preco_anterior": 329.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ofsJJZ",
-    "atualizado_em": "2026-11-08T21:29:07.807-03:00"
   }
 ]
