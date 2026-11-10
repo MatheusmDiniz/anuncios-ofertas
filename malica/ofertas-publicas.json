@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB47734236",
+    "titulo": "Escova De Dente Primeiro Dentinhos 0 A 2 Anos Mordedor Cor Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_859414-MLA89302556011_082025-F.jpg",
+    "preco": 11.19,
+    "preco_anterior": 19.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/11ikxV4",
+    "atualizado_em": "2026-11-10T20:23:01.374-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215261",
     "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kfLie4",
     "atualizado_em": "2026-11-09T08:27:27.200-03:00"
-  },
-  {
-    "id": "shopee:1343500572.58207163226",
-    "titulo": "Conjunto Saida Maternidade Vestido Calça & Manta Bebê Rn Menina Batismo",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mtvb8qyzc2rmed",
-    "preco": 64.9,
-    "preco_anterior": 158.29,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3LSGnjQ0LQ",
-    "atualizado_em": "2026-11-09T08:19:18.400-03:00"
   }
 ]
