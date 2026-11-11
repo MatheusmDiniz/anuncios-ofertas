@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1466920167.23094751141",
+    "titulo": "Macacão Bebê Menina Qualidade Premium Tecido Extra Macio Manga Longa RN 3 meses 6 meses 9 meses",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mimqgyc3vchu02",
+    "preco": 39,
+    "preco_anterior": 69.64,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8fTqWQRVeW",
+    "atualizado_em": "2026-11-11T20:30:46.320-03:00"
+  },
+  {
     "id": "shopee:1223806395.22892934435",
     "titulo": "Kit 2 Peças Roupa Bebê Conjunto Camiseta e Bermuda 3 á 6 meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mrt1rmwpdkw7f5",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9KjTFPJqI0",
     "atualizado_em": "2026-11-10T08:36:40.406-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24244278",
-    "titulo": "Andador Infantil Educativo Antiqueda Cinza Tutti Baby Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666649-MLA99453417418_112025-F.jpg",
-    "preco": 209.99,
-    "preco_anterior": 355.38,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11gbNRK",
-    "atualizado_em": "2026-11-10T08:28:35.127-03:00"
   }
 ]
