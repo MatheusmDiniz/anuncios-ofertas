@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72720626",
+    "titulo": "Berço Portátil PipDip Co-Sleeper, Com Balanço e Colchão Extra Grosso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642241-MLA115658811869_082026-F.jpg",
+    "preco": 497.9,
+    "preco_anterior": 1299.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/16AzQhD",
+    "atualizado_em": "2026-11-11T08:04:36.205-03:00"
+  },
+  {
     "id": "shopee:1700242901.58268241987",
     "titulo": "Kit 5 Macacão de Bebê Roupa Menino Estampado Ziper Animado Estampado Algodão Verão Maternidade",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mt6zr709a2h107",
@@ -1158,15 +1168,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1qJLE2K",
     "atualizado_em": "2026-11-09T20:08:36.281-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68579627",
-    "titulo": "Banheira De Bebê Dobrável Portátil Com Termômetro Almofada Flutuante e Baleia Pluggei Select Pluggkids Mu1p Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645314-MLA110532086626_052026-F.jpg",
-    "preco": 169.9,
-    "preco_anterior": 360,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1TG5W1R",
-    "atualizado_em": "2026-11-09T20:00:28.532-03:00"
   }
 ]
