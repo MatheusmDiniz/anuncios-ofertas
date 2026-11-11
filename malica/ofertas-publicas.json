@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB50664242",
+    "titulo": "Cadeira Para Carro 9 A 36kg Styll Baby - Disney Cor Preto Stitch",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_861099-MLA85108374990_052025-F.jpg",
+    "preco": 369.41,
+    "preco_anterior": 619,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BWaQSs",
+    "atualizado_em": "2026-11-11T20:38:54.180-03:00"
+  },
+  {
     "id": "shopee:1466920167.23094751141",
     "titulo": "Macacão Bebê Menina Qualidade Premium Tecido Extra Macio Manga Longa RN 3 meses 6 meses 9 meses",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mimqgyc3vchu02",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1q9knY1",
     "atualizado_em": "2026-11-10T08:44:47.323-03:00"
-  },
-  {
-    "id": "shopee:790794583.58213955100",
-    "titulo": "Kit 3 Macacões Bebê Infantil 100% Algodão para Menino Macacão com Zíper Vira Pé",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mb-mqv5045w91j4a7",
-    "preco": 66.9,
-    "preco_anterior": 109.67,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9KjTFPJqI0",
-    "atualizado_em": "2026-11-10T08:36:40.406-03:00"
   }
 ]
