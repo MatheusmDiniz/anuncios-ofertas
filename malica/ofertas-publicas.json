@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1700242901.58268241987",
+    "titulo": "Kit 5 Macacão de Bebê Roupa Menino Estampado Ziper Animado Estampado Algodão Verão Maternidade",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-mt6zr709a2h107",
+    "preco": 79.89,
+    "preco_anterior": 114.13,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/W87Z6TGIe",
+    "atualizado_em": "2026-11-10T21:52:19.606-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28131603",
     "titulo": "Canguru de Bebê Aiebao Ergonômico Cinza 4 Posições Com Bolsos Ajustável",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_924558-MLA120363058695_102026-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8fTmSbpPGz",
     "atualizado_em": "2026-11-09T09:57:09.765-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67071722",
-    "titulo": "Bicicleta De Equilibrio Infantil Sem Pedal Verde 21270 Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_927876-MLA111293501262_052026-F.jpg",
-    "preco": 228,
-    "preco_anterior": 390.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1n8d434",
-    "atualizado_em": "2026-11-09T09:49:02.279-03:00"
   }
 ]
