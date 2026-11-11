@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB39456030",
+    "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
+    "preco": 139,
+    "preco_anterior": 290.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2z6HbkP",
+    "atualizado_em": "2026-11-11T20:06:22.690-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25687130",
     "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1zp1qGc",
     "atualizado_em": "2026-11-10T08:12:24.889-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79495523",
-    "titulo": "Berço Co-sleeper Multifuncional Portátil Com Mosquiteiro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866011-MLA117838148765_092026-F.jpg",
-    "preco": 480.15,
-    "preco_anterior": 1100,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1u6uy2V",
-    "atualizado_em": "2026-11-10T08:04:18.663-03:00"
   }
 ]
