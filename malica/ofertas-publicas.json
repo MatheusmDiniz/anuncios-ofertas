@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:352018242.14907891040",
+    "titulo": "Body Bebê Manga Longa Liso cotton Confortável 0 a 9 Meses Enxoval Bebê",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lt-mqx9s6gxkk5i36",
+    "preco": 9.98,
+    "preco_anterior": 16.92,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/50aWplKiFH",
+    "atualizado_em": "2026-11-10T21:03:33.736-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68281213",
     "titulo": "Cadeira De Descanso E Balanço Para Bebê Vibratória Musical Azul Sapo",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_666015-MLA109703251514_042026-F.jpg",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/LofEaRipG",
     "atualizado_em": "2026-11-09T09:08:05.891-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB78750171",
-    "titulo": "Mesa de Atividades Pescaria Infantil Com Água Torneira Elétrica Cozinha Interativa Aquapark Maxi Toys",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_691578-MLA116990432615_082026-F.jpg",
-    "preco": 117,
-    "preco_anterior": 199.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1zCJrKX",
-    "atualizado_em": "2026-11-09T09:00:00.232-03:00"
   }
 ]
