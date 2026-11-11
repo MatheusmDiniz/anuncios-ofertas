@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1223806395.22892934435",
+    "titulo": "Kit 2 Peças Roupa Bebê Conjunto Camiseta e Bermuda 3 á 6 meses",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mrt1rmwpdkw7f5",
+    "preco": 20.99,
+    "preco_anterior": 55.24,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6fimYIkI6d",
+    "atualizado_em": "2026-11-11T20:22:39.191-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18581975",
     "titulo": "LEGO Classic Caixa Média de Peças Criativas 10696; peças LEGO em 35 cores diferentes; Conjunto criativo para construir modelos variados; Para construtores de todas as idades; Presente de Natal",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_797918-MLA118813862854_102026-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11gbNRK",
     "atualizado_em": "2026-11-10T08:28:35.127-03:00"
-  },
-  {
-    "id": "shopee:341065422.7578526450",
-    "titulo": "Kit 21 Pçs Maternidade Roupa De Bebê Menina E Menino",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mqonvom8kkcg78",
-    "preco": 62,
-    "preco_anterior": 108.77,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/20wuoGTAGl",
-    "atualizado_em": "2026-11-10T08:20:29.120-03:00"
   }
 ]
