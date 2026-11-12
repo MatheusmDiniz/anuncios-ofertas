@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1789538381.58267238971",
+    "titulo": "Kit Body Bebê 3 Peças para bebê Conjunto de Bebê Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ln-msil8h33zapxc3",
+    "preco": 30,
+    "preco_anterior": 100,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8VARjz9d4O",
+    "atualizado_em": "2026-11-12T08:20:30.239-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB70077181",
     "titulo": "Berço De Boneca Bercinho E Caminha 55cm Brinquedo Infantil Rosa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_987921-MLA114257103599_072026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11ikxV4",
     "atualizado_em": "2026-11-10T20:23:01.374-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215261",
-    "titulo": "Triciclo Kendy Kemotoca Baby Dog Roxa e Tifanny Motoca Infantil Com Protetor Haste Menina Brinquedo BQ0514M",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_962872-MLA82742597094_032025-F.jpg",
-    "preco": 185.89,
-    "preco_anterior": 335.32,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1wX6sG8",
-    "atualizado_em": "2026-11-10T20:14:54.526-03:00"
   }
 ]
