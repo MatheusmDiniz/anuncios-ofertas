@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB38625704",
+    "titulo": "Maxi Baby Cadeira de Descanso e Balanço Bebê Musical Fun Time Felix Leão",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888419-MLA96100910825_102025-F.jpg",
+    "preco": 169.9,
+    "preco_anterior": 329.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ofsJJZ",
+    "atualizado_em": "2026-11-12T09:01:01.985-03:00"
+  },
+  {
     "id": "shopee:1443637814.51006015979",
     "titulo": "Kit 400 Toalhas Umedecidas Chameguinho Baby Lenço Umedecido Infantil Higiene Bebê Menina Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkij2fr51lhfd4",
@@ -1178,15 +1188,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/50aWplKiFH",
     "atualizado_em": "2026-11-10T21:03:33.736-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68281213",
-    "titulo": "Cadeira De Descanso E Balanço Para Bebê Vibratória Musical Azul Sapo",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666015-MLA109703251514_042026-F.jpg",
-    "preco": 198.92,
-    "preco_anterior": 387.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fv8jfS",
-    "atualizado_em": "2026-11-10T20:55:28.853-03:00"
   }
 ]
