@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1457183329.22399794620",
+    "titulo": "Casaquinho Infantil Menina Tricot Losango Botões Babado",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mtoyh7d070u8e7",
+    "preco": 41.1,
+    "preco_anterior": 89.35,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7Af4aixwDI",
+    "atualizado_em": "2026-11-12T20:30:53.472-03:00"
+  },
+  {
     "id": "shopee:1912142877.58218129517",
     "titulo": "Piscina Inflável 4000L 4 Camadas, PVC de Alta Resistência, Diversão ao Ar Livre para Adultos e Crianças",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mtrj69dzgb9d12",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/4B1Q1QpawA",
     "atualizado_em": "2026-11-11T08:37:01.647-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28203800",
-    "titulo": "Trocador Portátil Bege de Algodão Impermeável Batistela Baby Dobrável Lavável Unissex",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_908952-MLA113098695541_062026-F.jpg",
-    "preco": 93.9,
-    "preco_anterior": 199,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2ms1HNX",
-    "atualizado_em": "2026-11-11T08:28:56.490-03:00"
   }
 ]
