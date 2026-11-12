@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1203507772.46158837765",
+    "titulo": "2 Macacões Bebê Menina Abelhinha/Cerejinha Vira Pé Quentinho com Zíper 100% Algodão RN ao GG",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn1njp8wbvggcd",
+    "preco": 47.42,
+    "preco_anterior": 80.37,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5AtzltYmMY",
+    "atualizado_em": "2026-11-12T08:36:40.344-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72878586",
     "titulo": "Bicicleta de Equilíbrio Infantil com Guidão Ajustável para Crianças de 1 a 2 Anos",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_683598-MLA116816357821_082026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LSJ2HVwU5",
     "atualizado_em": "2026-11-10T20:39:14.831-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46048641",
-    "titulo": "Berço 2 em 1 Americano Vira Cama Slim Com Colchão E Grade Removível Pés em Madeira Cor Freijo Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_648832-MLA112305127874_062026-F.jpg",
-    "preco": 465.41,
-    "preco_anterior": 899,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2WKWntF",
-    "atualizado_em": "2026-11-10T20:31:08.830-03:00"
   }
 ]
