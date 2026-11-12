@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63158085",
+    "titulo": "Mobile Musical Berço Bebê Projetor Estrelas Controle Remoto Rotação 360",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_630465-MLA119888186361_102026-F.jpg",
+    "preco": 115,
+    "preco_anterior": 229.95,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BguL6N",
+    "atualizado_em": "2026-11-12T08:04:19.891-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB46053660",
     "titulo": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 77243; Conjunto de construção de carro de corrida; Modelo de Fórmula 1 com detalhes autênticos; Inclui piloto; Presente de Natal; 10+",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_817165-MLA118813572752_102026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2SS1khn",
     "atualizado_em": "2026-11-10T20:06:44.206-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB62692699",
-    "titulo": "Triciclo Totokinha Sport Rosa Cardoso Toys com Buzina e Porta-Objetos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613494-MLA99989589965_112025-F.jpg",
-    "preco": 111,
-    "preco_anterior": 198.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2GsrEvD",
-    "atualizado_em": "2026-11-10T19:58:35.921-03:00"
   }
 ]
