@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1443637814.51006015979",
+    "titulo": "Kit 400 Toalhas Umedecidas Chameguinho Baby Lenço Umedecido Infantil Higiene Bebê Menina Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkij2fr51lhfd4",
+    "preco": 24.9,
+    "preco_anterior": 49.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/BVJowuYPk",
+    "atualizado_em": "2026-11-12T08:52:54.376-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB65579852",
     "titulo": "Adora Bebê Reborn Bonecas Realista De Silicone Menina 48 Cm",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_794094-MLA106544309108_022026-F.jpg",
@@ -1178,15 +1188,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fv8jfS",
     "atualizado_em": "2026-11-10T20:55:28.853-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB44958164",
-    "titulo": "Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby Segura Cor Cinza Cor",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_627665-MLA113620705920_072026-F.jpg",
-    "preco": 171,
-    "preco_anterior": 350,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1Jw2wPh",
-    "atualizado_em": "2026-11-10T20:47:22.324-03:00"
   }
 ]
