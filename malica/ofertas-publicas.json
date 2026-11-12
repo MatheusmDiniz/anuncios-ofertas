@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52486221",
+    "titulo": "Bomba Tira Leite Materno Compact Charge Autómatica G-tech",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888785-MLA99981333287_112025-F.jpg",
+    "preco": 155,
+    "preco_anterior": 299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2tMg758",
+    "atualizado_em": "2026-11-11T21:03:12.466-03:00"
+  },
+  {
     "id": "shopee:717747327.58217452095",
     "titulo": "Kit 3 Bodys Bebê Menina Alcinha 100% algodão para bebes de 0 a 12 meses REgatinha Bories Bodies Criança Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-msn71uyz9yx047",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AtwaLAAJI",
     "atualizado_em": "2026-11-10T09:09:07.356-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB41850546",
-    "titulo": "Boneco Articulado Sonic para Coleção de \"Sonic 3: o Filme\" da Sunny",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789386-MLA99925692943_112025-F.jpg",
-    "preco": 114,
-    "preco_anterior": 199.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2CWFiZP",
-    "atualizado_em": "2026-11-10T09:01:01.196-03:00"
   }
 ]
