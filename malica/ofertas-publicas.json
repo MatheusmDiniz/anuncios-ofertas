@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56100259",
+    "titulo": "Boné New Era 9TWENTY Los Angeles Cor Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_766279-MLA92029731880_092025-F.jpg",
+    "preco": 135,
+    "preco_anterior": 229.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/24s25NK",
+    "atualizado_em": "2026-11-12T09:49:38.918-03:00"
+  },
+  {
     "id": "shopee:375201738.23595018021",
     "titulo": "Pote 10/50/100 Peças Grampos De Cabelo Com Estrela Colorida Para Meninas , Da Moda , Franja Lateral  Acessórios Infantil",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-824io-mptj0k28lonj23",
@@ -1178,15 +1188,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/W87Z6TGIe",
     "atualizado_em": "2026-11-10T21:52:19.606-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28131603",
-    "titulo": "Canguru de Bebê Aiebao Ergonômico Cinza 4 Posições Com Bolsos Ajustável",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924558-MLA120363058695_102026-F.jpg",
-    "preco": 79.9,
-    "preco_anterior": 169.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1jVQ4c9",
-    "atualizado_em": "2026-11-10T21:44:08.167-03:00"
   }
 ]
