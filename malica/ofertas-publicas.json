@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:504754787.23793169776",
+    "titulo": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
+    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e",
+    "preco": 179.9,
+    "preco_anterior": 321.25,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5VWqxl0yeK",
+    "atualizado_em": "2026-11-12T20:14:39.735-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215255",
     "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/8VAQ9G0or3",
     "atualizado_em": "2026-11-11T08:20:48.497-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB35340738",
-    "titulo": "Cadeira De Descanso Bebê Musical Vibratória Reclinável Modo Balanço Até 18kg Azul FunTime Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_787438-MLA119253165422_112026-F.jpg",
-    "preco": 178.9,
-    "preco_anterior": 349,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11s6NB4",
-    "atualizado_em": "2026-11-11T08:12:43.894-03:00"
   }
 ]
