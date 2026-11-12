@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215255",
+    "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
+    "preco": 169.89,
+    "preco_anterior": 335.17,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1iNRgZw",
+    "atualizado_em": "2026-11-12T20:06:35.772-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB77981385",
     "titulo": "Banheira Trocador Dobrável Termômetro Aloha Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_601188-MLA121131973993_112026-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/11s6NB4",
     "atualizado_em": "2026-11-11T08:12:43.894-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72720626",
-    "titulo": "Berço Portátil PipDip Co-Sleeper, Com Balanço e Colchão Extra Grosso",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642241-MLA115658811869_082026-F.jpg",
-    "preco": 497.9,
-    "preco_anterior": 1299.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/16AzQhD",
-    "atualizado_em": "2026-11-11T08:04:36.205-03:00"
   }
 ]
