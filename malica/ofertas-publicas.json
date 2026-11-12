@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63962761",
+    "titulo": "Boneca Bebê Reborn Silicone Realista Pode Dar Banho",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977791-MLA115898372069_082026-F.jpg",
+    "preco": 76.93,
+    "preco_anterior": 219.8,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2SJwgA7",
+    "atualizado_em": "2026-11-12T20:47:06.577-03:00"
+  },
+  {
     "id": "shopee:341167297.28341456148",
     "titulo": "Camisa Polo Bebe Menino Infantil Estilo Casual de algodão Basico nos tamanhos 2 ao 10 Camisa Social Polo L14",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mid913rd9zba24",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5q9eyZ5eQI",
     "atualizado_em": "2026-11-11T08:53:13.762-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB27350487",
-    "titulo": "Cadeira de Refeição Portátil Cosco Kids, Smart, Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665348-MLA95680321234_102025-F.jpg",
-    "preco": 113.9,
-    "preco_anterior": 209,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2TH4o9R",
-    "atualizado_em": "2026-11-11T08:45:08.789-03:00"
   }
 ]
