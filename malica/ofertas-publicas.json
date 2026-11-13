@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74536233",
+    "titulo": "Berço Infantil Baixo Para Criança 124x82 Com Proteção Lateral Antiqueda 100% Espuma Para Desenvolver Autonomia do Bebê",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_809941-MLA112555295338_062026-F.jpg",
+    "preco": 391,
+    "preco_anterior": 999.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ErKgNm",
+    "atualizado_em": "2026-11-13T08:08:35.276-03:00"
+  },
+  {
     "id": "shopee:1017646777.23794533285",
     "titulo": "Kit 10 Peças Roupinhas de Bebê Body E Mijão Para Menino",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnk7fzp9zojm4e",
@@ -1168,25 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2aHiwgX",
     "atualizado_em": "2026-11-11T20:14:32.348-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39456030",
-    "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
-    "preco": 139,
-    "preco_anterior": 290.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2z6HbkP",
-    "atualizado_em": "2026-11-11T20:06:22.690-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25687130",
-    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
-    "preco": 95.38,
-    "preco_anterior": 169.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26WmrW9",
-    "atualizado_em": "2026-11-11T19:58:15.817-03:00"
   }
 ]
