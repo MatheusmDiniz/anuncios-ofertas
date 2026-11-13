@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24070645",
+    "titulo": "Carrinho De Bebê Zap Compacto Dobrável - Burigotto, Metal Cobre",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_938116-MLA111193887117_052026-F.jpg",
+    "preco": 529,
+    "preco_anterior": 899,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/32hVjig",
+    "atualizado_em": "2026-11-13T09:05:20.856-03:00"
+  },
+  {
     "id": "shopee:231816406.23193410937",
     "titulo": "Prevenção de Estrias na Gravidez: Cuidado Completo Pré e Pós-Gestação",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjygg44h6c5id7",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LSKqRyEBY",
     "atualizado_em": "2026-11-11T21:11:17.290-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52486221",
-    "titulo": "Bomba Tira Leite Materno Compact Charge Autómatica G-tech",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888785-MLA99981333287_112025-F.jpg",
-    "preco": 155,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tMg758",
-    "atualizado_em": "2026-11-11T21:03:12.466-03:00"
   }
 ]
