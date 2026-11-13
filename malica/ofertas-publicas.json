@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26675721",
+    "titulo": "Atentu Cercadinho Para Bebê Cor Azul Infantil Chiqueirinho Criança",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749756-MLA95697851054_102025-F.jpg",
+    "preco": 129.9,
+    "preco_anterior": 219.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EASQR2",
+    "atualizado_em": "2026-11-13T09:37:48.433-03:00"
+  },
+  {
     "id": "shopee:427289175.54452415623",
     "titulo": "Kit 10, 8, 5 ou 3 Calcinhas Infantis Shortinho Macio e Respirável Premium",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m5-mr79un2a3itgcf",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B8ueBtatr",
     "atualizado_em": "2026-11-11T21:43:39.942-03:00"
-  },
-  {
-    "id": "shopee:314066583.6456673070",
-    "titulo": "Sapato Social Infantil Masculino 444 Preto Pajem Conforto Bico Quadrado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7qukw-lkh4h7oqg9wxa1",
-    "preco": 59.9,
-    "preco_anterior": 108.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9AQ7nCkM80",
-    "atualizado_em": "2026-11-11T21:35:34.860-03:00"
   }
 ]
