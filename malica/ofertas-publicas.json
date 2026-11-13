@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB32171138",
+    "titulo": "Berço Cosco Kids, Happy, 0 a 15kg, Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_876147-MLA97829391621_112025-F.jpg",
+    "preco": 444.37,
+    "preco_anterior": 799,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2BNL5cK",
+    "atualizado_em": "2026-11-13T15:02:27.229-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB29298117",
     "titulo": "Bicicleta De Equilibrio Infantil 4 Rodas Vermelho - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_851787-MLU77882833591_072024-F.jpg",
