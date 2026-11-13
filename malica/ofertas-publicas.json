@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB51529842",
+    "titulo": "Bicicleta De Equilíbrio Sem Pedal Dino Rosa Yuupi",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_875968-MLA96897806280_112025-F.jpg",
+    "preco": 191,
+    "preco_anterior": 336.33,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/17Zq9UL",
+    "atualizado_em": "2026-11-12T21:03:18.893-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB79849303",
     "titulo": "Berço Portátil Moisés Para Bebê Acoplado Na Cama Com Colchão - CINZA",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_767560-MLA116997363340_102026-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6q2B6x4IcB",
     "atualizado_em": "2026-11-11T09:09:24.602-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73107704",
-    "titulo": "Berço Funcional Móveis Bela Americano 3 em 1 com Colchão e Rodízios Branco",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_626480-MLA115109711326_082026-F.jpg",
-    "preco": 502.9,
-    "preco_anterior": 899,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2htw3T2",
-    "atualizado_em": "2026-11-11T09:01:20.149-03:00"
   }
 ]
