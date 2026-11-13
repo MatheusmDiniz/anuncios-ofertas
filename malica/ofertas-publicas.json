@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79495523",
+    "titulo": "Berço Co-sleeper Multifuncional Portátil Com Mosquiteiro",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866011-MLA117838148765_092026-F.jpg",
+    "preco": 480.15,
+    "preco_anterior": 1100,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1u6uy2V",
+    "atualizado_em": "2026-11-13T08:32:54.774-03:00"
+  },
+  {
     "id": "shopee:341167297.20698276094",
     "titulo": "Conjunto Moletom Bebe Menino Escolha Seu Modelo, com Estampas Divertidas e Conforto Infantil Bebê Masculino Inverno l16",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mmt2ay8nyu4ge2",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1BWaQSs",
     "atualizado_em": "2026-11-11T20:38:54.180-03:00"
-  },
-  {
-    "id": "shopee:1466920167.23094751141",
-    "titulo": "Macacão Bebê Menina Qualidade Premium Tecido Extra Macio Manga Longa RN 3 meses 6 meses 9 meses",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mimqgyc3vchu02",
-    "preco": 39,
-    "preco_anterior": 69.64,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8fTqWQRVeW",
-    "atualizado_em": "2026-11-11T20:30:46.320-03:00"
   }
 ]
