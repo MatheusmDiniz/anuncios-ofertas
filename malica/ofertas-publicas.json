@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB73900526",
+    "titulo": "Colflex Whey Protein Sabor Baunilha em Sachê com 20g de Proteína",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
+    "preco": 80.53,
+    "preco_anterior": 149,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2dmTSBy",
+    "atualizado_em": "2026-11-12T21:27:41.779-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB22323833",
     "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1HLmEzf",
     "atualizado_em": "2026-11-11T09:33:47.002-03:00"
-  },
-  {
-    "id": "shopee:989001237.23397999673",
-    "titulo": "Kit 6 Peças de Roupas Menina 3 Conjuntos Verão Infantil Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-mudu7x5ourr49d",
-    "preco": 47.9,
-    "preco_anterior": 82.59,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/906fh5ITCR",
-    "atualizado_em": "2026-11-11T09:25:39.402-03:00"
   }
 ]
