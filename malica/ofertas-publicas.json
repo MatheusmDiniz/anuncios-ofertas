@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB22323833",
+    "titulo": "Ursinho Que Reza Azul Urso De Pelucia Hipoalergênico Buba",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA95708595806_102025-F.jpg",
+    "preco": 110.57,
+    "preco_anterior": 349.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2USZ6QU",
+    "atualizado_em": "2026-11-12T21:19:33.072-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26727193",
     "titulo": "Berço Portátil Serenata Black Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_633344-MLA99978521031_112025-F.jpg",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/906fh5ITCR",
     "atualizado_em": "2026-11-11T09:25:39.402-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17876092",
-    "titulo": "Sabonete Líquido Glicerina Da Cabeça Aos Pés Johnson's Baby, 400ml",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759458-MLA109736226025_032026-F.jpg",
-    "preco": 22.78,
-    "preco_anterior": 41.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1xXuLrP",
-    "atualizado_em": "2026-11-11T09:17:32.827-03:00"
   }
 ]
