@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1017646777.23794533285",
+    "titulo": "Kit 10 Peças Roupinhas de Bebê Body E Mijão Para Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnk7fzp9zojm4e",
+    "preco": 63.98,
+    "preco_anterior": 130.57,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LSLaUTIYt",
+    "atualizado_em": "2026-11-12T21:52:03.641-03:00"
+  },
+  {
     "id": "shopee:838371884.58264949124",
     "titulo": "Conjunto Infantil Bebê (Body + Short) Suedine 100% Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mr1o27m0nu2t7f",
@@ -1918,15 +1928,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qW3P6xmwO",
     "atualizado_em": "2026-11-11T09:58:03.451-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB80306191",
-    "titulo": "Berço Portátil Bebe Moises Acoplado AMR-6272 Colchao com mosqueteiro L'AMOR Cor Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_921498-MLA117363268892_102026-F.jpg",
-    "preco": 422.95,
-    "preco_anterior": 899.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2wdK6Tw",
-    "atualizado_em": "2026-11-11T09:49:58.866-03:00"
   }
 ]
