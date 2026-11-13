@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB80715442",
+    "titulo": "Cadeira Portátil Dobrável e Altura Ajustável para Bebê com Bandeja Lulacude M-199",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877947-MLA118185437878_102026-F.jpg",
+    "preco": 197.15,
+    "preco_anterior": 386.58,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2kfLie4",
+    "atualizado_em": "2026-11-13T08:16:41.222-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB74536233",
     "titulo": "Berço Infantil Baixo Para Criança 124x82 Com Proteção Lateral Antiqueda 100% Espuma Para Desenvolver Autonomia do Bebê",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_809941-MLA112555295338_062026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6fimYIkI6d",
     "atualizado_em": "2026-11-11T20:22:39.191-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB18581975",
-    "titulo": "LEGO Classic Caixa Média de Peças Criativas 10696; peças LEGO em 35 cores diferentes; Conjunto criativo para construir modelos variados; Para construtores de todas as idades; Presente de Natal",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797918-MLA118813862854_102026-F.jpg",
-    "preco": 188.99,
-    "preco_anterior": 349.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2aHiwgX",
-    "atualizado_em": "2026-11-11T20:14:32.348-03:00"
   }
 ]
