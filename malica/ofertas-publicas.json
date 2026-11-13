@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB75505072",
+    "titulo": "Suporte de Banho Infantil Ajustável Bebê em Pé Base Antiderrapante SekBem Verde",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_951714-MLA114762250048_082026-F.jpg",
+    "preco": 189.9,
+    "preco_anterior": 349.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EFuBi1",
+    "atualizado_em": "2026-11-13T09:54:02.477-03:00"
+  },
+  {
     "id": "shopee:406945148.28995110934",
     "titulo": "Jogo De Talheres 25 Peças Aço Inox Completo Com Suporte",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpwf5s4lsfsya4",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2NTCqF3",
     "atualizado_em": "2026-11-11T21:59:55.564-03:00"
-  },
-  {
-    "id": "shopee:1516718380.22199223664",
-    "titulo": "Kit Pulseira Colar Linda Diy 67pçs Com Porta de Joias Infantil Presente De Aniversário Para Meninas",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8227d-mhdfwuem7h1r0d",
-    "preco": 44.99,
-    "preco_anterior": 99.98,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/6VPLlpAh0w",
-    "atualizado_em": "2026-11-11T21:51:45.369-03:00"
   }
 ]
