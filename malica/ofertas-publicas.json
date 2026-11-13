@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB66595119",
+    "titulo": "Bebê Boneca Reborn Menina Maddie Unicórnio Corpinho Silicone",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_659154-MLA107901202678_032026-F.jpg",
+    "preco": 96.9,
+    "preco_anterior": 189.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1xo8gb8",
+    "atualizado_em": "2026-11-13T20:34:52.142-03:00"
+  },
+  {
     "id": "shopee:864888375.23494054261",
     "titulo": "Grade Portão Proteção Para Cães Cachorro Criança  69cm A 84 Cm Promoção Envio Imediato",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztj-mkpwmsn0fhtsd3",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5AtzltYmMY",
     "atualizado_em": "2026-11-12T08:36:40.344-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72878586",
-    "titulo": "Bicicleta de Equilíbrio Infantil com Guidão Ajustável para Crianças de 1 a 2 Anos",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_683598-MLA116816357821_082026-F.jpg",
-    "preco": 76.53,
-    "preco_anterior": 157.47,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/24PkVwS",
-    "atualizado_em": "2026-11-12T08:28:35.940-03:00"
   }
 ]
