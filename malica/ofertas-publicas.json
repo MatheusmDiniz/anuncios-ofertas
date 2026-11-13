@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB57344166",
+    "titulo": "Banheira Dobrável Portátil Para Adultos Fácil De Guardar Branco Lisa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_841576-MLA96689652287_102025-F.jpg",
+    "preco": 89.99,
+    "preco_anterior": 149.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2LaoDLS",
+    "atualizado_em": "2026-11-13T09:21:33.797-03:00"
+  },
+  {
     "id": "shopee:526322886.58200973028",
     "titulo": "Trava de Segurança Para Geladeira Gavetas Multiuso Adesiva Protetor Infantíl Fechadura Porta Armário",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhgnsxvnc4ci2c",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LSKqTOdR6",
     "atualizado_em": "2026-11-11T21:27:29.550-03:00"
-  },
-  {
-    "id": "shopee:396810889.58259925978",
-    "titulo": "Colete Menino Social Infantil Clássico Premium",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mq6o6oc9x81v03",
-    "preco": 36.4,
-    "preco_anterior": 61.69,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/30pURqhq1v",
-    "atualizado_em": "2026-11-11T21:19:21.669-03:00"
   }
 ]
