@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1360626051.21199706091",
+    "titulo": "Vestido ciganinha plus size para gestantes leve e fresquinho com mangas",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mu4z3fq70cua4f",
+    "preco": 45.98,
+    "preco_anterior": 65.69,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9pfshqM66F",
+    "atualizado_em": "2026-11-14T20:41:27.252-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25687130",
     "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/26wpqE9",
     "atualizado_em": "2026-11-13T08:49:08.862-03:00"
-  },
-  {
-    "id": "shopee:1343500572.58253877482",
-    "titulo": "Kit Tricô Saida Maternidade Macacão Manga Longa e Manta Tranças Recém Nascido Unissex Tricot",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mtv9v5sat43l1d",
-    "preco": 59,
-    "preco_anterior": 155.26,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3B8vZCHx0v",
-    "atualizado_em": "2026-11-13T08:41:01.402-03:00"
   }
 ]
