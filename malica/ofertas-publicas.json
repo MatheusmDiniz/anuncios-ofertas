@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:983839166.42635325033",
+    "titulo": "Kit 4 peças Body Regata e Short Menina Menino P ao G",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mujcl1q8ia6bdd",
+    "preco": 25.98,
+    "preco_anterior": 41.9,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/6AmWxkzIUx",
+    "atualizado_em": "2026-11-13T21:39:42.032-03:00"
+  },
+  {
     "id": "shopee:435692544.22292641071",
     "titulo": "Kit 6 Peças Body Manga Longa e Calça de Bebê Confortável 100% Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-muxwwrtbw2khad",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/gRaPwqdAi",
     "atualizado_em": "2026-11-12T09:41:32.559-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26678497",
-    "titulo": "Ursinho De Brinquedo Para Criança Menina Que Reza - Buba Cor Rosa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666002-MLA99510053086_112025-F.jpg",
-    "preco": 105,
-    "preco_anterior": 399.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EYcHFA",
-    "atualizado_em": "2026-11-12T09:33:27.841-03:00"
   }
 ]
