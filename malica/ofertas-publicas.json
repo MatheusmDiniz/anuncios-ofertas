@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:435692544.22694907838",
+    "titulo": "Roupa Para Bebê Kit 2 Macacão Amore Vira Pé Bolinha Rosa e Rosa 100% Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-muuskc80ighsdc",
+    "preco": 56.99,
+    "preco_anterior": 99.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2gCenHDQDN",
+    "atualizado_em": "2026-11-14T08:17:37.277-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB26851070",
     "titulo": "Burigotto Kit Banho Branco",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9fMPvRJq9l",
     "atualizado_em": "2026-11-12T20:22:47.893-03:00"
-  },
-  {
-    "id": "shopee:504754787.23793169776",
-    "titulo": "Bicicleta Infantil Aro 12 Freio Tambor 1 Marcha Cestinha Nathor C/ Rodinha Menina de 90cm a 1m",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lg-mqyemhwtko3o9e",
-    "preco": 179.9,
-    "preco_anterior": 321.25,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VWqxl0yeK",
-    "atualizado_em": "2026-11-12T20:14:39.735-03:00"
   }
 ]
