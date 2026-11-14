@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25326850",
+    "titulo": "Safety 1st, Berço Mini Play, Grey Denim",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640060-MLA99580387268_122025-F.jpg",
+    "preco": 348.8,
+    "preco_anterior": 599,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/29eVXXH",
+    "atualizado_em": "2026-11-14T09:30:35.329-03:00"
+  },
+  {
     "id": "shopee:378105312.20997656316",
     "titulo": "Pano de Boca Kit 6 Unidades Paninho Fralda de Bebe 100% Algodão 30cmx30cm",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rccl-ltfjisspmlrbad",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2hcwfVV",
     "atualizado_em": "2026-11-12T21:35:49.969-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB73900526",
-    "titulo": "Colflex Whey Protein Sabor Baunilha em Sachê com 20g de Proteína",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687800-MLA113364682283_062026-F.jpg",
-    "preco": 80.53,
-    "preco_anterior": 149,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2dmTSBy",
-    "atualizado_em": "2026-11-12T21:27:41.779-03:00"
   }
 ]
