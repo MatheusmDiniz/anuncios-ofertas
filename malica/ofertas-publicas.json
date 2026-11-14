@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46557712",
+    "titulo": "Trocador Dobrável para Bebê INICO com Proteção Lateral Porta-Fraldas Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765902-MLA99386188350_112025-F.jpg",
+    "preco": 849.4,
+    "preco_anterior": 1999,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/14K4gma",
+    "atualizado_em": "2026-11-14T08:58:11.283-03:00"
+  },
+  {
     "id": "shopee:967746038.23298976362",
     "titulo": "Kit 3 Pares Rosquinhas de Amamentação Protetor 100% Algodão Macio 6 - Unidades",
     "imagem": "https://cf.shopee.com.br/file/br-11134201-820lq-mqxxkeb5tekmb3",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/17Zq9UL",
     "atualizado_em": "2026-11-12T21:03:18.893-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79849303",
-    "titulo": "Berço Portátil Moisés Para Bebê Acoplado Na Cama Com Colchão - CINZA",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_767560-MLA116997363340_102026-F.jpg",
-    "preco": 399.9,
-    "preco_anterior": 699.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2QSj5X3",
-    "atualizado_em": "2026-11-12T20:55:13.134-03:00"
   }
 ]
