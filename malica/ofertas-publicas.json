@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26851070",
+    "titulo": "Burigotto Kit Banho Branco",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751805-MLA96144598793_102025-F.jpg",
+    "preco": 188,
+    "preco_anterior": 510,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ZobV6E",
+    "atualizado_em": "2026-11-14T08:09:32.806-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72143098",
     "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5VWqxl0yeK",
     "atualizado_em": "2026-11-12T20:14:39.735-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215255",
-    "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
-    "preco": 169.89,
-    "preco_anterior": 335.17,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1iNRgZw",
-    "atualizado_em": "2026-11-12T20:06:35.772-03:00"
   }
 ]
