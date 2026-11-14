@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72143098",
+    "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
+    "preco": 393.82,
+    "preco_anterior": 1299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Jw4v7e",
+    "atualizado_em": "2026-11-14T08:01:25.960-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB19508448",
     "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360° e Isofix, Grey Urban",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_937293-MLA99923232791_112025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1iNRgZw",
     "atualizado_em": "2026-11-12T20:06:35.772-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB77981385",
-    "titulo": "Banheira Trocador Dobrável Termômetro Aloha Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601188-MLA121131973993_112026-F.jpg",
-    "preco": 235.99,
-    "preco_anterior": 589.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2aRbBST",
-    "atualizado_em": "2026-11-12T19:58:30.025-03:00"
   }
 ]
