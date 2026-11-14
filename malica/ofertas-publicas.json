@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1739680653.58254475581",
+    "titulo": "Kit Pagâo Gola Bordada 5 Peças Malha Hiporlergênico 100% Algodâo.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mshdv1kjpwjpd1",
+    "preco": 17.5,
+    "preco_anterior": 44.87,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8pnI8ep95D",
+    "atualizado_em": "2026-11-14T08:33:49.145-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB50501874",
     "titulo": "Cadeira Descanso Bebê Musical Vibratória Space Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_910669-MLA96179966851_102025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6AmXUDM5ZP",
     "atualizado_em": "2026-11-12T20:38:58.828-03:00"
-  },
-  {
-    "id": "shopee:1457183329.22399794620",
-    "titulo": "Casaquinho Infantil Menina Tricot Losango Botões Babado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mtoyh7d070u8e7",
-    "preco": 41.1,
-    "preco_anterior": 89.35,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7Af4aixwDI",
-    "atualizado_em": "2026-11-12T20:30:53.472-03:00"
   }
 ]
