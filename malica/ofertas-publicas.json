@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1045804093.22592963497",
+    "titulo": "Travesseiro Anti-Sufocante para Bebê",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd5z-lu13aufidn1518",
+    "preco": 10.99,
+    "preco_anterior": 26.17,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3qOg7A7LVz",
+    "atualizado_em": "2026-11-14T20:09:03.373-03:00"
+  },
+  {
     "id": "shopee:1655543665.58260122884",
     "titulo": "Kit 3, 5 ou 10 Calcinha Cintura Alta Plus Size Modeladora Feminina Microfibra Calçola Senhora Pós Parto Tangão Básica",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mnvh8r1s03y89d",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2kfLie4",
     "atualizado_em": "2026-11-13T08:16:41.222-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536233",
-    "titulo": "Berço Infantil Baixo Para Criança 124x82 Com Proteção Lateral Antiqueda 100% Espuma Para Desenvolver Autonomia do Bebê",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_809941-MLA112555295338_062026-F.jpg",
-    "preco": 391,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ErKgNm",
-    "atualizado_em": "2026-11-13T08:08:35.276-03:00"
   }
 ]
