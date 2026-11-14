@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18626757",
+    "titulo": "Triciclo Infantil Cardoso Totokinha Ariel Azul 1-3 Anos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_865500-MLA99942056617_112025-F.jpg",
+    "preco": 116.39,
+    "preco_anterior": 227.59,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2CuGA1e",
+    "atualizado_em": "2026-11-14T09:14:24.167-03:00"
+  },
+  {
     "id": "shopee:1724251952.52568339053",
     "titulo": "Squishy Butter Manteiga Gigante 24cm e 13,5cm Super Macio Fofinho Surpresa Antistresse Fidget Toy Sensorial Queijo",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l4-mth6nk3rbe9tf6",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2USZ6QU",
     "atualizado_em": "2026-11-12T21:19:33.072-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB26727193",
-    "titulo": "Berço Portátil Serenata Black Burigotto",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_633344-MLA99978521031_112025-F.jpg",
-    "preco": 545,
-    "preco_anterior": 919,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hb59CS",
-    "atualizado_em": "2026-11-12T21:11:25.550-03:00"
   }
 ]
