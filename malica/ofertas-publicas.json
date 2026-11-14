@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:416404910.21999359058",
+    "titulo": "Fantasia Roupa Infantil Batman Herói Menino Curta Com Capa e 2 Máscara",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mckt4pqrnmyp53",
+    "preco": 48.98,
+    "preco_anterior": 79,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LSPbsDWzp",
+    "atualizado_em": "2026-11-14T20:49:32.003-03:00"
+  },
+  {
     "id": "shopee:1360626051.21199706091",
     "titulo": "Vestido ciganinha plus size para gestantes leve e fresquinho com mangas",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mu4z3fq70cua4f",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1LhIo6RFhL",
     "atualizado_em": "2026-11-13T08:57:14.758-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB57526585",
-    "titulo": "Almofada De Atividades Buba Bebe Infantil Com Mordedor Cor Branco Panda",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_842441-MLA96213465806_102025-F.jpg",
-    "preco": 119.99,
-    "preco_anterior": 259.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26wpqE9",
-    "atualizado_em": "2026-11-13T08:49:08.862-03:00"
   }
 ]
