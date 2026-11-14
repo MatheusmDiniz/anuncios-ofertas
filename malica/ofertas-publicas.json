@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB25687130",
+    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
+    "preco": 95.38,
+    "preco_anterior": 169.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/26WmrW9",
+    "atualizado_em": "2026-11-14T20:33:22.700-03:00"
+  },
+  {
     "id": "shopee:1304580988.58250632488",
     "titulo": "Macacão Infantil Jardineira Infantil Menino Calça Jeans com Bolso Lisa Fazendinha diversas cores 1 ao 3.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-msl8708ngef8c7",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3B8vZCHx0v",
     "atualizado_em": "2026-11-13T08:41:01.402-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79495523",
-    "titulo": "Berço Co-sleeper Multifuncional Portátil Com Mosquiteiro",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866011-MLA117838148765_092026-F.jpg",
-    "preco": 480.15,
-    "preco_anterior": 1100,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1u6uy2V",
-    "atualizado_em": "2026-11-13T08:32:54.774-03:00"
   }
 ]
