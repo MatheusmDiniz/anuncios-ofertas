@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72901008",
+    "titulo": "Banheira com Suporte Dobrável para Bebê Mini Assento Válvula de Esvaziamento 45 Litros Lisa Plástico Rígido Até 30kg PipDip",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847840-MLA116500118433_082026-F.jpg",
+    "preco": 272.63,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2EmEcUo",
+    "atualizado_em": "2026-11-14T09:46:48.252-03:00"
+  },
+  {
     "id": "shopee:375065208.58257350363",
     "titulo": "Jogo De Correspondência De Garrafas , Emparelhamento De Memória Criativa De Pensamento Lógico , Educação Infantil",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mm37e0y14d1jf4",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3LSLaUTIYt",
     "atualizado_em": "2026-11-12T21:52:03.641-03:00"
-  },
-  {
-    "id": "shopee:838371884.58264949124",
-    "titulo": "Conjunto Infantil Bebê (Body + Short) Suedine 100% Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mr1o27m0nu2t7f",
-    "preco": 23.49,
-    "preco_anterior": 35.06,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/30pVMtIaLs",
-    "atualizado_em": "2026-11-12T21:43:55.530-03:00"
   }
 ]
