@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB37709215",
+    "titulo": "Berço Cama Com Colchão Infantil Probel E Grade De Proteção Removível Branco Amadeirado Para Quarto De Bebê Menino Ou Menina Life",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_654719-MLA111154676854_052026-F.jpg",
+    "preco": 386,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2prT1Tt",
+    "atualizado_em": "2026-11-14T21:46:10.923-03:00"
+  },
+  {
     "id": "shopee:1835108407.58212048140",
     "titulo": "Suporte Posicionador Ajustador Cinto Segurança Infantil Para Conforto Viagens Carro",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lw-mp5amv1w3y8018",
@@ -1908,15 +1918,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1EFuBi1",
     "atualizado_em": "2026-11-13T09:54:02.477-03:00"
-  },
-  {
-    "id": "shopee:406945148.28995110934",
-    "titulo": "Jogo De Talheres 25 Peças Aço Inox Completo Com Suporte",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpwf5s4lsfsya4",
-    "preco": 24.64,
-    "preco_anterior": 37.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8fTtXcpFsO",
-    "atualizado_em": "2026-11-13T09:45:53.879-03:00"
   }
 ]
