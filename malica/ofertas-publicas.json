@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1592254271.58209403357",
+    "titulo": "Carrinho De Bebê Completo 3 EM 1 Apoapp Com Moisés e Bebe Conforto - Modelo Europeu Luxo",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mum42n3vc54ze2",
+    "preco": 712,
+    "preco_anterior": 1977.78,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/7pun5SskBT",
+    "atualizado_em": "2026-11-14T21:21:52.119-03:00"
+  },
+  {
     "id": "shopee:897514363.49206869091",
     "titulo": "Brastoy Kit de brinquedos robóticos científicos STEM 6 em 1 e 5 em 1",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-ms0p0a6eox6tbd",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/70LeZGddc8",
     "atualizado_em": "2026-11-13T09:29:38.822-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB57344166",
-    "titulo": "Banheira Dobrável Portátil Para Adultos Fácil De Guardar Branco Lisa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_841576-MLA96689652287_102025-F.jpg",
-    "preco": 89.99,
-    "preco_anterior": 149.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2LaoDLS",
-    "atualizado_em": "2026-11-13T09:21:33.797-03:00"
   }
 ]
