@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB46053660",
+    "titulo": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 77243; Conjunto de construção de carro de corrida; Modelo de Fórmula 1 com detalhes autênticos; Inclui piloto; Presente de Natal; 10+",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_817165-MLA118813572752_102026-F.jpg",
+    "preco": 135.99,
+    "preco_anterior": 275.37,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2C46hWk",
+    "atualizado_em": "2026-11-15T09:02:38.534-03:00"
+  },
+  {
     "id": "shopee:1062557396.20499032842",
     "titulo": "Fralda Pampers Confort Sec Jumbo Plus G com 128un",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rblv-lmyra1bqmje1f0",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/1W0jp9Vmnv",
     "atualizado_em": "2026-11-13T21:07:18.053-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB79384751",
-    "titulo": "Grade De Cama Box Ajustável Segurança Bebê Criança Proteção Cinza 1.8 Meters",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_989207-MLA116243771660_092026-F.jpg",
-    "preco": 134.99,
-    "preco_anterior": 237.38,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1EGce2P",
-    "atualizado_em": "2026-11-13T20:59:10.571-03:00"
   }
 ]
