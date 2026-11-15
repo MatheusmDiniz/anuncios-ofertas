@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62692699",
+    "titulo": "Triciclo Totokinha Sport Rosa Cardoso Toys com Buzina e Porta-Objetos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613494-MLA99989589965_112025-F.jpg",
+    "preco": 110,
+    "preco_anterior": 198.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GsrEvD",
+    "atualizado_em": "2026-11-15T08:30:10.681-03:00"
+  },
+  {
     "id": "shopee:1577083154.58215209635",
     "titulo": "Body Bebê Meninos Infantil Mêsversário Temático Kiko Tesouro Da Mamãe Chaves Chapolin Em Algodão Super Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mr8s0o38almu9c",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1xo8gb8",
     "atualizado_em": "2026-11-13T20:34:52.142-03:00"
-  },
-  {
-    "id": "shopee:864888375.23494054261",
-    "titulo": "Grade Portão Proteção Para Cães Cachorro Criança  69cm A 84 Cm Promoção Envio Imediato",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztj-mkpwmsn0fhtsd3",
-    "preco": 46.79,
-    "preco_anterior": 79.31,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/7Af61Mr2Qp",
-    "atualizado_em": "2026-11-13T20:26:45.119-03:00"
   }
 ]
