@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB63158085",
+    "titulo": "Mobile Musical Berço Bebê Projetor Estrelas Controle Remoto Rotação 360",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_630465-MLA119888186361_102026-F.jpg",
+    "preco": 115,
+    "preco_anterior": 229.95,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1BguL6N",
+    "atualizado_em": "2026-11-15T08:13:59.135-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB58896713",
     "titulo": "Cadeira Descanso Bebê Musical Polar Skyline Cinza Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_745077-MLA95972238140_102025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VPNXXQXsb",
     "atualizado_em": "2026-11-13T20:18:40.291-03:00"
-  },
-  {
-    "id": "shopee:1570487705.23394803901",
-    "titulo": "Kit 6/8 Bichinhos Para Banheira Banho Piscina Brincar Com Água Brinquedo Interativo Flutua Na Água Pato Peixinho",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8262g-mjebfre4xtl35d",
-    "preco": 16.39,
-    "preco_anterior": 27.32,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LZqjBYMsr",
-    "atualizado_em": "2026-11-13T20:10:32.395-03:00"
   }
 ]
