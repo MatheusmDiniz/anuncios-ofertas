@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:387937307.21899385767",
+    "titulo": "Kit 4 Compressa Em Gel Buba Para aliviar a febre Compressa refrescante buba",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ma-munv6f398f7le1",
+    "preco": 21.89,
+    "preco_anterior": 39.09,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/8VAUwHO323",
+    "atualizado_em": "2026-11-15T09:59:15.925-03:00"
+  },
+  {
     "id": "shopee:512962451.23094355849",
     "titulo": "Detergente  em pó pra roupa PercarbonatoANS1kg, Maciez limpador de roupas e manchas 1kg",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me06mvrblkw09f",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Jw4v7e",
     "atualizado_em": "2026-11-14T08:01:25.960-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB19508448",
-    "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360° e Isofix, Grey Urban",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_937293-MLA99923232791_112025-F.jpg",
-    "preco": 1335.38,
-    "preco_anterior": 2299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1ciQfH4",
-    "atualizado_em": "2026-11-13T21:55:57.200-03:00"
   }
 ]
