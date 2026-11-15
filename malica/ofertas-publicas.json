@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB18581975",
+    "titulo": "LEGO Classic Caixa Média de Peças Criativas 10696; peças LEGO em 35 cores diferentes; Conjunto criativo para construir modelos variados; Para construtores de todas as idades; Presente de Natal",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797918-MLA118813862854_102026-F.jpg",
+    "preco": 188.99,
+    "preco_anterior": 349.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2aHiwgX",
+    "atualizado_em": "2026-11-15T08:46:25.110-03:00"
+  },
+  {
     "id": "shopee:341167297.22736205362",
     "titulo": "Kit 4 Peças Moletom Minimalista Bebês Menina Baby Blusa e Calça Manga Longa Roupa de Frio Inverno Feminina Neném",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mn1et7jzfnk4b1",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1d8W4pk",
     "atualizado_em": "2026-11-13T20:51:03.941-03:00"
-  },
-  {
-    "id": "shopee:1130732424.22399173523",
-    "titulo": "Papai Noel Subindo Na Corda Decoração Elétrica Automática Bonecas De Pelúcia Brinquedos",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mrgqfqm8stfpdf",
-    "preco": 69.79,
-    "preco_anterior": 232.63,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5VWqmV1HZ0",
-    "atualizado_em": "2026-11-13T20:42:56.840-03:00"
   }
 ]
