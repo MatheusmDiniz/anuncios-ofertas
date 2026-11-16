@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:504754787.21199673118",
+    "titulo": "Cadeira de Descanso e Balanço P/ Bebê Baby Vibratória Com Musical e Brinquedos Didático Zippy Toys",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m839ativng1d1d",
+    "preco": 169.9,
+    "preco_anterior": 346.73,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/114WAE2ibF",
+    "atualizado_em": "2026-11-16T09:50:45.497-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24070645",
     "titulo": "Carrinho De Bebê Zap Compacto Dobrável - Burigotto, Metal Cobre",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_938116-MLA111193887117_052026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/7VHvLQtMam",
     "atualizado_em": "2026-11-14T21:54:15.996-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB37709215",
-    "titulo": "Berço Cama Com Colchão Infantil Probel E Grade De Proteção Removível Branco Amadeirado Para Quarto De Bebê Menino Ou Menina Life",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_654719-MLA111154676854_052026-F.jpg",
-    "preco": 386,
-    "preco_anterior": 699.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2prT1Tt",
-    "atualizado_em": "2026-11-14T21:46:10.923-03:00"
   }
 ]
