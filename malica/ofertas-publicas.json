@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1017646777.23794533285",
+    "titulo": "Kit 10 Peças Roupinhas de Bebê Body E Mijão Para Menino",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mnk7fzp9zojm4e",
+    "preco": 63.98,
+    "preco_anterior": 130.57,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80EGawjZ41",
+    "atualizado_em": "2026-11-16T08:37:48.193-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB81027070",
     "titulo": "Moisés Portátil Elétrico Ajustável com Co-Sleeping e Mosquiteiro",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_953726-MLA118543358992_102026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9pfshqM66F",
     "atualizado_em": "2026-11-14T20:41:27.252-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB25687130",
-    "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
-    "preco": 95.38,
-    "preco_anterior": 169.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/26WmrW9",
-    "atualizado_em": "2026-11-14T20:33:22.700-03:00"
   }
 ]
