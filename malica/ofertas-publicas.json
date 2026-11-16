@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:838371884.58264949124",
+    "titulo": "Conjunto Infantil Bebê (Body + Short) Suedine 100% Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mr1o27m0nu2t7f",
+    "preco": 23.49,
+    "preco_anterior": 35.06,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/9AQDhSpOee",
+    "atualizado_em": "2026-11-16T08:21:33.784-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB80715529",
     "titulo": "Cadeira Portátil Dobrável e Altura Ajustável para Bebê com Bandeja Lulacude M-199",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_865915-MLA118185337274_102026-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60TAhFECiI",
     "atualizado_em": "2026-11-14T20:25:16.059-03:00"
-  },
-  {
-    "id": "shopee:287287585.21699091414",
-    "titulo": "Sapatilha Antiderrapante Infantil Menino Sapato Aquática Sapatilha Piscina",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-loi7d9vm3iz0ad",
-    "preco": 44.47,
-    "preco_anterior": 74.12,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9V32reAcpr",
-    "atualizado_em": "2026-11-14T20:17:08.446-03:00"
   }
 ]
