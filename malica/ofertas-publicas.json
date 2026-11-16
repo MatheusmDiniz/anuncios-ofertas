@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24215255",
+    "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
+    "preco": 169.89,
+    "preco_anterior": 335.17,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1iNRgZw",
+    "atualizado_em": "2026-11-15T21:52:38.229-03:00"
+  },
+  {
     "id": "shopee:1126224431.23497604775",
     "titulo": "Relógio Digital Infantil À Prova D'água Com Display Luminoso Multifuncional Esportivo Para Meninos E Meninas Presentes",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lz-mqigqf0p2ltt27",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5q9jlIMx65",
     "atualizado_em": "2026-11-14T09:54:54.317-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB72901008",
-    "titulo": "Banheira com Suporte Dobrável para Bebê Mini Assento Válvula de Esvaziamento 45 Litros Lisa Plástico Rígido Até 30kg PipDip",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847840-MLA116500118433_082026-F.jpg",
-    "preco": 272.63,
-    "preco_anterior": 699.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2EmEcUo",
-    "atualizado_em": "2026-11-14T09:46:48.252-03:00"
   }
 ]
