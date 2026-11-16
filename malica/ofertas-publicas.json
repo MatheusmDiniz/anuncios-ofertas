@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 31.1,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-11-16T08:05:20.051-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24215255",
     "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3qOg7A7LVz",
     "atualizado_em": "2026-11-14T20:09:03.373-03:00"
-  },
-  {
-    "id": "shopee:1655543665.58260122884",
-    "titulo": "Kit 3, 5 ou 10 Calcinha Cintura Alta Plus Size Modeladora Feminina Microfibra Calçola Senhora Pós Parto Tangão Básica",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mnvh8r1s03y89d",
-    "preco": 31.89,
-    "preco_anterior": 56.95,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9KjcfG4PWu",
-    "atualizado_em": "2026-11-14T20:00:58.766-03:00"
   }
 ]
