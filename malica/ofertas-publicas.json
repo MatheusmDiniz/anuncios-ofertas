@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79849303",
+    "titulo": "Berço Portátil Moisés Para Bebê Acoplado Na Cama Com Colchão - CINZA",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_767560-MLA116997363340_102026-F.jpg",
+    "preco": 399.9,
+    "preco_anterior": 699.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2QSj5X3",
+    "atualizado_em": "2026-11-15T21:04:03.563-03:00"
+  },
+  {
     "id": "shopee:341167297.56911561011",
     "titulo": "Kit 3 ou 2 Conjuntos Minimalista Regatas Bebê Menino Neném Baby Básica Lisa Camiseta Masculino Verão Roupa em Algodão",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mp0ttzdpj01x49",
@@ -1908,15 +1918,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/40i5ZkcMTq",
     "atualizado_em": "2026-11-14T09:06:18.007-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB46557712",
-    "titulo": "Trocador Dobrável para Bebê INICO com Proteção Lateral Porta-Fraldas Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765902-MLA99386188350_112025-F.jpg",
-    "preco": 849.4,
-    "preco_anterior": 1999,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/14K4gma",
-    "atualizado_em": "2026-11-14T08:58:11.283-03:00"
   }
 ]
