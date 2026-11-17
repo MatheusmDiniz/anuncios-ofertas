@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52899518",
+    "titulo": "Berço Cosco Kids, Cozzy, Rosa Pastel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_633860-MLA99477493138_112025-F.jpg",
+    "preco": 286.39,
+    "preco_anterior": 599,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1d8W4pk",
+    "atualizado_em": "2026-11-17T09:33:31.827-03:00"
+  },
+  {
     "id": "shopee:1738142353.58258050868",
     "titulo": "24 Pulseiras(6 conjuntos) Para Criança Infantil Frutas Doces Coloridos",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-meubphwtntvk3b",
@@ -1168,15 +1178,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2BGTqAj9DB",
     "atualizado_em": "2026-11-15T21:36:26.133-03:00"
-  },
-  {
-    "id": "shopee:1388877641.22598550666",
-    "titulo": "Bola Mágica Disco Voadora Infantil e Pet Maluca Com Led Super Pulo Brinquedo Ar Livre 2 em 1",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mtfnuah47pc152",
-    "preco": 29.9,
-    "preco_anterior": 49.02,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8AXcwidDAR",
-    "atualizado_em": "2026-11-15T21:28:20.256-03:00"
   }
 ]
