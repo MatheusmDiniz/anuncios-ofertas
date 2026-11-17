@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB19508448",
+    "titulo": "Cadeirinha Safety 1st, i-NXT, 0 a 36kg, com Giro 360° e Isofix, Grey Urban",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_937293-MLA99923232791_112025-F.jpg",
+    "preco": 1335.38,
+    "preco_anterior": 2299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1ciQfH4",
+    "atualizado_em": "2026-11-17T09:01:10.860-03:00"
+  },
+  {
     "id": "shopee:400477897.22093511144",
     "titulo": "Sutiã Amamentação Bojo Removível Reforçado Maternidade Soutien",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtxaasyuarl68",
@@ -1168,15 +1178,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2QSj5X3",
     "atualizado_em": "2026-11-15T21:04:03.563-03:00"
-  },
-  {
-    "id": "shopee:341167297.56911561011",
-    "titulo": "Kit 3 ou 2 Conjuntos Minimalista Regatas Bebê Menino Neném Baby Básica Lisa Camiseta Masculino Verão Roupa em Algodão",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mp0ttzdpj01x49",
-    "preco": 40.9,
-    "preco_anterior": 74.36,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8Kr6zYiIO7",
-    "atualizado_em": "2026-11-15T20:55:56.617-03:00"
   }
 ]
