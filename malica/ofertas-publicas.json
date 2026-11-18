@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB52878131",
+    "titulo": "Berço Cosco Kids, Cozzy, Azul Pastel",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978994-MLA99441337116_112025-F.jpg",
+    "preco": 229.9,
+    "preco_anterior": 599,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1bf8evX",
+    "atualizado_em": "2026-11-18T20:11:01.802-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB27344821",
     "titulo": "Cadeira de Refeição Portátil Cosco Kids, Smart, Cinza",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_652694-MLA96101740983_102025-F.jpg",
@@ -408,15 +418,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Jw4v7e",
     "atualizado_em": "2026-11-17T08:12:38.644-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23541950",
-    "titulo": "Mochila de Maternidade Lequeen Rosa com Bolsos Térmicos e Porta Mamadeira",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_746116-MLA114621539001_072026-F.jpg",
-    "preco": 185.43,
-    "preco_anterior": 419,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1zQVHiL",
-    "atualizado_em": "2026-11-17T08:04:32.063-03:00"
   }
 ]
