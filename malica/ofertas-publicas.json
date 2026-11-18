@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23986424",
+    "titulo": "Colchão Baby Light D18 (70x130x12) - Ortobom",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765058-MLA99929373835_112025-F.jpg",
+    "preco": 274.9,
+    "preco_anterior": 499.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2jB5tLJ",
+    "atualizado_em": "2026-11-18T20:19:15.572-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB52878131",
     "titulo": "Berço Cosco Kids, Cozzy, Azul Pastel",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_978994-MLA99441337116_112025-F.jpg",
