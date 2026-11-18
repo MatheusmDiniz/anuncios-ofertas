@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB74536230",
+    "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
+    "preco": 393,
+    "preco_anterior": 999.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1fbK3b7",
+    "atualizado_em": "2026-11-18T20:43:50.836-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB23797606",
     "titulo": "Canguru Safety 1st, Freedom, Grey",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_657447-MLA93090104350_092025-F.jpg",
@@ -408,15 +418,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2PNCHRK",
     "atualizado_em": "2026-11-17T08:45:00.353-03:00"
-  },
-  {
-    "id": "shopee:983839166.42635325033",
-    "titulo": "Kit 4 peças Body Regata e Short Menina Menino P ao G",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ld-mujcl1q8ia6bdd",
-    "preco": 25.98,
-    "preco_anterior": 41.9,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/5Au4YkQiAe",
-    "atualizado_em": "2026-11-17T08:36:53.232-03:00"
   }
 ]
