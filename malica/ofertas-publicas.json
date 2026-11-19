@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB17336057",
+    "titulo": "Fraldas Pampers Recém-Nascido Tamanho RN+ 36 unidades",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801474-MLA118091205682_102026-F.jpg",
+    "preco": 104.3,
+    "preco_anterior": 175,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/17nYY9R",
+    "atualizado_em": "2026-11-18T21:57:38.960-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB68758797",
     "titulo": "Boné 9twenty Strapback Mlb New York Aba Curva Cor Preto/preto Tamanho Un",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_689200-MLA110092972834_042026-F.jpg",
@@ -408,15 +418,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAIni5PjOs",
     "atualizado_em": "2026-11-17T09:57:49.028-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB57083030",
-    "titulo": "Triciclo Infantil Rosa Maral 2 em 1 Passeio e Pedal com Buzina",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_726344-MLA119248460566_112026-F.jpg",
-    "preco": 292,
-    "preco_anterior": 546.77,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/11FQymK",
-    "atualizado_em": "2026-11-17T09:49:44.705-03:00"
   }
 ]
