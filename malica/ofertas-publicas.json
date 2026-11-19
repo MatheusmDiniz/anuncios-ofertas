@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB61271206",
+    "titulo": "LEGO Speed Champions Máquina do Tempo de Volta para o Futuro 77256; Conjunto de construção inspirado no clássico carro da trilogia; Para construir e colecionar; Presente de Natal para fãs; 9+",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904710-MLA121758884529_112026-F.jpg",
+    "preco": 290.26,
+    "preco_anterior": 692.91,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2qTZmjN",
+    "atualizado_em": "2026-11-18T21:16:41.722-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39456030",
     "titulo": "Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_957293-MLA99458185276_112025-F.jpg",
@@ -408,15 +418,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/906ourO0tA",
     "atualizado_em": "2026-11-17T09:17:21.272-03:00"
-  },
-  {
-    "id": "shopee:1611752043.22499163425",
-    "titulo": "Papete Infantil Bluey Divertido – Sandália Babuche Meninos Confortável, Antiderrapante, Leve e Ideal para Brincadeiras",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgl16cph4ao0a0",
-    "preco": 21.9,
-    "preco_anterior": 39.82,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/9AQCT2BtVp",
-    "atualizado_em": "2026-11-17T09:09:16.214-03:00"
   }
 ]
