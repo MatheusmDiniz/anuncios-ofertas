@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB56346051",
+    "titulo": "Boné New Era Aba Curva 940 Ny Yankees Preto Forma Grande Tamanho Un",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_913242-MLA99932317981_112025-F.jpg",
+    "preco": 144,
+    "preco_anterior": 249.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1QZ7T8S",
+    "atualizado_em": "2026-11-18T21:00:24.365-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB39369748",
     "titulo": "Bicicleta de Equilíbrio Buba Verde 4 Rodas",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_639164-MLA99991020071_112025-F.jpg",
@@ -408,15 +418,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1ciQfH4",
     "atualizado_em": "2026-11-17T09:01:10.860-03:00"
-  },
-  {
-    "id": "shopee:400477897.22093511144",
-    "titulo": "Sutiã Amamentação Bojo Removível Reforçado Maternidade Soutien",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtxaasyuarl68",
-    "preco": 29.99,
-    "preco_anterior": 51.71,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/2LZwNa0i87",
-    "atualizado_em": "2026-11-17T08:53:04.533-03:00"
   }
 ]
