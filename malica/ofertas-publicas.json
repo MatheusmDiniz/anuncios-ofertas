@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB24208936",
+    "titulo": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+    "preco": 30.1,
+    "preco_anterior": 62.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2q4b5HH",
+    "atualizado_em": "2026-11-19T11:53:59.629-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24209945",
     "titulo": "Pote Térmico Infantil Buba Animal Leão 320ml Com Talher",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_980094-MLA99551613926_122025-F.jpg",
