@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB68032214",
+    "titulo": "Brinquedo Cubo Didático Madeira Montessori Infantil 5 Em 1 Atacarejo Kids",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_743529-MLA116992831764_102026-F.jpg",
+    "preco": 106.21,
+    "preco_anterior": 206.9,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1g7rmvM",
+    "atualizado_em": "2026-11-18T21:41:15.916-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB25687130",
     "titulo": "Xilofone Para Bebês Fisher-price A Partir 18 Meses",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_641893-MLA99479880902_112025-F.jpg",
@@ -408,15 +418,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5q9oY6yENw",
     "atualizado_em": "2026-11-17T09:41:36.478-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52899518",
-    "titulo": "Berço Cosco Kids, Cozzy, Rosa Pastel",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_633860-MLA99477493138_112025-F.jpg",
-    "preco": 286.39,
-    "preco_anterior": 599,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1d8W4pk",
-    "atualizado_em": "2026-11-17T09:33:31.827-03:00"
   }
 ]
