@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1892677186.44867705591",
+    "titulo": "Lucky baby Conjunto Gola Polo Bebê Menino Jacquard Elegante Para Batizado e Casamento Verão 1 a 3 Anos",
+    "imagem": "https://cf.shopee.com.br/file/cn-11134207-820l4-mts18u90hekhe0",
+    "preco": 25.03,
+    "preco_anterior": 131.74,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/5fqRXRpMbV",
+    "atualizado_em": "2026-11-20T08:57:49.310-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB40568491",
     "titulo": "Bicicleta De Equilibrio Sem Pedal Infantil Bebês Vermelha Cor Verde",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_777553-MLA99967101129_112025-F.jpg",
@@ -1148,15 +1158,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1QZ7T8S",
     "atualizado_em": "2026-11-18T21:00:24.365-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB39369748",
-    "titulo": "Bicicleta de Equilíbrio Buba Verde 4 Rodas",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_639164-MLA99991020071_112025-F.jpg",
-    "preco": 118,
-    "preco_anterior": 346.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1zp1qGc",
-    "atualizado_em": "2026-11-18T20:52:08.617-03:00"
   }
 ]
