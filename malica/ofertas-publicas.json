@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:351043069.58204601279",
+    "titulo": "Saída maternidade kit | Robe + Camisola Luxo + Rosquinha de amamentação",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mn98fm8mjke9d1",
+    "preco": 69.9,
+    "preco_anterior": 155.33,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/80EN0cOjH5",
+    "atualizado_em": "2026-11-20T10:02:42.618-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB72143098",
     "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
@@ -1148,15 +1158,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Mj4N3x",
     "atualizado_em": "2026-11-19T08:03:09.082-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB17336057",
-    "titulo": "Fraldas Pampers Recém-Nascido Tamanho RN+ 36 unidades",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801474-MLA118091205682_102026-F.jpg",
-    "preco": 104.3,
-    "preco_anterior": 175,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/17nYY9R",
-    "atualizado_em": "2026-11-18T21:57:38.960-03:00"
   }
 ]
