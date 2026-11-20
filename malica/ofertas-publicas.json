@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1203507772.46158837765",
+    "titulo": "2 Macacões Bebê Menina Abelhinha/Cerejinha Vira Pé Quentinho com Zíper 100% Algodão RN ao GG",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820me-mn1njp8wbvggcd",
+    "preco": 47.42,
+    "preco_anterior": 80.37,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/20x9FyU1cf",
+    "atualizado_em": "2026-11-20T08:41:38.943-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB60363392",
     "titulo": "Carrinho De Passeio Bebê Alça Reversível Fechamento Compacto Bandeja Removível 0-15kg YouTurn Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_716358-MLA121287469305_112026-F.jpg",
@@ -1148,15 +1158,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1fbK3b7",
     "atualizado_em": "2026-11-18T20:43:50.836-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23797606",
-    "titulo": "Canguru Safety 1st, Freedom, Grey",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_657447-MLA93090104350_092025-F.jpg",
-    "preco": 214.36,
-    "preco_anterior": 399,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qQM4WG",
-    "atualizado_em": "2026-11-18T20:35:34.448-03:00"
   }
 ]
