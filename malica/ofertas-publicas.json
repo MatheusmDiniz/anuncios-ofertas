@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB72143098",
+    "titulo": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855342-MLA112575977672_062026-F.jpg",
+    "preco": 393.82,
+    "preco_anterior": 1299,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Jw4v7e",
+    "atualizado_em": "2026-11-20T09:54:37.933-03:00"
+  },
+  {
     "id": "shopee:1782683148.58261565925",
     "titulo": "Kit 2 Pares Sandália Infantil Papete Menina Casual Leve Lançamento",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mosh25xiujgg80",
@@ -1148,15 +1158,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/17nYY9R",
     "atualizado_em": "2026-11-18T21:57:38.960-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68758797",
-    "titulo": "Boné 9twenty Strapback Mlb New York Aba Curva Cor Preto/preto Tamanho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_689200-MLA110092972834_042026-F.jpg",
-    "preco": 117.99,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Z6k1rJ",
-    "atualizado_em": "2026-11-18T21:49:30.332-03:00"
   }
 ]
