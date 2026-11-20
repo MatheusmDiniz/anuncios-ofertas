@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB40908664",
+    "titulo": "Copo De Treinamento Buba Com Alça E Bico Em Silicone Verde Verde-claro Liso",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847837-MLA100093951807_122025-F.jpg",
+    "preco": 43.77,
+    "preco_anterior": 78.77,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1w1GzPb",
+    "atualizado_em": "2026-11-20T08:25:28.656-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB28001568",
     "titulo": "Andador Infantil Musical Para Bebê Empurrador Compacto 3 Ajustes de Altura La Bamba Maxi Baby - azul",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_867600-MLA99504966812_112025-F.jpg",
@@ -1148,15 +1158,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2f6icsm",
     "atualizado_em": "2026-11-18T20:27:25.016-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23986424",
-    "titulo": "Colchão Baby Light D18 (70x130x12) - Ortobom",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_765058-MLA99929373835_112025-F.jpg",
-    "preco": 274.9,
-    "preco_anterior": 499.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2jB5tLJ",
-    "atualizado_em": "2026-11-18T20:19:15.572-03:00"
   }
 ]
