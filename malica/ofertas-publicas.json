@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1286527047.58216459473",
+    "titulo": "babuche infantil personalizado confortável e antiderrapante mascara saltando",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259e-ms1r6g3zsw01b6",
+    "preco": 19,
+    "preco_anterior": 79.17,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/AUvhzOO2Lg",
+    "atualizado_em": "2026-11-20T20:56:37.461-03:00"
+  },
+  {
     "id": "shopee:406945148.28995110934",
     "titulo": "Jogo De Talheres 25 Peças Aço Inox Completo Com Suporte",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpwf5s4lsfsya4",
@@ -1868,15 +1878,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/6VPYX7j2PA",
     "atualizado_em": "2026-11-19T09:01:09.266-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24215255",
-    "titulo": "Triciclo Motoca Kemotoca Kendy Baby Dog Suporta 16kg Com Empurrador Cor Rojo y Azul",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_811964-MLA99983144335_112025-F.jpg",
-    "preco": 169.89,
-    "preco_anterior": 335.17,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1iNRgZw",
-    "atualizado_em": "2026-11-19T08:52:43.303-03:00"
   }
 ]
