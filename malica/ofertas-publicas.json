@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:341167297.56558308482",
+    "titulo": "Conjunto Moletom Bebê Menino Baby Blusa e Calça Manga Longa Roupa de Frio Inverno Masculino Agasalho com Estampado L16",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lo-mmqi282ktpty45",
+    "preco": 29.9,
+    "preco_anterior": 59.8,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/3LSWlDWZn9",
+    "atualizado_em": "2026-11-20T20:15:50.473-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB18342620",
     "titulo": "Sabonete Barra Phebo Cremoso Limão Siciliano 100g Limpeza e Hidratação",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_904722-MLA99931619101_112025-F.jpg",
@@ -1868,15 +1878,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1giCtBE",
     "atualizado_em": "2026-11-19T08:19:35.093-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB67741951",
-    "titulo": "Cercadinho Grande Para Bebe Infantil Vário Tamanho Acessório 127×127cm Cinza",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_821539-MLA110242313195_042026-F.jpg",
-    "preco": 183,
-    "preco_anterior": 338.88,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2hcwfVV",
-    "atualizado_em": "2026-11-19T08:11:20.484-03:00"
   }
 ]
