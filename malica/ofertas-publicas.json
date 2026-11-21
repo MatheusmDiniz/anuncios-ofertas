@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB44408859",
+    "titulo": "Carrinho de Bebê Safety 1st, Spark Splus, 0 meses a 22 kg, Black Graphite",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642821-MLA100025575483_122025-F.jpg",
+    "preco": 848.9,
+    "preco_anterior": 1499,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1Lc3LEr",
+    "atualizado_em": "2026-11-21T08:17:09.351-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB35340738",
     "titulo": "Cadeira De Descanso Bebê Musical Vibratória Reclinável Modo Balanço Até 18kg Azul FunTime Maxi Baby",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_787438-MLA119253165422_112026-F.jpg",
@@ -1138,15 +1148,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/3VlxeVFPSp",
     "atualizado_em": "2026-11-19T20:19:32.473-03:00"
-  },
-  {
-    "id": "shopee:1029332071.22998210561",
-    "titulo": "Body Vestido Suede Canelado Charme Conforto Praticidade Roupa de bebe",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6dbfbubn3v445",
-    "preco": 28.9,
-    "preco_anterior": 43.13,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/3VlxeUXPeI",
-    "atualizado_em": "2026-11-19T20:11:25.538-03:00"
   }
 ]
