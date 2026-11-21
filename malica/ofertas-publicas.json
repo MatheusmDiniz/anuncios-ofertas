@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:910649627.58209107286",
+    "titulo": "Kit 6 Saquinhos Maternidade com Zíper e Tag – Organizador Roupas Bebê e Mamãe 33 x 27 cm",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mse91ccm7oxx64",
+    "preco": 14.99,
+    "preco_anterior": 24.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2La1fiaoNJ",
+    "atualizado_em": "2026-11-21T09:14:29.667-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB75226529",
     "titulo": "Cadeira de Refeição Poke Marfim - Burigotto",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_867134-MLA113075478264_072026-F.jpg",
@@ -1138,15 +1148,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2QNni1c",
     "atualizado_em": "2026-11-19T21:17:36.912-03:00"
-  },
-  {
-    "id": "shopee:528273775.13808981321",
-    "titulo": "Sabonete Líquido Johnson's Recém Nascido 200ml",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ab-mtu8lhjjopvm56",
-    "preco": 26.81,
-    "preco_anterior": 40.62,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/30ph96p60h",
-    "atualizado_em": "2026-11-19T21:09:29.204-03:00"
   }
 ]
