@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB45976810",
+    "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
+    "preco": 183,
+    "preco_anterior": 329,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2mSymX6",
+    "atualizado_em": "2026-11-22T20:55:45.752-03:00"
+  },
+  {
     "id": "shopee:667265954.23497318189",
     "titulo": "Kit 6 Peças Bebe Conjunto Meia Estação Confortável Body e Mijao Menino Menina 3 Body e 3 Mijao",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lu7y4jihaov9d2",
@@ -1898,15 +1908,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/5q9uvovXGO",
     "atualizado_em": "2026-11-21T08:58:02.232-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB52486221",
-    "titulo": "Bomba Tira Leite Materno Compact Charge Autómatica G-tech",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_888785-MLA99981333287_112025-F.jpg",
-    "preco": 155,
-    "preco_anterior": 299,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2tMg758",
-    "atualizado_em": "2026-11-21T08:49:50.898-03:00"
   }
 ]
