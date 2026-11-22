@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB27344821",
+    "titulo": "Cadeira de Refeição Portátil Cosco Kids, Smart, Cinza",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652694-MLA96101740983_102025-F.jpg",
+    "preco": 111.62,
+    "preco_anterior": 209,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ee6cG7",
+    "atualizado_em": "2026-11-22T08:31:49.171-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB24233595",
     "titulo": "Bolsa Mochila Maternidade Lequeen Tradicional Multifuncional ReforçAda Azul Marinho Bolsa Maternidade Para Menino E Menina Kit Bolsa Maternidade Luxo Azul Marinho Bolsa Maternidade Grande 17L",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_971014-MLA115365063083_072026-F.jpg",
@@ -1158,15 +1168,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qWGAIYTo6",
     "atualizado_em": "2026-11-20T20:32:08.729-03:00"
-  },
-  {
-    "id": "shopee:1448165825.45112524964",
-    "titulo": "Kit 8 Peças Bebê Suedine Canelado 100% Algodão 4 Conjuntos Body Manga Longa Calça Mijão RN P M G Enxoval",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j3-mpnsaarmhxxn7e",
-    "preco": 76.04,
-    "preco_anterior": 108.63,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/30pgMbXqT7",
-    "atualizado_em": "2026-11-20T20:23:58.361-03:00"
   }
 ]
