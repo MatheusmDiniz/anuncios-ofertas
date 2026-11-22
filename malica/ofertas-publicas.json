@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB26070781",
+    "titulo": "Cadeira de Carro Infantil All Stages 2.0 Isofix Preto Litet",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_836450-MLA100062682691_122025-F.jpg",
+    "preco": 687,
+    "preco_anterior": 1199,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2Bm71dL",
+    "atualizado_em": "2026-11-22T08:56:11.248-03:00"
+  },
+  {
     "id": "shopee:1451384210.54957029592",
     "titulo": "Kit 5 Pecas Body Bebe Manga Curta Algodao Variacoes Malha Suedine",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mlnwkqdbl9tx0d",
@@ -1158,15 +1168,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AUvhzOO2Lg",
     "atualizado_em": "2026-11-20T20:56:37.461-03:00"
-  },
-  {
-    "id": "shopee:406945148.28995110934",
-    "titulo": "Jogo De Talheres 25 Peças Aço Inox Completo Com Suporte",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mpwf5s4lsfsya4",
-    "preco": 25.78,
-    "preco_anterior": 37.91,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/8pnVipOSp7",
-    "atualizado_em": "2026-11-20T20:48:27.447-03:00"
   }
 ]
