@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB51050666",
+    "titulo": "Kit Sabonetes Phebo Vinho 8 Unidades 90g",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_649645-MLA115530143999_082026-F.jpg",
+    "preco": 126,
+    "preco_anterior": 252,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2NivFLR",
+    "atualizado_em": "2026-11-23T09:24:18.737-03:00"
+  },
+  {
     "id": "shopee:367548270.22497999796",
     "titulo": "Kit com 3 short infantil canelado menina verão modelo leve curto ENVIO DE CORES SORTIDAS",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m1vh6bg6rthk0f",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AUvlM99LDt",
     "atualizado_em": "2026-11-21T21:29:55.574-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB74536230",
-    "titulo": "Berço Infantil Multifuncional 100% Espuma Com Proteção Lateral Acompanha Colchão Tecido Suede Modelo Lyra",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804313-MLA113729798067_062026-F.jpg",
-    "preco": 393,
-    "preco_anterior": 999.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/1fbK3b7",
-    "atualizado_em": "2026-11-21T21:21:50.294-03:00"
   }
 ]
