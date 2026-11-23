@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB79384751",
+    "titulo": "Grade De Cama Box Ajustável Segurança Bebê Criança Proteção Cinza 1.8 Meters",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_989207-MLA116243771660_092026-F.jpg",
+    "preco": 135.99,
+    "preco_anterior": 237.38,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1EGce2P",
+    "atualizado_em": "2026-11-23T08:10:08.854-03:00"
+  },
+  {
     "id": "shopee:1402410918.58255602724",
     "titulo": "KIT HORTS TAPA FRALDA PARA Bebê  ESTAMPADO 100% ALGODÃO  BARATO MENINA EXOVAL DIA DIA PRAIA VERÂOl",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lg-mrkzg190h3id4c",
@@ -1148,15 +1158,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2VSyoqt",
     "atualizado_em": "2026-11-21T20:16:22.609-03:00"
-  },
-  {
-    "id": "shopee:1457183329.22399794620",
-    "titulo": "Casaquinho Infantil Menina Tricot Losango Botões Babado",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mtoyh7d070u8e7",
-    "preco": 43.9,
-    "preco_anterior": 89.59,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/4VeY7RFugX",
-    "atualizado_em": "2026-11-21T20:08:15.731-03:00"
   }
 ]
