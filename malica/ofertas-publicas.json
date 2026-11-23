@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB77311384",
+    "titulo": "Mochila Maternidade NTESX com Trocador e Porta Mamadeira Térmico, À Prova D'Água, Branca",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_725312-MLA116528743636_092026-F.jpg",
+    "preco": 104,
+    "preco_anterior": 251.55,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/1v9KHZm",
+    "atualizado_em": "2026-11-23T09:57:08.283-03:00"
+  },
+  {
     "id": "shopee:742632398.58208591792",
     "titulo": "Kit 10 Unidades Calça Bebê Mijão sem Pé Cores Lisas 100% Algodão.",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lh-mssbdd3adon934",
@@ -1148,15 +1158,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2Z6k1rJ",
     "atualizado_em": "2026-11-22T08:07:20.627-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB28661984",
-    "titulo": "Grade de Porta Safety 1st, Stop Gate, Black",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924438-MLA93858746264_102025-F.jpg",
-    "preco": 205.81,
-    "preco_anterior": 399,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2f6icsm",
-    "atualizado_em": "2026-11-21T21:54:28.428-03:00"
   }
 ]
