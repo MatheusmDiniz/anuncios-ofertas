@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB62692699",
+    "titulo": "Triciclo Totokinha Sport Rosa Cardoso Toys com Buzina e Porta-Objetos",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613494-MLA99989589965_112025-F.jpg",
+    "preco": 107.45,
+    "preco_anterior": 198.99,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2GsrEvD",
+    "atualizado_em": "2026-11-23T09:40:53.045-03:00"
+  },
+  {
     "id": "shopee:834483946.28913493255",
     "titulo": "DIY Bloco De Construção De Natal Boneco De Neve Elk Papai Noel Modelo Micro Tijolo Árvore Decoração Crianças Brinquedo Presente",
     "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdw5-m13xxmtujkr2bd",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/2qWIGJyRr9",
     "atualizado_em": "2026-11-21T21:46:20.450-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB23797606",
-    "titulo": "Canguru Safety 1st, Freedom, Grey",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_657447-MLA93090104350_092025-F.jpg",
-    "preco": 214.36,
-    "preco_anterior": 399,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2qQM4WG",
-    "atualizado_em": "2026-11-21T21:38:10.981-03:00"
   }
 ]
