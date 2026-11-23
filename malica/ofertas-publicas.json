@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB16091842",
+    "titulo": "Assento infantil para carro Protege mesclado cinza Burigotto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711975-MLA99993569439_112025-F.jpg",
+    "preco": 125.36,
+    "preco_anterior": 250,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/2ZqdnYS",
+    "atualizado_em": "2026-11-23T08:26:41.798-03:00"
+  },
+  {
     "id": "mercadolivre:product:MLB37709215",
     "titulo": "Berço Cama Com Colchão Infantil Probel E Grade De Proteção Removível Branco Amadeirado Para Quarto De Bebê Menino Ou Menina Life",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_654719-MLA111154676854_052026-F.jpg",
@@ -1148,15 +1158,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/9fMcV5X2i4",
     "atualizado_em": "2026-11-21T20:32:49.706-03:00"
-  },
-  {
-    "id": "shopee:822890381.18133984182",
-    "titulo": "Casaquinhos Para Bebê Meia Estação em 100% Algodão | Diversas Opções de Cores.",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-mmknpv8o6h3a36",
-    "preco": 14.9,
-    "preco_anterior": 29.8,
-    "loja": "Shopee",
-    "link": "https://s.shopee.com.br/50aoiPLFo8",
-    "atualizado_em": "2026-11-21T20:24:30.323-03:00"
   }
 ]
