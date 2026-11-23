@@ -1,5 +1,15 @@
 [
   {
+    "id": "mercadolivre:product:MLB23882611",
+    "titulo": "Cosco Kids, Canguru Loop, Preto",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_735787-MLA99937613629_112025-F.jpg",
+    "preco": 99.9,
+    "preco_anterior": 189,
+    "loja": "Mercado Livre",
+    "link": "https://meli.la/16MjXEk",
+    "atualizado_em": "2026-11-23T13:54:52.523-03:00"
+  },
+  {
     "id": "shopee:1721810104.58264915391",
     "titulo": "Saco para Armazenar Leite Materno 250ml com Dupla Vedação para Congelar e Organizar Porções KODI",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lu-muabt8ftlnnmc2",
