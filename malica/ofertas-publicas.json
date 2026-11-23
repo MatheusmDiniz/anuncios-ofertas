@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1146454576.58270034883",
+    "titulo": "Conjunto Country body Manga Curta E Calça Bebê Com Sapatinho",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bc-mu2bbs52z66afc",
+    "preco": 38.7,
+    "preco_anterior": 56.91,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/2BGeBIu0L1",
+    "atualizado_em": "2026-11-23T20:11:05.794-03:00"
+  },
+  {
     "id": "shopee:1557488078.58260572503",
     "titulo": "Kit Saída Maternidade 3 Peças Luxo Tricô Menino Menina Recém Nascido Macacão Luva Touca Tricot",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mus4ay0f6yo1cd",
@@ -1888,15 +1898,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/1iMmyCw",
     "atualizado_em": "2026-11-22T08:15:33.183-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB68758797",
-    "titulo": "Boné 9twenty Strapback Mlb New York Aba Curva Cor Preto/preto Tamanho Un",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_689200-MLA110092972834_042026-F.jpg",
-    "preco": 117.99,
-    "preco_anterior": 199.99,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2Z6k1rJ",
-    "atualizado_em": "2026-11-22T08:07:20.627-03:00"
   }
 ]
