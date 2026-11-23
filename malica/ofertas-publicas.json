@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1640865502.22694460173",
+    "titulo": "Kit 6 Peças Bebê Menina 3 Bodys Manga Longa + 3 Calças de Algodão",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mta2vdh53dhf85",
+    "preco": 59.99,
+    "preco_anterior": 99.98,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/114gz86hJ3",
+    "atualizado_em": "2026-11-23T20:27:23.512-03:00"
+  },
+  {
     "id": "shopee:515930508.58206192879",
     "titulo": "Body Bebê Mesversario Macacão Infantil RN Recém Nascido Conjunto Unisexx Envio Rápido",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mle28crsmz9gc8",
@@ -1888,15 +1898,5 @@
     "loja": "Mercado Livre",
     "link": "https://meli.la/2ee6cG7",
     "atualizado_em": "2026-11-22T08:31:49.171-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB24233595",
-    "titulo": "Bolsa Mochila Maternidade Lequeen Tradicional Multifuncional ReforçAda Azul Marinho Bolsa Maternidade Para Menino E Menina Kit Bolsa Maternidade Luxo Azul Marinho Bolsa Maternidade Grande 17L",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_971014-MLA115365063083_072026-F.jpg",
-    "preco": 170.99,
-    "preco_anterior": 298,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2c1V8L3",
-    "atualizado_em": "2026-11-22T08:23:38.557-03:00"
   }
 ]
