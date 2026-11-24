@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1231941451.23198395917",
+    "titulo": "Chinelos Infantil Desenho Personalizado Leve Macio Promoçao Xinela Infantil Feminina.",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mleyg64sg3yd58",
+    "preco": 11.99,
+    "preco_anterior": 19.34,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/4VeZFzr4Kj",
+    "atualizado_em": "2026-11-24T08:58:27.383-03:00"
+  },
+  {
     "id": "shopee:1339251691.23597977323",
     "titulo": "Multivitamínico para Gestante, Lactante e Pós-Parto | 60 Cápsulas 20 Nutrientes | Milk Mama",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcqmg1vlyz29ed",
@@ -1118,15 +1128,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/60TMwCqu1o",
     "atualizado_em": "2026-11-22T21:03:50.967-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB45976810",
-    "titulo": "Aquecedor Esterilizador De Mamadeira Papinha",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835005-MLA117413738153_092026-F.jpg",
-    "preco": 183,
-    "preco_anterior": 329,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2mSymX6",
-    "atualizado_em": "2026-11-22T20:55:45.752-03:00"
   }
 ]
