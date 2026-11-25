@@ -1,5 +1,15 @@
 [
   {
+    "id": "shopee:1304580988.29595068177",
+    "titulo": "Jaqueta Casaco infantil com bolso  Inverno Menina veludo cotele 4 ao 12",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mh-mvn2stw1s6bm75",
+    "preco": 45,
+    "preco_anterior": 150,
+    "loja": "Shopee",
+    "link": "https://s.shopee.com.br/1qdrWrasVw",
+    "atualizado_em": "2026-11-24T21:14:08.330-03:00"
+  },
+  {
     "id": "shopee:328687466.42978496587",
     "titulo": "Kit 6 Cuecas Boxer Infantil Polo Cotton 100% Algodão Forro Duplo Confortável",
     "imagem": "https://cf.shopee.com.br/file/br-11134207-81zuo-ml5ciwtfztomc0",
@@ -1828,15 +1838,5 @@
     "loja": "Shopee",
     "link": "https://s.shopee.com.br/AAIviDgmHT",
     "atualizado_em": "2026-11-23T09:15:59.126-03:00"
-  },
-  {
-    "id": "mercadolivre:product:MLB76445951",
-    "titulo": "Carrinho Passeio Com Bebê Conforto Travel System Moisés + Base Vaicular Trio Elysian Preto Maxi Baby",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_838384-MLA117645725589_092026-F.jpg",
-    "preco": 1126.99,
-    "preco_anterior": 1899.9,
-    "loja": "Mercado Livre",
-    "link": "https://meli.la/2dXZTec",
-    "atualizado_em": "2026-11-23T09:07:45.913-03:00"
   }
 ]
